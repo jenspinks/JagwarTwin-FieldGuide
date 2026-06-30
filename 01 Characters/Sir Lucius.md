@@ -49,7 +49,7 @@ When Roy handed the project's official Instagram over to Lucius in 2024, the ann
 
 There's an ethic buried in the contrast. Roy holds that *"the truth is a spectrum, but a lie is a lie"* — truth can be shaded and bent, but there's still a hard floor. Lucius's whole exploit is to weaponize the spectrum, deceiving without ever technically lying, while quietly dropping the floor Roy keeps.
 
-The literary template is on Roy's own bookshelf: C. S. Lewis's *The Screwtape Letters* — a senior devil coaching a junior tempter, the manipulation always dressed as counsel — is one of the books he features in his public Book Club. Lucius is that voice given a face: the advisor who is technically never wrong and never on your side.
+The literary template is on Roy's own bookshelf: C. S. Lewis's *The Screwtape Letters* — a senior devil coaching a junior tempter, the manipulation always dressed as counsel — is one of the books he features in his public Book Club. Lucius is that voice given a face: the advisor who is technically never wrong and never on your side. (The name's pop-culture cousin, Lucius Malfoy, is the weakest strand of all — a shared light-name, not a source; see [[Jagwar Twin and Harry Potter]].)
 
 ## He was seen, not born
 
@@ -74,7 +74,7 @@ The throat tattoo is grounded fact: **El Roi**, *"the God who sees me."* What ma
 
 ## Relationships
 
-- **[[Roy]]** — the center of everything. Roy is not the opposite of Lucius. *Roy is what Lucius was built to protect.* The whole tension of the project is mind serving heart versus mind replacing heart.
+- **[[Roy]]** — the center of everything. Roy is not the opposite of Lucius. *Roy is what Lucius was built to protect.* The whole tension of the project is mind serving heart versus mind replacing heart. The two read cleanly as [[Jacob and Esau]] — one origin split in the womb, one blessing divided between them, ending not in conquest but embrace.
 - **[[Mary]]** — the figure who appears when distortion can't fully contain what it holds. Where Lucius reflects, Mary doesn't; where Lucius needs an audience, Mary is the same in every context. Not his opposite so much as another way of relating to the same underlying drive.
 
 ## Symbols

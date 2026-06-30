@@ -57,6 +57,7 @@ The cards themselves — the template, the text, the sigils, the dates — are d
 - [[Source vs Reflection]] — the "change the concept of self" manifesto is the mirror doctrine.
 - [[Sir Lucius]] — the Devil "claiming the kingdom," on a card years before the name.
 - [[The Spectacle]] · [[Consumption]] · [[The Empty Mirror]] — *"NONE"* as the no-thing answer to *"what do you seek?"*
+- [[The Visual Canon Throughline]] — the cards read as one of three recurring devices proving the mythology was present years before it was named.
 
 ## Key songs
 

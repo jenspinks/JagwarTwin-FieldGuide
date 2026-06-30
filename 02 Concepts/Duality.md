@@ -68,6 +68,7 @@ The project leaves a genuine tension unresolved, and it's worth naming rather th
 
 - [[Roy]] — the heart-pole; the primary subject of the work.
 - [[Sir Lucius]] — the mind-pole; the split-off defensive structure.
+- [[Jacob and Esau]] — the scriptural-narrative instance of the root split: two in one womb, one blessing divided.
 - [[The Angels and the Angles|The Angle and the Angel]] — the consonant/vowel axis; duality in Roy's compositional language.
 - [[The Mirror]] — the physical and symbolic instrument of duality.
 - [[The Loop and the Circle]] · [[The Circus]] — same shape, two orientations; duality at structural scale.

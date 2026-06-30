@@ -35,3 +35,4 @@ In Greek theatre the mask is the *prosopon*, the actor's mask the character spea
 - [[The Mirror]] — the mask is what faces the mirror; the two are the same problem from opposite sides.
 - [[Fire]] — both belong to the Circus's machinery of spectacle.
 - [[The Rabbit]] — the clown-makeup rabbit; the mask at the moment it first appears in the dream.
+- [[The Visual Canon Throughline]] — the painted face and *"who are you without the mask?"* tracked across the videos, edge to center.
