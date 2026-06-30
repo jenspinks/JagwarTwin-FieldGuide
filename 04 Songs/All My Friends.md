@@ -35,7 +35,7 @@ Jenny compresses a transformation: embodiment (dance) exchanged for certainty (p
 ## Symbols
 
 - The clone — loneliness inside the crowd; the inverse of which is friends.
-- [[The Loop]] — *"can't stop spinning / I thought I was winning"* mistakes rotation for progress: spin without arrival, not the liberating [[The Circle]].
+- [[The Loop and the Circle|The Loop]] — *"can't stop spinning / I thought I was winning"* mistakes rotation for progress: spin without arrival, not the liberating [[The Circle]].
 
 ## Connected songs
 

@@ -35,7 +35,7 @@ So LOOP is Roy recognizing the machine while still emotionally caught in it. The
 
 ## Symbols
 
-- [[The Loop]] — the trapped recursion this song names: trauma pattern, algorithmic repetition, the Circus internalized; repetition without transformation.
+- [[The Loop and the Circle|The Loop]] — the trapped recursion this song names: trauma pattern, algorithmic repetition, the Circus internalized; repetition without transformation.
 - [[The Circle]] — the essential inverse: the liberating recursion, return to source, remembrance. The Circle is what's found when the Loop is broken.
 
 ## Connected songs

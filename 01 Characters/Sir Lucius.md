@@ -3,7 +3,7 @@ title: Sir Lucius
 type: character
 status: published
 confidence: mixed
-source: ["Brain/Characters/Sir Lucius.md", "Essays/Characters/Sir Lucius.md"]
+source: ["Brain/Characters/Sir Lucius.md", "Essays/Characters/Sir Lucius.md", "Sources/Quotes/Sir Lucius IG Post - One Hit Wonder.md", "Sources/Quotes/Sir Lucius IG Post - Keys to Instagram (truth deceiving).md", "Sources/Quotes/Roy IG Book Club (reading list).md"]
 ---
 # Sir Lucius
 
@@ -37,7 +37,7 @@ He is not reducible to manipulation, nor to shadow alone, nor to protection alon
 
 Lucius isn't consistent, and that inconsistency is the point — he's a constellation of context-dependent selves with no integrated center. Three modes recur:
 
-- **Speech mode (Power)** — cold, prophetic, invulnerable. This is "I'm the final boss" in [[Welcome to the Circus]], and the listening-party address that ends *"Get out of the way. You're welcome."*
+- **Speech mode (Power)** — cold, prophetic, invulnerable. This is "I'm the final boss" in [[Welcome to the Circus]], and the listening-party address that ends *"Get out of the way. You're welcome."* When Lucius took over the project's official Instagram he wrote in exactly this key — ranking the field by who's "cool" and dismissing the project as *"a one hit wonder… not even original,"* then signing off *"Find something more interesting to do with your little life… sorry. Someone had to say it. Your loyal servant, Sir Lucius."* The cruelty wears the costume of plain honesty, and signs itself *servant.*
 - **Sidekick mode (Leif)** — goofy, comic, a foil who reports to an unseen "Boss." The comedy is structural, not incidental: without an audience to play off, Lucius doesn't cohere. *No audience, no Lucius.*
 - **Pleading mode (Roy)** — childlike, dependent, emotionally real. This is *"I'm your weirdness."* It's the layer the other two modes exist to defend.
 
@@ -45,9 +45,11 @@ The cleanest way to hold it: **Lucius is a reactive system built to avoid a core
 
 ## The truth that deceives — and the green apple
 
-When Roy handed the official @jagwartwin account over to Lucius in 2024, the post carried a warning: *"while Sir Lucius only tells the truth, the truth can be deceiving 🍏."* That green apple is his mark, and it decodes cleanly: **knowledge taken before it's earned** — intelligence divorced from spirit, power reached before maturity, fruit picked unripe. It's the Genesis-3 apple: the mind grasping for what it hasn't grown into. No wonder, as Roy notes, Lucius is always holding one.
+When Roy handed the project's official Instagram over to Lucius in 2024, the announcement showed him in full Lucius costume — knight's armor, white face paint, black X's tattooed under the eyes, a finger pressed to his lips in a shush — and carried a warning: *"while Sir Lucius only tells the truth, the truth can be deceiving 🍏."* That green apple is his mark, and it decodes cleanly: **knowledge taken before it's earned** — intelligence divorced from spirit, power reached before maturity, fruit picked unripe. It's the Genesis-3 apple: the mind grasping for what it hasn't grown into. No wonder, as Roy notes, Lucius is always holding one.
 
 There's an ethic buried in the contrast. Roy holds that *"the truth is a spectrum, but a lie is a lie"* — truth can be shaded and bent, but there's still a hard floor. Lucius's whole exploit is to weaponize the spectrum, deceiving without ever technically lying, while quietly dropping the floor Roy keeps.
+
+The literary template is on Roy's own bookshelf: C. S. Lewis's *The Screwtape Letters* — a senior devil coaching a junior tempter, the manipulation always dressed as counsel — is one of the books he features in his public Book Club. Lucius is that voice given a face: the advisor who is technically never wrong and never on your side.
 
 ## He was seen, not born
 

@@ -55,7 +55,7 @@ Then life fused with the fiction. As the single actually broke out, Roy conceded
 - [[Bad Feeling (Oompa Loompa)]] — the bad feeling about this exact dynamic, two tracks later.
 - [[Moths to the Flame]] — Lucius's spoken material at the album's listening party prefigures this next track.
 - [[#1 Champion (la Conquistadora)]] — the champion archetype the album later unseats.
-- [[Good Time]] — three years earlier, the same face paint and the self-designation *"I'm a mastermind,"* the direct precursor to *"I'm the final boss."*
+- [[Good Time (1-08)|Good Time]] — three years earlier, the same face paint and the self-designation *"I'm a mastermind,"* the direct precursor to *"I'm the final boss."*
 
 ## Notes
 

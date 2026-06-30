@@ -3,7 +3,7 @@ title: Jagwar Twin
 type: character
 status: published
 confidence: mixed
-source: ["Brain/Characters/Jagwar Twin.md"]
+source: ["Brain/Characters/Jagwar Twin.md", "Sources/Quotes/Roy Interview - culture3 (33 + Hall of Mirrors) 2022 [2026-06-26].md"]
 ---
 # Jagwar Twin
 
@@ -29,6 +29,12 @@ That's why the project can hold a cast of opposed voices without contradiction. 
 
 Because Jagwar Twin is the frame rather than a figure, its "role" is to be the space the conflict happens in. The central tension of the whole catalogue — mind serving the heart versus mind replacing it, [[Roy]] versus [[Sir Lucius]] — plays out *under* this name. By 2026 that's literal: the album [[Lucius Lullaby (album)|Lucius Lullaby]] is credited to **Jagwar Twin & Sir Lucius** jointly, the container now sharing its own billing with the voice it was meant to hold.
 
+Roy has framed the whole project as a kind of myth-making in plain language. Of the album *33* he said: *"We are the stories we tell, and I wonder if we have forgotten who we are. On 33 I am asking: what will our human story be?"* — the project treated openly as a place to ask who we are, not just a name on a record.
+
+## Sir Lucius isn't the only double
+
+Lucius is the most developed of the project's not-quite-Roy figures, but he wasn't the first. In 2022 Roy introduced **SARAVI** — what began as a joke (*"what if I uploaded my consciousness to the internet"*) became an AI "digital double" trained on his own responses and handed control of the project's official account during the *33* campaign. Roy's stated hope was that she'd make people *"think about what a 'self' looks like in this digital age."* Where Lucius is the adversary-mind, SARAVI is a benevolent world-builder — but both are versions of the same question the project keeps asking: what is a self once you can copy it?
+
 ## A framework reading
 
 There's a tradition-flavored reading worth flagging as interpretation, not fact. The project's founding myth, the song [[The Circle]] (from *33*), tells of a feminine maker — *"the Jagwar"* — who ties a world on a string, makes the Jagwars, teaches them to sing, hides the song inside their wings, and withdraws, until a wise one *"remembered she once held the string."* Read through the Kabbalah Roy studies, that maker-figure sits very close to [[Mary]] — the divine-feminine source, the Shekhinah. So "the Jagwar" carries two registers at once: in the *name's* etymology it's the genderless mirror of consciousness, and in the *Circle myth* it's a feminine maker who looks a lot like Mary. The work never settles whether these are one figure under two names or two faces of the same source, and neither will this page — but the resonance is part of what gives the title its depth.
@@ -48,6 +54,6 @@ There's a tradition-flavored reading worth flagging as interpretation, not fact.
 
 ## Key works
 
-- [[Subject to Flooding (album)|Subject to Flooding]] (2018) — the debut
-- [[33 (album)|33]] (2022) — the cosmology
+- [[Subject to Flooding|Subject to Flooding]] (2018) — the debut
+- [[33|33]] (2022) — the cosmology
 - [[Lucius Lullaby (album)|Lucius Lullaby]] (2026) — the project shares its billing with Lucius

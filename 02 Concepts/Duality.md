@@ -50,7 +50,7 @@ The same split recurs at every scale of the project:
 | Register | Pair | Notes |
 |---|---|---|
 | Biographical | Roy English / Jagwar Twin | the name change as intentional self-transformation |
-| Compositional | consonants / vowels | angles (structure) and angels (breath) — see [[The Angle and the Angel]] |
+| Compositional | consonants / vowels | angles (structure) and angels (breath) — see [[The Angels and the Angles|The Angle and the Angel]] |
 | Character | Roy / Lucius | heart and mind, co-credited as equal authors on the album |
 | Visual | mirrored tattoos | ROSE / ESOR, the Empty Mirror — bilateral symmetry as lived practice |
 | Structural | the Circle / the Circus | same shape, opposite orientation and outcome |
@@ -68,7 +68,7 @@ The project leaves a genuine tension unresolved, and it's worth naming rather th
 
 - [[Roy]] — the heart-pole; the primary subject of the work.
 - [[Sir Lucius]] — the mind-pole; the split-off defensive structure.
-- [[The Angle and the Angel]] — the consonant/vowel axis; duality in Roy's compositional language.
+- [[The Angels and the Angles|The Angle and the Angel]] — the consonant/vowel axis; duality in Roy's compositional language.
 - [[The Mirror]] — the physical and symbolic instrument of duality.
 - [[The Loop and the Circle]] · [[The Circus]] — same shape, two orientations; duality at structural scale.
 - [[Inversion]] — the move that keeps the form and reverses its direction.

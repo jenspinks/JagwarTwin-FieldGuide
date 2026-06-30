@@ -41,4 +41,4 @@ One interpretive frame treats the Hebrew letter *Beth* not as a cipher but as an
 - [[The Empty Mirror]] — the hollow vessel against the sealed husk
 - [[The Upload]] — the vessel as conduit; the download and transmission
 - [[The Labyrinth]] · [[The Circus]] — other structures in Roy's architectural grammar
-- [[Subject to Flooding (album)]] — the flood and the Ark
+- [[Subject to Flooding]] — the flood and the Ark

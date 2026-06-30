@@ -3,7 +3,7 @@ title: Sir Rabbit
 type: character
 status: published
 confidence: mixed
-source: ["Brain/Characters/Sir Rabbit.md"]
+source: ["Brain/Characters/Sir Rabbit.md", "Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem).md"]
 ---
 # Sir Rabbit
 
@@ -13,7 +13,7 @@ Sir Rabbit is the figure Roy keeps returning to when he wants to picture the sel
 
 ## Who he is
 
-The rabbit is Roy's self-image in two places he's put on the record. The first is a long poem, **the Sir Rabbit poem**, published on Roy's own platform in 2022 — an initiation story with a rabbit at its center. The second is the dream Roy described around the release of **"Good Time (1:08)"** (2023), in which he says he *was* a rabbit, driving down a highway looking for something he couldn't name. So the grounded claim is modest and clean: Roy pictures himself as a rabbit, across two texts. Reading that rabbit as *the seeker-self* — the Roy-pole before the split — is interpretation, but it fits both texts closely.
+The rabbit is Roy's self-image in two places he's put on the record. The first is a long poem, **the Sir Rabbit poem**, published on Roy's own platform in 2022 — an initiation story with a rabbit at its center, which Roy himself has described as *"Sir Rabbit, pre-Lucius."* That gloss is the page's whole thesis in his own words: the rabbit is the self *before* the protector-mind hardens. The second is the dream Roy described around the release of **"Good Time (1:08)"** (2023), in which he says he *was* a rabbit, driving down a highway looking for something he couldn't name. So the grounded claim is modest and clean: Roy pictures himself as a rabbit, across two texts. Reading that rabbit as *the seeker-self* — the Roy-pole before the split — is interpretation, but it fits both texts closely.
 
 A note on "before Lucius": in the dream, *Roy* is the rabbit, and [[Sir Lucius]] is the **second** rabbit, the one in clown makeup who drops into the passenger seat saying *"I'm here to help you."* So Sir Rabbit isn't a young Lucius. He's the self that exists *before* Lucius arrives — which is exactly why the counterfeit guide can intercept him.
 

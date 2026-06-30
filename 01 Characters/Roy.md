@@ -3,7 +3,7 @@ title: Roy
 type: character
 status: published
 confidence: mixed
-source: ["Brain/Characters/Roy.md", "Essays/Characters/Roy.md"]
+source: ["Brain/Characters/Roy.md", "Essays/Characters/Roy.md", "Sources/Artifacts/Roy - Tattoos (body inventory).md", "Brain/Roy Voice/Roy on Mirrors & Collective Consciousness.md", "Brain/Roy Voice/Roy on the Heart-Mind Split.md", "Sources/Quotes/Roy IG Book Club (reading list).md", "Sources/Quotes/Roy Interview - culture3 (33 + Hall of Mirrors) 2022 [2026-06-26].md", "Sources/Quotes/Roy X Post - Everyone's a Guru (Aquarium).md", "Sources/Quotes/Sir Lucius IG Post - One Hit Wonder.md"]
 ---
 # Roy
 
@@ -13,7 +13,7 @@ Roy is the center of gravity in the Jagwar Twin world. He's the human being unde
 
 ## Who he is
 
-Brandon Roy Wronski, born May 22, 1988, in Los Angeles. He came up through bands (Eye Alaska among them), went solo as **Roy English** in 2015, and became **Jagwar Twin** in 2018. He signs himself **El Roy**. By his own account he's been dropped by a major label, been through a hard breakup, and lost a close friend — the raw material the songs metabolize.
+Brandon Roy Wronski, born May 22, 1988, in Los Angeles. He's described himself as an intense kid — *"I had so many thoughts and feelings… I often didn't know how to express myself in language"* — who found a punk venue at thirteen and decided music was the whole plan: *"there was never a backup plan. I felt like I was going to make music or die trying."* He came up through bands (Eye Alaska among them), wrote for other artists (Lana Del Rey and Alesso among them), went solo as **Roy English** in 2015, and became **Jagwar Twin** in 2018. He signs himself **El Roy**. By his own account he's been dropped by a major label, been through a hard breakup, and lost a close friend — the raw material the songs metabolize.
 
 ## The wound: the ballerina boy
 
@@ -31,7 +31,7 @@ Out of that comes the thing he names as his purpose — to be a **mirror**:
 
 > "My mission with music is to be a mirror — the clearest mirror I can be, to remind people who they truly are."
 
-To do that, he says, he has to dive into his own psyche first and come back as a clearer reflection for everyone else. It's the discipline the entire mythology runs on, and it has a one-line resolution he keeps returning to: **"My mind must serve my heart."** Whether he gets there is the open question of the project.
+This isn't a late idea. He was already saying *"I just want to be a mirror"* and *"a song is a mirror"* in 2020, and *"we're all really mirrors to each other"* back in 2018 — the doctrine runs the length of the project. To be that mirror, he says, he has to dive into his own psyche first and come back as a clearer reflection for everyone else. It's the discipline the entire mythology runs on, and it has a one-line resolution he keeps returning to: **"My mind must serve my heart."** Whether he gets there is the open question of the project.
 
 ## The tattoos
 
@@ -39,17 +39,28 @@ Roy's body is a map of the cosmology — most of his tattoos are mirrored (corre
 
 | Tattoo | Roy's explanation |
 |---|---|
-| **+** (center chest) | "I am right here. Christ. The four worlds." |
-| **ROSE / ESOR** | Rose forwards and backwards — heart revealed, union of opposites. |
-| **FEAR** | "Fear can drive us from our destiny. I act from love instead." |
-| *Fear functions like Prayer in Reverse* | — |
+| **+** (center chest) | Helps him remember "I am right here, and I am at the center." Also Christ, and the four worlds. |
+| **ROSE / ESOR** | Rose forwards and backwards, wrapped around the cross — the heart revealed, the union of opposites. |
+| **FEAR** (clavicle) | "Fear can drive us away from our destiny. I remember to act out of love instead of fear." |
+| *Fear functions like Prayer in Reverse* | Inked under the FEAR tattoo. |
+| **I CAN'T FEEL** (shoulder) | The wound named plainly — the heart-numbness the whole catalogue is the attempt to undo. |
 | **The Empty Mirror** (wrist) | "Looking at yourself in the mirror and seeing nothing." |
+| **LISTEN** (below the ear, arrow to it) | A reminder to listen and not speak unless he has something to say — "listening is an art form." |
 | **Wake Up** (back of hand) | — |
+| **Y** (elbow) | "Because you've gotta ask the question." |
 | **In Process** | — |
 | **I Am Human** | — |
 | ~~**ME**~~ (crossed out) | "Because it's not about me." |
 
-There are many more — *Listen*, *Be*, *Remember you're alive*, a dotted Tree of Life, an ouroboros. Together they read as a wearable version of the same project: identity, reflection, fear transmuted into love.
+There are more — *Be*, *Remember you're alive*, *Trust your guts*, *In service to all, in service to the one*, a dotted Tree of Life, an ouroboros. Together they read as a wearable version of the same project: identity, reflection, fear transmuted into love, the mind asked to serve.
+
+## What he reads
+
+Roy keeps a public "Book Club" on Instagram, and the shelf is a fair map of where the cosmology comes from: Jung (*Man and His Symbols*), Hermeticism (the *Hermetica*, the *Kybalion*), Kabbalah, Joseph Campbell's *Hero with a Thousand Faces*, Dante, and the Bible alongside the Vedas. One title is unusually telling for the rest of the cast: C. S. Lewis's *The Screwtape Letters* — a senior devil instructing a junior tempter by mail — which is more or less [[Sir Lucius]] in literary form, the counselor who only ever tells the truth, deceptively. The lineage isn't guessed at; it's on his shelf.
+
+## The mind as the beautiful danger
+
+Roy is explicit that the figure of [[Sir Lucius]] isn't an outside villain but a faculty of his own — the rational mind. He's put it in mythological terms directly: *"in so many different mythologies the intellect, or the rational mind, is equated with… the Lucifer archetype — the most beautiful angel with the most potential to fall."* The mind, in his framing, is *"potentially this beautiful thing"* and dangerous for exactly that reason. He's also posted the harder version — *"the mind is the slayer of the real / we must slay the slayer"* — which is why the project's one-line resolution is the discipline, not the conquest: **the mind asked to serve, not destroyed.**
 
 ## Relationships
 
@@ -59,7 +70,7 @@ There are many more — *Listen*, *Be*, *Remember you're alive*, a dotted Tree o
 
 ## Two ways to say the same thing
 
-A small, clean illustration of the Roy/Lucius split: both have said *"everyone's a guru."* From Roy it's rueful humility — *we're all trapped performing authority, me included.* From Lucius (on the same account) it's contempt — *everyone's worthless except me.* One observation, two hearts. That gap is the whole difference between them.
+A small, clean illustration of the Roy/Lucius split: both have used the same line. From Roy it's rueful — *"Everyone's a guru. We are now fully in the aquarium"* — humility, *we're all trapped performing authority, me included.* From Lucius, on the same account, it curdles into contempt — *"Everyone is an artist or a guru or a dj these days. I'm bored. Find something more interesting to do with your little life."* One observation, two hearts. That gap is the whole difference between them.
 
 ## Symbols
 

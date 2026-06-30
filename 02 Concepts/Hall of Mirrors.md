@@ -45,7 +45,7 @@ The maze is **meant to be solved.** The reward isn't a secret answer key — it'
 - [[The Upload]] · [[The Pattern]] — the cosmology the maze externalizes.
 - [[Source vs Reflection]] · [[The Mirror]] — the "hall of mirrors" namesake: the self seen as someone else.
 - [[Inherited Substrate]] — why not every artifact is a deliberately authored clue.
-- [[33 (album)]] — the era this grew out of.
+- [[33]] — the era this grew out of.
 - [[Sir Lucius]] — the figure whose mirror-nature gives the maze its name.
 
 ## Symbols

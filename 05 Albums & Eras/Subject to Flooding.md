@@ -3,7 +3,7 @@ title: Subject to Flooding
 type: album-era
 status: published
 confidence: mixed
-source: ["Brain/Albums/Subject to Flooding (album).md"]
+source: ["Brain/Albums/Subject to Flooding (album).md", "Essays/_drafts/STF Vetting Dossiers/01 - The Water-Line.md", "Essays/_drafts/STF Vetting Dossiers/03 - The Method Was Debut-Native.md", "Essays/_drafts/STF Vetting Dossiers/04 - Dream Dream - Mercer, CREAM, and the Spelled Hook.md", "Essays/_drafts/STF Vetting Dossiers/05 - Cross-Era Threads.md"]
 ---
 # Subject to Flooding
 
@@ -17,13 +17,15 @@ The album was built across roughly 2012–2018 — Joshua Tree, Florence, Haiti,
 
 The title carries two meanings at once, and Roy's own framing holds both. The **flood is a threat** — the record says it outright, with heads going underwater and a sea you're going to drown in. But the flood is also the **cure**: letting the ego-walls fall so people can reach each other again. *"We are all subject to flooding"* means both *we can all drown* and *the walls between us can all come down* — vulnerability and communion as the same exposure. Years later Roy described the flood as a pattern he'd felt coming: separation and polarization rising until everything spills over.
 
+Water turns out to be the longest thread in Roy's own self-conception, stretching well past this one album. His pre-Jagwar band, around 2010, was called **Eye Alaska** — a name he glossed as meaning *"to look toward that which the sea breaks against,"* the wise being those who have weathered things. Then comes *Subject to Flooding* (2018): no longer looking toward the shore but *being the flooded*, the sea overwhelming the self. And years later, at the height of the Lucius era, he posted: *"I am the shore. I am not the wave… I'm the one who stays."* Look toward the shore, then be flooded, then become the shore — sixteen years to become the thing the young band only pointed at.
+
 ## Major releases
 
 The album runs thirteen tracks. Its hidden architecture is the formation and defense of a survival-self — the protector that later becomes Lucius — operating underneath that hopeful surface.
 
 - [[Long Time Coming]] — the disguise becomes conscious: *"I see the disguise on my face getting clearer."* The earliest mask-image in the whole catalogue.
-- [[Dream - Dream|Dream / Dream]] — built on Johnny Mercer's 1944 "Dream"; an awakening that still believes the prison is external.
-- [[Loser]] — the breakthrough single. Shame-preemption: claim the slur first (*"I'm a loser, baby, just like you"*) and the wound becomes solidarity.
+- [[Dream - Dream|Dream / Dream]] — built on Johnny Mercer's 1944 "Dream"; an awakening that still believes the prison is external. Roy keeps Mercer's gentle imperative but changes its posture: Mercer's dreaming is private and inward (smoke rings, the end of the day), and the track makes it vocal and shared — *"dream, dream, out loud,"* *"come and dream that dream with me."* The consolation lullaby becomes a communal invitation, the first hint of the crowd-singing-it-back gesture the later work lives on.
+- [[Loser]] — the breakthrough single. Shame-preemption: claim the slur first (*"I'm a loser, baby, just like you"*) and the wound becomes solidarity. Roy has said the song was found almost by accident — a producer *"muted all the music"* and played a single old guitar riff over it, *"so it really was removing everything that brought it to life."* The children's choir on the pre-chorus was deliberate: he wanted the sound of *"that childlike self before people told you you were different… when you were just you, unashamed."*
 - [[Good Day]] — the success-pole twin of "Loser": brightness attached to circumstance, a false dawn. *"I'm on a wave"* — surfing the flood instead of drowning in it.
 - [[Superhuman (Interlude)|Superhuman (Interlude)]] — a verbatim relay of Charlie Chaplin's closing speech from *The Great Dictator* (1940): *"the kingdom of God is within man… you, the people, have the power."*
 - [[Superhuman]] — the human reaching for divine power, collectively.
@@ -44,6 +46,8 @@ Underneath the night-to-morning arc, the album poses a question the whole catalo
 
 There's also a method here that becomes a signature: building songs out of **inherited voices**. Chaplin, Mercer, and Sarah Vaughan are sampled, named, and built into the song-bodies — the past curated and relayed, not just invented. It's the discipline that the later work mythologizes as *the song handed down and called back.*
 
+One image planted here runs the length of the catalogue: the **star**, and its slow move from the sky to the self. On "Move To You" the sky's navigation fails (*"even if the stars are out of place… I can hear your heart"*) and the heart takes over; on "N.F.F." the stars are beneath the speaker, flattened into the Walk of Fame sidewalk and walked on. Years later the outer star turns outright treacherous (the 2025 single "LOOP": *"the stars in the sky conspired"*), while the only star that holds is the one *33* relocates inward — *"your soul is a star."* The debut's *"even if the stars are out of place"* gets its answer four years on: navigate by the one star that can't be.
+
 The honest caveat — and the album insists on it — is that the protector is **not evil at its origin.** The disguise, the shame-preemption, the vibe-defense, the social filter: these are survival structures that *worked*. The danger isn't that they exist; it's that they can calcify, until adaptation hardens into identity and the mask mistakes itself for the source. That hardening is the Lucius arc. Here, the protector is still just doing its job.
 
 ## A framework reading
@@ -62,7 +66,7 @@ The album already sequences its own arc, so the album order is the reading order
 
 ## Related
 
-- [[33 (album)|33]] — the bloom: the cosmology built from these seeds
+- [[33|33]] — the bloom: the cosmology built from these seeds
 - [[Lucius Lullaby (album)|Lucius Lullaby]] — the calcification: the protector named and billed
 - [[The Circle]] — first spoken aloud here, on "Move To You" (2019)
 - [[Source vs Reflection]] — the master frame this album first poses
