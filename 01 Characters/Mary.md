@@ -134,7 +134,7 @@ A few threads the work hasn't tied off, worth holding open rather than forcing s
 
 ## Advanced reading
 
-> [!note]- Advanced reading — The count as creation-grammar
+> [!note]- Advanced reading — It's As Easy as ABC
 > Why is a woman counting to three the most lethal thing in [[#1 Champion (la Conquistadora)]]? Because the champion and Mary share a numerical surface but mean opposite things by it. The champion's whole world *counts rank* — first place, who's cooler, the leaderboard. Mary's *"A-B-C, one-two-three"* counts **creation** — the pre-personal grammar of things being made, ordered, brought into being. Same numbers, two objects. The ego that counts its rank cannot survive hearing the count that makes worlds; it discovers, mid-boast, that it was only ever *imitating* a grammar it didn't author. And because the count is impersonal creation-grammar rather than self-disclosure, her facelessness is preserved even as she speaks. She destroys him without ever showing her face.
 
 > [!note]- Advanced reading — The champion is the Fool (Tarot 0)

@@ -43,7 +43,7 @@ He is the most important figure in the Jagwar Twin world after [[Roy]], and the 
 
 ## Who he is
 
-By 2026, Lucius is a **co-credited performing artist** alongside [[Roy|Jagwar Twin]] on [[Lucius Lullaby (album)|Lucius Lullaby]] (released March 27, 2026), with his own Apple Music and Spotify artist pages — and he takes over the album's premiere series, "Sir Lucius takes over the premiere." The album-as-object is, in a real sense, *his*: his production, his algorithmic selection, his arc, even where Roy is the voice singing it.
+By 2026, Lucius is a **co-credited performing artist** alongside [[Roy|Jagwar Twin]] on [[Lucius Lullaby (album)|Lucius Lullaby]] (released March 27, 2026), with his own Apple Music and Spotify artist pages — and he takes over the album's premiere , "Sir Lucius takes over the premiere." The album-as-object is, in a real sense, *his*: his production, his algorithmic selection, his arc, even where Roy is the voice singing it.
 
 Inside the mythology, though, he isn't a separate person at all. He's formed from Roy's own interior life — *"the mind divorced from the heart."* Roy's line to him is simply: *"I made you."* Roy doesn't beat him in any duel; the whole drama is a man arguing with himself across a table.
 
@@ -51,7 +51,7 @@ He carries one telling mark: the tattoo **El Roi** — Hebrew (אל ראי) for 
 
 ## "The mind severed from the heart"
 
-This is Roy's own definition, triple-sourced across the lore captions, the character's own Instagram card, and Roy's plain statements — and it's the cleanest key to the figure. The mind, in his framing, is a tool, but a tool that *"can lead us astray if it is not subservient to the heart."* Lucius is what the mind becomes when it stops serving and starts ruling.
+This is Roy's own definition, triple-sourced across the lore captions, the character's own Instagram card... and it's the cleanest key to the figure. The mind, in his framing, is a tool, but a tool that *"can lead us astray if it is not subservient to the heart."* Lucius is what the mind becomes when it stops serving and starts ruling.
 
 The fullest description Roy has given runs roughly like this: with Lucius, *"anything is possible."* There's a supreme confidence about him, and he's fast; he doesn't care what anyone thinks. What's frightening is that *even though he only tells the truth* — at least from his own perspective — that truth *"can drag you to hell,"* because it is *"only the perspective of the mind."* He can tell you you're a failure, or that they don't really love you, and logically point to every reason why; and if you believe him, *"the you that is truly YOU dies."*
 
