@@ -42,4 +42,4 @@ The directness is the move. The song risks sounding simple because it's so direc
 
 ## Notes
 
-The K-spelling may gesture at the esoteric *"Magick"* (the spelling that distinguishes intentional will from stage illusion), but the lyric's content leans toward innate, unrecognized worth rather than occult will, so that reading is raised rather than asserted. The *"lasso round the Moon"* faintly echoes *It's a Wonderful Life*, where George Bailey offers to lasso the moon — notably for a woman named Mary, which quietly rhymes with the project's [[Mary]] without needing to carry weight. The lyric is streaming-unverified.
+The K-spelling may gesture at the esoteric *"Magick"* (the spelling that distinguishes intentional will from stage illusion), but the lyric's content leans toward innate, unrecognized worth rather than occult will, so that reading is raised rather than asserted. The *"lasso round the Moon"* faintly echoes *It's a Wonderful Life*, where George Bailey offers to lasso the moon — notably for a woman named Mary, which quietly rhymes with the project's [[Mary]] without needing to carry weight. (The exact wording here isn't officially confirmed.)

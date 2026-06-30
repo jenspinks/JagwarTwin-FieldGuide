@@ -37,10 +37,10 @@ Read against the catalogue, *"go dumb"* aligns with Roy's own stance on cancel c
 
 ## Connected songs
 
-- [[MAGIK]] — shares the word "Magik" with the opposite charge: there the magic is a tender, innate blessing; here it's the dangerous power. (Both lyrics are unverified, so this is a reading on the shared word, not over-built.)
+- [[MAGIK]] — shares the word "Magik" with the opposite charge: there the magic is a tender, innate blessing; here it's the dangerous power. (The exact wording of both songs is unconfirmed, so this rests on the shared word, lightly.)
 - [[Welcome to the Circus]] / [[Not Your Homie]] — the lineage of nursery-rhyme sing-along over darkness.
 - [[The Circus]] — the gatekeeping system the release saga fought through.
 
 ## Notes
 
-The lyric is sourced from an aggregator and is streaming-unverified, with high error risk on the proper names — so the persecution roll-call and martyr-mob reading, which rest on names like Galileo and Joan of Arc, are provisional rather than grounded; if any are mishears, those reads collapse. (The grounded core is the release saga, the "love song" caption, and the wordplay engine, none of which depend on the names.) Speculatively, *"eyes wide shut"* sits primarily on the Gurdjieff *asleep / dreaming-while-awake* axis the project tracks, with a secondary echo of the Kubrick film fitting the Hollywood setting; and the truncation of "Dumbledore" to "dumb" rhymes with the wise-fool who plays the idiot to survive the court — the degradation either imposed by the Circus or chosen as the fool's disguise.
+The exact wording here — especially the proper names — isn't officially confirmed — so the persecution roll-call and martyr-mob reading, which rest on names like Galileo and Joan of Arc, are provisional rather than grounded; if any are mishears, those reads collapse. (The grounded core is the release saga, the "love song" caption, and the wordplay engine, none of which depend on the names.) Speculatively, *"eyes wide shut"* sits primarily on the Gurdjieff *asleep / dreaming-while-awake* axis the project tracks, with a secondary echo of the Kubrick film fitting the Hollywood setting; and the truncation of "Dumbledore" to "dumb" rhymes with the wise-fool who plays the idiot to survive the court — the degradation either imposed by the Circus or chosen as the fool's disguise.
