@@ -3,6 +3,7 @@ title: Roy
 type: character
 status: published
 confidence: mixed
+source: ["Brain/Characters/Roy.md", "Essays/Characters/Roy.md"]
 ---
 # Roy
 

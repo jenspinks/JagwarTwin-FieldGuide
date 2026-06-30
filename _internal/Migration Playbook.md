@@ -49,9 +49,29 @@ Convert markers into voice:
 
 ## Frontmatter values
 
-- `type`: character | concept | symbol | song | album-era | reading-path | meta
-- `status`: published | draft | internal
-- `confidence`: grounded | reading | mixed
+```yaml
+---
+title: Sir Lucius
+type: character          # character | concept | symbol | song | album-era | reading-path | meta
+status: published        # published | draft | internal
+confidence: mixed        # grounded | reading | mixed
+source: ["Brain/Characters/Sir Lucius.md", "Essays/Characters/Sir Lucius.md"]
+---
+```
+
+- `source:` is the **non-intrusive tie-back to the lab vault** — a list of the lab-vault-relative path(s) each page was migrated from. Readers never see it (Obsidian Publish hides frontmatter); it exists so a future sync pass can diff a public page against its source(s) and know exactly what to re-check. **Always populate it.** Never list a `_Private/` path.
+
+## Sourcing by type
+
+- **Characters** → `Brain/Characters/<Name>.md` is the MAIN file; fold in `Essays/Characters/<Name>.md` if it exists.
+- **Songs** → `Essays/Concepts/Songs/<Song>.md` is the MAIN file; fold in `Brain/Songs/.../<Song>.md`. Excerpt lyrics, never transclude.
+- **Concepts / Symbols** → `Brain/Concepts/<Name>.md` is the MAIN file; fold in any `Essays/Concepts/<Name>.md`.
+- **Albums/Eras** → `Brain/Albums/<Name>.md` + `Essays/Arcs/<Name>.md`.
+- **Symbols with no single source file** (Green Apple, Rose, Rabbit, Moon) → synthesize from distributed mentions: `grep -rli "green apple"` across the lab vault, read the hits, write the page.
+
+## Esoteric / framework material
+
+Compress it the way the **Mary** exemplar does: one clearly-labeled "here's a framework reading" paragraph ("one strong interpretive frame, drawn from the Kabbalah Roy studies, reads X as…"), never raw jargon dumped as fact. Name the tradition. Keep the grounded layer in front.
 
 ## Pre-publish audit (per page)
 

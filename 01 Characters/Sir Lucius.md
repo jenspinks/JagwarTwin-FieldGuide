@@ -3,6 +3,7 @@ title: Sir Lucius
 type: character
 status: published
 confidence: mixed
+source: ["Brain/Characters/Sir Lucius.md", "Essays/Characters/Sir Lucius.md"]
 ---
 # Sir Lucius
 

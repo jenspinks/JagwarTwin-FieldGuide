@@ -3,6 +3,7 @@ title: Mary
 type: character
 status: published
 confidence: mixed
+source: ["Brain/Characters/Mary.md"]
 ---
 # Mary
 
