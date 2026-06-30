@@ -1,9 +1,10 @@
 ---
 title: Hell Of A Night
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Hell Of A Night.md", "Brain/Songs/Subject to Flooding (2018)/Hell Of A Night.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Hell Of A Night
 

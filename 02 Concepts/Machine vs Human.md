@@ -1,9 +1,10 @@
 ---
 title: Machine vs Human
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Machine vs Human.md", "Essays/Arcs/Machine vs Human.md", "Essays/Concepts/Songs/Superhuman (Interlude).md", "Sources/Credits/Subject to Flooding.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Machine vs Human
 

@@ -1,9 +1,10 @@
 ---
 title: The Protector
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/The Protector.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Protector
 

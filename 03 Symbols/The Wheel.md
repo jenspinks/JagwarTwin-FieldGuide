@@ -1,9 +1,10 @@
 ---
 title: The Wheel
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Wheel.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Wheel
 

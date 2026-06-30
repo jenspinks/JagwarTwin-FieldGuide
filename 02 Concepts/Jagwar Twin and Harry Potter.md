@@ -1,9 +1,10 @@
 ---
 title: Jagwar Twin and Harry Potter
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Essays/Concepts/Jagwar Twin and Harry Potter — Shared-Source Parallels.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Jagwar Twin and Harry Potter
 

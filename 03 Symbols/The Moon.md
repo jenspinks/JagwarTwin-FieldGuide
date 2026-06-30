@@ -1,9 +1,10 @@
 ---
 title: The Moon
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Source vs Reflection.md", "Brain/Characters/Mary.md", "Brain/Characters/Sir Lucius.md", "Brain/Concepts/Duality.md", "Brain/Songs/Singles & EPs/BALLERINA BOY.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Moon
 

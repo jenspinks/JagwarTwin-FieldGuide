@@ -1,9 +1,10 @@
 ---
 title: City of Angels
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/City of Angels.md", "Brain/Songs/Lucius Lullaby (2026)/City of Angels.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # City of Angels
 

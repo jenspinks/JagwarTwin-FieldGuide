@@ -1,9 +1,10 @@
 ---
 title: Ballerina Boy
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Ballerina Boy.md", "Brain/Songs/Singles & EPs/BALLERINA BOY.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Ballerina Boy
 

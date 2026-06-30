@@ -1,9 +1,10 @@
 ---
 title: The Loop and the Circle
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Circle.md", "Sources/Transcripts/Digital-Journal-2019-Move-To-You-Loser.md", "Sources/Lyrics/The Circle.md", "Sources/Transcripts/Audio-Addiction-2024-Trojan-Horse-Mirror.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Loop and the Circle
 

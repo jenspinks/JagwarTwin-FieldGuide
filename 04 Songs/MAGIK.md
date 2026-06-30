@@ -1,9 +1,10 @@
 ---
 title: MAGIK
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/MAGIK.md", "Brain/Songs/Singles & EPs/MAGIK.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # MAGIK
 

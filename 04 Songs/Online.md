@@ -1,9 +1,10 @@
 ---
 title: Online
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Online.md", "Brain/Songs/33 (2022)/Online.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Online
 

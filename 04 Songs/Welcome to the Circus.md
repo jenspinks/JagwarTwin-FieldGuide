@@ -1,9 +1,10 @@
 ---
 title: Welcome to the Circus
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Welcome to the Circus.md", "Brain/Songs/Welcome to the Circus.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Welcome to the Circus
 

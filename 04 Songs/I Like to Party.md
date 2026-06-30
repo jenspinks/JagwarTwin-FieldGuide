@@ -1,9 +1,10 @@
 ---
 title: I Like to Party
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/I Like to Party.md", "Brain/Songs/33 (2022)/I Like to Party.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # I Like to Party
 

@@ -1,9 +1,10 @@
 ---
 title: The Divide
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/The Divide.md", "Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Divide
 

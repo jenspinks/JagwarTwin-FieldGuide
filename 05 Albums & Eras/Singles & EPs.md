@@ -1,9 +1,10 @@
 ---
 title: Singles & EPs
 type: album-era
+cssclasses: ["type-album-era"]
 status: published
 confidence: mixed
-source: ["Brain/Songs/Singles & EPs/Singles Index.md", "Essays/Concepts/Songs/Good Time (1-08).md", "Essays/Concepts/Songs/LOOP.md", "Essays/_drafts/LL Vetting Dossiers/00 - Context Primer.md", "Essays/_drafts/LL Vetting Dossiers/05 - Bob Dylan.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Singles & EPs
 

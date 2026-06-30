@@ -1,9 +1,10 @@
 ---
 title: Joni and the Prophet Lineage
 type: concept
+cssclasses: ["type-concept"]
 status: draft
 confidence: mixed
-source: ["Brain/Concepts/Joni and the Prophet lineage - alignment audit (not a claim).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Joni and the Prophet Lineage
 

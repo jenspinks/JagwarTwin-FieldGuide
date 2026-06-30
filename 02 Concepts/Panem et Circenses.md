@@ -1,9 +1,10 @@
 ---
 title: Panem et Circenses
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Panem et Circenses.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Panem et Circenses
 

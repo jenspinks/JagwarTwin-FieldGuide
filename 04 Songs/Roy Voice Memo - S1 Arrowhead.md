@@ -1,9 +1,10 @@
 ---
 title: Roy Voice Memo - S1 Arrowhead
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Roy Voice Memo - S1 Arrowhead.md", "Brain/Songs/Subject to Flooding (2018)/Roy Voice Memo - S1 Arrowhead.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Roy Voice Memo - S1 Arrowhead
 

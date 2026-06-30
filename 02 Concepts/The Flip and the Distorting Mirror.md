@@ -1,9 +1,10 @@
 ---
 title: The Flip and the Distorting Mirror
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Flip and the Distorting Mirror.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Flip and the Distorting Mirror
 

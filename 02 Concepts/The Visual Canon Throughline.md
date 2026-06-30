@@ -1,9 +1,10 @@
 ---
 title: The Visual Canon Throughline
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/The Visual-Canon Throughline (Manifesto Cards, the Realized Circus, the Silent Lucius) 2019-2026.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Visual Canon Throughline
 

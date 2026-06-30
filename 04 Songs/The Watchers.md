@@ -1,9 +1,10 @@
 ---
 title: The Watchers
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/The Watchers.md", "Brain/Songs/Singles & EPs/The Watchers.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Watchers
 

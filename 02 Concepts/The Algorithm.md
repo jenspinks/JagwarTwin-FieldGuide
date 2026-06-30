@@ -1,9 +1,10 @@
 ---
 title: The Algorithm
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Algorithm.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Algorithm
 

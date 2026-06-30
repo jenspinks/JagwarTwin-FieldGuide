@@ -1,9 +1,10 @@
 ---
 title: Source vs Reflection
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Source vs Reflection.md", "Brain/Albums/Subject to Flooding (album).md", "Essays/Concepts/Songs/Ballerina Boy.md", "Brain/Characters/Sir Lucius.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Source vs Reflection
 

@@ -1,0 +1,105 @@
+/* ============================================================
+   The Jagwar Files — Field Guide stylesheet
+   A cohesive, color-grouped look: sleek callouts colored by type,
+   each page-type carrying its own accent color.
+
+   Two copies are kept in sync:
+   - publish.css (vault root)          → the published Obsidian Publish site
+   - .obsidian/snippets/field-guide.css → local preview (+ colored sidebar folders)
+   Enable the local copy: Settings → Appearance → CSS snippets.
+   ============================================================ */
+
+/* ---- Color-grouping by PAGE TYPE -----------------------------
+   Pages carry  cssclasses: ["type-…"]  (derived from `type:`).
+   --fg-accent drives the heading color, so each section reads
+   as its own color at a glance. */
+.type-character    { --fg-accent: 220, 90, 110; }  /* rose   */
+.type-concept      { --fg-accent: 79, 124, 230; }  /* blue   */
+.type-symbol       { --fg-accent: 150, 90, 200; }  /* violet */
+.type-song         { --fg-accent: 45, 170, 140; }  /* teal   */
+.type-album-era    { --fg-accent: 214, 158, 56; }  /* gold   */
+.type-reading-path { --fg-accent: 120, 110, 215; } /* indigo */
+.type-meta         { --fg-accent: 130, 130, 150; } /* slate  */
+
+/* ---- Colored heading underlines (the per-type accent) -------- */
+.markdown-rendered h1, .markdown-preview-view h1 {
+  border-bottom: 3px solid rgba(var(--fg-accent, 130, 130, 150), 0.85);
+  padding-bottom: 0.12em;
+}
+.markdown-rendered h2, .markdown-preview-view h2 {
+  border-bottom: 2px solid rgba(var(--fg-accent, 130, 130, 150), 0.5);
+  padding-bottom: 0.18em;
+}
+.markdown-rendered h3, .markdown-preview-view h3 {
+  color: rgb(var(--fg-accent, 130, 130, 150));
+}
+
+/* ---- Sleek callouts (applies to every callout) -------------- */
+.callout {
+  border-radius: 10px;
+  border: 1px solid rgba(var(--callout-color), 0.35);
+  background-color: rgba(var(--callout-color), 0.06);
+  padding: 0;
+  overflow: hidden;
+}
+.callout > .callout-title { background-color: rgba(var(--callout-color), 0.14); padding: 0.5em 0.85em; }
+.callout > .callout-content { padding: 0.35em 0.95em 0.7em; }
+
+/* ---- Color-grouping by CALLOUT TYPE ------------------------- */
+.callout[data-callout="info"]    { --callout-color: 79, 124, 230; }   /* album & credits — blue   */
+.callout[data-callout="note"]    { --callout-color: 140, 100, 210; }  /* deeper readings — violet */
+.callout[data-callout="tip"]     { --callout-color: 45, 170, 140; }   /* teal   */
+.callout[data-callout="quote"]   { --callout-color: 130, 130, 150; }  /* slate  */
+.callout[data-callout="warning"] { --callout-color: 230, 130, 50; }   /* orange */
+.callout[data-callout="spoiler"] { --callout-color: 230, 130, 50; }   /* spoiler gate — orange */
+
+/* ---- Infobox: right-floated wiki card (overrides the above) -- */
+.callout[data-callout="infobox"] {
+  float: right;
+  width: min(300px, 42%);
+  margin: 0.2em 0 1em 1.6em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 12px;
+  background: var(--background-secondary);
+  font-size: 0.82em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+.callout[data-callout="infobox"] > .callout-title {
+  justify-content: center;
+  font-size: 1.25em;
+  letter-spacing: 0.02em;
+  padding: 0.55em;
+  background: var(--background-modifier-hover);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.callout[data-callout="infobox"] > .callout-title .callout-icon { display: none; }
+.callout[data-callout="infobox"] > .callout-content { padding: 0.6em 0.8em; }
+.callout[data-callout="infobox"] img { width: 100%; border-radius: 8px; margin-bottom: 0.4em; }
+.callout[data-callout="infobox"] ul { margin: 0.2em 0; padding-left: 0; list-style: none; }
+.callout[data-callout="infobox"] li { margin: 0; padding: 0.42em 0.3em; border-bottom: 1px dotted var(--background-modifier-border); }
+.callout[data-callout="infobox"] li:last-child { border-bottom: none; }
+
+/* ---- Image gallery: > [!gallery] grids its images ----------- */
+.callout[data-callout="gallery"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 8px;
+}
+.callout[data-callout="gallery"] img { width: 100%; height: 130px; object-fit: cover; border-radius: 8px; }
+
+/* ---- Inline spoiler: <span class="spoiler-inline">…</span> --- */
+.spoiler-inline { background: var(--text-normal); color: transparent; border-radius: 4px; padding: 0 0.2em; transition: 0.2s ease; }
+.spoiler-inline:hover { background: transparent; color: var(--text-normal); }
+
+/* ---- Multi-column lists (opt-in: cssclasses: ["two-columns"])
+   Flows a page's bullet lists into columns; headings & prose stay
+   full-width; never touches `---` dividers. Great for hub/index pages. */
+.two-columns ul   { column-count: 2; column-gap: 2em; }
+.three-columns ul { column-count: 3; column-gap: 1.6em; }
+.two-columns li, .three-columns li { break-inside: avoid; margin-bottom: 0.25em; }
+@media (max-width: 700px) { .two-columns ul, .three-columns ul { column-count: 1; } }
+
+/* ---- Mobile: stack the infobox ----------------------------- */
+@media (max-width: 600px) {
+  .callout[data-callout="infobox"] { float: none; width: 100%; margin: 1em 0; }
+}

@@ -1,9 +1,10 @@
 ---
 title: Jacob and Esau
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Essays/Concepts/Jacob & Esau.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Jacob and Esau
 

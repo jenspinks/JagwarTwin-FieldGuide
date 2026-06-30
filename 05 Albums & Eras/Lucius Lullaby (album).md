@@ -1,9 +1,10 @@
 ---
 title: Lucius Lullaby (album)
 type: album-era
+cssclasses: ["type-album-era"]
 status: published
 confidence: mixed
-source: ["Brain/Albums/Lucius Lullaby (album).md", "Essays/Arcs/Lucius Lullaby.md", "Essays/_drafts/Lucius Lullaby — Album Deep Dive (2026-06-13).md", "Essays/_drafts/LL Vetting Dossiers/01 - The Album Arc.md", "Essays/_drafts/LL Vetting Dossiers/03 - SOL and the Joni Bridge.md", "Essays/_drafts/LL Vetting Dossiers/07 - The Digital-Age Endgame.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Lucius Lullaby (album)
 

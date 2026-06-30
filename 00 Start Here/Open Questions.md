@@ -1,6 +1,7 @@
 ---
 title: Open Questions
 type: meta
+cssclasses: ["type-meta"]
 status: draft
 confidence: mixed
 ---
@@ -39,7 +40,7 @@ The questions whose answers would reshape everything else.
 ## On the structure
 - The Loop becomes [[The Loop and the Circle|the Circle]] *through love* — has that turn happened in the catalogue, or is it still the promise?
 - Is [[The Jaguar]] a *frame* (the seeing itself) or an active character/guide?
-- **SARAVI**, the 2022 AI "digital double" — a one-off experiment, or a permanent second double beside Lucius?
+- **[[SARAVI]]**, the 2022 AI "digital double" — a one-off experiment, or a permanent second double beside Lucius?
 
 ## On authorship and method
 - Does Roy experience the Roy/Lucius split as *real interior architecture*, or wield it as a two-character *device*? The implications differ for every reading.

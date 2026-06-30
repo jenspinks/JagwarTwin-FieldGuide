@@ -1,9 +1,10 @@
 ---
 title: The Speaker Problem
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Speaker Problem.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Speaker Problem
 

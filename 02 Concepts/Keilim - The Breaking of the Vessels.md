@@ -1,9 +1,10 @@
 ---
 title: Keilim - The Breaking of the Vessels
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Keilim - The Breaking of the Vessels.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Keilim — The Breaking of the Vessels
 

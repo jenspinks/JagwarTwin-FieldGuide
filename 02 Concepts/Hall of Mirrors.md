@@ -1,9 +1,10 @@
 ---
 title: Hall of Mirrors
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Hall of Mirrors.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Hall of Mirrors
 

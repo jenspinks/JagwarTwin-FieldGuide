@@ -1,9 +1,10 @@
 ---
 title: Weirdness
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Weirdness.md", "Brain/Songs/Lucius Lullaby (2026)/Weirdness.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Weirdness
 

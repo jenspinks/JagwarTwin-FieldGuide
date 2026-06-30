@@ -1,9 +1,10 @@
 ---
 title: Happy Face
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Happy Face.md", "Brain/Songs/33 (2022)/Happy Face.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Happy Face
 

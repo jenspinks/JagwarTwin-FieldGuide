@@ -1,9 +1,10 @@
 ---
 title: Subject to Flooding
 type: album-era
+cssclasses: ["type-album-era"]
 status: published
 confidence: mixed
-source: ["Brain/Albums/Subject to Flooding (album).md", "Essays/_drafts/STF Vetting Dossiers/01 - The Water-Line.md", "Essays/_drafts/STF Vetting Dossiers/03 - The Method Was Debut-Native.md", "Essays/_drafts/STF Vetting Dossiers/04 - Dream Dream - Mercer, CREAM, and the Spelled Hook.md", "Essays/_drafts/STF Vetting Dossiers/05 - Cross-Era Threads.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Subject to Flooding
 

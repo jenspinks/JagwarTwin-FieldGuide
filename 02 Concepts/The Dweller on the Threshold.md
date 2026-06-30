@@ -1,9 +1,10 @@
 ---
 title: The Dweller on the Threshold
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/The Dweller on the Threshold.md", "Essays/Concepts/The Dweller on the Threshold.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Dweller on the Threshold
 

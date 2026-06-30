@@ -1,6 +1,7 @@
 ---
 title: Source and Interpretation Policy
 type: meta
+cssclasses: ["type-meta"]
 status: published
 confidence: grounded
 ---

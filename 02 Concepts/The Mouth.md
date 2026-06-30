@@ -1,9 +1,10 @@
 ---
 title: The Mouth
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Mouth.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Mouth
 

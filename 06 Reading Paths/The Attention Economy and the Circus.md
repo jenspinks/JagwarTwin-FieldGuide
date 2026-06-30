@@ -1,6 +1,7 @@
 ---
 title: The Attention Economy and the Circus
 type: reading-path
+cssclasses: ["type-reading-path"]
 status: published
 confidence: grounded
 ---

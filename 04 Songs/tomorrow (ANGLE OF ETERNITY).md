@@ -1,9 +1,10 @@
 ---
 title: tomorrow (ANGLE OF ETERNITY)
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/tomorrow (ANGLE OF ETERNITY).md", "Brain/Songs/Singles & EPs/tomorrow (ANGLE OF ETERNITY).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # tomorrow (ANGLE OF ETERNITY)
 

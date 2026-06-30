@@ -1,6 +1,7 @@
 ---
 title: The Roy and Lucius Arc
 type: reading-path
+cssclasses: ["type-reading-path"]
 status: published
 confidence: grounded
 ---

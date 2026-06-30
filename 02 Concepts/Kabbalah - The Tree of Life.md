@@ -1,9 +1,10 @@
 ---
 title: Kabbalah - The Tree of Life
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/Kabbalah - The Tree of Life.md", "Brain/Concepts/Source vs Reflection.md", "Brain/Characters/Sir Lucius.md", "Brain/Concepts/The Light-Bearer.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Kabbalah - The Tree of Life
 

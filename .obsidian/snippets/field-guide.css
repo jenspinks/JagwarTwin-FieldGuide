@@ -1,0 +1,74 @@
+/* ============================================================
+   The Jagwar Files — Field Guide stylesheet (LOCAL PREVIEW copy)
+   Identical to publish.css, plus colored sidebar folders (local only).
+   Enable: Settings → Appearance → CSS snippets → toggle "field-guide".
+   ============================================================ */
+
+/* ---- Color-grouping by PAGE TYPE ----------------------------- */
+.type-character    { --fg-accent: 220, 90, 110; }  /* rose   */
+.type-concept      { --fg-accent: 79, 124, 230; }  /* blue   */
+.type-symbol       { --fg-accent: 150, 90, 200; }  /* violet */
+.type-song         { --fg-accent: 45, 170, 140; }  /* teal   */
+.type-album-era    { --fg-accent: 214, 158, 56; }  /* gold   */
+.type-reading-path { --fg-accent: 120, 110, 215; } /* indigo */
+.type-meta         { --fg-accent: 130, 130, 150; } /* slate  */
+
+/* ---- Colored heading underlines ------------------------------ */
+.markdown-rendered h1, .markdown-preview-view h1 {
+  border-bottom: 3px solid rgba(var(--fg-accent, 130, 130, 150), 0.85);
+  padding-bottom: 0.12em;
+}
+.markdown-rendered h2, .markdown-preview-view h2 {
+  border-bottom: 2px solid rgba(var(--fg-accent, 130, 130, 150), 0.5);
+  padding-bottom: 0.18em;
+}
+.markdown-rendered h3, .markdown-preview-view h3 { color: rgb(var(--fg-accent, 130, 130, 150)); }
+
+/* ---- Sleek callouts ----------------------------------------- */
+.callout { border-radius: 10px; border: 1px solid rgba(var(--callout-color), 0.35); background-color: rgba(var(--callout-color), 0.06); padding: 0; overflow: hidden; }
+.callout > .callout-title { background-color: rgba(var(--callout-color), 0.14); padding: 0.5em 0.85em; }
+.callout > .callout-content { padding: 0.35em 0.95em 0.7em; }
+
+/* ---- Color by CALLOUT TYPE ---------------------------------- */
+.callout[data-callout="info"]    { --callout-color: 79, 124, 230; }
+.callout[data-callout="note"]    { --callout-color: 140, 100, 210; }
+.callout[data-callout="tip"]     { --callout-color: 45, 170, 140; }
+.callout[data-callout="quote"]   { --callout-color: 130, 130, 150; }
+.callout[data-callout="warning"] { --callout-color: 230, 130, 50; }
+.callout[data-callout="spoiler"] { --callout-color: 230, 130, 50; }
+
+/* ---- Infobox card ------------------------------------------- */
+.callout[data-callout="infobox"] { float: right; width: min(300px, 42%); margin: 0.2em 0 1em 1.6em; border: 1px solid var(--background-modifier-border); border-radius: 12px; background: var(--background-secondary); font-size: 0.82em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12); }
+.callout[data-callout="infobox"] > .callout-title { justify-content: center; font-size: 1.25em; letter-spacing: 0.02em; padding: 0.55em; background: var(--background-modifier-hover); border-bottom: 1px solid var(--background-modifier-border); }
+.callout[data-callout="infobox"] > .callout-title .callout-icon { display: none; }
+.callout[data-callout="infobox"] > .callout-content { padding: 0.6em 0.8em; }
+.callout[data-callout="infobox"] img { width: 100%; border-radius: 8px; margin-bottom: 0.4em; }
+.callout[data-callout="infobox"] ul { margin: 0.2em 0; padding-left: 0; list-style: none; }
+.callout[data-callout="infobox"] li { margin: 0; padding: 0.42em 0.3em; border-bottom: 1px dotted var(--background-modifier-border); }
+.callout[data-callout="infobox"] li:last-child { border-bottom: none; }
+
+/* ---- Gallery grid + inline spoiler -------------------------- */
+.callout[data-callout="gallery"] > .callout-content { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 8px; }
+.callout[data-callout="gallery"] img { width: 100%; height: 130px; object-fit: cover; border-radius: 8px; }
+.spoiler-inline { background: var(--text-normal); color: transparent; border-radius: 4px; padding: 0 0.2em; transition: 0.2s ease; }
+.spoiler-inline:hover { background: transparent; color: var(--text-normal); }
+
+/* ---- Multi-column lists (opt-in: cssclasses: ["two-columns"]) */
+.two-columns ul   { column-count: 2; column-gap: 2em; }
+.three-columns ul { column-count: 3; column-gap: 1.6em; }
+.two-columns li, .three-columns li { break-inside: avoid; margin-bottom: 0.25em; }
+@media (max-width: 700px) { .two-columns ul, .three-columns ul { column-count: 1; } }
+
+@media (max-width: 600px) { .callout[data-callout="infobox"] { float: none; width: 100%; margin: 1em 0; } }
+
+/* ============================================================
+   LOCAL ONLY — colored section folders in the file explorer
+   (matches the page-type accents; has no effect on the Publish site)
+   ============================================================ */
+.nav-folder-title[data-path="00 Start Here"]    .nav-folder-title-content { color: rgb(130, 130, 150); font-weight: 600; }
+.nav-folder-title[data-path="01 Characters"]    .nav-folder-title-content { color: rgb(220, 90, 110); font-weight: 600; }
+.nav-folder-title[data-path="02 Concepts"]      .nav-folder-title-content { color: rgb(79, 124, 230); font-weight: 600; }
+.nav-folder-title[data-path="03 Symbols"]       .nav-folder-title-content { color: rgb(150, 90, 200); font-weight: 600; }
+.nav-folder-title[data-path="04 Songs"]         .nav-folder-title-content { color: rgb(45, 170, 140); font-weight: 600; }
+.nav-folder-title[data-path="05 Albums & Eras"] .nav-folder-title-content { color: rgb(214, 158, 56); font-weight: 600; }
+.nav-folder-title[data-path="06 Reading Paths"] .nav-folder-title-content { color: rgb(120, 110, 215); font-weight: 600; }

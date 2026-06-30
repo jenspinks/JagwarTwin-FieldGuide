@@ -1,9 +1,10 @@
 ---
 title: Duality
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Duality.md", "Sources/Transcripts/New-England-Sounds-2019-Avril-Tour.md", "Sources/Transcripts/Roy IG Live - Bailey 12 Labours of Hercules.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Duality
 

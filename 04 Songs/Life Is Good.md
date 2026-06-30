@@ -1,9 +1,10 @@
 ---
 title: Life Is Good
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Life Is Good.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Life Is Good
 

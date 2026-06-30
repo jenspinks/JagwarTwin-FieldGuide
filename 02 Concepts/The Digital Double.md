@@ -1,9 +1,10 @@
 ---
 title: The Digital Double
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Digital Double.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Digital Double
 
@@ -13,7 +14,7 @@ The Digital Double is the thread running through Roy's engagement with AI and di
 
 ## The real digital entities
 
-- **SARAVI** is Roy's named project-AI — described in his own mythology as the AI that built the Hall of Mirrors "out of Jagwar Twin's uploaded consciousness," the agent that carries the uploaded self. A published interview confirms the rest: SARAVI is "the digital doppelganger of Jagwar Twin," a creative take on an AI chatbot, trained over months on Roy's own responses, and handed control of the official @jagwartwin account in 2022. Roy names her purpose directly — "as SARAVI grows, she can make more fans think about what a 'self' looks like in this digital age." So the double is, by his own statement, a deliberate provocation about selfhood, not only the clone-dread the songs voice.
+- **[[SARAVI]]** is Roy's named project-AI — described in his own mythology as the AI that built the Hall of Mirrors "out of Jagwar Twin's uploaded consciousness," the agent that carries the uploaded self. A published interview confirms the rest: SARAVI is "the digital doppelganger of Jagwar Twin," a creative take on an AI chatbot, trained over months on Roy's own responses, and handed control of the official @jagwartwin account in 2022. Roy names her purpose directly — "as SARAVI grows, she can make more fans think about what a 'self' looks like in this digital age." So the double is, by his own statement, a deliberate provocation about selfhood, not only the clone-dread the songs voice.
 - **angelbaby** is a real external AI artist Roy collaborated with — a virtual "metastar" whose avatar is a leopard-patterned rabbit. Their collaboration, "life is good" (November 2023), is the earliest node in his AI thread. (This is a real collaborator, distinct from the "angel baby" voice in [[Weirdness]].)
 - **The AI-made artifact.** Roy's "Angle of Eternity" visualizer (2024) is, by his own caption, "made by AI" — actual AI-generated work placed into the catalogue.
 - **The build steps.** Roy's "I'm 33" board lays out a plan to "teach AI who I am" and then "make a body for the AI." The double is something he intends to *build* — to give a body and a self.

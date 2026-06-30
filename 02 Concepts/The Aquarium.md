@@ -1,9 +1,10 @@
 ---
 title: The Aquarium
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Aquarium.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Aquarium
 

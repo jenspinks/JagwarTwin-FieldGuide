@@ -1,9 +1,10 @@
 ---
 title: Superhuman
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Superhuman.md", "Brain/Songs/Subject to Flooding (2018)/Superhuman.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Superhuman
 

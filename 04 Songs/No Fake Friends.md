@@ -1,9 +1,10 @@
 ---
 title: No Fake Friends
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/No Fake Friends.md", "Brain/Songs/Subject to Flooding (2018)/No Fake Friends.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # No Fake Friends
 

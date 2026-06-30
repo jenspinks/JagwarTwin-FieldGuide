@@ -1,9 +1,10 @@
 ---
 title: The Labors of Hercules
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Labors of Hercules.md", "Essays/Concepts/The Labors of Hercules.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Labors of Hercules
 

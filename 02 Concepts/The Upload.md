@@ -1,9 +1,10 @@
 ---
 title: The Upload
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Upload.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Upload
 
@@ -19,7 +20,7 @@ The fuller operation comes from Roy's "I'm 33" board — his own artifact — wh
 
 ## It began as a joke
 
-In a published interview, Roy describes the origin: "I joked with the CTHDRL team saying, 'what if I uploaded my consciousness to the internet so that there could be a 24/7 social influencer version of me.'" So the Upload — and SARAVI with it — was born as a satirical quip about influencer culture, then built out in earnest. The irony is load-bearing. The deadpan "24/7 influencer self" of the manifesto is the same idea that [[Online]] and [[The Watchers]] take seriously as horror. The Upload cuts both ways by design.
+In a published interview, Roy describes the origin: "I joked with the CTHDRL team saying, 'what if I uploaded my consciousness to the internet so that there could be a 24/7 social influencer version of me.'" So the Upload — and [[SARAVI]] with it — was born as a satirical quip about influencer culture, then built out in earnest. The irony is load-bearing. The deadpan "24/7 influencer self" of the manifesto is the same idea that [[Online]] and [[The Watchers]] take seriously as horror. The Upload cuts both ways by design.
 
 ## Attention, given a face, is the Eye
 

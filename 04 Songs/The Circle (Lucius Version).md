@@ -1,9 +1,10 @@
 ---
 title: The Circle (Lucius Version)
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/The Circle (Lucius Version).md", "Brain/Songs/Lucius Lullaby (2026)/The Circle (Lucius Version).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Circle (Lucius Version)
 

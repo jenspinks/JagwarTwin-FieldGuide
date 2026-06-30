@@ -1,9 +1,10 @@
 ---
 title: Flattened Identity
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/Flattened Identity.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Flattened Identity
 

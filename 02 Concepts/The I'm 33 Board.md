@@ -1,9 +1,10 @@
 ---
 title: The I'm 33 Board
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Im 33 Board - Decoded (Roy's upload cosmology).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The I'm 33 Board
 

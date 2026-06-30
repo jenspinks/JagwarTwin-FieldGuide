@@ -1,9 +1,10 @@
 ---
 title: Long Time Coming
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Long Time Coming.md", "Brain/Songs/Subject to Flooding (2018)/Long Time Coming.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Long Time Coming
 

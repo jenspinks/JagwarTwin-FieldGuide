@@ -1,9 +1,10 @@
 ---
 title: Gnosticism - The World as Trap
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/Gnosticism - The World as Trap.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Gnosticism - The World as Trap
 

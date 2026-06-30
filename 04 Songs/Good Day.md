@@ -1,9 +1,10 @@
 ---
 title: Good Day
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Good Day.md", "Brain/Songs/Subject to Flooding (2018)/Good Day.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Good Day
 

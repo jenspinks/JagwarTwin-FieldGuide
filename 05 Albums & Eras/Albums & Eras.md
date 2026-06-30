@@ -1,6 +1,7 @@
 ---
 title: Albums & Eras
 type: meta
+cssclasses: ["type-meta"]
 status: published
 confidence: grounded
 ---

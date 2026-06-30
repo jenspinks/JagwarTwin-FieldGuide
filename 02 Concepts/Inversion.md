@@ -1,9 +1,10 @@
 ---
 title: Inversion
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Inversion.md", "Sources/Artifacts/Roy - Tattoos (body inventory).md", "Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Inversion
 

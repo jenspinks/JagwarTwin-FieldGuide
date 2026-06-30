@@ -1,6 +1,7 @@
 ---
 title: The Jagwar Twin Field Guide
 type: meta
+cssclasses: ["type-meta"]
 status: published
 confidence: grounded
 ---

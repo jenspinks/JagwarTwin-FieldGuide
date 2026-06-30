@@ -1,9 +1,10 @@
 ---
 title: The Audience
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Audience.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Audience
 

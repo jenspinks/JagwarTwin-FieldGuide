@@ -1,9 +1,10 @@
 ---
 title: Shine
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Shine.md", "Brain/Songs/Subject to Flooding (2018)/Shine.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Shine
 

@@ -1,9 +1,10 @@
 ---
 title: Pay Attention (feat. little luna)
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Pay Attention (feat. little luna).md", "Brain/Songs/33 (2022)/Pay Attention (feat. little luna).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Pay Attention (feat. little luna)
 

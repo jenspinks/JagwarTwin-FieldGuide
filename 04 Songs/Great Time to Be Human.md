@@ -1,9 +1,10 @@
 ---
 title: Great Time to Be Human
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Great Time to Be Human.md", "Brain/Songs/Lucius Lullaby (2026)/Great Time to Be Human.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Great Time to Be Human
 

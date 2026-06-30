@@ -1,6 +1,7 @@
 ---
 title: Concepts
 type: meta
+cssclasses: ["type-meta", "two-columns"]
 status: published
 confidence: grounded
 ---

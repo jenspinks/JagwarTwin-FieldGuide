@@ -1,9 +1,10 @@
 ---
 title: Witnessing vs Surveillance
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Witnessing vs Surveillance.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Witnessing vs Surveillance
 

@@ -1,9 +1,10 @@
 ---
 title: Pronoun Audit (I-You)
 type: concept
+cssclasses: ["type-concept"]
 status: draft
 confidence: mixed
-source: ["Brain/Concepts/Pronoun Audit - I-you machine (33 vs Lucius Lullaby).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Pronoun Audit (I-You)
 

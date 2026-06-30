@@ -1,9 +1,10 @@
 ---
 title: Fire
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/Fire.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Fire
 

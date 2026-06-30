@@ -1,9 +1,10 @@
 ---
 title: SOL
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/SOL.md", "Brain/Songs/Lucius Lullaby (2026)/SOL.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # SOL
 

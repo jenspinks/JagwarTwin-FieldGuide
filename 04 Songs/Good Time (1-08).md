@@ -1,9 +1,10 @@
 ---
 title: Good Time (1:08)
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Good Time (1-08).md", "Brain/Songs/Singles & EPs/Good Time (1-08).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Good Time (1:08)
 

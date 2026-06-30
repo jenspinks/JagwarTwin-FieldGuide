@@ -1,9 +1,10 @@
 ---
 title: The Pattern
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Pattern.md", "Sources/Artifacts/Roy - I'm 33 this year (spreadsheet).md", "Sources/Quotes/Roy X Posts - June 2026 (aphorisms).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Pattern
 

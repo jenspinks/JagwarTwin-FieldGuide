@@ -1,9 +1,10 @@
 ---
 title: Inherited Substrate
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: grounded
-source: ["Brain/Concepts/Inherited Substrate.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Inherited Substrate
 

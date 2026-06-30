@@ -1,9 +1,10 @@
 ---
 title: The Circle
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/The Circle.md", "Brain/Songs/33 (2022)/The Circle.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Circle
 

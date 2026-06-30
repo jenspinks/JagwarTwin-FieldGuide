@@ -1,9 +1,10 @@
 ---
 title: Hermeticism - As Above So Below
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/Hermeticism - As Above So Below.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Hermeticism - As Above So Below
 

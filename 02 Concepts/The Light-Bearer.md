@@ -1,9 +1,10 @@
 ---
 title: The Light-Bearer
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/The Light-Bearer.md", "Brain/Characters/Sir Lucius.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Light-Bearer
 

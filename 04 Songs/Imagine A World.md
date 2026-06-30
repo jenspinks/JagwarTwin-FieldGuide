@@ -1,9 +1,10 @@
 ---
 title: Imagine A World
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Imagine A World.md", "Brain/Songs/33 (2022)/Imagine A World.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Imagine A World
 

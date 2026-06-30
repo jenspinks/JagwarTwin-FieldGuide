@@ -1,9 +1,10 @@
 ---
 title: Playing to the Gods
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Playing to the Gods.md", "Brain/Songs/Lucius Lullaby (2026)/Playing to the Gods.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Playing to the Gods
 

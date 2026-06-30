@@ -1,9 +1,10 @@
 ---
 title: The Rabbit
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Sources/Transcripts/Roy TikTok - Good Time (1-08) dream story.md", "Sources/Artifacts/HoM Room 51 - Sir Rabbit (poem).md", "Brain/Characters/Sir Rabbit.md", "Sources/Quotes/Roy X Posts - June 2026 (aphorisms).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Rabbit
 

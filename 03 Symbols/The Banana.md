@@ -1,9 +1,10 @@
 ---
 title: The Banana
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Banana.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Banana
 

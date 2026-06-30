@@ -1,9 +1,10 @@
 ---
 title: The Thread
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Thread.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Thread
 

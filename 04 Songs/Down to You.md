@@ -1,9 +1,10 @@
 ---
 title: Down to You
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Down to You.md", "Brain/Songs/33 (2022)/Down to You.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Down to You
 

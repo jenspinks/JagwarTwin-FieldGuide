@@ -1,9 +1,10 @@
 ---
 title: The Green Apple
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts).md", "Brain/Characters/Sir Lucius.md", "Sources/Quotes/Sir Lucius IG Post - Keys to Instagram (truth deceiving).md", "Brain/Concepts/The Banana.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Green Apple
 

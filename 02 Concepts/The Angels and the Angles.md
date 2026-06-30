@@ -1,9 +1,10 @@
 ---
 title: The Angels and the Angles
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/The Angels and the Angles.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Angels and the Angles
 

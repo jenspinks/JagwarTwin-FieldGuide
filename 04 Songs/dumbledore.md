@@ -1,9 +1,10 @@
 ---
 title: dumbledore
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/dumbledore.md", "Brain/Songs/Singles & EPs/dumbledore.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # dumbledore
 

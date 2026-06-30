@@ -1,9 +1,10 @@
 ---
 title: LOOP
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/LOOP.md", "Brain/Songs/Singles & EPs/LOOP.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # LOOP
 

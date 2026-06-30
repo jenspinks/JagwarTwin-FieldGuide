@@ -1,9 +1,10 @@
 ---
 title: Soul Is A Star
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Soul Is A Star.md", "Brain/Songs/33 (2022)/Soul Is A Star.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Soul Is A Star
 

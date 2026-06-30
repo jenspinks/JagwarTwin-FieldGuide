@@ -1,9 +1,10 @@
 ---
 title: Bounce
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Bounce.md", "Brain/Songs/Lucius Lullaby (2026)/Bounce.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Bounce
 

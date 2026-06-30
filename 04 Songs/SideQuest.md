@@ -1,9 +1,10 @@
 ---
 title: SideQuest
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/SideQuest.md", "Brain/Songs/Singles & EPs/SideQuest.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # SideQuest
 

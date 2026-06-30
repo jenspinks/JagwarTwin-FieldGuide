@@ -1,6 +1,7 @@
 ---
 title: Esoteric and Mythological References
 type: reading-path
+cssclasses: ["type-reading-path"]
 status: published
 confidence: grounded
 ---

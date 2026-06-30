@@ -1,9 +1,10 @@
 ---
 title: Dream / Dream
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Dream - Dream.md", "Brain/Songs/Subject to Flooding (2018)/Dream - Dream.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Dream / Dream
 

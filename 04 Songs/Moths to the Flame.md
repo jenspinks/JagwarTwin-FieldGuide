@@ -1,9 +1,10 @@
 ---
 title: Moths to the Flame
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Moths to the Flame.md", "Brain/Songs/Lucius Lullaby (2026)/Moths to the Flame.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Moths to the Flame
 

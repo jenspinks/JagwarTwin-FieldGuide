@@ -1,9 +1,10 @@
 ---
 title: "#1 Champion (la Conquistadora)"
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/#1 Champion (la Conquistadora).md", "Brain/Songs/Lucius Lullaby (2026)/#1 Champion (la Conquistadora).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # #1 Champion (la Conquistadora)
 

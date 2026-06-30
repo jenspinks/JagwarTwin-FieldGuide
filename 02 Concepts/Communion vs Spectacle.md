@@ -1,9 +1,10 @@
 ---
 title: Communion vs Spectacle
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: reading
-source: ["Brain/Concepts/Communion vs Spectacle.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Communion vs Spectacle
 

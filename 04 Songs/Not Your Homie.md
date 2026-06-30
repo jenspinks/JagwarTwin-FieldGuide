@@ -1,9 +1,10 @@
 ---
 title: Not Your Homie
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Not Your Homie.md", "Brain/Songs/Lucius Lullaby (2026)/Not Your Homie.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Not Your Homie
 

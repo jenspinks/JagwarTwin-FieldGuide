@@ -1,9 +1,10 @@
 ---
 title: The House and the Vessel
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The House & the Vessel — Container Imagery (hold, open, shatter, hatch).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The House and the Vessel
 

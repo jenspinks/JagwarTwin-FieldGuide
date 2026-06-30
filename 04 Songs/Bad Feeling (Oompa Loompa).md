@@ -1,9 +1,10 @@
 ---
 title: Bad Feeling (Oompa Loompa)
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Bad Feeling (Oompa Loompa).md", "Brain/Songs/Lucius Lullaby (2026)/Bad Feeling (Oompa Loompa).md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Bad Feeling (Oompa Loompa)
 

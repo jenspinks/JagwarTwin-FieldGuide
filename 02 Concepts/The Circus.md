@@ -1,9 +1,10 @@
 ---
 title: The Circus
 type: concept
+cssclasses: ["type-concept"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Circus.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Circus
 

@@ -1,9 +1,10 @@
 ---
 title: The Mirror
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Brain/Concepts/The Mirror.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Mirror
 

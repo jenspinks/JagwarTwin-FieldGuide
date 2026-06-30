@@ -1,6 +1,7 @@
 ---
 title: How to Read This Site
 type: meta
+cssclasses: ["type-meta"]
 status: published
 confidence: grounded
 ---
@@ -18,17 +19,18 @@ Each page opens with a **one-line reading** in a quote block — the single most
 
 Pages mix what the work *says* with what it might *mean*. The wording tells you which is which:
 
-- **Plain statement** ("Roy has said…", "the video shows…") = grounded fact.
-- **"Reads as / suggests / can be understood as"** = a strong interpretation, not a confirmed one.
-- **"One reading is…" / "speculatively…"** = an offered possibility.
+- **Plain statement** ("Roy has said…", "the video shows…") = grounded fact.  **Let me remind you though...the thing about facts is they can be relative, partial, or misleading.**  
+- **"Reads as / suggests / can be understood as"** = a strong interpretation, not a confirmed one. There is likely truth here but we can not prove the claim. 
+- **"One reading is…" / "speculatively…"** = an offered possibility. 
+  A.K.A I thought it once and thought that that might make it true, so I shared it with you.  
 
 Full detail in the **[[Source and Interpretation Policy]]**.
 
 ## What this is — and isn't
 
-It **is** an independent, interpretive field guide: a readable map of a rich body of work, made by a listener who's spent a long time inside it.
+It **is** an independent, interpretive field guide: a readable map of a rich body of work, made by a listener who's stared at it for a long time, took notes, and had robots turn those notes into a knowledge blob.  
 
-It **isn't** official, and it isn't a claim to have "solved" anything. The artist is alive and still releasing. Every page is a current best understanding, not the final word — and the work is more than any reading of it.
+It **isn't** official, and it isn't a claim to have "solved" anything. The artist is still creating this work and warns us at every turn that "Nothing's what it seems". Every page is a current best understanding, not the final word — and the work is more than any reading of it.
 
 ## A note on quotes
 

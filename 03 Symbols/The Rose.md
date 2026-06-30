@@ -1,9 +1,10 @@
 ---
 title: The Rose
 type: symbol
+cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
-source: ["Sources/Reference/Roy - LOOP-era Theatrical Lore (compiled posts).md", "Sources/Artifacts/Roy - Tattoos (body inventory).md", "Brain/Concepts/Inversion.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # The Rose
 

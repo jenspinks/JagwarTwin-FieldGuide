@@ -1,9 +1,10 @@
 ---
 title: It's Your Time
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/It's Your Time.md", "Brain/Songs/33 (2022)/It's Your Time.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # It's Your Time
 

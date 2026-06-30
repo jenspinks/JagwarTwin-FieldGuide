@@ -1,9 +1,10 @@
 ---
 title: Bananas
 type: song
+cssclasses: ["type-song"]
 status: published
 confidence: mixed
-source: ["Essays/Concepts/Songs/Bananas.md", "Brain/Songs/Lucius Lullaby (2026)/Bananas.md"]
+source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
 # Bananas
 
