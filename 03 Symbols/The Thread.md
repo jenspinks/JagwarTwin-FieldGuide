@@ -58,7 +58,7 @@ And one disguise is anatomical: the thread is the **feeling that comes out of [[
 
 **[[Ballerina Boy]]** (single) — lists the Thread as an active symbol, and earns it. The childhood wound is the string-cosmology itself — *"you're not a real boy"* (×4), the puppet defined by his strings to a maker — and the song's central fork, *"do I kill myself or come back for that kid I let go,"* maps cleanly onto the thread: *coming back for the kid* is refusing to sacrifice the feeling. The motherly outro blessing (*"you are one of a kind, God's design… let your light shine"*) is the thread re-tied by a [[Mary|feminine voice]].
 
-**[[Not Your Homie]]** ([[Lucius Lullaby (album)|Lucius Lullaby]], 2026) — the song where the thread gets *traded away.* What [[Sir Lucius]]'s bargain extracts is precisely the feeling that must not be cut. If [[The Circle]] is the thread held, this is the thread sold.
+**[[Not Your Homie]]** (single, 2025; on [[Lucius Lullaby (album)|Lucius Lullaby]]) — the song where the thread gets *traded away.* What [[Sir Lucius]]'s bargain extracts is precisely the feeling that must not be cut. If [[The Circle]] is the thread held, this is the thread sold.
 
 **[[tomorrow (ANGLE OF ETERNITY)]]** (with lovelytheband) — continues the remembrance move. *"The wise one remembered she once held the string"* rhymes forward into *"do you remember?"* — a guide helping the other remember the line back, which is the thread's whole job.
 

@@ -17,7 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Nature** — the mind severed from the heart
 > - **Register** — lunar · reflective · audience-dependent
 > - **First appeared** — *Good Time (1:08)*, 2023 *(per Roy)*
-> - **Co-credited** — *Lucius Lullaby*, March 27 2026
+> - **Co-credited** — first on *Not Your Homie*, Oct 31 2025; full album billing on *Lucius Lullaby*, March 27 2026
 > - **Mark** — 🍏 the green apple · signs 🗡🍏
 > - **Tattoo** — *El Roi* (throat)
 > - **Symbols** — [[The Mirror]] · [[The Mask]] · [[The Moon]] · [[The Green Apple]]
@@ -25,25 +25,29 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **Role** — Roy's shadow; the intellect that stopped serving and started ruling. By 2026 he is a *co-credited artist* with his own streaming pages.
+- **Role** — Roy's shadow; the intellect that stopped serving and started ruling. By 2025 he is a *co-credited artist* with his own streaming pages.
 - **Start with** — [[Welcome to the Circus]] (Lucius at full power) · [[Lucius Lullaby (album)|Lucius Lullaby]] (the album that hands him the mic) · [[The Green Apple]] (his mark, decoded).
 - **Core conflict** — mind serving heart versus mind *replacing* heart; the 2026 album asks whether the protector can be revised or has become a prison.
-- **Key symbols** — [[The Green Apple]] · [[The Mirror]] · [[The Mask]] · [[The Moon]] · [[The Rabbit]] · the dagger 🗡
+- **Key symbols** — [[The Green Apple]] · [[The Mirror]] · [[The Mask]] · [[The Moon]] · [[The Rabbit]] · the dagger 🗡, The Morning Star
 - **Confidence** — grounded fact (Roy's own statements, released music, public posts) braided with strong interpretation; the esoteric framework is labeled as such throughout.
 
-## Why this figure matters
+## What are we dealing with?
 
-Here is a man who logged into his own band's verified Instagram and trashed the band. He called Jagwar Twin "a one hit wonder," dismissed a hundred-million-stream single as "a cringe TikTok song," ranked Charli XCX and Chappell Roan comfortably above him, sighed that "everyone is an artist or a guru or a dj these days — I'm bored," told the fans to "find something more interesting to do with your little life," and then — this is the part — signed off, pompously, *"Your loyal servant, Sir Lucius 🗡🍏."* Cruelty in courtier's costume, dagger and green apple, yours faithfully.
+Lucius is instinct and ambition — the heart separated from the mind, but separated, not without. He is action spurred by fear and pain. He is the frantic protection of a mother fearing vulnerability: the instinctual response born of learned reaction rather than wisdom. He is ego trying to protect what is vulnerable, unknowingly destroying the very vulnerability he holds dear. He is a truth that is hard to grasp because it twists and turns — sometimes you can be looking directly at it and not see it.
 
-That's Sir Lucius at his funniest, and the comedy is not a sideshow. It's the whole tell. A figure who needs to broadcast his own greatness this loudly, who signs "servant" while staging a coup, who plays his chart-toppers off a browning banana — this is not a villain who's winning. It's a wounded thing performing enormousness so it never has to feel small again.
+He is not reducible to manipulation, nor to shadow alone, nor to protection alone. He holds all three registers simultaneously. When Roy's sincere phrase enters Lucius's mouth in a different key, seductive, urgent, demanding, the register is not simply deceptive; it is the frantic motion of something that loves what it is about to harm, and harms to protect. The three registers do not cancel each other; they are the same gesture seen from different angles.
 
-The rollout itself ran the joke at scale, and the whiplash is the point. For months the official posts campaigned *for* him — *"Leave sir lucius alone ✋🖤,"* *"sir lucius for president 🫡,"* *"welcome to the circus clowns 🎪"* — and then, at the album's release, the same channels papered Los Angeles with *"STOP SIR LUCIUS"* flyers and freeway banners, captioned *"We must stop him."* A figure campaigned for and hunted by the same account in the same season: that contradiction, staged in public, is the most honest thing about him.
+Lucius took over the JT Instagram and trashed the music. He called Jagwar Twin "a one hit wonder," dismissed a hundred-million-stream single as "a cringe TikTok song," ranked Charli XCX and Chappell Roan comfortable him, sighed that "everyone is an artist or a guru or a dj these days — I'm bored," told the fans to "find something more interesting to do with your little life," and then — this is the part — signed off, pompously, *"Your loyal servant, Sir Lucius 🗡🍏."* Cruelty in courtier's costume, dagger and green apple, yours faithfully.
 
-He is the most important figure in the Jagwar Twin world after [[Roy]], and the two cannot be understood apart. He is not a villain in any simple sense. He emerged to protect a wounded self, and he genuinely held the buried light through years when Roy couldn't. The whole 2026 record asks whether that arrangement can finally be revised — or whether the protector has become the cell.
+That's Sir Lucius at his funniest, and the comedy is not a sideshow. It's the whole tell. A figure who needs to broadcast his own greatness this loudly, who signs "servant" while staging a coup, who's music is channeled though a browning sterile fruit... this is not a villain who's winning. It's a wounded thing performing enormousness so it never has to feel small again.
+
+The rollout itself ran the joke at scale, and the whiplash was intentional. For months the official posts campaigned *for* him *"Leave sir lucius alone ✋🖤,"* *"sir lucius for president 🫡,"* *"welcome to the circus clowns 🎪"* and then, at the album's release, the same channels papered Los Angeles with *"STOP SIR LUCIUS"* flyers and freeway banners, captioned *"We must stop him."* A figure campaigned for and hunted by the same account in the same season: that contradiction, staged in public, is the most honest thing about him.
+
+He is the most important figure in the Jagwar Twin world after [[Roy]], and the two cannot be understood apart because they require each other. He is not a villain in any simple sense. He emerged to protect a wounded child, and he genuinely held the buried light through years when Roy couldn't. The whole 2026 record asks whether that arrangement can finally be revised — or whether the protector has become the cell.
 
 ## Who he is
 
-By 2026, Lucius is a **co-credited performing artist** alongside [[Roy|Jagwar Twin]] on [[Lucius Lullaby (album)|Lucius Lullaby]] (released March 27, 2026), with his own Apple Music and Spotify artist pages — and he takes over the album's premiere , "Sir Lucius takes over the premiere." The album-as-object is, in a real sense, *his*: his production, his algorithmic selection, his arc, even where Roy is the voice singing it.
+By 2025, Lucius is already a **co-credited performing artist** — first on the *Not Your Homie* single (Oct 31, 2025) — and by [[Lucius Lullaby (album)|Lucius Lullaby]] (released March 27, 2026) he shares the project's full billing alongside [[Roy|Jagwar Twin]], with his own Apple Music and Spotify artist pages — and he takes over the album's premiere , "Sir Lucius takes over the premiere." The album-as-object is, in a real sense, *his*: his production, his algorithmic selection, his arc, even where Roy is the voice singing it.
 
 Inside the mythology, though, he isn't a separate person at all. He's formed from Roy's own interior life — *"the mind divorced from the heart."* Roy's line to him is simply: *"I made you."* Roy doesn't beat him in any duel; the whole drama is a man arguing with himself across a table.
 
@@ -61,7 +65,7 @@ And crucially, you don't *beat* him. Roy is explicit that the work is integratio
 
 ## Protector by concealment
 
-Lucius's first function is protection. The vulnerable thing he protects is the [[Ballerina Boy]] — the shamed, buried child who learned that being visible could be dangerous. Lucius does not hide the boy because he hates him; he hides him because he believes exposure will kill him. The tragedy is that the protection becomes a second wound: what once kept the boy safe eventually keeps him unreachable.
+Lucius's first function is protection. The vulnerable thing he protects is the [[Ballerina Boy]]  the shamed, buried child who learned that being visible could be dangerous. Lucius does not hide the boy because he hates him; he hides him because he believes exposure will kill him. The tragedy is that the protection becomes a second wound: what once kept the boy safe eventually keeps him unreachable.
 
 Frame him this way and the whole figure snaps into focus. Lucius is **love distorted into control, protection hardened into concealment, truth used to keep the wound from ever being touched.** Every move in his repertoire — the boasting, the bargain, the mockery of the lowest-streaming song — is a guard posted at the door of one buried room. That is why the same figure who mocks *"Ballerina Boy. When you're vulnerable you LOSE!"* is also, underneath, the thing that once stood between that boy and a world that had already hurt him. He isn't guarding a throne. He's guarding a child.
 
@@ -182,9 +186,9 @@ This is why he reads as morally complex rather than evil. He genuinely emerged f
 
 ## Earlier traces — "he was seen, not born"
 
-The tempting move is to date Lucius to an origin — a childhood wound, the *Lucius Lullaby* crisis, the 2026 co-credit. None of those is right. Each is a moment he became *more visible*, not a moment he began. Roy himself dates the figure to *Good Time (1:08)* in 2023 — but the image is older than that, and older than the name.
+The tempting move is to date Lucius to an origin — a childhood wound, the *Lucius Lullaby* crisis, the co-credit. None of those is right. Each is a moment he became *more visible*, not a moment he began. Roy himself dates the figure to *Good Time (1:08)* in 2023 — but the image is older than that, and older than the name.
 
-- **Good Time (1:08), 2023.** Three years before the streaming credit, the entire visual vocabulary is already assembled: white face, the small cross on the cheek, darkened eyes, red-streaked hair, medieval armor, cigarette — and the cigarette hand displays Roy's *"The Empty Mirror"* tattoo. The song's own line: *"I'm a mastermind."* This is the first self-designation in a timeline Lucius narrates in his own words: **mastermind** (2023) → **final boss** (2026).
+- **Good Time (1:08), 2023.** Two years before Lucius's first streaming credit (*Not Your Homie*, 2025), the entire visual vocabulary is already assembled: white face, the small cross on the cheek, darkened eyes, red-streaked hair, medieval armor, cigarette — and the cigarette hand displays Roy's *"The Empty Mirror"* tattoo. The song's own line: *"I'm a mastermind."* This is the first self-designation in a timeline Lucius narrates in his own words: **mastermind** (2023) → **final boss** (2026).
 - **The silent-shadow era.** Before he had the mic, Lucius appeared *silent, at the end of videos* — the white-face clown closing *The Watchers*; the harlequin-hatted figure closing the 2024 *Bad Feeling* single (holding a candle while three performers' heads burn — the Light-Bearer setting the show alight). The *Lucius Lullaby* era reverses this: the same songs that once ended on a silent shadow at the edge now arrive full-voiced and credited at the center. *The album is Lucius being handed the microphone.*
 
 > [!note]- Advanced reading — the earliest traces (Rorrim Ehtni, the 2021 shadow-voice, "I Like to Party")

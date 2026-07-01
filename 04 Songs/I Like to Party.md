@@ -62,7 +62,7 @@ The mechanics are the **Pied Piper's**: *"one, two, three, four, follow me / to 
 
 ### Lucius-coded, not Lucius-voiced
 
-The song dramatizes the exact mechanism [[Sir Lucius]] later personifies — spectacle as containment, false sweetness, media seduction, awakening-language converted to content — years **before** Lucius is named or credited. This is the catalogue's cleanest example of *Lucius-inspired-but-not-voiced*: Roy is the **object** here (the one being fed the cake in the video), not the speaker, which is precisely what separates it from the songs Lucius actually sings. The 2021 end-card even names him by function — *"Devil waking up to claim the kingdom"* — a full two years before the 2023 dream-origin and four before the 2026 co-credit. He was on the song before he had a name.
+The song dramatizes the exact mechanism [[Sir Lucius]] later personifies — spectacle as containment, false sweetness, media seduction, awakening-language converted to content — years **before** Lucius is named or credited. This is the catalogue's cleanest example of *Lucius-inspired-but-not-voiced*: Roy is the **object** here (the one being fed the cake in the video), not the speaker, which is precisely what separates it from the songs Lucius actually sings. The 2021 end-card even names him by function — *"Devil waking up to claim the kingdom"* — a full two years before the 2023 dream-origin and four before Lucius's first co-credit (*Not Your Homie*, 2025). He was on the song before he had a name.
 
 ## Characters
 

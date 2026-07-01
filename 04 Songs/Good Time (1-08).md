@@ -20,7 +20,7 @@ Some songs describe a myth. This one *is* the origin event: it's the earliest po
 
 ## At a glance
 
-- **Era / release** — standalone single, September 2023 (Big Loud); no album. Part of the singles runway that feeds into the 2026 [[Lucius Lullaby (album)|Lucius Lullaby]] record — three years *before* the "Sir Lucius" streaming co-credit exists.
+- **Era / release** — standalone single, September 2023 (Big Loud); no album. Part of the singles runway that feeds into the 2026 [[Lucius Lullaby (album)|Lucius Lullaby]] record — two years *before* the first "Sir Lucius" streaming credit (*Not Your Homie*, 2025).
 - **In one line** — the dream where Roy, driving lost as a rabbit, gets a passenger with all the answers and a bad feeling attached to every one of them.
 - **Who speaks** — mostly **Sir Lucius** (the seductive-guide verses are his pitch), with **Roy** surfacing in the one honest line the whole bright chorus is built to bury. There's no marked vocal split — that's a reading of the dream and the face-paint video, not a credited hand-off — but it's the read the material keeps asking for.
 - **Key symbols** — the [[The Rabbit|rabbit]] (self vs self) · lightning (the crash that is also a revelation) · the wheel (who steers the search) · [[The Mask|clown makeup]] · knight armor · [[Welcome to the Circus|"step right up"]] (proto-Circus).
@@ -129,7 +129,7 @@ That last non-sequitur becomes the song's *sound.* Rattled, Roy goes to the stud
 
 ## Read next
 
-- [[Sir Lucius]] — the whole figure, from this dream to the 2026 co-credit.
+- [[Sir Lucius]] — the whole figure, from this dream (2023) to the first co-credit (*Not Your Homie*, 2025) and the full album billing (2026).
 - [[Welcome to the Circus]] — the same *"step right up"* call, teeth bared; *"final boss."*
 - [[The Green Apple]] — the *"truth can be deceiving"* mark that this song grounds three years early.
 - [[Bad Feeling]] — the release-adjacent Lucius single, tagged alongside this one.

@@ -11,7 +11,6 @@ This guide tries to be honest about two different things: **what the work actual
 
 ## What counts as a source
 
-- This guide uses **public material only**:
 
 - released songs and verified lyrics (cross-checked against streaming, not lyric-scraper sites)
 - official music videos, staging, costume, and imagery
@@ -33,6 +32,6 @@ When a page leans on a particular framework — Jungian shadow, Kabbalah, tarot,
 
 ## The one rule under all of it
 
-> Recurrence is cheap evidence; transformation and contrast are dear. A symbol that simply repeats proves little. A symbol that *changes* —  the protector who becomes a prison, the mirror that turns from sacred to dangerous — is where the real meaning lives.
+> Recurrence is cheap evidence; transformation and contrast are dear. A symbol that simply repeats proves little. A symbol that *changes*  - the protector who becomes a prison, the mirror that turns from sacred to dangerous - is where the real meaning lives....usually
 
-The aim is a serious interpretive guide, not a corkboard with red string. If a reading only holds because a framework was imposed on it, it doesn't belong here.
+The aim is a serious interpretive guide, not a corkboard with red string. It is also a corkboard with read string but we are aiming higher.  If a reading only holds because a framework was imposed on it, it doesn't belong here.
