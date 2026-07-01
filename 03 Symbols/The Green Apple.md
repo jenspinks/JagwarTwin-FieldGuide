@@ -80,7 +80,7 @@ The apple also has a sibling. [[The Banana]] is the altar's *other* fruit, and t
 
 - [[Genesis 3]] / The Fall — the forbidden fruit, the tree of knowledge; Roy's own tag for the *Lucius Lullaby* material, re-read as *premature* rather than merely forbidden.
 - The Devil card (Tarot XV) / Paul Foster Case / BOTA — the named tarot lineage where the green apple appears "as a kind of code."
-- [[The Light-Bearer]] / Lucifer — Lucius as morning star; the apple as the fruit of *unripe* illumination, light that disorients rather than guides.
+- [[The Light-Bearer]] / Lucifer — Lucius as the Light-Bearer (Hod/Mercury; the morning-star a demoted resonance); the apple as the fruit of *unripe* illumination, light that disorients rather than guides.
 - [[The Mirror]] — Lucius's deeper nature; the apple is its emblem, the mirror its mechanism (and the occluded-eye image is the mirror at work).
 - [[The Mask]] — the painted face that holds the apple; survival hardened into identity, the apple's iconographic neighbor (armor, X-eyes, shush).
 - [[The Loop]] / [[The Circle]] — the apple's premature-knowledge logic feeds Lucius's loop: recurrence without earned maturity, shared with the sterile [[The Banana|banana]].

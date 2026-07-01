@@ -13,7 +13,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ## At a glance
 
 - **What it does** — names **reflected light**: a body that generates nothing of its own and shines only because the sun shines on it. The work uses it to ask its central question — does a reflected thing point back to what lit it, or set up as a light in its own right?
-- **Carried by** — [[Roy]] (occupies the lunar *position* — the vessel emptied to receive) · [[Mary]] (carries the moon's *theology* — reflected light in exile, promised restoration) · [[Sir Lucius]] works *through* the moon's reflective realm without being its proper occupant (he's better placed as the morning star).
+- **Carried by** — [[Roy]] (occupies the lunar *position* — the vessel emptied to receive) · [[Mary]] (carries the moon's *theology* — reflected light in exile, promised restoration) · [[Sir Lucius]] works *through* the moon's reflective realm without being its proper occupant (he's better placed at Hod/Mercury — the intellect — with the morning-star only a demoted resonance).
 - **Appears in** — [[Ballerina Boy]] · [[Bad Feeling (Oompa Loompa)]] · [[#1 Champion (la Conquistadora)]] · [[MAGIK]] · *The Song of the Sun & the Moon (33 Demo)* · the Roy X moon-aphorisms · the *Soul iOS* full-moon post · the [[Sir Rabbit]] poem · the [[The Pattern|"Undefined Map"]] correspondence sketch · the visual canon.
 - **Confidence** — grounded fact (verbatim moon lines, dated public posts, an actual released moon-titled track) braided with strong interpretation and an openly framework-tier esoteric reading.
 
@@ -85,7 +85,7 @@ The moon's roots are named, and several are licensed by Roy's own documented eng
 >
 > The arc the symbol keeps drawing is the **diminished-moon aggadah** (Talmud, *Chullin* 60b): the moon was once the sun's equal, was made to diminish, and God seeks atonement for diminishing her. Its restoration proof-text is **Isaiah 30:26** — *"the light of the moon shall become as the light of the sun."* Folded with **Cordovero's *atarah*** (Malkhut *becomes* the crown the moment she ascends), this is the literal engine under *"reclaim your crown."* "The moon trying to become a sun" is therefore **Roy's** arc — diminishment → restoration → crowning — not a villain's overreach. The theology of the exile-and-return belongs to **Mary** as the **Shekhinah** / *Galut ha-Shekhinah* (the divine feminine in exile), and her ascent runs **Malkhut → Binah** (the Assumption / Coronation). *Halo but no head* = the crown reached at the top of that ascent, present but unpossessable. **Framework-tier, syncretic — never claimed as Roy's intent.**
 
-> [!note]- Advanced reading — the lunar danger, and why Lucius is the morning star, not the moon
+> [!note]- Advanced reading — the lunar danger, and why the moon is Roy's, not Lucius's
 > The clean public read holds [[Sir Lucius]] in the moon's reflective register — reflected light under distortion, mistaking itself for the sun. An older framing went further and called him *"the moon trying to become a sun… the tragedy, and the reason he reads as morally complex rather than evil"* — reflected light lit by fear and shame, reflecting them back. That clean read still works as a description of his *lunar danger*, and it lingers in some song essays.
 >
 > But the corrected map (2026) re-assigns the addresses. The moon-as-*position* is **Roy's** (Malkhut + Yesod); "the moon trying to become a sun" is **Roy's** restoration arc. **Lucius's clean map is Hod / Mercury** — the analytic intellect; the Lucifer / morning-star (Venus) is a demoted resonance echoing his herald-mistaken-for-dawn tragedy, but Venus / Netzach belongs to Roy. **Yesod (the reflective image-realm) is his operating *theater*, not his home.** He works *through* the moon's reflection without ever being its proper occupant. The two readings agree on the danger (a borrowed light claiming to be the source) and differ only on whose light it is. See [[The Light-Bearer]].
@@ -115,7 +115,7 @@ The moon's roots are named, and several are licensed by Roy's own documented eng
 - [[The Mirror]] — the moon's twin; reflected light and the reflecting glass, the same problem from two sides.
 - [[Source vs Reflection]] — the master frame the moon is a special case of.
 - [[Mary]] — the moon's theology: exile and promised return; *"halo but no head."*
-- [[Sir Lucius]] — the lunar danger, and why he's the morning star rather than the moon.
+- [[Sir Lucius]] — the lunar danger, and why the moon is Roy's, not his.
 - [[SOL]] — the Sun the moon orbits and aspires to become; the wordless closer.
 - [[Duality]] — sun and moon as the symbolic register of the whole heart/mind split.
 - [[The Pattern]] — the "Undefined Map" correspondence system the moon is plotted inside; As-Above-So-Below in Roy's own hand.

@@ -47,7 +47,7 @@ Read through the Tree, the central figures stop looking like a cast and start lo
 
 **Lucius is the intellect — Hod / Mercury.** [[Sir Lucius]] maps to **Hod (Mercury)**, the analytic mind, married to **Geburah** severity — with a buried Lucifer / morning-star (Venus) resonance held separate from [[Roy]]'s Venus: the green-apple intelligence-divorced-from-spirit, truth bent by framing. His *operating theater* is Yesod, the realm of images — the glamour he works *through*. So the project's broken imagery — an artificial apple, a sterile banana — reads as **Yesod gone wrong:** the image-realm producing reflections that have forgotten their source.
 
-So the reflecting side of the Tree holds two bodies — the Moon (Roy, with Mary carrying its theology) and the Morning Star (Lucius) — and the Sun at the center is the light all three orbit and **none of them is.**
+So the reflecting side of the Tree holds two bodies — the Moon (Roy, with Mary carrying its theology) and the usurping reflection (Lucius — the morning-star a demoted resonance) — and the Sun at the center is the light all three orbit and **none of them is.**
 
 **The pillars sharpen it.** Mary (at Binah, the head of the Severity pillar) and Lucius (at Hod/Geburah, lower on that same pillar) share the *left* column — so when Mary "drops Lucius dead" in [[#1 Champion (la Conquistadora)]], it reads not as a tidy Mercy-vs-Severity duel but as the *origin* of judgment overruling the shadow-intelligence beneath it on its own pillar. Lucius, meanwhile, raids Netzach (right/Mercy) from his Hod/Geburah base — cross-pillar by design. And Roy, alone on the middle, is the only one in equilibrium.
 
@@ -78,7 +78,7 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 - [[The Light-Bearer]] — Lucius's Hod/Mercury intellect and the Yesod image-realm he works through (a demoted morning-star/Venus resonance held apart from Roy's Venus); the Hermetic stream of the split.
 - [[Inversion]] — Lucifer as the *inverted* angel; the inverted golden Tree Roy draws on the board; the *"Fear functions like Prayer in Reverse"* tattoo on his clavicle. The Tree flipped is the shadow's whole grammar.
 - [[The Angels and the Angles]] — the *other* axis of Kabbalah: the letter-mysticism (22 letters + 10 sefirot = 32 paths).
-- [[Sir Lucius]] — the Morning Star; Hod/Geburah mechanism, Yesod operating theater; the Devil card; the *El Roi* throat tattoo.
+- [[Sir Lucius]] — Hod/Mercury (intellect) + Geburah, Yesod operating theater (a demoted morning-star resonance); the Devil card; the *El Roi* throat tattoo.
 - [[Roy]] — the moon's position (Malkhut + Yesod); the Middle Pillar; *"reclaim your crown"*; *"I am still I."*
 - [[Mary]] — the Shekhinah ascending toward Binah's throne; *"saw a halo but I didn't see a head."*
 - [[SOL]] — Tiferet, the Sun, the Song of Love; the source the reflected bodies can't become.
