@@ -27,7 +27,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## The song, mapped
 
-*Pay Attention* is a dialogue staged as a pitch: the guide delivers the mark, the deity closes the sale. It's first-person throughout — the deity's "I" — and the [[Stylized Capitalization|deliberately capitalized words]] (Attention, Door, Store, BIG, Stars, Born, Light, Mind, Empires, MaMa) carry the emphasis like stage lighting. Short excerpts only below; full lyrics live at [Genius](https://genius.com).
+*Pay Attention* is a dialogue staged as a pitch: the guide delivers the mark, the deity closes the sale. It's first-person throughout — the deity's "I" — and the deliberately capitalized words (Attention, Door, Store, BIG, Stars, Born, Light, Mind, Empires, MaMa) carry the emphasis like stage lighting. Short excerpts only below; full lyrics live at [Genius](https://genius.com).
 
 | Beat | In the song | What it does |
 |---|---|---|
@@ -84,12 +84,12 @@ A handful of claims that cut across the whole pitch.
 - **[[Welcome to the Circus]]** *(2026)* — spectacle as a whole environment; *"step right up"* recurs there (*"shut your mouth"*) as the same call.
 - **[[City of Angels]]** *(2026)* — *"playing to the gods"* is the performer's side of *Pay Attention*: you pay the god by playing to it.
 - **[[The Watchers]]** *(2024)* — the attention economy the watching runs on; same board-and-Upload cosmology.
-- Also adjacent: **[[Happy Face]]** *(33, track 6)* — the algorithm's product/mask, part of the same attention-machine cluster; and **[[Good Time]]** *(2023)* — *"Step right up, get on the floor,"* the middle link of the barker chain below.
+- Also adjacent: **[[Happy Face]]** *(33, track 6)* — the algorithm's product/mask, part of the same attention-machine cluster; and **[[Good Time (1-08)|Good Time]]** *(2023)* — *"Step right up, get on the floor,"* the middle link of the barker chain below.
 
 > [!note]- Advanced reading — the "Step right up" barker chain (grounded census)
 > The barker call doesn't start with the Ringmaster. It starts here, in the deity's own 2022 mouth, and recurs across the catalogue as one lineage:
 > - **Pay Attention (2022)** — *"Step right up to my Door… a little price you pay"*
-> - **[[Good Time]] (2023)** — *"Step right up, get on the floor"*
+> - **[[Good Time (1-08)|Good Time]] (2023)** — *"Step right up, get on the floor"*
 > - **[[Welcome to the Circus]] (2026)** — *"Step right up, shut your mouth"*
 >
 > The three-word invitation is grounded in all three songs. What's *asked* changes across them — a price, then a party, then silence — and it's tempting to read that as a descent from "cheaper" to "more coercive." Log the shift; don't adjudicate the direction. The load-bearing find is just that the Ringmaster's signature call is already fully formed in the attention-deity years before Lucius takes the tent. *(A grace note: "May I have all your ears to the back of the room" is the oration-ask of a crowd-turner — a faint echo of Antony's "lend me your ears.")*

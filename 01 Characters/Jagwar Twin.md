@@ -166,7 +166,7 @@ A handful of images recur across everything Jagwar Twin makes, and they're worth
 - **[[The Jaguar]]** — the emblem the project is named for; the mirror-of-consciousness on the artwork. The field, not a separate character.
 - **[[SARAVI]]** — the AI oracle-interface (2022); the *system speaking back*; builder of the [[Hall of Mirrors]] and steward of the official account during the *33* era.
 - **[[Mary]]** — the divine-feminine source the founding myth circles back to; the open-question counterpart to the Jaguar (one figure, or two faces?).
-- **[[The Ballerina Boy|Ballerina Boy]]** — the buried light / origin self; one of the three voices the container holds.
+- **[[Brandon|Ballerina Boy]]** — the buried light / origin self; one of the three voices the container holds.
 - **[[The Digital Double]]** — the recurring concept thread (SARAVI, the clone-fear, the upload) the project keeps probing.
 - **[[Hall of Mirrors]]** — the web3 ARG / uploaded-consciousness archive; the project's externalized memory palace.
 - **Collaborators** — producers and players across the catalogue include S1, Linus, Matt Pauling (the main producer on *33*), Jeff Ellis (mixing), Travis Barker and reportedly Josh Dun on drums, and the studio team CTHDRL, who built the *Happy Face* interactive and the Hall of Mirrors with Roy.

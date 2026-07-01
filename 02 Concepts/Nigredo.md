@@ -52,7 +52,7 @@ Three things make nigredo more than a piece of borrowed vocabulary here. First, 
 >
 > **Counterfeit coagula.** [[Playing to the Gods]] reads Lucius offering the *coagula* — the fixing, mortal-into-immortal — *without the Work.* It's the only place besides this page the idea of fixing turns up, and it shows up as a fake: choir-and-cello "temple" instrumentation draped over a song about the gallery-gods, false immortality sold to people who skipped the descent. (See also [[City of Angels]] — *"live forever… godlike"*, the same fixing-without-the-Work seam.) The real coagula is the return nigredo opens *toward*; Lucius sells the knockoff.
 >
-> **Premature / over-heated rubedo.** [[Hell Of A Night Pt. 2]] (The Hallelujah Stickup) reads as a forced sunrise — trying to crank the dawn early through sheer intensity. Over-heated gold, not integrated gold; a false dawn powered by momentum rather than reconciliation. (It still tracks as nigredo at heart — over-heated is *still* dark.) Set it against Weirdness's slower, integrative light to feel the difference.
+> **Premature / over-heated rubedo.** [[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell Of A Night Pt. 2]] (The Hallelujah Stickup) reads as a forced sunrise — trying to crank the dawn early through sheer intensity. Over-heated gold, not integrated gold; a false dawn powered by momentum rather than reconciliation. (It still tracks as nigredo at heart — over-heated is *still* dark.) Set it against Weirdness's slower, integrative light to feel the difference.
 >
 > **Bunker-light vs albedo.** [[Loser]]'s *"I got sunshine in my mind"* is *interior bunker-light* — brightness as coping, survival-grade, a lamp that never leaves the mental room. That is **not** albedo. Albedo is light re-entering *relationship* — which is exactly what Weirdness stages and Loser doesn't. (Flagged as falsifiable: if that distinction can't be felt in the songs, it collapses.)
 
@@ -68,7 +68,7 @@ Nigredo isn't named on a lyric sheet. It surfaces as a *texture* — fire, buria
 
 **Bad Feeling (Oompa Loompa) (~2024).** The single's video closes on [[Sir Lucius]] holding a candle while three performers' heads burn. The Circus *ring of fire.* The blackening, finally staged: the fire-tag the Happy Face card promised, realized as image. Lucius — *lux-ferre,* the Light-Bearer — is the one holding the flame.
 
-**The albums.** [[Lucius Lullaby (album)|Lucius Lullaby]] is the sustained-nigredo record (the title track names the age-35 collapse). [[Subject to Flooding (album)|Subject to Flooding]] is the *other* nigredo album — *"diagnosis, not cure"* — keystoned by [[Long Time Coming]]: *"every night when I look in the mirror / I see the disguise on my face getting clearer."* That's nigredo as self-recognition without rescue — you see the rot clearly and the seeing doesn't fix it.
+**The albums.** [[Lucius Lullaby (album)|Lucius Lullaby]] is the sustained-nigredo record (the title track names the age-35 collapse). [[Subject to Flooding|Subject to Flooding]] is the *other* nigredo album — *"diagnosis, not cure"* — keystoned by [[Long Time Coming]]: *"every night when I look in the mirror / I see the disguise on my face getting clearer."* That's nigredo as self-recognition without rescue — you see the rot clearly and the seeing doesn't fix it.
 
 > [!note]- Advanced reading — the album phase-map (and an honest caution against it)
 > In this guide's per-track tags, **13 of the 14** distinct tracks on *Lucius Lullaby* carry `transformation_phase: nigredo` — [[The Circle (Lucius Version)]], [[Lucius Lullaby]], [[Great Time to Be Human]], [[Welcome to the Circus]], [[Bad Feeling (Oompa Loompa)]], [[Moths to the Flame]], [[Bananas]], [[#1 Champion (la Conquistadora)]], [[Playing to the Gods]], [[City of Angels]], [[Not Your Homie]], and the rest. [[Weirdness]] (track 13) is the **lone** albedo track. *Subject to Flooding* tags a parallel cluster: Long Time Coming, both *Hell Of A Night*s, [[Good Day]], [[Loser]], [[No Fake Friends]], [[Precious Time]].
@@ -101,11 +101,11 @@ And [[Sir Lucius]] himself wears the trickster-surface of the externalized shado
 - **[[Consumption]]** — *"chew you up, spit you out"*: nigredo that doesn't complete; the inverted Eucharist (consumed, not transfigured); Jonah digested but not returned.
 - **[[Roy]]** — the alchemical subject; the one undergoing the Work.
 - **[[Lucius Lullaby (album)|Lucius Lullaby]]** — the sustained-nigredo album; the 35-year-old collapse anchored in the title track.
-- **[[Subject to Flooding (album)|Subject to Flooding]]** — the other nigredo album; *"diagnosis, not cure"*; Flood-vs-Circus as opposite failure-modes.
+- **[[Subject to Flooding|Subject to Flooding]]** — the other nigredo album; *"diagnosis, not cure"*; Flood-vs-Circus as opposite failure-modes.
 - **[[Keilim - The Breaking of the Vessels]]** — the same descent-and-repair shape in a different tradition (the Kabbalistic *shevirat ha-kelim*). Resonance, not influence.
 - **[[Moths to the Flame]] / [[Happy Face]]** — fire and the Light-Bearer: burning the old world down, the true phoenix versus the moth's counterfeit deathlessness.
 - **[[Playing to the Gods]] / [[City of Angels]]** — the counterfeit-coagula seam (fixing without the Work).
-- **[[Hell Of A Night Pt. 2]]** — premature, over-heated rubedo.
+- **[[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell Of A Night Pt. 2]]** — premature, over-heated rubedo.
 - **[[The Dweller on the Threshold]]** — the shadow-figure one must pass to cross; a sibling tradition-node.
 
 > [!note]- Advanced reading — the traditions feeding the current

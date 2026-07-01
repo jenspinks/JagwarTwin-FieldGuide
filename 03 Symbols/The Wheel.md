@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **What it does** — turns a person until they lose their bearings; strips the still center out of the circle and leaves only the spinning. Vertigo where there should be prayer.
 - **Carried by** — [[Sir Lucius]] (who runs the Circus, the wheel at social scale) · [[Roy]] (who, in the redeemed version, would step to the center and become the axis instead of the rim).
-- **Appears in** — [[Welcome to the Circus]] (the anchor) · [[I Like to Party]] · [[Good Time]] (the driving-wheel sense) · Roy's surfaced Jung page on [[The Watchers]] · the *I'm 33* board.
+- **Appears in** — [[Welcome to the Circus]] (the anchor) · [[I Like to Party]] · [[Good Time (1-08)|Good Time]] (the driving-wheel sense) · Roy's surfaced Jung page on [[The Watchers]] · the *I'm 33* board.
 - **Confidence** — one grounded lyric anchor, two grounded public artifacts in Roy's own hand, braided with strong interpretation. The esoteric machinery is labeled as framework throughout.
 
 ## What it does
@@ -47,7 +47,7 @@ A **whirling dervish** and a person spun by the Circus are doing the same thing:
 
 - **[[Welcome to the Circus]]** *(Lucius Lullaby)* — the anchor. *"Spinning you 'round and 'round, 'round"* in the pre-chorus, with *"everything's upside down"* riding directly alongside it; *"They love it when you lose control"* at the bridge's climax. This is the wheel as the Circus's primary mechanism — the spin and the inversion arriving as one gesture. *(One small live-wire detail, flagged for verification: the pre-chorus seems to land an extra "'round" the first time through and drop it the second — possibly a deliberate truncation, possibly a transcription artifact.)*
 - **[[I Like to Party]]** *(33)* — the wheel at crowd scale and in its most undignified register: *"running around like chickens with no head / in circles, they go."* Headless, circular, motion-without-progress — the hamster-wheel image rendered as a whole party of decapitated poultry spinning in place. The Circus's herding-and-consumption machine, played for grotesque comedy.
-- **[[Good Time]]** — the **driving-wheel** sense (more below): Drake hands Roy *"the wheel,"* and [[Sir Lucius]] materializes the instant Roy is responsible for steering and admits he doesn't know where he's headed.
+- **[[Good Time (1-08)|Good Time]]** — the **driving-wheel** sense (more below): Drake hands Roy *"the wheel,"* and [[Sir Lucius]] materializes the instant Roy is responsible for steering and admits he doesn't know where he's headed.
 - **Roy's surfaced Jung page** *(scored to [[The Watchers]])* — around June 2026, Roy posted to his verified Instagram Story a photographed page of Jung naming *"the wheel and the cross"* as universal symbols, soundtracked to his own song. The wheel, flagged as a symbol, in Roy's own curation (more below).
 - **The *I'm 33* board** — Roy's handwritten cosmology renders the wheel twice: as *"whirling energy = Fortune"* and as a typed Hero's-Journey wheel ending in *"New Cycle Begins"* (more below).
 
@@ -68,7 +68,7 @@ The wheel arrives with a long inheritance, and the project draws on most of it b
 
 ## The driving-wheel sense — *Good Time*
 
-There's a second, entirely distinct meaning of *wheel* in the catalogue, and it's grounded in the narrated dream behind [[Good Time]]: not the wheel that spins *you*, but the **steering wheel** you take hold of. In Roy's account, Drake — a threshold-guardian figure — hands him *"the wheel,"* and the moment Roy is the one navigating, he admits *"I don't know what I'm looking for"* — and that admission is exactly when [[Sir Lucius]] drops into the passenger seat. The wheel here is the steering of one's own life and career, the burden of fame made literal; grabbing it without a destination is precisely what summons the shadow. (The sequence pairs with the Tower-tarot crash that ends the dream — the wreck as intervention.)
+There's a second, entirely distinct meaning of *wheel* in the catalogue, and it's grounded in the narrated dream behind [[Good Time (1-08)|Good Time]]: not the wheel that spins *you*, but the **steering wheel** you take hold of. In Roy's account, Drake — a threshold-guardian figure — hands him *"the wheel,"* and the moment Roy is the one navigating, he admits *"I don't know what I'm looking for"* — and that admission is exactly when [[Sir Lucius]] drops into the passenger seat. The wheel here is the steering of one's own life and career, the burden of fame made literal; grabbing it without a destination is precisely what summons the shadow. (The sequence pairs with the Tower-tarot crash that ends the dream — the wreck as intervention.)
 
 It's the same word doing opposite-feeling work — *being spun* versus *taking the controls* — and the figures rhyme: Lucius is the cosmic backseat-driver who only materializes the second you grab the wheel and confess you're lost. The guy with all the answers shows up exactly when you admit you have none.
 
@@ -108,5 +108,5 @@ The redeemed reading of the wheel has a quiet companion in a public post. On X i
 - [[The Circus]] — the wheel at social scale, run by [[Sir Lucius]].
 - [[Welcome to the Circus]] — where the spin and the inversion arrive as one line.
 - [[Fire]] — the wheels of fire; the Merkavah and *Lear*'s torment-wheel.
-- [[Good Time]] — the driving-wheel sense, and the moment the shadow arrives.
+- [[Good Time (1-08)|Good Time]] — the driving-wheel sense, and the moment the shadow arrives.
 - [[The Thread]] — what you'd hold to find the way out of the spin.

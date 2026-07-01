@@ -57,7 +57,7 @@ And one structural fact worth knowing: *"Welcome to the circus"* repeats eleven-
 
 ### The exit is the entertainer
 
-*"I'm the final boss"* imports video-game logic, and it's nastier than it sounds. To leave the Circus you'd have to defeat [[Sir Lucius]] — except he's also the show you're watching. You can't stream your way out, because the Boss is the thing on the screen. The entertainer *is* the obstacle. (And note the self-designation has a real timeline: *"I'm a mastermind"* in [[Good Time (1:08)]] in 2023 → *"I'm the final boss"* in 2026. He's been leveling up his own title for years.)
+*"I'm the final boss"* imports video-game logic, and it's nastier than it sounds. To leave the Circus you'd have to defeat [[Sir Lucius]] — except he's also the show you're watching. You can't stream your way out, because the Boss is the thing on the screen. The entertainer *is* the obstacle. (And note the self-designation has a real timeline: *"I'm a mastermind"* in [[Good Time (1-08)|Good Time (1:08)]] in 2023 → *"I'm the final boss"* in 2026. He's been leveling up his own title for years.)
 
 ### Who built it, and who confessed
 
@@ -70,7 +70,7 @@ The Circus is staged across more than half a decade of videos before the song ev
 - **[[Happy Face]] (2020).** The manifesto card reads *"LET'S START THE SHOW,"* *"consume,"* the smiley-mask, and — verbatim, misspelling and all — *"(TICK) BROUGHT TO YOU BUY JAGWAR TWIN (TOCK)"* and *"ARE YOU CONTENT? CALL NOW."* The Circus is already broadcasting in 2020. It just hasn't introduced itself.
 - **[[I Like to Party]] (2022, dir. Kyle Vorbach).** A jeweled, ringed hand reaches in from off-screen and force-feeds Roy cake, escalating until it's smashed across his face — the [[Consumption]] mechanism rendered four years before *"I'll chew you up, spit you out"* names it. The card: *"LET'S SEE YOU CLAP THEM HANDS!"* It's the cake before the Circus.
 - **[[Pay Attention (feat. little luna)]] ('33', 2022).** The carnival barker's first cry — *"Step right up to my Door… a little price you pay"* — Attention itself naming its own price.
-- **[[Good Time (1:08)]] (2023).** *"I'm a mastermind"* plus *"step right up, get on the floor,"* and the catalogue's earliest fully-assembled [[Sir Lucius]] iconography (white face, X-crosses, knight armor). The bright, proto-Circus.
+- **[[Good Time (1-08)|Good Time (1:08)]] (2023).** *"I'm a mastermind"* plus *"step right up, get on the floor,"* and the catalogue's earliest fully-assembled [[Sir Lucius]] iconography (white face, X-crosses, knight armor). The bright, proto-Circus.
 - **[[Bad Feeling (Oompa Loompa)]] (single 2023, video ~2024; album track 5).** The Circus *fully staged*: big-top tent, carousel, giant chess pieces and playing cards, harlequins in animal masks, ringmaster Roy in red coat and Pierrot ruff, fireworks, the moon — closing on Lucius holding a candle while three performers' heads burn.
 - **[[Great Time to Be Human]] (album track 3).** The ironic pop surface the Circus runs on — *"Rainbows, butterflies… what a great time to be human!"* sung over *"bloodsuckers with crocodile shoes,"* with children's-show ad-libs (*"Oops! / yay! / boo hoo / Woof!"*) fired at exactly the wrong moments.
 - **[[Welcome to the Circus]] (2026).** The world, finally named.
@@ -102,7 +102,7 @@ A short, telling census sits inside all of this: the *"step right up"* barker ca
 - **[[The Realm]]** — the parallel world Roy builds to route *around* the Circus's gatekeepers.
 - **[[Not Your Homie]]** — the prior Lucius-produced hit (album track 11) that made *Welcome to the Circus* possible; it also names the Beast/champion trial.
 - **[[Moths to the Flame]]** — album track 6; Lucius's later moth speech (*"keeps the moth population down"*) prefigures it — destruction reframed as population control.
-- **[[Song of Love]]** — the tender song Lucius overrode in EP3; the one note the Circus cannot metabolize (it agitates him when it plays in EP7).
+- **[[SOL|Song of Love]]** — the tender song Lucius overrode in EP3; the one note the Circus cannot metabolize (it agitates him when it plays in EP7).
 
 > [!note]- Advanced reading — the Circus as Sir Lucius industrialized
 > The tightest framework reading is that the Circus is simply [[Sir Lucius]] scaled up to society — *shadow-processing turned into infrastructure.* Map it term for term: his shadow-processing → the Circus's spectacle; his mask → mandatory performance; his reflection-function → the algorithmic mirror; his audience-dependency → the attention economy. He can author the song precisely *because* he is performing himself at full volume, industrialized. There's a Speech-vs-Song split worth holding too: the Ringmaster runs the machine from *inside* the tent (the song), while the system-disruptor announces its end from *above* it (the EP5 speech) — same figure, mirrored direction.

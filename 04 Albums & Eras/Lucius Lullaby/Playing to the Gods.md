@@ -77,7 +77,7 @@ That's the false immortality made audible: the phoenix that skips the burning. A
 - **[[Roy]]** — credited vocalist (as "ROY," distinct from the human author who writes and produces). In his mouth the same words are a **prayer** — *please let me survive this* — fear, not narcissism; the human under the machine asking to make it out.
 - **Roy English** (the author) — writer, producer, mixer, and *choir arranger*; plays piano, synth, melodeon, bass. The choir-arranger credit is load-bearing (see below): he built the counterfeit communion.
 - **MERCY** — Mercedes Colletta Britton, a real credited session vocalist on background vocals, recurring across the album. A person, not a symbolic "Mercy."
-- **[[Matt Pauling]]** — co-writer and cellist; the *33*-core collaborator whose recurrence on tracks 9, 10 and 13 is a grounded cross-album personnel link back to [[33]].
+- **Matt Pauling** — co-writer and cellist; the *33*-core collaborator whose recurrence on tracks 9, 10 and 13 is a grounded cross-album personnel link back to [[33]].
 - **The rabbit-masked woman** *(visualizer only)* — faceless, still, passive throughout; the dropped connection given a body. Full white rabbit mask, black lace.
 
 ## Symbols
@@ -123,7 +123,7 @@ That's the false immortality made audible: the phoenix that skips the burning. A
 > [!note]- Advanced reading — the wordless frame, and "out of *what?*"
 > The *"(Mm-mm)" / "(Oh-oh)"* bracketing may be structural — the mantra emerging from and returning to something pre-verbal, a faint rhyme with the wordless-vocal motif of [[SOL]] and the lullaby's "la-di-da." Kept cautious; whether the humming is load-bearing or incidental is genuinely open.
 >
-> And the central refusal: *out of what?* "If I make it out alive" never names its object. Industry, psyche, fame, the album's rock-bottom floor — these are all rooms in one building, and the song won't pick one. The dragon you must escape *is* the treasure you're escaping toward: survive the machine to win the immortality only the machine grants. A deeper question sits under it — is a *true* immortality (the song that actually survives, the Great Design) hidden beneath the false one? Or is the point precisely that there's no waking-up here: unlike [[Lucius Lullaby (song)|Lucius Lullaby]], which can finally say "it's all just a lie," inside the City there's no vantage left to see the lie *from.*
+> And the central refusal: *out of what?* "If I make it out alive" never names its object. Industry, psyche, fame, the album's rock-bottom floor — these are all rooms in one building, and the song won't pick one. The dragon you must escape *is* the treasure you're escaping toward: survive the machine to win the immortality only the machine grants. A deeper question sits under it — is a *true* immortality (the song that actually survives, the Great Design) hidden beneath the false one? Or is the point precisely that there's no waking-up here: unlike [[Lucius Lullaby|Lucius Lullaby]], which can finally say "it's all just a lie," inside the City there's no vantage left to see the lie *from.*
 
 > [!note]- Advanced reading — the falsifier, and the deflationary counter-reads
 > Kept on the table on purpose:

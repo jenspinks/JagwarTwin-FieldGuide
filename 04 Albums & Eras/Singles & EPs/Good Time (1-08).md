@@ -99,7 +99,7 @@ That last non-sequitur becomes the song's *sound.* Rattled, Roy goes to the stud
 - [[Not Your Homie]] — the mastery-from-within Lucius later offers; it also carries the *El Roi* / "God who sees me" throat tattoo that *"I don't need a witness"* points against.
 - [[City of Angels]] — the faceless rabbit-figure (a rabbit-*bride*) that ties back to *Good Time*'s rabbit-versus-rabbit, self-versus-self.
 - [[The Green Apple]] — the *"truth can be deceiving 🍏"* doctrine that this song grounds, three years early, in Roy's own voice.
-- [[Bad Feeling]] *(Oompa Loompa)* — the release-adjacent Lucius single; Roy's own later TikTok on *"the illusion of two choices"* tags **both** #badfeeling and #goodtime108, and the strategist [[Michael Morgan]] grouped the two in the same "similar-feel" cluster.
+- [[Bad Feeling (Oompa Loompa)|Bad Feeling]] *(Oompa Loompa)* — the release-adjacent Lucius single; Roy's own later TikTok on *"the illusion of two choices"* tags **both** #badfeeling and #goodtime108, and the strategist Michael Morgan grouped the two in the same "similar-feel" cluster.
 - [[The Circle]] — the loop-and-return structure that *Good Time*'s circular outro gestures toward.
 - **The toxic-positivity cluster** — [[Great Time to Be Human]], [[Happy Face]], [[Life Is Good]], [[I Like to Party]]: the ironic-affirmation songs *Good Time* sits inside, several sharing collaborator **Josh Dun** and, per Michael Morgan's internal marketing map, pitched as the on-ramp for *Bad Feeling* fans.
 
@@ -288,5 +288,5 @@ But I can have a good time
 - [[Sir Lucius]] — the whole figure, from this dream (2023) to the first co-credit (*Not Your Homie*, 2025) and the full album billing (2026).
 - [[Welcome to the Circus]] — the same *"step right up"* call, teeth bared; *"final boss."*
 - [[The Green Apple]] — the *"truth can be deceiving"* mark that this song grounds three years early.
-- [[Bad Feeling]] — the release-adjacent Lucius single, tagged alongside this one.
+- [[Bad Feeling (Oompa Loompa)|Bad Feeling]] — the release-adjacent Lucius single, tagged alongside this one.
 - [[Roy]] — the rabbit doing the seeking, and the heart the mind was built to protect.

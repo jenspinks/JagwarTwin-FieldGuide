@@ -11,7 +11,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **One-line reading.** Sir Lucius is the mind severed from the heart — a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth. That's the problem.
 
 > [!infobox] Sir Lucius
-> ![[sir-lucius.svg]]
 >
 > - **Also known as** — the final boss · the mastermind · the Light-Bearer
 > - **Nature** — the mind severed from the heart
@@ -155,7 +154,7 @@ This is why he reads as morally complex rather than evil. He genuinely emerged f
 - **[[Sir Rabbit]]** — the seeker-pole *before* the split, not a proto-Lucius. In the dream, Roy is the rabbit doing the seeking; Lucius is the second rabbit who intercepts. (The richest proto-text is the Sir Rabbit poem — *"use your other mind… the thing that beats Thee,"* the heart placed under the mind.)
 - **[[Leif]]** — Lucius's goofy enforcer-bodyguard, who reports to the unseen *"Boss."* First seen guarding the premiere; later the comic henchman — *"Boss, look. Look, boss. I got — I got this."* Structural, not incidental: the foil who lets Lucius cohere.
 - **The Boss / BMRC** — the unseen authority Lucius answers to (B.M.R.C., glimpsed on a prop rocket reading *"PROPERTY OF B.M.R.C."* and in merch and event announcements — *"welcome to the BMRC 🎪"*). It stages the open question: is the disruptor pose *opposition or assignment?* Read with caution — this may be over-read theatrical staging rather than a confirmed hierarchy.
-- **[[Jagwar Twin (project)|Jagwar Twin]]** — Lucius is co-credited alongside the project on *Lucius Lullaby*; the album is "his."
+- **[[Jagwar Twin|Jagwar Twin]]** — Lucius is co-credited alongside the project on *Lucius Lullaby*; the album is "his."
 - **MERCY** *(Mercedes Colletta Britton)* — a real collaborator, co-credited with Roy and Sir Lucius on *Not Your Homie*; she originated the chorus hook on a joke voicenote after a party. Roy: *"I knew we had to make this a sir lucius song. The ultimate introverted extrovert anthem."* A real person, not a cipher — and a sharp reader of the figure: when the *Lucius Lullaby* arc landed, she posted (and Roy reposted) the perfect three-word verdict, *"Now you are a clown 🗡"* — the clown mode named back at him.
 - **[[The Jaguar]]** — the larger seeing-figure; *"the mirror will always throw off the wrong rider."* Lucius reads as a distortion *within* that seeing, not its equal.
 

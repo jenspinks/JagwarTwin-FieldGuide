@@ -57,10 +57,10 @@ What makes the Veil a Jagwar Twin idea rather than a stage prop is *when* it doe
 - **[[The Empty Mirror]]** — the *Bad Feeling [Dark Arts]* / dumbledore video shows an ornate priest-king robe with no one inside it (*"no body, I'm already gone"*): the behind-the-curtain emptiness made literal — the mask that finally replaced the face.
 - **[[The Audience]]** — the curtain exists to separate performer from watcher; *"who are you without the mask?"* drags the watcher into the frame.
 - **[[The Circus]]** — the venue the curtain frames; Lucius scaled up to a society.
-- **[[City of Angels]]** / **[[Lucius Lullaby (song)|Lucius Lullaby]]** — the dynamic pair: stays-behind-the-curtain versus tears-it.
+- **[[City of Angels]]** / **[[Lucius Lullaby|Lucius Lullaby]]** — the dynamic pair: stays-behind-the-curtain versus tears-it.
 - **[[Imagine A World]]** — OZ as the designed god behind the curtain.
 - **[[The Manifesto Cards]]** — the "Live Underground" card belongs to this card-series lineage; the appended *"who are you without the mask?"* lines are where the curtain/mask question gets handed to the viewer in published form.
-- **[[The Visual-Canon Throughline (Manifesto Cards, the Realized Circus, the Silent Lucius) 2019-2026|The Visual-Canon Throughline]]** — frames the 2026 material as the *unveiling* of a mythology already present by 2019–2021, not its birth.
+- **[[The Visual Canon Throughline|The Visual-Canon Throughline]]** — frames the 2026 material as the *unveiling* of a mythology already present by 2019–2021, not its birth.
 
 > [!note]- Advanced reading — the temple veil and the inversion it runs in reverse
 > The image draws its charge from the most freighted boundary in the Western tradition. The Jerusalem temple veil (*parokhet*) separated the Holy Place from the Holy of Holies; only the High Priest passed it, once a year, on Yom Kippur. In **Matthew 27:51**, at the crucifixion, that veil *"was rent in twain from the top to the bottom."* Torn from the top down is the whole theology in one direction: a divine initiative, not a human reach — God opening the sacred to everyone, the boundary dissolved *from above.*

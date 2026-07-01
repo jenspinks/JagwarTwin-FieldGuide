@@ -61,7 +61,7 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 
 **The nursery-rhyme method (the joke that's actually structure).** *Lucius Lullaby* states its own technique out loud: cosmology delivered as a children's chant. *"Mary, Mary, so contrary"* (#1 Champion), *"ring around the rosies"* (Not Your Homie), *"Row, row, row your boat / life is but a dream"* (Lucius Lullaby), *"Oompa Loompa, doompa-de-doo"* (Bad Feeling), *"go bananananana"* — the whole Tree-of-Life apparatus poured into the simplest, stickiest forms we know. This is the producer's stated principle ("the simplest songs are the most complex") made into a method, and it's the reason the heavy esoterica never reads as homework: the demiurge is hiding inside a playground rhyme. It is, structurally, the most important thing on this list — not a gag laid over the cosmology but the *delivery system for it.*
 
-- **The "I'm 33" board** — Roy's own. It names *"Tree of Life / sephirot,"* sketches "A Head of Adam," draws an inverted golden Tree (crown plus triangle), and carries the Kabbalistic veils in his hand: *"Ring Pass-Not / Ring Chaos (Ain Soph) / Ring Cosmos (Ain),"* the "4 worlds," "Genesis 1:26," and a Noah's Ark cell built on *"11 sections / 3 stories (Heaven, Man, Earth) / 32."* Its backbone is a handwritten **0–10 emanation list** — verbatim Tree glosses — whose stage 6 reads *"The mirror of the Soul and the heart."* That's the heart-pole, in Roy's own hand. (Full decode: [[The Im 33 Board - Decoded]].)
+- **The "I'm 33" board** — Roy's own. It names *"Tree of Life / sephirot,"* sketches "A Head of Adam," draws an inverted golden Tree (crown plus triangle), and carries the Kabbalistic veils in his hand: *"Ring Pass-Not / Ring Chaos (Ain Soph) / Ring Cosmos (Ain),"* the "4 worlds," "Genesis 1:26," and a Noah's Ark cell built on *"11 sections / 3 stories (Heaven, Man, Earth) / 32."* Its backbone is a handwritten **0–10 emanation list** — verbatim Tree glosses — whose stage 6 reads *"The mirror of the Soul and the heart."* That's the heart-pole, in Roy's own hand. (Full decode: [[The I'm 33 Board]].)
 - **[[Bounce]] (Live Underground)** — an official @jagwartwin video whose opening title card epigraphs the *Sefer Yetzirah*'s Beth passage: *"HE MADE THE LETTER BETH KING OVER WISDOM. HE BOUND A CROWN TO IT… AND WITH THEM HE FORMED THE MOON IN THE UNIVERSE…"* (Aryeh Kaplan's translation). Kabbalistic letter-mysticism, printed directly on the work.
 - **[[Another Way II Heaven]]** (33, 2022, track 8; Roy sole writer) — the *same* cosmogonic "One become Two" poem Roy laid out on the board. Composed twice, which is the cleanest evidence the creation-myth reading is Roy's own framing, not a reader's projection. It runs *"from 1:00 and through 11:00,"* with the return to 12 deferred to "The Great Design."
 - **[[#1 Champion (la Conquistadora)]]** — Mary named *and* faceless (*"saw a halo but I didn't see a head"*); the visualizer caption signed *"— El Roy."*
@@ -83,7 +83,7 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 - [[Mary]] — the Shekhinah ascending toward Binah's throne; *"saw a halo but I didn't see a head."*
 - [[SOL]] — Tiferet, the Sun, the Song of Love; the source the reflected bodies can't become.
 - [[The Banana]] — the broken Yesod (image without seed); the fruit-bowl altar with Tree-of-Life pillars.
-- [[The Im 33 Board - Decoded]] — Roy's own board; the documented engagement that licenses the whole page.
+- [[The I'm 33 Board]] — Roy's own board; the documented engagement that licenses the whole page.
 - [[The Pattern]] — the shared theosophical substrate Roy assembles; the anti-totalization guard.
 - [[Gnosticism - The World as Trap]] — the escape-the-world stream, set against Lurianic world-affirmation.
 - [[Hermeticism - As Above So Below]] — the neighboring correspondence tradition; the Kybalion Roy transcribes.
@@ -181,5 +181,5 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 - [[Keilim - The Breaking of the Vessels]] — the fracture; the doctrine's other half.
 - [[The Light-Bearer]] — Lucius on the Tree; the morning-star and the image-realm.
 - [[The Angels and the Angles]] — the *other* axis: the letter-mysticism, 22 letters + 10 sefirot = 32 paths.
-- [[The Im 33 Board - Decoded]] — Roy's own board, where the ladder is encoded half a dozen ways over.
+- [[The I'm 33 Board]] — Roy's own board, where the ladder is encoded half a dozen ways over.
 - [[SOL]] — the Sun the whole Tree reflects, and the one signal the morning-star can't absorb.

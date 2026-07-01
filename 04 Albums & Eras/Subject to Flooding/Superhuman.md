@@ -72,7 +72,7 @@ A few claims that cut across the whole song.
 
 - **The lion** — via Bailey, the Nemean lion: the coordinated, devastating *personality* (mind, emotion, and vitality fused into one wild force). In *Superhuman* it's the lion **not yet slain** — the goal is to master it by wearing its skin, not to overpower it. The song's central symbol. (See Advanced reading below.)
 - **The march / drill ("left, right, left")** — the mechanizing cadence: a rigid binary that standardizes movement and locks the tender self inside a moving tank.
-- **The ceiling / roof ("no ceiling up on the roof")** — the open-top / boundlessness motif: reads as freedom, scans as inflation. Part of a cross-era roof/ceiling series — *"wave 'em to the ceiling"* ([[Hell Of A Night]]) → *"no ceiling up on the roof"* (here) → *"tear the roof off of my house"* ([[Bounce]], 2026). (See [[The House & the Vessel]].)
+- **The ceiling / roof ("no ceiling up on the roof")** — the open-top / boundlessness motif: reads as freedom, scans as inflation. Part of a cross-era roof/ceiling series — *"wave 'em to the ceiling"* ([[Hell Of A Night]]) → *"no ceiling up on the roof"* (here) → *"tear the roof off of my house"* ([[Bounce]], 2026). (See [[The House and the Vessel|The House & the Vessel]].)
 - **Blood (on the knees)** — *"blood on our knees, workin' the overtime"*: blood as the **cost of the fight.** This is a verbatim-family repeat of *"blood on they knees"* from the album's own opener [[Long Time Coming]] (tracks 1 and 6) — where the opener sets solidarity, *Superhuman* escalates it to cost.
 - **The battlecry** — *"scream out the battlecry,"* *"raise up your voices"*: the spectacle-manufacturing voice.
 

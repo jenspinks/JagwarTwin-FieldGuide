@@ -97,7 +97,7 @@ The simplest reading survives all of this, and it's worth saying plainly: on its
 >
 > The load-bearing beat: a **heart-monitor tone and flatline** enters under *"never gonna die"* and runs to the end of the song. The deathless chant is literally scored to a flatline. And the red-carpet rope-line is staged as a **wedding aisle** — he marries the cameras, and the bride is the accessory.
 >
-> Two cautions. The rabbit-woman's *identity* is genuinely open — the rabbit ties back to [[Good Time]]'s "rabbit vs rabbit = self vs self" and may be his benched anima, but do **not** equate an unidentified figure with Mary without an anchor. And the whole visualizer reading is built on grounded blocking but is itself interpretation.
+> Two cautions. The rabbit-woman's *identity* is genuinely open — the rabbit ties back to [[Good Time (1-08)|Good Time]]'s "rabbit vs rabbit = self vs self" and may be his benched anima, but do **not** equate an unidentified figure with Mary without an anchor. And the whole visualizer reading is built on grounded blocking but is itself interpretation.
 
 > [!note]- Advanced reading — the esoteric harmonics (inverted ladder, scattered sparks, the false Ariadne)
 > Three framework resonances, held as resonance, not as claimed authorial intent:

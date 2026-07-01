@@ -23,7 +23,7 @@ Picture two rooms. In both, a crowd is singing along. In the first, every voice 
 
 **Communion** is the first room: distinct voices held inside a shared song, difference preserved. **Spectacle** is the second: difference deleted, everyone routed into the identical track. The one diagnostic that sorts them is a single question — *is difference held, or deleted?* Held, and you have communion. Deleted, and you have spectacle.
 
-Why bother drawing the line? Because without it, you'd read *every* image of collective singing in this world as the sacred [[The Circle|Circle]] — and a lot of them aren't. The [[The Circus|Circus]], the algorithm's homogenizing pull, the "same song" — these are **counterfeit communions**. They wear the Circle's chorus over the [[The Loop|Loop]]'s uniformity. The concept exists to keep you from mistaking the forgery for the genuine article when they're built to look the same.
+Why bother drawing the line? Because without it, you'd read *every* image of collective singing in this world as the sacred [[The Circle|Circle]] — and a lot of them aren't. The [[The Circus|Circus]], the algorithm's homogenizing pull, the "same song" — these are **counterfeit communions**. They wear the Circle's chorus over the [[The Loop and the Circle|Loop]]'s uniformity. The concept exists to keep you from mistaking the forgery for the genuine article when they're built to look the same.
 
 The spectacle pole has a long pedigree the work keeps faith with. Juvenal's *panem et circenses* — *bread and circuses*, a populace pacified by the show — names the political version of the same move (see [[Panem et Circenses]]); Guy Debord's *Society of the Spectacle* names the modern one, life reduced to image, participation replaced by performance. The "same song" is their descendant: a crowd that has traded the doing for the watching, and calls the watching togetherness.
 
@@ -46,7 +46,7 @@ Two things keep that honest. First, a **discipline**: call-and-response is endem
 
 One question underneath this stays genuinely open: **is the crowd itself ever neutral, or is the whole difference in the *mode* — how they're sung?** The page leans toward *mode* (same people in both rooms; only the singing differs), but the cleaner version — a crowd with no charge of its own until a voice gives it one — isn't settled, and it's worth holding as unresolved rather than quietly deciding it.
 
-This is where the concept plugs into the rest of the map. It's the **collective species** of [[Source vs Reflection]] — the master question of whether a mediation returns you to your source or traps you in the image. Its **sibling** is [[Witnessing vs Surveillance]], the being-seen version of the identical split (seen-and-restored vs watched-and-ranked). And the **axis it sharpens** is the [[The Circle]] vs the [[The Loop|Loop]]: the Circle returns you with your memory restored, the Loop returns you with the self deleted — *"everyone looks just like you"* is return-with-the-self-erased.
+This is where the concept plugs into the rest of the map. It's the **collective species** of [[Source vs Reflection]] — the master question of whether a mediation returns you to your source or traps you in the image. Its **sibling** is [[Witnessing vs Surveillance]], the being-seen version of the identical split (seen-and-restored vs watched-and-ranked). And the **axis it sharpens** is the [[The Circle]] vs the [[The Loop and the Circle|Loop]]: the Circle returns you with your memory restored, the Loop returns you with the self deleted — *"everyone looks just like you"* is return-with-the-self-erased.
 
 ## Where it appears
 
@@ -64,7 +64,7 @@ This is where the concept plugs into the rest of the map. It's the **collective 
 
 **Roy-voiced communion-echoes** (the crowd sings *with*): [[Long Time Coming]] opens the whole album on a crowd already singing; [[Loser]] pivots its bridge from *I* to *we* (*"we're singing"*); [[Shine]] (*"so sing it if you know you're gonna shine"*); [[Dream - Dream|Dream Dream]] (*"dream that dream with me"*); [[Superhuman]] — *"it goes, we sing,"* *"raise up your voices"* — a command-cadence that's nonetheless *we*-voiced, the commander singing alongside; and [[Imagine A World]] (*"just imagine"* — the invitation handed to the listener to *complete*). That last one matters: it's the lone 33-era Roy-voiced echo, and it's why the tidy chronology fails — *33* already carries both voices at once.
 
-**Lucius-voiced harvested echoes** (the crowd commanded): [[I Like to Party]] runs the Pied-Piper move outright (*"sing along… follow me, to the beat of my drum"*); [[Pay Attention]] makes answering *be* the obedience (*"what's my name? / Attention"*); [[Bananas]] echoes back the id-permission chant (*"break shit"*) as destruction; and Great Time to Be Human's *"same song."*
+**Lucius-voiced harvested echoes** (the crowd commanded): [[I Like to Party]] runs the Pied-Piper move outright (*"sing along… follow me, to the beat of my drum"*); [[Pay Attention (feat. little luna)|Pay Attention]] makes answering *be* the obedience (*"what's my name? / Attention"*); [[Bananas]] echoes back the id-permission chant (*"break shit"*) as destruction; and Great Time to Be Human's *"same song."*
 
 **The third face — the gaze.** [[The Watchers]] (2024, interpolating Rockwell's *"Somebody's Watching Me"*) internalizes the replication horror to first person: *"I'm afraid I'm a clone."* This is the synchronized crowd folded into a single self — and a clone, in this world, is *all angle, no angel*: structure without the breath that would let it originate rather than repeat. It gives [[The Audience]] a third face beyond communion and harvest: the watching eye.
 
@@ -72,7 +72,7 @@ This is where the concept plugs into the rest of the map. It's the **collective 
 
 - [[The Circus]] — the **spectacle pole**; the crowd synchronized and harvested outward for the metric (*"the people are mine"*; *"paint my face and they clap and smile"*; the crowd *"in circles like chickens with no head"*).
 - [[The Circle]] — the **communion pole**; the crowd that sings truth back, voices received in communion, growing *"from the inside of the inside."* Same singing crowd, opposite pole — communion vs mob.
-- [[The Loop]] — spectacle's recursion: return *without* transformation, against the Circle's return *with memory restored*.
+- [[The Loop and the Circle|The Loop]] — spectacle's recursion: return *without* transformation, against the Circle's return *with memory restored*.
 - [[Source vs Reflection]] — the **genus**; this concept is its collective species. The "Crowd" row of the transmit-vs-substitute table: the Circle sung back vs the Circus mob.
 - [[Witnessing vs Surveillance]] — the **sibling**; being-seen-and-restored vs watched-and-ranked.
 - [[The Audience]] — the crowd that can be *awakened* (co-creator) or *reduced* (spectator, mark); gains a third face via [[The Watchers]].

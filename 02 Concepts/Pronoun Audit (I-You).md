@@ -74,7 +74,7 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 
 **[[Weirdness]] — the counter-move, and the album's only way out.** The whole integration event of the record is, mechanically, *one pronoun.* The angel-voice arrives saying *"Your weirdness is the sunshine"* — and by the final chorus that has become *"And now I know that all my weirdness is my sunshine."* The shadow's distorted light, reclaimed as one's own: projection → ownership. The same flip runs the string line — *"Your head is off its string"* → *"My head is off its string"* (both choruses agree the head is *off* its string; there's no on/off arc, the entire change is the possessive). Integration here isn't defeating anyone. It's taking the *your* and making it *my*.
 
-**[[Lucius Lullaby (title track)|Lucius Lullaby]] — the undecidable "I."** The refrain is first-person present continuous: *"It's a beautiful life… I'm dreaming."* Not *you're* dreaming — *I'm.* Which leaves you unable to tell whether Roy is *consenting* to the dream or whether Roy and Lucius have *merged* into one "I." The lullaby works precisely *because* you can't tell whose voice sings *beautiful life.* Sedation, proven at the level of a pronoun.
+**[[Lucius Lullaby|Lucius Lullaby]] — the undecidable "I."** The refrain is first-person present continuous: *"It's a beautiful life… I'm dreaming."* Not *you're* dreaming — *I'm.* Which leaves you unable to tell whether Roy is *consenting* to the dream or whether Roy and Lucius have *merged* into one "I." The lullaby works precisely *because* you can't tell whose voice sings *beautiful life.* Sedation, proven at the level of a pronoun.
 
 **[[Soul Is A Star]] — the verse-to-chorus turn.** The verses are third-person witness — *"I met a man," "I met a girl"* — and then the chorus breaks straight to the second person: *"do you know who you are?"* That pivot, from observing others to addressing *you,* is *33*'s you-engine in miniature.
 
@@ -88,7 +88,7 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 - [[Not Your Homie]] — the residual "you" at its purest as **refusal** rather than beloved (*"you don't know me"*).
 - [[City of Angels]] — the residual "you" as **recruitment**; the *your → my → your* rotation as the Loop in grammar.
 - [[Weirdness]] — the **counter-move**: integration as a single *your → my* flip; the album's only albedo.
-- [[Lucius Lullaby (title track)]] — the undecidable *"I'm dreaming"* refrain; Roy/Lucius merger as sedation.
+- [[Lucius Lullaby]] — the undecidable *"I'm dreaming"* refrain; Roy/Lucius merger as sedation.
 - [[Soul Is A Star]] · [[It's Your Time]] — *33*'s you-engine, up close.
 - [[SOL]] — the wordless end-state where the axis cancels into breath; the one signal the Lucius-system can't metabolize.
 - [[Sir Lucius]] · [[Roy]] — the self-inflation (Lucius, the reflection claiming sourcehood) set against the relational self (Roy, the heart, the source-pole).

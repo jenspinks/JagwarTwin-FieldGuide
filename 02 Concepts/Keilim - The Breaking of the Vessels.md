@@ -72,13 +72,13 @@ Short excerpts, for the ear:
 - [[Roy]] — the broken and re-forming vessel; "in pieces, looking for pieces of one piece."
 - [[Sir Lucius]] — the shell that traps the light; read three ways (see below), never flattened to one.
 - [[The Light-Bearer]] — where the Hermetic stream's Lucius-split lives, kept separate from the Jewish one by design.
-- [[Tikkun Olam]] — the repair; the doctrine's other half.
+- [Tikkun Olam](https://en.wikipedia.org/wiki/Tikkun_olam) — the repair; the doctrine's other half.
 - [[The Banana]] — the sterile husk and Roy's public gloss on it.
 - [[Inversion]] — carries the "contract to expand" finding; the inverted Tree.
 - [[The Mirror]] · [[The Flip and the Distorting Mirror]] — the vessel-versus-husk failure-and-redemption state; the distorted twin.
 - [[Gnosticism - The World as Trap]] — the redeem-versus-escape fork that keeps this reading honest.
 - [[Hermeticism - As Above So Below]] — the *other* esoteric stream, explicitly not the Jewish one.
-- [[The Im 33 Board - Decoded]] — Roy's source-code scratchpad; supplies the board images below.
+- [[The I'm 33 Board]] — Roy's source-code scratchpad; supplies the board images below.
 
 ## Advanced reading
 
@@ -130,7 +130,7 @@ The accessible version is above. What follows is the dense framework material �
 > [!note]- Advanced reading — the "One become Two" poem (the board's cosmogony)
 > The board's central poem reads, in part: *"I spoke the words One become Two … Then I was in reverse … and I became You … A Darkness and a Light … when we crashed and came together, A Sun was born inside … But one day We'll get back together and see The Great Design."*
 >
-> It carries three readings at once. The **Roy/Lucius split** (One whose vessel breaks into Two). The **shevirah** (the One whose vessel breaks, scatters, and is repaired — "get back together" = tikkun). And **SOL** ("A Sun was born inside"). One image holding the personal myth, the cosmic myth, and the song that triggers both. (For the board's full apparatus, including "NOAH'S ARK / 11 sections / 3 stories / 32" — the flood-vessel — and the somatic "Body Part Stages" ladder ending "10 Crown of head," see [[The Im 33 Board - Decoded]].)
+> It carries three readings at once. The **Roy/Lucius split** (One whose vessel breaks into Two). The **shevirah** (the One whose vessel breaks, scatters, and is repaired — "get back together" = tikkun). And **SOL** ("A Sun was born inside"). One image holding the personal myth, the cosmic myth, and the song that triggers both. (For the board's full apparatus, including "NOAH'S ARK / 11 sections / 3 stories / 32" — the flood-vessel — and the somatic "Body Part Stages" ladder ending "10 Crown of head," see [[The I'm 33 Board]].)
 
 > [!note]- Advanced reading — the three readings of Lucius (decide per claim)
 > When the shevirah touches [[Sir Lucius]], three readings open, and they are *not* the same — so choose per claim rather than blending:

@@ -212,4 +212,4 @@ All my life
 - [[Sir Lucius]] — the face the innocent forgetting here eventually grows.
 - [[The Well]] · [[The Thread]] — the heart-as-navigator symbols the second verse turns on.
 - [[Down to You]] — the "be it" sibling doctrine: embody, don't acquire.
-- [[33 (album)]] — the reverse-ladder record this sits near the top of.
+- [[33]] — the reverse-ladder record this sits near the top of.

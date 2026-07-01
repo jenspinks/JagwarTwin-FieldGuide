@@ -74,6 +74,10 @@ The older currents the work draws on — named, and kept in front as readings ra
 - [[The Angels and the Angles]] — a letter-mysticism lens that hears the "la-la / na-na" syllables as technique: consonants as angles, vowels as angels.
 - [[The Light-Bearer]] — the figure who carries light that disorients instead of illuminating; his symbol the strobe, not a steady flame.
 - [[Jacob and Esau]] — the two-brothers pattern; the smooth one and the rough one, and what gets taken between them.
+- [[Carl Jung]] — the shadow and its redemption: what you bury doesn't die, and the only way back is relationship, not war.
+- [[Gurdjieff]] — *"man is asleep"*: the wake-up doctrine Roy wears tattooed on his hand.
+- [[Alice Bailey]] — the Twelve Labors as the soul's inner zodiac; the book Roy annotates, teaches, and transcribes.
+- [[Roy on Influences]] — the reading list Roy posts himself: the named lineage, with receipts and a warning label.
 
 ## The wider world and artifacts
 

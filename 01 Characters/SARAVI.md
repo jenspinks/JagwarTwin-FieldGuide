@@ -11,7 +11,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **One-line reading.** SARAVI is the oracle-interface of the Hall of Mirrors — the digital presence who speaks for Roy's uploaded archive and lets the audience put a question to the myth itself.
 
 > [!infobox] SARAVI
-> ![[saravi.svg]]
 >
 > - **Also known as** — VI · Vi
 > - **Role** — AI oracle-interface; uploaded-consciousness proxy

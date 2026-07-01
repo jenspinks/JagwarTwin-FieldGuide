@@ -22,4 +22,4 @@ Underneath the songs runs a current of esoteric and mythological material: Kabba
 
 ## Where to go next
 
-Follow [[The Hall of Mirrors]] to see these traditions encoded as a puzzle, or open the [[Concepts]] hub for the rest of the esoteric material, including [[Hermeticism - As Above So Below|the Pattern]] and the breaking of the vessels.
+Follow [[The Hall of Mirrors]] to see these traditions encoded as a puzzle, or open the [[Concepts]] hub for the rest of the esoteric material, including [[Hermeticism - As Above So Below|the Pattern]] and the breaking of the vessels. The people Roy actually reads have pages of their own — [[Carl Jung]], [[Gurdjieff]], and [[Alice Bailey]] — collected, with the full named roster, under [[Roy on Influences]].
