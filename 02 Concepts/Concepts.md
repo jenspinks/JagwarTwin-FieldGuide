@@ -19,6 +19,7 @@ The load-bearing structure: a single source, its reflections, and the question o
 - [[Inversion]] — keep the form intact and reverse its direction: the same circle, the same prayer, pointed backward.
 - [[The Divide]] — the named edge where the leap is chosen, the threshold a seeker crosses to make the return.
 - [[The Pattern]] — Roy's name for the single law that repeats at every scale: as above, so below.
+- [[Music as Pattern and Identity]] — the same law heard in a single life: what a song *is* — a pattern that turns personal, the way a tune becomes *yours* — and why the forgotten song in [[The Circle]] is an identity waiting to be re-sung.
 - [[Machine vs Human]] — the catalogue's central opposition: being seen and loved versus being watched and quantified.
 
 ## The Circus and the attention economy

@@ -18,3 +18,7 @@ The larger arcs of the Jagwar Twin project, in order — the soil, the cosmology
 - [[Singles & EPs]] — the standalone releases between the albums. More than once the most important developments happened off-album: the dream that births Sir Lucius, and the 2023–2025 run of singles and EPs that quietly assemble the figure the 2026 album finally names.
 
 - [[Lucius Lullaby (album)]] — the 2026 album. A sustained descent held almost to the end, where the shadow gets the microphone and the only thing that finally resolves is the survival of the feeling underneath. The first time the project shares its billing with the voice it was built to contain.
+
+## The theatrical spine
+
+- [[The Interview]] — not an album but the connective drama that runs alongside the *Lucius Lullaby* rollout: a seven-part video series in which Roy and his shadow [[Sir Lucius]] argue across a table over who really made the music. Dozens of songs land differently once you've watched it.
