@@ -111,6 +111,10 @@ This is where the concept plugs into the rest of the map. It's the **collective 
 >
 > Notice, too, how *little* the singer originates: across the track he says essentially two things — *"I said hello"* and the survival-chant — and everything else is the city talking back or the chant repeating. A greeting offered to a stranger comes back as prophecy and advertisement; he gets a pitch, not a person. It's an echo-economy with no communion in it: all return, nothing returned-to. The man so far inside the machine he has no voice left to get out of the way with — the exact photo-negative of the mirror who steps aside so others see themselves.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Do you think Jesus would do an arena tour"* — **03-11 '23** · communion vs the arena-as-spectacle
+
 ## Source notes
 
 - **Grounded (released lyrics, public posts, credits).** The two in-lyric anchors — *"the crooks and believers all sing the same song"* ([[Great Time to Be Human]]) and *"everyone looks just like you"* ([[City of Angels]]) — are verified released lyrics. The *dog/god* couplet and the *"Oops! / yay! / boo hoo / Woof!"* ad-libs are likewise lyric-explicit on [[Great Time to Be Human]]; so are *"Take your seat, scream and shout"* ([[Welcome to the Circus]]) and the *ring-around-the-rosie → ashes, ashes* turn ([[Not Your Homie]]). Roy's **choir arranger** credit on [[Playing to the Gods]] and the *"aligned to sound like one voice unless you listen closely"* note on [[The Circle (Lucius Version)]] are public production facts. Roy's public rejection of *fan* for *co-creator* is on the record. [[The Watchers]] interpolates a credited Rockwell sample.

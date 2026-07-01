@@ -153,6 +153,15 @@ The Circle is first named, in 2019, while Roy is talking about [[Move To You]] �
 > [!note]- Advanced reading — the doctrine seeded across the web3 maze
 > The Circle/Loop vocabulary is salted through the Hall of Mirrors ARG as candidate unlock phrases: *"THE CIRCLE WILL GROW," "ONLY THE CIRCLE KNOWS ABOUT THE CIRCLE," "CIRCLES WITHIN CIRCLES," "THE POINT IS THE CIRCLE," "CIRCLES NEVER END," "IT'S TIME TO TURN EVERYTHING INSIDE OUT," "THERE IS A BACKDOOR TO THE NEXT REALM," "ONE BECOME TWO."* The doctrine isn't only sung and posted — it's literalized as the maze's own grammar.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Like any great myth, there are many versions. Set in different landscapes with different characters but all telling the same story. I wanted to explore a few ways to tell Jagwar Twin's "Genesis" story. The Circle: The (Great Jagwar Myth) EP is out tonight at 12AM (EST)"* — **02-16 '23** · myth as one story, many tellings
+> - *"The music video for The Circle (0) is out now. Making this video was a magical experience. Ryan and Michael and I took a road trip out to the middle of no where. Ryan brought snacks and we filmed the truth. I hope you enjoy this video of The Story."* — **02-17 '23** · filming truth; The Story as canonical frame
+> - *"In the spirit of growing the circle, we hope collectors of this alternate version will discover and enjoy the rest of the Jagwar Twin universe in the Hall of Mirrors"* — **02-18 '23** · Circle as expanding gateway
+> - *"Many cycles of The Story came and went"* — **02-14 '23** · cyclic myth, The Story repeating
+> - *"Talked with @altpress about 33, the circle and music that evolves forever"* — **04-19 '23** · Circle + evolving music cosmology
+> - *"There isn't anywhere to get"* — **07-19 '23** · no destination; present-moment doctrine
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The 2019 Circle naming (Digital Journal, on "Move To You"): *"There is no beginning and no end it's just a circle."* The song [[The Circle]] (the *33* closer, written and produced by Roy with Matt Pauling) and its lyrics. Roy naming it the front door (2024): *"The Circle is Jagwar Twin's Genesis story."* [[LOOP]] as a solo-written 2025 single kept off the album, its lyrics, and the break-the-LOOP X campaign. The publicly framed LOOP → Not Your Homie → Welcome to the Circus chain. The *"FEAR Functions like Prayer in Reverse"* tattoo and Roy's gloss. The Manifesto FAQ (*"There's only one song"*). The *"you are it"* slogan (2021 microsite, 2025 ARG). The X aphorisms (*"Music is how the world remembers who it is,"* *"Life is a loop,"* *"Time is a circle squared"*) ([[Public Posts]]). The public Discord use of *"the Circle"* as the fan community. The Joni Mitchell writer credit on "Soul Is A Star" and Roy's account of the clearance. Roy's hyper-present-tense *"raspberries… today, at 11:18 PST, organic only"* fruit answer (2024 interview). Groundhog Day on Roy's curated film index.

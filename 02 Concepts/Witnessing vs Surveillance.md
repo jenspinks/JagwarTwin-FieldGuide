@@ -147,6 +147,14 @@ A companion page, *pay-attention.jagwartwin.com*, states the premise in Roy's ow
 > - **Rockwell / Motown** — *"Somebody's Watching Me,"* carrying the watching-God and the clone-fear pre-loaded into the interpolated source.
 > - **Marian titles** — *La Conquistadora*, *Queen of California/Heaven*: the witnessing feminine, Mary.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Feeling seen is the most beautiful thing in the world"* — **06-22 '23** · witnessing as the deepest gift
+> - *"Taking a selfie is like taking a shit"* — **05-07 '23** · self-imaging as involuntary / bodily, not sacred
+> - *"If you saw me you would love me. But i sometimes i can't see myself."* — **05-11 '26** · El Roi turned inward; being seen = being loved; can't witness the self
+> - *"A mirror can be your best friend or your worst enemy but will show you yourself 🖤"* — **2025-06-23** · mirror doctrine: the gaze that restores vs the gaze that wounds
+> - *"Compassion is a mirror."* — **06-18 '26** · the witnessing gaze made ethical
+
 ## Source notes
 
 - **Grounded.** *El Roi* = Genesis 16:13, "the God who sees me" (public scripture). The Hebrew אל ראי inked on Lucius's throat (visible in video stills). *El Roy* as Roy's authorial signature (public posts and captions). The lyric content of [[Online]], [[The Watchers]] (with the credited Rockwell interpolation), [[Not Your Homie]], [[Pay Attention (feat. little luna)]], and [[Welcome to the Circus]] (released music). Lucius's *"the algorithm, baby"* (the public *Interview* series). The *Online* / *pay-attention* browser experiences and their verbatim text (public ARG). SARAVI's public introduction and stated purpose (culture3 interview). The LISTEN, Empty Mirror, and crossed-out ME tattoos with Roy's glosses. That *La Conquistadora* and *Queen of Heaven* are real Marian titles.

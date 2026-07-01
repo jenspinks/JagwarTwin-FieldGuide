@@ -125,6 +125,12 @@ Three operations are worth naming, because the same mirror behaves differently i
 >
 > **The SOL exception.** The usurper meets one signal it *cannot* absorb: the wordless *Song of Love*. Lucius is exposed not by being out-argued but by encountering a source he can't metabolize — SOL *survives* him rather than conquering him. The reflection can swallow anything except the light it was only ever borrowing.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"reflections reflections reflections"* — **06-30 '23**
+> - *"Show me a picture of you in reverse"* — **08-09 '23** · inversion as self-knowledge
+> - *"Crown Updates: Crowns are the master key to the Hall of Mirrors and serve as a reflection of a user's interactions both inside and outside of the HoM. They are free to collect and are the to unlock experiences and items."* — **02-10 '23** · the Crown as reflective token
+
 ## Source notes
 
 - **Grounded — Roy's own words, released music, public posts.** The mirror mission, restated 2018→2026 (*"I just want to be a mirror"*; *"a song is a mirror"*; *"be the clearest mirror"*; *"It's a mirror for you"*; *"everything is what is inside of you reflected back out"*). The **Mirror Sessions** name and premise. The on-record naming of the **Hall of Mirrors** metaverse. The **Empty Mirror** wrist tattoo and Roy's gloss (*"seeing nothing"*); the whole mirrored-tattoo body system, *ROSE ESOR*, *"ME"* crossed out, *"I'M NOT HERE."* The *Long Time Coming* mirror/disguise line (2018) and the *Lucius Lullaby* magic-mirror line (2026). The *"Everything is a mirror"* Facebook post (2019). *Rorrim Ehtni* (2008, Eye Alaska). The *Good Time (1:08)* iconography and Roy's dating of Lucius to it. The *El Roi* throat tattoo and the *El Roy* signature. The aphorisms — *"Compassion is a mirror"* (2026), *"A mirror can be your best friend or your worst enemy"* (2025), the Steiner community-mirror quote Roy posted (2025). The projection law and the light/dark-as-reflection premise (Audio Addiction, 2024). The *Down to You* end-card (~2021). The pronoun count is empirical (a tally of the released lyrics).

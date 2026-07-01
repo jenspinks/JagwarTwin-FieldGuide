@@ -116,6 +116,10 @@ Read together, that's a voice failing from *within* and being suppressed from *w
 > [!note]- Advanced reading — WTTC is Lucius's product, confessed inside the work
 > One fact reframes the whole mouth-failure cluster: the song that contains it *admits its own authorship.* In [[The Interview]] EP3 (YouTube, Jan 5 2026), Roy proposes releasing a Song of Love; [[Sir Lucius]] overrides him, dismisses the earlier vulnerable songs as low-performing, offers *"another hit,"* and names the source — *"the algorithm, baby."* So WTTC's litany of broken mouths is, by the work's own confession, **Lucius-made algorithmic material** — which is why it can stage every mouth-failure at once with such fluency. It's the consuming mouth describing the damage it does, and calling it a hit. (The deeper open question: behind Lucius stands a "Boss" — so the consumer might be Lucius, *or* the Algorithm, *or* the industry, *or* the audience, with the appetite further upstream than the ringmaster.)
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"I'm pushing air out of the sky of my mouth cutting the angles with my tongue. Ayy eeee iiiii oooohhh ewwww. Amen."* — **01-27 '23** · voice as geometric instrument
+
 ## Source notes
 
 - **Grounded (released music, official video, public posts).** The four WTTC mouth lines and *"Did you like the show?"* (streaming-verified lyrics). The [[I Like to Party]] force-feeding video (dir. Kyle Vorbach). *"Say you're good, say you're fine"* ([[Happy Face]]) and *"blood in my mouth"* ([[Hell of a Night Pt. 2]], 2018). [[SOL]] as released wordless-but-voiced. The EP3 lore beat where Lucius overrides the Song of Love with *"the algorithm, baby"* ([[The Interview]]). Roy's *Mirror Sessions* account of speech-from-the-heart; his *"Silence is the language of God"* / *"Understanding is only understood in silence"* posts; the Matthew 12:34 quote-caption. Roy's public engagement with Hebrew/Kabbalah (the 2019 *"Diary of a loser"* post, the *El Roi* throat tattoo, the *I'm 33* board).

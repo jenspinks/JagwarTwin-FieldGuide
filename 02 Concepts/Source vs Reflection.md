@@ -182,6 +182,15 @@ That record also runs the album's clearest case of borrowed light that *transmit
 >
 > A guardrail, kept honest: this is a *synthesizing lens*, and the catalogue never names it. A master key this powerful risks over-fitting — the discipline is to keep asking which songs it does *not* illuminate, and to notice that three "agreeing" pages ([[The Mirror]], this one, and Lucius-as-usurping-reflection) may partly be *one idea restated in three places*, which can read as mutual corroboration when it's really single-sourcing. The Hall of Mirrors namesake grounds the *motif*, not the *mechanism*. Hold it as a frame that fits, not a doctrine the work declares.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Is the world I see not a reflection of my own inner world?"* — **10-19 '23** · world-as-self-reflection
+> - *"Notice the moon / Becoming the sun"* — **05-05 '23** · lunar-to-solar arc
+> - *"Do not be deceived by forms"* — **02-01 '23** · appearances vs hidden reality
+> - *"We are drops of light"* — **04-13 '23** · light as fundamental identity
+> - *"Getting out of the way for new stuff to come through, excited to share it with you soon!"* — **03-27 '23** · artist as vessel
+> - *"Crown Updates: Crowns are the master key to the Hall of Mirrors and serve as a reflection of a user's interactions both inside and outside of the HoM. They are free to collect and are the to unlock experiences and items."* — **02-10 '23** · Crown as reflective key
+
 ## Source notes
 
 - **Grounded — Roy's own words, released music, public posts.** The mirror doctrine (*"I just want to be a mirror,"* *"a song is a mirror,"* *"we're all really mirrors to each other,"* *"Jagwar Twin is a collective consciousness"*); the project's literal *Hall of Mirrors* name and ARG; the [[Shine]] writing-story (watching *Troy*, *"a chorus that felt happy, like the sun rising"*); the Chaplin / Mercer / Sarah Vaughan inherited voices on *Subject to Flooding*; the [[Long Time Coming]] mirror lyric; the El Roi and Empty Mirror tattoos, and Roy's gloss on the latter; *"no thing ever creates another thing"* (2022) and the *davar* solve; the pronoun arithmetic (I 492 / the 485 / you 478; the 33→Lucius Lullaby ratio shift; SOL wordless); the *Jagwar Twin & Sir Lucius* co-credit; [[BALLERINA BOY]]'s motherly outro and its standalone June-2025 release; the [[The Watchers|Watchers]] / Rockwell authorship saga; the Down to You and *bounce* title cards; the Dion Fortune quote-card and the 2026 X aphorisms; SARAVI as the artist-confirmed *"digital doppelganger."* These anchors are public-facing.

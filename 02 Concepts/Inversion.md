@@ -157,6 +157,15 @@ The pages below carry the heavy framework and esoteric material — kept whole, 
 > - **"I guess Lucius was right again."** As *welcome to the circus* — the song *about* the Circus — actually went viral, Roy conceded in his own voice that his cynical antagonist's thesis had been vindicated by reality. The villain is proven right by the world, and the artist has to admit it on the record.
 > - **"I'm the final boss."** Lucius's video-game self-designation — the comic-grandiose escalation from *"mastermind"* (Good Time, 2023) to *"final boss"* — names himself the obstacle to his own exit.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"I am blind. The darkness we have seen over the last years is a clear indication that Light is at work. As more Light (consciousness, awareness) comes in we see things that were always there, hidden, but are now being illuminated."* — **10-19 '23** · darkness as proof of arriving light
+> - *"The melting together of sense and nonsense produces the supreme meaning"* — **10-17 '23** · fusion of opposites yields meaning
+> - *"Where is Israel in me? Where is Palestine in me? Are we not one? Did we not fall from the same tree? Have I rejected myself? Is the world I see not a reflection of my own inner world?"* — **10-19 '23** · world as reflection of inner self
+> - *"I like to look at things upside down"* — **09-10 '23** · inversion as perceptual practice
+> - *"Idk. Maybe the rabbits chase us"* — **09-15 '23** · pursuer/pursued flipped
+> - *"One can be so far ahead they appear behind"* — **06-03 '23** · recognition inversion
+
 ## Source notes
 
 - **Grounded** (Roy's own words, released music, public posts, official videos). The *"Functions like Prayer in Reverse"* clavicle tattoo and Roy's Fear gloss; ROSE/ESOR and the right→left mirror-and-center body structure; *Rorrim Ehtni* (2008→the *I'm 33* board); *lowercase = contraction* (the project's own gloss); the *I'm 33* board (*"one must contract,"* the *"One become Two… in reverse"* poem); the 2019 *"Everything is a mirror"* Facebook post with its reversed *I'M NOT HERE* selfie; the John 8:32 lyrics across *It's Your Time*, *Bad Feeling*, and *Lucius Lullaby*; the [[Welcome to the Circus]] inversion lines (*"everything's upside down,"* *"spinning you 'round and 'round,"* *"no exit sign in my maze"*); the green-apple handoff post and Roy's decode; the Devil-card / Paul Foster Case pointer; *"Nothing is evil in the beginning,"* *"the brightest lights cast the deepest shadows,"* *"discipline in proportion to your chaos,"* and the dual-voiced *"Everyone's a guru"* (*"fully in the aquarium"*) ([[Public Posts]]); the official videos — the "Good Time" video (2023, 1:08: face paint + Empty Mirror tattoo + *"I'm a mastermind,"* the persona before its billing) and the *"algorithmic hit, the algorithm baby"* override of the Song of Love in the theatrical EP run ([[The Interview]], EP3); the 🙃 Happy Face; the *Bounce* Sefer Yetzirah/Beth epigraph and the *Welcome to the Circus* Hermes riddle on the live cards.

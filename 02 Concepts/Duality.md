@@ -134,6 +134,15 @@ The project leaves one tension genuinely unresolved, and it's better to name it 
 > [!note]- Advanced reading — Roy stated the thesis in 2021 (Discord, public)
 > A grounded, citable formulation that *predates* the album, from a public 2021 Discord post: *"The middle, the balance point always holds the truth, but it's essential to understand both sides. Mind/Soul, Thought/Intuition. The key to awakening lies in the opposite."* Correct-ordering-as-balance, in Roy's own hand, five years before *Lucius Lullaby* dramatized it. The 2026 resolution *model* extends it: instinct + intellect resolved by a higher third faculty, **intuition** — *"higher than instinct and intellect… the god voice thing in here"* (from the Hercules / Cancer-labour telling). Two held and transcended by a third, not collapsed into one.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"The brain thinks But the heart knows"* — **01-27 '23** · heart/mind split, verbatim
+> - *"Knowledge divides. Wisdom unites."* — **04-28 '23** · duality resolved by a higher faculty
+> - *"Red skies ahead, but the duality of man shines brighter #JagwarTwin #DesertVibes #MindGames"* — **02-07 '23** · names the concept directly
+> - *"It's confusing not to commit to one reality"* — **06-06 '23** · the cost of living between poles
+> - *"I'm always between worlds"* — **06-28 '23** · liminal identity named plainly
+> - *"Good Time (1:08) is streaming everywhere now. Sir Lucius sends his thoughts. I'm here too - El Roy"* — **09-29 '23** · dual-voice signature at a release moment
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The name as thesis (*Jagwar Twin* = the dual nature); the dark/light framing in Roy's voice across 2018, 2019, 2021, 2023/24, 2024, and 2026 (Ones To Watch, New England Sounds, Highwire, Mic Magazine, Strife, Audio Addiction, North Coast Music Beat, the 2026 IG Live, the *Interview* EP, and the Mirror Sessions with Bohnes, Jeff Ellis, and Briana Cuoco); the literal word *"duality"* used by Roy; *"There's two sides to every story"* on the artist bio and his June 2026 X feed; *"The brightest lights cast the deepest shadows"*; *"as more light comes in, more darkness is seen"* and the magnifying-glass version; *"my mind must serve my heart"* (on his body and in the lore) and the heart/mind split stated in 2024 press; the [[Down to You]] and [[Bananas]] lyrics; the mirrored-tattoo layout, ROSE / ESOR, and *Rorrim Ehtni*; the 2021 public Discord *"key to awakening lies in the opposite";* the comedic enactments in his own voice (the *"I'm no thing" / "Pigeonhole me"* exchange with Briana Cuoco, the apples/oranges koan with Bohnes, the Hall-of-Mirrors / "Goosebumps book" correction); the named-source roster Roy himself stated publicly — the Mayan-mythology grounding of the jaguar (2018), the Rosicrucian *"the rose blooms in the center of the cross"* gloss, and the late-2025 named cluster (Gurdjieff, Blavatsky, Israel Regardie, Éliphas Lévi, Dion Fortune); the בבל ⇄ לבב Babel/heart spelling-mirror posted in 2026.

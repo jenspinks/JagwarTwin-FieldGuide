@@ -131,6 +131,11 @@ Live, falsifiable, and honestly unsettled — the threads this frame can't yet c
 - **Does the typology earn its keep, or absorb everything?** The four-container scheme (prison / initiatory / kli / husk) is only worth keeping where it would *exclude* a reading. If every box, banana, mirror, house, and egg slots neatly into one of four roles, it predicts nothing. The stress-test stays on the table.
 - **And the letter-cipher** (above): the strict {Vav, Beth, Beth, Lamed}→בבל reading is weakened; the Lucius Lullaby title card is the live decider.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"What's a house without a hall"* — **02-11 '23** · the house as an architecture requiring passage
+> - *"Life is just putting things in things"* — **08-29 '23** · container logic as ontology
+
 ## Source notes
 
 *Tiered by how firmly each claim is anchored. Everything on this page draws only on released music, public interviews and posts, and official videos.*

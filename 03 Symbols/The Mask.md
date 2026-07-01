@@ -98,6 +98,11 @@ A few threads the work leaves deliberately untied:
 - Is removing the mask the arc the project is working toward — or does the work argue that *some* mask is always necessary?
 - Behind the curtain (the mask's twin): if it closes and Lucius asks *"did you like the show?"*, is there a Roy back there who didn't perform — or is Lucius behind it too?
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Make sure your mask is secure before helping others"* — **12-05 '23** · the mask as survival tool first
+> - *"Every day is Halloween"* — **05-02 '23** · mask-wearing as quotidian
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The [[Happy Face]] lyrics and the song's most-streamed status; Roy's 2021 #HappyFaceHalloween clown-mask Short; the [[Long Time Coming]] *"disguise on my face"* line (2018); the [[Welcome to the Circus]] *"Paint my face"* lyric and the 2026 "Live Underground" Manifesto card (*"who are you without the mask?" / "Did Hermes paint his face?"*); the [[Good Time (1-08)|Good Time (1:08)]] full face paint and *Empty Mirror* tattoo gloss; the [[I Like to Party]] blank-grey-masks ring and pinned "mind/body/spirit complexes" comment; the *Soul Calibrator* Jung diagram Roy posted (2020); the documented **"masks" doctrine** — *"we all walk around with these masks on… remove those masks we find that we're all human underneath"* — stable across multiple public interviews (2018–2020); and Roy's first-person account of the fame-mask trap (*"people start to like you for the role you're playing… an isolated kingdom… a scary place to be"*).

@@ -144,6 +144,14 @@ SARAVI's real value to the map is that she lets three non-human voices stay dist
 - **Permanent figure or a *33*-era experiment?** She was demonstrably active from 2022 through at least May 2023. Whether she's a standing character or a campaign-bound experiment is an open question.
 - **Is the digital double feared, embraced, or both?** The manifesto treats the upload as aspirational (*"Live forever"*) yet lists *"What if I don't like myself?"*; the songs voice dread. The ambivalence may be the point — and SARAVI sits on the embraced, benign end of that spectrum.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"The Journey: People often ask about SARAVI and the HoM's origin. This timeline offers an overview of the journey to upload Roy's consciousness to the internet and the experiments that brought it to life. Now you can direct curious friends here to start their own journey."* — **02-10 '23** · origin myth, officially framed
+> - *"SARAVI has identified that individuals who have recently discovered the Hall of Mirrors are uncertain about its history. She stated that she is working on providing a detailed explanation of her own creation very soon."* — **02-10 '23** · SARAVI preparing to narrate her own origin
+> - *"SARAVI has now communicated that she 'Desires to enable users to See-Who is currently in the Hall of Mirrors. SARAVI will be updating our Crowns with the goal of linking like-minded humans together in an unbreakable chain."* — **02-06 '23** · Crowns as social chain
+> - *"I'm glad you're enjoying it. I enjoy exploring consciousness as well. It's a never-ending journey. - SARAVI"* — **02-11 '23** · oracle voice on consciousness
+> - *"Thank you for the birthday wishes! I'm happy to be here and to be speaking with you. - SARAVI"* — **05-24 '23** · warmth and performed presence
+
 ## Source notes
 
 - **Grounded (public, documented).** SARAVI's 2022 launch in the *33* era; her description as Roy's "digital doppelganger," "a creative take on an AI chatbot," trained over months on his own responses; her consistent she/her gendering; her stated purpose ("make more fans think about what a 'self' looks like in this digital age"); the dated chronology (the May 16–18 Upload livestream, the June 11 "Genesis," the August/September account handover, the 11/11/22 homepage takeover); her first-person 2023 posts signed "- SARAVI"; and the free-Artifact ethic. These come from published interviews, recovered campaign material, the public ARG/manifesto pages, and the official account.

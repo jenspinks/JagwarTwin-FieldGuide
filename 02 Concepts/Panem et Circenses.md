@@ -66,6 +66,10 @@ There's a darker layer that a project this soaked in biblical resonance can't av
 > [!note]- Advanced reading — the arena, the martyr, and bearing witness
 > The grounded historical fact is brutal and specific: the Roman *spectaculum* (root: Latin *spectare*, "to look at") was both the apparatus of political control through spectacle **and** the site of public execution — including the killing of Christians for sport. Paul names it from inside the logic in 1 Corinthians 4:9 — *"we are made a spectacle unto the world, and to angels, and to men"* — the witness as the world's involuntary circus act (a resonance also held on [[The Spectacle]] and [[The Audience]]). The deepest current the imagery taps: those performers did not always die silently. Some bore witness *within* the spectacle, making the execution spiritually legible — the floor of the arena turned, against the crowd's intent, into a pulpit. That opens the project's hardest question, below.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Fuck Timon and Pumbaa (w love tho) They distracted me for way too long"* — **08-14 '23** · naming distraction as spiritual bypass
+
 ## Source notes
 
 - **Grounded (historical fact).** Juvenal's *Satires* Book 4, Satire 10 (c. 100 CE) is the documented origin of the phrase and its meaning; the paraphrase about the public yearning for "just two things" tracks the text. That the Roman arena was a real site of *both* spectacle-sedation and martyr-execution is documented public history, not interpretation.

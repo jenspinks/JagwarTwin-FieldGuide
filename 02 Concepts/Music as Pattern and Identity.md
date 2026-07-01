@@ -83,6 +83,13 @@ And it's why [[Ballerina Boy]] belongs here as the tender case. The buried child
 >
 > These sit *on* the grounded material (Roy's own board, his own public lines) rather than being imposed on it — but they're interpretive frames, and the plainer reading (a man who thinks in music noticing that "Happy Birthday" is quietly perfect) stands on its own without any of them.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"I'm pushing air out of the sky of my mouth cutting the angles with my tongue. Ayy eeee iiiii oooohhh ewwww. Amen."* — **01-27 '23** · voice as sacred geometric instrument
+> - *"The greatest scientists are poets"* — **02-05 '23** · pattern-knowledge as art-science unity
+> - *"We're all creative cannons"* — **02-21 '23** · human creativity as generative force
+> - *"I strongly dislike everything about 'bars'"* — **05-09 '23** · rejection of metric convention; music as pattern, not measure
+
 ## Source notes
 
 - **Grounded (Roy's own words and artifacts).** The music-staff *"what is music?" → "Happy birthday to you / to Mozart" → "the greatest Song ever written: HBD" → "When was I Born?"* cluster, the separate *"Happy Birthday to YOU"* cell, the *"What is Form? — interlocking of free-moving Force into patterns which then operate as a unity"* definition, and the tone/color/virtue "musical scale for consciousness" are all on Roy's own citable "I'm 33 this year" board ([[Public Posts]]). *"Music is how the world remembers who it is"* and *"the world needs music, but the world doesn't need more songs. There's only one song. I'm still learning how to write it"* are Roy's public statements. The Circle's *"hid the song inside their wings / On the inside of the inside"* and *"remembered she once held the string,"* and the Lucius-Version *"I'm dreaming"* music-box swap, are grounded released music.

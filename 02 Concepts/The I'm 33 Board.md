@@ -208,6 +208,14 @@ One of those is sneakier than the rest. The **Eye-of-Horus fractions** — ½, �
 >
 > For maze-hunters: an image inventory of the board separates what *has* become a Hall of Mirrors artifact from what hasn't. The un-mined images — the Torus, the EM-spectrum chart, continued fractions, Apollonian conics, the LHC, the brain-wave chart, and the entire Walter Russell suite — are the likeliest territory for still-undiscovered rooms.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Where are the answers ▵▢◑"* — **02-11 '23** · the board's central question, posed publicly
+> - *"I only know because 23 is 5"* — **03-01 '23** · numerological encoding, board's number-mysticism
+> - *"Wow we are so on brand 33"* — **02-28 '23** · 33 as deliberate cosmological marker
+> - *"Tour stars on Friday in Orange County with @TRANSVIOLETBAND . 3 DAYS AWAY! And 3 DAYS until Great Time To Be Human drops on the world. 33. Coincidence I don't believe in coincidence…"* — **04-12 '23** · no-coincidence doctrine central to the board
+> - *"33 forever"* — **06-11 '23** · upload/eternal state in two words
+
 ## Source notes
 
 - **Grounded — the board's contents.** Captured from five high-resolution screenshots (the live Sheet is access-restricted) and classified citable. The typed cells are high-confidence; handwriting is transcribed where legible. The two framing matrices, the six ladder-encodings, the cosmogonic poem, the full Kybalion transcription, the Hebrew and Greek gematria, the 22-film list, the Noah's Ark cell, the mirror-writing, and the HBD staves are all transcribed verbatim. The *title* "I'm 33 this year" and the *tab* "How to upload myself to the internet" are the board's own words.

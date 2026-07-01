@@ -111,6 +111,12 @@ A few threads the work leaves deliberately untied.
 - **Is the project diagnosing the Circus without an exit, or is the escape also named?** Juvenal diagnosed but didn't prescribe. Can a witness bear witness *within* the spectacle — as some Roman martyrs did, making the execution spiritually legible — rather than only escaping or being consumed?
 - **Is the audience's love of watching you lose control a moral failure of the audience, or a designed feature of the system** they can't be blamed for? And does [[Mary]] model the way out: true witnessing (seen-and-loved) as the antidote to being watched-and-ranked?
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Do you think Jesus would do an arena tour"* — **03-11 '23** · communion vs the arena spectacle
+> - *"Every day is Halloween"* — **05-02 '23** · mask-wearing as the everyday default
+> - *"'The crowd neither wants nor seeks knowledge, and the leaders of the crowd, in their own interests, try to strengthen its fear and dislike of everything new and unknown. The slavery in which mankind lives is based upon this fear.' — Gurdjieff #happyface #badfeelingjt"* — **2025-10-09 '26** · crowd enslaved by fear; the algorithm/spectacle's own logic
+
 ## Source notes
 
 - **Grounded (the songs say it; Roy posts it).** The naming line and the whole architecture of [[Welcome to the Circus]] (*"final boss,"* *"they love it when you lose control,"* *"did you like the show?,"* *"chew you up, spit you out,"* *"step right up,"* *"take your seat"*); the *mastermind → final boss* escalation, which is Roy's own dating of the Lucius figure to *Good Time (1:08)*; the [[Happy Face]] video vocabulary and the *"ARE YOU CONTENT?"* card; *"LET'S SEE YOU CLAP THEM HANDS"* in *I Like to Party*; the Live Underground cards' broadcast frame and the appended *mask / Hermes* lines (2026-06-26); the theatrical *Interview* series and EP5 systems speech; Roy rejecting *fan* for *co-creator*; the Gurdjieff, *"Are NPCs real?,"* *"The ocean does not need to perform,"* *"Stop giving your power away,"* *bilingual*, and *Chaos Club* mask-merch posts. These are public-facing.

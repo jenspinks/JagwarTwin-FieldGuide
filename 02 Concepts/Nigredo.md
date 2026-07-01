@@ -131,6 +131,13 @@ A few threads the work hasn't tied off — held open rather than forced shut.
 - **Can the Circus be the vessel as well as the cage?** An *alembic* — the necessary container for the descent — and not only the obstacle?
 - **Is [[SOL]] the rubedo?** Or is there further work between Weirdness (the threshold) and completed gold? And is *being chewed up* (Consumption) an initiation that simply hasn't finished within the song — with SOL as the Jonah-prayer *from inside the whale,* before the ejection?
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"Birthday notes 35 / In the past I've felt pretty down on my birthday. Every new trip around the sun, I'd look at my life and see myself largely as a failure. I'd wish that more people listened to my music and that I was selling out massive tours around the world"* — **05-22 '23** · the thirty-five collapse in his own words
+> - *"Had this dream last night where I was watching the sun almost like from a microscope and it was at the end of its life about to explode. When it exploded it sent the earth into darkness. I was in the kitchen with Luke and I said it had happened. Then I ate the last of the kimchi."* — **01-05 '23** · solar death / collective descent into darkness
+> - *"Window of opportunity and the art of dying"* — **07-12 '23** · dying as conscious threshold-crossing
+> - *"I watched the holy mountain 3.5 times today"* — **07-20 '23** · Jodorowsky's alchemical-descent film
+
 ## Source notes
 
 - **Established tradition (public, verifiable).** That nigredo is the first stage of the Great Work; the four-color sequence; *prima materia*, the philosopher's stone; the VITRIOL acrostic and its translation; *solve et coagula* as a Latin alchemical axiom. Standard Western-alchemical material, not a claim about the music.

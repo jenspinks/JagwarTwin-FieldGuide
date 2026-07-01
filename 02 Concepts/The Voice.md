@@ -149,6 +149,12 @@ Short of an exhaustive list, these are the songs, videos, and posts that establi
 
 ---
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"I'm pushing air out of the sky of my mouth cutting the angles with my tongue. Ayy eeee iiiii oooohhh ewwww. Amen."* — **01-27 '23** · voice as sacred physical act
+> - *"We speak our own names"* — **03-24 '23** · authentic self-naming
+> - *"I am I am (a [heart]) / My words have always been imperfect. I prefer to speak in images, or music, or to not speak at all. Especially about politics and foreign affairs, things I have little understanding of. However, with the current world situation in Israel and Palestine I"* — **10-19 '23** · Roy's own voice doctrine
+
 ## Source notes
 
 - **Grounded (released lyrics, official videos, Roy's own posts and interviews).** The [[Welcome to the Circus]] triple voice-failure; [[Happy Face]]'s instructed-voice hook; [[I Like to Party]]'s force-feed and the mid-word *"we interrupt our program"* (with the official description naming the stakes — *"loss of identity… a self created hell"*); the [[#1 Champion (la Conquistadora)]] vocal structure (chorus is [[Mary]]'s; Lucius enters only by joining her, then finishes alone, a cappella); the [[Ballerina Boy]] motherly outro as an audio-confirmed older female voice, distinct from the father's narrated line; [[SOL]] as voiced-but-wordless (*No Lyrics Available*); the [[Superhuman]] Chaplin sample (composer credit); Roy's X aphorisms and the named Blavatsky lineage; the *"third voice"* IG Live; the [[Honey Podcast]] authenticity passages; Roy's Discord/Twitter-Space remarks on the sounding human voice carrying feeling (*"it's good to hear your voice"*). Roy's load-bearing statements here are public-facing.
