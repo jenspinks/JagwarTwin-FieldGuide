@@ -117,7 +117,7 @@ There's a clean way to hold the three figures closest to the wound: **[[Sir Luci
 
 ## The body as a map (the load-bearing tattoos)
 
-Roy's body is a wearable version of the cosmology. The structural fact, in his own words: **every tattoo is inked on the right side and mirrored onto the left, and one `+` sits in the center, spanning both sides.** The body isn't a list of tattoos — it's a *symmetrical diagram* with a central axis. A few of the load-bearing ones:
+Roy's body is a wearable version of the cosmology. The structural fact, in his own words: **every tattoo is inked on the right side and mirrored onto the left, and one `+` sits in the center, spanning both sides.** The body isn't a list of tattoos — it's a *symmetrical diagram* with a central axis. A few of the load-bearing ones below; the **full inventory** — every tattoo, his own glosses, and where each is sourced — is on **[[Roy's Tattoos]]**:
 
 | Tattoo | Roy's own gloss |
 |---|---|
