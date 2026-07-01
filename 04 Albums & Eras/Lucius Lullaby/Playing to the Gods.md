@@ -77,7 +77,7 @@ That's the false immortality made audible: the phoenix that skips the burning. A
 - **[[Roy]]** — credited vocalist (as "ROY," distinct from the human author who writes and produces). In his mouth the same words are a **prayer** — *please let me survive this* — fear, not narcissism; the human under the machine asking to make it out.
 - **Roy English** (the author) — writer, producer, mixer, and *choir arranger*; plays piano, synth, melodeon, bass. The choir-arranger credit is load-bearing (see below): he built the counterfeit communion.
 - **MERCY** — Mercedes Colletta Britton, a real credited session vocalist on background vocals, recurring across the album. A person, not a symbolic "Mercy."
-- **Matt Pauling** — co-writer and cellist; the *33*-core collaborator whose recurrence on tracks 9, 10 and 13 is a grounded cross-album personnel link back to [[33]].
+- **[Matt Pauling](https://www.instagram.com/matthew.pauling/)** — co-writer and cellist; the *33*-core collaborator whose recurrence on tracks 9, 10 and 13 is a grounded cross-album personnel link back to [[33]].
 - **The rabbit-masked woman** *(visualizer only)* — faceless, still, passive throughout; the dropped connection given a body. Full white rabbit mask, black lace.
 
 ## Symbols
