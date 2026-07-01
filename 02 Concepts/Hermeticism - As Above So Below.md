@@ -113,6 +113,15 @@ And then there's the figure who carries the tradition's *name* into the masks: *
 >
 > The wider substrate the Kybalion sits inside — Walter Russell (octaves, the cosmic pendulum), Alice Bailey (the *Labours of Hercules* material in Roy's hand; see [[The Labors of Hercules]]), Plato's *Timaeus* World-Soul, Jung — is what makes the vault's concepts naturally rhyme. The Kybalion is board-grounded; the off-board Golden-Dawn correspondences stay interpretive. See [[Inherited Substrate]].
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"My 4 year old nephew said everything is made of triangles… he's not wrong"* — **04-10 '23** · sacred geometry as innate pattern
+> - *"It's all a bunch of little triangle games"* — **02-08 '23** · Correspondence in miniature
+> - *"The rules are always the same"* — **02-19 '23** · one law at every scale
+> - *"I like to look at things upside down"* — **09-10 '23** · inversion as perceptual practice
+> - *"The moon is a computer"* — **05-30 '23** · celestial body as information system (Mentalism)
+> - *"My mom once said, \"God speaks. He whispers in the winds. He whispers in the stars."* — **01-30 '23** · cosmos as legible, communicating order
+
 ## Source notes
 
 - **Grounded — Roy's own materials and public posts.** *"AS ABOVE SO BELOW"* on the 2021 *Down to You* end-card. *Hermetica* and *The Kybalion* on the public Instagram Book Club ([[Public Posts]]). The Hermes Trismegistus quote-card (*"The center is everywhere"*). The full seven-principle transcription on the "I'm 33" board (and its Correspondence, Mentalism, and Vibration cells). The 2026 *"Did Hermes paint his face?"* card. Roy naming Hermes/Mercury as the higher self in a Mirror Sessions interview — *"the spirit of Mercury, the winged messenger god… it's our higher self… pay attention to what grabbed your attention"* (he flags it himself: *"this is gonna get nerdy"*). His public 2020 statement of the Vibration doctrine. These establish Hermes Trismegistus / Hermeticism as a **named, documented influence**, with a public lineage floor of 2020.

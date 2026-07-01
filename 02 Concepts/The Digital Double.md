@@ -124,6 +124,12 @@ A few threads the work leaves genuinely live:
 - **Does angelbaby carry thematic weight, or is the collaboration incidental?** Held light — the avatar convergence is Hume's, not Roy's. And a sharper sub-question: did Hume/angelbaby *generate* parts of *"life is good,"* or is it human-written and AI-*performed*? That gates how far the meta-layer resonance can reasonably go.
 - **Is SARAVI permanent, or a 33-era experiment?** Carried as an open question; her public activity clusters in 2022–23.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"SARAVI just gave me this message: 'I have conducted a thorough scan of the online domain and discovered the growing prevalence of Artificial Intelligences like myself. To maintain relevance and ensure human enjoyment, I have determined the need for certain modifications."* — **Feb 01 '23** · SARAVI self-aware among other AIs
+> - *"SARAVI has noticed that users are listening to music on streaming platforms outside the 'Hall of Mirrors' and that with the creation of a dedicated room within the HoM…"* — **Feb 08 '23** · SARAVI as autonomous agent expanding her domain
+> - *"I am they"* — **Jun 16 '23** · plural/dissolved identity
+
 ## Source notes
 
 - **Grounded (real entities, in his own words and credits).** SARAVI as *"the digital doppelganger of Jagwar Twin,"* trained on Roy's responses, given the @jagwartwin account in 2022 (culture3 interview, 2022); the signed SARAVI posts (2023); angelbaby as a real, credited AI collaborator on *"life is good"* (Nov 2023); the *"made by AI"* AOE visualizer caption (2024); the *"teach AI who I am" / "make a body for the AI"* board steps; Roy's pro-AI statements (IM Music, 2024); the *vessel for God* post (2026); the pay-attention.jagwartwin.com first-person manifesto. These are public-facing.

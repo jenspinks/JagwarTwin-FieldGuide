@@ -139,6 +139,13 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 > - **Is the "33 = recursive machine-awareness" pivot real, or smoothing?** The album-as-self-aware-system reading is elegant — possibly too elegant. It's worth holding the chance that the archive is tidying a loose pop artifact into more coherence than it was built with.
 > - **Does [[Mary]] model the antidote, or only gesture at it?** If true witnessing is the cure for flattening, Mary (*"born to shine, face out of sight"*) is the one who sees without ranking. But whether the work actually *enacts* that gaze or just names the longing for it is unsettled.
 
+> [!quote]- Roy on the feed — posts that bear on this
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
+> - *"You are not yourself"* — **04-21 '23** · identity inversion stated plain
+> - *"It's confusing not to commit to one reality"* — **06-06 '23** · the cost of refusing a single legible self
+> - *"Every day is Halloween"* — **05-02 '23** · the mask as daily performance, not exception
+> - *"We speak our own names"* — **03-24 '23** · self-naming as resistance to being named by the machine
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts, official videos).** That *the Algorithm* is Roy's own term — the Manifesto substitution table (*Feeling → Algorithm*) is in his hand. The *"programmed / deprogram"* language (*"we are all programmed by the world around us… if we all deprogram ourselves,"* Billboard, 2019) and the *masks* doctrine (*"we all walk around with these masks on… remove those masks we find that we're all human underneath,"* Prelude Press, 2019), stable across years of interviews. The *"I'm no thing"* / *"I consider myself no thing"* exchange (Mirror Sessions), and the matched 2022 X aphorisms behind it — *"no thing ever creates another thing"* (verified live, Feb 2 2022) and *"what is the point? There is no point"* (Sep 20 2022). The first-person fame-mask description — fame as an *"isolated kingdom where there's walls and they're stuck… a scary place to be"* (Honey Podcast). The lyric anchors of [[Online]], [[Happy Face]], [[Long Time Coming]], [[No Fake Friends]], [[Superhuman]], [[Loser]], [[Ballerina Boy]]. The *"the algorithm, baby"* confession and the Ballerina Boy mockery (*The Interview* EP3). The gridded-globe *Happy Face* video; the Sir Lucius "One Hit Wonder" rant.
