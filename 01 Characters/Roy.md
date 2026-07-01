@@ -16,7 +16,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Role** — the heart-centered interpreter; the conscious self recovering the buried boy
 > - **First album** — *Subject to Flooding* (2018), as Jagwar Twin
 > - **Signs himself** — El Roy *("the God who sees me")*
-> - **Key symbols** — [[The Mirror]] · the rose · the cross · [[The Moon]]
+> - **Key symbols** — dove (Cygnus) · sword · heart · El Roy · the rose · the cross · [[The Mirror]]
+> - **Links to** — Netzach / Venus — heart, love, beauty, devotion
 > - **Related** — [[Sir Lucius]] · [[Mary]] · [[The Jaguar]]
 
 Roy is the center of gravity in the Jagwar Twin world. He's the conscious, heart-centered self the songs are sung through, and the figure every other character is defined against. He's also a real person, and the work draws openly on his life — which is part of why it lands the way it does. Start with one fact about him and the rest follows: everything he's built is an elaborate apparatus for getting back to a feeling that got talked out of a seven-year-old, and un-burying the boy who carried it.
@@ -26,7 +27,7 @@ Roy is the center of gravity in the Jagwar Twin world. He's the conscious, heart
 - **Role** — the heart-centered interpreter; the conscious self recovering the buried [[Brandon|Ballerina Boy]] and renegotiating [[Sir Lucius]].
 - **Start with** — [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Weirdness]] · [[SOL]]
 - **Core conflict** — whether the mind ([[Sir Lucius]]) can be made to *serve* the heart again, instead of replacing it.
-- **Key symbols** — [[The Mirror]] · the rose / cross · [[The Moon]] · El Roi
+- **Key symbols** — dove (Cygnus) · sword · heart · El Roy · the rose / cross · [[The Mirror]]
 - **Confidence** — grounded fact (the biography, his own quoted statements) braided with interpretation (the deeper esoteric mapping).
 
 ## Why this figure matters
@@ -157,10 +158,12 @@ The full inventory — including the unexplained ones and the crossed-out ones �
 >
 > His *"the mind is the slayer of the real / we must slay the slayer"* is near-verbatim Blavatsky (*The Voice of the Silence*), which grounds the resolution as a *discipline* — serve and slay the mind-pole — rather than a war you win once. And the childlike→rational→return-to-childlike spiral he describes (kids *"are geniuses,"* then learn rational thought, then must go *back* to intuition) is the same shape: the mind is a necessary *step*, never the destination. Guard: his *instinct/intellect/intuition* triad shares a shape with Roy/Lucius/Ballerina-Boy but is a different register — don't collapse them.
 
-> [!note]- Advanced reading — the esoteric map (Moon, Tiferet, the water-line)
-> *(Framework-tier and syncretic — held as a lens, never as Roy's stated intent.)*
+> [!note]- Advanced reading — the esoteric map (Netzach/Venus, and the deeper Tiferet/lunar layers)
+> *(The Netzach/Venus association is Roy's own simple character-map; the Tiferet and lunar readings are deeper syncretic framework — a lens, never his stated intent.)*
 >
-> One mapping reads Roy as **Tiferet** — the heart-center, the savior-archetype, the harmonizing point of the Tree of Life. That carries a built-in trap, which the framework flags openly: *identification with* the savior archetype rather than *service to* it is its own inflation. A 2026 re-mapping moves him instead to the **Moon / the lunar position** — the only figure occupying both Malkhut and Yesod, the lunar vessel *reaching toward* the Sun (Tiferet / the heart / SOL), not the Sun itself. The reach is the point; arrival is not assumed.
+> **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, Roy is **Netzach — Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it — the **dove** (named **Cygnus**, the Swan that flies the Milky Way, the Northern Cross; the descending spirit of love), the **sword** (discernment, the clean cut of chosen action), and the **heart** itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury.
+>
+> **The deeper layers (framework, held beneath the simple key).** Two syncretic readings run *under* that association without competing with it. One reads Roy as **Tiferet** — the heart-center, the harmonizing point of the Tree of Life — which carries a built-in trap the framework flags openly: *identification with* the savior archetype rather than *service to* it is its own inflation. Another reads him as the **Moon / lunar position** — the reflective vessel in Malkhut and Yesod, *reaching toward* the Sun (Tiferet / the heart / SOL) rather than being it; the reach is the point, arrival not assumed. Neither cancels Netzach/Venus: Roy can be "lunar" as a *reflective vessel* while his simple character-symbol stays Venus and the heart. Tier them; don't merge them.
 >
 > A second framework reading hears a sixteen-year **water-line** in his self-naming: *Eye Alaska* (2010, looking toward the shore) → *Subject to Flooding* (2018, being the flooded) → *"I am the shore, I am not the wave"* (2026, being the shore — [[Public Posts]]). Almost certainly retrospective continuity rather than an authored plan — but it's a clean shape. Note also that he is a Gemini Sun, which literalizes *Jagwar Twin* and the **duality** he calls *"a lot of what Jagwar Twin is"* — his X bio runs *"🐆 ☉ There's two sides to every story ☉."*
 

@@ -15,12 +15,13 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 >
 > - **Also known as** — the final boss · the mastermind · the Light-Bearer
 > - **Nature** — the mind severed from the heart
-> - **Register** — lunar · reflective · audience-dependent
+> - **Register** — mercurial · reflective · audience-dependent
 > - **First appeared** — *Good Time (1:08)*, 2023 *(per Roy)*
 > - **Co-credited** — first on *Not Your Homie*, Oct 31 2025; full album billing on *Lucius Lullaby*, March 27 2026
 > - **Mark** — 🍏 the green apple · signs 🗡🍏
 > - **Tattoo** — *El Roi* (throat)
-> - **Symbols** — [[The Mirror]] · [[The Mask]] · [[The Moon]] · [[The Green Apple]]
+> - **Symbols** — [[The Green Apple]] · crow (Corvus) · cigarettes · El Roi · [[The Mirror]] · [[The Mask]]
+> - **Links to** — Hod / Mercury — the analytic intellect, speech, cleverness
 > - **Related** — [[Roy]] · [[Mary]] · [[Sir Rabbit]] · [[Leif]]
 
 ## At a glance
@@ -28,12 +29,12 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Role** — Roy's shadow; the intellect that stopped serving and started ruling. By 2025 he is a *co-credited artist* with his own streaming pages.
 - **Start with** — [[Welcome to the Circus]] (Lucius at full power) · [[Lucius Lullaby (album)|Lucius Lullaby]] (the album that hands him the mic) · [[The Green Apple]] (his mark, decoded).
 - **Core conflict** — mind serving heart versus mind *replacing* heart; the 2026 album asks whether the protector can be revised or has become a prison.
-- **Key symbols** — [[The Green Apple]] · [[The Mirror]] · [[The Mask]] · [[The Moon]] · [[The Rabbit]] · the dagger 🗡, The Morning Star
+- **Key symbols** — [[The Green Apple]] · crow (Corvus) · cigarettes · El Roi · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · the dagger 🗡
 - **Confidence** — grounded fact (Roy's own statements, released music, public posts) braided with strong interpretation; the esoteric framework is labeled as such throughout.
 
 ## What are we dealing with?
 
-Lucius is instinct and ambition — the heart separated from the mind, but separated, not without. He is action spurred by fear and pain. He is the frantic protection of a mother fearing vulnerability: the instinctual response born of learned reaction rather than wisdom. He is ego trying to protect what is vulnerable, unknowingly destroying the very vulnerability he holds dear. He is a truth that is hard to grasp because it twists and turns — sometimes you can be looking directly at it and not see it.
+Lucius is instinct and ambition — the mind severed from the heart, but severed, not gone. He is action spurred by fear and pain. He is the frantic protection of a mother fearing vulnerability: the instinctual response born of learned reaction rather than wisdom. He is ego trying to protect what is vulnerable, unknowingly destroying the very vulnerability he holds dear. He is a truth that is hard to grasp because it twists and turns — sometimes you can be looking directly at it and not see it.
 
 He is not reducible to manipulation, nor to shadow alone, nor to protection alone. He holds all three registers simultaneously. When Roy's sincere phrase enters Lucius's mouth in a different key, seductive, urgent, demanding, the register is not simply deceptive; it is the frantic motion of something that loves what it is about to harm, and harms to protect. The three registers do not cancel each other; they are the same gesture seen from different angles.
 
@@ -166,8 +167,8 @@ This is why he reads as morally complex rather than evil. He genuinely emerged f
 - **[[The Mask]] / white face paint** — survival hardened into identity; white as the color of light and of concealment at once. The signature: white face, a small painted **cross** on the cheek, X's tattooed under the eyes.
 - **the shush** (finger to lips) — the silence/secret gesture, carried on the 2024 handoff image.
 - **knight armor** — the protector's warrior shell (steel breastplate and gauntlets; medieval armor as far back as *Good Time*).
-- **[[The Moon]]** — Yesod, reflection, dream-logic, spectacle; *"the moon trying to become a sun."*
-- **the morning star / Venus** — Lucifer = the morning star; the herald of dawn mistaken for the dawn it precedes, eventually outshone by the sun (→ SOL).
+- **the reflective image-realm (Yesod)** — reflection, dream-logic, spectacle; the glamour he works *through*, not his home. (The Moon itself, and *"the moon trying to become a sun,"* belong to [[Roy]].)
+- **the crow (Corvus)** — Mercury's bird: the sharp, clever, scavenging intelligence; the mind's cunning given a familiar (a mapping Roy has named). *(For the buried Lucifer / morning-star resonance, see the advanced note below — a footnote only, not his character-symbol.)*
 - **the banana** — his trigger-prop; a sterile clone playing real light.
 - **the jester / ringmaster / clown** — his theatrical face; the rabbit-eared hat that doubles as horns or moth-antennae.
 - **[[The Rabbit]] / March Hare** — the clown-rabbit of the dream; *"the year begins with Janus and the March Hare."*
@@ -181,8 +182,12 @@ This is why he reads as morally complex rather than evil. He genuinely emerged f
 > [!note]- Advanced reading — El Roi, the mirror wearing the seer's name (strong reading)
 > The throat tattoo is grounded fact. The *resonance* is a strong reading: Lucius — the figure whose entire existence is reflection — wears *"the God who sees me"* on the organ of utterance (the throat as Da'at, the gate where knowing becomes speech). He claims the *seen* position while performing the *seer's* role: every word he speaks passes through "the God who sees me," and he wears it on the very organ of the line *"you don't know me."* Pushing the Hebrew further — the root ר-א-י resonating across *seeing / mirror / lion → light-bearer*, toward "the one in whose seeing I am reflected" — belongs to a letter-mysticism tradition, **not** to anything Roy has stated as his method. These are harmonics the system permits, not claims it asserts.
 
-> [!note]- Advanced reading — the morning star on the Tree of Life (syncretic framework, not authorial intent)
-> Lucifer is the Latin name for **Venus as the morning star** → Netzach: Venus rises just before the sun, outshines all but sun and moon, and is routinely mistaken for the dawn it only heralds. Native signature: **Netzach** (display, herald). Native mechanism: **Hod / Geburah** (intellect plus severity). Operating theater: **Yesod** — the image-realm of glamour he works *through*, not his home. (The Moon position belongs to *Roy*, not Lucius.) He is "the moon trying to become a sun": illuminated by fear and algorithms, he goes viral and dominating; illuminated by source-light, he becomes reminder, witness, bridge. That is the tragedy — and this whole mapping is precise *syncretic* framework, never something Roy authorized as intent.
+> [!note]- Advanced reading — Hod / Mercury, and the buried Lucifer/morning-star resonance (syncretic framework, not authorial intent)
+> Lucius's clean map is **Hod — Mercury:** the analytic intellect — speech, cleverness, analysis, framing — the *"truth divorced from heart,"* the mind that only ever tells the truth and deploys it to kill. Cross it with **Geburah / Mars** (severity, the cutting edge) and you have the whole green-apple mechanism: intelligence divorced from spirit, wielded with a blade. This is the **mind-pole**, standing opposite [[Roy]]'s **Netzach / Venus** heart — Mercury against Venus.
+>
+> His **operating theater** is **Yesod** — the reflective image-realm, the Treasure House of Images, the glamour he works *through* rather than occupies (which is why the broken imagery — the sterile banana, the artificial apple — reads as *Yesod gone wrong*).
+>
+> Held beneath all that as a **footnote resonance only:** the **Lucifer / morning-star** thread. *Lucifer* is the Latin name for **Venus as the morning star** — the herald that rises just before the sun, is mistaken for the dawn it only announces, and is outshone by the sun it precedes (→ [[SOL]]). It echoes his "herald mistaken for the source" tragedy — but it is **not** his character-symbol. Venus / Netzach belongs to Roy; this Venus register is kept strictly separate (see [[The Light-Bearer]], [[The Rose]]). Syncretic framework throughout, never something Roy authorized as intent.
 
 ## Earlier traces — "he was seen, not born"
 
@@ -214,7 +219,7 @@ The tempting move is to date Lucius to an origin — a childhood wound, the *Luc
 
 - **Grounded (Roy's own words, released music, public posts).** The definition *"the mind divorced from the heart"*; *"I made you"*; the *El Roi* throat tattoo; the green apple as his mark and Roy's own decode of it; the 2024 Instagram handoff and the one-hit-wonder rant signed *Sir Lucius 🗡🍏*; the co-credit and premiere takeover on *Lucius Lullaby*; the *Good Time (1:08)* iconography and *"mastermind"* line; the dream origin; the Devil-card / Paul Foster Case pointer; *Welcome to the Circus*, *Not Your Homie*, *Weirdness*, *#1 Champion*; the public-rollout captions (*"for president,"* *"Leave sir lucius alone,"* *"clowns,"* the *"one take. no edit… masterpiece"* visualizer tag, MERCY's *"Now you are a clown"* repost — [[Public Posts]]); the public *STOP SIR LUCIUS* flyer-and-banner campaign and the theatrical "Interview" episodes ([[The Interview]]) (the bargain, the *"yeti"* beat, the kidnapping, the moth speech, *"the algorithm, baby"*); the named influences (Screwtape, Dion Fortune, Gurdjieff). Roy's load-bearing statements are public-facing.
 - **Strong readings.** "He was seen, not born"; the three modes / three registers; the protector-who-needs-the-wound; the mirror as medium *and* nature; the El Roi irony; the welcome-in-vs-welcome-out fingerprint; Mary as counterpart; the silent→voiced arc; *Rorrim Ehtni* and the 2021 shadow-voice as earlier traces. Grounded in the material, but interpretive — labeled as such.
-- **Framework (esoteric, syncretic — never authorial intent).** The Tree-of-Life placement (morning star / Netzach / Yesod); the El Roi letter-mysticism cluster; the Dweller-on-the-Threshold lineage; the Hermes/Thoth thread. The system *permits* these resonances; it does not assert that Roy intends them.
+- **Framework (esoteric, syncretic — never authorial intent).** The Tree-of-Life placement (Hod / Mercury intellect + Geburah, working *through* Yesod; a buried Lucifer/morning-star resonance held separate from Roy's Venus); the El Roi letter-mysticism cluster; the Dweller-on-the-Threshold lineage; the Hermes/Thoth thread. The system *permits* these resonances; it does not assert that Roy intends them.
 - **How we'd be wrong.** If the plain "mind severed from heart" doctrine accounts for every Lucius song as well as the esoteric apparatus does, the apparatus is decorative. And a Lucius act that's gratuitously harmful with *no* vulnerable thing being guarded would pressure the "frantic protection" register. We keep both falsifiers on the table.
 
 ## Read next
