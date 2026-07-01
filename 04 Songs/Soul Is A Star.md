@@ -123,6 +123,101 @@ There's a bittersweet coda Roy offered in the same interview, and it's a rare on
 > [!note]- Advanced reading — the pre-album roots, and the "one song" thesis
 > Two threads worth keeping. First, the father/son material predates the album: a 2021 poem Roy posted publicly carries *"A Darkness from my fathers Side / From long before he earthed"* and *"A stars someone that tells a truth / For better or for worse"* — the star/truth complex and the inherited-shadow already articulated a year before *33.* Second, the *"there's only one song"* thesis: in his Manifesto material Roy says *"the world needs music, but the world doesn't need more songs. There's only one song. I'm still learning how to write it."* Read through [[The Circle]], this song is one node in a catalogue that keeps trying to re-transmit that one song — and the Joni *"fifty-year transmission"* is another. A board aphorism glosses the bridge from the same angle: *"maybe a planet is one star's way of becoming another star"* — the seed/star/planet cycle stated as a board theory, rhyming with *"we fall down as seeds on the ground"* (a substrate echo, not proof the lyric points at the cell).
 
+## Lyrics
+
+```
+I met a Man
+Who had a Son
+But he lost him to The World
+He said my Son was a Singer
+He wrote songs you never heard
+He took his life
+He gave it up
+Before Prophets ever turned
+Man said I don't mean to linger
+Can I sing you just one verse?
+It goes
+Your soul is a Star
+It's alive
+I can see it
+Your soul is a Star
+Who am I to believe in?
+Your soul is a Star
+It's alive
+I can see it
+Oh ah ha
+Do you know Who you are?
+I met a girl
+Who was a gun
+Kept a bullet in her genes
+She said Papa was a sinner
+Playing God behind the scenes
+She wanted Love
+But she got Fame
+And Power from The Thieves
+There's always something bigger
+When The World ain't what it seems
+You know
+Your soul is a Star
+It's alive
+I can see it
+Your soul is a Star
+Who am I to believe in?
+Your soul is a Star
+It's alive
+I can see it
+Oh ah ha
+Do you know Who you are?
+Your soul is a Star
+Who am I to believe in?
+Your soul is a Star
+It's alive
+I can see it
+Oh ah ha
+Do you know Who you are?
+Your soul is a Star
+It's alive
+I can see it
+Your soul is a Star
+Who am I to believe in?
+Your soul is a Star
+It's alive
+I can see it
+Oh ah ha
+Do you know Who you are?
+We fall down as seeds on the ground
+We fall down as seeds on the ground
+We fall down as seeds on the ground
+We fall down as seeds on the ground
+Your soul is a Star
+(Know Who you are)
+Your soul is a Star
+Ya
+(Know Who you are)
+Your soul is a Star
+Know Who you are
+Oh ah ha
+Do you know Who you are?
+Because your soul is a Star
+It's alive
+I can see it
+(I can see it)
+Your soul is a Star
+Who am I to believe in?
+(To believe in)
+Your soul is a Star
+It's alive
+I can see it
+Oh ah ha
+Do you know Who you are?
+Your soul is a Star
+Your soul is a Star
+(To believe in)
+Your soul is a Star
+Oh ah ha
+Do you know Who you are?
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts, official video).** Joni Mitchell's co-write credit (with Roy English and Matt Pauling) and Roy's stated *blessing* (*"gave me her blessing and is a cowriter is still mind blowing"*); the full on-record sign-off story and the *"me and Janet Jackson"* line; *"Woodstock"* as the specific Joni song (and *"caught in the devil's bargain"* as her own published line); the Egyptian Book of the Dead as the title's stated source; the released lyric reading *"Prophets"* (not *profits*) and Spotify's intentional capitalization; the album's *"do you know who you are?"*; Roy ranking it his *"second favorite… sometimes it flips with the circle"* and naming it a live favorite (*"I feel so connected to everyone and to god"*); the *"flowed through me"* writing note; the *"important song… glad it exists"* / no-push framing; the board artifacts (the *Sun/Son* layout, the *"dropped by my record label"* note); the Masquerade childhood-influence bio (Joni + Dylan, published third-person PR). Roy's load-bearing statements here are public-facing.

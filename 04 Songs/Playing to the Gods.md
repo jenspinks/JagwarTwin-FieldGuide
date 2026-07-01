@@ -131,6 +131,18 @@ That's the false immortality made audible: the phoenix that skips the burning. A
 > - **A unison choir is just a choir.** Reading the gospel arrangement as "many voices forced to one = counterfeit communion" may be a frame imposed on a standard production choice. Held at resonance, not structure.
 > - **The falsifier.** Read the visualizer *out* and the "false immortality over a stopped heart" thesis nearly vanishes — the hand-drop and flatline are choreography, not audio. So the strongest claims here are readings of the *film*, and they're tiered as film. Strip the picture and you're left with a guy chanting "never gonna die" for sixty-five seconds. That's not a weakness of the reading; it's the reading being honest about where it stands.
 
+## Lyrics
+
+```
+Never gonna die
+Never, never gonna die
+If I make it out alive, then I'm never gonna die
+
+Never gonna die
+Never, never gonna die
+If I make it out alive, then I'm never gonna die
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, verified credits).** Track 9 of 15 on *Lucius Lullaby* (2026-03-27, Big Loud Rock / Mercury); 1:05 runtime; billed *Jagwar Twin & Sir Lucius*. Writers Roy English & Matt Pauling; vocalists sir lucius + ROY; background vocals MERCY (Mercedes Colletta Britton); Roy English as producer / mixer / choir arranger and player (piano, synth, melodeon, bass); Matt Pauling on cello; Jagwar Twin recording engineer; Dale Becker master — all per Spotify credits, verified track-by-track. Not an instrumental (a corrected early mislabel); lyric verified against Apple Music synced text. The continuous seam into *City of Angels* and the mantra's recurrence there are audible facts. The [[The Interview|*Interview*]] EP6 line "my lullaby is everywhere as we speak." Roy's X repost of the @2times_eth reception post (2026-04-17). Roy's rollout-window X aphorisms *"The ocean does not need to perform"* and *"The Truth is a Game / The Game is the Truth"* (2026-03) — public posts, cited here as thematically-adjacent paratext, not as claims about the song's meaning. The album tagline *"Twisted takes on adolescent musical themes for hands that rock the cradle."* The official Vevo visualizer. The "the gods / play to the gallery" theatre idiom itself is standard.

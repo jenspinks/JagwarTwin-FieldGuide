@@ -116,6 +116,61 @@ A few claims that cut across the whole song.
 >
 > **Alchemy and Kabbalah on a co-written 2018 party song are unlikely to be authored.** The premature-dawn and who-controls-the-voice frames stack esoteric systems onto a heist anthem co-written with Michael Morgan. They earn their place as *interpretation* — resonances the material permits — never as something the writers set out to encode.
 
+## Lyrics
+
+```
+[Chorus]
+It's guna be a hell of a night
+(Hell of a night)
+It's guna be a hell of a night
+(Hell of a night)
+It's guna be a...
+It's guna be a...
+
+[Verse 1]
+Sirens call out making their sound
+Hallelujah, hallelujah
+Backseat driving blood in my mouth
+Hallelujah, hallelujah
+
+[Pre-Chorus]
+Buckle up
+Lock it down
+Give us what we ask for
+Skip the line
+Cut it twice
+Fake it like your passport
+Cause when we walk in, need to see your hands wave
+
+[Chorus]
+It's guna be a hell of a night
+(Hell of a night)
+It's guna be a hell of a night
+(Hell of a night)
+It's guna be a...
+It's guna be a...
+
+[Verse 2]
+Backdoor ride-out lost in this sound
+Hallelujah, hallelujah
+Red wine shoelace no body found
+Hallelujah, hallelujah
+
+[Pre-Chorus]
+Buckle up
+Lock it down
+Give us what we ask for
+Skip the line
+Cut it twice
+Fake it like your passport
+Cause when we walk in, need to see your hands wave
+
+[Outro]
+It's guna be a hell of a night
+It's guna be a hell of a night
+It's guna be a...
+```
+
 ## Source notes
 
 - **Grounded (released music, public metadata, public paratext).** The title's liturgical/criminal fusion; the position as track 11 of 13 on *Subject to Flooding* (2018, Atlantic); the writers (Roy English, Michael Morgan) and production team; the heist scene as *enacted* in the lyric (sirens-as-hallelujahs, the getaway, the six robbery commands, the hands-up, the cold-case shoelace). In the theatrical canon, [[The Interview]] (EP2) has Sir Lucius cite the real economic stakes of "Michael" — Michael Morgan, the actual co-writer — which is corroborated by Morgan's own public producer profile.

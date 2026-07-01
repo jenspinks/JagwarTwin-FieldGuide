@@ -93,6 +93,86 @@ One line the song throws off and doesn't unpack — *"in a war that I lost and w
 > [!note]- Advanced reading — the un-folded cross-era pairings (death-mantra, soul-plan)
 > Two connective threads live in the vault's working notes but haven't yet been argued out in the individual song pages, so they're flagged here as *leads*, not conclusions. First: tomorrow pairs with [[Playing to the Gods]] and [[City of Angels]] as a **death-mantra contrast set** — three songs circling mortality with very different postures (surrender, clutch, and elegy). Second: tomorrow pairs with [[Imagine A World]] as a **soul-plan thread** — the sense of a life or soul that arrived with an itinerary. Real connective tissue, currently resting on the harvest note rather than a full reading; surfaced so it isn't lost.
 
+## Lyrics
+
+```
+Best I can tell I still don't know what I'm saying
+I like to talk, but I don't say much
+I wished you well, I still don't know why I'm praying
+I'll learn to walk, but I'm in no rush
+
+Maybe I'm starting to see
+Every star we could be
+Maybe I don't know, I don't know
+And that's fine with me
+We do the best that we can
+Maybe we're part of some plan
+Maybe we don't know, we don't know
+We're all holograms
+But even if that's all we are
+
+Oh
+We might not get tomorrow
+Just close your eyes
+Let it go
+Right here
+Together we know
+If we live like we ain't gonna die
+Then we won't
+We might not get tomorrow
+Just close your eyes
+Let it go
+Right here
+Together we know
+If we live like we ain't gonna die
+Then we won't
+
+When I go on, I'll leave problems like you left me
+Been here before, now my heart's switched on
+But I won't tiptoe, I got scars, I got the bloodstains
+In a war that I lost and won
+
+Maybe I'm starting to see
+Every star we could be
+Maybe I don't know, I don't know
+And that's fine with me
+We do the best that we can
+Maybe we're part of some plan
+Maybe we don't know, we don't know
+We're all holograms
+But even if that's all we are
+
+Oh
+We might not get tomorrow
+Just close your eyes
+Let it go
+Right here
+Together we know
+If we live like we ain't gonna die
+Then we won't
+We might not get tomorrow
+Just close your eyes
+Let it go
+Right here
+Together we know
+If we live like we ain't gonna die
+Then we won't
+
+If death is just a doorway
+Where you goin'?
+You came here with a plan
+Do you remember?
+If death is just a doorway
+And you know it
+Wipe your tears
+Take my hand, I'll help you remember
+(O) I AM (I am, I am, I am)
+I AM (I am, I am, I am, I am, I am, I am, I am)
+I AM (I am, I am, I am)
+I AM (I am, I am, I am, I am, I am, I am, I am)
+I AM
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public posts, official video).** The 2024 release on Big Loud Records; the Jagwar Twin × lovelytheband billing and full six-writer credit (including Roy English as co-writer and co-producer); the recurring *"we might not get tomorrow"* refrain and the escalating *"I AM"* outro; the *if→deathlessness* mirror with [[Playing to the Gods]]; the remembrance pattern across [[The Circle]] and [[Soul Is A Star]] (all on verified lyrics); the July 2024 *Angle of Eternity* visualizer captioned by Roy as **made by AI**; the March 2026 *"I am"* post from the Jagwar Twin account. The lyric is streaming-verified and stable — earlier "wording not confirmed" hedges no longer apply.

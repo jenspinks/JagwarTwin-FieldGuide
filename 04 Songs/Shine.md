@@ -116,6 +116,80 @@ A few claims that cut across the whole song.
 > [!note]- Advanced reading — the framework spine (albedo, radiance-pole, present-tense return)
 > Read through the esoteric traditions Roy demonstrably works in, *Shine* sits at a specific station. In the alchemical sequence it reads as **albedo** — the *whitening*, the dawn/purification stage that follows the *nigredo* dissolution the album stages earlier (especially in [[Long Time Coming]]). Its dominant pole is **solar**; its recursion state is **return** (the refrain circles back); its narrative voice is Roy; its temporal register is **present tense** — the dawn is happening *now*, not remembered or promised. In [[Source vs Reflection]] terms, *Shine* is the **radiance pole's first full articulation** in the catalogue: the earlier tracks study reflected light, and here the self tries to become the source. A further framework overlay reads the whole album as a *descent of light down the Tree of Life* — opening in a source register ([[Long Time Coming]]) and landing, on *Shine*, in embodied radiance on the earth-plane (Malkuth). **All of this is framework correspondence — a lens the material rewards — not a claim about what Roy set out to encode.** His stated frame (a happy chorus *"like the sun rising"*) stays the grounded floor; the albedo / radiance / Tree-of-Life apparatus is layered *on* a sincere chosen-light closer, never underneath his intent. The explicit falsifier: if *Shine* is exactly the chosen-light sunrise anthem Roy describes, this apparatus is overlay on a sincere uplift closer — and that's fine. Honor the stated frame as the floor; tier the cosmology.
 
+## Lyrics
+
+```
+When I rise
+To a brand new morning I
+Know the sun's gonna
+Shine, shine down on me
+Shine, shine down on me
+When I rise
+To a brand new morning I
+Know the sun's gonna
+Shine, shine down on me
+Shine, shine down on me
+Wake up, look at my phone and read the news
+It's bad, really bad
+I mean really, really, really bad
+Seems like the world is goin crazy getting outa hand
+They run the house and rig the game to get the upper hand
+Man, I wish that life was like a movie
+Maybe one of the classics
+I like those movies a lot
+Don't understand
+Why people doing what they doing
+All this violence is tragic
+'Cause we could all get along
+So let's change the world, we can start today
+Know that everything's gonna be okay
+Move oceans and earth 'cause we got the faith
+Know that everything's gonna be okay
+So everywhere I go, I'm gonna shine, shine, shine
+Yeah, anywhere I go, I'm gonna shine, shine, shine
+So sing it if you know you're gonna shine, shine, shine
+I was in the clouds, now the sun is coming out singing
+When I rise
+To a brand new morning
+I know the sun's gonna
+Shine, shine down on me
+Shine, shine down on me
+When I rise
+To a brand new morning
+I know the sun's gonna
+Shine, shine down on me
+Shine, shine down on me
+Sometimes it feels so hard to keep your ground
+It's like an earthquake under your feet
+But you're in the sea so you're gonna drown
+And everyone's against you
+From your family to your country
+It's so hard to continue watching homeruns while you bunting
+Nothing can stop you from doing what you believe
+When life was not a celebration, I had dreams and then I made 'em
+Something that no teacher teaching could ever teach
+We're all the same in every nation
+Gender of my generation
+So let's change the world, we can start today
+Know that everything's gonna be okay
+Move oceans and earth 'cause we got the faith
+Know that everything's gonna be okay
+So everywhere I go I'm gonna shine, shine, shine
+Yeah, anywhere I go I'm gonna shine, shine, shine
+So sing it if you know you're gonna shine, shine, shine
+I was in the clouds now the sun is coming out singing
+When I rise
+To a brand new morning
+I know the sun's gonna
+Shine, shine down on me
+Shine, shine down on me
+When I rise
+To a brand new morning
+I know the sun's gonna
+Shine, shine down on me
+Shine, shine down on me
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The song is track 13 of *Subject to Flooding*, the closer (2:56, Spotify ID `7ECdgylUCaSTNwxzY1Size`); first released September 21, 2018, with Atlantic/streaming redistribution metadata reading 2019 (recording owner ℗-line: **Atlantic Recording Corporation / WEA International Inc.**), and re-issued as **"Shine (Live In Studio)"** on January 17, 2020. Roy's writing account — sparked watching *Troy*, a chorus meant to feel *"happy, like the sun rising"* — and his thesis, *"even in dark times, there is always light if you want to find it,"* both from the April 2020 *American Songwriter* piece tied to that quarantine single (**the primary Shine paratext**). The mirror-doctrine statements (*"I just want to be a mirror"* / *"a song is a mirror"*) come from that same interview. A second 2020 quote (Honey Pop quarantine Q&A) makes the same case in the clear: *"Be a light in your own world. Everyone can be a giant sun and shine."* And a 2026 echo — Roy's public post *"The waters are rising but so am I"* (April 13, 2026) restates Shine's chorus verb (*"when I rise"*), evidence the Lucius-era Roy still answers the flood the *Shine* way: rise, don't outrun. (Sibling posts the same season: *"I am the shore,"* a Jericho repost — [[Public Posts]].)

@@ -128,6 +128,45 @@ That's the comic-horror register the album runs on: nursery form, grotesque cont
 >
 > A curio, kept for completeness and *not* load-bearing: Pinocchio's Pleasure Island — the boys who indulge every appetite turn into donkeys and are sold — reads as a species-swapped analogue to Bananas' id-permission-then-consequence arc (indulgence → animal → commodity). It's a resonance, not a claim; noted and shelved.
 
+## Lyrics
+
+```
+Go Bananas, GoGo Bananas
+Go Bananas, GoGo Bananananas
+
+Hey kids!
+Do you ever wanna break shit? (break shit)
+Do you wanna get wasted?
+Yeah, yah!
+
+Well alright (x4)
+
+Go Bananas, GoGo Bananas
+Go Bananas, GoGo Banananana (x2) (Yeah)
+
+It's the weekend and I'm freaking, like I'm ready to blow.
+Just the monkeys feeling funky, I got nowhere to go
+Don't wanna talk, I wanna rock, I wanna light up the stove.
+
+And burn it down, Burn it down, Burn it down down down
+
+Cause I wanna be Good, but it's fun to be Bad,
+And I wanna be nice, but I always get mad.
+And I wanna be good, but it's fun to be baaahaahaaaahaaahad.
+
+Hey kids! (hey)
+Do you ever wanna break shit? (yeah)
+Do you wanna get wasted? (uh-huh)
+
+I grew angry, sometimes I can lose my temper. (temper)
+I hear voices in my mind I don't remember
+[Did I do that?]
+
+Cause I wanna be Good, but it's fun to be Bad (bad bad ba-bad)
+And I wanna be nice, but I always get maahaaaahaad.
+Oh Maaaan!
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The album, credits, and 2:22 runtime; the writers (Roy English & Ryan Spraker, per Apple's "Written By"); the 6→7 seam and the ~10-ft banana pile in the official video; Roy's public *"most bananas are sterile and cannot reproduce by seed ;)"* comment ([[Public Posts]]) and his signed *"Nowhere is not a destination but you can arrive in an instant"* caption on the Bananas reel; the banana-as-play-button prop in the theatrical [[The Interview|"Interview" series]] (EP2 → [[Not Your Homie]], EP3 → [[Welcome to the Circus]]); Roy's green-apple decode (*"intelligence divorced from spirit… fruit that is unripe. No wonder why Sir Lucius is always holding one"*, [[Public Posts]]); the Gurdjieff post grounding the regression framing; the Times Square billboard promo (*"Watch bananas now on #YouTubeMusic"*). Lyric details verified against Apple/Shazam: *"the monkeys"* is plural, *"light up the stove"* (not "smoke"), *Good/Bad* capitalized.

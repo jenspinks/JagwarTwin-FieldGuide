@@ -123,6 +123,93 @@ The funny stuff here isn't decoration; it's the tell.
 
 **The streaming burn — where Lucius inverts the whole thing.** In [[The Interview]] EP1, Lucius greets Roy about his most sincere song with the crass-commerce deadpan: *"Congratulations on Loop. How's it streaming?"* — Roy, flat: *"It's not about that, Lucius."* Then EP3 lands the real inversion: *"You're in a loop and you don't even realize it,"* Lucius says, citing Loser → the ballad → Happy Face as evidence, capped with *"the algorithm, baby."* Roy titled the single. Lucius takes the word and turns it into an accusation — the light-side diagnosis handed back as a dark-side verdict. (See [[The Interview]].)
 
+## Lyrics
+
+```
+I feel like I'm stuck in a loop
+Oh
+Oh
+Oh
+I feel like I'm stuck in a loop
+Oh
+Oh
+Oh
+I feel like I'm stuck in a loop
+Loop
+Loop
+Loop
+Loop
+Loop
+Loop
+Loop
+Loop
+
+Everybody is talking about us lately
+And it's strange
+Overnight we went from being friends to lovers
+And now we're back again
+
+I don't know why I fell for you like I did
+It's like the stars in the sky conspired to bring me right to you
+And I don't know why I fell for you like I did
+I can't forget you when I miss loving you
+
+I feel like I'm stuck in a loop
+I keep ending up back at you
+On this carousel, I'm going 'round and around
+It's the same thing every time with you
+(I just can't get away)
+
+I feel like I'm stuck in a loop
+I keep ending up back at you
+On this carousel, I'm going 'round and around
+It's the same thing every time with you
+(I just can't get away)
+
+I feel like I'm stuck in a loop
+
+Swear I've been here before with you
+Feel like it's déjà vu (déjà vu)
+(I still remember the time)
+You and I stayed up all night
+Talking about how we're gonna break the simulation
+Maybe I'm crazy
+But you like it like that
+
+I don't know why I fell for you like I did
+It's like the stars in the sky conspired to bring me right to you
+And I don't know why I fell for you like I did
+I can't forget you when I miss loving you
+
+I feel like I'm stuck in a loop
+I keep ending up back at you
+On this carousel I'm going 'round and around
+It's the same thing every time with you
+(I just can't get away)
+I feel like I'm stuck in a loop
+I keep ending up back at you
+On this carousel I'm going 'round and around
+It's the same thing every time with you
+(I just can't get away)
+I feel like I'm stuck in a loop
+
+Oh
+Oh
+Oh
+I feel like I'm stuck in a loop
+Oh
+Oh
+Oh
+I feel like I'm stuck in a loop
+(In a loop)
+(In a loop)
+(In a loop)
+
+Close your eyes and just imagine
+You're going on a journey
+'Cause this is called the journey
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, official videos).** The August 29 2025 release, the Big Loud Rock single + same-day Dolby Atmos mix, and the off-album status. Sole composition/lyric credit to Roy English; the production/mix/master credits. The publicly named LOOP → Not Your Homie → Welcome to the Circus chain and its "clarity beyond the system / master it from within" framing (antiMusic, Jan 2026). The release-day and break-the-loop posts; #stuckinaloop; the pre-single "Life is a loop"; the LOOP visualizer; the "played live first" / "LOOP is live!" Discord markers. [[The Interview]] EP1 "Congratulations on Loop" and EP3 loop-accusation. *"My mind must serve my heart"* as published @jagwartwin lore. The lyric was verified against Spotify (June 2026), including the *"when I miss loving you"* reading.

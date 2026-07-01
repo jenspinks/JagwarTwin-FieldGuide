@@ -112,6 +112,138 @@ So the maze you're in the middle of turns out to have a center made of *you → 
 >
 > **A held kabbalah reading.** One esoteric sweep floated MAGIK as *birur* — the lifting or sorting of the sparks, seeing the hidden light in the ordinary and raising it. It's a suggestive fit for a song about seeing radiance where others see only the plastic. But it's a *candidate*, anchored in lyric and interview rather than in anything Roy has stated, so it's held rather than folded into canon. (For the frame itself, see [[Kabbalah - The Tree of Life]] and [[Keilim - The Breaking of the Vessels]].)
 
+## Lyrics
+
+```
+Are you Magik?
+
+Yes I am Magik
+
+(Hey)
+
+(Boo doo dodo dodo doo doo)
+
+Baba bada baba ba
+
+Baba bada baba ba
+
+O
+
+Tell me do you know?
+
+You don't gotta disappear
+
+Everybody needs you here
+
+Hey
+
+Everything's okay
+
+You don't have to try so hard
+
+You're more than who you think you are
+
+And I know it's so upsetting
+
+You're so upset and you shouldn't be
+
+If only you could see...
+
+Everything you do is Magik
+
+Living in a world so plastic
+
+You don't even see it
+
+But you have it
+
+That's it
+
+You don't have a clue that everything you do is Magik
+
+Life without a You would be tragic
+
+You don't even see it
+
+But you have it
+
+That's it
+
+You don't have a clue that everything you do is Magik
+
+Magik
+
+Magik
+
+(Boo doo dodo dodo doo doo)
+
+Baba bada baba ba
+
+Baba bada baba ba
+
+Oo
+
+A lasso round the Moon
+
+Everywhere you are is so bright
+
+But you don't even know that, right?
+
+I
+
+I see it in your eyes
+
+You just gotta find your way
+
+You're the middle of a maze
+
+Tell me what it takes
+
+I know it's so upsetting
+
+You're so upset and you shouldn't be
+
+If only you could see...
+
+Everything you do is Magik
+
+Living in a world so plastic
+
+You don't even see it
+
+But you have it
+
+That's it
+
+You don't have a clue that everything you do is Magik
+
+Life without a you would be tragic
+
+You don't even see it
+
+But you have it
+
+That's it
+
+You don't have a clue that everything you do is Magik
+
+Magik
+
+Magik
+
+(Boo doo dodo dodo doo doo)
+
+Baba bada baba ba
+
+Baba bada baba ba
+
+(Boo doo dodo dodo doo doo)
+
+Baba bada baba ba
+
+Baba bada baba ba
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, public interviews).** The *MAGIK* EP as a 4-track Big Loud Rock release, May 16, 2025, and the full song credits above (writers, producers, engineers, performers, background vocalists) are verified against the streaming release. Roy's release-day and run-up posts are public: *"MAGIK is out now!! What do you guys think?"* (May 16), *"im so excited for Magik to be released guys…"* (May 12), and a string of magik-philosophy lines in the weeks before — *"there is so much magik everywhere. and we know it when we're young. hopefully we rediscover it when we get older,"* *"you are magik."* His aphorisms in the same window: *"Magik happens when you align your personality with your soul's intention,"* *"Create space for magic to happen."* Roy explicitly files all of this under his own *"magik & reflection philosophy"* label. The **ARG** (four password-protected Discord drops in #middle-of-the-maze; passwords *you are it → heart → alcyone → davar*; the visualizer, Snow White / Jung, and Watts hint-posts) is grounded in his own public-channel posts. A fan reaction video by "Steven" was boosted by the project's Michael Morgan in the official Discord.

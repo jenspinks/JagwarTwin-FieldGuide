@@ -98,6 +98,25 @@ A few claims that cut across the whole 22 seconds:
 >
 > **Gurdjieff's "objective art."** The interlude also works the way Gurdjieff described *objective art* — using an inherited cultural transmission to induce a genuine shift in the listener, leaning on historically embedded resonance rather than freshly written architecture. The effect is real: a listener who recognizes the Chaplin speech feels its whole 1940 weight arrive at once. But this describes what the track *does*, not a documented intention — there's no claim that Roy consciously set out to "deploy objective art." It's an accurate description of the mechanism, held at arm's length from the question of intent. (The same frame recurs on [[Happy Face]].)
 
+## Spoken text
+
+```
+[Charlie Chaplin — The Great Dictator (1940), closing speech:]
+The kingdom of God is within man
+Not in one man
+Nor a group of men
+But in all men
+In you
+You, the people, have the power
+The power to create machines
+The power to create happiness
+You, the people, have the power
+To make this life free and beautiful
+To make this life a wonderful adventure
+Let us use that power
+Let us all unite
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public record).** The sample itself is confirmed three ways: the Apple Music lyrics are verbatim the Chaplin *Great Dictator* speech; the Apple Music composer field credits **Charles Chaplin** (alongside Jeff Bhasker, Matthew Pauling, and Roy English); and the identification held up against independent checking. The recording is owned by Atlantic / WEA (the ℗-line). That the machine is named here as *human capacity* — *"create machines"* beside *"create happiness"* — is grounded in the text, not interpretation. One tidy inconsistency worth noting: Apple's *composer* field credits Chaplin, but Apple's shorter *"Written By"* line omits him (listing only Bhasker, Pauling, and Roy English). The verbatim text plus the composer credit settle it — the Chaplin sample is real; the "Written By" line is just incomplete.

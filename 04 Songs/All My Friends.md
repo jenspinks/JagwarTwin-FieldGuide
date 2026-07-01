@@ -95,6 +95,86 @@ A few claims that cut across the whole thing.
 > - **Jenny is a character before she's a rhyme.** Most plainly she's a specific friend who's gone preachy about the apocalypse — not primarily a Ballerina-Boy echo. Hold the resonance loosely; don't promote a one-off portrait into a recurring figure on the strength of a nice rhyme.
 > - **The falsifier, kept verbatim:** *if "All My Friends" is simply the sincere apocalypse-with-friends song Roy describes (co-written with Colin Brittain — emergent), the clone-architecture / Loop / Witnessing readings are overlay.* That's the honest gate. The plain reading stands on its own; the cosmology is the layer you can lose without breaking the song.
 
+## Lyrics
+
+```
+Jenny's got a big red flag
+
+Used to be a dancer
+
+Now she's got the answer
+
+Preaching bout the End Time days
+
+Chasing down a feeling
+
+I used to believe in
+
+I feel like a clone in a crowded city
+
+There's nowhere to go and the world is ending
+
+Cause lately I don't wanna go outside
+
+All friends say this whole world is gunna die
+
+I can't stop spinning
+
+I thought I was winning
+
+But if I'm going out it's with all my friends
+
+All my friends
+
+I feel it in the air tonight
+
+Coming like a drum
+
+From 1981
+
+And everyone I love is here
+
+Flying on this rock
+
+No time left on the clock
+
+I feel like a clone in a crowded city
+
+There's nowhere to go and the world is ending
+
+Cause lately I don't wanna go outside
+
+All friends say this whole world is gunna die
+
+I can't stop spinning
+
+I thought I was winning
+
+But if I'm going out it's with all my friends
+
+All my friends
+
+I feel like a clone in a crowded city
+
+There's nowhere to go and the world is ending
+
+Cause lately I don't wanna go outside
+
+All friends say this whole world is gunna die
+
+I can't stop spinning
+
+I thought I was winning
+
+But if I'm going out it's with all my friends
+
+I can't stop spinning
+
+I thought I was winning
+
+But if I'm going out it's with all my friends
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, official video).** The release date and label (May 26 2023, Big Loud) and the writer/producer credits (Roy English & Colin Brittain; produced by Brittain) are Spotify-verified. The apocalyptic frame, the clone line, the withdrawal, the spin/win couplet, the chorus, the Jenny portrait, the 1981 lines, and the planetary verse are all grounded lyric. The paratext is public and load-bearing: Roy's pre-release *"It's about all my friends"* (05-24) and *"This song is about all my friends"* (06-09); the day-after *"played it in LA for the first time with all my friends"* (05-27); the release-day *"Jenny / = / 408"* (05-26); and the standalone-single, no-album placement (post-*33*, sequenced between *Good Time (1:08)* and *Life Is Good*).

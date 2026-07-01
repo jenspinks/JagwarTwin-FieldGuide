@@ -127,6 +127,89 @@ Plus the pre-save teaser (*"ROY no longer seems to be interested in releasing ne
 
 And the piece of paratext that grounds it all: on TikTok (Apr 29 2026), Roy told the origin plainly — *"A while back I was feeling down and like I didn't fit in anywhere. Sia told me 'your weirdness is the sunshine.' And this song was born."* In the same window he was public about the rock-bottom the song dramatizes: *"turned 35 and I found myself as a struggling artist who couldn't afford groceries or rent and had to move back in with my parents… signed and dropped by multiple major labels."* The *"now I'm in pain"* is not a pose. It has an address.
 
+## Lyrics
+
+```
+[Intro]
+Your weirdness is the sunshine
+(Ba ba ba ba)
+
+Ooh
+Your weirdness is the sunshine
+It shines on everything
+Your weirdness is the sunshine
+Ooh
+(Ba ba ba ba)
+
+[Verse 1]
+When I was just a young one
+I danced in the rain
+Life was a joke, a fun one
+Now I'm in pain
+
+[Pre-Chorus]
+Thinking I should end it lately
+Then I saw a little light
+She looked like an angel, baby
+But her face was out of sight
+She said, "Stop pretending, baby
+You were born to shine"
+(Shine your light! Shine your light!)
+Ya know, ya know, ya know
+
+[Chorus]
+Your weirdness is the sunshine
+It shines on everything
+Your weirdness is the sunshine
+Ooh (Ba ba ba ba)
+Your weirdness is the sunshine
+Your head is off its string
+Your weirdness is the sunshine
+Ooh (Ba ba ba ba)
+
+[Verse 2]
+I grew up fast as lightning
+I changed my name
+No other child was like me
+Why am I this way?
+
+[Pre-Chorus — repeated]
+Thinking I should end it lately
+Then I saw a little light
+She looked like an angel, baby
+But her face was out of sight
+She said, "Stop pretending, baby
+You were born to shine"
+(Shine your light! Shine your light!)
+Ya know, ya know, ya know
+
+[Bridge]
+You're weird
+And that's alright
+You know you're strange
+And that's alright
+
+[Chorus]
+And now I know that all my weirdness is my sunshine
+It shines on everything
+My weirdness is my sunshine
+Ooh (Ba ba ba ba)
+My weirdness is my sunshine
+My head is off its string
+My weirdness is my sunshine
+Ooh (Ba ba ba ba)
+
+[Outro]
+Ooh (Ba ba ba ba) [×3]
+It shines on everything
+(Ba ba ba ba)
+Your weirdness is the sunshine
+It shines on everything
+(Ba ba ba ba)
+Your weirdness is the sunshine
+Ooh (Ba ba ba ba)
+```
+
 ## Source notes
 
 - **Grounded** (released music, public posts, verifiable credits). The pronoun shift *your → my*, verbatim in the released lyric. The doubled pre-chorus and the outro's return to *"your"* (both confirmed against streaming; earlier ingests had missed them). *"I changed my name"* as the name-change anchor. The *EP4 / The Spoon* exchange as the intro's verbatim source. The full writing/production credits, including Sia's co-write and background vocals. Roy's own TikTok account of Sia as the source of the hook, and the 35-and-broke biographical context. The #weirdness quote-card campaign. The catalogue-wide 444 Hz mastering note.

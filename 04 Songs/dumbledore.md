@@ -120,6 +120,75 @@ So the live questions are: **is it a single or an EP track, and what's its relat
 
 Worth saying plainly, because the humor is load-bearing: the entire premise is a bit executed with a straight face. A Harry Potter wizard-name, wielded as a club drop (*"I feel like Dumbledore"*), then deflated to *"go dumb"* — reverence and idiocy in the same bar. The rollout ran the joke at scale: Roy coined *"Dumblecore,"* captioned clips *"plant based dumbledore," "Druid shit," "Bard shit 🪈," "🧙🏼‍♂️📈 bull run,"* posted *"Where my wizards at? 🧙🏼‍♂️,"* self-quoted the lyric straight-faced (*"Got out the grave, I'm on a wave 👑💀,"* 2025-02-17), and lobbed *"Fuvk you malfoy"* (misspelling included) over the track. The *DJ-at-the-Renaissance-faire* clips are pure anachronism-as-punchline — *"DJ bout to set the club off when he drops dumbledore at the ren faire"* — capped by *"First time DJing. Not the first time a woman has held a sword over my head ⚔️🐆."* A running gag attributes a parade of solemn wisdom-quotes — some real Dumbledore film lines, some genuine esoteric authors — to *"Dumbledore, a loyal servant of the Realm,"* the ceremonial signature deadpanned into a joke. The visual rollout carried three official pieces, each pointing a different way: an **Acoustic** version framed as *"a love song";* the **DARK ARTS** visualizer with its empty robe and dead-branch wand; and a **DARK ARTS Lyric Video** Roy captioned *"Life is a dream"* — which loops straight back to the *"I'm only dreaming, I got my eyes wide shut"* frame and the *go dumb* = don't-know-you're-imprisoned gloss, the joke and the thesis captioned as one. And the best beat of all is that the real business dispute got narrated in full mythic overkill: *"they couldnt even pull the sword out of the stone,"* *"i feel like fucking dumbledore,"* and the Dobby-sock. (Finneas reposted it on TikTok, which Roy greeted with the appropriate *"Holy shit."*) None of this dilutes the ache underneath — it's the sugar coating the same pill the song is about.
 
+## Lyrics
+
+```
+I'm only dreaming, I got my eyes wide shut
+I'm fighting demons, I got my eyes wide shut
+I came to party, she came to party, shaking her body, I'm already gone
+Got out the grave, I'm on a wave, I'm in a body, I'm already gone
+
+If you're magic, and you know it
+Clap your hands, clap your hands
+If you're magic, and you know it
+Do your dance, do your dance
+
+And say I feel like, feel like Dumbledore
+I feel like Dumbledore
+Dumble-Dumble-Dumbledore
+I feel like Dumbledore, Dumbledore, oh
+
+I feel like, feel like Dumbledore
+Magik
+I feel like Dumbledore
+Magik
+Dumble-Dumble-Dumbledore
+Magik
+I feel like Dumbledore, Dumbledore, oh
+
+I feel like dumb, dumb, dumb, dumb, dumb, dumb
+Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
+Go dumb
+I feel like dumb, dumb, dumb, dumb, dumb, dumb
+Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
+
+Burn the witch
+Galileo in Hollywood, you would've burned that witch
+Burn that bitch
+Joan of Arc in Hollywood, you would've burned that witch
+Burn that bitch
+Constantine and I'm fighting demons, I was born for this
+Reborn for this, caught thorns for this
+Crucified me
+
+If you're magic, and you know it
+Clap your hands, clap your hands
+If you're magic, and you know it
+Do your dance, do your dance
+
+And say I feel like, feel like Dumbledore
+I feel like Dumbledore
+Dumble-Dumble-Dumbledore
+I feel like Dumbledore, Dumbledore, oh
+
+I feel like, feel like Dumbledore
+Magik
+I feel like Dumbledore
+Magik
+Dumble-Dumble-Dumbledore
+Magik
+I feel like Dumbledore, Dumbledore, oh
+
+I feel like dumb, dumb, dumb, dumb, dumb, dumb
+Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
+Go dumb
+Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
+Go dumb
+Go dumb, dumb, dumb, dumb, dumb, dumb
+Dumb, dumb, dumb, dumb, dumb, dumb, dumb
+Dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The February 28, 2025 release on Big Loud in two versions (standard + *DARK ARTS*); the full credits (writers Roy English / Ryan Daly / Dustin Steven Rutkowski; producers Roy / OmegaSign / Ryan Daly; mixing engineer Ryan Daly; mastering engineers Dale Becker, Brandon Hernandez, Katie Harvey, Adam Burt; performers incl. Roy on vocals, Laboratorium Pieśni, and OmegaSign / Ryan Daly on drum programming & keyboards; Spotify ID `12FvD79X6JEichJkSkziEx`); the whole release saga — the *"problematic"* label framing, the TikTok-virality demand, the Coop Records blockchain end-run (*"the label has no rights there"*), and the *"Master gave dumbledore a sock"* resolution; the *"it's a love song"* and *"Inspired by the great wizard himself"* framings; the *"GO DUMB = Gurdjieff"* gloss; Lucius naming the song in [[The Interview]]; the three official visuals (Acoustic, *DARK ARTS* visualizer, *DARK ARTS* Lyric Video captioned *"Life is a dream"*) and the visualizer's empty-robe / dead-branch-wand imagery; the promo comedy (*Dumblecore,* the *ren faire* bits, the *"Got out the grave, I'm on a wave"* self-quote, the Dobby-sock, the Finneas repost). These don't depend on the lyric transcription.

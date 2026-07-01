@@ -110,6 +110,59 @@ A few claims that cut across the whole song.
 > - **[[Nigredo]] — the blackening.** The 2020 manifesto card's *"burning the old world down to the ground… out of the fire something new is being birthed. This is the death of my generation"* is the alchemical blackening, later staged again as the *Bad Feeling* fire-close.
 > - **[[The Labors of Hercules|Hercules]].** *Happy Face* maps to the Hydra (the shadow that regenerates when you strike the symptom, not the root) and the Stymphalian Birds (weaponized noise / intrusive thought). Framework-tier, not intent.
 
+## Lyrics
+
+```
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+♪
+Flip the switch, flip the stove
+World gone mad, let's start the show
+Get your kicks and let's go
+If you're sad, don't let it show
+Say I'm happy, I'm happy, I'm happy today
+I'm happy, I'm happy, I'm happy today
+They say put on a happy face
+'Cause we're tick-tock, tick-tock
+Ticking like a timebomb
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+Say you're good, say you're fine
+Tell 'em everything's alright
+Hollywood on your timeline
+Telling you what to wear
+And what to like and how to be
+Say I'm happy, I'm happy, I'm happy today
+I'm happy, I'm happy, I'm happy today
+They say put on a happy face
+'Cause we're tick-tock, tick-tock
+Ticking like a timebomb
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+♪
+Death of my generation
+(Death of my generation)
+Ah-ah-ah
+Death of my generation
+(Death of my generation)
+♪
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+Hey, put on a happy face
+Then everything's okay
+Put on a happy face
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The legal writing/production credit (Roy English & Matt Pauling); the 2020-drop-to-independent-release origin and the 100M-plus streams; the *"Trojan Horse"* method and the *deathofmygeneration.fun* forced-smile experiment; the stove-as-*"alchemical brew"* / shadow-work reading; the sincere *"creating happiness is all I want to do"* wish; Lucius claiming the song by name and calling himself *"the algorithm"* in the theatrical series; the Masquerade venue framing (*"hyperactive melodica," "social media inauthenticity"*); the Jeff Bhasker nursery-rhyme lesson behind the *"simple = complex"* melody; the *Circle → Happy Face* listening order Roy recommends to new fans.

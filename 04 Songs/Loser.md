@@ -122,6 +122,90 @@ Three honest counter-readings, kept on the page because the song earns them:
 
 And one genuinely open question, not a correction: does the nursery-rhyme repetition deliberately mirror the songwriting structures Roy has discussed *studying* during his early commercial period? The Trojan-Horse cadence is on the page as a fact of the finished song — but whether it's a studied craft-move or an instinctive one is unresolved, and worth holding open rather than answering.
 
+## Lyrics
+
+```
+Jericho fell like a wave
+
+Maybe I'm bad in my brain
+
+I'm a loser, baby, just like you
+
+(La-la-la-la-la, la-la-la-la-la)
+
+Television on your frame
+
+Everybody's all the same
+
+I'm a loser, baby, just like you
+
+(La-la-la-la-la, la-la-la-la-la)
+
+I got sunshine in my mind
+
+Wake up and I'm feeling fine
+
+I got sunshine in my mind
+
+Wake up and I say
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+
+Click on your clock radio
+
+Ain't got much time till I blow
+
+I'm a loser, baby, just like you
+
+(La-la-la-la-la, la-la-la-la-la)
+
+California, Mexico
+
+You know I love you the most
+
+I'm a loser, baby, just like you
+
+(La-la-la-la-la, la-la-la-la-la)
+
+I got sunshine in my mind
+
+Wake up and I'm feeling fine
+
+I got sunshine in my mind
+
+Wake up and I say
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+
+♪
+
+I think the world's gone insane
+
+I think the world's gone insane
+
+We're singing
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+
+Baby, I'm a loser, yeah, yeah, yeah
+
+Just like you, just like you
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The **masks** statement — "we all walk around with these masks on… only perceived separation" (Prelude Press, 2019). The **bullying** origin and "we all feel like losers sometimes… embrace that" (Digital Journal, 2019). The **deprogramming** gloss on the video — "we are all programed… if we all deprogram ourselves" — plus directors Fabien Montique & Drew Villani (Billboard, 2019). The **subtraction** origin story, the **children's-choir** intent, the **"sunshine = reprogramming"** and **"everybody's all the same = one collective mind"** glosses, the **repetition / auto-suggestion** gloss ("there's freedom in the repetition… the more you tell yourself something out loud, the more you actually start to believe it"), the **mirror** gloss ("we're all really mirrors to each other"), and "**starting with Loser was the only option** — it's the lens to view the rest of the Jagwar Twin world through" (Atwood Magazine, 2018 — the richest Roy-voice source). The **"taking the power back"** intent and a second **masks** statement ("we all walk around with masks on, disguised as what we think the world wants to see") — Alternative Press. The **misfit/outcast** origin and "they were just projecting their insecurities" (Knockturnal, 2019 — the third independent grounding of the solidarity reading). "**We're all losers, and we're all also brilliant, beautiful souls**" (Honey Pop, 2020). The **TikTok-virality** second life and "millions of mind body spirit complexes" reframe (MB Conversation). The **credits** (composer field Roy English & Matthew Pauling; "Linus" = Pauling) and the Beats 1 / Zane Lowe premiere. The public **"Diary of a Loser"** persona and "Everything is a mirror" (verified Facebook, 2019; @royenglish "diary of a loser/winner," 2020–22). Lucius reframing *Loser* as the head of "the loop" — and burying "Move To You" — in [[The Interview]] (EP3, 2026).

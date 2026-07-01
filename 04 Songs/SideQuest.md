@@ -104,6 +104,122 @@ And the deepest inversion of all is aimed at the ex. He doesn't attack her — h
 - **[[dumbledore]]** — the immediately prior 2025 EP (February), same medieval-Realm campaign and *"loyal servant of the Realm"* framing.
 - **[[The Watchers]]** — filed as another track on the same *SideQuest* EP (it interpolates Rockwell's *"Somebody's Watching Me,"* 1984). A release-shared sibling, not a thematic one — and a partial answer to the "what are the other tracks?" question below.
 
+## Lyrics
+
+```
+[Intro]
+
+(You a little baby)
+
+(I was the side quest?)
+
+[Chorus]
+
+Side quest
+
+Thought I was your main one, but I was the (side quest)
+
+I was doing (my best)
+
+You said that you loved me
+
+You didn’t love me like I loved you
+
+Thought I was your main one, but I was the
+
+S-s-s-side quest, side quest
+
+[Verse 1]
+
+How many times did I tell you I loved you?
+
+How many times did you walk away?
+
+I never put anyone else above you
+
+I never knew you would play the game
+
+Baldur’s Gate, you played me well,
+
+I never saw it coming
+
+Had me underneath your spell,
+
+I never saw it coming
+
+Sent me in the wrong direction, wasted all my time (all my time)
+
+[Pre-Chorus]
+
+Thought I was your main one, but I was the (side quest)
+
+[Chorus]
+
+I was doing (my best)
+
+You said that you loved me
+
+You didn’t love me like I loved you
+
+Thought I was your main one, but I was the (side quest)
+
+Hey, engagement (side quest)
+
+You said that you loved me
+
+You didn’t love me like I loved you
+
+Thought I was your main one, but I was the-
+
+S-s-s-side quest, side quest
+
+[Verse 2]
+
+The biggest cat that you’ve seen this far
+
+Jaguar Swaguar, ‘til you broke my heart
+
+I should’ve seen the signs,
+
+I should’ve known ‘cause you’re a Libra
+
+Nothing’s black and white except for you,
+
+‘cause you’re a zebra
+
+Baldur’s Gate, you played me well, I never saw it coming
+
+Had me underneath your spell, I never saw it coming
+
+Sent me in the wrong direction, wasted all my time (all my time)
+
+[Chorus]
+
+Thought I was your main one, but I was the
+
+S-s-s-side quest, whoa (side quest)
+
+I was doing (my best)
+
+You said that you loved me
+
+You didn’t love me like I loved you
+
+Thought I was your main one, but I was the (side quest)
+
+Hey, engagement (side quest)
+
+You said that you loved me
+
+You didn’t love me like I loved you
+
+Thought I was your main one, but I was the-
+
+[Outro]
+
+Thought I was your main one, but I was the-
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The March 28, 2025 midnight release on Big Loud Records; the credits (writers Roy English / Andrew Goldstein / Michael Morgan; producers Jagwar Twin & Ryan Daly; mastering by Dale Becker et al.), Spotify-verified in June 2026; the official *"visualizer"* on YouTube. The **keystone paratext is Roy's Instagram release post**, which supplies almost everything unique here: the thanks to *"the girl who SideQuested me… you gave me a gift,"* the zebra/Libra explanation (*"no other sign rhymes with zebra… Jagwars eat zebra for breakfast"*), Big Bear the black-and-white horse, the 444 Hz tuning claim, the teenage-engineering *"medieval synth,"* and Michael Morgan credited as *"the inspiration."* Corroborated across the TikTok caption run (Mar 12 → Apr 8, incl. *"I'm a Gemini, but I identify as a Libra,"* *"You're nobody's sidequest,"* and the pre-release countdown), the public Discord #the-circle channel (the reflection-doctrine quotes, the *"oh shit haha"* beat, the 444 Hz corroboration, the year-earlier zebra line), and the Alan Watts / *"loyal servant of the Realm"* epigraph reel.

@@ -105,6 +105,108 @@ The deepest kinship in the catalogue is with **[[tomorrow (ANGLE OF ETERNITY)]]*
 >
 > **The guardrail:** angelbaby's name echoes the "angel baby" / divine-feminine imagery elsewhere in the project (as in [[Weirdness]]). Resist the pull to fuse them. angelbaby is a real external collaborator — a name-echo, not the symbolic voice. And angelbaby's Hume avatar happening to be a **leopard-patterned rabbit** — fusing Jagwar Twin's own jaguar/leopard and rabbit-eared motifs a couple of years before the rabbit-eared [[Sir Lucius]] — is a genuine curiosity, but it's *Hume's* design, not Roy's. Note the rhyme; don't fold it into the iconography as intent.
 
+## Lyrics
+
+```
+Life is good
+
+I'm great
+
+Another circle 'round the sun
+
+The worlds in flames
+
+But at least we're having fun
+
+Hey kids I'll sing you a song
+
+And it won't be very long
+
+Some people tell me I'm strange
+
+But I like living this way
+
+Ah ah ah
+
+La viva es buena
+
+My life is great
+
+My head's an antenna
+
+I'm wide awake
+
+La viva es buena
+
+My life is great
+
+But I'm mad
+
+And I'm sad
+
+And I'm misunderstood
+
+Life is good
+
+I'm great
+
+Another circle 'round the sun
+
+The worlds in flames
+
+But at least we're having fun
+
+I'm good
+
+I'm great
+
+Another circle 'round the sun
+
+The worlds in flames
+
+But at least we're having fun
+
+Face down but I can feel my body moving
+
+Is this real or am I in an illusion
+
+Get up get up I'm only human
+
+Pupils dilated like I'm bout to lose it
+
+So crazy so I turn off the news
+
+Living in a lie and we can't see the truth
+
+Every one fighting tell me which side are you
+
+Keep a smile on my face, too happy to choose
+
+Life is good
+
+I'm great
+
+Another circle 'round the sun
+
+The worlds in flames
+
+But at least we're having fun
+
+I'm good
+
+I'm great
+
+Another circle 'round the sun
+
+The worlds in flames
+
+But at least we're having fun
+
+But at least we're having fun
+
+But at least we're having fun
+```
+
 ## Source notes
 
 - **Grounded (released music, public interviews, public posts).** The single itself and its credits (angelbaby & Jagwar Twin, 2023; the seven-writer list including Josh Dun; the production, mix and master credits; angelbaby on vocals) — verified against streaming. The corrected lyrics (*"Another circle 'round the sun"*; *"La viva es buena"*). The 444 Hz tuning; Roy's own **"Trojan Horse music"** term and the **Jeff Bhasker** *"study nursery rhymes"* mentorship behind it (with Happy Face's deathofmygeneration.fun hold-a-smile experiment as his cited example); the manager (Linus) who connected the angelbaby collaboration; and Roy's account of that collaboration's low-pressure origin — all from the same 2024 interview that opens on this song. angelbaby's Hume "metastar" profile, the Grimes-AI-voice link and the leopard-rabbit avatar, from public press and posts. Roy's contemporaneous shadow doctrine around the release — *"we are becoming more aware of our shadows… as more light comes in, more darkness is seen"* — and angelbaby's *"we can't pretend that everything is just perfect."* The extensive 2024 live-tour run.

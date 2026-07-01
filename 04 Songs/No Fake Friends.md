@@ -124,6 +124,63 @@ And the tragedy sits right in the architecture: the wound never gets repaired, i
 > [!note]- Advanced reading — the falsifier we keep pointed at ourselves
 > The honest self-check: **if *No Fake Friends* is simply a standard post-scarcity "I left the fake friends behind" flex** — emergent from a three-writer session, not encoded — **then the Protector-triad architecture is a beautiful overlay on a genre staple.** *I made a list… they ain't on my radar* really is among the most common sentiments in the form. We hold the elaborate reading *and* its falsifier at once; the boundary-setting counter above is where the pressure lands hardest, and it deserves its win.
 
+## Lyrics
+
+```
+[Verse 1]
+I was sleeping on the sidewalk
+No money, no car
+Everything I owned in a backpack
+I had it like that
+Hollywood I had the night watch
+Looked down at my stars
+Never had an option to fallback
+But now I'm offtrack
+
+[Pre-Chorus]
+Where did my friends go when i had nothing?
+I remember that
+I made a list and I kept all the names to remember that
+
+[Chorus]
+I don't want no fake friends around me
+I don't want no fake friends
+(I don't want any)
+I don't want no fake friends around me
+I don't want no fake friends
+(I don't want any)
+
+♪ Fake Friends
+
+[Verse 2]
+I was hopping over fences
+Ann Morrison Park
+Always hated school so I dropped out
+I'm taking off now
+Got me turning up my senses
+They ain't even on my radar
+Bali with the fam for the New Year
+I'm seeing so clear
+
+[Pre-Chorus]
+Where did my friends go when i had nothing?
+I remember that
+I made a list and I kept all the names to remember that
+
+[Chorus — extended]
+I don't want no fake friends around me
+I don't want no fake friends
+(I don't want any)
+I don't want no fake friends around me
+I don't want no fake friends
+(I don't want any)
+I don't want no fake friends around me
+I don't want no fake friends
+(I don't want any)
+
+Fake Friends
+```
+
 ## Source notes
 
 - **Grounded (released music, verified credits, public interviews).** The autobiography is explicit in the lyric — the sidewalk, the backpack, no money, no car. Credits are verified from streaming: written and produced by Roy English, Matt Pauling and S1, with S1 as executive producer, mixed by Jeff Ellis and mastered by Chris Gehringer, on Atlantic. Two paratexts are grounded: in [[The Interview]] (Roy vs. Sir Lucius), Lucius weaponizes the song's exact housing/financial wound; and in a public interview about the album, Roy names *No Fake Friends* by title as one of the record's genre "trials" — *"very different, extremely… my process of exploring who I am, and what Jagwar Twin is, bigger than me as an individual."*

@@ -110,6 +110,84 @@ A few claims that cut across the whole song.
 > [!note]- Advanced reading — where the name comes from (the artist's own words)
 > This is album-level paratext, not a statement about this track — but it grounds the mirror-motif the page leans on (the pre-mirror reading, the Source-vs-Reflection split) in Roy's own framing. Introducing the project (*Ones to Watch*, 2018), he glossed the name directly. The **jaguar** "looks into the souls of other people and then can look back into itself" — *"humans are just mirrors for each other."* The **twin** is *"the light and the dark, the yin and the yang."* And the whole thing sits inside a one-world humility: *"we were all just one little piece of the puzzle."* Note what this does for the page: the mirror-as-relation idea (people reflecting people) and the doubled/twinned structure aren't only analyst impositions — they're in the artist's stated concept from the start. It also quietly harmonizes with *Dream / Dream*'s doubling (two songs in one title) and its collective "we." Still: this is the *name's* concept, spoken album-wide; it is **not** Roy commenting on this song, and the page's per-track readings stay analyst-side.
 
+## Lyrics
+
+```
+D-R-E-A-M
+Dream, you gotta dream
+D-R-E-A-M
+Dream, you gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+Dream (Dream, dream, out loud, dream, dream)
+
+If the red light roll, don't stick to one road
+There's something inside, you know 'cause you feel it
+Let's go, let's hit the high-low
+Doing everything our own way (Yeah, yeah, yeah)
+Tryna stop our climb and keep us in line
+But something inside you knows you've been cheated
+Let's ride 'cause this is our time
+Doing everything our own way (Yeah, yeah, yeah)
+
+D-R-E-A-M
+Dream, you gotta dream
+D-R-E-A-M
+Dream, you gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+All you gotta do is...
+Dream (Dream, dream, out loud, dream, dream)
+I gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+All you gotta do is...
+Dream (Dream, dream, out loud, dream, dream)
+
+When it comes Sunday, I'll say the Lord's prayer
+And walk the stairway to Heaven like freedom
+Won't stay, don't care what they say
+Doing everything our own way (Yeah, yeah, yeah, yeah)
+It's about showtime, we're kids in our prime
+We feel it inside, the blood that we're bleeding
+Small crimes but we did our time
+Doing everything our own way (Yeah, yeah, yeah, yeah)
+
+D-R-E-A-M
+Dream, you gotta dream
+D-R-E-A-M
+Dream, you gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+All you gotta do is...
+Dream (Dream, dream, out loud, dream, dream)
+I gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+All you gotta do is...
+Dream (Dream, dream, out loud, dream, dream)
+I gotta dream
+
+Rise up, we gotta dream
+Take another one down, come and follow me
+Rise up, we gotta dream
+Come and dream that dream with me (Yeah, yeah, yeah)
+Rise up, we gotta dream
+Take another one down, come and follow me
+Rise up, we gotta dream
+Come and dream that dream with me (Yeah, yeah, yeah)
+
+D-R-E-A-M
+Dream, you gotta dream
+D-R-E-A-M
+Dream, you gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+All you gotta do is...
+Dream (Dream, dream, out loud, dream, dream)
+I gotta dream
+Dream (Dream, dream, out loud, dream, dream)
+All you gotta do is...
+Dream (Dream, dream, out loud, dream, dream)
+I gotta dream
+
+Dream
+```
+
 ## Source notes
 
 - **Grounded** *(released music, credits, public interviews/posts).* The **interpolation** of Mercer's 1944 "Dream (When You're Feeling Blue)" — composer field credits Johnny Mercer, Matthew Pauling, Roy English, and Sarah Vaughan (Vaughan's credit most likely marking her specific recording/arrangement as the interpolated source). Production: Roy English & Matt Pauling; Adam Hawkins mixed (notably *not* Jeff Ellis, who mixed most of the album); Chris Gehringer mastered; S1 executive-produced. The **spelled hook** is a plain textual fact — the only one on the album. *Subject to Flooding* was first released independently **2018-09-21**, then redistributed/expanded by Atlantic in 2019 (streaming shows 2019; 2018 is the true first-release date). The album's stated mission (Roy, launch press): *"with the fragile state of the world… we should all let go of ego… After all, we are all Subject to Flooding."* And the craft statement behind the chanted hook (Roy, 2018): *"the more you tell yourself something out loud, the more you actually start to believe it… there's freedom in the repetition of that phrase."*

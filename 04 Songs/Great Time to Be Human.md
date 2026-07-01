@@ -116,6 +116,54 @@ The genius is the *"(woof!)."* The made-god still **barks**. The dog is trapped 
 > [!note]- The collaborators — Josh Dun and a favorite band made flesh *(tap to open)*
 > The five-writer credit lists *"Josh Dunn,"* which reads as **Josh Dun**, drummer of Twenty One Pilots — a band Roy has called, in a public interview, his *"favorite band ever"* (*"I love their new album… I think that they're genius"*). (Two housekeeping questions stay open on the credits: how the five-way split is actually apportioned in the ASCAP/BMI registries, and whether streaming platforms carry a *"feat. sir lucius"* tag or leave the character-billing to the credits alone.) Dun plays the drum kit here and again on [[Bad Feeling (Oompa Loompa)]], turning a named favorite into a two-track physical presence on the record — and the two of them **played the song live together in Columbus** in May 2023, after Dun had cut the studio drums. Background vocals include **[[little luna]]**, the same featured collaborator from *33*'s [[Pay Attention (feat. little luna)]] — a recurring real person, not a cipher — alongside Julian Bell, Charlotte Egner, Reagan Egner, Tom Peyton, and Sean Van Vleet. Roy English himself plays **melodica and keyboards** on it — the reedy toy-organ wheeze that gives the track its nursery-carousel air; Ryan Spraker rounds it out (bass, keys, programming, background vocals); Jeff Ellis adds recording; Dale Becker masters, as he does every track on the album. (Loosely held: the Roy/Lucius alter-ego structure rhymes with TØP's own "Blurryface," but that's a resonance, not a source.)
 
+## Lyrics
+
+```
+What a great time to be human!
+
+There once was a boy who lost his own Mother
+Loved him to death and smothered his brother (oops!)
+The kids in the street all shouted with joy (yay!)
+New shoes on their feet they danced to destroy
+
+The boy became Man then ran to his Lover
+She cast a spell to bring back his Mother
+They went to the preacher and he banged a gong
+The crooks and believers all sing the same song
+
+Rainbows, butterflies
+What is all this?
+Shanghai Summertime
+Follow your bliss (ooo)
+Everything on the earth keeps blooming
+What a great time to be human!
+
+Hey hey hey
+What a great time to be human!
+
+Here once was a girl who drank from The Fountain
+She left her youth halfway up The Mountain
+She went back to get it but Someone was there
+They had her committed and shaved off her hair
+They threw her a party with diamonds and spoons
+But They were bloodsuckers with crocodile shoes (boo hoo)
+She went to The Chemist to make her a dog
+But he was dyslexic so he made a god
+God / God / God
+(Woof!)
+
+Rainbows, butterflies
+What is all this?
+Shanghai Summertime
+Follow your bliss (ooo)
+Everything on the earth keeps blooming
+What a great time to be human!
+
+Shanghai Summertime
+Goodbye
+What a great time to be human!
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public posts, public interviews).** The two-phase release history (2023 single → 2026 track 3, 3:23) and the spring-2023 Transviolet tour that the single anchored — it played live for the first time the night it dropped, opening the tour in Orange County; the five-writer credit (the album's most-collaborative track) and the dual *"sir lucius" / "ROY"* vocal billing; Josh Dun on drums (here and on *Bad Feeling*, and live in Columbus), little luna and the rest on background vocals, Spraker producing with Roy; the capitalized archetypal *stations* as official text; the dog/god line in the lyric *and* yelled by Lucius in *[[The Interview]]* (EP7); the album's own *"twisted takes on adolescent musical themes for hands that rock the cradle"* self-billing, of which this nursery fable is a named instance; a 2023 official visualizer linked at the single's 4/14/2023 release (*"Watch the Visualizer now on YouTube!"*) and the separate 2026 visualizer with its barefoot beat, spoon-scepter, gong, and *"PROPERTY OF B.M.R.C."* rocket launcher — whether the two are distinct videos is still open; a *Great Time To Be Human* live acoustic video released November 2023. And, from the business side, the song's real marketing life: on a public Discord, a team member grouped it with *Happy Face*, *Good Time*, *I Like to Party*, and *Life Is Good* as the *"similar feel"* cohort meant to steer *Bad Feeling*'s viral audience — grounding the song's commercial, big-team character from the inside.

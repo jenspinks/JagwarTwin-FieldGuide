@@ -100,6 +100,20 @@ A few claims that cut across the whole ninety seconds.
 - **[[The Circle (Lucius Version)]]** — the *true* transformation term *Moths* counterfeits; also the album's other Roy-solo-written track.
 - **[[Bad Feeling (Oompa Loompa)]]** — the immediate album neighbor (track 5), sharing the stove/factory-fire system; its acoustic reprise (track 15) is recorded "Live at the MOTH Gallery" — a possible echo, kept open.
 
+## Spoken text
+
+```
+(Spoken-word, delivered by sir lucius)
+
+Civilization has been a mistake
+It would be much better if we just left everything alone
+The wild animals are wiser than we are
+They just follow their instincts
+And if a moth mistakes a flame for a mating call and flies into the flame
+So what?
+It just keeps the moth population down
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public posts and videos).** The spoken-word format and Lucius's lead vocal; the full lyric (Apple Music–verified — *"So what?"* is its own line, and the closing line has **no** question mark); Roy as sole writer and producer; the *Moths → Bananas* seam; the candelabra visual (three slots, one red candle, lit from the cigarette, blown out) — corroborated by the public pre-save video; the wordless descending coda (MERCY / ROY) that becomes *Bananas.* The song's text is verbatim the "moth speech" Lucius delivers in the theatrical episode *"lucius lullaby ROY's listening party"* ([[The Interview]], EP7; see paratext).

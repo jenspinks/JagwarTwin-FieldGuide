@@ -136,6 +136,78 @@ The **official music video** turns the same idea into images: a CRT-TV on a pede
 >
 > **A frozen Nigredo.** Identity dissolved into automated code — the alchemical *blackening* — but with no reformation following. The self splits into original and artificial reflection and *stops there*: dissolution without recombination, progression frozen by swapping lived experience for simulated optimization. (See [[Nigredo]].)
 
+## Lyrics
+
+```
+Cause you can get it online
+Everyone loves the internet
+And when you get it online
+You feel good
+(Feeling good!)
+There's an army up against me and they got my face
+Automatic in the static of the human race
+And they know my every step
+They infiltrate my brain
+But it's okay
+(It's not as far fetched as it may seem)
+All the mamas and the Lamas say we come from space
+But we're stuck
+Just like a bug inside your database
+And they know my every step
+They infiltrate my brain
+But it's okay
+We can help you
+Buy! Buy! Buy!
+Cause you can get it online
+Everyone loves the internet
+And when you get it online
+You feel good
+(Feeling good!)
+Cause you can get it online
+Everyone loves the internet
+And when you get it online
+You feel good
+(Feeling good!)
+Internet is like a web and we're the Spider's food
+They know what you like in bed before you come in two
+And they know my every step
+They infiltrate my brain
+But it's okay
+All the shamans and the Brahman's say we come from space
+(Online!)
+Maybe Jupiter is stupider than people say
+(Online!)
+Cause They know my every step
+They infiltrate my brain
+But it's okay
+We can help you
+Bye! Bye! Bye!
+Cause you can get it online
+(Online!)
+Everyone loves the internet
+(I love it! I love it!)
+And when you get it online
+(Online!)
+You feel good
+(Feeling good!)
+Cause you can get it online
+(You can get it online!)
+Everyone loves the internet
+(I love it! I love it!)
+And when you get it on time
+(Ya!?)
+You feel good
+(Feeling good!)
+As machines became more sophisticated...
+(In the static of the human race)
+Thanks to, or because of the internet
+(In the static)
+(In the static)
+Know my every step
+They infiltrate my brain
+It's okay
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, public interviews).** The credits and album position (track 1 of 10, the four writers, the English + Pauling production); Roy's "so fun and so ridiculous" (*Ones to Watch*, 2022) and "that wild experiment of a song" (Discord, 2022); the "Everyone's a guru… fully in the aquarium" post; the in-character Sir Lucius "one hit wonder" post signed *🗡🍏* ([[Public Posts]]); the September 2022 tweet tying the song's title to the [[SARAVI]] upload ("I didn't want to be *Online* all the time so I uploaded my consciousness"); the [[SARAVI]] framing from the culture3 interview (AI doppelganger trained on Roy's responses, the "24/7 social influencer" joke origin); the official / acoustic / Bradbury videos; the `online.jagwartwin.com` mint and its "turn off the lights" gate; the "I'm 33" board's public Vibration cell.

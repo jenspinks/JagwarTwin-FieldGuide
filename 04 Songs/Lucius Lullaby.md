@@ -130,6 +130,54 @@ A few claims that cut across the whole song.
 > - **Are the Egner child-voices actual children?** The background vocals credit *Charlotte & Reagan Egner*. If those are children's voices, it sharpens the "put-the-child-to-sleep" reading — a real cradle-song sung over real children — and brackets against [[Subject to Flooding]]'s unashamed child-choir (the same device, opposite direction: proud then sedated). Unconfirmed.
 > - **A closed hunt, recorded so it isn't re-run:** beyond the named *"serve somebody"* allusion, there is **no second textual Dylan parallel** anywhere on this album. Dylan's grounded presence is exactly one line (plus the artist's own caption) and the biographical floor of the childhood house.
 
+## Lyrics
+
+```
+[Verse 1]
+Woke up yesterday and thought of ending my life
+35 and on my way to nowhere, oh what a time
+I've been sleeping on couches, never caught my break
+All my friends they got houses, maybe I'm the mistake?
+I heard
+"Nothing's what it seems, this world is crazy as can be"
+Yes, sir
+
+[Pre-Chorus]
+Life is but a dream, I came to set you free
+Now look into this magic mirror, tell me what you see
+
+[Chorus]
+It's a beautiful life and I'm feeling alright
+It's a beautiful life, I'm dreaming
+It's a beautiful life, but it's all just a lie
+It's a beautiful life, I'm dreaming
+
+[Verse 2]
+Ok, I'll give you what you've been dreaming
+I see your passion for flashin', you want a mansion, I get it
+You want advances, I get it
+You want some fans, I get it
+But you gotta serve somebody, so stop talking and listen
+
+[Verse 3]
+When the first human beings started walking the Earth
+I was early on the scene, I was down in the dirt
+Saying: "Life is but a dream, I came to set you free
+Now look into this magic mirror, tell me what you see"
+
+[Bridge]
+La-da-da-da (x4)
+It's a beautiful life, I'm dreaming
+La-da-da-da (x4)
+It's a beautiful life, I'm dreaming
+
+[Outro]
+Life is but a dream, life is but a dream
+The truth will set you free but nothing's, nothing's what it seems
+Life is but a dream, life is but a dream
+The truth will set you free but nothing's, nothing's what it seems
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, Roy's own words).** The lyrics, verified against Apple Music's synced lyrics: the suicidal-floor verse 1, the mirror pitch, the self-undercutting chorus, the *"serve somebody"* bargain, the *"down in the dirt"* self-identification, the John-8:32-bending outro. The credits and joint *Jagwar Twin & Sir Lucius* billing. The album's official tagline (*"twisted takes on adolescent musical themes…"*). The **Bob Dylan** tie is grounded and artist-attributed: Roy captioned the official *lucius lullaby* YouTube Short with *"'You're gonna have to serve somebody.' — Bob Dylan,"* naming his own allusion to Dylan's 1979 *Gotta Serve Somebody* (Dylan holds no credit — it's a named allusion, not an interpolation; see [[Public Posts]]). The theatrical [[The Interview|*Interview*]] rollout that dramatizes the same bargain (Lucius: *"My lullaby is everywhere as we speak"*; and, forcing bound Roy to listen, *"I wrote this for you"*) — the release-era arc runs from a premiere episode (*"sir lucius takes over the 'lucius lullaby' premiere"*) through a kidnapping sequence and a mock **STOP SIR LUCIUS** flyer/banner campaign at release, to Roy's own listening party. The 2026 visualizers that co-credit Lucius (*"Jagwar Twin, sir lucius"*) and let him sing on a moon-and-stars lullaby stage — the documented silent-shadow (2024) → full-voiced-credited-center (2026) reversal. Roy's stated biography of the song's making (35, broke, the childhood bedroom, the MacBook mic).

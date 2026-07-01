@@ -119,6 +119,46 @@ The reading these curate is consistent: *the world is an illusion; do not be dec
 >
 > **The dark-nursery cadence.** The *bow-bow-bow* / *ready, set, go* counting-in is a candidate instance of the album's childhood-form method — a nursery rhythm carrying adult dread. An undeveloped lead, flagged not asserted.
 
+## Lyrics
+
+```
+[Intro]
+(Bounce, bounce, bounce, bounce)
+Bounce with me, bounce with me
+Just bow-bow-bow-bow bounce with me
+Bounce with me, bounce with me
+Just bow-bow-bow-bow bounce with me
+
+[Verse 1]
+Re-re-ready, set, go.
+Do I really wanna know why I'm panicking?
+I'm Anakin Skywalker
+Who's your daddy? You're such a baddie
+Now take my number and my addy
+No time to waste if you wanna leave this place
+
+[Pre-Chorus]
+Say yeah, yeah, yeah, yeah, yeah, yaaaaaah
+If you wanna bounce with me, bounce with me
+
+[Chorus]
+Let's get this party started now, right now
+'Cause life is short, so let's get down, get down
+Let's tear the roof off of my house, my house
+Let's get down, down
+Up and down and bounce, bounce, bounce, just bounce
+
+[Verse 2]
+You just love me for my lore
+Because I am not a bore
+Get your ass up on the floor
+We're gonna have a good time tonight
+
+[Outro]
+Get, get down
+Haha, wow
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, official videos).** Track 12 of 15 on *Lucius Lullaby* (2026); the four-writer team and production/performer credits (Roy English on horn; the *ROY* + *sir lucius* dual-vocalist device); the 2:12 runtime; the in-lyric *Anakin Skywalker*, the *panicking* question, *lore*, *tear the roof off of my house*, *life is short*; the March 27 "Official Audio" upload (stream link *ffm.to/luciuslullaby*) and the distinct ~April 24 visualizer (underwater bust with face-paint), both carrying the Big Loud Rock / Mercury (UMG) copyright line; the May 17 BMRC "Live Underground" performance, its *Sefer Yetzirah* Beth title card, and the fact that production deliberately recorded the crowd's voices there (*"he wanted the voices"*) — the album's sing-back device enacted live; the #bounce promo campaign ([[Public Posts]]), including the curated epigraph wall of named-author quotes (C. S. Lewis, Steiner ×2, Hermes Trismegistus, Manly P. Hall ×2, Yoda, Tolkien, Matthew 10:16), the *"We begin with a house and we end up with a heart"* caption that grounds the house→heart reading in public authorial language, the *"I am your father"* Star Wars captions, and the song's own lines recirculated as posts.

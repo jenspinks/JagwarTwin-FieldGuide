@@ -114,6 +114,14 @@ A quick census of what's actually on the page: pronouns run **1 "I," 1 "you"** �
 > [!note]- Advanced reading — the regression reading, and why it stays a candidate
 > The most affecting reading — and the one to hold *gently*, because it turns on an unconfirmed detail — is **regression**. The closely-layered voices (candidate "child voices"), the cradle imagery, the lullaby frame, all point toward managing pain by putting the child *back to sleep* rather than healing it. That's the precise inverse of [[Ballerina Boy]], which wakes the buried child into worth. If the background vocalists (Charlotte and Reagan Egner) turn out to be children, this reading strengthens sharply — you'd have an actual sedated child-voice here set against the unashamed child-choir of the 2018 debut. Until their ages are confirmed, it stays a candidate, not a claim. Either way, the sedation reading doesn't depend on it.
 
+## Lyrics
+
+A single looped line in a music-box texture — and the joke is that it isn't from the *33* original at all; it's the refrain of the *next* track, [[Lucius Lullaby]]:
+
+```
+It's a beautiful life, it's a beautiful life, I'm dreaming
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts/interviews, credits).** The track's position (opener of *Lucius Lullaby*, 2026) and 0:44 runtime; the single-line lyric and the seamless run into the title track; the credited music box and violin; the two separately-credited voices ("sir lucius," "ROY") and the background vocalists; Roy as sole writer and producer. The *stakes* are grounded too: Roy named the Circle doctrine at the 2019 debut press cycle (*"There is no beginning and no end, it's just a circle,"* Digital Journal) and called it *"Jagwar Twin's Genesis story"* in 2024 (Audio Addiction) — which is why placing a counterfeit at the front door is significant rather than incidental. Distinct from the 2022 [[The Circle]] (a separate song, 3:50, also Roy's).

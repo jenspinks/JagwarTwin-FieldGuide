@@ -119,6 +119,42 @@ A handful of claims that cut across the whole thing.
 >
 > **2026 LL visualizer** — credited *"Jagwar Twin, sir lucius."* Lucius sings the **whole** song, at ease, on a crescent-moon-and-clouds lullaby stage. The same song before and after the unveiling: silent shadow lighting the fire → full-voiced, co-credited, center stage. The album is Lucius being handed the microphone.
 
+## Lyrics
+
+```
+[Intro]
+I got a bad feeling 'bout you
+
+[Verse 1]
+When the moon hits the sky, I'm a little unwell
+'Cause the truth is a lie that nobody can tell
+Every kid on the block talks in riddles and prose
+Then we dance 'til we drop-drop, drop
+
+[Pre-Chorus]
+(They say) Everything's perfect here
+And the sun is shining
+(Hey, hey) Everything's perfect here
+There's nobody crying
+
+[Chorus]
+Oompa Loompa, doompa-de-doo
+I got a bad feeling 'bout you
+Oompa Loompa, I don't know, dude
+I got a bad feeling 'bout you
+Bad feeling, bad feeling
+I got a bad feeling 'bout you
+
+[Verse 2]
+Animals, animals, all misunderstandable
+Carnivores and cannibals, I want it on demand-able
+Mandible, jaw split, hit me with the gossip, gossip
+(Are you fucking serious?)
+
+[Outro]
+It's true
+```
+
 ## Source notes
 
 **Grounded (Roy's own words, released music, public posts, official videos).** The release chain (single Dec 15 2023 → LL track 5; acoustic track 15, the *BMRC bonus* cut) and the Spotify credits (writers incl. Bricusse & Newley; Roy & Ryan Daly producing; Josh Dun on drums), Jen-verified 2026-06-06. Roy's *"chocolate covered reminder to trust your gut"* gloss. The origin story — German/Polish/Slavic ancestry, accordion-and-tuba jamming, *"we need some oompa shit"* (Digital Journal, ~2023), where the load-bearing detail is the **direction**: the oom-pah jam came first and the Wonka/Oompa-Loompa frame grew out of it (a claim unique to that transcript, not on the current public song page) — and the *"circus-like space"* video commentary from the same interview. The absurdist 2023–24 promo register: the *Wonka*-film tie-in posts (Dec 2023: *"Just saw Wonka. iCried"; "This one's for @RealChalamet"*), wanting *"the Willy Wonka converse,"* and Roy's disavowal of the viral Glasgow *"Willy Wonka Experience"* fiasco — *"I swear I had nothing to do with this"* (X, Feb 28 2024). Lucius's EP1 claim ([[The Interview]], 2025-07-31). The chorus phrase as the title of Roy's first gallery show, *"Everything's Perfect Here"* (Lauren Powell Projects, LA, opened Jan 20 2024, a glowing orange sculpture). The 2024 rollout dates: gallery (Jan 20) → music video premiere (Mar 7) → live acoustic (Apr 3) → *PERFECT* remix (May 3) → the Masonic Lodge / Hollywood Forever cemetery show (Jun 25), fans as *"Jagwar Oompa Loompas."* The *#badfeelingjt* Steiner pairing (Oct 23 2025) and the *"truth is a lie"* headline post (Nov 10 2025). Roy's own stated figures: past 1M streams in 9 days (X, Dec 25 2023); *"700,000 streams a day"* and *"#39 on the Top 40 chart"* (Celeb Secrets, Apr 2024); Top 40 US radio (character page). Josh Dun as Roy's stated favorite band's drummer, playing on both this and *Happy Face* (Strife, 2024).

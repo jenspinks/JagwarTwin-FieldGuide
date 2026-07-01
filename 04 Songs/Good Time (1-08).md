@@ -119,6 +119,162 @@ That last non-sequitur becomes the song's *sound.* Rattled, Roy goes to the stud
 > [!note]- Advanced reading — the number, and a 108 / 408 lead
 > The title is grounded as clock-time-on-waking. Whether *1:08* *also* marks a moment inside the audio is unconfirmed — the old open question, now mostly resolved in favor of the clock. There's a looser thread worth flagging and not overclaiming: on the release day of [[All My Friends]], Roy posted *"Jenny / = / 408,"* and one candidate decode floats a time-stamp echo against *Good Time (1:08)* — a possible 108 / 408 number-motif threading the 2023 singles. Held open, asserted nowhere.
 
+## Lyrics
+
+```
+Nana na nana na
+
+Are you ready?
+
+One step, two step
+
+Three step, four
+
+Step right up, get on the floor
+
+I don't know what I'm looking for
+
+But I can have a good time
+
+(Yeah)
+
+[Verse 1]
+
+Just a rabbit in a road rage
+
+(Uh huh)
+
+Kicked the habit like the old days
+
+(Uh huh)
+
+Life of the party
+
+You think you can dance?
+
+(Uh huh)
+
+Now move your body
+
+Shake what's in your pants
+
+[Pre-Chorus]
+
+I am
+
+In the business of the Human kind
+
+I don't need a witness
+
+I'm a mastermind
+
+Just wake up
+
+It's morning time
+
+Are you ready?
+
+[Chorus]
+
+One step, two step
+
+Three step, four
+
+Step right up, get on the floor
+
+I don't know what I'm looking for
+
+But I can have a good time
+
+One step, two stеp
+
+Three step, four
+
+Step right up, get on thе floor
+
+I don't know what I'm looking for
+
+But I can have a good time
+
+(Yeah)
+
+I see it, I want it, I need it
+
+I like that
+
+Just when you thought I was leaving
+
+I'm right back
+
+[Verse 2]
+
+You're a star, you know you are
+
+(Uh huh)
+
+Stick with me, I'll take you far
+
+Truth is on the mountaintop where man can pray to lightning
+
+Youth is not a fountain, it's a hand grenade in hiding
+
+[Pre-Chorus]
+
+I've been
+
+In the business of the Human kind
+
+I don't need a witness
+
+I'm a mastermind
+
+Just wake up
+
+It's morning time
+
+Are you ready?
+
+[Chorus]
+
+One step, two step
+
+Three step, four
+
+Step right up, get on the floor
+
+I don't know what I'm looking for
+
+But I can have a good time
+
+One step, two step
+
+Three step, four
+
+Step right up, get on the floor
+
+I don't know what I'm looking for
+
+But I can have a good time
+
+Nana na nana na nana
+
+I like that
+
+Nana na nana na
+
+Are you ready?
+
+One step, two step
+
+Three step, four
+
+Step right up, get on the floor
+
+I don't know what I'm looking for
+
+But I can have a good time
+```
+
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts).** The single, its date, and running time; the writer/producer credits per Spotify (including **Josh Dun** of Twenty One Pilots as co-writer — a recurring catalogue collaborator who also turns up on *Great Time to Be Human*, *Bad Feeling / Oompa Loompa*, and *Life Is Good*); the *1:08* = clock-time-on-waking; the full dream narration and the same-day waking-traffic crash; *"everyone's a celebrity"*; the accordions-and-tubas ancestry brief; Roy dating the figure to this song (*"sir lucius first appeared in the video and artwork for good time 108"*) and the same-week *"this looks sir rabbit pre-lucius"* note; the 2023 iconography — full face paint, the small cross on the cheek, darkened eyes, red-streaked hair, medieval armor, cigarette, the *"The Empty Mirror"* tattoo on the cigarette hand, and *"I'm a mastermind."* Roy's load-bearing statements here are public-facing.

@@ -92,6 +92,55 @@ Which is why the raised hands carry so much weight (see [[Hands Up]]): one gestu
 > [!note]- Advanced reading — the Sir Lucius correspondence (retrospective only, NOT 2018 intent)
 > It's tempting to hear [[Sir Lucius]] in this song — the consequence-blind bravado, confidence severed from the heart, momentum that stops caring what's true. And the *correspondence* is real: read backward from 2026, this is arguably the raw material the Lucius persona would later refine. But hold the timeline firmly. **Lucius does not exist as a character until the 2023 *Good Time* dream** — five years after this song. So this is **architectural correspondence, not authorial intent.** The 2018 song is not "about" Lucius, and the "you" is not a proto-Lucius shadow-self. What this song shares with Lucius is a *mechanism* the later work names and dramatizes; it is not an early appearance of the figure. Where the acceleration logic of this whole era eventually *fails* — the system capturing and monetizing the rebellion — is the territory of [[Welcome to the Circus]].
 
+## Lyrics
+
+```
+'Cause it's gonna be alright
+Let's have a good time, everybody
+It's gonna be a hell of a night
+It's gonna be a hell of a night
+
+Some feelings come and go for seasons
+But this one ain't going away (What's the reason for it?)
+I'm feeling lucky, that's the reason
+My superstitions gone away
+
+I don't really know what you're tryna do
+But you're never gonna win if you play to lose
+If I get locked up, promise you'll bail me out
+
+'Cause it's gonna be alright
+Let's have a good time, everybody
+It's gonna be a hell of a night
+Yeah, it's gonna be alright
+Let's have a good time, everybody
+It's gonna be a hell of a night
+It's gonna be a hell of a night
+(It's gonna be a hell of a night)
+(It's gonna be a hell of a night)
+
+Hands up and wave 'em to the ceiling (To the ceiling)
+We got some trouble on the way (Trouble's on the way)
+I'm feeling lucky, that's the reason, I know
+My superstitions gone away
+
+I don't really know what you're tryna do
+But you're never gonna win if you play to lose
+If I get locked up, promise you'll bail me out
+
+'Cause it's gonna be alright
+Let's have a good time, everybody
+It's gonna be a hell of a night
+Yeah, it's gonna be alright
+Let's have a good time, everybody
+It's gonna be a hell of a night
+It's gonna be a hell of a night
+(It's gonna be a hell of a night)
+(It's gonna be a hell of a night)
+
+It's gonna be a hell of a night
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public profiles).** The track's position (10 of 13) and its pairing with Pt. 2; the key of G; the full credit list and the writer-count asymmetry across the pair; Michael Morgan as a real, documented collaborator. The lyrics quoted here are short excerpts, verified against streaming with no substantive divergence.

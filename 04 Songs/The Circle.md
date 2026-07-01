@@ -143,6 +143,54 @@ Roy has said more about this song, and more emphatically, than almost anything e
 >
 > A tone counterweight, in Roy's own voice: he frames the neighboring track *Online* as *"so fun and so ridiculous"* and says he tries to *"take things less seriously… just trying to have fun."* *33* is not joyless doctrine — even as The Circle is its solemn mythic core, the record around it is grinning.
 
+## Lyrics
+
+```
+Long ago, there was a Jagwar with a world tied on a string
+And she made other Jagwars, then taught them to sing
+She would come down to the empires of the Earth, Wind, and the Sea
+And she'd walk with the Jagwars, this song they would sing
+Oh!
+The circle will grow
+From the inside of the Inside
+The circle will grow
+Oh!
+The circle will grow
+But the inside of the inside must be where you go
+(Um!)
+Many cycles of the story came and went with their kings
+And the new kings told Jagwars they never could sing
+So the maker of the Jagwars hid the song inside their wings
+On the inside of the inside, then left them to sing
+Oh!
+The circle will grow
+From the inside of the inside
+The circle will grow
+Oh!
+The circle will grow
+But the inside of the inside must be where you go
+Well, the Earth changed, and the sky raged for the Jagwars on the string
+And the empires built cages and sold everything
+'Til a wise one found a small cave where the Jagwars used to sing
+And the wise one remembered she once held the string
+Oh!
+The circle will grow
+From the inside of the inside
+The circle will grow
+Oh!
+The circle will grow
+But the inside of the inside must be where you go
+Oh!
+The circle will grow
+From the inside of the inside
+The circle will grow
+Oh!
+The circle will grow
+But the inside of the inside must be where you go
+But the inside of the inside must be where you go
+But the inside of the inside must be where you go
+```
+
 ## Source notes
 
 **Grounded (Roy's own words, released music, public posts).** "The Circle" is track 10 (the closer) of *33* (2022, Big Loud Rock), 3:50, released 2022-09-30; **Roy English is the sole writer**, Roy and Matt Pauling produce (Spotify Credits, verified). The lyric is Spotify-verified: the feminine Maker with *"a world tied on a string"* who *"made other Jagwars, then taught them to sing"* and walked with them; the *"new kings"* who *"told Jagwars they never could sing"*; the maker who *"hid the song inside their wings, on the inside of the inside"*; *"the empires built cages and sold everything"*; the Wise One who *"found a small cave"* and *"remembered she once held the string"*; the doctrine-refrain to fade. Both Maker and Wise One are *"she."* Roy's paratext is public: *"my favorite song that has ever come through me"* (2022); *"Jagwar Twin's Genesis story"* (2024); favorite live song (2024); *"it seemed to write itself"* (2023); the *"story of all of us"* framing (2023); the *"angles"/"home"* line for the reimaginings (2023). The doctrine's 2019 naming (*"there is no beginning and no end — it's just a circle"*), the *"there's only one song"* Manifesto line, and the collective-face aphorisms are all his own public words. Related releases: the *The Circle: The Great Jagwar Myth* EP (2023-02-17) and the Nov 2022 live acoustic video.

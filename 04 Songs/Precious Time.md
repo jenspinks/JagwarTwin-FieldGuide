@@ -90,6 +90,78 @@ The third writing credit is the strange, wonderful one. **Sarah Vaughan** is cre
 
 The lovely structural fact: the **same 1957 performance** feeds two different songs on this album. [[Dream - Dream]] (track 2) takes the *song* she sang; *Precious Time* (track 12) takes the *talk* before it. One night, split down the middle and stationed at either end of the record — music in the first half, speech in the last. It's a small, exact instance of the album's method of building new work on inherited material (see [[Inherited Substrate]]). The credit itself is grounded (it's in the released credits); the by-ear identification of the source recording is a strong reading pending a close listen for exactly where the banter sits in the mix.
 
+## Lyrics
+
+```
+Cause we never see our depth till we're underwater
+And we never need our breathe till we're underwater
+Time tickin and your head goin underwater
+Waist deep, wasting time
+We know we cant change
+Nobody else
+Nobody else
+Nobody else
+Nobody else
+I know I'm
+Wasting precious time
+Nobody else
+Nobody else
+Nobody else
+Nobody else
+I know I'm
+Wasting precious time
+Walked up Heaven's gate
+Picking the lock
+Precious time on your mind
+Stocked up for the day
+Ready or not
+Precious time on your mind
+Cause we never see our depth till we're underwater
+And we never need our breathe till we're underwater
+Time tickin and your head goin underwater
+Waist deep, wasting time
+We know we cant change
+Nobody else
+Nobody else
+Nobody else
+Nobody else
+I know I'm
+Wasting precious time
+Nobody else
+Nobody else
+Nobody else
+Nobody else
+I know I'm
+Wasting precious time
+(The people)
+Shot like buffalo out on the plains
+Precious time on your mind
+'Lot like Navajo blood in the veins
+Precious time on your mind
+Cause we never see our depth till we're underwater
+And we never need our breathe till we're underwater
+Time tickin and your head goin underwater
+Waist deep, wasting time
+We know we cant change
+Nobody else
+Nobody else
+Nobody else
+Nobody else
+I know I'm
+Wasting precious time
+Nobody else
+There's nobody else
+Nobody else
+Nobody else
+Nobody else
+I know I'm
+Wasting precious time
+Ya
+Wasting precious time
+Wasting precious time
+Wasting precious time
+```
+
 ## Source notes
 
 - **Grounded (released music, verified credits, public interviews and posts).** The album, track position (12 of 13, penultimate, before *Shine*), runtime, and the writer/producer credits, including the Sarah Vaughan sampled-audio credit and the notable **Adam Hawkins** mix (one of only two exceptions on an album mixed mostly by someone else). The lyric text itself — the thesis, the fused *time / underwater* line, the doubled *nobody else* refrain and its outro sharpening to *there's nobody else*, the two control-strategy couplets, and the *"(the people)"* widening marker. In the one interview to *name* the song, a host groups *Happy Face* and *Precious Time* as songs that "touch on death / a ticking time bomb," and Roy softens the "death" frame — *"I don't know if it's specifically death, it's more like a cycle…"* — though his answer then develops the *Happy Face* material rather than this song. And a documented biographical detail bears on the couplet: Roy has said his mother listened to "pretty much only weird world music… Native American flute music," a real inherited sound-world in the household.

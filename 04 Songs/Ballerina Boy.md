@@ -113,6 +113,168 @@ Keep two claims apart, because the genesis reading is harder to wave off as "too
 > [!note]- Advanced reading — the Pinocchio analogue (Roy-curated, held loosely)
 > *Pinocchio* sits on [[The I'm 33 Board|Roy's own board of films]] where he says the pattern shows up — which makes it a **Roy-curated** mythic rhyme, not a critic's import. It gathers all three grounded elements at once: a *made boy* told he is not a *real boy*; a figure defined by *the string* tying him to his maker (→ [[The Circle]]'s *"a world tied on a string"* / *"she once held the string"*); and a *feminine voice* that confers realness (the Blue Fairy ↔ the motherly outro, held as the [[Mary]]-function in strict structural rhyme). Discipline matters: the wound is *also* literal autobiography — the myth coexists, it doesn't replace, and the claim is **not** "Ballerina Boy is about Pinocchio." (The string-inversion — *I've Got No Strings* selling severance-from-the-maker as freedom, where the Circle inverts it to *remembering* the held string — lives mainly on [[Inversion]]. Related curios — Pleasure Island → [[Bananas]], Stromboli as the exploiter/[[The Circus|Circus]] pole — are demoted, not load-bearing.)
 
+## Lyrics
+
+```
+I know it's not simple
+
+I know it's not fair
+
+There's nobody else like you
+
+Out there
+
+When I was 7 went to Christian school and did ballet
+
+I loved to dance
+
+I came alive when I was on that stage
+
+Until the rumors started
+
+Teacher called my dad
+
+We think your son is gay
+
+I overheard cause he was mad
+
+I thought to myself
+
+Gay must mean bad or else they wouldn't call
+
+I prayed to God to make me good cause it wasn't my fault
+
+I was the only boy in class
+
+Stood back against the wall
+
+The girls surrounded me and said "you're not a boy at all"
+
+You're not a real boy
+
+You're not a real boy
+
+You're not a real boy
+
+You're not a real boy
+
+I went home crying asked my dad if what they said was true
+
+He looked me in the eyes and said "there's nothing wrong with you, my son"
+
+I know it's not simple
+
+I know it's not fair
+
+There's nobody else like you
+
+Out there
+
+I know it's not easy
+
+It's hard when you care
+
+There's nobody else like you
+
+Out there
+
+I never danced again
+
+I killed that ballerina boy
+
+I buried him inside
+
+It's like I didn't have a choice
+
+17 started a band and I was on a mission
+
+I said no one understands me but you always listen
+
+Felt like I could disappear and no one else would notice
+
+But you always had my back when I was feeling hopeless
+
+(I was feeling hopeless)
+
+Driving 'round the country
+
+Couldn't afford an egg McMuffin
+
+Music just wasn't landing, I heard
+
+You're not a real boy
+
+You're not a real boy
+
+What makes a real boy?
+
+I was faced with a choice
+
+Do I kill myself or come back for that kid I let go
+
+This song's for Ballerina boy
+
+This song's a prayer for hope
+
+Cause I know
+
+I know it's not simple
+
+I know it's not fair
+
+There's nobody else like you
+
+Out there
+
+I know it's not easy
+
+It's hard when you care
+
+There's nobody else like you
+
+Out there
+
+Out there
+
+(Nobody else like you)
+
+Out there
+
+(Nobody else like you)
+
+Out there
+
+(Nobody else like you)
+
+Out there
+
+Out there
+
+(Nobody else like you)
+
+We don't really know who we are until we try things
+
+And something clicks inside
+
+And says "this is me"
+
+You are one of a kind, God's design
+
+So my son, let your light shine
+
+And on those dark nights
+
+Look up to the sky
+
+The moon reminds us that even in the darkness
+
+There is light
+
+There's no one else like you
+
+Out there
+```
+
 ## Source notes
 
 - **Grounded (autobiography & release).** The ballet wound is real and publicly told by Roy — triple-confirmed across the lyric, a filmed interview (the only-boy dance class, the taunt, coming home crying, the adult dance videos as shadow-work), and an independent venue artist bio noting childhood ballet. Released June 13 2025 (Big Loud Rock, under license to Mercury Records / UMG); a 3-track single plus a same-day Dolby Atmos mix; kept off *[[Lucius Lullaby (album)|Lucius Lullaby]]*. Sole writer Roy English; produced, vocal-produced and string-arranged by Jagwar Twin. All lyric excerpts above are short — full lyrics via [Genius](https://genius.com) and streaming.

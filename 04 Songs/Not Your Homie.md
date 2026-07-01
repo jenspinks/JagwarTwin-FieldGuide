@@ -129,6 +129,59 @@ The rollout ran the bit at scale. The visualizer dropped captioned *"one take. n
 
 Here's the thing the comedy is doing: a figure who needs to broadcast his greatness *this* loudly, who cues chart-toppers off produce, who brands his own work "nonsense" with a grin — this is not a villain who's winning. It's a wounded thing performing enormousness so it never has to feel small. Never joke *through* the wound underneath. But the pomp on top of it is fair game, and the song knows it.
 
+## Lyrics
+
+```
+[Intro]
+You're not my homie, you don't know me
+You're no friend, let's not pretend
+Let's not pretend-tend-tend-tend-tend
+(Pretend, pretend-tend-tend-tend-tend)
+
+[Verse 1]
+Ahem, I'm ringing rosies, my pocket's full of posies
+Coming in like a plague from the dark side
+Stop acting cozy, stop acting like you know me
+Coming in like a plague from the dark side
+
+[Pre-Chorus]
+Ashes, ashes, we all fall down
+Take that smile, turn it upside-down
+Ashes, ashes, we all fall down
+(Leave me alone)
+
+[Chorus]
+You're not my homie, you don't know me
+You're no friend, let's not pretend
+Let's not pretend-tend-tend
+You're not my homie, you don't know me
+You're no friend, let's not pretend
+Let's not pretend-tend-tend-tend
+
+[Verse 2]
+Influential, I'm full of potential
+Might run for president, I'm so presidential (Yeah)
+Coincidental, your fate is detrimental
+Walking 'round like I'm John Wick with my pencil
+Stick it in your eye, bury you alive
+Now you're on the dark side (sucker, it's a vibe)
+But if you choose to tame the beast
+You got to prove yourself to be
+A champion, a champion, a champion, a champion
+
+[Bridge]
+'Cause I'm classy, and I'm snazzy, and I love my life
+I'm like Michael, I'm a psycho, so don't kill my vibe
+'Cause I'm classy, and I'm snazzy, but I'll end your life
+
+[Chorus]
+You're not my homie, you don't know me
+You're no friend, let's not pretend
+Let's not pretend-tend-tend-tend
+'Tend-tend-tend-tend
+'Tend-tend-tend (Let's not pretend)
+```
+
 ## Source notes
 
 - **Grounded (released music, Roy's own posts, public video).** The release facts and credits (track 11; Oct 31 2025 single; writers Roy English / MERCY / Dave Burris; produced by Jagwar Twin & Dave Burris; MERCY credited *lead vocalist*, resolving the old "does MERCY sing lead?" question). The lyric itself, including *"tame the beast… a champion"* and the *love my life → end your life* bridge. Roy's *"ultimate introverted extrovert anthem"* framing and the MERCY-voicenote origin story (X, release day). The EP2 **bargain** scene, verbatim — SOL refused, the banana pressed, *"it's nonsense,"* *"I'll give you this one"* (*[[The Interview]]* EP2, publicly released). The EP3 "movie placement" beat and Roy's in-character plot narration. The press-named [[LOOP]] → NYH → [[Welcome to the Circus]] chain. The one-take visualizer. The *LEAVE ME ALONE* merch capsule. Roy naming *Happy Face* and *Not Your Homie* in the same breath (*"if you like happy face in 2025, you'll love not your homie"*). The *El Roi* throat tattoo.

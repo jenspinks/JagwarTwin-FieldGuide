@@ -121,6 +121,84 @@ The title is also — this is not a metaphor — the literal web address of Roy'
 - [[Bad Feeling (Oompa Loompa)]] — the middle stage of the John 8:32 "Truth" arc this song begins.
 - [[Lucius Lullaby]] — the endpoint of that arc, where the scripture is weaponized; *It's Your Time* is its sincere origin.
 
+## Lyrics
+
+```
+Oh Lord
+Cause I ain't nothing but a Fool
+A man is like an in-between
+Animating Heaven and Hell
+With all the things you've ever seen
+You still can hardly spell
+They say the Truth will set you free
+But the Truth is hard to tell
+If you don't know who you are to be
+You still don't know you fell
+One you get to Earth you forget where you come from
+Gotta find your Way back
+One you get to Earth you forget where you come from
+Gotta find your Way back
+It's your Time
+All my life I've been waiting for this moment
+All my life
+It's your Time
+All my life I've been waiting for this moment
+All my life
+Learn to fly
+Don't give up
+When it's tough
+You got just one life to live
+(Don't give it up)
+It's your Time
+All my life I've been waiting for this moment
+All my life
+All my life
+You came here to this place to Be
+As Far as "I" can tell
+Within you got the Eye to see
+All the stars under your Belt
+And in your heart there is a Well
+You can follow where it leads
+If you don't know Who You Are to "me"
+You still don't know your Self
+(Cause I ain't nothing but a Fool)
+One you get to Earth you forget where you come from
+Gotta find your Way back
+One you get to Earth you forget where you come from
+Gotta find your Way back
+It's your Time
+All my life I've been waiting for this moment
+All my life
+It's your Time
+All my life I've been waiting for this moment
+All my life
+Learn to fly
+Don't give up
+When it's tough
+You got just one life to live
+(Don't give it up)
+It's your Time
+All my life I've been waiting for this moment
+All my life
+All my life
+Ahh!
+It's your Time
+All my life I've been waiting for this moment
+All my life
+It's your Time
+All my life I've been waiting for this moment
+All my life
+All my life
+Don't give up
+When it's tough
+You got just one life to live
+(Don't give it up)
+It's your Time
+All my life I've been waiting for this moment
+All my life
+All my life
+```
+
 ## Source notes
 
 - **Grounded (facts, released music, public posts).** Track 2 of 10 on *33* (2022, Big Loud Rock / Big Loud Records), runtime 3:33, released 2022-09-30. Written and produced by Roy English & Matt Pauling (verified 2026-05-30 via Spotify's credits view) — a leaner team than the *Subject to Flooding* era. One of four pre-release singles (with [[I Like to Party]], [[Down to You]], and Happy Face); ~313k streams, modest against the album's anchor. All the lyric lines discussed here, and their stylized capitals/scare-quotes, are verbatim from the official lyric source. The title is the live URL of Roy's public "I'm 33" cosmology board. Paratext: Roy has publicly re-surfaced the song and board on his birthday; confirmed the *33* songs were minted as Web3 tokens and that *It's Your Time* "sold out"; and used it as the album's launch-banner track. It was a durable **live cut** — played in Portland (2023), turned into a guitar-solo moment, and performed on the 2024 Seasons World Tour opening for Thirty Seconds to Mars, where its own line *"don't give up"* became the caption.

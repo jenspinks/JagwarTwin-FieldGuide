@@ -171,6 +171,76 @@ But note where the comedy stops. Lucius mocks *Ballerina Boy* — the childhood 
 >
 > **The Flood ↔ Circus dual frame.** The album organizes around two frames — the Flood and the Circus — read as "the same severing, two elements." On *Lucius Lullaby* the digital-age thread stops being *diagnosed* (as it was on *33*) and starts being *lived inside*. Welcome to the Circus is where the diagnosis becomes the address.
 
+## Lyrics
+
+```
+[Intro]
+Welcome to the circus
+Welcome to the circus
+
+[Verse 1]
+Every day is a circus all in my brain
+Flying cars and a ring of fire, no escaping, ah
+My teeth are falling out my mouth
+I'm screaming, but no words come out
+Flashing lights, there's no exit sign in my maze
+
+[Pre-Chorus]
+Ooh
+Spinning you 'round and 'round, 'round
+Ooh
+Everything's upside down
+
+[Chorus 1]
+Step right up, shut your mouth
+I'll chew you up, spit you out
+Welcome to the circus, ah
+Welcome to the circus, ah
+
+[Chorus 2]
+Take your seat, scream and shout
+'Cause I'm the one they're talking 'bout
+Welcome to the circus, ah
+Welcome to the circus (yeah)
+Welcome to the circus, ah
+
+[Verse 2 / Bridge]
+I'm juggling your darkest thoughts
+It's a spectacle, I'm the final boss
+Paint my face, and they clap and smile
+I'm so outrageous, I'm so in style
+But when the curtains close
+When the curtains close
+Did you like the show?
+Did you like the show?
+They love it when you lose control
+Lose control
+
+[Pre-Chorus]
+Ooh
+Spinning you 'round and 'round
+Ooh
+Everything's upside down
+
+[Chorus 1]
+Step right up, shut your mouth
+I'll chew you up, spit you out
+Welcome to the circus, ah
+Welcome to the circus, ah
+
+[Chorus 2]
+Take your seat, scream and shout
+'Cause I'm the one they're talking 'bout
+Welcome to the circus, ah
+Welcome to the circus, yeah
+
+[Outro]
+Yeah, yeah, yeah, yeah
+Welcome to the circus, ah
+Welcome to the circus, ah
+Welcome to the circus
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, official videos).** The song and its credits (writers Dover / Tarpley / Roy English / Kanner; producer-entity "Jagwar Twin"; the "Roy English" *human* vocal credit, an exception to the ROY-character device); the January 16, 2026 single and same-day visualizer; the EP 3 narrative setup (the Song of Love override, the banana, *"the algorithm, baby,"* the Ballerina Boy mockery); the LOOP → Not Your Homie → Welcome to the Circus press chain; the 2026 *Live Underground* card (the two new lines, the *"you are the maze"* sigil, the *Hermes* question, the BMRC end-card); the *Good Time (1:08)* face-paint precursor two years before Lucius is first named on a credit (*Not Your Homie*, 2025). **The meta-collapse** — Roy's own *"It's actually wild what welcome to the circus is doing right now"* and *"I guess Lucius was right again,"* posted publicly as the single broke out — is the grounded heart.

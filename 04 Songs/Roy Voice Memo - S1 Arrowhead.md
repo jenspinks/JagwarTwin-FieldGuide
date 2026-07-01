@@ -99,6 +99,22 @@ A few claims that cut across the whole memo.
 >
 > This is why the memo functions as a kind of Rosetta stone for everything after it. The later mythology dresses this dread in costume after costume — gives it a mask, a name, an antagonist. Track 9 is the dread *before* any of the costumes, which is exactly what makes it so useful: it shows you the raw shape the whole catalogue keeps re-clothing.
 
+## Spoken text
+
+```
+And you're preparing, like, okay.
+And you got like, your super solid team too.
+Like Ryan, who's been with you.
+And you guy's learnin' each other and you know that he
+Understands the vision and like, all that is important.
+As opposed to the bubble bursting and
+Then you're trying to find pieces, you know?
+So, you know I think in retrospect, you're already doing that.
+You're already preparing for it.
+It's just the fear of...
+Of when it happens.
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public interviews).** The track itself and its spoken text; the credits (writers Roy English and S1; Roy producing, S1 as executive producer; Jeff Ellis mixing, Chris Gehringer mastering); the 0:42 runtime and track-9 placement; Lake Arrowhead, CA as one of the album's real recording sites. Most important of all: **Roy's own narration of this exact conversation**, in a 2018 Ones to Watch Q&A — *"at the end of it, we were up in Arrowhead, and I was talking with S1, and we were just like, This is big. This is not about us anymore. This is something else. So, I didn't feel right putting it out as a Roy English album… because it's not."* That's the naming-of-Jagwar-Twin moment, in Roy's voice — and the memo is a captured slice of the very session it describes.

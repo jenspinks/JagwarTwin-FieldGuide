@@ -136,6 +136,96 @@ That dual register — pop-friendly affect (clapping, *"yah, we're in the club"*
 > [!note]- The video as the "cake before the Circus"
 > The 2021 video (dir. Kyle Vorbach) is the clearest **pre-naming** visual of the consumption mechanism: Roy is force-fed cake by an off-screen jeweled hand, escalating to cake smeared over his face and torso, while a ring of blank grey masks looks on. Four years before *Welcome to the Circus* names *"I'll chew you up, spit you out,"* the visual catalogue already shows Roy as the thing **being eaten**. The reading: cake = algorithm-friendly content; jeweled hand = the industry; Roy = what gets stuffed in and pulled out. And the **cover art** doubles it — a cake-slice plated as **Saturn/Cronus the devourer**, ringed by skulls and cherubs (Consumption plus memento mori: *"the party that eats you"*), under the tagline *"A new direction affecting the state of your mind."*
 
+## Lyrics
+
+```
+Let's see you clap them hands!
+Let's see you
+I like to party with all of my friends
+But we don't go outside
+We stay in and pretend that we're in the club
+(Let's see you clap them hands!)
+Yah, we're in the club
+(Let's see you)
+A new direction
+Affecting the state of your mind
+Give me attention, attention
+The people are mine
+Running around like chickens with no head
+In circles, they go
+Looking like Charles Dickens
+I mean dead, the tale was told
+So one, two, three, four, follow me
+To the beat of my drum
+Sing along with me
+Yah, one, two, three, four, follow me
+Lock up your door
+Get on the floor
+I like to party with all of my friends
+But we don't go outside
+We stay in and pretend that we're in the club
+(Let's see you clap them hands!)
+Yah, we're in the club
+(Let's see you)
+I like to party with all of my friends
+But we don't go outside
+We stay in and pretend that we're in the club
+(Let's see you clap them hands!)
+Yah, we're in the club
+(Let's see you)
+All I wanna do is zoomy-zoomy, zoom-zoom
+So I zoom everyday
+Everyday, everyday
+Television on the news
+Devil's Food is a cake
+Cake, cake, cake, cake!
+We don't want 'em awake
+Bake a truth with a lie
+Then we sell 'em the cake
+So one, two, three, four, follow me
+To the beat of my drum
+Sing along with me
+Yah, one, two, three, four, follow me
+Lock up your door!
+Get on the floor!
+I like to party with all of my friends
+But we don't go outside
+We stay in and pretend that we're in the club
+(Let's see you clap them hands!)
+Yah, we're in the club
+(Let's see you)
+I like to party with all of my friends
+But we don't go outside
+We stay in and pretend that we're in the club
+(Let's see you clap them hands!)
+Yah, we're in the club
+(Let's see you)
+All I wanna do is zoomy-zoomy, zoom-zoom
+Devil waking up to claim the kingdom
+People waking up to claim what's in them
+Heaven is within your heart
+The kingdom, you're the kingdom
+You're the kingdom
+(Hallelujah)
+Heaven is within your heart
+The kingdom, you're the kingdom
+You're the King
+We interrupt our program to bring you this important message
+I like to party with all of my friends
+But we don't go outside
+We stay in, and pretend that we're in the club
+(Let's see you clap them hands!)
+Yah, we're in the club
+(Let's see it! Let's see it!)
+I like to party with all of my friends
+(I like to party)
+But we don't go outside
+We stay in and pretend that we're in the club (we stay in)
+(Let's see you clap your hands)
+Yah, we're in the club!
+Let's see you clap them hands!
+```
+
 ## Source notes
 
 - **Grounded (released music, the video, official posts and merch).** The lyric structure and every quoted line (Spotify-verified). The credits: *33* track 4, single first released July 23 2021, Roy English + Matt Pauling writing, **Pauling sole producer**. The **official video** and its description — *"this party may be dangerous and could result in… loss of identity, the creation of a self created hell, etc. Bring your friends; Let's party!"* — the artist framing his own lyric as identity-dissolution staged as fun. Roy's pinned comment naming the masked ring *"a beautiful group of mind/body/spirit complexes."* The **Tell-A-Vision Tee** grounding the *tell-a-vision* pun as intentional band language. The **2021 manifesto card** (the "official audio" end-card: *"PRESENTED BY JAGWAR TWIN," "LET'S SEE YOU CLAP THEM HANDS!,"* a praying-hands/cross/JT sigil-triad, and a micro-manifesto quoting the bridge — the second of the early [[The Manifesto Cards|Manifesto Cards]]). The **Saturn-cake cover art.** The **2022 "cake party" campaign**, in which Roy auctioned his first-ever 1/1 music NFT of this song to launch a public "upload of my consciousness to AI" (tweets incl. *"If this works we are going to party tomorrow!!," "It's not a party without cake," "What is a party?"* — the [[The Upload|upload]] persona was the public face of that stunt). The reused TikTok captions over the song's sound (*"we stay in and pretend," "Follow me tho #influencer," "Do you like to party?," "Dubai likes to party"*).

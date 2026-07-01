@@ -114,6 +114,101 @@ A few claims that cut across the whole thing:
 > - **How literal is "Conceive it"?** Imagination as literal creation (the Neville reading), or as motivation dressed in cosmic language? The capital C leans toward the former; the anthem's accessibility keeps the latter available.
 > - **Does Roy invert Lennon's "Imagine," or sustain it?** The canon answer: sustained, not inverted — sincere-with-a-warning rather than an ironic teardown of the utopian register. The distinctness from Lennon's *"Imagine"* is a deliberate authorial decision (the extra word, the different argument), not an accident of titling.
 
+## Lyrics
+
+```
+Just imagine
+Just imagine
+Imagine a world full of wonder
+What would it be like?
+What kind of people are there?
+It's all inside of your mind it's up to you to decide
+Uh hu
+Imagine a world full of wonder
+It's easy to try
+You can't get it wrong
+Playing your note in a song
+Written by you for your life
+Uh hu
+Imagine a world full of wonder
+Where flowers could talk (oh hello!)
+For hours and hours
+And they would sing when it showers
+But they would stop when you walk
+Uh hu
+Imagine a world full of wonder
+Somewhere in the sky
+Or in the back of your mind
+Is there intelligent life?
+Is there a God you designed? (Oh my)
+Uh hu
+Just imagine
+Just imagine
+Just imagine
+Just imagine
+Imagine a world full of wonder
+It isn't hard to see
+Just close your eyes
+Imagine it in your mind
+Picture where you want to be (Be)
+Uh hu
+Imagine a world full of wonder
+Where money was magic
+But it could make your life tragic
+Depending on how you acted
+You were the cause and reaction (who?)
+Uh hu
+Imagine a world full of wonder
+Where you could do nothing
+Yell at people driving your car
+Get in fights at the bar
+Who do you think you are? (Who do you think you are?)
+Uh hu...
+Imagine a world full of wonder
+Where you could be a hero
+How many people could you save
+If you got out your own way
+And went your own way?
+Uh hu
+Just imagine
+Just imagine
+Just imagine
+Just imagine
+Imagine a world full of wonder
+You pick your parents when you start
+They're perfect for your lesson
+The struggle and the blessing
+Reflections of who you are (It's not a phase mom!)
+Uh hu
+Imagine a world full of wonder
+Where everything is brand new
+Then people start to label you
+And you turn on the cable news
+And Those Thoughts take ahold of you
+Uh hu
+Imagine a world full of wonder
+Where every religion was right
+Blue-headed gods
+Brahma, Muhammad, and OZ
+Horus, the Buddha, and Christ
+Uh hu
+Imagine a world full of wonder
+The Garden Of Eden (In-A-Gadda-Da-Vida)
+Look inside you'll see it
+You just gotta believe it
+You just gotta Conceive it
+Uh hu
+Just imagine
+Just imagine
+Just imagine
+Just imagine
+Just imagine (Just imagine, Just imagine)
+Just imagine (Just imagine, Just imagine)
+Just imagine (Just imagine, Just imagine)
+Just imagine (Just imagine, Just imagine)
+Imagine a world full of wonder
+```
+
 ## Source notes
 
 - **Grounded (credits, released music, public posts).** Album, position, and runtime — *33* (2022, Big Loud Rock), track 9 of 10, 4:44 — and the Roy English & Matt Pauling writing/production credit come from the album's per-track credits. The lyric is verbatim-verified, including the stylized capitals the song keeps (*Be, Those Thoughts, OZ, Garden Of Eden, Conceive*). The *"if you got out your own way / and went your own way"* couplet and the *you* ×35 / *I* ×0 count are hard textual data. Roy's public naming of **Neville Goddard** (IG diary; public Discord shares) and his cross-tattoo gloss (*"Christ and the 4 worlds"*) are public-facing. The [[Hall of Mirrors]] mint (#140) and the emanation-ladder code that resolves to the title are documented in the archive.

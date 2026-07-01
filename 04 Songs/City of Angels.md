@@ -123,6 +123,43 @@ The simplest reading survives all of this, and it's worth saying plainly: on its
 > - The clean **falsifier:** if Roy ever frames this as a straightforward fame-cautionary song, the whole apparatus demotes to overlay — real, but decorative. We keep that on the table.
 > - Open, and worth holding: is a *true* immortality (the Great Design, the song that survives) hidden *under* the false one — or is the very *absence* of any waking-up the point, i.e. inside the City there is no vantage left to see the lie from? And *"make it out alive"* — out of *what*? (Industry, psyche, fame, the rock-bottom floor — all rooms in one building.)
 
+## Lyrics
+
+```
+In the City of Angels walking down the star-lined road
+Another beautiful stranger passed me by, I said hello
+And she said
+"All your dreams are coming true
+Everyone looks just like you"
+
+In the City of Angels
+Welcome to Hollywood
+You're in the City of Angels
+Welcome to Hollywood
+Welcome to Hollywood
+
+Some people wanna be saviours, gangsters
+Live forever in the bright lights, godlike, live forever
+Never gonna die, no, I'm never gonna die
+If I make it out alive, then I'm never gonna die, yeah
+All my dreams are coming true
+Everyone looks just like you
+
+In the City of Angels
+Welcome to Hollywood
+In the City of Angels
+It's the City of Light
+Welcome to Hollywood
+And she said
+
+[Never gonna die, no, I'm never gonna die / If I make it out alive, then I'm never gonna die] (x2)
+[Never gonna die, never, never gonna die / If I make it out alive, then I'm never gonna die] (x2)
+
+All your dreams are coming true
+Everyone looks just like you
+In the City of Angels
+```
+
 ## Source notes
 
 - **Grounded (released music, credits, public posts, official video).** The album placement (track 10 of 15 on *Lucius Lullaby*, billed *Jagwar Twin & Sir Lucius*); writers Roy English & Matthew Pauling; the co-credited *sir lucius* + *ROY* vocals (verified track-by-track against streaming credits); the 9→10 seam and shared *never gonna die* chant; the verified pronoun rotation (*your → my → your*, tagged "and she said") and the "City of *Light*" line; the survival-chant carried from [[Playing to the Gods]]; the official visualizer beats (flatline under "never gonna die," hand-drop-to-perform, verse-to-her / chorus-to-camera, the logo crown, the rabbit-masked figure, leading her off at the end); Lucius's *"I can't be stopped… my lullaby is everywhere as we speak"* from [[The Interview]] (EP6); the real-world **STOP SIR LUCIUS** campaign at the March-2026 release (the LA flyers and freeway-overpass banner, the *"We must stop him"* caption from [[Public Posts]], and Lucius's *"It can't be stopped. 'lucius lullaby' is out everywhere"* retort); the [[The Interview|EP2 *bargain*]] (Lucius trading worldly success for one hit — *"Just give me one, Roy. One hit"*); the "the gods" = theatre-gallery idiom; and Roy's board tab **"how to upload myself to the internet."** *(Runtime 2:55 is from the album-arc tracklist — confirm against streaming before treating as canonical.)*

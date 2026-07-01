@@ -104,6 +104,89 @@ Two things about that table earn a second look. First, the verse pairing is deli
 > [!note]- Advanced reading — the buried child's safe return (Jungian frame) *(tap to open)*
 > Verse 2's child couplet lets the tender self narrate in its **own** voice rather than stay buried under persona — the structural opposite of [[Ballerina Boy]], where the child is interred behind perfect-child armor. Read it as the buried child surfacing *because the environment is finally safe*: the reciprocal, non-possessive love of the hook is the safety that permits the return. In this frame the Thread isn't only navigation — it's what makes the child's return possible at all. (The "whose drum you move to" motif in [[I Like to Party]] sharpens it: the true heartbeat here is the drum you *want* to march to, against the Piper's beat and the inherited dread-drum.)
 
+## Lyrics
+
+```
+[Verse 1]
+I can tell you what it's like to be in love
+And the way it feels to lose
+Love's a question
+Not an answer from above
+Love's a question that you chose
+
+[Pre-Chorus]
+Something like a feeling
+Something hard to show
+Something to believe in
+Something that I know
+
+[Chorus]
+Even if the stars are out of place
+Even if I'm lost along the way
+I can hear your heart, it beats
+It moves to me
+I move to you
+Even if the stars are out of place
+Even if I'm lost along the way
+I can hear your heart, it beats
+It moves to me
+I move to you
+I move to you
+
+[Post-Chorus]
+Na na na na na na na
+Na na na na na na na
+Na na na na na na na
+I move to you
+I move to you
+
+[Verse 2]
+I can tell you what it's like to be a kid
+And the way it feels to grow
+Love's a question
+Not an answer that you give
+Love's a question that you know
+
+[Pre-Chorus]
+Something like a feeling
+Something hard to show
+Something to believe in
+Something that I know
+
+[Chorus]
+Even if the stars are out of place
+Even if I'm lost along the way
+I can hear your heart, it beats
+It moves to me
+I move to you
+Even if the stars are out of place
+Even if I'm lost along the way
+I can hear your heart, it beats
+It moves to me
+I move to you
+I move to you
+
+[Post-Chorus]
+Na na na na na na na
+Na na na na na na na
+Na na na na na na na
+I move to you
+I move to you
+Na na na na na na na
+Na na na na na na na
+Na na na na na na na
+I move to you
+I move to you
+
+[Outro]
+Even if the stars are out of place
+Even if I'm lost along the way
+I can hear your heart, it beats
+It moves to me
+I move to you
+I move to you
+```
+
 ## Source notes
 
 - **Grounded (released music, Roy's own words, public posts).** Credits and track placement (track 7 of 13 on [[Subject to Flooding]]; written by Roy English & S1; produced by Roy English, Michael Morgan & S1; exec-produced by S1; mixed by Jeff Ellis; mastered by Chris Gehringer — Apple Music and Spotify Credits, verified May 2026). The two deliberate verse-variants of *"Love's a question"* (Apple Music, stable). Roy's framings: *"like a download… it felt given to me"* (Atwood Magazine, 2018); *"a prayer to and from the universe,"* the felt-lost origin, Florence + Joshua Tree, favorite-on-album, **and the earliest naming of the Circle** — *"there is no beginning and no end, it's just a circle"* (Digital Journal, 2019); *"it was a conversation with God"* (The Honey Pop, 2020). Lucius's EP3 burial and *"when you're vulnerable, you LOSE"* ([[The Interview]] EP3, published Jan 2026). The *"love's a question"* formulation *recurring* in [[SOL]] (2025).

@@ -108,6 +108,57 @@ A few claims cut across the whole song.
 > [!note]- Advanced reading — the pronoun engine and the direction-swap
 > By pronoun audit, #1 Champion carries the album's **highest self-assertion I:you ratio — 5.5** — making it the "I"-engine, the self-branding pole of *Lucius Lullaby.* That's the setup for the reversal: the most relentlessly *I*-driven track on the record turns out to be sung by someone else. It also sits inside a longer arc across the catalogue — a **faceless-inversion direction-swap.** In 2018 Roy dedicates songs *to* the faceless (they receive the blessing); by 2025–26 the faceless one *gives* the blessing (object-of-care becomes source-of-care). Here she appears exactly when the recursion destabilizes — she interrupts the looped boast and ends it.
 
+## Lyrics
+
+```
+I'm the number one champion in this town
+
+A-B-C, count 'em, one, two, three
+You got a little bit of money, but it don't come cheap
+If you don't know 'bout me, you should know by now
+I'm the number one champion in this town
+
+Mary, Mary, so contrary
+Extraordinary, she was scary when she walked by
+In the blue jeans, she got good genes
+Queen of California on the corner doing her time
+
+She know everybody wanna hold her hand, and I
+Never noticed what was underneath that dress, oh, I
+Saw a halo but I didn't see a head, so I
+Made a move like a fool, dropped me dead when she said
+
+[Chorus: A-B-C, count 'em, one, two, three / You got a little bit of money, but it don't come cheap / If you don't know 'bout me, you should know by now / I'm the number one champion in this town] (x2)
+
+Stumbled into the church
+Mary, Mary was there
+On her knees, quite a scene
+Making everyone stare
+She was La Conquistadora with a gun in her hand
+She was mopping up the flora, fawning over no man
+
+She know everybody wanna hold her hand, and I
+Never noticed what was underneath that dress, oh, I
+Saw a halo but I didn't see a head, so I
+Made a move like a fool, dropped me dead when she said
+
+[Chorus] (x2)
+I'm the number one champion in this town
+
+Mary, Mary, such a revolutionary
+Queen of California on the corner doing her time
+Mary, Mary, such a revolutionary
+Queen of California on the corner doing her time
+Mary, Mary, such a revolutionary
+Such a revolutionary, such a revolutionary
+
+[Chorus] (x2)
+I'm the number one champion in this town
+I'm the number one champion in this town
+I'm the number one champion in this town
+I'm the number one champion in this town
+```
+
 ## Source notes
 
 - **Grounded (released music, public posts, public video).** Album and credits (*Lucius Lullaby*, 2026, track 8 of 15, 3:33, Big Loud Rock; writers Roy English / tony esterly / Cici Ward; produced by Roy English & tony esterly; Dan Adams strings; MERCY and Cici Ward backing vocals). Mary is **named in the released lyric** — the catalogue's grounded faceless-divine-feminine anchor. The vocal arrangement (whole chorus in Mary's voice; Lucius joining then overtaking the title; the a cappella close after the music stops) is confirmed via the recording and the official visualizer — a **performance/visual** class of evidence, the same standing as the audio-confirmed *Ballerina Boy* outro. The structural hinge (*"…when she said—"* cutting straight into *"A-B-C, count 'em"*) is observable in the released audio. *La Conquistadora* and *"Queen of Heaven"* are real Marian titles; *"Mary, Mary, so contrary"* is the Mother Goose rhyme. Paratext: the [[The Interview|*Interview* series]] (Lucius plays the track, *"another song about ME"*); the **YouTube visualizer** (a woman in a red corset/dress on a dark teal field) and the public @jagwartwin Instagram reel promoting it ([[Public Posts]]), audio-credited *"Jagwar Twin, sir lucius · #1 champion,"* caption signed *— El Roy.*
