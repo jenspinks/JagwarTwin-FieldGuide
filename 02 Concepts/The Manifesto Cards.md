@@ -61,7 +61,7 @@ The sharpest single line on any card is *Happy Face*'s **"are you content?"**, a
 
 *Content* (adjective) — happy, satisfied. The literal Happy-Face question. *Content* (noun) — media to be consumed: *are you THE content?*, the attention-economy product, pairing exactly with that card's *"brought to you buy."* And *content* (adjective again) — complacent, contained, settled inside the system: the precise opposite of the other cards' *"what is it that you seek?"*
 
-One infomercial throwaway holds the entire consumerism-versus-seeker argument. It points straight at [[The Spectacle]], [[Consumption]], and [[The Algorithm]]. And — this is the part that's almost too neat — the pun isn't an interpreter's invention. It's grounded in Roy's own Instagram diary from around 2020, written after watching *"a documentary on A.I. merging with humans"*: *"I am holding a device currently transmitting 1's and 0's that you are reading and something labeled content. Are you content?"* The card is Roy's own joke, formalized.
+One infomercial throwaway holds the entire consumerism-versus-seeker argument. It points straight at [[The Spectacle]], [[Consumption]], and [[The Algorithm]]. And — this is the part that's almost too neat — the pun isn't an interpreter's invention. It's grounded in Roy's own Instagram diary from around 2020, written after watching *"a documentary on A.I. merging with humans"*: *"I am holding a device currently transmitting 1's and 0's that you are reading and something labeled content. Are you content?"* ([[Public Posts]]) The card is Roy's own joke, formalized.
 
 ## Where it appears
 

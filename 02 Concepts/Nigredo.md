@@ -62,7 +62,7 @@ Nigredo isn't named on a lyric sheet. It surfaces as a *texture* — fire, buria
 
 **The VITRIOL motto (TikTok, 2026-01-15).** This is the single most direct public anchor. Roy's own caption reads, in full: *"Visita interiora terrae, rectificando invenies occultum lapidem,"* tagged **#welcometothecircus.** It's the classic alchemical **VITRIOL** acrostic — *"Visit the interior of the earth; by rectifying you will find the hidden stone."* The descent-into-darkness-to-find-the-stone formula, *which is nigredo,* attached by Roy himself to the Circus material. You cannot ask for cleaner evidence that the artist is standing inside this tradition on purpose.
 
-**The *"I'm 33"* board.** Roy's own spreadsheet/board (a citable primary artifact) carries the *solve/coagula* law in his words (see Advanced reading above), the money note — *"Energy and intelligence/knowledge can be transmuted by appropriate alchemy into money"* — and, tellingly, a concept-album tracklist built as an outright Hermetic descent.
+**The *"I'm 33"* board.** Roy's own spreadsheet/board (a citable primary artifact, [[Public Posts]]) carries the *solve/coagula* law in his words (see Advanced reading above), the money note — *"Energy and intelligence/knowledge can be transmuted by appropriate alchemy into money"* — and, tellingly, a concept-album tracklist built as an outright Hermetic descent.
 
 **Happy Face (2020 video).** On-screen text years before any of this is staged: *"We are burning the old world down to the ground… out of the fire something new is being birthed. This is the death of my generation,"* with **DEATH OF MY GENERATION** flashing in repeat. That's the alchemical blackening — burn it down, birth something new — printed on a card in 2020, long before the same gesture becomes a literal fire.
 
@@ -89,7 +89,7 @@ Worth saying plainly, because the material is genuinely funny and the funniness 
 And [[Sir Lucius]] himself wears the trickster-surface of the externalized shadow: the green-apple emoji mark 🍏, the 🗡🍏 signature, knight armor with a finger-to-lips shush — playful iconography riding a genuinely dark figure. The clown is how the blackening gets you to keep watching.
 
 > [!note]- Advanced reading — the sterile-banana joke, and not inflating it
-> Roy's gloss on the *Bananas* prop — a winking *"most bananas are sterile and cannot reproduce by seed ;)"* about Cavendish clones — is a real one-liner about a real fact (the sterile loop: light you can hear but can't inherit). Kept as fact, with a self-imposed caution: don't inflate a *";)"* aside into cosmology. The joke is grounded; the doctrine you might build on it is not.
+> Roy's gloss on the *Bananas* prop — a winking *"most bananas are sterile and cannot reproduce by seed ;)"* (IG, [[Public Posts]]) about Cavendish clones — is a real one-liner about a real fact (the sterile loop: light you can hear but can't inherit). Kept as fact, with a self-imposed caution: don't inflate a *";)"* aside into cosmology. The joke is grounded; the doctrine you might build on it is not.
 
 ## Connections
 

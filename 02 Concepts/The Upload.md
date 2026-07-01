@@ -42,8 +42,8 @@ He even weighs it out in a literal **pros-and-cons matrix**, and the comedy is i
 ## Where it appears
 
 - **The ARG manifesto** ([pay-attention.jagwartwin.com]) — the public first-person pitch and the body-parts mint. *"a digital version of 'me' can be a 24/7 influencer."*
-- **The *"I'm 33 this year"* board** — Roy's own consciousness spreadsheet, posted on his birthday; the *"How to upload myself to the internet"* tab and the full operation.
-- **Public @JagwarTwin tweets, 2022** — *"I'm going to figure out how to upload my consciousness to the internet"* (Apr 6); *"Who's coming with me?"* (Apr 8); and the Apr 24 cipher tweet (below).
+- **The *"I'm 33 this year"* board** ([[Public Posts]]) — Roy's own consciousness spreadsheet, posted on his birthday; the *"How to upload myself to the internet"* tab and the full operation.
+- **Public @JagwarTwin tweets, 2022** ([[Public Posts]]) — *"I'm going to figure out how to upload my consciousness to the internet"* (Apr 6); *"Who's coming with me?"* (Apr 8); and the Apr 24 cipher tweet (below).
 - **[[Online]]** (2022, *33*, track 1) — the released surveillance / clone / upload-engine; Roy's gloss: *"Internet is like a web, and we're the spider's food."*
 - **[[The Watchers]]** (2024) — the net-as-Eye plus *"I'm afraid I'm a clone."*
 - **[[City of Angels]]** ([[Lucius Lullaby (album)|Lucius Lullaby]]) — *"never gonna die… live forever, godlike."*

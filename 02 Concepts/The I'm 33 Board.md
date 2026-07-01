@@ -33,7 +33,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 It reads less like a to-do list than like a private cosmology that escaped its filing system — page after page mapping the structure of a self, drawn from a wide stack of mystical and philosophical sources and stitched into one picture. The title is just Roy's age: thirty-three, the year, by his own framing, that *"a switch flipped"* and the number came to *"represent peace within and without."* (Everything else 33 supposedly means — Christ's age, the vertebrae, 33⅓ rpm, the Tree of Life's ten spheres plus twenty-two paths — is resonance the world generates around the number, not Roy's stated intent. The board is the receipt for what he actually meant.)
 
-It is also not a secret. Roy has put it in front of the public twice: once in 2022 as the *"Spreadsheet Map"* drop in the [[Hall of Mirrors]] ARG, tweeting *"I'm dropping a spreadsheet with a roadmap and music nft hidden in it,"* and again on his 2026 birthday, posting an image of the board captioned simply *"Happy birthday."* The same vocabulary turns up all over the music. This is the document the rest of the world quietly cites.
+It is also not a secret. Roy has put it in front of the public twice: once in 2022 as the *"Spreadsheet Map"* drop in the [[Hall of Mirrors]] ARG, tweeting *"I'm dropping a spreadsheet with a roadmap and music nft hidden in it,"* and again on his 2026 birthday, posting an image of the board captioned simply *"Happy birthday."* ([[Public Posts]]). The same vocabulary turns up all over the music. This is the document the rest of the world quietly cites.
 
 ## How it works
 

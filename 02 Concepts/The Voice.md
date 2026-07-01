@@ -62,7 +62,7 @@ Short of an exhaustive list, these are the songs, videos, and posts that establi
 - **[[Hell of a Night Pt. 2]] (The Hallelujah Stickup)** (2018) — voice as weapon *and* survival mechanism; the explicit question *"who controls the voice?"*
 - **[[Superhuman]]** (2018) — the borrowed Chaplin voice (*Great Dictator*, 1940).
 - **[[Online]]** (2022) — the oscillating captured-human / machine voice (*"the voice inside that sounds like you"*).
-- **Roy's @JagwarTwin posts (2025–26)** — *"Silence is the language of God"; "Understanding is only understood in silence"; "The mind is the slayer of the real / We must slay the slayer."*
+- **Roy's @JagwarTwin posts (2025–26)** ([[Public Posts]]) — *"Silence is the language of God"; "Understanding is only understood in silence"; "The mind is the slayer of the real / We must slay the slayer."*
 - **[[Honey Podcast]] S2E7** — Roy on the authentic self versus the edited one: making songs *"the record label executive might like,"* versus *"I feel this and I need to say this."* On masks: *"we wear these kind of masks to try to fit in."*
 - **Roy IG Live** (12 Labours of Hercules, ~2026) — the *"third voice"* (see below).
 

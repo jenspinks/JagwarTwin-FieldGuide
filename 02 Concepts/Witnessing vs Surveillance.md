@@ -59,7 +59,7 @@ It also has siblings down the registers. [[Communion vs Spectacle]] is the same 
 
 **[[Not Your Homie]] (2025, *Lucius Lullaby*)** fuses both poles in one body: *El Roi* inked on the throat, *"you don't know me"* in the mouth. The name of true seeing worn on the very organ that insists no one sees him.
 
-**[[Welcome to the Circus]] (2026)** stages the audience as the show's product: *"take your seat, scream and shout,"* *"they love it when you lose control,"* *"did you like the show?"* Lucius later confesses authorship of the whole apparatus on camera — *"the algorithm, baby"* (*The Interview*, EP3).
+**[[Welcome to the Circus]] (2026)** stages the audience as the show's product: *"take your seat, scream and shout,"* *"they love it when you lose control,"* *"did you like the show?"* Lucius later confesses authorship of the whole apparatus on camera — *"the algorithm, baby"* ([[The Interview]], EP3).
 
 **[[Pay Attention (feat. little luna)]] (2022, on *33*)** personifies Attention itself as a speaking power that hands out desire and harvests awareness — *"eyes all around my head,"* *"behind the Empires that rise / what they televise is just my disguise."* Its call-and-response, *"What's my name? / Attention!"*, makes the act of answering *into* the act of paying. The song collects its own toll.
 

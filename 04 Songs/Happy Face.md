@@ -66,7 +66,7 @@ A few claims that cut across the whole song.
 
 ## Characters
 
-- [[Sir Lucius]] — in the theatrical canon he claims the song **by name** (*"happy face, bad feeling… hundreds of millions of streams. Those are me. You need me"*) and self-identifies as *"the algorithm, baby."* In EP1 he delivers the boast as a **smug villain taking a bow** — the flex, not the confession — and the childish laughter under EP3 heightens the gag. *Happy Face* is his signature commercial proof — the algorithm's product. *(A character's on-screen claim, not a statement about the song's real author.)*
+- [[Sir Lucius]] — in the theatrical canon he claims the song **by name** (*"happy face, bad feeling… hundreds of millions of streams. Those are me. You need me"*) and self-identifies as *"the algorithm, baby."* In EP1 ([[The Interview]]) he delivers the boast as a **smug villain taking a bow** — the flex, not the confession — and the childish laughter under EP3 heightens the gag. *Happy Face* is his signature commercial proof — the algorithm's product. *(A character's on-screen claim, not a statement about the song's real author.)*
 - [[Roy]] — the sincere happiness-wish underneath, inverted into a mask; the legal co-writer, and the first-person narrator of the origin, the experiment, and the method.
 - [[The Algorithm]] — not a metaphor here but the **named author** in the theatrical frame; the predictive machine selling performed happiness.
 - [[The Crowd]] — the timeline that issues the command (*"telling you… how to be"*); the audience the mask is worn *for.*

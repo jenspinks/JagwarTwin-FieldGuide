@@ -75,7 +75,7 @@ The silent-Lucius end-tag: [[The Watchers]] (~2025, closes on the white-face clo
 
 The lyric-choreographed LL visualizers: the [[Bad Feeling]] *Lucius Lullaby* visualizer (~June 2026) and [[Great Time to Be Human]] (~late May 2026).
 
-The public culmination — the shadow taking the mic as a real-world event: the *"Stop Sir Lucius"* flyer-and-banner campaign at the March 2026 album release, and Lucius's premiere speech, a public video in which he *"leaves the music industry with one line"* (youtu.be/aCftmfU_YpA, 2026-03-23).
+The public culmination — the shadow taking the mic as a real-world event: the *"Stop Sir Lucius"* flyer-and-banner campaign at the March 2026 album release, and Lucius's premiere speech, a public video in which he *"leaves the music industry with one line"* ([[Public Posts]], youtu.be/aCftmfU_YpA, 2026-03-23).
 
 The Circus also got *staged in a room*. The "Live Underground" cards aren't just title sequences — they front a real footage series shot at the BMRC underground-garage shows (the May 2026 night was announced on X), production rigged specifically to record the *crowd's* voices, with *Bounce*, *Welcome to the Circus*, and *Lucius Lullaby* in the setlist. The first public artifact is the *"bounce (Live Underground)"* reel, captioned *"who's coming to the next one?"* — the same parenthetical crowd-echo the title cards render in typography, now performed by an actual crowd in an actual basement. The events are public; the rooms themselves stay closed.
 
@@ -94,7 +94,7 @@ The Circus also got *staged in a room*. The "Live Underground" cards aren't just
 
 > [!note]- Advanced reading — the fire-tag's five layers (Lucifer, the burning mind, a counterfeit Pentecost)
 > The closing fire of *Bad Feeling* reads on five simultaneous layers, and they stack rather than choose:
-> 1. **Lucifer / lux-ferre** — the light-bearer literally carrying the light; the morning-star (Venus, Netzach) as herald. Roy's own public aphorisms gloss the figure: *"the brightest lights cast the deepest shadows"* (the herald and the shadow are the same source) and *"nothing is evil in the beginning"* (the shadow as power not yet recognized, not a thing born wrong) — the accumulation doctrine, in his words, behind the man holding the flame.
+> 1. **Lucifer / lux-ferre** — the light-bearer literally carrying the light; the morning-star (Venus, Netzach) as herald. Roy's own public aphorisms ([[Public Posts]]) gloss the figure: *"the brightest lights cast the deepest shadows"* (the herald and the shadow are the same source) and *"nothing is evil in the beginning"* (the shadow as power not yet recognized, not a thing born wrong) — the accumulation doctrine, in his words, behind the man holding the flame.
 > 2. **The mind on fire** — [[Sir Lucius]] is the mind divorced from the heart, and it is the *heads* that burn. The organ of intellect is the thing alight.
 > 3. **A counterfeit Pentecost** — tongues of fire descending on the head (Acts 2), inverted into a false spirit-fire.
 > 4. **The Circus's ring of fire** — the carnival's literal hoop, the spectacle's hazard made into ornament.

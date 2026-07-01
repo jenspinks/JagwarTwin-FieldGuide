@@ -77,7 +77,7 @@ Then there's the substrate *Roy describes in his own voice* — the part where t
 - [[Gnosticism - The World as Trap]] — the demiurgic *"you're not a real boy"* misnaming may be inherited substrate (a complete Pinocchio/authenticity source) rather than encoding.
 - [[Hermeticism - As Above So Below]] — provenance guard in practice: the *Kybalion* is board-grounded; off-board correspondences stay tentative.
 - [[The Mirror]] — Inherited Substrate is named as the guard against over-claiming the Lacan/Narcissus resonances. *Overlap is not proof of deliberate cross-encoding.*
-- [[The Banana]] — *real light in a sterile vessel: you can hear the song, you cannot inherit it* — the sterile-clone Loop as a failure of transmission. A public reel does the cosmology in one winking botany note — *"most bananas are sterile and cannot reproduce by seed ;)"* — where the *;)* is carrying the whole point.
+- [[The Banana]] — *real light in a sterile vessel: you can hear the song, you cannot inherit it* — the sterile-clone Loop as a failure of transmission. A public reel ([[Public Posts]]) does the cosmology in one winking botany note — *"most bananas are sterile and cannot reproduce by seed ;)"* — where the *;)* is carrying the whole point.
 - [[The I'm 33 Board]] — the explicit substrate document: Fibonacci, gematria, the *Kybalion,* Walter Russell's octaves, and more, all itemized in Roy's own curation.
 
 > [!note]- Advanced reading — the full tier ladder (and the C.R.E.A.M. that got ruled out)

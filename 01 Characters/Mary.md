@@ -55,7 +55,7 @@ And in [[#1 Champion (la Conquistadora)]], she's named outright for the only tim
 
 This is the line the whole figure pivots on, and it's a diagnosis. The narrator can read a **halo** (status, holiness, the sign of the sacred) and he can read a **dress** and a body (desire, surface, the usable image). What he cannot read is the **head** — the face, the person, the presence that refuses to collapse into something he can consume. He has exactly one instrument, the consuming eye, and it works on everything except the one thing that matters.
 
-The visualizer makes the same confession even more nakedly. Roy's public reel for the song carries a caption signed *— El Roy*: *"I saw her divinity, but not the one who held it, or where it led. I followed anyway, white rose in my left hand, and stepped off the ledge."* Same failure, twice stated: he perceives the holy *sign* but not the *person who bears it*. He sees the divinity and not the one holding it.
+The visualizer makes the same confession even more nakedly. Roy's public reel for the song carries a caption signed *— El Roy* ([[Public Posts]]): *"I saw her divinity, but not the one who held it, or where it led. I followed anyway, white rose in my left hand, and stepped off the ledge."* Same failure, twice stated: he perceives the holy *sign* but not the *person who bears it*. He sees the divinity and not the one holding it.
 
 So Mary's facelessness isn't coyness. It's the whole point. She is the presence that cannot be turned into a surface — and the failure to see her is a failure of the seer, not of her strength.
 
@@ -92,7 +92,7 @@ Two more things fall out of this. First: that *"me"* in *"know 'bout me"* is **M
 
 Which is the best joke in the whole catalogue: the champion doesn't die to a weapon or a curse. He dies to **multiplication tables.** *A-B-C, one-two-three* — cosmic creation-grammar delivered like a kindergarten chant. (Why the count is lethal is worth its own unpacking; see the Advanced reading below.)
 
-And then the trap springs on its own bait. In the visual series (*The Interview*, EP7), [[Sir Lucius]] forces Roy to sit and listen to the album, hits this song, recognizes the boast, and proudly claims it: *"another song about ME."* He's so busy enjoying the chorus that he never hears the verse where Mary drops the character dead. The ego identifies with the anthem — and the anthem is the thing that executes the self that couldn't resist identifying with it. He claims the crown in the exact line where he loses it. The song works *because* the self it indicts cannot keep its hands off it.
+And then the trap springs on its own bait. In the visual series ([[The Interview]], EP7), [[Sir Lucius]] forces Roy to sit and listen to the album, hits this song, recognizes the boast, and proudly claims it: *"another song about ME."* He's so busy enjoying the chorus that he never hears the verse where Mary drops the character dead. The ego identifies with the anthem — and the anthem is the thing that executes the self that couldn't resist identifying with it. He claims the crown in the exact line where he loses it. The song works *because* the self it indicts cannot keep its hands off it.
 
 ## The two blessings of Ballerina Boy
 
