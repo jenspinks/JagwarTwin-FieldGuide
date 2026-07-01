@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *33* (2022, Big Loud Rock / Big Loud Records) — **track 2 of 10** · 3:33
 > **Written by** Roy English & Matt Pauling · **Produced by** Roy English & Matt Pauling
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=ZdK1oM8t_dc)
 
 You could put *It's Your Time* on a stadium screen behind a "you got this" and nobody would blink — *learn to fly, don't give up, you got just one life to live.* That's exactly the disguise. Underneath the pep talk runs a small, serious treatise on the soul falling into a body and forgetting where it came from, and the wink is the size of the gap between the two. The chorus tells you it's your moment to *become.* The verses, if you actually read them, tell you it's your moment to *remember.*
 

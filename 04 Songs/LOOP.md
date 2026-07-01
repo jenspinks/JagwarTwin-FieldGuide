@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English (sole — Composer & Lyricist) · **Produced by** Jagwar Twin & Ryan Daly
 > **Mixed by** Jeff Ellis · **Mastered by** Dale Becker · Jagwar Twin (samples, keys), Ryan Daly (acoustic guitar, keys)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=oK3oq04p8Pw)
 
 The song that says the quiet part out loud. Roy spent months of his feed hashtagging his own rollout **#stuckinaloop** — marketing the single with the exact condition the single diagnoses — and the joke is load-bearing: LOOP is the closed-system framework that runs under the whole project, finally handed a title. It opens the publicly named three-single chain — **LOOP → [[Not Your Homie]] → [[Welcome to the Circus]]** — which the press framed as two roads out of the machine: *one path seeks clarity beyond the system, while the other chooses to master it from within.* LOOP is the clarity road. The light side. The one that doesn't work yet.
 

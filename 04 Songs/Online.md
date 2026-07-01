@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *33* (2022, Big Loud Rock) — **track 1 of 10** (the opener) · 2:50
 > **Written by** Roy English, Matt Pauling, Kevin Bard & Mike Daly · **Produced by** Roy English & Matt Pauling
 > **Full lyrics:** [Genius](https://genius.com/Jagwar-twin-online-lyrics) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=nVlOuYafs7E)
 
 *Online* opens the album, and the choice matters: *33* begins on a surveillance-jingle. Before there's a mask, there's the machine that makes one necessary — face captured, brain infiltrated, the self flattened into static and metabolized like prey in a web. And the whole horror comes gift-wrapped as an earworm about how good it feels to be online, which is the joke and the thesis at once. Roy's own verdict on it: *"so fun and so ridiculous."* He's right on both counts, and the song only works if you hold them together.
 

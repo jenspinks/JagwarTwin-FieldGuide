@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *Subject to Flooding* (2018, Atlantic) — **track 11 of 13** · the explosive escalation of [[Hell Of A Night]] (track 10)
 > **Written by** Roy English & Michael Morgan · **Produced by** Roy English, Michael Morgan & Matt Pauling · **Executive Producer** S1 (Larry Griffin Jr.) · **Mixing** Jeff Ellis · **Mastering** Chris Gehringer
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=1OLxY8Mvwbg)
 
 The most gleefully unhinged thing on the debut, and — read a certain way — one of the saddest. The title says it all before a note plays: *hallelujah* welded to *stickup*, church praise bolted onto armed robbery, and the song makes the collision literal. This is a heist scene with a choir underneath it. The comedy is deadpan blasphemy; the ache under the comedy is that, in this world, the only way left to get anything holy is to take it at gunpoint.
 

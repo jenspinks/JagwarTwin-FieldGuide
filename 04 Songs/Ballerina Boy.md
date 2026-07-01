@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Release:** standalone single, **June 13 2025** — a 3-track release (~9 min; the other two tracks aren't yet pinned in the vault), plus a same-day Dolby Atmos mix. Label: ℗ 2025 Big Loud Rock, under exclusive license to Mercury Records (UMG). Not on [[Lucius Lullaby (album)]].
 > **Written by** Roy English (sole composer / lyricist) · **Produced, vocal-produced & string-arranged by** Jagwar Twin · background vocals **MERCY** · strings, guitars and a small orchestra's worth of Luke Villegas (guitar / bouzouki / autoharp / lute), Dan Adams (violin), No Love (cello).
 > **Lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=qSPLVLWMG-k)
 
 ## At a glance
 

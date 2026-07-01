@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Produced by** Roy English & Matt Pauling · **Mixed by** Adam Hawkins · **Mastered by** Chris Gehringer · **Exec. producer** S1
 > **Interpolates** Johnny Mercer, "Dream (When You're Feeling Blue)" (1944)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=WHVkQQvCKh8)
 
 The doubled title is the whole idea in two words. *Dream / Dream* names the song twice because it *is* two songs: Johnny Mercer's 1944 jazz standard underneath, and Jagwar Twin's new anthem laid over the top. An awakening-song that spends three minutes commanding you to dream turns out to be built on a dream someone else already dreamed — handed down from the American songbook, not authored here. That's not a flaw. In this catalogue it's the point, and the whole later arc grows out of it.
 

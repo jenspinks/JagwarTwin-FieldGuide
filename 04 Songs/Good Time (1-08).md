@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Release:** standalone single, September 29, 2023 (Big Loud / Big Loud Rock) — **no album** · 2:36 · visualizer September 28, 2023 · official music video October 11, 2023
 > **Written by** Roy English, Lucky West, Elijah Noll & Josh Dun (all credited Composer + Lyricist per Spotify) · **Produced by** Roy English, Lucky West & Elijah Noll
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=Jn_8pvZOFOA)
 
 Some songs describe a myth. This one *is* the origin event: it's the earliest point in the whole catalogue where Sir Lucius — face paint, armor, *"I'm a mastermind"* and all — walks in fully assembled. Roy has told the origin himself, on camera, as a dream, and it is one of the strangest and funniest artist-origin stories you'll hear: it involves Drake in a minivan, a lightning-bolt semi-truck, an accordion, and a man who wakes up, checks his phone, and finds it is exactly **1:08** in the morning. That time is the title. Everything else follows from it.
 

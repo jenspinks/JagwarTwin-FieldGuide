@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written & produced by** Roy English & Matt Pauling
 > **First released** December 11, 2020 as an independent single (Strange Theory) — *before* the album
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=VrQju5rBPMg)
 
 *Happy Face* is the catalogue's breakthrough — its most-streamed track by a country mile, the pre-album single that introduced most people to Jagwar Twin. It is also, underneath the earworm, the project's cleanest portrait of toxic positivity as a *product*: a song that instructs you to smile while quietly grieving what the smiling costs.
 

@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English & S1 *(S1 = Larry Darnell Griffin Jr.)*
 > **Produced by** Roy English, Michael Morgan & S1 · **Executive producer** S1 · **Mixed by** Jeff Ellis · **Mastered by** Chris Gehringer
 > **Full lyrics:** search [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=JCG99pV9mXA)
 
 ## At a glance
 

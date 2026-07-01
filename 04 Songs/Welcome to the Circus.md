@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Edan Dover · Cody Tarpley · Roy English (also choir arranger) · Rachel Kanner
 > **Produced by** "Jagwar Twin" · Edan Dover · Cody Tarpley — **Mix** Roy English — **Master** Dale Becker
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=BouRN2QuXV8)
 
 This is the title card of the 2026 album. By track 4 the problem has been named and the mechanism described: the [[The Circus|Circus]] is up, the ringmaster is speaking, and the listener can no longer claim not to have been warned. A chirpy carnival barker delivering cannibalism — menace performed as fun — it is the confession that makes the rest of the record possible.
 

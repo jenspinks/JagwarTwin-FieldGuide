@@ -18,6 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Video** dir. Emily Elizabeth Thomas, shot in Joshua Tree, premiered by *PAPER* · **Remixes (~2019)** White Poppy · Big Data · Badhabit (their videos carry the [[The Manifesto Cards|manifesto-card]] device + the hamsa sigil — see Source notes)
 > **Live** performed for Ones To Watch's *Live From the Rooftop* (Feb 2023)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=EXotMqyJb4c)
 
 ## At a glance
 

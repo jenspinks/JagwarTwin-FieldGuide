@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album engineering:** Chris Gehringer (master) · Jeff Ellis (mix) · S1 / Larry Griffin Jr. (exec.)
 > **Video (2019):** dir. Fabien Montique & Drew Villani · **Premiered by** Zane Lowe / Beats 1
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=ZEUGFLvvl1I)
 
 ## At a glance
 

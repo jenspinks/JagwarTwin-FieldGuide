@@ -17,6 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Produced by** Roy English & Ryan Daly · Mix: Jeff Ellis · Master: Dale Becker
 > **Drums:** Josh Dun (Twenty One Pilots)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=aPxFKQfv-Co)
 
 Here is a song that grew out of Roy digging through his own ancestry — German, Polish, Slavic roots, accordions and tubas, *"we need some oompa shit."* The order matters, and it runs the way you wouldn't guess: the **oom-pah came first.** The Wonka / Oompa-Loompa frame is *downstream* of that ancestral-music jam — the accordion-and-tuba idea arrived, and only then did it resolve into the chocolate factory. Wonka is where the oom-pah landed, not the seed it grew from. And somehow that arrived at a nursery sing-along about dread that pulled a million streams in nine days and landed on Top 40 radio. The candy is the bounce; the medicine is the warning. It's [[Great Time to Be Human]]'s smile-with-horror-underneath run the other way: not horror forced *through* the smile, but the smile that can't quite suppress the bad feeling.
 

@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *33* (2022, Big Loud Rock) — **track 7 of 10** · 3:48
 > **Written by** Roy English & Matt Pauling · **Produced by** Matt Pauling (sole)
 > **First released** 2021 as a pre-album single · **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=2hJvRIhagf8)
 
 First put out as a 2021 single with its own ARG microsite, then folded in as the pivot point of *33*. It's the album's inward correction: the moment the record stops diagnosing the attention economy and hands the whole problem to the listener. And it's unusually direct about it — Roy has said, in his own words, that this is where his central idea *"is said very plainly."*
 

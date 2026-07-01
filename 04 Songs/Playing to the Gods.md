@@ -17,6 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Vocals** sir lucius · ROY · background vocals MERCY (Mercedes Colletta Britton)
 > **Players** Roy English — piano, synth, melodeon, bass, *choir arranger* · Matt Pauling — cello
 > **Lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=rriJq7xDc5I)
 
 One of the three shortest things on the record — and, briefly, one of the most misunderstood. It got filed early as an instrumental (the same mislabel that hit [[SOL]] and [[The Circle (Lucius Version)]]), which it isn't: it's a short *vocal* mantra, the lyric verified complete against Apple Music's synced text. The brevity isn't a placeholder. It's the whole design. A survival-spell doesn't need a second verse.
 

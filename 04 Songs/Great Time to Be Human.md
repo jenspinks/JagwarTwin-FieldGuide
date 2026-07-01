@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English, Ryan Spraker, Tom Peyton, Sean Van Vleet & Josh Dun — **five writers, the most-collaborative track on the record** · **Produced by** Roy English (Prod/Mix) & Ryan Spraker (Prod/Rec) · mastered by Dale Becker.
 > **Vocals** credited to *"sir lucius"* **and** *"ROY"* — the dual character-voice device.
 > **Full lyrics:** [Genius](https://genius.com/search?q=Jagwar%20Twin%20Great%20Time%20to%20Be%20Human) · [streaming](https://open.spotify.com/search/Jagwar%20Twin%20Great%20Time%20to%20Be%20Human)
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=TpQGUpTZlJU)
 
 This is one of the oldest songs the album owns and, arguably, its clearest thesis statement in miniature. It arrives early in *Lucius Lullaby* as the [[Happy Face]] mask scaled from a single face to an entire species — a whole civilization agreeing to grin. It sits between the song that *confesses* the lie and the song that *instructs* the mask, and shows the mask become a group activity.
 

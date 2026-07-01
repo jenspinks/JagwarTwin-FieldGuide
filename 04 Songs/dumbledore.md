@@ -17,6 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Mixed by** Ryan Daly · **Mastered by** Dale Becker, Brandon Hernandez, Katie Harvey, Adam Burt
 > **Performers** include Roy English (vocals), **Laboratorium Pieśni** (a Polish folk vocal ensemble), and OmegaSign & Ryan Daly (drum programming / keyboards).
 > **Full lyrics:** [Genius](https://genius.com/search?q=Jagwar%20Twin%20dumbledore) · streaming · Spotify track `12FvD79X6JEichJkSkziEx`
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=rJLr3JBs32s)
 
 The song Roy had to fight his own label to release — and the fight became half the meaning. The other half is a piece of wordplay that eats itself: *Dumble-Dumble-Dumbledore* decays into *dumb, dumb, dumb… go dumb,* a wisdom-name flattened into a chant. It's the funniest premise in the catalogue and one of the most serious, and it refuses to pick.
 

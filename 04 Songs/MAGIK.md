@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *MAGIK* EP (2025, Big Loud Rock) — a 4-track EP, released **May 16, 2025**
 > **Written by** Nick Bailey · John Byron · Roy English · **Produced by** Jagwar Twin & Ryan Daly (both also recording engineers) · mixed by Jeff Ellis · mastered by Dale Becker
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=E8_rynO3E3c)
 
 The tender one. In a catalogue full of masks, threats, spectacle and figures arguing with themselves across tables, MAGIK is the song that puts all of that down and just *tells someone they're already enough.* It opens the era that becomes the [[Lucius Lullaby]] descent — and it reads, in hindsight, like the light the album then spends its whole runtime watching [[Sir Lucius|Lucius]] try to put out.
 

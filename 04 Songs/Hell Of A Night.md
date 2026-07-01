@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English, Michael Morgan & Matt Pauling · **Produced by** the same three
 > **Mixed by** Jeff Ellis · **Mastered by** Chris Gehringer · **Exec. producer** S1 (Larry Griffin Jr.)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=6UqLc-9Nod8)
 
 ## At a glance
 

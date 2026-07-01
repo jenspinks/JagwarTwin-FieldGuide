@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Billed as** Jagwar Twin & Sir Lucius · **Written by** Roy English, Matthew Pauling & Sia (Sia Furler)
 > **Produced by** Roy English & Matthew Pauling · **Mastered by** Dale Becker (444 Hz)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=yLFdCdSzhb0)
 
 Here is one of the catalogue's quiet miracles: a song about being too strange to belong that turns out to be co-written with **Sia** — one of the biggest names in pop — and born, per Roy, from a real thing Sia actually said to him when he was low. The line that opens the whole album's one bright track came in as a gift from a friend. It is exactly the sort of receipt that makes the myth feel less like a costume and more like a diary.
 

@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *Subject to Flooding* (2018) — **track 12 of 13**, the penultimate song, right before the closer [[Shine]] · 3:12
 > **Written by** Roy English, Matt Pauling, and Sarah Vaughan *(the Vaughan credit is a sampled spoken recording — see below — not co-written lyrics)* · **Produced by** Roy English & Matt Pauling · **Mixed by** Adam Hawkins · **Mastered by** Chris Gehringer · **Executive producer** S1
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=JnyQm8fPaM8)
 
 The album's deepest submersion — track 12 of 13, positioned so the last light in *Subject to Flooding* has to be *chosen*. Everywhere else on the record the water is a feeling: shame, poverty, fame, false friends. Here the water turns out to be **time itself**, and the song is the moment the speaker stops swimming and looks down.
 

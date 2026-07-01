@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English, **Joni Mitchell**, Matt Pauling · **Produced by** Roy English & Matt Pauling
 > **Interpolates** Joni Mitchell's *"Woodstock"* (*Ladies of the Canyon*, 1970) — the borrowed element is most plausibly musical, not the famous lyric
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=eY4_OAovs1E)
 
 This is the heart of *33* — the album's exact midpoint, and the place where the record first stops and asks the one question the whole thing is about: *"do you know who you are?"* It's also the song with the most extraordinary paper trail in the catalogue. Joni Mitchell is a credited co-writer, and Roy has told the story of how that happened, which involves a chain of friends-of-friends, a flatly-refused clearance, and a comparison to Janet Jackson. We'll get there.
 

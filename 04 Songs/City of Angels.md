@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English & Matthew Pauling · **Produced by** Roy English & Matthew Pauling · **Mastered by** Dale Becker
 > **Vocals:** *sir lucius* + *ROY* — the shadow is co-credited as a vocalist on the fame song
 > **Lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=-YDah7Ausr8)
 
 ## At a glance
 

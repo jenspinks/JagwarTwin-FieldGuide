@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English (sole) · **Produced by** Roy English (also recording, vocal production, mix; choir arrangement) · master by Dale Becker
 > **Performers:** ROY (vocals, background) · sir lucius (vocals) · Roy English (piano, synth) · MERCY [Mercedes Colletta Britton] (background) · Luke Villegas (guitar) · Dan Adams (violin, viola) · "No Love" (cello)
 > **Lyrics:** [Genius](https://genius.com) · streaming *(Apple Music lists "No Lyrics Available" — see below)*
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=8fduSyMrP2E)
 
 The album named for the shadow gives its last word to the one song the shadow spent the whole record trying to suppress. And when it finally plays, there are no words in it — just voice.
 

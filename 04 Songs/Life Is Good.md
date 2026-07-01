@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Produced by** angelbaby · Jay Stolar · Jordan Palmer — **Vocals** angelbaby (with Jagwar Twin) · **Mixed by** Jeff Ellis · **Mastered by** Dale Becker
 > **Tuning** 444 Hz *(Roy: every Jagwar Twin song is tuned to it — "a healing frequency")*
 > **Full lyrics:** [Genius](https://genius.com/artists/Jagwar-twin) · [Spotify](https://open.spotify.com/track/6Y0j8yUF3rPSTrTtVEsCNh) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=Y9vm_C3tZYA)
 
 A nursery rhyme about the end of the world. That's the whole trick of it: a bright, three-minute sing-along that cheerfully reports the house is on fire and shrugs *"but at least we're having fun"* — and means both halves. It's the catalogue's forced-positivity thread caught in the act of growing up.
 

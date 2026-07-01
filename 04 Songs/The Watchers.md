@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English, Ryan Daly, Ryan Spraker, and Rockwell · **Produced by** Jagwar Twin, Ryan Daly, Ryan Spraker
 > **Interpolates** Rockwell's *"Somebody's Watching Me"* (Motown, 1984), credited · **Mix** Jeff Ellis · **Instruments of note** theremin, mellotron, accordion (Ryan Daly)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=iU2gT7Oi4yA)
 
 ## At a glance
 

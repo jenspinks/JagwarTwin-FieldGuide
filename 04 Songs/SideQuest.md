@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Engineering** — Ryan Daly (recording, mixing, programming); Roy English (second recording engineer) · **Mastered by** Dale Becker, Noah McCorkle, Katie Harvey & Adam Burt
 > **Sound & tuning** — Roy says the record is tuned to **444 Hz** ("healing frequency") and scored on a bespoke *"medieval synth"* built for him by teenage engineering.
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=pQ7EXbbPiNk)
 
 This is the funniest heartbreak song in the catalogue, and quietly one of the most disciplined. It takes an entire relationship, files it under *optional content*, and scores the humiliation with RPG vocabulary and astrology jokes. But under the swagger it's doing the thing the project does constantly — orienting a whole self around a false center — just, for once, at human scale, and played for laughs instead of cosmos.
 

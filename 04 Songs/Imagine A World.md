@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *33* (2022, Big Loud Rock) — **track 9 of 10** · 4:44
 > **Written & produced by** Roy English & Matt Pauling
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Spotify](https://open.spotify.com/track/2V4cBI8ipMsAEPlBC9PmB4)
 
 The album's capstone before the closer. *33* spends nine tracks diagnosing a world of attention-machines, false gods, and programmed thought — Online, Happy Face, and I Like to Party build that machine song by song — and here, one song from the end, it stops diagnosing and makes an offer: imagine your world, and while you're at it, notice you're the one writing it. It's the record's residual human appeal — the human pole answering the machine the rest of the album assembles. Everything the record has been circling — the designed God, the media conditioning, the self as author, the garden you can't find on a map — gets gathered up and handed forward to *The Circle*. It is the record at its most sincere and its most quietly booby-trapped, because one of the gods in its roll-call is a fraud, and the song knows it.
 

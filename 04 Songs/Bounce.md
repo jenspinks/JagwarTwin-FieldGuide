@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Produced by** Roy English · Ryan Daly · Bas van Daalen
 > **Performed by** sir lucius (vocals) · ROY (vocals) · Roy English (horn) · Ryan Daly (drums, bass, guitar, keys) · MERCY (background vocals)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=pgq2ApkIpgU)
 
 A two-minute party anthem that turns out to be a nervous breakdown wearing a very good hat. It sits deep in the album's back half — right after the false-immortality machinery of [[Playing to the Gods]], the replication-and-upload machinery of [[City of Angels]], and the bargain-enacted [[Not Your Homie]]. By this point in *Lucius Lullaby* the cost has already been shown; Bounce is what denial sounds like once you know better and keep dancing anyway.
 

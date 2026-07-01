@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Composers** (Apple Music): Charles Chaplin · Jeff Bhasker · Matthew Pauling · Roy English
 > **Sampled source:** Charlie Chaplin, *The Great Dictator* (1940), closing speech — verbatim
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=VtLIq1A-hAo)
 
 ## At a glance
 

@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English, tony esterly, Cici Ward · **Produced by** Roy English & tony esterly
 > **Vocals:** sir lucius · ROY — the dual character-vocalist credit device
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=vYD2r8Fein4)
 
 Here is the joke the whole song is built around, and it springs on its own bait. [[Sir Lucius]] hears the chorus, recognizes himself in it, and — in the theatrical [[The Interview|*Interview* series]] — triumphantly plays the track and announces *"this is another song about ME."* He is so busy enjoying the flex that he never hears the line where the woman singing it drops him dead. He claims the anthem, and the anthem dethrones him. It's the cleanest trap on the record, because the only ego that would fall for it is exactly the one the song indicts.
 

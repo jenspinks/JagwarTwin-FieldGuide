@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *33* (2022, Big Loud Rock / Big Loud Records) — **track 10 of 10**, the closer · 3:50 · released 2022-09-30
 > **Written by** Roy English (sole) · **Produced by** Roy English & Matt Pauling
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=MMGmDsjlC_g)
 
 This is the song Roy calls *"my favorite song that has ever come through me"* — note *come through me*, not *that I wrote* — and, separately, the first thing a new listener should hear: *"The Circle is Jagwar Twin's Genesis story."* It closes *33*, it is the origin story the whole catalogue is told from, and it is where two of the project's load-bearing symbols — the world on a string and the song hidden in the wings — are both born. It's distinct from the doctrine [[The Loop and the Circle]] (the worldview) and from the 2026 reworking [[The Circle (Lucius Version)]] (same name, no myth left in it). It links to both. It is its own page.
 

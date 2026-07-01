@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Voices** "sir lucius" · "ROY" (credited as two distinct vocalists) · **Background vocals** Charlotte Egner, Reagan Egner, Anika Noni Rose
 > **Instruments** Roy English — Music Box, Bass, Synth, Keyboard · Dan Adams — Violin
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Apple Music](https://music.apple.com/us/album/lucius-lullaby/1884525684)
 
 Here is the whole boss battle for the soul of the catalogue: the album's antagonist announces his conquest of its deepest doctrine with a forty-four-second wind-up toy. [[Sir Lucius]] — the mind severed from the heart, now a co-credited artist with his own streaming pages — opens *Lucius Lullaby* by taking the project's oldest sacred song and playing it back to you through a music box. He doesn't argue that the founding myth is false. He does something quieter and far more effective: he keeps its holy name, swaps out every word, and tucks you in.
 

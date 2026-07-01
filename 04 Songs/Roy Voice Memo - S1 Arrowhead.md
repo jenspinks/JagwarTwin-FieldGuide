@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Canonical title:** *Roy Voice Memo: S1 Arrowhead* (styled with a colon; filed here with a hyphen)
 > **Written by** Roy English & S1 · **Produced by** Roy English · **Executive producer** S1 · mixed by Jeff Ellis, mastered by Chris Gehringer
 > **Full text:** streaming (Spotify)
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=GMq7LRqy9u4)
 
 Most of *Subject to Flooding* is built. This one isn't — it's a real studio conversation, left on the record instead of edited out. The producer S1 catches Roy mid-fear and talks him through it, and somewhere in those forty-two seconds he happens to say the truest thing anyone says on the album, without knowing that's what he's doing. It's the one track with no persona, no orchestration, no bit — just two people, one of them scared. On a record about flooding, keeping the raw feeling *in* is the thesis enacted: he didn't dam it.
 

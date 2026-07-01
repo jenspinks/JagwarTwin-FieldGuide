@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Recording owner** (℗-line): Atlantic Recording Corporation / WEA International Inc.
 > Also released as **"Shine (Live In Studio)"** — standalone single, January 17, 2020, tied to a quarantine video project
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=8w-VYdUL3t8)
 
 ## At a glance
 

@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *Subject to Flooding* (2018) — **track 4 of 13** · Jagwar Twin's debut
 > **Written by** Essex · Roy English · S1 *(= Larry Darnell Griffin Jr.)* · **℗** Atlantic / WEA International
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=Q6dW4INbPbg)
 
 ## At a glance
 

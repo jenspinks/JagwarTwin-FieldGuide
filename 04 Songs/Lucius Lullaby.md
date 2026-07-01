@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English & David Burris · **Produced by** Roy English & Dave Burris
 > **Vocals** credited to two characters — *"ROY"* and *"sir lucius"* — separately from the human author. Background vocals: MERCY, Anika Noni Rose, Charlotte & Reagan Egner. Mastered by Dale Becker.
 > **Lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=MN-Zy1w3eLg)
 
 Everything in the Jagwar Twin mythology flows forward from this two-and-a-half-minute song. It is the deal being struck, the shadow making first contact, and the lullaby that pulls Roy off the edge by putting him under. The arc that runs from here toward [[SOL]], the Song of Love, is the arc of the entire project.
 

@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Featuring** little luna *(featured vocalist — not a credited writer or producer)*
 > *(Matt Pauling is 33's overall producer and recurring core co-writer; the album was mixed by Jeff Ellis.)*
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Spotify](https://open.spotify.com/track/3aG6SiL39KuC5wziOWgY67)
 
 ## At a glance
 

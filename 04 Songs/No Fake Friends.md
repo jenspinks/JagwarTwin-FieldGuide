@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English, Matt Pauling & S1 (Larry Griffin Jr.) · **Produced by** Roy English, Matt Pauling & S1 (exec. producer S1)
 > **Mixed by** Jeff Ellis · **Mastered by** Chris Gehringer · Atlantic
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=zxVBfKyvlY0)
 
 ## At a glance
 

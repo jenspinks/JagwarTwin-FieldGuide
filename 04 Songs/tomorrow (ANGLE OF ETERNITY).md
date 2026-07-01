@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Simon Oscroft, Evan Ambrose, Roy English, Mitchy Collins, Sam Price & Sunset Party (a six-way co-write; all six credited composer *and* lyricist)
 > **Produced by** Simon Oscroft, SAMESAME, Evan Ambrose & Roy English · **Mixed by** Jeff Ellis · **Mastered by** Dale Becker
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=CHke5ZlDVP4)
 
 ## At a glance
 

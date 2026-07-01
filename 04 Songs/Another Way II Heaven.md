@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *33* (2022, Big Loud Rock) — **track 8 of 10** · 4:25
 > **Written by** Roy English (sole) · **Produced by** Roy English & Matt Pauling
 > **Lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Spotify](https://open.spotify.com/track/3NN8oP3CLbYmQjizcGtu9s)
 
 The creation myth *underneath* *33*'s attention-economy critique — one of the core mythology texts in the catalogue. Roy wrote this cosmogony **twice**: the lyric is near-identical to a standalone poem on his public "I'm 33" board, so the creation-myth reading isn't a listener's projection — it's his own stated cosmology.
 

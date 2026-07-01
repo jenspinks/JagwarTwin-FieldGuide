@@ -16,6 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English & Matt Pauling · **Produced by** Matt Pauling (sole — Roy is *not* a listed producer here, one of only two such *33* tracks, with [[Down to You]])
 > **Music video:** dir. Kyle Vorbach, released August 6 2021
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=8pTaZLA1QVA)
 
 ## At a glance
 

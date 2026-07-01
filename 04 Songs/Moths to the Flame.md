@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Written by** Roy English (sole) · **Produced by** Roy English (production, recording, vocal production, mix, sound design) · **Mastered by** Dale Becker
 > **Performed by** sir lucius (lead vocal, spoken-word) · with ROY (vocal + BG) and MERCY (background vocals)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=tsmrgmXOimU)
 
 ## At a glance
 

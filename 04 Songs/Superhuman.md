@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *Subject to Flooding* (2018, Atlantic) — **track 6 of 13**
 > **Written by** Jeff Bhasker, Matt Pauling & Roy English · **Album production** incl. S1, Matt Pauling, Linus; mixed by Jeff Ellis; mastered by Chris Gehringer
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=2okBC6oxZ7o)
 
 One of the album's *oldest* seeds. Per Roy's own account of the record, "Superhuman" began with **Jeff Bhasker in Venice, California in 2012**, got worked on in **Haiti with Michael Brun**, and "really came together with **Linus in Lake Arrowhead**" — a six-year journey that explains the Bhasker writing credit and marks this as one of the earliest ideas on a 2018 album. Roy himself calls it a "deep cut": when a fan named it in their top-three Jagwar Twin songs, he lit up — *"even the superhuman deep cut!"* An artist delighted that someone reached past the singles for the album track nobody streams.
 

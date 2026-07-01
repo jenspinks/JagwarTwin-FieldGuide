@@ -14,6 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Album:** *[[Lucius Lullaby (album)|Lucius Lullaby]]* (2026, Big Loud Rock / Mercury) — **track 7 of 15** · 2:22
 > **Written by** Roy English & Ryan Spraker · **Produced by** — pending (Spotify per-track personnel not yet published; Dale Becker masters the album)
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Official audio (YouTube)](https://www.youtube.com/watch?v=vxJY_KHRx3k)
 
 ## At a glance
 

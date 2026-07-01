@@ -15,6 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Released:** as a pre-album single, **October 31, 2025** (Halloween)
 > **Written by** Roy English, Mercedes Colletta Britton (MERCY) & Dave Burris · **Produced by** Jagwar Twin & Dave Burris · **Mixed & vocal-produced by** Roy English
 > **Full lyrics:** [Genius](https://genius.com) · streaming
+> **▶ Listen:** [Visualizer (YouTube)](https://www.youtube.com/watch?v=dW_6VXrRkYE)
 
 This is the other half speaking openly. Where the rest of the album debates what to *do* with [[Sir Lucius]], here he simply takes the mic and demonstrates: vulnerability loses, spectacle wins, meaning is optional. And here is the horror the song is built to deliver — on his own metrics, he's right. The track went viral. The song about the machine rewarding a cartoon of a person was itself rewarded by the machine. Form and content shook hands.
 
