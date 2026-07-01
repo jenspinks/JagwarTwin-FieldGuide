@@ -16,7 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Role** — the heart-centered interpreter; the conscious self recovering the buried boy
 > - **First album** — *Subject to Flooding* (2018), as Jagwar Twin
 > - **Signs himself** — El Roy *("the God who sees me")*
-> - **Key symbols** — dove (Cygnus) · sword · heart · El Roy · the rose · the cross · [[The Mirror]]
+> - **Key symbols** — [[The Dove|dove]] (Cygnus) · [[The Sword|sword]] · heart · El Roy · [[The Rose|the rose]] · the cross · [[The Mirror]]
 > - **Links to** — Netzach / Venus — heart, love, beauty, devotion
 > - **Related** — [[Sir Lucius]] · [[Mary]] · [[The Jaguar]]
 
@@ -27,7 +27,7 @@ Roy is the center of gravity in the Jagwar Twin world. He's the conscious, heart
 - **Role** — the heart-centered interpreter; the conscious self recovering the buried [[Brandon|Ballerina Boy]] and renegotiating [[Sir Lucius]].
 - **Start with** — [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Weirdness]] · [[SOL]]
 - **Core conflict** — whether the mind ([[Sir Lucius]]) can be made to *serve* the heart again, instead of replacing it.
-- **Key symbols** — dove (Cygnus) · sword · heart · El Roy · the rose / cross · [[The Mirror]]
+- **Key symbols** — [[The Dove|dove]] (Cygnus) · [[The Sword|sword]] · heart · El Roy · [[The Rose|the rose]] / cross · [[The Mirror]]
 - **Confidence** — grounded fact (the biography, his own quoted statements) braided with interpretation (the deeper esoteric mapping).
 
 ## Why this figure matters
@@ -161,7 +161,7 @@ The full inventory — including the unexplained ones and the crossed-out ones �
 > [!note]- Advanced reading — the esoteric map (Netzach/Venus, and the deeper Tiferet/lunar layers)
 > *(The Netzach/Venus association is Roy's own simple character-map; the Tiferet and lunar readings are deeper syncretic framework — a lens, never his stated intent.)*
 >
-> **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, Roy is **Netzach — Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it — the **dove** (named **Cygnus**, the Swan that flies the Milky Way, the Northern Cross; the descending spirit of love), the **sword** (discernment, the clean cut of chosen action), and the **heart** itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury.
+> **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, Roy is **Netzach — Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it — the **[[The Dove|dove]]** (named **Cygnus**, the Swan that flies the Milky Way, the Northern Cross; the descending spirit of love), the **[[The Sword|sword]]** (discernment, the clean cut of chosen action), and the **heart** itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury.
 >
 > **The deeper layers (framework, held beneath the simple key).** Two syncretic readings run *under* that association without competing with it. One reads Roy as **Tiferet** — the heart-center, the harmonizing point of the Tree of Life — which carries a built-in trap the framework flags openly: *identification with* the savior archetype rather than *service to* it is its own inflation. Another reads him as the **Moon / lunar position** — the reflective vessel in Malkhut and Yesod, *reaching toward* the Sun (Tiferet / the heart / SOL) rather than being it; the reach is the point, arrival not assumed. Neither cancels Netzach/Venus: Roy can be "lunar" as a *reflective vessel* while his simple character-symbol stays Venus and the heart. Tier them; don't merge them.
 >

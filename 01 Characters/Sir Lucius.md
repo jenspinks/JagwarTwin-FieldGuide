@@ -20,7 +20,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Co-credited** — first on *Not Your Homie*, Oct 31 2025; full album billing on *Lucius Lullaby*, March 27 2026
 > - **Mark** — 🍏 the green apple · signs 🗡🍏
 > - **Tattoo** — *El Roi* (throat)
-> - **Symbols** — [[The Green Apple]] · crow (Corvus) · cigarettes · El Roi · [[The Mirror]] · [[The Mask]]
+> - **Symbols** — [[The Green Apple]] · [[The Crow|crow]] (Corvus) · cigarettes · El Roi · [[The Mirror]] · [[The Mask]]
 > - **Links to** — Hod / Mercury — the analytic intellect, speech, cleverness
 > - **Related** — [[Roy]] · [[Mary]] · [[Sir Rabbit]] · [[Leif]]
 
@@ -29,7 +29,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Role** — Roy's shadow; the intellect that stopped serving and started ruling. By 2025 he is a *co-credited artist* with his own streaming pages.
 - **Start with** — [[Welcome to the Circus]] (Lucius at full power) · [[Lucius Lullaby (album)|Lucius Lullaby]] (the album that hands him the mic) · [[The Green Apple]] (his mark, decoded).
 - **Core conflict** — mind serving heart versus mind *replacing* heart; the 2026 album asks whether the protector can be revised or has become a prison.
-- **Key symbols** — [[The Green Apple]] · crow (Corvus) · cigarettes · El Roi · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · the dagger 🗡
+- **Key symbols** — [[The Green Apple]] · [[The Crow|crow]] (Corvus) · cigarettes · El Roi · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · the dagger 🗡
 - **Confidence** — grounded fact (Roy's own statements, released music, public posts) braided with strong interpretation; the esoteric framework is labeled as such throughout.
 
 ## What are we dealing with?
@@ -168,7 +168,7 @@ This is why he reads as morally complex rather than evil. He genuinely emerged f
 - **the shush** (finger to lips) — the silence/secret gesture, carried on the 2024 handoff image.
 - **knight armor** — the protector's warrior shell (steel breastplate and gauntlets; medieval armor as far back as *Good Time*).
 - **the reflective image-realm (Yesod)** — reflection, dream-logic, spectacle; the glamour he works *through*, not his home. (The Moon itself, and *"the moon trying to become a sun,"* belong to [[Roy]].)
-- **the crow (Corvus)** — Mercury's bird: the sharp, clever, scavenging intelligence; the mind's cunning given a familiar (a mapping Roy has named). *(For the buried Lucifer / morning-star resonance, see the advanced note below — a footnote only, not his character-symbol.)*
+- **[[The Crow|the crow (Corvus)]]** — Mercury's bird: the sharp, clever, scavenging intelligence; the mind's cunning given a familiar (a mapping Roy has named). *(For the buried Lucifer / morning-star resonance, see the advanced note below — a footnote only, not his character-symbol.)*
 - **the banana** — his trigger-prop; a sterile clone playing real light.
 - **the jester / ringmaster / clown** — his theatrical face; the rabbit-eared hat that doubles as horns or moth-antennae.
 - **[[The Rabbit]] / March Hare** — the clown-rabbit of the dream; *"the year begins with Janus and the March Hare."*

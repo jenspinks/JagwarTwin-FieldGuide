@@ -12,6 +12,9 @@ The recurring images that carry the Jagwar Twin world's meaning — objects and 
 ## The images
 
 - [[The Green Apple]] — Sir Lucius's mark: knowledge taken before it's earned, the Genesis-3 fruit picked unripe.
+- [[The Dove]] — Roy's bird: the descending spirit of love, the guide who gives light and lets go; named Cygnus.
+- [[The Crow]] — Sir Lucius's bird: Mercury's clever, scavenging intelligence; the dove's exact opposite.
+- [[The Sword]] — Roy's blade of discernment and chosen action; the clean cut guided by the heart, not the mind.
 - [[The Mirror]] — the device by which the self becomes visible only as something *other*; faithful only as long as it remembers it isn't the source.
 - [[The Mask]] — the face worn for survival that, worn long enough, hardens into the face.
 - [[The Rabbit]] — the searching, vulnerable self before the split, and the clown-makeup rabbit it becomes after.
