@@ -12,7 +12,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!info] Release facts
 > **Released** March 27, 2026 · **Artists** [[Jagwar Twin]] & [[Sir Lucius]] (joint billing — the first time the project shares credit with the voice it was built to contain) · **Label** Big Loud Rock, under exclusive license to Mercury Records (UMG) · **15 tracks, ~36 minutes** · **Tagline** *"Twisted takes on adolescent musical themes for hands that rock the cradle."*
-> ▶ *Streaming: [add link]*
+> ▶ **Listen:** [Spotify](https://open.spotify.com/album/3p4K1H438e9kFylbQkdSLr) · [Apple Music](https://music.apple.com/us/album/lucius-lullaby/1884525684)
 
 ## At a glance
 

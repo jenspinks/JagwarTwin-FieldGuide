@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Year** — first released independently September 21, 2018; redistributed and expanded by **Atlantic Records** April 26, 2019 (Apple lists it as 13 songs, 34 minutes).
 > - **Label** — Atlantic → (left) → Big Loud Rock.
 > - **Tracks** — 13.
-> - **Listen** — *(streaming link placeholder)*
+> - **Listen** — [Spotify](https://open.spotify.com/album/30wS5swfGB4JMnXg4pnKXM)
 
 ## At a glance
 
