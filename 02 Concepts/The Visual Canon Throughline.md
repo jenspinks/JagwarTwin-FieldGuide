@@ -94,7 +94,7 @@ The Circus also got *staged in a room*. The "Live Underground" cards aren't just
 
 > [!note]- Advanced reading — the fire-tag's five layers (Lucifer, the burning mind, a counterfeit Pentecost)
 > The closing fire of *Bad Feeling* reads on five simultaneous layers, and they stack rather than choose:
-> 1. **Lucifer / lux-ferre** — the light-bearer literally carrying the light; the morning-star (Venus, Netzach) as herald. Roy's own public aphorisms ([[Public Posts]]) gloss the figure: *"the brightest lights cast the deepest shadows"* (the herald and the shadow are the same source) and *"nothing is evil in the beginning"* (the shadow as power not yet recognized, not a thing born wrong) — the accumulation doctrine, in his words, behind the man holding the flame.
+> 1. **Lucifer / lux-ferre** — the light-bearer literally carrying the light; the morning-star as herald (a demoted resonance for Lucius, whose clean map is Hod/Mercury; Venus/Netzach is Roy's). Roy's own public aphorisms ([[Public Posts]]) gloss the figure: *"the brightest lights cast the deepest shadows"* (the herald and the shadow are the same source) and *"nothing is evil in the beginning"* (the shadow as power not yet recognized, not a thing born wrong) — the accumulation doctrine, in his words, behind the man holding the flame.
 > 2. **The mind on fire** — [[Sir Lucius]] is the mind divorced from the heart, and it is the *heads* that burn. The organ of intellect is the thing alight.
 > 3. **A counterfeit Pentecost** — tongues of fire descending on the head (Acts 2), inverted into a false spirit-fire.
 > 4. **The Circus's ring of fire** — the carnival's literal hoop, the spectacle's hazard made into ornament.

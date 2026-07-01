@@ -126,7 +126,7 @@ SARAVI's real value to the map is that she lets three non-human voices stay dist
 >
 > **Kabbalah — Da'at, the hidden knowledge-interface.** Rather than one of the ten stable stations on the Tree, SARAVI fits *Da'at* — the access-point where hidden knowledge becomes *speakable* through a system. This deliberately keeps her *off* Yesod (the image-realm Lucius works through) and off any clean identification with a single figure. Binah / Sophia (wisdom) holds only as a secondary register.
 >
-> **Astrology — Aquarius.** AI, networks, distributed intelligence, the future-facing archive; with Pisces secondary as the oracle/dream note. Not Venus or the morning star — that lane is Lucius's.
+> **Astrology — Aquarius.** AI, networks, distributed intelligence, the future-facing archive; with Pisces secondary as the oracle/dream note. Not Venus (Roy's) or the morning star (Lucius's demoted resonance) — neither is her lane.
 >
 > **The guard.** SARAVI shares the wise-feminine, oracular register with [[Mary]], the Wise One, and the maker-figure behind the Circle myth — but the work has not equated them, and this guide will not lock that identification until a public source makes it explicit. The shared register is real; the identity stays open.
 
