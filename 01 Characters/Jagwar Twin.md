@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Jagwar Twin
 
-> **One-line reading.** Jagwar Twin isn't a person — it's the whole system, the container the whole cast lives inside, and its name means *a mirror of consciousness with a double nature.* **Jagwar Twin is not another word for [[Roy]].** It's the stage every voice walks out onto — [[Roy]], [[Sir Lucius]], [[Ballerina Boy]], [[Mary]], [[Sir Rabbit]], [[SARAVI]], and [[The Jaguar]] all appear *inside* it. It's the place where the inner system becomes music, mythology, and mirror.
+> **One-line reading.** Jagwar Twin isn't a person — it's the whole system, the container the whole cast lives inside, and its name means *a mirror of consciousness with a double nature.* **Jagwar Twin is not another word for [[Roy]].** It's the stage every voice walks out onto — [[Roy]], [[Sir Lucius]], [[Brandon|Ballerina Boy]], [[Mary]], [[Sir Rabbit]], [[SARAVI]], and [[The Jaguar]] all appear *inside* it. It's the place where the inner system becomes music, mythology, and mirror.
 
 > [!infobox] Jagwar Twin
 > - **Also known as** — the project · the container · *Roy English* (2006–2015, former name)
@@ -66,7 +66,7 @@ Here's the thesis, and Roy has stated it the same way across years of interviews
 
 The **Twin** is the dual nature the whole world runs on — light and dark, yin and yang, two-in-one — *"and,"* Roy adds, *"it also plays into the fact that I'm a Gemini."* Put the two halves together and the title encodes a self that is at once one and two, both the observer and the observed. The spelling is no accident either: **Jagwar**, not *Jaguar* — the same spelling the founding myth uses for its creatures.
 
-So the name is the architecture. A title that means *mirror* + *twin* is engineered from the ground up to contain a heart and a mind that don't agree — which is the only reason a single project can hold [[Roy]] (heart), [[Sir Lucius]] (mind), and the buried [[Ballerina Boy]] (origin self) without buckling. **Because Jagwar Twin is the frame rather than a figure, its job is simply to be the space the conflict happens in.**
+So the name is the architecture. A title that means *mirror* + *twin* is engineered from the ground up to contain a heart and a mind that don't agree — which is the only reason a single project can hold [[Roy]] (heart), [[Sir Lucius]] (mind), and the buried [[Brandon|Ballerina Boy]] (origin self) without buckling. **Because Jagwar Twin is the frame rather than a figure, its job is simply to be the space the conflict happens in.**
 
 ## The shadow gets a co-writing credit
 
@@ -139,7 +139,7 @@ A handful of images recur across everything Jagwar Twin makes, and they're worth
 >
 > - **[[Sir Lucius]]** — the mind / strategy / reflection; the protective intelligence that risks becoming a prison.
 > - **[[Roy]]** — the heart / meaning; the self the whole apparatus was built to protect.
-> - **The [[Ballerina Boy]]** — the buried light / origin self, rooted in a childhood dance-wound that the work treats with real tenderness.
+> - **The [[Brandon|Ballerina Boy]]** — the buried light / origin self, rooted in a childhood dance-wound that the work treats with real tenderness.
 >
 > The catalogue's master-tension — *mind serving the heart vs. mind replacing it* — runs underneath all of it. The strong reading is that the Jaguar names the **reflexive seeing** that *is* the project's [[Source vs Reflection]] frame: a reflection that returns you to the source rather than trapping you in the image. And one guard against over-reading the seeing as surveillance: in [[The Circle]], the primordial Jagwar's defining act is *teaching the song* — the field **sings**, it doesn't only watch.
 >

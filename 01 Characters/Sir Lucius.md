@@ -65,7 +65,7 @@ And crucially, you don't *beat* him. Roy is explicit that the work is integratio
 
 ## Protector by concealment
 
-Lucius's first function is protection. The vulnerable thing he protects is the [[Ballerina Boy]]  the shamed, buried child who learned that being visible could be dangerous. Lucius does not hide the boy because he hates him; he hides him because he believes exposure will kill him. The tragedy is that the protection becomes a second wound: what once kept the boy safe eventually keeps him unreachable.
+Lucius's first function is protection. The vulnerable thing he protects is the [[Brandon|Ballerina Boy]]  the shamed, buried child who learned that being visible could be dangerous. Lucius does not hide the boy because he hates him; he hides him because he believes exposure will kill him. The tragedy is that the protection becomes a second wound: what once kept the boy safe eventually keeps him unreachable.
 
 Frame him this way and the whole figure snaps into focus. Lucius is **love distorted into control, protection hardened into concealment, truth used to keep the wound from ever being touched.** Every move in his repertoire — the boasting, the bargain, the mockery of the lowest-streaming song — is a guard posted at the door of one buried room. That is why the same figure who mocks *"Ballerina Boy. When you're vulnerable you LOSE!"* is also, underneath, the thing that once stood between that boy and a world that had already hurt him. He isn't guarding a throne. He's guarding a child.
 

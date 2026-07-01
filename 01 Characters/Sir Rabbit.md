@@ -18,7 +18,7 @@ He matters because he shows the self before Lucius climbs into the passenger sea
 > - **First appeared** — the *Sir Rabbit* poem, 2022 (Roy's own platform); then the *Good Time (1:08)* dream, 2023
 > - **Defining line** — *"I do not know… but I must be someone."*
 > - **Key symbols** — [[The Rabbit]] · the heartbeat · the violet moon · the spider · the dove
-> - **Related** — [[Roy]] · [[Sir Lucius]] · [[Ballerina Boy]] · [[Mary]] · [[The Protector]]
+> - **Related** — [[Roy]] · [[Sir Lucius]] · [[Brandon|Ballerina Boy]] · [[Mary]] · [[The Protector]]
 
 Picture a rabbit driving down a highway at night, looking for something he can't name. That's the whole figure in one image: not a hero, not a villain, just a self in motion with no fixed identity yet — *"I do not know… but I must be someone."* Roy has put this rabbit on the record twice, and called him, in his own words, *"Sir Rabbit pre-Lucius."* That gloss is the page's whole thesis: the rabbit is the self *before* the protector-mind hardens into a guide.
 
@@ -29,7 +29,7 @@ A small but load-bearing note up front: this is the **[[Roy]]-self at an earlier
 ## At a glance
 
 - **Role** — Roy's initiatory self-image: the seeker before fixed identity, the self the childhood wound leaves walking around.
-- **Start with** — [[Good Time (1-08)]] (the dream where he becomes a rabbit) · the *Sir Rabbit* poem (the full initiation) · [[Ballerina Boy]] (the buried child underneath).
+- **Start with** — [[Good Time (1-08)]] (the dream where he becomes a rabbit) · the *Sir Rabbit* poem (the full initiation) · [[Brandon|Ballerina Boy]] (the buried child underneath).
 - **Core conflict** — a searching self with no name has to find a real guide before a counterfeit one ([[Sir Lucius]]) takes the seat first.
 - **Key symbols** — [[The Rabbit]] · the heartbeat · the violet moon · the fox's box · the spider · the dove · the Mourning Sun.
 - **Confidence** — grounded fact (Roy's two rabbit texts and his "pre-Lucius" gloss) plus a strong interpretive reading of the rabbit as the seeker-pole.
@@ -61,7 +61,7 @@ The cleanest way to hold the pair: **the poem shows the seeker's true initiation
 
 ## The wound underneath
 
-Sir Rabbit doesn't come from nowhere. He's what the childhood wound produces. The [[Ballerina Boy]] is the buried *content* — the embodied child told *"you're not a real boy"* and pushed down. Sir Rabbit is the searching *self* that results: identity-vacancy walking around, directionless but intact, still capable of taking a leap. And the armor that eventually forms over him is [[Sir Lucius]] / [[The Protector]].
+Sir Rabbit doesn't come from nowhere. He's what the childhood wound produces. The [[Brandon|Ballerina Boy]] is the buried *content* — the embodied child told *"you're not a real boy"* and pushed down. Sir Rabbit is the searching *self* that results: identity-vacancy walking around, directionless but intact, still capable of taking a leap. And the armor that eventually forms over him is [[Sir Lucius]] / [[The Protector]].
 
 The line runs: **wound → buried child → searching rabbit → armor.** Sir Rabbit is the third link — the one most easy to miss, because by the time anyone's looking, the armor's already on.
 
@@ -111,7 +111,7 @@ That's the engine underneath everything Lucius does. The poem shows what a real 
 
 - **[[Roy]]** — the self Sir Rabbit is a picture of: the seeker before the split. Grounded that Roy self-identifies as the rabbit; the character-register equation (Sir Rabbit = the Roy-pole seeker) is a strong reading.
 - **[[Sir Lucius]]** — the **second** rabbit, the one in clown makeup who drops into the passenger seat saying *"I'm here to help you"*; the counterfeit guide who intercepts the seeker at the threshold. Sir Rabbit is *"pre-lucius."*
-- **[[Ballerina Boy]]** — the buried child beneath the searching self; wound → buried child → searching rabbit.
+- **[[Brandon|Ballerina Boy]]** — the buried child beneath the searching self; wound → buried child → searching rabbit.
 - **[[Mary]]** — present in the poem *as the Dove*, the guide who gives light and releases — a Mary-function, not the named Mary.
 - **[[The Protector]]** — the armor that forms around the pre-Lucius initiate; the survival-self that calcifies into Lucius.
 - **The Fox** — the redeemed trickster, contrast-partner to Lucius. *(A future page; no page yet.)*
@@ -165,7 +165,7 @@ That's the engine underneath everything Lucius does. The poem shows what a real 
 
 - [[Sir Lucius]] — the second rabbit; what the seeker becomes once the mind takes the guide's seat too early.
 - [[Good Time (1-08)]] — the dream where Roy becomes the rabbit and Lucius intercepts him; the song where Lucius is born.
-- [[Ballerina Boy]] — the buried child the searching rabbit is built over.
+- [[Brandon|Ballerina Boy]] — the buried child the searching rabbit is built over.
 - [[The Rabbit]] — the symbol: the two-rabbit structure, the White Rabbit, the March Hare.
 - [[The Protector]] — the armor that forms around the pre-Lucius self.
 - [[Mary]] — the releasing, light-giving presence the poem's Dove echoes.

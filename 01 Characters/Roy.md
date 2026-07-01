@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Roy
 
-> **One-line reading.** Roy is the heart-centered interpreter — the later conscious self trying to recover the buried [[Ballerina Boy]] and bring [[Sir Lucius]], the protector-mind, back into service of the heart.
+> **One-line reading.** Roy is the heart-centered interpreter — the later conscious self trying to recover the buried [[Brandon|Ballerina Boy]] and bring [[Sir Lucius]], the protector-mind, back into service of the heart.
 
 > [!infobox] Roy
 > - **Also known as** — Jagwar Twin · Roy English *(2006–2015)* · El Roy
@@ -23,7 +23,7 @@ Roy is the center of gravity in the Jagwar Twin world. He's the conscious, heart
 
 ## At a glance
 
-- **Role** — the heart-centered interpreter; the conscious self recovering the buried [[Ballerina Boy]] and renegotiating [[Sir Lucius]].
+- **Role** — the heart-centered interpreter; the conscious self recovering the buried [[Brandon|Ballerina Boy]] and renegotiating [[Sir Lucius]].
 - **Start with** — [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Weirdness]] · [[SOL]]
 - **Core conflict** — whether the mind ([[Sir Lucius]]) can be made to *serve* the heart again, instead of replacing it.
 - **Key symbols** — [[The Mirror]] · the rose / cross · [[The Moon]] · El Roi
@@ -31,7 +31,7 @@ Roy is the center of gravity in the Jagwar Twin world. He's the conscious, heart
 
 ## Why this figure matters
 
-Every other character in this world is a position relative to Roy — the conscious self doing the recovering. [[Sir Lucius]] is the protector-mind that broke off from him; [[Mary]] is the blessing-voice reaching back toward him; [[Ballerina Boy]] is the buried child he's reaching *for;* [[The Jaguar]] is the lens he sees through. Pull Roy out and the cast collapses into abstractions. He's the one with a body, a birthday, and a bruise.
+Every other character in this world is a position relative to Roy — the conscious self doing the recovering. [[Sir Lucius]] is the protector-mind that broke off from him; [[Mary]] is the blessing-voice reaching back toward him; [[Brandon|Ballerina Boy]] is the buried child he's reaching *for;* [[The Jaguar]] is the lens he sees through. Pull Roy out and the cast collapses into abstractions. He's the one with a body, a birthday, and a bruise.
 
 And the bruise is the engine. Roy's whole stated mission — to be a **mirror** that reminds people who they are — only works because he's willing to be the first one in the mirror, and what he finds there is not flattering. He has been broke, dropped by a major label, flat on the floor of his childhood bedroom at thirty-five. He names his own depression in interviews without flinching. The reason the songs don't feel like a wellness brochure is that the guy writing them actually went down and came back up with something. As he puts it: *"I'm glad I've seen darkness, because I can understand it, and there's something on the other side."*
 
@@ -47,7 +47,7 @@ The earliest injury the work keeps circling happened at age seven — before any
 
 > "I never danced again / I killed that ballerina boy / I buried him inside"
 
-That buried child — the [[Ballerina Boy]] — is the exile, and Roy is not that child. He is the later conscious self going back for him: the one who can name the wound, sing it, and try to lift it back up. There's a counter-voice in the wound, too: in the released song the father looks at him and says *"there's nothing wrong with you, my son"* — the first appearance of the blessing-frequency that becomes [[Mary]]. The adult dance videos Roy later made are, in his telling, shadow-work: going back for what got left on the floor.
+That buried child — the [[Brandon|Ballerina Boy]] — is the exile, and Roy is not that child. He is the later conscious self going back for him: the one who can name the wound, sing it, and try to lift it back up. There's a counter-voice in the wound, too: in the released song the father looks at him and says *"there's nothing wrong with you, my son"* — the first appearance of the blessing-frequency that becomes [[Mary]]. The adult dance videos Roy later made are, in his telling, shadow-work: going back for what got left on the floor.
 
 *(A note on names: this guide uses "Roy" for the public artistic voice; the childhood wound itself belongs to the human person underneath, before the later mythic roles — the exile boy, the protector-mind, the interpreter — fully differentiate. Roy is who that person becomes when he turns around to face what he buried.)*
 

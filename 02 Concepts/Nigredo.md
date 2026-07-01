@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the blackening; you go down before you come back. Nigredo is not failure. It is the first movement. The danger is not the dark — it is being kept there.
 - **Where it shows up** — [[Welcome to the Circus]] (*"I'll chew you up, spit you out"* — the blackening that never turns) · [[Lucius Lullaby (album)|Lucius Lullaby]] (a whole album in the dark) · [[Happy Face]] (2020: *"burning the old world down"*).
-- **Connected ideas** — [[Sir Lucius]] · [[The Circus]] · [[Weirdness]] · [[Ballerina Boy]] · [[SOL]] · [[Keilim - The Breaking of the Vessels]].
+- **Connected ideas** — [[Sir Lucius]] · [[The Circus]] · [[Weirdness]] · [[Brandon|Ballerina Boy]] · [[SOL]] · [[Keilim - The Breaking of the Vessels]].
 - **Confidence** — the alchemical tradition is established fact; Roy publicly attaches himself to it (a Latin alchemy motto on TikTok, the *"I'm 33"* board in his own hand); the song-by-song mapping is interpretation, labeled as such.
 
 ## What it is
@@ -34,7 +34,7 @@ Three things make nigredo more than a piece of borrowed vocabulary here. First, 
 
 **The three descents.** The arc carries the same blackening three times, each a different size:
 
-- **The childhood burial.** A dancing child exiled at seven — the self driven underground, the [[Ballerina Boy]] buried alive. The first descent, and the one all the others rhyme with.
+- **The childhood burial.** A dancing child exiled at seven — the self driven underground, the [[Brandon|Ballerina Boy]] buried alive. The first descent, and the one all the others rhyme with.
 - **The collapse at thirty-five.** Rock bottom, and not the poetic kind: the major label gone, a relationship ended, a friend lost. This is the period that produced [[Lucius Lullaby]], reportedly written from a childhood bedroom — which is its own grim joke, a grown man back in the room where the first burial happened.
 - **Lucius as the blackening itself.** The shadow split off and walking around: distorted light operating as darkness, the *prima materia* handed a name, a face, and a verified Instagram. [[Sir Lucius]] *is* nigredo externalized — the raw material you're supposed to transmute, given a voice that argues back.
 
@@ -94,7 +94,7 @@ And [[Sir Lucius]] himself wears the trickster-surface of the externalized shado
 ## Connections
 
 - **[[Sir Lucius]]** — the nigredo externalized; the blackened *prima materia* given a voice and a face. The central character connection: Lucius is the thing in the alembic that talks back.
-- **[[Ballerina Boy]]** — the burial at seven; the first descent witnessed; the first nigredo event the whole arc rhymes with.
+- **[[Brandon|Ballerina Boy]]** — the burial at seven; the first descent witnessed; the first nigredo event the whole arc rhymes with.
 - **[[The Circus]]** — perpetual, arrested nigredo; dissolution without transmutation; the danger of being *kept* in the dark.
 - **[[Weirdness]]** — the first turn toward light; the lone albedo track; the *your → my* pronoun integration.
 - **[[SOL]]** — possible rubedo, the gold if the work completes; held open.

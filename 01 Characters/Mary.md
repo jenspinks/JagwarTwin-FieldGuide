@@ -130,7 +130,7 @@ A few threads the work hasn't tied off, worth holding open rather than forcing s
 
 - **Is Mary Ariadne?** In the project's symbolic vocabulary, the thread you follow through the dark is the heart, the feeling-line through the labyrinth (see [[The Thread]]). Mary is the figure who shows up precisely *when the distortion fails to contain what it holds* — which is exactly when the thread-bearer is needed. So: is Mary **Ariadne, the thread-bearer**? And a finer fork under it — is the thread **given** (handed to you by Mary / the divine) or **held** (your own refusal to sacrifice feeling)? Probably both, but which the work emphasizes changes the whole agency model.
 - **Is Mary the Dweller-crossing figure?** The [[The Dweller on the Threshold|Dweller on the Threshold]] is the guardian you meet at the gate of real change — the accumulated self that either blocks the crossing or forces it. Mary appears to *break the mirror system*, which is precisely what a successful crossing would do. Open question: does she appear **after** the threshold is crossed, or is she the one who **makes the crossing possible**?
-- **Is she the one Roy comes back for?** Or is the buried [[Ballerina Boy]] child a separate thing she's reaching *toward*? The blessing lands over the child, but that doesn't make them the same figure.
+- **Is she the one Roy comes back for?** Or is the buried [[Brandon|Ballerina Boy]] child a separate thing she's reaching *toward*? The blessing lands over the child, but that doesn't make them the same figure.
 
 ## Advanced reading
 

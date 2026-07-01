@@ -23,4 +23,4 @@ This is the spine of the whole Jagwar Twin world. Almost everything else hangs o
 
 ## Where to go next
 
-Follow [[The Loop and the Circle (Reading Path)]] to sit with the cosmology this arc resolves into, or step sideways to [[Mary]] for the counter-voice to Lucius. Go down to [[Ballerina Boy]] for the buried child underneath the whole arrangement — the exile the protector was built to hide — or watch the fight itself in [[The Interview]], the theatrical series where Roy and Lucius argue it out across a table.
+Follow [[The Loop and the Circle (Reading Path)]] to sit with the cosmology this arc resolves into, or step sideways to [[Mary]] for the counter-voice to Lucius. Go down to [[Brandon|Ballerina Boy]] for the buried child underneath the whole arrangement — the exile the protector was built to hide — or watch the fight itself in [[The Interview]], the theatrical series where Roy and Lucius argue it out across a table.

@@ -1,22 +1,22 @@
 ---
-title: Ballerina Boy
+title: Brandon
 type: character
 cssclasses: ["type-character"]
 status: published
 confidence: mixed
 source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
-# Ballerina Boy
+# Brandon
 
-> **One-line reading.** Ballerina Boy is the buried child — the stage-joyful, undefended self that went into the ground at seven, and the one the whole arc is trying to dig back up.
+> **One-line reading.** **Brandon**, the *Ballerina Boy*, is the buried child — the stage-joyful, undefended self that went into the ground at seven, and the one the whole arc is trying to dig back up.
 
 > [!quote] The reframe this page turns on
 > Ballerina Boy is the buried child-self — the original expressive light, hidden after shame made visibility feel dangerous. He is not dead, but *preserved* underground. The central question is not whether he existed, but whether the system can become safe enough for him to return.
 
 In the language of the inner system, he is **the exile** — the most vulnerable, most feeling part, sealed away because being seen once cost too much. Everything else the arc builds — the protector, the searcher, the grown interpreter — is organized around the fact of him being down there. Keep that tenderness in view: this is the sincere wound at the center, the thing the machinery was built to guard, not a bit to riff on.
 
-> [!infobox] Ballerina Boy
-> - **Also known as** — the buried child · the buried light · the pre-shame self
+> [!infobox] Brandon
+> - **Also known as** — the *Ballerina Boy* · the buried child · the buried light · the pre-shame self
 > - **Nature** — softness, embodiment, play — the part of [[Roy]] told *"you're not a real boy"*
 > - **First named** — *"Ballerina Boy"* (single), June 13 2025
 > - **Founding event** — the age-7 ballet wound; *"I buried him inside"*
@@ -33,7 +33,7 @@ In the language of the inner system, he is **the exile** — the most vulnerable
 
 ## Why this figure matters
 
-Most of the Jagwar Twin cast are masks, voices, or faculties. Ballerina Boy is a person — specifically, the seven-year-old [[Roy]] used to be, before the world taught him there was something wrong with being him. He is the *content* every other figure is built to protect, hide, weaponize, or rescue. [[Sir Lucius]] is the armor; [[Roy]] is the grown man deciding whether to go back for him; [[Mary]] is the voice that blesses him. Ballerina Boy is the thing all that machinery is *about*.
+Most of the Jagwar Twin cast are masks, voices, or faculties. Ballerina Boy is a person — specifically, the seven-year-old [[Roy]] used to be, before the world convinced him there was something wrong with being him. He is the *content* every other figure is built to protect, hide, weaponize, or rescue. [[Sir Lucius]] is the armor; [[Roy]] is the grown man deciding whether to go back for him; [[Mary]] is the voice that blesses him. Ballerina Boy is the thing all that machinery is *about*.
 
 He's also the rare figure here whose backstory is not mythology. The wound is literal autobiography, told publicly by [[Roy]] outside the lyric, and triple-confirmed: in the song itself, in a sit-down interview, and — independently — in a concert-venue artist bio that simply notes he *"embraced ballet as a child while his peers pursued sports."* When the work feels heaviest, it is usually because it has circled back to this kid.
 
