@@ -83,6 +83,7 @@ A few claims that cut across the whole song.
 - **[[#1 Champion (la Conquistadora)]]** — where [[Mary]] is **named**; the same figure who appears faceless here. On the album these are the two turning points: #1 Champion the first *crack* (Mary unseats the ego), Weirdness the first *crossing.*
 - **[[SOL]]** — the love-current beneath the weirdness; the song Lucius can't metabolize. The album's wordless destination (14) that follows this turn (13).
 - **[[Shine]]** (2018) — the **seed** of the whole *"shine"* blessing-vocabulary, where the verb is still first-person and communal (*"gonna shine, shine, shine"*) before the blessing-voice later redirects it outward into a second-person benediction. (Shine is the *seed*, not a Mary appearance — worth keeping distinct.)
+- **[[MAGIK]]** — the **witnessing-blessing** register in the same *"shine"*-vocabulary family; kin to [[Shine]] and the [[Ballerina Boy]] / *[[#1 Champion (la Conquistadora)]]* blessing-voice cluster.
 - **[[Lucius Lullaby]]** (title track) — shares the suicidal floor-register with Weirdness's pre-chorus, and stages the counterfeit: its *"set you free / magic mirror"* savior-voice is Lucius *impersonating* the Mary-function — which is exactly what sharpens the **real** faceless-Mary here.
 
 > [!note]- Advanced reading — the album's single point of light (nigredo → albedo)

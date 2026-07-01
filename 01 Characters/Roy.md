@@ -8,22 +8,22 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Roy
 
-> **One-line reading.** Roy is the heart — the vulnerable, authentic self the whole project is trying to return to, and the self [[Sir Lucius]] was built to protect.
+> **One-line reading.** Roy is the heart-centered interpreter — the later conscious self trying to recover the buried [[Ballerina Boy]] and bring [[Sir Lucius]], the protector-mind, back into service of the heart.
 
 > [!infobox] Roy
 > - **Also known as** — Jagwar Twin · Roy English *(2006–2015)* · El Roy
 > - **Born** — Brandon Roy Wronski, May 22 1988 · Los Angeles / Orange County area
-> - **Role** — the heart; the human being under the masks
+> - **Role** — the heart-centered interpreter; the conscious self recovering the buried boy
 > - **First album** — *Subject to Flooding* (2018), as Jagwar Twin
 > - **Signs himself** — El Roy *("the God who sees me")*
 > - **Key symbols** — [[The Mirror]] · the rose · the cross · [[The Moon]]
 > - **Related** — [[Sir Lucius]] · [[Mary]] · [[The Jaguar]]
 
-Roy is the center of gravity in the Jagwar Twin world. He's the human being underneath the masks, the voice most songs are sung through, and the figure every other character is defined against. He's also a real person, and the work draws openly on his life — which is part of why it lands the way it does. Start with one fact about him and the rest follows: everything he's built is an elaborate apparatus for getting back to a feeling he was talked out of at age seven.
+Roy is the center of gravity in the Jagwar Twin world. He's the conscious, heart-centered self the songs are sung through, and the figure every other character is defined against. He's also a real person, and the work draws openly on his life — which is part of why it lands the way it does. Start with one fact about him and the rest follows: everything he's built is an elaborate apparatus for getting back to a feeling that got talked out of a seven-year-old, and un-burying the boy who carried it.
 
 ## At a glance
 
-- **Role** — the heart; the authentic, vulnerable self the whole mythology is trying to recover.
+- **Role** — the heart-centered interpreter; the conscious self recovering the buried [[Ballerina Boy]] and renegotiating [[Sir Lucius]].
 - **Start with** — [[Lucius Lullaby]] · [[Ballerina Boy]] · [[Weirdness]] · [[SOL]]
 - **Core conflict** — whether the mind ([[Sir Lucius]]) can be made to *serve* the heart again, instead of replacing it.
 - **Key symbols** — [[The Mirror]] · the rose / cross · [[The Moon]] · El Roi
@@ -31,7 +31,7 @@ Roy is the center of gravity in the Jagwar Twin world. He's the human being unde
 
 ## Why this figure matters
 
-Every other character in this world is a position relative to Roy. [[Sir Lucius]] is the mind that broke off from him; [[Mary]] is the blessing-voice reaching back toward him; [[The Jaguar]] is the lens he sees through. Pull Roy out and the cast collapses into abstractions. He's the one with a body, a birthday, and a bruise.
+Every other character in this world is a position relative to Roy — the conscious self doing the recovering. [[Sir Lucius]] is the protector-mind that broke off from him; [[Mary]] is the blessing-voice reaching back toward him; [[Ballerina Boy]] is the buried child he's reaching *for;* [[The Jaguar]] is the lens he sees through. Pull Roy out and the cast collapses into abstractions. He's the one with a body, a birthday, and a bruise.
 
 And the bruise is the engine. Roy's whole stated mission — to be a **mirror** that reminds people who they are — only works because he's willing to be the first one in the mirror, and what he finds there is not flattering. He has been broke, dropped by a major label, flat on the floor of his childhood bedroom at thirty-five. He names his own depression in interviews without flinching. The reason the songs don't feel like a wellness brochure is that the guy writing them actually went down and came back up with something. As he puts it: *"I'm glad I've seen darkness, because I can understand it, and there's something on the other side."*
 
@@ -43,13 +43,15 @@ There's a second early fact that the whole "mirror for losers" frame quietly res
 
 ## The wound: the ballerina boy
 
-The earliest injury the work keeps circling happened at age seven. Roy did ballet at a Christian school — the only boy in the class. A teacher told his father they thought he was gay; Roy overheard. Surrounded by girls who told him he *wasn't a real boy*, he prayed to be made *good*, and he buried the part of himself that came alive on stage. He came home crying. He never danced again.
+The earliest injury the work keeps circling happened at age seven — before any of the later roles had names. A boy did ballet at a Christian school, the only one in the class. A teacher told his father they thought he was gay; the boy overheard. Surrounded by girls who told him he *wasn't a real boy*, he prayed to be made *good*, and he buried the part of himself that came alive on stage. He came home crying. He never danced again.
 
 > "I never danced again / I killed that ballerina boy / I buried him inside"
 
-That buried child — the [[Ballerina Boy]] — is what the whole arc is trying to recover. There's a counter-voice in the wound, too: in the released song his father looks at him and says *"there's nothing wrong with you, my son"* — the first appearance of the blessing-frequency that becomes [[Mary]]. The adult dance videos Roy later made are, in his telling, shadow-work: going back for what he left on the floor.
+That buried child — the [[Ballerina Boy]] — is the exile, and Roy is not that child. He is the later conscious self going back for him: the one who can name the wound, sing it, and try to lift it back up. There's a counter-voice in the wound, too: in the released song the father looks at him and says *"there's nothing wrong with you, my son"* — the first appearance of the blessing-frequency that becomes [[Mary]]. The adult dance videos Roy later made are, in his telling, shadow-work: going back for what got left on the floor.
 
-Years later he names the cost of that childhood prayer in a single posted line — *"a good boy does not make a good man."* The seven-year-old prayed to be made *good* and buried himself to get there; the adult has figured out that the goodness he was sold was a cage. The whole recovery is the man going back to un-bury the boy the *good* boy replaced.
+*(A note on names: this guide uses "Roy" for the public artistic voice; the childhood wound itself belongs to the human person underneath, before the later mythic roles — the exile boy, the protector-mind, the interpreter — fully differentiate. Roy is who that person becomes when he turns around to face what he buried.)*
+
+Years later he names the cost of that childhood prayer in a single posted line — *"a good boy does not make a good man."* The seven-year-old prayed to be made *good* and buried himself to get there; the adult interpreter has figured out that the goodness he was sold was a cage. The whole recovery is Roy going back to un-bury the boy the *good* boy replaced.
 
 This is the page's one sacred zone. Be warm here, not clever.
 
@@ -101,7 +103,9 @@ The cleanest public demonstration of the Roy/Lucius split is one observation sai
 
 ## Relationships
 
-- **[[Sir Lucius]]** — the mind divorced from the heart, formed from Roy's own interior life. *"I made you."* Lucius pulled Roy out of the bottom; the deal may have been worth it. Their tension — mind serving the heart versus mind replacing it — *is* the project.
+There's a clean way to hold the three figures closest to the wound: **[[Sir Lucius]] protects by concealment, [[Mary]] protects by blessing, and Roy heals by witnessing.** The protector-mind hid the tender boy to keep him safe; the blessing-voice keeps saying *you were born to shine;* and Roy — the conscious interpreter — does the thing neither of the other two can, which is simply to *see* the buried boy and stay. The arc's real difficulty is that all three are trying to help. Roy's task is to become strong enough to believe Mary without demonizing the part of him that believed Lucius — to take the blessing without turning the old protector into a villain for having concealed him in the first place.
+
+- **[[Sir Lucius]]** — the protector-mind divorced from the heart, formed from Roy's own interior life. *"I made you."* Lucius pulled Roy out of the bottom; the deal may have been worth it. Their tension — mind serving the heart versus mind replacing it — *is* the project.
 - **[[Mary]]** — the divine-feminine blessing voice; the *"you were born to shine"* that answers the childhood *"you're not a real boy."* She does **not** appear in [[Lucius Lullaby]] — the savior-voice there is Lucius counterfeiting the rescue. Her grounded appearances are [[#1 Champion (la Conquistadora)]], [[Ballerina Boy]], and [[Weirdness]].
 - **[[The Jaguar]]** — the project's emblem of seeing: the cat that looks first into itself and only then into others (*"humans are mirrors for each other"*). The frame around everything, not a separate peer-figure.
 - **The Father** — public via the *Half the Man* post (*"I reached for my Father's hand / He said you're half the man that you know,"* Roy pictured in a jester's ruff) and via *"there's nothing wrong with you, my son"* in [[Ballerina Boy]]. An aviation thread runs alongside him — a grandfather's WWII plane scanned into the [[Hall of Mirrors]], a Test Pilot School lighter.

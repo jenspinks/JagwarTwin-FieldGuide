@@ -27,6 +27,18 @@ That's the binary — but it is emphatically **not** "source good, reflection ba
 
 ## How it works
 
+### The light-system across the cast (the plain model)
+
+Before any esoteric machinery, here is the whole thing in ordinary terms. In this reading the project distinguishes **source-light** from **reflected light**, and each of the principals holds a different position on that one axis:
+
+- [[Mary]] carries the source-aligned blessing — the faceless origin you look *from*, seeing without needing to be reflected back.
+- [[Sir Lucius]] reflects and mediates light through image, dream, and performance — the middle layer, the screen the light passes through (or gets stuck in).
+- [[Roy]] is the human vessel trying to return the reflective system to the heart — the one caught in the reflections, working to point them home again.
+- [[BALLERINA BOY|Ballerina Boy]] is the buried spark, the original light — the source-light gone underground, waiting to be recovered.
+- [[The System]] is false light — spectacle, flame — brightness that draws the eye while pointing nowhere behind itself.
+
+That's the map the rest of this page decorates. Notice it's cleaner than saying "Lucius = the moon" or "Roy = the moon": it names each figure by what their light *does* (blesses, mediates, seeks, hides, counterfeits) rather than by which celestial body they're assigned. The astronomy is a later, optional overlay — see the Advanced reading on the Kabbalistic spine below, which is framework-tier and never claimed as authorial intent.
+
 ### The two modes — transmit or substitute
 
 The same layer flips meaning depending on which mode it's running. A mirror that knows it's a mirror sends you home; a mirror that forgets locks you inside it.
@@ -122,7 +134,7 @@ That record also runs the album's clearest case of borrowed light that *transmit
 > The full ladder runs longer than the public excerpt. The HoM leaf adds *"point with no beginning / wheel inside a wheel / Half a crown in my hand / The Moon Machine keeping time / I woke up in my shadow"* — where *"The Moon Machine keeping time"* fuses the moon (reflector) with the machine (apparatus) in one phrase, and *"I woke up in my shadow"* is the awakening-inside-the-reflection image in five words. And the decoded board continues past that: *"A Darkness and a Light… when we crashed and came together, A Sun was born inside. Next there were 4 — Process & Time… But one day We'll get back together and see The Great Design."* That single passage is simultaneously the Roy/Lucius split, the breaking-of-the-vessels, and the birth of SOL — *"A Sun was born inside"* = the Song of the Sun.
 
 > [!note]- Advanced reading — the Kabbalistic spine: the sun and its reflected bodies
-> One strong frame, drawn from the Kabbalah Roy openly studies, maps the whole axis onto the sun and the bodies that merely catch its light. The **sun is the source** — Tiferet, the heart, and [[SOL]]. Everything else generates no light of its own.
+> *This is the optional overlay on the plain cast-model above — a resonance, not authorial intent.* One strong frame, drawn from the Kabbalah Roy openly studies, re-maps the same source/reflection axis onto the sun and the bodies that merely catch its light. The **sun is the source** — Tiferet, the heart, and [[SOL]]. Everything else generates no light of its own.
 >
 > The **moon** is *Roy's* position (Malkhut + Yesod) — the lunar vessel that *"has nothing of her own but receives entirely from Tiferet."* So *"the moon trying to become a sun"* names **his** arc of restoration: the diminished-moon myth resolving into *"reclaim your crown"* (the moon once sun-equal, made to shrink, promised return — Isaiah 30:26, *"the light of the moon shall become as the light of the sun"*; Cordovero's *atarah*, where Malkhut *becomes* the crown on ascent).
 >

@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Jagwar Twin
 
-> **One-line reading.** Jagwar Twin isn't a person — it's the project itself, the stage every voice in this world walks out onto, and its name means *a mirror of consciousness with a double nature.*
+> **One-line reading.** Jagwar Twin isn't a person — it's the whole system, the container the whole cast lives inside, and its name means *a mirror of consciousness with a double nature.* **Jagwar Twin is not another word for [[Roy]].** It's the stage every voice walks out onto — [[Roy]], [[Sir Lucius]], [[Ballerina Boy]], [[Mary]], [[Sir Rabbit]], [[SARAVI]], and [[The Jaguar]] all appear *inside* it. It's the place where the inner system becomes music, mythology, and mirror.
 
 > [!infobox] Jagwar Twin
 > - **Also known as** — the project · the container · *Roy English* (2006–2015, former name)
@@ -37,6 +37,20 @@ Keep three things distinct and the architecture snaps into focus:
 - **Jagwar Twin** is the project that frames them both. That's the page you're on.
 
 Say "Jagwar Twin" and you might mean the band, the body of work, or the entire world the songs build. The name was chosen to hold all of that at once — which is exactly why one project can contain a cast of figures who openly disagree with each other without ever contradicting itself.
+
+The cast is really one nested system: a single person, laid out in layers, with Jagwar Twin as the container that holds them all.
+
+```
+Jagwar Twin  =  the whole system / the container
+
+  Brandon         — the lived origin (the person)
+  Ballerina Boy   — the buried child / original light  (the exile)
+  Sir Lucius      — the protector-shell / shadow-mind
+  Roy             — the conscious interpreter / heart-voice
+  Mary            — the source-aligned blessing
+```
+
+Read from the inside out, that's one life told as a system of voices — and Jagwar Twin is the whole of it, not any single line in the stack.
 
 ## A project, not a person
 
