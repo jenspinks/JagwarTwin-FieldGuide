@@ -18,7 +18,7 @@ This guide tries to be honest about two different things: **what the work actual
 - public interviews, livestreams, and press
 - public social-media posts from the artist's official accounts
 
-It does **not** use private conversations, unreleased material, or non-public fan exchanges as the basis for any claim. Lyrics are quoted only in **short excerpts** for analysis; for full lyrics, follow the links out to Genius or your streaming service.
+It does **not** use private conversations, unreleased material, or non-public fan exchanges as the basis for any claim. Full lyrics and full credits appear here with the artist's permission.
 
 ## How interpretation is labeled
 

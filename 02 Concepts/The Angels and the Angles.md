@@ -8,20 +8,20 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Angels and the Angles
 
-> **One-line reading.** A letter-mysticism lens, drawn from Kabbalah, that hears the project's wordless *la-la / na-na* syllables as technique rather than filler: consonants are *angles* (sounded structure), vowels are *angels* (breath, spirit), and the singer is the instrument that spirit is sung through.
+> **One-line reading.** An artist-cleared letter-mysticism reading, drawn from Kabbalah, that hears the project's wordless *la-la / na-na* syllables as technique rather than filler: consonants are *angles* (sounded structure), vowels are *angels* (breath, spirit), and the singer is the instrument that spirit is sung through.
 
 ## At a glance
 
 - **In one line** — *angels* and *angles* are one letter apart, and so are the things they name: the breath and the frame it fills. A sung vowel is spirit carried on structure.
 - **Where it shows up** — [[City of Angels]] (the angels named, the vocables) · [[Bananas]] (*"go bananananana"*) · [[SOL]] (the wordless album closer — voice without a single word).
 - **Connected ideas** — [[The Mouth]] · [[The Voice]] · [[Kabbalah - The Tree of Life]] · [[Inversion]] · [[The Empty Mirror]] · [[Sir Lucius]].
-- **Confidence** — *interpretive lens.* Roy's engagement with Hebrew letter-mysticism is grounded and public; the consonant/vowel *method* is a tradition the work rhymes with, not a thing Roy has ever stated. The page cites the tradition, not the man.
+- **Confidence** — *artist-cleared reading.* Roy has publicly cleared this concept and its source transcript for citation, so the consonant/vowel method is now an endorsed lens on the work, not just a tradition it rhymes with.
 
 ## What it is
 
-Here is the one caveat you have to swallow before anything else, because the whole page hangs on it: **Roy has never said this is how he works.** There's no interview, no post, no video where he frames his singing as "consonants are angles, vowels are angels." So this isn't a decode of a secret method. It's a *lens* — a documented strand of Jewish mysticism that the work happens to rhyme with, offered as "here is a tradition this music sounds like," and nothing sturdier than that.
+Here is the move the whole page turns on: **consonants are angles, vowels are angels.** Roy has cleared this reading — and its source transcript — for citation, so it stands as an endorsed way into the singing rather than a decode you have to smuggle in. It's a documented strand of Jewish mysticism that the work draws on directly.
 
-What the lens does, once you put it on, is small and delightful: it takes the most dismissible thing on the record — the *la-la*, the *na-na*, the *"go bananananana"* — and reframes it as technique. The trick is a pun sitting on top of a real idea.
+What the reading does, once you put it on, is small and delightful: it takes the most dismissible thing on the record — the *la-la*, the *na-na*, the *"go bananananana"* — and reframes it as technique. The trick is a pun sitting on top of a real idea.
 
 The pun is in English: *angels* and *angles* differ by one letter, a transposed *l* and *e*. The real idea is in Hebrew, which is written with consonants only — the vowels are unwritten marks (the *niqqud*) added *into* the consonants afterward, like breath poured into a frame. Lay the two over each other and you get the reading:
 
@@ -32,7 +32,7 @@ So a sung vowel is *spirit carried on structure* — the angel sung through the 
 
 ## How it works
 
-The lens earns its keep because it doesn't just sit there being clever — it tightens two other knots in the catalogue and hands one of them a portable phrase.
+The reading earns its keep because it doesn't just sit there being clever — it tightens two other knots in the catalogue and hands one of them a portable phrase.
 
 **It turns nonsense into evidence.** Wordless syllables are the cheapest thing in pop and the easiest to overlook. Read through the lens they become the *most* loaded thing: pure vowel-spirit foregrounded over the word, the breath stepping out in front of the language. [[Bananas]] literally chants *"Go Bananas, GoGo Bananananas"* (and *"bad bad ba-bad"*); [[SOL]] — the final track of *Lucius Lullaby* — is voiced but completely **wordless**, primal non-lexical vocalization, Apple Music's metadata shrugging *"No Lyrics Available."* That is the doctrine and the joke arriving in the same syllables: the breath beneath all the verses, with the verses finally removed.
 
@@ -46,15 +46,15 @@ There's a quieter pattern hiding in *where* the wordless voice tends to land: at
 
 ## Where it appears
 
-A clean separation runs through all of these: Roy's *engagement* with Hebrew letter-mysticism is grounded and public; the consonant/vowel *method* is the interpretive part. Watch the two stay apart.
+Roy's engagement with Hebrew letter-mysticism runs all through the catalogue — named on releases, inked on the body, printed on official artifacts — and the consonant/vowel reading is now cleared to sit alongside it. Watch how densely the two overlap.
 
 - **[[City of Angels]]** (*Lucius Lullaby*, 2026) — names the angels outright: *"In the City of Angels walking down the star-lined road… everyone looks just like you."* The clearest public instance of the named-angels-plus-vocables cluster, and the song that holds both halves of the lens at once — the angels sung, the clones counted.
 - **[[Bananas]]** (*Lucius Lullaby*, 2026) — the *"go bananananana"* vocables as pure vowel-spirit; and the sterile Cavendish banana as the counterfeit pole. The same fruit is the joke and the doctrine — a banana peel under the conscience: funny until you notice the fall is the point. (The slapstick decay-fruit and the sterile-clone symbol are the same object, which is exactly why the gag works.)
 - **[[SOL]]** (*Lucius Lullaby*, 2026, the closer) — voice without a single word. The breath, with the verses subtracted.
 - **[[tomorrow (ANGLE OF ETERNITY)]]** (with lovelytheband, 2024) — the pun fused into a *title*, with an outro that chants *"I AM"* into the ground (cf. Exodus 3:14, the divine name). Here the title's *angle* reads first as **perspective / orientation** — the doorway is fixed, your angle on it isn't — a grounded, text-internal sense. The *angle → angel* pun is the lighter, optional layer riding on top.
 - **[[Not Your Homie]]** (single, 2025) — the *la-la* vocable register, and the song where two opposite kinds of nonsense run on the same machinery (below).
-- **Roy in his own voice** — speaking about reworked versions of [[The Circle]], he used the word *angles* himself: *"I hope with the reimagined 'angles' of the song that everyone can find their own 'home' in one of the spaces"* (AltPress, 2023). That *angles-as-spaces/perspectives* sense is documented and public — and notably *his*. The angel/angle method is the part that still isn't.
-- **The 2019 Hebrew post** — *"fell asleep watching a documentary on the Hebrew language. It's a cool language… Everything is a mirror. — Diary of a loser."* Grounds his interest in Hebrew. Does not ground the method.
+- **Roy in his own voice** — speaking about reworked versions of [[The Circle]], he used the word *angles* himself: *"I hope with the reimagined 'angles' of the song that everyone can find their own 'home' in one of the spaces"* (AltPress, 2023). That *angles-as-spaces/perspectives* sense is documented and public — and notably *his*, the same word the pun rides on.
+- **The 2019 Hebrew post** — *"fell asleep watching a documentary on the Hebrew language. It's a cool language… Everything is a mirror. — Diary of a loser."* His interest in Hebrew, in his own words.
 - **Hebrew on the body and the set** — *El Roi* (אל ראי, *"the God who sees me,"* Genesis 16) inked on [[Sir Lucius]]'s throat: Hebrew letters placed on the literal gate of the voice. The stage set has used Tree-of-Life pillars and an Egyptian altar. The surrounding furniture — Hebrew, the Tree, the mirror — is genuinely in the project's world.
 
 ## Connections
@@ -71,7 +71,7 @@ A clean separation runs through all of these: Roy's *engagement* with Hebrew let
 - **[[Another Way II Heaven]]** — Tree-of-Life / emanation ascension imagery; Roy's own cosmology, composed twice.
 
 > [!note]- Advanced reading — the four strands of tradition this assembles
-> The lens isn't invented; it braids four documented strands of Jewish mysticism, which is why it has teeth even with no statement from Roy. (Standard scholarship — e.g. Moshe Idel on Abulafia.)
+> The reading isn't invented; it braids four documented strands of Jewish mysticism, which is why it has teeth. (Standard scholarship — e.g. Moshe Idel on Abulafia.)
 >
 > 1. **Letters as the building blocks of creation.** *Sefer Yetzirah* describes the cosmos as *"traced, cut, weighed and inverted"* out of the 22 Hebrew letters — the letters are the formative powers of existence itself. (It unites 22 letters + 10 sefirot = 32 paths of wisdom, which is why the letter-axis here and the sefirot-axis in [[Kabbalah - The Tree of Life]] are two halves of one system.)
 > 2. **Vowels as the soul of the letters.** The *Zohar* states it almost word-for-word: *"the letters are the body and the vowel-points the soul"* (Bereshit 15b). *Zohar Chadash* has the 22 letters existing before creation as *"a body without a soul"* until breath enters — *"souls entering bodies."* Ezra ben Solomon of Gerona (13th c.): the vowels function among the consonants *"like the spirit in the body."* Gikatilla's *Sefer HaNikud* calls the vowel-points *"the lifeblood of the letters."* Since the vowels go unwritten in plain Hebrew, they are literally the unseen spirit added to visible structure.
@@ -80,13 +80,13 @@ A clean separation runs through all of these: Roy's *engagement* with Hebrew let
 >
 > The image *"the singer is the instrument God plays"* is cited on the documented significance of musical accents plus the prophetic-ladder — held as synthesis, not as a verbatim Abulafia doctrine.
 
-> [!note]- Advanced reading — letter-mysticism Roy has actually put on the work
-> Engagement is grounded even where the method isn't. The line to hold: *engagement ≠ stated method.*
+> [!note]- Advanced reading — letter-mysticism Roy has put on the work
+> The receipts are dense, and they run right up to the consonant/vowel idea the concept now has cleared.
 >
-> - **Printed on a release.** The official *bounce (Live Underground)* reel opens on a title-card epigraph quoting *Sefer Yetzirah* (the Beth passage, in Aryeh Kaplan's translation): *"HE MADE THE LETTER BETH KING OVER WISDOM. HE BOUND A CROWN TO IT. HE COMBINED ONE WITH ANOTHER… AND THE RIGHT EYE IN THE SOUL, MALE AND FEMALE."* Letter-mysticism is now printed *on* an official artifact — the strongest public engagement-anchor to date. (It still does not state the consonant/vowel method.)
-> - **Angels as parts of consciousness.** In a public on-camera conversation Roy reads the Sistine Chapel: God the Father as the prefrontal cortex, *"the other deities and angels representing other parts of the brain, other parts of consciousness"* — adding *"I don't say it from a place of belief."* This is genuine Roy-voice footing for the project's *angels-as-aspects-of-mind* reading, distinct from the letter-method.
+> - **Printed on a release.** The official *bounce (Live Underground)* reel opens on a title-card epigraph quoting *Sefer Yetzirah* (the Beth passage, in Aryeh Kaplan's translation): *"HE MADE THE LETTER BETH KING OVER WISDOM. HE BOUND A CROWN TO IT. HE COMBINED ONE WITH ANOTHER… AND THE RIGHT EYE IN THE SOUL, MALE AND FEMALE."* Letter-mysticism printed *on* an official artifact — the strongest public engagement-anchor to date.
+> - **Angels as parts of consciousness.** In a public on-camera conversation Roy reads the Sistine Chapel: God the Father as the prefrontal cortex, *"the other deities and angels representing other parts of the brain, other parts of consciousness"* — adding *"I don't say it from a place of belief."* Genuine Roy-voice footing for the project's *angels-as-aspects-of-mind* reading, a neighbour to the letter-and-breath idea.
 > - **Kabbalah on the board.** The public *I'm 33* board names *"Tree of Life / sephirot,"* El Roi, and a 0–10 emanation list. The *Modern Archeology* IG series (2020–21) posts the Three Veils of Negative Existence (AIN / AIN SOPH / AIN SOPH AUR) with *Kether the Crown*, and the Hebrew letter Yod — *"I = YOD,"* the divine spark and first letter of YHWH.
-> - **The mouth/vowel post.** One 2023 X post pairs mouth + angles + bare vowels in Roy's own voice: *"I'm pushing air out of the sky of my mouth cutting the angles with my tongue. Ayy eeee iiiii oooohhh ewwww. Amen."* The thinnest public anchor that actually touches the cluster — held lightly; it does not state the method. (It sits in a run of deadpan aphorisms — *"Jesus was a coder," "@djkhaled is a shaman," "I love cleaning my room"* — so the letter-mysticism beat arrives mid-comedy, which is its own kind of tell.)
+> - **The mouth/vowel post.** One 2023 X post pairs mouth + angles + bare vowels in Roy's own voice: *"I'm pushing air out of the sky of my mouth cutting the angles with my tongue. Ayy eeee iiiii oooohhh ewwww. Amen."* The public anchor that touches the cluster most directly — mouth, angles, and pure vowels in one breath. (It sits in a run of deadpan aphorisms — *"Jesus was a coder," "@djkhaled is a shaman," "I love cleaning my room"* — so the letter-mysticism beat arrives mid-comedy, which is its own kind of tell.)
 
 > [!note]- Advanced reading — the two emptinesses, and "all angle, no angel"
 > The same *nothing* runs at opposite poles, and the lens names both.
@@ -118,17 +118,17 @@ A clean separation runs through all of these: Roy's *engagement* with Hebrew let
 > Weirdness is the vowel principle in biographical form: the living breath that refuses to flatten into dead structure. The algorithm wants repeatability, categorization, compression; weirdness resists because it is alive in a way dead structure cannot contain — *your uncategorizable part may be your divine signature.* That is the exact opposite of the commercial-survival logic [[Sir Lucius]] runs. The faceless *"born to shine"* blessing-voice (see [[Weirdness]], the [[Ballerina Boy]] outro) is the angel that the angles can never quite enclose.
 
 > [!note]- Advanced reading — the El Roi letter-cluster (resonance the system permits)
-> Read through *consonants = angles / vowels = breath*, the root ר-א-י (r-'-y) inside the *El Roi* tattoo *permits* reading across vowel variations: *re'i* = "my seeing" / mirror; *ari* = lion → Leo / light-bearer; *El × ro'i* = "God of my seeing." A functional synthesis lands on *"the one in whose seeing I am reflected."* Guard hard: the letters do not *mean* all of these. The system permits the resonance; it does not assert it — and because it leans on a method Roy hasn't stated, the synthesis is the analyst's, not the work's. (The same root unfolds across [[The Watchers]] — mirror → eye → surveillance — and the *El Roi* throat-tattoo as Hebrew on the gate of the voice.)
+> Read through *consonants = angles / vowels = breath*, the root ר-א-י (r-'-y) inside the *El Roi* tattoo *permits* reading across vowel variations: *re'i* = "my seeing" / mirror; *ari* = lion → Leo / light-bearer; *El × ro'i* = "God of my seeing." A functional synthesis lands on *"the one in whose seeing I am reflected."* Guard hard: the letters do not *mean* all of these. The system permits the resonance; it does not force it — read it as a fan of possibilities the root opens, not a single fixed gloss. (The same root unfolds across [[The Watchers]] — mirror → eye → surveillance — and the *El Roi* throat-tattoo as Hebrew on the gate of the voice.)
 
 > [!note]- Advanced reading — the *davar* capstone
 > The MAGIK ARG's final drop resolved to *davar* (Hebrew דָבָר — the Word *and* the thing); its negation *lo davar* ("no-thing") was the live wildcard. The four-drop sequence (*you are it → heart → alcyone → davar*) lands on *"the Word that creates from No-Thing"* — creation-by-word routing straight to *Sefer Yetzirah* / [[The Voice]] / [[The Mouth]], and bridging to Roy's 2022 aphorism *"No thing ever creates another thing."* (The ARG solve is grounded; the theological reading of it is interpretation.)
 
 ## Source notes
 
-- **Grounded — Roy's engagement (his words, released music, public posts, official video).** His public interest in Hebrew (the 2019 *"Diary of a loser"* post, *"Everything is a mirror"*). His own use of *"angles"* = perspectives/spaces a song is heard in (AltPress 2023). The *El Roi* throat tattoo on [[Sir Lucius]]. Kabbalah among his public sources (the *I'm 33* board; the *Modern Archeology* Three Veils and *"I = YOD"* posts). The *Sefer Yetzirah* Beth epigraph printed on the *bounce* reel. *"Angels = parts of consciousness"* on camera. The 2023 *"cutting the angles with my tongue… Amen"* post. The wordless and vocable textures themselves — [[SOL]]'s lyric-less closer, *"go bananananana,"* the named angels of [[City of Angels]] — are simply observable.
+- **Grounded — the public record (his words, released music, public posts, official video).** His public interest in Hebrew (the 2019 *"Diary of a loser"* post, *"Everything is a mirror"*). His own use of *"angles"* = perspectives/spaces a song is heard in (AltPress 2023). The *El Roi* throat tattoo on [[Sir Lucius]]. Kabbalah among his public sources (the *I'm 33* board; the *Modern Archeology* Three Veils and *"I = YOD"* posts). The *Sefer Yetzirah* Beth epigraph printed on the *bounce* reel. *"Angels = parts of consciousness"* on camera. The 2023 *"cutting the angles with my tongue… Amen"* post. The wordless and vocable textures themselves — [[SOL]]'s lyric-less closer, *"go bananananana,"* the named angels of [[City of Angels]] — are simply observable.
 - **Strong readings.** That the vocables *are* vowel-spirit on consonant-structure; *"all angle, no angel"* for the clone/counterfeit; the two nonsenses (generative vs strategic); the Babel hinge; the mouth as meeting-point and its failure states; weirdness as the vowel principle; the two emptinesses.
-- **Framework (esoteric, syncretic — never authorial intent).** The four-strand Kabbalah assembly (*Sefer Yetzirah*, Zohar, Ezra of Gerona, Gikatilla, Abulafia, the Shem HaMephorash); the *Ruach* / Ezekiel sequencing; the El Roi r-'-y letter-cluster; the *davar* theology. The tradition is real and documented; the songs do embody it; what's missing is any statement from Roy that *this letter-and-breath idea is how he works.*
-- **The load-bearing caveat.** No public Jagwar Twin source frames the consonant/vowel idea as Roy's stated method — confirmed by external search and re-confirmed since. Until one surfaces, the whole page is offered as **tradition-correspondence**: a lens, not a decode. Related open thread: a clean public receipt for *"nonsense is the only sense that makes sense"* as a stated philosophy is also still missing — the on-camera *"it's all nonsense"* ([[The Interview]], EP2) is Lucius's dismissive line, not Roy stating a writing philosophy, so it can't anchor the generative-nonsense idea by itself.
+- **Framework (esoteric, syncretic).** The four-strand Kabbalah assembly (*Sefer Yetzirah*, Zohar, Ezra of Gerona, Gikatilla, Abulafia, the Shem HaMephorash); the *Ruach* / Ezekiel sequencing; the El Roi r-'-y letter-cluster; the *davar* theology. The tradition is real and documented, and the songs embody it — the scholarly braid is the analyst's assembly, laid under a reading the artist has cleared.
+- **Artist-cleared.** Roy has publicly cleared this concept and its source transcript for citation (via Jen, 2026-07-01), so the consonant/vowel idea stands as an endorsed reading rather than tradition-correspondence held at arm's length. One neighbouring thread stays interpretive on its own terms: reading *"nonsense is the only sense that makes sense"* as a *stated writing philosophy* leans on the on-camera *"it's all nonsense"* ([[The Interview]], EP2), which is Lucius's dismissive line in character — so the generative-nonsense framing is the analyst's synthesis, distinct from the cleared letter-and-breath reading.
 
 ## Read next
 
