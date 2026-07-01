@@ -8,7 +8,7 @@ source_basis: ["public posts", "public interviews"]
 ---
 # Public Posts
 
-> **What this is.** A referenced index of the key public social posts this guide quotes — so when a page says *"Roy said…"* or *"Lucius posted…,"* there's a real source behind it. These are the paratexts of the project: captions, aphorisms, rollout campaigns, a reading list. Where a post still survives online, the link goes to the original. Where it doesn't, the post is listed by description and date so you can go looking.
+> **What this is.** A referenced index of the key public social posts this guide quotes — so when a page says *"Roy said…"* or *"Lucius posted…,"* there's a real source behind it. These are the paratexts of the project: captions, aphorisms, rollout campaigns, a reading list. Where a post still survives online, the link goes to the original. Where it doesn't, the post is listed by description and date so you can go looking. This page is the *curated* set; for the wide net — every canon-relevant post catalogued, grouped by theme — see **[[Roy's Posts — Canon Index]]**.
 
 A note on voice. Some of these come from **Roy** (the @JagwarTwin / @royenglish accounts, in his own voice). Some come from **[[Sir Lucius]]** — because in October 2024 Roy literally handed the band's Instagram to his own shadow, and a good deal of what got posted afterward is the villain talking. The split is the point; both are flagged below.
 

@@ -44,7 +44,7 @@ If you're new, read these few pages first. They're the spine everything else han
 Two pages collect the paratexts the rest of the guide quotes from — so a claim always has a receipt:
 
 - **[[The Interview]]** — the seven-part theatrical series (Roy versus his shadow, filmed across a table), the closest thing the project has to a narrative.
-- **[[Public Posts]]** — a referenced index of the key public posts, so when a page says *"Roy said…"* or *"Lucius posted…,"* there's a real, dated source behind it.
+- **[[Public Posts]]** — a referenced index of the key public posts, so when a page says *"Roy said…"* or *"Lucius posted…,"* there's a real, dated source behind it. (For the full sweep, see **[[Roy's Posts — Canon Index]]**.)
 
 ---
 
