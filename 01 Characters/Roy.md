@@ -51,7 +51,7 @@ That buried child — the [[Ballerina Boy]] — is the exile, and Roy is not tha
 
 *(A note on names: this guide uses "Roy" for the public artistic voice; the childhood wound itself belongs to the human person underneath, before the later mythic roles — the exile boy, the protector-mind, the interpreter — fully differentiate. Roy is who that person becomes when he turns around to face what he buried.)*
 
-Years later he names the cost of that childhood prayer in a single posted line — *"a good boy does not make a good man."* The seven-year-old prayed to be made *good* and buried himself to get there; the adult interpreter has figured out that the goodness he was sold was a cage. The whole recovery is Roy going back to un-bury the boy the *good* boy replaced.
+Years later he names the cost of that childhood prayer in a single posted line — *"a good boy does not make a good man"* ([[Public Posts]]). The seven-year-old prayed to be made *good* and buried himself to get there; the adult interpreter has figured out that the goodness he was sold was a cage. The whole recovery is Roy going back to un-bury the boy the *good* boy replaced.
 
 This is the page's one sacred zone. Be warm here, not clever.
 
@@ -79,7 +79,7 @@ Here is the keystone, and it's grounded in Roy's own voice. He's explicit that [
 
 > "In so many different mythologies the intellect, or the rational mind, is equated with the Lucifer archetype — the most beautiful angel with the most potential to fall."
 
-Crucially, the mind is never simply *bad* in his telling. It's *"potentially this beautiful thing"* — high, necessary, and dangerous *precisely because* of that height. The antagonist is the mind **enthroned**, not the mind as such. He's also posted the harder version — *"The mind is the slayer of the real / we must slay the slayer"* — which is why the project's resolution is a discipline and not a conquest. You don't kill the mind. You ask it to serve.
+Crucially, the mind is never simply *bad* in his telling. It's *"potentially this beautiful thing"* — high, necessary, and dangerous *precisely because* of that height. The antagonist is the mind **enthroned**, not the mind as such. He's also posted the harder version — *"The mind is the slayer of the real / we must slay the slayer"* ([[Public Posts]]) — which is why the project's resolution is a discipline and not a conquest. You don't kill the mind. You ask it to serve.
 
 ## "Co-creators," not fans — and why the crowd can hurt him
 
@@ -99,7 +99,7 @@ And there's the catch the whole El Roi pun keeps circling: the man whose mission
 
 ## Two ways to say the same thing
 
-The cleanest public demonstration of the Roy/Lucius split is one observation said twice. From Roy it's rueful — *"Everyone's a guru. We are now fully in the aquarium"* — humility, *we're all trapped performing authority, me included.* From Lucius, on the same account, it curdles into contempt: *"Everyone is an artist or a guru or a dj these days. I'm bored. Find something more interesting to do with your little life."* One observation, two hearts. That gap is the whole difference between them — and the fact that Roy stages both, on his own feed, is the funniest and most revealing trick in the catalogue: the artist hiring his own shadow to roast him in public.
+The cleanest public demonstration of the Roy/Lucius split is one observation said twice. From Roy it's rueful — *"Everyone's a guru. We are now fully in the aquarium"* ([[Public Posts]]) — humility, *we're all trapped performing authority, me included.* From Lucius, on the same account, it curdles into contempt: *"Everyone is an artist or a guru or a dj these days. I'm bored. Find something more interesting to do with your little life."* One observation, two hearts. That gap is the whole difference between them — and the fact that Roy stages both, on his own feed, is the funniest and most revealing trick in the catalogue: the artist hiring his own shadow to roast him in public.
 
 ## Relationships
 
@@ -162,7 +162,7 @@ The full inventory — including the unexplained ones and the crossed-out ones �
 >
 > One mapping reads Roy as **Tiferet** — the heart-center, the savior-archetype, the harmonizing point of the Tree of Life. That carries a built-in trap, which the framework flags openly: *identification with* the savior archetype rather than *service to* it is its own inflation. A 2026 re-mapping moves him instead to the **Moon / the lunar position** — the only figure occupying both Malkhut and Yesod, the lunar vessel *reaching toward* the Sun (Tiferet / the heart / SOL), not the Sun itself. The reach is the point; arrival is not assumed.
 >
-> A second framework reading hears a sixteen-year **water-line** in his self-naming: *Eye Alaska* (2010, looking toward the shore) → *Subject to Flooding* (2018, being the flooded) → *"I am the shore, I am not the wave"* (2026, being the shore). Almost certainly retrospective continuity rather than an authored plan — but it's a clean shape. Note also that he is a Gemini Sun, which literalizes *Jagwar Twin* and the **duality** he calls *"a lot of what Jagwar Twin is"* — his X bio runs *"🐆 ☉ There's two sides to every story ☉."*
+> A second framework reading hears a sixteen-year **water-line** in his self-naming: *Eye Alaska* (2010, looking toward the shore) → *Subject to Flooding* (2018, being the flooded) → *"I am the shore, I am not the wave"* (2026, being the shore — [[Public Posts]]). Almost certainly retrospective continuity rather than an authored plan — but it's a clean shape. Note also that he is a Gemini Sun, which literalizes *Jagwar Twin* and the **duality** he calls *"a lot of what Jagwar Twin is"* — his X bio runs *"🐆 ☉ There's two sides to every story ☉."*
 
 > [!note]- Advanced reading — the LOOP cosmology (his authored mythology)
 > Treat this as authored myth, not literal claim. Roy's published *LOOP* arc runs: *"In the beginning there was the One. The One was divided"* → *"a shadow awoke, and the shadow was Sir Lucius"* → the war → *"Sir Lucius created his own Dark Circle within The Circle and the loop continued"* → *"My mind must serve my heart… the loop ends the moment you choose it"* → *"as the rose bloomed."* The resolution verb is **service** — integration, not destruction. His own glosses populate it: the green apple (knowledge plucked too soon), the rose (the heart revealed in the center of the cross), and the *"I am thee / Thou is Me"* nondual chant.

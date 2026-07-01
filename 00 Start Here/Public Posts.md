@@ -55,7 +55,6 @@ The 2026 rollout staged the whole Roy-versus-Lucius conflict in public, and the 
 - *"Leave sir lucius alone ✋🖤"* — X · Nov 26, 2025. The defend-the-villain inversion, months before the accounts flipped.
 - *"welcome to the circus clowns 🎪"* / *"welcome to the BMRC 🎪"* — the Circus-and-clowns framing carried across the merch and event captions of the era. See [[Welcome to the Circus]].
 - **STOP SIR LUCIUS.** At release the campaign reversed. *"We must stop him."* — X · Mar 26, 2026, over a real **STOP SIR LUCIUS** flyer. The same day: a photo of an **LA freeway overpass banner** reading STOP SIR LUCIUS, and Lucius's own retort in a red coat — *"It can't be stopped. 'lucius lullaby' is out everywhere."* The flyers and banner were physically posted around Los Angeles; the campaign was real, not metaphor.
-- **MERCY's verdict.** MERCY (Mercedes Britton, a real collaborator on *Not Your Homie*) posted the three-word review of the whole arc — *"Now you are a clown 🗡"* — and Roy reposted it. — X (@Unimerce1, reposted by @JagwarTwin) · Mar 23, 2026. The clown mode named back at him.
 - **The one-take masterpiece.** The *Not Your Homie* visualizer dropped captioned *"one take. no edit. sir lucius says you're all welcome for this masterpiece"* — the whole persona in one tag: a throwaway declared a masterpiece, and you're welcomed for it before you've thanked anyone. *(Visualizer caption; live URL not captured.)*
 
 ---

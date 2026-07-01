@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## What it is
 
-There's a line Roy posted in April 2026, on the verified Jagwar Twin account, that the whole concept hangs from: *"Everyone's a guru. We are now fully in the aquarium."* That's it. That's the word, in his own hand, in public.
+There's a line Roy posted in April 2026, on the verified Jagwar Twin account ([[Public Posts]]), that the whole concept hangs from: *"Everyone's a guru. We are now fully in the aquarium."* That's it. That's the word, in his own hand, in public.
 
 An aquarium is the cleanest possible picture of a trap you can't perceive as a trap. The fish doesn't know it's in water — water is just *everything*, the medium it breathes, the only condition it's ever had. It cannot conceive of air, and so it cannot conceive of the tank. The glass is right there, an inch away, and it is the most invisible object in the world.
 
@@ -48,7 +48,7 @@ The strange thing about the Aquarium is that it's almost never named — and the
 - **[[The Watchers]] / [[Lucius Lullaby (album)|Lucius Lullaby]] / [[Moths to the Flame]]** — the three songs voicing the sedation axis: alarm, sedative-lullaby, and comfort-that-culls.
 - **[[Superhuman]]** — the counterfeit *"we"*, the *"no face in the crowd"* flattening; the totalized-system register where individuality dissolves into the medium.
 - **The *I'm 33* board** (publicly posted, April 2026) — *"inconvenient to live life awake / planetary dream,"* grounding the wake/sleep axis in Roy's own hand.
-- **The *Sir Lucius* Instagram rant** (signed *"Your loyal servant, Sir Lucius 🗡🍏"*) — the contempt pole of *"everyone's a guru,"* embedded in a pure industry scorecard.
+- **The *Sir Lucius* Instagram rant** (signed *"Your loyal servant, Sir Lucius 🗡🍏"*, [[Public Posts]]) — the contempt pole of *"everyone's a guru,"* embedded in a pure industry scorecard.
 - **The Honey Podcast** (S2E7) — Roy describing the character-trap as an enclosed world, and explicitly denying the guru role (below).
 
 ## Connections
