@@ -72,3 +72,53 @@
 .nav-folder-title[data-path="04 Songs"]         .nav-folder-title-content { color: rgb(45, 170, 140); font-weight: 600; }
 .nav-folder-title[data-path="05 Albums & Eras"] .nav-folder-title-content { color: rgb(214, 158, 56); font-weight: 600; }
 .nav-folder-title[data-path="06 Reading Paths"] .nav-folder-title-content { color: rgb(120, 110, 215); font-weight: 600; }
+
+/* ============================================================
+   Artifact card gallery (cssclasses: cards) — render a plain
+   markdown table as cards in READING VIEW. The Shiba Inu theme
+   only cards Dataview tables (.cards table.dataview); this adds
+   plain-table support so the app matches the live Publish site.
+   ============================================================ */
+.markdown-preview-view.cards table { width: 100%; border-collapse: collapse; border: none; line-height: 1.3; margin: 1em 0 0; }
+.markdown-preview-view.cards table thead { display: none; }
+.markdown-preview-view.cards table tbody {
+  display: grid;
+  grid-template-columns: var(--cards-columns, repeat(auto-fit, minmax(210px, 1fr)));
+  gap: 0.8rem; padding: 0.4rem 0;
+}
+.markdown-preview-view.cards.cards-cols-3 table tbody { --cards-columns: repeat(3, minmax(0, 1fr)); }
+.markdown-preview-view.cards.cards-cols-4 table tbody { --cards-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 760px) { .markdown-preview-view.cards table tbody { --cards-columns: repeat(2, minmax(0, 1fr)); } }
+.markdown-preview-view.cards table > tbody > tr {
+  display: flex; flex-direction: column; margin: 0; padding: 0 0 0.55em;
+  background: linear-gradient(180deg, var(--card-tint, #1f6f78) 0%, transparent 100%);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px; overflow: hidden;
+  transition: box-shadow 0.15s linear, border-color 0.15s linear;
+}
+.markdown-preview-view.cards table > tbody > tr:hover {
+  border-color: var(--background-modifier-border-hover);
+  box-shadow: 0 4px 10px rgba(0,0,0,.06), 0 1px 3px rgba(0,0,0,.04);
+}
+.markdown-preview-view.cards table tbody > tr > td { border: none; }
+.markdown-preview-view.cards table tbody > tr > td:first-child { font-weight: 600; font-size: 1rem; line-height: 1.25; padding: 0.5em 0.65em 0.15em; }
+.markdown-preview-view.cards table tbody > tr > td:first-child a { display: block; }
+.markdown-preview-view.cards table tbody > tr > td:not(:first-child) { font-size: 0.82em; color: var(--text-muted); }
+.markdown-preview-view.cards table tbody > tr > td:not(:first-child):not(:last-child) {
+  padding: 5px 0; border-bottom: 1px solid var(--background-modifier-border);
+  width: calc(100% - 1.3em); margin: 0 0.65em;
+}
+.markdown-preview-view.cards table tbody > tr > td:last-child { padding: 7px 0.65em 2px; }
+/* image cell: pull to the top, full-bleed */
+.markdown-preview-view.cards table tbody > tr > td:has(img) {
+  order: -1; padding: 0 !important; margin: 0; width: 100%;
+  background-color: transparent; display: block;
+}
+.markdown-preview-view.cards table tbody > tr > td img {
+  width: 100%; object-fit: contain; max-height: var(--cards-image-height, 340px);
+  background-color: transparent; vertical-align: bottom; border-radius: 0;
+}
+.markdown-preview-view.cards table tbody > tr > td:has(> code)::before {
+  content: "CODE: "; font-size: 0.58rem; letter-spacing: 0.09em; font-weight: 700;
+  color: var(--text-muted); margin-right: 0.4em; vertical-align: 1px;
+}

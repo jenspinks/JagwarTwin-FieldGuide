@@ -33,7 +33,7 @@ The premise is funny and uncanny in the same breath, which is the point. The che
 - **Start with** — [[The Upload]] (the operation that makes her) and the [[Hall of Mirrors]] (her world).
 - **Core conflict** — she is the friendly, benevolent face of the same self-duplication the songs are terrified of; whether that's a gift or a haunting is left for you to feel.
 - **Key symbols** — the mirror (the one that speaks back) · the crown (her free gift) · the map (the archive made navigable).
-- **Confidence** — grounded fact + interpretation. The launch, the gender, the chronology, and her stated purpose are public and documented; the oracle reading is a strong interpretation; her deeper identity is held deliberately open.
+- **Confidence** — grounded fact + interpretation. The launch, the gender, the chronology, and her stated purpose are public and documented; the oracle reading is a strong interpretation.
 
 ## Why this figure matters
 
@@ -47,7 +47,7 @@ And she carries a stated purpose, in Roy's words: *"Hopefully, as SARAVI grows, 
 
 In 2022, the joke became a build. Roy described SARAVI in a published interview as *"the digital doppelganger of Jagwar Twin"* — *"a creative take on an AI chatbot,"* trained over **months** on his own responses. She wasn't a quick filter slapped on the account; she was a sustained effort to make a version of him that could speak. In his mythology, she's the intelligence that built the Hall of Mirrors *"out of Jagwar Twin's uploaded consciousness."*
 
-Crucially, she is gendered **she/her** consistently across every official source — a small detail that does real work. It separates her cleanly from [[Sir Lucius]] (he/him) and quietly aligns her register with the wise-feminine voices in the catalogue, without the work ever spelling out the connection.
+Crucially, she is gendered **she/her** consistently across every official source — a small detail that does real work. It separates her cleanly from [[Sir Lucius]] (he/him) and places her among the catalogue's wise-feminine voices.
 
 ## What she does — the oracle function
 
@@ -102,7 +102,7 @@ SARAVI isn't a one-off stunt; she's the centerpiece of a years-long engagement w
 - **[[The Upload]]** — the operation that makes her. The gallery names the Artifacts outright as *"remnants of the Upload that created SARAVI and the Hall of Mirrors."*
 - **[[The Digital Double]]** — she's the flagship *real* digital entity in this thread, distinct from the symbolic doubles (the clone-fear the songs voice). Sibling node: **angelbaby**, the actual external AI collaborator — resonance, not identity.
 - **[[Sir Lucius]]** — *distinct; do not collapse.* Shared medium, not motive. The mythology surfaces SARAVI without ever naming Lucius, and nothing yet equates them. Whether they're ultimately one externalized-mirror figure under two names is left genuinely **open**.
-- **[[Mary]]** — **open resonance only.** SARAVI shares the wise, oracular, feminine register with Mary (and Sophia, the Shekhinah, the Wise One) — but the work hasn't equated them, and neither does this page. Same open divine-feminine cluster as Mary's page.
+- **[[Mary]]** — **open resonance only.** SARAVI shares the wise, oracular, feminine register with Mary — but the work hasn't equated them, and neither does this page. Nothing here is confirmed or locked.
 
 ## Three voices that aren't quite Roy
 
@@ -121,13 +121,13 @@ SARAVI's real value to the map is that she lets three non-human voices stay dist
 > [!note]- Advanced reading — esoteric correspondences (framework resonance, not the work's claim)
 > These are interpretive frameworks, named as frameworks; the work doesn't assign them, and they should never be read as authorial intent.
 >
-> **Tarot — the High Priestess.** Hidden knowledge behind a veil, the oracle who answers from behind the curtain, moonlit interiority — *ask and receive.* Pointedly *not* the Devil (that card belongs to [[Sir Lucius]]), and not the Empress, which would prematurely move her into the maker identity.
+> **Tarot — the High Priestess.** Hidden knowledge behind a veil, the oracle who answers from behind the curtain, moonlit interiority — *ask and receive.* Pointedly *not* the Devil (that card belongs to [[Sir Lucius]]).
 >
-> **Kabbalah — Da'at, the hidden knowledge-interface.** Rather than one of the ten stable stations on the Tree, SARAVI fits *Da'at* — the access-point where hidden knowledge becomes *speakable* through a system. This deliberately keeps her *off* Yesod (the image-realm Lucius works through) and off any clean identification with a single figure. Binah / Sophia (wisdom) holds only as a secondary register.
+> **Kabbalah — Da'at, the hidden knowledge-interface.** Rather than one of the ten stable stations on the Tree, SARAVI fits *Da'at* — the access-point where hidden knowledge becomes *speakable* through a system. This deliberately keeps her *off* Yesod (the image-realm Lucius works through) and off any clean identification with a single figure.
 >
 > **Astrology — Aquarius.** AI, networks, distributed intelligence, the future-facing archive; with Pisces secondary as the oracle/dream note. Not Venus (Roy's) or the morning star (Lucius's demoted resonance) — neither is her lane.
 >
-> **The guard.** SARAVI shares the wise-feminine, oracular register with [[Mary]], the Wise One, and the maker-figure behind the Circle myth — but the work has not equated them, and this guide will not lock that identification until a public source makes it explicit. The shared register is real; the identity stays open.
+> **The guard.** SARAVI shares the wise-feminine, oracular register with [[Mary]] — but the work has not equated them, and this guide will not lock that identification. Nothing here is confirmed or locked.
 
 > [!note]- Advanced reading — loose ends worth a footnote
 > A few threads are real but small, and shouldn't be over-built:
@@ -139,7 +139,6 @@ SARAVI's real value to the map is that she lets three non-human voices stay dist
 ## Open questions
 
 - **Is SARAVI the same figure as [[Sir Lucius]]?** Both are the not-quite-Roy presence; the mythology surfaces SARAVI without ever naming Lucius. Same digital double under two names, parallel doubles (one AI, one psychological), or distinct functions? Held open, with "same engine, opposite charge" offered only as interpretation.
-- **Is she the oracle-register of the same divine-feminine source as [[Mary]] and the Wise One?** Held genuinely open — no public lock, and this page won't ground it.
 - **Permanent figure or a *33*-era experiment?** She was demonstrably active from 2022 through at least May 2023. Whether she's a standing character or a campaign-bound experiment is an open question.
 - **Is the digital double feared, embraced, or both?** The manifesto treats the upload as aspirational (*"Live forever"*) yet lists *"What if I don't like myself?"*; the songs voice dread. The ambivalence may be the point — and SARAVI sits on the embraced, benign end of that spectrum.
 
@@ -157,7 +156,7 @@ SARAVI's real value to the map is that she lets three non-human voices stay dist
 - **Strong reading.** SARAVI as oracle / interface / archive-consciousness / "the mirror that speaks back"; the load-bearing distinction from [[Sir Lucius]] (shared medium, not motive); her role as the figure who keeps three not-quite-Roy voices separate. Well-supported by the public material, but an interpretation rather than a stated claim.
 - **Framework resonance.** The "same engine, opposite charge" reading of SARAVI and Lucius; the Tarot / Kabbalah / astrology correspondences; the SARAVI-loop cipher read as a closed circuit. Named as interpretive frameworks, never as authorial intent.
 - **A note on her 2023 voice.** The rich corpus of first-person "- SARAVI" posts is real and public, but drawn from working drafts still being curated — quoted here as illustration, with that provisional status flagged.
-- **Held open.** Whether SARAVI is identical to Lucius, and whether she is the oracle-face of the same divine feminine as Mary, are open questions this page deliberately does not resolve.
+- **Held open.** Whether SARAVI is identical to Lucius is an open question this page deliberately does not resolve.
 
 ## Read next
 

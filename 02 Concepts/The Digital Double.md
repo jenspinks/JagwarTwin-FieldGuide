@@ -136,7 +136,7 @@ A few threads the work leaves genuinely live:
 - **Grounded (lyric / thematic).** The clone-fear (*"I'm afraid I'm a clone,"* [[The Watchers]]) and the face-thief army (*"a bug inside your database,"* [[Online]]) are released-lyric content voicing the double as dread.
 - **Strong readings.** The double as *reflection-given-autonomy*; the SARAVI→Lucius maturation (benign→dangerous, same engine); clone-fear as the sterile-vessel / "angles without angels"; the split-self root grounding the "many I's." Built on grounded anchors, but interpretive — labeled as such.
 - **Framework (esoteric, syncretic — never authorial intent).** The *wedjat* 63/64 clone paradox; the High Priestess / Da'at-as-interface / Aquarius placement for SARAVI; the vessel-counterfeit mapping. Licensed by Roy's open engagement (the *"I'm 33"* board, the Hermetic principles SARAVI studies, the Hall of Mirrors artifacts), but the work never states them. You don't need a word of it to read the page.
-- **The firewall.** SARAVI's public floor here is strictly *oracle-interface / uploaded-consciousness proxy.* Whatever deeper divine-feminine identity the mythology may be reaching toward is held as an open question, not asserted. This page draws only on released music, public interviews and posts, and official videos.
+- **The firewall.** SARAVI here is strictly *oracle-interface / uploaded-consciousness proxy.* She shares a register with other figures in the mythology — nothing is confirmed or locked. This page draws only on released music, public interviews and posts, and official videos.
 
 ## Read next
 
