@@ -5,7 +5,7 @@ cssclasses: ["type-meta"]
 status: published
 confidence: grounded
 ---
-# How to Read This Site
+# Where Am I?
 
 A one-minute orientation.
 
@@ -30,8 +30,9 @@ Full detail in the **[[Source and Interpretation Policy]]**.
 
 It **is** an independent, interpretive field guide: a readable map of a rich body of work, made by a listener who's stared at it for a long time, took notes, and had robots turn those notes into a knowledge blob.  
 
-It **isn't** official, and it isn't a claim to have "solved" anything. The artist is still creating this work and warns us at every turn that "Nothing's what it seems". Every page is a current best understanding, not the final word — and the work is more than any reading of it.
+It **isn't** official, and hasn't "solved" anything. There are a lot of words here interpreting subject matter that is personal and lands differently with each witness, because we all experience music differently and many of these melodies will seem eerily familiar while also being strange and new.  
+This is a guide, its growing and changing daily.  It does not hold any answers...at least until you arrived.  
 
-## A note on quotes
+The artist is still creating this work and warns often that "Nothing's what it seems". Every page is a current best understanding, not the final word, and the work is more than any reading of it.
 
-Lyrics appear only as short excerpts, for analysis. For full lyrics, use the outbound links to Genius or streaming. The songs belong to their makers; this guide just points at them.
+

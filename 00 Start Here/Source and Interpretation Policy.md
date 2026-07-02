@@ -30,8 +30,8 @@ Most pages mix fact and reading. Three labels keep them straight:
 
 When a page leans on a particular framework — Jungian shadow, Kabbalah, tarot, Gnosticism — that framework is named, because the correspondence belongs to the framework, not to the artist. "In Jungian terms, Lucius resembles the shadow" is a reading. "Lucius *is* Jung's shadow" would be overreach.
 
-## The one rule under all of it
+## The one rule to rule them all
 
-> Recurrence is cheap evidence; transformation and contrast are dear. A symbol that simply repeats proves little. A symbol that *changes*  - the protector who becomes a prison, the mirror that turns from sacred to dangerous - is where the real meaning lives....usually
+> Recurrence is cheap evidence; transformation and contrast are dear. At risk of offending Jung, we are requiring a bit more. A symbol that simply repeats proves little. A symbol that *changes*  - the protector who becomes a prison, the mirror that turns from sacred to dangerous - is where the real meaning lives....usually
 
-The aim is a serious interpretive guide, not a corkboard with red string. It is also a corkboard with read string but we are aiming higher.  If a reading only holds because a framework was imposed on it, it doesn't belong here.
+The aim is a serious interpretive guide, not a corkboard with red string. It IS, to some extent, a corkboard with read string but note that we are aiming higher.  If a reading only holds because a framework was imposed on it, it doesn't belong here...but we just can't quit some of them. 
