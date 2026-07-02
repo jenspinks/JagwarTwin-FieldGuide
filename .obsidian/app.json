@@ -1,1 +1,7 @@
-{}
+{
+  "userIgnoreFilters": [
+    "_internal/",
+    "_internal/Templates/",
+    "_assets/"
+  ]
+}

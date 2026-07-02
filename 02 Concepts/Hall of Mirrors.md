@@ -8,6 +8,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Hall of Mirrors
 
+> **▶ The artifact archive.** All ~149 discovered artifacts are catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`06 Artifacts/`).
+
 > **One-line reading.** Hall of Mirrors is the Jagwar Twin metaverse — a web3 puzzle-world built on the fiction that the artist uploaded his consciousness to the internet and scattered the pieces of himself behind locked doors, so that the fans who decode the clues are the ones who bring him back into the light.
 
 It started, like a surprising amount of this project, as a joke. Roy English told the studio building the thing: *what if I uploaded my consciousness to the internet so there could be a 24/7 social-influencer version of me?* Everyone laughed. Then they built it, played it straight-faced, and the joke turned out to have a whole cosmology inside it.

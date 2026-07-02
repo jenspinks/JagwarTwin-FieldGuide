@@ -103,7 +103,7 @@ It also sharpens the album's biggest open question. Is Lucius *protecting* Roy, 
 - [[Bad Feeling (Oompa Loompa)]] — the bad feeling about this exact dynamic, one track later; its video stages the full big-top/carousel/ringmaster Circus before the album ever names it.
 - [[Moths to the Flame]] — Lucius's spoken material at the listening party (*"Civilization has been a mistake… it keeps the moth population down"*) is the prose form of this next track.
 - [[Bananas]] — the id-eruption (*"do you ever wanna break shit?"*) that the anti-civilization doctrine licenses; the banana is Lucius's trigger-prop.
-- [[#1 Champion (la Conquistadora)]] — the champion archetype the album later unseats, when the champion meets [[Mary]] (*"saw a halo but I didn't see a head"*).
+- [[No. 1 Champion (la Conquistadora)]] — the champion archetype the album later unseats, when the champion meets [[Mary]] (*"saw a halo but I didn't see a head"*).
 - [[Great Time to Be Human]] — the ironic pop surface the Circus runs on; *"the crooks and believers all sing the same song"* states the thesis inside a lyric.
 - [[City of Angels]] — the hollow counterfeit (*"everyone looks just like you"*): the Circus's *sameness* against the Circle's *communion* — pointed, in a project called Jagwar **Twin**.
 - [[SOL]] — the Song of Love Lucius overrode in EP 3; the one note he can't metabolize; released wordless, closing the album's arc.

@@ -65,6 +65,11 @@ A few claims that cut across the whole song.
 - **[[Sir Lucius]]** *(by contrast, not by presence)* — Lucius never appears *in* MAGIK; he's its structural opposite. Spectacle vs witnessing, manufacture vs recognition. MAGIK is the light; the album that follows is the shadow trying to metabolize it and failing.
 - **[[Mary]]** *(a faint resonance only)* — she surfaces at the edges through the lunar register and the *"lasso round the Moon,"* but **MAGIK is not a Mary appearance.** It's the *blessing-voice* the Mary-class figure carries elsewhere, sung here in Roy's own mouth.
 
+## Artifacts
+
+**I'M NOT HERE** · `I'M NOT HERE` — MAGIK's core lines "you don't gotta disappear / everybody needs you here" are a direct answer-inversion of this artifact's title-code "I'M NOT HERE" — the later song interrupting the self-erasure this DARKNE… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - **[[The Labyrinth]]** — *"you're the middle of a maze."* The addressee at the center, not lost outside it; the way through is inward.
@@ -75,7 +80,7 @@ A few claims that cut across the whole song.
 
 ## Connected songs
 
-- **The blessing-voice cluster** — [[Ballerina Boy]] (*"let your light shine"*), [[Weirdness]] (*"you were born to shine"*), [[#1 Champion (la Conquistadora)]]: all of them bless a shamed or hidden light into its own worth. MAGIK is the purest statement of the mode.
+- **The blessing-voice cluster** — [[Ballerina Boy]] (*"let your light shine"*), [[Weirdness]] (*"you were born to shine"*), [[No. 1 Champion (la Conquistadora)]]: all of them bless a shamed or hidden light into its own worth. MAGIK is the purest statement of the mode.
 - **[[Shine]] (2018)** — the vocabulary *ancestor.* Shine's first-person, communal claim (*"everywhere I go, I'm gonna shine"*) is the seed that later gets redirected into MAGIK's second-person **blessing** (*you* were born to shine). Shine is the source of the word, not itself a Mary appearance.
 - **[[SOL]]** — MAGIK's mirror at the album's *other* end. Both locate the saving force outside strategy and spectacle (blessing and voice, not control); both are the light the shadow can't absorb. MAGIK opens the arc as that light; SOL closes it — the one song Lucius can't get through.
 - **[[dumbledore]] (2025)** — a sibling EP that shares the exact word *"Magik"* at the **opposite charge.** Here it's a tender, innate blessing; there it's the power that gets you burned (*"you would've burned that witch"*), stapled to a straight-faced flip of a nursery rhyme (*"if you're magic and you know it / clap your hands"*). Same word, inverted.

@@ -60,6 +60,14 @@ Two things about that table earn a second look. First, the verse pairing is deli
 - **The child / the buried self** — surfaces in Verse 2's couplet (*"what it's like to be a kid… the way it feels to grow"*). Read it as the tender self permitted to speak in its own voice because the reciprocal, non-possessive love of the hook is finally **safe** enough to let it return — the exact inverse of [[Ballerina Boy]], where the child is interred behind perfect-child armor.
 - **The people in the credits** — real collaborators, not narrative figures, but worth naming because the song is a genuinely co-made object: **S1** (Larry Darnell Griffin Jr.) co-wrote and exec-produced; **Michael Morgan** co-produced; **Jeff Ellis** mixed. One quiet point rides on S1's credit: it lands in **2018**, before any Lucius or Circus architecture exists — the theme entered the work years before the mythology was there to frame it. The seed predates the story that later reads it.
 
+## Artifacts
+
+**I'M NOT HERE** · `I'M NOT HERE` — Roy states he recorded Move To You's vocals "in Florence, Italy and Joshua Tree" and wrote it from a place of feeling lost (Digital Journal 2019, [G]); this artifact is night footage of Roy in Florence's Pia… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..jpg" width="240" controls preload="none"></video>
+
+**PERSPECTIVE** · `JOSHUA TREE` — Roy stated in the Digital Journal interview (2019-09-23, in-vault transcript) that the Move To You vocals were cut in Florence and Joshua Tree, making this the released song with a documented recording tie t… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5648ac4aedb6afc8efe58a5a5cd99f2669b286cb3a2d00b784b072bcbb5f3ce6..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5648ac4aedb6afc8efe58a5a5cd99f2669b286cb3a2d00b784b072bcbb5f3ce6..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - **[[The Thread]]** — feeling as the navigation line when the stars fail; the song's whole architecture, and the Thread's grounded home in the *Subject to Flooding* era.

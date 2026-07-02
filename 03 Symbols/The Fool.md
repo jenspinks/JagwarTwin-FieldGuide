@@ -15,7 +15,7 @@ The Fool walks through this catalogue in more costumes than almost any other fig
 ## At a glance
 
 - **What it does** — holds the paradox of holy emptiness: the zero that contains everything, the idiot who is the only one wise enough to make the leap.
-- **Where it shows up** — [[It's Your Time]] (the self-naming anchor); [[#1 Champion (la Conquistadora)]] (the leap turned fatal); [[dumbledore]] (the wise-fool disguise); [[Hell Of A Night]] (the feeling-lucky wager); the Hero's Journey wheel on [[The I'm 33 Board]], in Roy's own hand.
+- **Where it shows up** — [[It's Your Time]] (the self-naming anchor); [[No. 1 Champion (la Conquistadora)]] (the leap turned fatal); [[dumbledore]] (the wise-fool disguise); [[Hell Of A Night]] (the feeling-lucky wager); the Hero's Journey wheel on [[The I'm 33 Board]], in Roy's own hand.
 - **Connected ideas** — [[The Rose]] · [[Kabbalah - The Tree of Life]] · [[The Circus]].
 - **Confidence** — the self-designation, the board station, and the lyrics are grounded; the Tarot readings are strong and labeled; whether the Fool is a symbol or a full-blown *character* is an open question this page deliberately leaves ajar.
 
@@ -30,7 +30,7 @@ Two readings land on the same syllables, and the vault holds both. **Tarot's Key
 The Rider-Waite Fool steps off a cliff, white rose in hand, trusting the fall. The catalogue runs that image at three temperatures:
 
 - **The wager** — [[Hell Of A Night]]: *feeling lucky*, the leap taken on luck before anyone knows if it's faith or folly.
-- **The fatal leap** — [[#1 Champion (la Conquistadora)]]: *"made a move like a fool, dropped me dead when she said—"*, cut off mid-sentence. The visualizer caption (signed *El Roy*) is the Rider-Waite card almost line for line: *"I saw her divinity, but not the one who held it… I followed anyway, white rose in my left hand, and stepped off the ledge."* Here the leap kills — and the failure is of *seeing*, not of devotion (see [[The Rose]]).
+- **The fatal leap** — [[No. 1 Champion (la Conquistadora)]]: *"made a move like a fool, dropped me dead when she said—"*, cut off mid-sentence. The visualizer caption (signed *El Roy*) is the Rider-Waite card almost line for line: *"I saw her divinity, but not the one who held it… I followed anyway, white rose in my left hand, and stepped off the ledge."* Here the leap kills — and the failure is of *seeing*, not of devotion (see [[The Rose]]).
 - **The station** — Roy's own [[The I'm 33 Board]] carries a Hero's Journey wheel with **"The Fool"** as an early stage, between the Rabbit Hole and the Guardian at the Gate: the card drawn into the return-cycle in the artist's own hand.
 
 ## The two registers: holy fool and imposed fool
@@ -41,7 +41,7 @@ From the [[dumbledore]] reading: highest wisdom appearing as idiocy to the profa
 > The [[Kabbalah - The Tree of Life]] page notes the Major Arcana's closing run — Star (XVII) → Moon (XVIII) → Sun (XIX) — converging with the project's light-map (the demoted morning-star, Roy's Moon-position, SOL as the true Sun). The Fool sits *before* all of it, at zero: the origin-point prior to the whole path of false light, illusion, and return. A song that opens *"I ain't nothing but a Fool"* is, in this frame, starting the deck over. Framework, labeled as such.
 
 > [!note]- Open question — symbol or character?
-> The Fool behaves like a symbol (a card, a station, a disposition) but keeps edging toward personhood: he narrates [[It's Your Time]], dies in [[#1 Champion (la Conquistadora)]], and wears the disguise in [[dumbledore]]. If a future era gives him a face or a voice of his own, this page graduates to the Characters shelf.
+> The Fool behaves like a symbol (a card, a station, a disposition) but keeps edging toward personhood: he narrates [[It's Your Time]], dies in [[No. 1 Champion (la Conquistadora)]], and wears the disguise in [[dumbledore]]. If a future era gives him a face or a voice of his own, this page graduates to the Characters shelf.
 
 ## Source notes
 
@@ -52,7 +52,7 @@ From the [[dumbledore]] reading: highest wisdom appearing as idiocy to the profa
 ## Read next
 
 - [[It's Your Time]] — the self-naming, and the Fool's interior kit.
-- [[#1 Champion (la Conquistadora)]] — the white rose and the ledge.
+- [[No. 1 Champion (la Conquistadora)]] — the white rose and the ledge.
 - [[dumbledore]] — the wise fool's disguise.
 - [[The Rose]] — the token the leap is taken for.
 - [[The I'm 33 Board]] — the Fool as a station in Roy's own hand.

@@ -129,3 +129,20 @@ Ya
 Don't you ever try to get away
 Ya
 ```
+
+## Artifacts
+
+**TREE THINKING** · `TREE THINKING` — The song is Roy's solo-authored emanation myth counting 'From One and through Eleven' (One become Two, splitting into 5,6,7,8,9, toward The Great Design); its essay reads the numbered procession as the ten S… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a9fe05bb3dbf271b4ab76f457b52a14dda44f3eb42edc5f4da3743febbe4bd9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a9fe05bb3dbf271b4ab76f457b52a14dda44f3eb42edc5f4da3743febbe4bd9..jpg" width="200"></a>
+
+**KHAWAH** · `26` — The song's lyric is documented (essay section 0) as near-identical to the cosmogonic poem on the same "I'm 33 this year" board this page belongs to, and the page's core equation, Adam minus Khawah = 26 = YHW… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg" width="200"></a>
+
+**TRUE VOICE** · `R1045` — 'True of voice' (maa-kheru) is the Egyptian judgment verdict that opens the deceased's way to the afterlife, and the song's held-identity gesture 'But when it came to Nine... I had to remind myself that I wa… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6b3674092ef945fda641263d2b24fa37e623df495c56c22448a423153316296..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6b3674092ef945fda641263d2b24fa37e623df495c56c22448a423153316296..png" width="200"></a>
+
+**LAMBDOMA** · `REALITY IS THE CHILD OF ILLUSION` — Its cosmogony of "One, become Two" is the same descent the Lambda diagrams — the apex 1 dividing into the 2/3 legs and cascading to the many — the vault already links both to The Pattern as the One-into-many… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd722c486ba8a39b19cd81b4f5b5cac3b977934026d04ec6515e0f8d5ea6af4d9..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd722c486ba8a39b19cd81b4f5b5cac3b977934026d04ec6515e0f8d5ea6af4d9..png" width="200"></a>
+
+**ANOTHER WAY II HEAVEN** · `GENESIS TREE CODE` — This is the mint room for the released song itself (MINT BURIED, code GENESIS TREE CODE), and the code plus the dissolving wireframe head directly render the song's Genesis creation myth ('One, become Two')… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x51f28bfcfda3b51406f62a37563c55c183d19edf4b4bc914535fb7f3f939932c..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x51f28bfcfda3b51406f62a37563c55c183d19edf4b4bc914535fb7f3f939932c..jpg" width="240" controls preload="none"></video>

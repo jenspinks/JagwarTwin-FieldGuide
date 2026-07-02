@@ -78,6 +78,29 @@ There's a bittersweet coda Roy offered in the same interview, and it's a rare on
 - **The dark father** (*"Papa… playin' God behind the scenes"*) — read as the **star-maker / industry patriarch**, the one who made-and-exploited her — *not* a literal parent, and not Roy's mother.
 - **[[The Crowd]] / The Thieves** — the fame-machine that hands out *"Fame and Power"* in place of *"Love."*
 
+## Artifacts
+
+**ROY DRAWING RELIGIOUS ORGANISM (REJECTED ALBUM ART)** · `HOW TO STEER THE SOUL` — The artifact enshrines a soul as a luminous icon in a colored ring on a starfield, the visual literalization of the song's sole repeated lyric 'Your soul is a Star'; the code 'HOW TO STEER THE SOUL' is the o… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg" width="200"></a>
+
+**TRUE VOICE** · `R1045` — The artifact's identification of modern Roy with the ancient priest Roma 'true of voice' enacts the anamnesis question Soul Is A Star poses at the center of 33 ('Do you know Who you are?'), the song's descen… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6b3674092ef945fda641263d2b24fa37e623df495c56c22448a423153316296..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6b3674092ef945fda641263d2b24fa37e623df495c56c22448a423153316296..png" width="200"></a>
+
+**BUDDHAS, SHAMANS, AND MICROTUBULES** · `THE ESSENCE OF MAN` — The page's central handwritten question, "Theory of Existence / the existence of the Soul?", is the exact question Soul Is A Star (track 5, the literal midpoint of 33, from the same board-era corpus) answers… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbdea3bcd3973fd1dffdce0259fc9d32ae9d279aca33ed8cbdabd4f43f618a03e..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbdea3bcd3973fd1dffdce0259fc9d32ae9d279aca33ed8cbdabd4f43f618a03e..jpg" width="200"></a>
+
+**SEEDS ON THE GROUND** · `WE FALL DOWN AS SEEDS ON THE GROUND` — The unlock code is the song's bridge verbatim ("We fall down as seeds on the ground" x4), and the page's star-figure caption "Every human being is a star" restates the title thesis, so the tie is definitional. → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd3377c7198f96892fd6255e46a18aacc9b534b55576c039ab4545e75fdb7f8bd..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd3377c7198f96892fd6255e46a18aacc9b534b55576c039ab4545e75fdb7f8bd..png" width="200"></a>
+
+**BASICALLY & POTENTIALLY** · `EVERY HUMAN BEING IS A STAR` — The refrain "Your soul is a Star" makes the same claim the artifact draws and its code states, and the Soul Is A Star essay already ties sibling star-artifacts (David Star, Religious Organism) to this exact… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84c56ca2073a6cace80a1c6d0a3d0474ae2440ca8345332d95da28141e4fcc2e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84c56ca2073a6cace80a1c6d0a3d0474ae2440ca8345332d95da28141e4fcc2e..png" width="200"></a>
+
+**DAVID STAR** · `TWISTED LADDER` — The artifact's central image — a soul/spark cast down into The Deep that ascends to become a star/constellation — is the literal picture behind 'your soul is a star,' matching the song's descending-then-reme… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="200"></a>
+
+**STARDUST** · `VIBES` — The title STARDUST names two ordinary humans with the song's star-doctrine ("Because your soul is a Star"), whose grounded anchor is the Joni Mitchell Woodstock writer credit, the song famous for "we are sta… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe9df1ddcba96373600cec1759f8c3c2a8c9cb15300a50ff8ed3744cf623b3f59..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe9df1ddcba96373600cec1759f8c3c2a8c9cb15300a50ff8ed3744cf623b3f59..jpg" width="200"></a>
+
 ## Symbols
 
 - The **Star** — the soul as a celestial body; relocated from celebrity to interior light. Roy sources the title to the **Egyptian Book of the Dead**, as he renders it: *"behold, thy soul is a living star."* (That phrasing tracks older translations; the attribution is his framing, and he treats it as a working creed — three weeks after the co-write message, to a fan who found the song at her lowest, he wrote that her soul *"felt the deep truth that YOUR SOUL IS A LIVING STAR."*)

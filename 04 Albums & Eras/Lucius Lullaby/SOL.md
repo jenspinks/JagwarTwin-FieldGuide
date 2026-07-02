@@ -86,6 +86,11 @@ A few claims that cut across everything above.
 
 *(Recorded as real collaborators, not symbolic figures: **MERCY** = Mercedes Colletta Britton, background vocals; **Dan Adams**, strings; **Luke Villegas**, guitar; **Dale Becker**, master. And the cello on the Song of Love is credited to a player billed **"No Love"** — an accidental little irony hiding in the liner notes.)*
 
+## Artifacts
+
+**KHAWAH** · `26` — The page's "ONE LOVE = YHWH = 26" equates love with the divine name while asking "what is music?", and SOL's documented double meaning is Song Of Love / solar-divine source mapped to the same Tree of Life fr… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg" width="200"></a>
+
 ## Symbols
 
 - [[The Thread]] — the feeling that must not be cut; the Song of Love as the thread *made audible*, the thing that survived the bargain.

@@ -70,15 +70,15 @@ Two registers of one organ. Interior: *"within you got the Eye to see"* ([[It's 
 
 ### The Halo
 
-*"Saw a halo but I didn't see a head"* ([[#1 Champion (la Conquistadora)]]): holiness with no face to flatter — the clearest emblem of the song's failure-of-seeing, where the consuming eye reads the sign but never the person.
+*"Saw a halo but I didn't see a head"* ([[No. 1 Champion (la Conquistadora)]]): holiness with no face to flatter — the clearest emblem of the song's failure-of-seeing, where the consuming eye reads the sign but never the person.
 
 ### The Gun
 
-*"La Conquistadora with a gun in her hand… fawning over no man"* ([[#1 Champion (la Conquistadora)]]): the militarized Madonna. The vault leans sovereignty-and-revolution over self-defense, register held partly open.
+*"La Conquistadora with a gun in her hand… fawning over no man"* ([[No. 1 Champion (la Conquistadora)]]): the militarized Madonna. The vault leans sovereignty-and-revolution over self-defense, register held partly open.
 
 ### The Crown
 
-*"Queen of California on the corner doing her time"* ([[#1 Champion (la Conquistadora)]]): the Marian *Queen of Heaven* re-cut for Hollywood, crown colliding with gutter — sacred title, commodity status.
+*"Queen of California on the corner doing her time"* ([[No. 1 Champion (la Conquistadora)]]): the Marian *Queen of Heaven* re-cut for Hollywood, crown colliding with gutter — sacred title, commodity status.
 
 ### The Star-Lined Road
 

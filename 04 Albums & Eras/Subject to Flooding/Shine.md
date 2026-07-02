@@ -70,6 +70,11 @@ A few claims that cut across the whole song.
 - **[[Mary]]** — **does not appear here.** She's named only as the *later* voice who will adopt and invert Shine's vocabulary. Guard, stated plainly: *Shine* is the **seed**, not a Mary appearance — do not read the blessing-voice into it. She isn't here yet.
 - **[[Sir Lucius]]** — absent; post-dates 2018 by years. Named only for the cross-era contrast the later catalogue builds: light *declared and transmitted outward* here; light *reflected outward as spectacle instead of transmitted as love* later.
 
+## Artifacts
+
+**IF THE SEA HAS ENOUGH WILL** · `THE PATTERN` — Shine closes Subject to Flooding (the album this artifact's title-code chains to via room #93 SUBJECT TO FLOODING BTS) and stages exactly the title's proposition of will against the sea: "you're in the sea s… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg" width="200"></a>
+
 ## Symbols
 
 - **The rising sun** — the central image and the chosen response to a dark world. *"Like the sun rising"* (Roy's stated design), *"the sun is coming out singing,"* *"the sun's gonna shine down on me."* The album's reflection-to-radiance turn, completed.

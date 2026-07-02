@@ -65,6 +65,11 @@ The title is also — this is not a metaphor — the literal web address of Roy'
 - [[Sir Lucius]] — not *in* the song, but the pole it quietly works against: the strategic mind that would rather you deploy cleverness than descend into the heart-Well. The near-innocent forgetting here is the seed of the traumatized, named amnesia he later becomes.
 - [[The Fool]] — the narrator's self-designation, *"I ain't nothing but a Fool."* Tarot's Key 0 *and* the "I'm no-thing" disposition at once (see Advanced reading): the traveler who "can hardly spell" yet is exactly the vessel empty enough to be filled.
 
+## Artifacts
+
+**THE EMPTY ROOM** · `RAINBOW BRIDGE` — The lyric "A man is like an in-between / Animating Heaven and Hell" (which the song's essay explicitly glosses as the human hanging between the Tree's two pillars) is the drawing's exact schema: a lone walke… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png" width="200"></a>
+
 ## Symbols
 
 - The in-between — *"a man is like an in-between, animating Heaven and Hell"*; man as the living middle story, the channel that vivifies both poles.

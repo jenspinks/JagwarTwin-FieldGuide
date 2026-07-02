@@ -61,7 +61,7 @@ The crossing is staged in the [[The Interview]] theatrical series, too. The figu
 
 - [[Sir Lucius]] — reads *as* the Dweller for Roy: the mind divorced from the heart, co-credited on *Lucius Lullaby*. The central application of the whole idea.
 - [[Roy]] — the one at the threshold; the self the Dweller is accumulated from (*"I made you"*).
-- [[Mary]] — possibly the figure who appears *after*, or who *makes*, the crossing. She turns up to break the mirror system — precisely what successful Dweller-integration would do. Her faceless blessing-voice ([[Ballerina Boy]] outro, the [[Weirdness]] "angel baby, face out of sight," named in [[#1 Champion (la Conquistadora)]]) is the one frequency the figure can't absorb.
+- [[Mary]] — possibly the figure who appears *after*, or who *makes*, the crossing. She turns up to break the mirror system — precisely what successful Dweller-integration would do. Her faceless blessing-voice ([[Ballerina Boy]] outro, the [[Weirdness]] "angel baby, face out of sight," named in [[No. 1 Champion (la Conquistadora)]]) is the one frequency the figure can't absorb.
 - [[The Mirror]] — the Dweller's medium and metaphor; the seer's own reflection at the threshold. *Rorrim Ehtni* is the literal 2008 mirror-anchor.
 - [[The Protector]] — the survival-self the Dweller is built from; it accumulates from *Loser* forward, and the 2026 billing change is a change in *visibility*, not in the figure.
 - [[The Mask]] — the Dweller wears the mask of "the most reasonable explanation."

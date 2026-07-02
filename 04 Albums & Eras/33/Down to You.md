@@ -80,6 +80,17 @@ The logic, start to finish: authority comes *down* to you → so **be** it, don'
 - [[Sir Lucius]] — present only **by contrast**: the *"head"* that would *"unwind"* the heart's knowing is the faculty he personifies. No billing on the track — he's the antagonist the line argues against.
 - **"You" / the listener / "the one"** — the song's true addressee and de facto protagonist. At you-80 / I-1, it's near-pure address; *"you are the one"* makes the listener the sovereign figure.
 
+## Artifacts
+
+**AN AGED AGED MAN** · `ALICE 211` — The Carroll clue that fed this artifact's code cluster — "I saw an aged aged man, A-sitting on a gate" — was posted as a symbol-marked (▵▢◑) clue on the Down to You SoundCloud, per the Discord community arch… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfabef575374796fb9f99a60f701b55a9e51333406510e6d14aab767c7887b71f..mp3" controls preload="none"></audio>
+
+**VENUS** · `DLD` — The 33 lyric 'can't unwind it with your head on / so listen to your heart' is the vault's documented surfacing of the heart-over-mind theology whose heart-pole is Venus/Netzach, the dove Roy names as his own… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6a332117c7270b3be98acbcbbcf3161369e9ab06527609378bf71865507acc..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6a332117c7270b3be98acbcbbcf3161369e9ab06527609378bf71865507acc..jpg" width="240" controls preload="none"></video>
+
+**DOWN TO YOU** · `WHAT IS IT THAT YOU SEEK?` — This is the MINT artifact of the released 33 track, and its code 'WHAT IS IT THAT YOU SEEK?' is the song's verbatim opening line; the glowing-core wireframe figure in a galaxy renders the lyric's inner-light… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xb76708129c2cce34f6eb3c4e9469a9ca7eb0090e0d64ffc1cdb694ba4f720061..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xb76708129c2cce34f6eb3c4e9469a9ca7eb0090e0d64ffc1cdb694ba4f720061..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - [[Fire]] — *"the flame at the top of your head"*: the divine spark localized in the listener, a flame already carried rather than only light arriving.

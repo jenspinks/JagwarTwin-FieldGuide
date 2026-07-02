@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "field-guide"
-  ]
+  ],
+  "theme": "moonstone",
+  "cssTheme": "Shiba Inu"
 }

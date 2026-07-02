@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **Era / release** — *Lucius Lullaby*, released March 27 2026; credited jointly to **Jagwar Twin & sir lucius**. Track 7, wedged between [[Moths to the Flame]] (6) and [[#1 Champion (la Conquistadora)|#1 Champion]] (8). The album's tagline: *"Twisted takes on adolescent musical themes for hands that rock the cradle."*
+- **Era / release** — *Lucius Lullaby*, released March 27 2026; credited jointly to **Jagwar Twin & sir lucius**. Track 7, wedged between [[Moths to the Flame]] (6) and [[No. 1 Champion (la Conquistadora)|#1 Champion]] (8). The album's tagline: *"Twisted takes on adolescent musical themes for hands that rock the cradle."*
 - **In one line** — a nursery chant that hands a crowd of "kids" permission to break things, get wasted, and burn the house down, then walks them from *person* to *monkey* to a self that no longer remembers its own acts.
 - **Who speaks** — [[Sir Lucius|Lucius]] inciting, [[Roy]]'s unleashed id erupting, and — probably — the horror of the split being *witnessed.* Most likely all three at once. The addressee is [[The Crowd|the "kids"]].
 - **Key symbols** — [[The Banana]] · [[Fire]] · [[The Mask]] · [[Duality]] · [[The Prop Room#The Monkey|The Monkey]]

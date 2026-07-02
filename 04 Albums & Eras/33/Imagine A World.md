@@ -61,6 +61,20 @@ A few claims that cut across the whole thing:
 - [[Sir Lucius]] — *present but in disguise.* He's the OZ in the roster and the "God you designed" — the curtain-god that the album's attention-force (*"televise is just my disguise"*) prototypes. The fraud-deity smuggled into the line of real ones is a very Lucius move: technically included, technically "right," entirely a projection.
 - **The listener ("you")** — addressed throughout as co-creator. Not a bystander but the grammatical center of the song (*you* ×35), invited to complete the imagining. In the album's crowd-and-participation device, this is the *invitation* form: *just imagine* — and you're the one who finishes it.
 
+## Artifacts
+
+**CHUCKSTER'S MUMMY 2 (228)** · `G228` — "Imagine a world full of wonder / Where money was magic" frames money as childlike magic, and this childhood story enacts exactly that: a million dollars conjured out of a tall tale. → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..jpg" width="240" controls preload="none"></video>
+
+**THOUGHT FORMS** · `THOUGHT FORMS` — The song's closing question 'Is there a God you designed?' is a near-verbatim restatement of the artifact's thesis that gods are 'Images formed in mind,' both framing the divine as something the human mind a… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="200"></a>
+
+**EDEN CUBE** · `A RIVER` — The album's only explicit Eden lyric, "The Garden Of Eden (In-A-Gadda-Da-Vida) / look inside you'll see it," names the very thing the sketch diagrams: the artifact draws Eden-above-the-world as a source feed… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4c3cc16801611899e9e7698122fd86a5e82d6858095c4a4c47af5c46c51b91b9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4c3cc16801611899e9e7698122fd86a5e82d6858095c4a4c47af5c46c51b91b9..jpg" width="200"></a>
+
+**IMAGINE A WORLD** · `IMAGINE A WORLD` — This is the buried song-mint of 'Imagine A World' (track 9 of 33), unlock code = the song title; the tie is definitional, and the frame's red-bordered desert-and-forming-membrane matches the song's 'imagine/… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf49a9d959a1f5ba49fc8d8f4ee38f459ef0bdd9b67c7117bfbe5b5263fbeda2f..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf49a9d959a1f5ba49fc8d8f4ee38f459ef0bdd9b67c7117bfbe5b5263fbeda2f..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - **The Garden of Eden** — relocated from lost history to interior consciousness; paradise as a state you conceive, not a place you return to.

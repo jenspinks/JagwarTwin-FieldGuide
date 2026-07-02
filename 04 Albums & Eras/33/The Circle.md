@@ -65,6 +65,29 @@ A few claims that cut across the whole myth.
 - [[Jagwar Twin]] — the project named for the myth's made-and-divided creatures.
 - [[Sir Lucius]] — present only in the *"empires"* and the *"kings"* who persuade the Jagwars they can't sing; later re-sings the myth, distorted, as the [[The Circle (Lucius Version)|Lucius Version]].
 
+## Artifacts
+
+**ROY POEM WALKING THE EDGE OF A KNIFE** · `INSIDE OF THE INSIDE` — The unlock code INSIDE OF THE INSIDE is verbatim the repeated refrain of The Circle ("the inside of the inside must be where you go"), and the poem's line "turn back the stone / From the inside" restates the… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe858c547827aba7438709a166b469d26170394ba55ffbf865b0ebecea03f3c6a..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe858c547827aba7438709a166b469d26170394ba55ffbf865b0ebecea03f3c6a..png" width="200"></a>
+
+**BLINKING (2/2)** · `C876` — The poem's regress behind the music that "plays every song" (Fiddle → Strings → Player → Symphony Master) resolving into "It's just you inside yourself" mirrors The Circle's string-holder cosmology ("a Jagwa… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x211f837e4e8c6dd9e52ff46681309dc5a967ebadfe76999837fa08c9d2e3c4bd..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x211f837e4e8c6dd9e52ff46681309dc5a967ebadfe76999837fa08c9d2e3c4bd..png" width="200"></a>
+
+**CAUTION, ALL KINGS END** · `CAKE` — The artifact's thesis is the lyric: "Many cycles of the story came and went with their kings / And the new kings told Jagwars they never could sing" — the crown-and-serpent tableau images those cycles of end… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg" width="200"></a>
+
+**THE TRUTH IS A SPHERE** · `ENLIGHTENED BEING` — The diagram is the refrain's geometry made literal: concentric circles whose innermost point is the Universal Self, with arrows running the radius, matching "The circle will grow / From the inside of the ins… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1b7d38676a6aaf1756b914985f67f995806a719e38f4e6f81a9b598b1eaf2b91..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1b7d38676a6aaf1756b914985f67f995806a719e38f4e6f81a9b598b1eaf2b91..jpg" width="200"></a>
+
+**ROY UNIDENTIFIED SKETCH** · `KEM` — The face's caption "Inside of the inside" is verbatim from The Circle's refrain ("From the inside of the inside / But the inside of the inside must be where you go"), making the drawing a literal illustratio… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2da3b5d407a32ab61b91199bb55c7844f91e2b0a7f5c39bbd6227e233792b24d..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2da3b5d407a32ab61b91199bb55c7844f91e2b0a7f5c39bbd6227e233792b24d..jpeg" width="200"></a>
+
+**DAVID STAR** · `TWISTED LADDER` — The poem's engine is identical to The Circle's doctrine: a divine spark hidden inside creation must remember and ascend back to the source (tikkun) — the sparks climbing the twisted ladder to become constell… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="200"></a>
+
+**THE CIRCLE** · `THE GREAT JAGWAR` — This is the MINT BURIED song-mint of 'The Circle' (33 closer, minted 02-10-23), and its unlock code 'THE GREAT JAGWAR' names the song's feminine maker-Jagwar who holds the world on a string — the tie is defi… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xac9f2eb2401875e22837d494811b38df27d81045fb7d66466e68768f781ef4d5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xac9f2eb2401875e22837d494811b38df27d81045fb7d66466e68768f781ef4d5..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - [[The Thread]] — **originates here.** *"A world tied on a string"* (Maker) and *"she once held the string"* (Wise One) are the same filament: the living connection to the source — feeling, agency, the song. Ariadne's line back out through the maze of cages and empires. There's an ethics baked in: the Wise One *remembers holding* the string, which is the opposite of *pulling* strings. **Remembrance holds the string; control pulls strings.**

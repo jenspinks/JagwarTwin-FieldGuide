@@ -63,8 +63,25 @@ A few claims that cut across the whole song.
 
 - [[Sir Lucius]] — the primary voice (the pre-chorus, verses 2–3, the outro); the one who initiates contact and offers the deal. Roy's own definition of him is *"the mind divorced from the heart."* Hold all three of his registers here at once: manipulation, shadow, **and** protective love — this is the song where mercy and trap are literally one act.
 - [[Roy]] — at his lowest (verse 1), the one being addressed, and — by the first-person chorus — possibly singing along, possibly merged with Lucius. The floor is autobiographical.
-- [[Mary]] — **not** present in the verified lyrics. The faceless-rescuer voice that earlier readings took for her is Lucius *counterfeiting* the rescue function. The real, grounded faceless-Mary appears elsewhere, in [[Weirdness]] and [[#1 Champion (la Conquistadora)]]. *(Open question: does Mary appear* visually *in the music video, distinct from the lyric? That would be a separate, legitimate appearance.)*
+- [[Mary]] — **not** present in the verified lyrics. The faceless-rescuer voice that earlier readings took for her is Lucius *counterfeiting* the rescue function. The real, grounded faceless-Mary appears elsewhere, in [[Weirdness]] and [[No. 1 Champion (la Conquistadora)]]. *(Open question: does Mary appear* visually *in the music video, distinct from the lyric? That would be a separate, legitimate appearance.)*
 - **Leif** — Lucius's bumbling enforcer/bodyguard, who first appears in the theatrical rollout around the album's release (the *"Boss, I got this"* sidekick — [[The Interview]], EP6). Not in the song, but part of its world: the cartoon-henchman muscle behind the salesman, and the figure in the *"my lullaby is everywhere"* premiere scene. His comic incompetence is where the rollout keeps the dark comedy that the track itself plays completely straight.
+
+## Artifacts
+
+**DEVIL IN THE MIRROR** · `RORRIM EHTNI LIVED` — The song's savior voice sings "Now look into this magic mirror, tell me what you see," and the vault essay explicitly identifies that magic mirror with "Lucius's Empty Mirror / Rorrim Ehtni", the same devil-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
+
+**COACHELLA SEA** · `WHO IS INHABITING YOU` — The code's question "who is inhabiting you" is the drama the song stages: the inhabiting voice pitches exactly what the footage shows ("You want your passion for flashin'... You want some fans, I get it... y… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80dd7bd1be0ede815f5b30f19158e53c3109cc31a005bf3ddd2b8495229a63c8..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80dd7bd1be0ede815f5b30f19158e53c3109cc31a005bf3ddd2b8495229a63c8..jpg" width="240" controls preload="none"></video>
+
+**RORRIM EHTNI LIVED** · `H1066` — The artifact's decoded title "Devil in the Mirror" is nearly verbatim the song's central image: Lucius, the Lucifer-coded tempter present since "the first human beings started walking the Earth," commands "N… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3e123718af779094b7d526cbd12f754d840b744d6184851e9f2f5912a7b6ca79..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3e123718af779094b7d526cbd12f754d840b744d6184851e9f2f5912a7b6ca79..jpg" width="240" controls preload="none"></video>
+
+**ROY STORY "SIR RABBIT** · `Q763` — The poem's Spider-guide speech ('You are someone asleep in bed you're dreaming all the time' → 'I must wake up') is verbally mirrored in Lucius Lullaby's guide-voice lyric 'Life is but a dream, I came to set… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png" width="200"></a>
+
+**21 CANDLES** · `SNOW WHITE` — The code SNOW WHITE names the magic-mirror fairy tale, and Lucius Lullaby's verified pre-chorus "Now look into this magic mirror, tell me what you see" is explicitly read in the vault essay as the Snow-White… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9e74f6c604bfaf5ab8b29ba37f7252bb33ed95de093a8aeb30a98031a6f1004..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9e74f6c604bfaf5ab8b29ba37f7252bb33ed95de093a8aeb30a98031a6f1004..jpg" width="240" controls preload="none"></video>
 
 ## Symbols
 
@@ -84,7 +101,7 @@ A few claims that cut across the whole song.
 - [[Playing to the Gods]] → [[City of Angels]] — album **tracks 9–10** (a seamless pair); the survival-mantra *"if I make it out alive, then I'm never gonna die"* opening into the false-immortality **upload** track (*"live forever in the bright lights, godlike"*; *"everyone looks just like you"*) — the "beautiful life" dream scaled up into a Hollywood afterlife.
 - [[Bad Feeling (Oompa Loompa)]] — album **track 5**; the sibling bent-scripture move — the *"truth will set you free"* verse recurs and corrupts, weaponized here into *"nothing's what it seems."*
 - [[Ballerina Boy]] — the original wounding; the childhood bedroom here echoes the site of that first burial of the self, and it too was a recorded-in-desperation transmission.
-- [[#1 Champion (la Conquistadora)]] — album **track 8**; where the *real* grounded faceless-Mary appears — the rescuer-function this song only counterfeits.
+- [[No. 1 Champion (la Conquistadora)]] — album **track 8**; where the *real* grounded faceless-Mary appears — the rescuer-function this song only counterfeits.
 - [[Weirdness]] — album **track 13**; the album's one turn toward the light, where the same despair-line returns transformed.
 
 > [!note]- Advanced reading — the "Yes, sir" hinge, and whose "I" sings the chorus

@@ -159,6 +159,11 @@ Woke up and I think today is gonna be a good day
 I just wanna spend it with you
 ```
 
+## Artifacts
+
+**THE ANCIENT CHILD** · `JUST WOKE UP` — The unlock code 'JUST WOKE UP' is the same waking-declaration gesture as the song's repeated hook 'Woke up and I think today is gonna be a good day,' the most direct 'woke up' lyric in the released catalog. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe1ced4d6a28de20b22b20717d8d5e65fa69cf421756a765aa2e34053bbf31d3a..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe1ced4d6a28de20b22b20717d8d5e65fa69cf421756a765aa2e34053bbf31d3a..png" width="200"></a>
+
 ## Source notes
 
 - **Grounded (released music, public posts, Roy's own words).** The track listing and *Subject to Flooding*'s "we, not me" / lean-years origin; Roy's launch statement (*"we should all let go of ego… we are all Subject to Flooding"*); his stated mission to *"infiltrate pop music and blast people with a healing frequency"*; the let-go / empty-cup teaching; all lyric excerpts (verified stable against streaming). Writer credit — **Essex · Roy English · S1** — is the released credit.

@@ -63,6 +63,11 @@ The paradox the song holds cleanest is this: **the anti-mask revelation is happe
 - [[Ballerina Boy]] — the buried authentic child, referenced by chronology: the ~age-seven burial that predates and grounds everything this song recognizes.
 - [[The Crowd]] — already singing when the album opens; the answering *"(it's been a long time coming)"* is baked into the track. The **faceless / lost / beatdown believers** are the ones the dedication turns toward.
 
+## Artifacts
+
+**DEVIL IN THE MIRROR** · `RORRIM EHTNI LIVED` — "Every night when I look in the mirror / I see the disguise on my face getting clearer" is the vault's earliest released-lyric anchor for the mirror/disguise motif, the same looking-in-the-mirror-and-seeing-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
+
 ## Symbols
 
 - [[The Mirror]] — the medium of recognition; it makes the disguise clearer without dissolving it. This is the catalogue's **earliest mirror anchor**, and the first articulation of its master split: a reflection can return you to the source *or* trap you in the image.
@@ -106,7 +111,7 @@ The paradox the song holds cleanest is this: **the anti-mask revelation is happe
 >
 > **The blood census.** *"All of us bleed"* is term one of an escalation that runs the length of *Subject to Flooding*: bleed = **solidarity** (here) → *"blood on our knees"* = **cost** (*Superhuman*; note *"blood on knees"* repeats verbatim across tracks 1 and 6) → *"the blood that we're bleeding"* (*Dream / Dream*) → *"blood in my mouth"* (*Hell of a Night Pt. 2*) → *"Navajo blood in the veins"* = **inheritance / mass grief** (*Precious Time*). The album thinks in blood, and the meaning darkens as it goes.
 >
-> **The face census — and its direction.** This song alone supplies two entries in the pre-mask "face inventory": *disguise on my face* and *for the faceless*. The census runs on: → *face in the crowd* (*Superhuman*) → *Happy Face* (2022) → face-paint (2023→). And the faceless have a **direction of travel**: in 2018 the song is dedicated *to* the faceless — they *receive* the blessing. By the 2025–26 work, the faceless one *delivers* it (the [[Ballerina Boy]] outro, [[Weirdness]], [[#1 Champion (la Conquistadora)]]). Object-of-care becomes source-of-care: *the crowd Roy blessed returns as the voice that blesses him.*
+> **The face census — and its direction.** This song alone supplies two entries in the pre-mask "face inventory": *disguise on my face* and *for the faceless*. The census runs on: → *face in the crowd* (*Superhuman*) → *Happy Face* (2022) → face-paint (2023→). And the faceless have a **direction of travel**: in 2018 the song is dedicated *to* the faceless — they *receive* the blessing. By the 2025–26 work, the faceless one *delivers* it (the [[Ballerina Boy]] outro, [[Weirdness]], [[No. 1 Champion (la Conquistadora)]]). Object-of-care becomes source-of-care: *the crowd Roy blessed returns as the voice that blesses him.*
 >
 > **The crowd that sings back.** The album *opens on a crowd already singing* — *"they're singing…"* plus the built-in parenthetical *"(it's been a long time coming)."* In the catalogue's terms this is a **communion-echo**: the crowd sings *with* the voice, and the voice is Roy's. It's the pole opposite the later **commanded** echo — Lucius-voiced, harvested (*Welcome to the Circus*'s *"scream and shout"*; *I Like to Party*'s *"sing along, follow me"*). At the production layer, the record literally *carries its own crowd.* See [[Communion vs Spectacle]].
 

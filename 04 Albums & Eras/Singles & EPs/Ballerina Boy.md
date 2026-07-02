@@ -72,9 +72,23 @@ Keep two claims apart, because the genesis reading is harder to wave off as "too
 - **[[Roy|Jagwar Twin]]** — first-person, undefended, no mask; the most directly autobiographical song in the body of work. The one who must "come back for that kid I let go."
 - **[[Ballerina Boy]]** — the buried child himself: softness, embodiment, play, stage-joy, the part told *"you're not a real boy."* Has his own page in the cast; this song is his founding event. (The pre-persona human layer collapses *into* this figure, keeping the interior roster lean.)
 - **[[Sir Lucius]]** — never named in the lyric, but present as the armor that grows from this burial — and the one who later mocks the song by name to defend his own necessity.
-- **[[Mary]]** — the motherly outro voice; most likely the clearest divine-feminine appearance in the catalogue, and possibly the earliest. The same faceless feminine blessing recurs in [[Weirdness]] (*"you were born to shine"*) and in [[#1 Champion (la Conquistadora)]], where Mary is named outright.
+- **[[Mary]]** — the motherly outro voice; most likely the clearest divine-feminine appearance in the catalogue, and possibly the earliest. The same faceless feminine blessing recurs in [[Weirdness]] (*"you were born to shine"*) and in [[No. 1 Champion (la Conquistadora)]], where Mary is named outright.
 - **The earthly father** — narrated inside the story; delivers the in-verse pardon *"there's nothing wrong with you, my son."* Distinct from the outro's feminine voice.
 - **[[The Crowd|The girls & the teacher]]** — the schoolyard-plus-religious authority that delivers the verdict (*"we think your son is gay"*; *"you're not a real boy"*).
+
+## Artifacts
+
+**ROY DIARY 2014** · `J403` — The diary's headline question "Does ANY one understand ME?" is a near-verbatim precursor of the released lyric "I said no one understands me but you always listen", sung about exactly this struggling-artist… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd14909d1145a6a8baf6db46d9a5efee8677c90898ae1dabf470ba720bb340e1e..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd14909d1145a6a8baf6db46d9a5efee8677c90898ae1dabf470ba720bb340e1e..jpg" width="200"></a>
+
+**DAD'S CLOCK 4 BB ROY** · `ROY'S TOMB` — A keepsake Roy's dad made for baby Roy, unlocked by the code ROY'S TOMB, maps onto the song's two anchors: the father who blesses the wounded child ("there's nothing wrong with you, my son") and the child's… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x6a84e9bf1fd657ad8872f89c876e17efd0627e3b048523896e40627725f99f97..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x6a84e9bf1fd657ad8872f89c876e17efd0627e3b048523896e40627725f99f97..jpg" width="240" controls preload="none"></video>
+
+**ROY STORY "SIR RABBIT** · `Q763` — The Ballerina Boy essay's documented 'buried child and the searching self' section places Sir Rabbit as the wound's direct output — the poem's 'I do not know Sir Rabbit said / But I must be someone' is the i… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png" width="200"></a>
+
+**QUEEN BINAH** · `TEETH OF A WHALE` — The spoken outro is delivered by an older motherly female voice ('God's design... let your light shine'), the audio-confirmed Divine-Mother / Mary-class appearance whose Kabbalistic substrate is the God-the-… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="200"></a>
 
 ## Symbols
 
@@ -90,7 +104,7 @@ Keep two claims apart, because the genesis reading is harder to wave off as "too
 - **[[Happy Face]]** — the coping mechanism the wound installs.
 - **[[Welcome to the Circus]]** — the public spectacle of the system whose *private origin* is this song.
 - **[[The Circle]] / [[The Thread]]** — rescue from the inside of the inside; the buried feeling retrieved, not traded.
-- **[[#1 Champion (la Conquistadora)]]** — the divine-feminine voice where Mary is named.
+- **[[No. 1 Champion (la Conquistadora)]]** — the divine-feminine voice where Mary is named.
 - **[[SOL]]** — the love-current the rescue moves toward; the sincere song Lucius overrides in the video series.
 - **[[Another Way II Heaven]]** — the metaphysical map (*"one become two… I was still I"*); Ballerina Boy is its *lived* version.
 - **[[Soul Is A Star]]** — *"do you know who you are?"* — answered autobiographically here.

@@ -57,6 +57,11 @@ Which is why the raised hands carry so much weight (see [[The Prop Room#Hands Up
 - **[[The Protector]]** — the album's adaptive-defense architecture, and here it's caught in its most forward-leaning mode: momentum-as-armor. This song is an instance of that mechanism, not a portrait of it.
 - **The "you"** — deliberately unresolved. Romantic partner? A complicit audience pulled into the scheme? An internal interlocutor? *"I don't really know what you're tryna do… promise you'll bail me out"* supports all three, and the analysis pointedly refuses to force it into a 2018 shadow-self reading the song doesn't earn.
 
+## Artifacts
+
+**FLOOD ARTIFACT (˙´¬¬)** · `Vi†ruvian` — This Flood Artifact's encoded name ˙´¬¬ decodes to 'hell,' and 'Hell Of A Night' is Track 10 of the debut album Subject to Flooding after which the whole Flood-artifact series is named; the clip's casino JAC… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9657389ae0e8345046afcfc15d3bc2179bdf70cb0294b54dfb3633999e638f0d..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9657389ae0e8345046afcfc15d3bc2179bdf70cb0294b54dfb3633999e638f0d..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - **[[The Prop Room#Hands Up|Hands Up]]** — the hinge. On the surface it's concert crowd-control (*wave 'em to the ceiling*). Set beside *trouble's on the way*, *locked up*, and the sequel's stickup, the single gesture goes double-coded across **party / robbery / arrest / surrender / worship** — and that one posture is the whole bridge between hallelujah and heist.

@@ -79,6 +79,17 @@ That last non-sequitur becomes the song's *sound.* Rattled, Roy goes to the stud
 - **The truck driver** — the waking-life figure whose *"you're a celebrity, right?"* prompts *"everyone's a celebrity,"* and who caps it with *"are you Russian?"* A real person, not a character — but the one whose stray question wrote the arrangement. (BTS, the drive-time soundtrack during the real crash, is paratext — a wink, not a character.)
 - **Lucky West & Elijah Noll** — the studio collaborators in the room when the sound was found; co-writers and co-producers. Elijah's *"Russian hat"* and ancestral-music kick is the literal origin of the accordions and tubas. (The vault treats American Teeth — @americanteethofficial, in Roy's release credits — as Noll's project.)
 
+## Artifacts
+
+**2014 SELF PORTRAIT** · `DON'T BE A BLACK HOLE` — The cross-mark on the forehead (third eye) in this 2014 self-portrait is the same face-paint mark Roy wears as Sir Lucius, and Good Time is the song where Lucius is born, so the drawing is the documented pre… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x42aca9f05cbbdc9c3bf764cabf65b56bca8959ef77dee0d1ad7a55012d2305d7..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x42aca9f05cbbdc9c3bf764cabf65b56bca8959ef77dee0d1ad7a55012d2305d7..jpg" width="200"></a>
+
+**B1034** · `B1035` — The same probable Josh Dun figure [~] is a credited co-writer on this single, and the artifact is a studio-session photo of exactly the collaborative writing-room context those credits come from. → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg" width="200"></a>
+
+**ROY STORY "SIR RABBIT** · `Q763` — Roy-confirmed continuity: he captioned this artifact 'sir rabbit pre-lucius,' and Good Time (1-08) is his publicly narrated dream where Roy-as-rabbit ('just a rabbit in a road rage,' 'I don't know what I'm l… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png" width="200"></a>
+
 ## Symbols
 
 - **The [[The Rabbit|rabbit]]** — instinct, vulnerability, survival; *not* power. Roy *is* a rabbit; Lucius is a rabbit *with clown makeup.* They share the species, which is why the shadow grows *from* Roy and can't simply be expelled. (This is the March-Hare rabbit years before the 2026 posts name it; the promo even shorthanded it as 🐇🏎️🤬.)

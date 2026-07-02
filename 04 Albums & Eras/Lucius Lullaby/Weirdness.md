@@ -65,8 +65,16 @@ A few claims that cut across the whole song.
 
 - **[[Roy]]** — the speaker; the one reclaiming the split-off self. His voicing literally opens in Lucius's register (*"your"*) and lands fully in his own (*"my"*). *"I changed my name"* is the strongest explicit Roy English → Jagwar Twin anchor in the catalogue.
 - **[[Sir Lucius]]** — present in his **pleading mode** (*"I'm your weirdness"*) — the childlike, dependent, emotionally real layer that the prophet and clown modes exist to defend. It's the moment he names his own function, and the song is Roy's answer to it.
-- **[[Mary]]** (Mary-class) — the faceless angel of the pre-chorus: *"looked like an angel, baby / but her face was out of sight."* Same face-out-of-sight blessing-voice as the [[Ballerina Boy]] outro and *[[#1 Champion (la Conquistadora)]]* (where Mary is named outright). She never flatters. She only ever tells the truth about the light — and she comes at *both* crises, not one.
+- **[[Mary]]** (Mary-class) — the faceless angel of the pre-chorus: *"looked like an angel, baby / but her face was out of sight."* Same face-out-of-sight blessing-voice as the [[Ballerina Boy]] outro and *[[No. 1 Champion (la Conquistadora)]]* (where Mary is named outright). She never flatters. She only ever tells the truth about the light — and she comes at *both* crises, not one.
 - **Real collaborators (not symbols).** Worth stating plainly, because the album is careful about this: **Sia** co-wrote *and* sings background — and is, per Roy, the real-life origin of the hook. **MERCY** (Mercedes Colletta Britton) and **Haley Schae** sing background. **Matthew Pauling** — the *33*-era core — co-writes, produces, and plays much of it. **Dale Becker** masters. These are people, not ciphers. (In particular: *angelbaby*, Roy's actual AI/virtual collaborator elsewhere in the catalogue, is **not** the *"angel, baby"* voice in this song.)
+
+## Artifacts
+
+**GRANDMA'S SONG** · `THE LIGHTNING FLASH` — Weirdness is Roy's biographical childhood-and-family song and its verse-2 lyric "I grew up fast as lightning" carries the artifact's exact lightning image in a growing-up/generations register, matching a fam… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x192da9a1b7fd07fb2ada3707ffe4a04c2fab57223b00fbee7689a133d133d32e..mp3" controls preload="none"></audio>
+
+**QUEEN BINAH** · `TEETH OF A WHALE` — Carries the same faceless Divine-Mother voice the artifact names ('She looked like an angel... but her face was out of sight... you were born to shine'), the Mary-class / Binah-Mother figure appearing at the… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="200"></a>
 
 ## Symbols
 
@@ -81,7 +89,7 @@ A few claims that cut across the whole song.
 - **[[Ballerina Boy]]** — the **wound-song** to this healing-song. Ballerina Boy is the burial; Weirdness begins the exhumation. The child dancing in the rain here *is* the ballerina there — and Ballerina Boy's motherly outro (*"let your light shine," "there's no one else like you"*) is the same blessing-voice, answering Weirdness's *"you were born to shine."*
 - **[[Not Your Homie]]** — anti-pretense, **mirrored.** There, Lucius says *"let's not pretend"* to enforce distance; here the angel says *"stop pretending"* to dissolve the mask. Same phrase, opposite vector — and Weirdness silently answers Not Your Homie's commercial bargain (*"this is what the people want / it doesn't mean anything"*) with its opposite: your uncategorizable part may be the point.
 - **[[Welcome to the Circus]]** — the **public** performance of the Lucius system; Weirdness is the **private** threshold that counters it.
-- **[[#1 Champion (la Conquistadora)]]** — where [[Mary]] is **named**; the same figure who appears faceless here. On the album these are the two turning points: #1 Champion the first *crack* (Mary unseats the ego), Weirdness the first *crossing.*
+- **[[No. 1 Champion (la Conquistadora)]]** — where [[Mary]] is **named**; the same figure who appears faceless here. On the album these are the two turning points: #1 Champion the first *crack* (Mary unseats the ego), Weirdness the first *crossing.*
 - **[[SOL]]** — the love-current beneath the weirdness; the song Lucius can't metabolize. The album's wordless destination (14) that follows this turn (13).
 - **[[Shine]]** (2018) — the **seed** of the whole *"shine"* blessing-vocabulary, where the verb is still first-person and communal (*"gonna shine, shine, shine"*) before the blessing-voice later redirects it outward into a second-person benediction. (Shine is the *seed*, not a Mary appearance — worth keeping distinct.)
 - **[[MAGIK]]** (2025) — Weirdness's **sibling in the blessing-voice cluster** and the mode's purest statement: predating the album's descent, it hands [[Shine]]'s first-person claim fully outward (*"everything you do is Magik"*) — the same benediction Weirdness lands as *"you were born to shine."*
@@ -108,7 +116,7 @@ A few claims that cut across the whole song.
 > Weirdness's *your → my* is one instance of a catalogue-wide device: a [[The Speaker Problem|deliberately unfixable second person]] (also in [[LOOP]], Bad Feeling, [[Bounce]], [[Ballerina Boy]]). The pronoun that keeps sliding enacts, at the level of grammar, the grounded doctrine that *humans are mirrors for each other* — and it's why the outro's reversion to *"your"* refuses to settle into a single meaning. (See [[Duality]] for the pronoun-shift as integrated grammar.)
 
 > [!note]- Advanced reading — the dedication that became a benediction
-> A direction-of-travel finding on the faceless feminine. In 2018 Roy dedicates songs **to** the faceless — they *receive* care (*"this one's for the faceless,"* Long Time Coming). By 2025–26 the faceless one **gives** the blessing (the [[Ballerina Boy]] outro, Weirdness, *[[#1 Champion (la Conquistadora)]]*). The dedication returns as benediction: object-of-care becomes source-of-care. Best held as a *function* swap, not a literal identity — don't over-personify it.
+> A direction-of-travel finding on the faceless feminine. In 2018 Roy dedicates songs **to** the faceless — they *receive* care (*"this one's for the faceless,"* Long Time Coming). By 2025–26 the faceless one **gives** the blessing (the [[Ballerina Boy]] outro, Weirdness, *[[No. 1 Champion (la Conquistadora)]]*). The dedication returns as benediction: object-of-care becomes source-of-care. Best held as a *function* swap, not a literal identity — don't over-personify it.
 
 ## The rollout (public paratext)
 

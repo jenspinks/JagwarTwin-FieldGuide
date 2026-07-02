@@ -96,7 +96,7 @@ So the live questions are: **is it a single or an EP track, and what's its relat
 - **[[Welcome to the Circus]]** — the nursery-rhyme-over-darkness lineage, and the gatekeeping system the release saga literally fought through (*"the algorithm, baby"* grounded here as lived experience).
 - **[[Not Your Homie]]** — the same sweet-surface-over-darkness device, and the prove-yourself, fight-even-at-a-cost ethic the gatekeeper saga acts out.
 - **[[Life Is Good]]** — cited alongside this as the catalogue's self-aware bard singing a nursery rhyme over a burning world.
-- **[[#1 Champion (la Conquistadora)]]** — shares the *"caught thorns"* echo and the Fool motif: the same crown-of-thorns wound and the same holy-fool-as-victor stance surface in both, the wisdom-figure who wins by looking like the idiot.
+- **[[No. 1 Champion (la Conquistadora)]]** — shares the *"caught thorns"* echo and the Fool motif: the same crown-of-thorns wound and the same holy-fool-as-victor stance surface in both, the wisdom-figure who wins by looking like the idiot.
 - **[[The Circus]]** / **[[The Realm]]** — the blockade, and the parallel world built to route around it. The blockchain drop is a Realm move against a Circus wall.
 
 > [!note]- Advanced reading — "eyes wide shut," the Wise Fool, and the two frequencies *(tap to open)*
@@ -203,5 +203,5 @@ Dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
 - [[The Interview]] — where Lucius names this song as Roy's incoherent light-pole.
 - [[The Realm]] — the counter-kingdom the blockchain drop belongs to.
 - [[Jagwar Twin and Harry Potter]] — why this is the *only* direct Potter reference, and every other one isn't.
-- [[#1 Champion (la Conquistadora)]] — the other "caught thorns" song, and the Fool who wins by playing the idiot.
+- [[No. 1 Champion (la Conquistadora)]] — the other "caught thorns" song, and the Fool who wins by playing the idiot.
 - [[Sir Lucius]] — the shadow who may be the real voice behind *"go dumb."*

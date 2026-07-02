@@ -72,6 +72,25 @@ A few claims that cut across the whole song.
 - [[The Algorithm]] — not a metaphor here but the **named author** in the theatrical frame; the predictive machine selling performed happiness.
 - [[The Crowd]] — the timeline that issues the command (*"telling you… how to be"*); the audience the mask is worn *for.*
 
+## Artifacts
+
+**O (444DEMO)** · `ENSO` — The '444' in the demo's title matches Roy's stated practice, documented in the Happy Face essay via the 2024 Audio Addiction interview, of tuning every Jagwar Twin song including Happy Face to 444 Hz as a 'h… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b505763669a1ce85508ca68153be9a72861db80520993c1bc8be4b46e2040d1..mp3" controls preload="none"></audio>
+
+**HAPPY FACE (MINT ROOM)** · `WORLD GONE MAD` — Definitional: this is the mint room of the released song Happy Face (33, track 6), and the unlock code "WORLD GONE MAD" is a verbatim lyric from it ("Flip the switch, flip the stove / World gone mad, let's s… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+
+**ARTIFACT 187** · `DEATH OF MY GENERATION` — The unlock code is the song's doubled bridge lyric verbatim ("Death of my generation"), and the same phrase named the song's Dec 2020 predecessor microsite deathofmygeneration.fun (the Happy Face Experiment)… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84e81fedd884f04c7b3a46eb5b3542ca5d9d3443076d1361a93745ee829912f6..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84e81fedd884f04c7b3a46eb5b3542ca5d9d3443076d1361a93745ee829912f6..jpg" width="200"></a>
+
+**COACHELLA SEA** · `WHO IS INHABITING YOU` — "Flip the switch... let's start the show" plus "Hollywood on your timeline / Telling you what to wear and what to like and how to be" names the outside forces steering the self that the unlock code asks abou… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80dd7bd1be0ede815f5b30f19158e53c3109cc31a005bf3ddd2b8495229a63c8..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80dd7bd1be0ede815f5b30f19158e53c3109cc31a005bf3ddd2b8495229a63c8..jpg" width="240" controls preload="none"></video>
+
+**JAGWAR TWIN TROJAN HORSE PROGRAM** · `RIGHT SHOULDER OF A HORSE` — The card's title enacts Roy's own "Trojan Horse music" doctrine, which he names in the Audio Addiction 2024 interview using Happy Face as the flagship example (a bright singalong mantra over dark, twisted mu… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x906809c415dae59822a6d11f9bfedd9e421e1ae8ad6dcd6a34e42b13f0891b9d..png" width="200"></a>
+
+**D637** · `DYNAMIC TENSION IN GENERATIONS` — The code's generational language is Happy Face vocabulary: the song's refrain 'Death of my generation' is generational-tension language the ARG explicitly reuses (artifact #16's unlock code is literally 'DEA… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe376c18c2dd26786333fadf5aebe5208543cb6e7c050607e44d492736c4278de..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe376c18c2dd26786333fadf5aebe5208543cb6e7c050607e44d492736c4278de..jpg" width="200"></a>
+
 ## Symbols
 
 - [[The Mask]] — the **prototype**: a smile that suppresses authentic distress; *persona* = "through-sound," a mask you literally *sound.*

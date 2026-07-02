@@ -72,6 +72,11 @@ The song dramatizes the exact mechanism [[Sir Lucius]] later personifies — spe
 - **The Devil** — named in the bridge as one of two waking parties (*"Devil waking up to claim the kingdom"*): the external usurper competing with the inner-sovereignty awakening.
 - **The jeweled hand** *(video only, off-screen)* — the ringed hand that force-feeds the cake, read as the industry. Whose hand it is stays an open question — self-inflicted, industry-inflicted, or Lucius-inflicted — but its coming from *off-screen* makes the force external.
 
+## Artifacts
+
+**CAUTION, ALL KINGS END** · `CAKE` — The unlock code CAKE lands directly on the song's confirmed lyric cluster "Devil's Food is a cake / Cake, cake, cake, cake!... Bake a truth with a lie / Then we sell 'em the cake," and the same song ends its… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg" width="200"></a>
+
 ## Symbols
 
 - **[[Consumption|The cake / Devil's Food]]** — the manufactured sweet-lie sold to a sleeping crowd (*"bake a truth with a lie / then we sell 'em the cake"*); rendered literal as force-feeding in the video and as the Saturn-cake cover art. The anchor of the "cake before the circus" consumption reading (and the real-world 2022 "cake party" NFT campaign — see Source notes).

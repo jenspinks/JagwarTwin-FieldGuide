@@ -99,6 +99,20 @@ At bottom, the entire Rockwell saga is about *who gets to claim a song* — the 
 - **Michael Jackson** *(ghost figure)* — sang the interpolated source's hook uncredited; invoked in-song as the dance/spectacle icon watched, copied, consumed, never privately himself.
 - **Mandy Moore** *(named foil)* — the wholesome, manufactured pop-commodity the narrator refuses to be: candy-clean pop as the clone the song fears becoming.
 
+## Artifacts
+
+**THE ANCIENT CHILD** · `JUST WOKE UP` — The hammered 'Wake up' refrain and the essay's documented Gurdjieff axis (Roy publicly posted 'man is asleep... he must wake up') match the code 'JUST WOKE UP,' and the phantom/ghost figure fits the song's d… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe1ced4d6a28de20b22b20717d8d5e65fa69cf421756a765aa2e34053bbf31d3a..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe1ced4d6a28de20b22b20717d8d5e65fa69cf421756a765aa2e34053bbf31d3a..png" width="200"></a>
+
+**HORUS** · `WE ANTHROPOMORPHIZE EVERYTHING` — The Watchers essay explicitly centers Horus, the all-seeing Eye — Roy scored the single to an Instagram Story page of Jung cropped around Horus, and the vault reads the song's watching-eye through El Roi/Eze… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfb6c762ec043c75c306cfce699139ff6c4fde2717094e78fc5fa22c39f2aa77c..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfb6c762ec043c75c306cfce699139ff6c4fde2717094e78fc5fa22c39f2aa77c..jpg" width="200"></a>
+
+**COMPLETE UPLOAD RECIPE** · `INTERNAL GUIDE` — The recipe's wedjat fractions sum to 63/64 (touch = the missing 1/64), the exact clone-paradox 'The Watchers' names outright with 'I'm afraid I'm a clone' — a self rendered in parts with one part always left… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeb355aac61d7bdff66349fed14458aff800433f0ff39aaf203c6c4a9a9558bb0..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeb355aac61d7bdff66349fed14458aff800433f0ff39aaf203c6c4a9a9558bb0..png" width="200"></a>
+
+**SENSE HIERARCHY** · `SENSE` — The banded triangle over the mind's eye diagrams the same weighted-senses system as the Eye-of-Horus fractions and the Upload Recipe's 63/64 sense-list, the cluster whose anchor song is The Watchers: Roy sco… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg" width="200"></a>
+
 ## Symbols
 
 - [[The Mirror]] — escalating into the eye; reflection becoming surveillance. In the El Roi root, *seeing = mirror = eye* (see Advanced reading, above).

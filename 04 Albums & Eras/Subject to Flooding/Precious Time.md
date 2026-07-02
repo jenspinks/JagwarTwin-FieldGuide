@@ -62,6 +62,11 @@ A few claims that cut across the whole loop.
 - **"The people"** — not a named character but a deliberate pronoun-shift, the collective the song opens into at the *"(the people)"* marker: a history of loss larger than one drowning life.
 - **[Sarah Vaughan](https://en.wikipedia.org/wiki/Sarah_Vaughan)** — present not as a character in the words but as a *ghost in the track*. Her 1957 spoken banter is sampled into the song: a dead performer's recorded, living room-talk — old, spent time — preserved inside a song literally called *Precious Time*.
 
+## Artifacts
+
+**FLOOD ARTIFACT (霊的な愛)** · `B1034` — The footage is a sustained gaze down into hazy water, and Precious Time's repeated hook is literally about that vantage: "Cause we never see our depth till we're underwater... Time tickin and your head goin… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..jpg" width="240" controls preload="none"></video>
+
 ## Symbols
 
 - **[[The Prop Room#Water|Water]] / time** — the fusion at the center: the title says time, the lyric makes it rise, tick, submerge, and waste. Depth and breath are available only from *inside* the water.

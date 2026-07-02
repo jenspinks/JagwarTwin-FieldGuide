@@ -63,6 +63,26 @@ A handful of claims that cut across the whole pitch.
 - **[[Roy]]** — the human artist behind the deity's voice. Note the **inversion of the usual casting**: here Roy plays the tempter, the persuader-role Lucius normally carries, while a second voice guides the listener toward *him*.
 - **[[Sir Lucius]]** — **absent by name**, present as function. His persuasion-and-concealment operation is exactly what Attention prototypes, two years before he's named.
 
+## Artifacts
+
+**HELLO, ATTENTION (µå®∂¨˚)** · `MARDUK` — The artifact title "HELLO, ATTENTION" is the song's opening line ("Hello, Attention / I'd like to introduce you to someone"), the board cell shown in the video, "eyes all around head", matches the bridge lyr… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..jpg" width="240" controls preload="none"></video>
+
+**LITTLE LUNA EXPLAINING NFTS** · `EXPLAINING NFTS` — little luna, the artifact's named subject, is this song's featured artist, and the song's attention-as-currency economy ("televise is just my disguise"; attention as the hidden god you transact with) is the… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdaa5986dfa957f4d504265bd2a0f4e768070f1d25aa7b26fd6b7b8be848d7eca..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdaa5986dfa957f4d504265bd2a0f4e768070f1d25aa7b26fd6b7b8be848d7eca..jpg" width="240" controls preload="none"></video>
+
+**CHUCKSTER'S MUMMY 2 (228)** · `G228` — The Attention-huckster's carnival pitch, "Step right up to my Door / There's a little price you pay" and "Everybody want the money," is the grown-up form of Chuckster's fable, where a dubious wonder is sold… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..jpg" width="240" controls preload="none"></video>
+
+**ATTENTION TWEET** · `X672` — The tweet states Roy's philosophy of Attention as a pre-existing force you discover rather than create, which the song enacts by capitalizing and personifying Attention as an ancient power ("I've been behind… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2e527d507f693170efa5263a09886b1f9c835e74c59be669ace885c087c4f2e9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2e527d507f693170efa5263a09886b1f9c835e74c59be669ace885c087c4f2e9..jpg" width="200"></a>
+
+**SENSE HIERARCHY** · `SENSE` — A 1-10 ranking of the senses is precisely what attention does, and Pay Attention's narrator is the entity that seizes that ranking, commandeering the sense-organs one by one: "May I have all your ears," "I g… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg" width="200"></a>
+
+**LUNA_COACHELLA 2015** · `BELIEVE IN YOUR FRIENDS DREAMS` — The woman pictured is by all vault evidence little luna, this song's featured guide-voice ('Hello, Attention...'), so the room documents the 2015 origin of the friendship the 2022 feature repaid, exactly wha… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x604fedcb1e620c6f6027cecf3598deb665abf9b3e31e8476de75266a80f021f0..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x604fedcb1e620c6f6027cecf3598deb665abf9b3e31e8476de75266a80f021f0..jpg" width="200"></a>
+
 ## Symbols
 
 - **[[The Light-Bearer]]** — *"Stars are Born from Light":* the counterfeit-light move, sacred idiom in an acquisitive mouth.

@@ -65,6 +65,20 @@ A few claims that cut across the whole song.
 - [[SARAVI]] — the AI "digital doppelganger" of Jagwar Twin, trained over months on Roy's own responses and handed the official @jagwartwin Twitter in August 2022 for the *33* campaign. Origin was, per Roy, a joke pitched to his studio: *"what if I uploaded my consciousness to the internet so there could be a 24/7 social influencer version of me."* The *Online* mint site sits inside that same "uploading myself" apparatus. Roy's stated hope: that she'd make fans "think about what a self looks like in this digital age."
 - **The army / the machine / the Spider** — the song's non-human antagonist: the surveillance-database-algorithm, rendered as a face-thieving army and a spider that eats the user.
 
+## Artifacts
+
+**RA-LINK** · `SA-LINK` — The screenshot IS a Notes-app draft of Online's lyrics: every visible line ("Automatic in the static of the human race," "They infiltrate my brain," "a Bug inside your database," "Buy! Buy! Buy!," "Everyone… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4d855ea139afbb890f7a15fc5bb91c61522597328d0e4319f4dbf2c8f36fa921..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4d855ea139afbb890f7a15fc5bb91c61522597328d0e4319f4dbf2c8f36fa921..png" width="200"></a>
+
+**VI-LINK** · `RA-LINK` — The image is verbatim draft lyrics of Online (33, track 1) — 'Internet is like a web and we're the Spider's food,' 'All the shamans and the Brahman's say we come from space,' 'Maybe Jupiter is stupider than… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fe33a034502a7d263a17b5abc92d5af7cdb4eaeec5a610e4d66431e2ad38151..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fe33a034502a7d263a17b5abc92d5af7cdb4eaeec5a610e4d66431e2ad38151..png" width="200"></a>
+
+**EVERYONE LOVES THE INTERNET** · `VI-LINK` — The screenshot is the lyric sheet for Online itself — 'Everyone loves the internet,' 'Cause you can get it online,' 'You feel good,' 'As machines became more sophisticated... (In the static of the human race… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xda309cfb1149169ba382e313147e762634d50fe230ebc64a1e660a9bcd6fc2ff..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xda309cfb1149169ba382e313147e762634d50fe230ebc64a1e660a9bcd6fc2ff..png" width="200"></a>
+
+**SA-LINK** · `EVERYONE LOVES THE INTERNET` — The artifact is a dated (April 30, 2022) Notes-app lyric draft of Online itself, containing the released chorus ("Cause you can get it online / Everyone ❤️s the internet / ...You feel good"), the "army up ag… → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d671e6236e53d7d328466acbc4bdd9d613edfb80fbc47f9a3300451c2e9adc5..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5d671e6236e53d7d328466acbc4bdd9d613edfb80fbc47f9a3300451c2e9adc5..png" width="200"></a>
+
 ## Symbols
 
 - [[The Aquarium]] — the totalized closed system the song narrates from *inside*, anchored by Roy's "fully in the aquarium" post. *Online* is the song that reports from within the tank.

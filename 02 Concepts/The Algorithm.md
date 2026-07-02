@@ -87,7 +87,7 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 - **[[Panem et Circenses]]** — the Algorithm as the contemporary delivery mechanism for bread-and-circuses sedation.
 - **[[The Audience]]** — the watchers are the Algorithm's power source: *"they love it when you lose control."* No audience, no Lucius.
 - **[[Roy]]** — the one the Algorithm processes; also the one who conceded *"I guess Lucius was right again."*
-- **[[#1 Champion (la Conquistadora)|SOL]]** — *the song of love*, the candidate anti-algorithmic track; the one thing Lucius can't metabolize, overridden by the Algorithm's logic.
+- **[[No. 1 Champion (la Conquistadora)|SOL]]** — *the song of love*, the candidate anti-algorithmic track; the one thing Lucius can't metabolize, overridden by the Algorithm's logic.
 - **[[The Realm]]** — the route *around* the gatekeeping (owned audience, blockchain releases). Circus = blockade; Realm = the way around it.
 
 ## Advanced reading

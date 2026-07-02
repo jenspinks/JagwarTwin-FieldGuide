@@ -52,7 +52,7 @@ The exceptions keep *33* from being purely relational — *Another Way II Heaven
 
 *Lucius Lullaby* is an **I-engine**, and the "I" it runs on is mostly *performance* — self-assertion, branding, the survival-clutch. The comedy is the mask:
 
-- [[#1 Champion (la Conquistadora)]] — I:you 5.5.
+- [[No. 1 Champion (la Conquistadora)]] — I:you 5.5.
 - [[Bananas]] — I:you 4.5. Manic self-assertion up top, bleak underneath: the banana is sterile, looks healthy and can't reproduce, and the whole strut is a sealed first-person room. The joke *is* the mask — the funniest song is also the most evolutionarily dead-ended.
 - [[Playing to the Gods]] — *I* 4 / *you* 0. The deathless survival-mantra, *"if I make it out alive, then I'm never gonna die"* — not a single "you" in it. And it's the album's darkest punchline: in the *Lucius Lullaby* video the line runs *over a heart-monitor flatline.* He didn't make it out alive, so the boast becomes its own joke — the brag and the corpse in the same frame.
 - [[Bounce]] — I:you 3.0. *"You just love me for my lore"* — the I-engine winking straight at its own parasocial audience, naming the transaction even as it runs on it.
