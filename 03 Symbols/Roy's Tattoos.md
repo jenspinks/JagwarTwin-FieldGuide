@@ -8,14 +8,14 @@ source_basis: ["public posts", "public interviews", "official videos"]
 ---
 # Roy's Tattoos
 
-> **One-line reading.** Roy English wears the whole cosmology on his skin — not as a scattering of tattoos but as a single **mirror diagram**: everything inked on the right side and repeated on the left, resolved by one `+` at the center. The body is the doctrine, enacted in ink.
+> **One-line reading.** Roy English wears the whole cosmology on his skin — not as a scattering of tattoos but as a single **mirror diagram**: everything inked on the right side and repeated on the left, resolved by one `+` at the center. The body is the doctrine, enacted in ink. 
 
 > [!info] The structural key
 > **Every tattoo is inked on the right side of the body, then mirrored onto the left. One `+` sits at center-chest, below the throat, and spans both sides.** *(Roy's own description.)* So the body isn't a *list* of tattoos — it's a **symmetrical map with a central axis**, and that shape is itself the teaching.
 
 ## Why it matters
 
-Most of the project's ideas show up somewhere on Roy's body before they show up in a song. *Inversion*, the *Empty Mirror*, the *Tree of Life*, ego-death, *"wake up,"* the apophatic *via negativa* — they're all there, in his own words, glossed by him. The tattoos are the closest thing the catalogue has to a signed statement of intent: a wearable index of the cosmology, composed as a mirror because the mirror *is* the cosmology. This page collects the full inventory (his glosses, kept separate from interpretation) and is honest about where each piece is sourced.
+Many of the concepts show up somewhere on Roy's body before they show up in a song. *Inversion*, the *Empty Mirror*, the *Tree of Life*, ego-death, *"wake up,"* the apophatic *via negativa* — they're all there, in his own words, glossed by him. The tattoos are the closest thing the catalogue has to a signed statement of intent: a wearable index of the cosmology, composed as a mirror because the mirror *is* the cosmology. This page collects the full inventory (his glosses, kept separate from interpretation) and is honest about where each piece is sourced.
 
 ## The structural fact (the most important datum)
 
@@ -58,7 +58,7 @@ The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from 
 
 **Hands & back of arm**
 - *WAKE UP* (back of hand) — Gurdjieff's *"Man is asleep. He must wake up."* ([[Roy]]'s most-named influence by 2025.)
-- **KILL YOUR SELF** (stacked: KILL / YOUR / SELF, back of the arm) — **the one he pointedly did not explain.** *(See the reading below; do not read it literally.)*
+- **KILL YOUR (Possessive) SELF** (stacked: KILL / YOUR / SELF, back of the arm) — **the one he pointedly did not explain.** *(See the reading below; do not read it literally.)*
 
 > [!note]- Advanced reading — what the clusters mean (interpretation, not stated intent)
 > - **The cross-and-rose center → Rosicrucianism, the 4 Worlds, Tiferet.** He states the `+` = Christ + the 4 worlds + the center. Read against the tradition: the 4 worlds are the Kabbalistic Atziluth / Beriah / Yetzirah / Assiah; the center is **Tiferet**, the heart-Sun-Christ integration point of the Tree. *ROSE ESOR* = the **Rosy Cross**, rendered as a mirror-word wrapped around the `+` — Rosicrucianism from his own hand, built as a palindrome (see [[Inversion]]).
@@ -72,7 +72,7 @@ The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from 
 
 ## Person vs. character — a note on *El Roi*
 
-One marking that gets attributed to Roy's body actually belongs to the **character**. In the theatrical *[[The Interview]]* videos, **[[Sir Lucius]]** wears Hebrew on his neck — ***El Roi***, "the God who sees me" (Genesis 16:13) — along with white face paint, black X's under the eyes, and an inverted cross on the cheek. The best available reading is that this is **the character's marking / face paint, not a tattoo on Roy's real body**: the cluster appears only on Lucius in the videos, Roy frames *Roy* and *sir lucius* as two distinct personas (*"a war between light and dark"*), and Lucius literally sings *"paint my face"* in [[Welcome to the Circus]]. Treat *El Roi* as **Sir Lucius iconography**, held as inference until a frame or a statement settles it.
+One marking that gets attributed to Roy's body actually belongs to the Lucius **character**. **[[Sir Lucius]]** wears Hebrew on his neck — ***El Roi***, "the God who sees me" (Genesis 16:13) — along with white face paint, black X's under the eyes, and an inverted cross on the cheek.  **The character's marking / face paint, not a tattoo on Roy's real body**. This could be read as manufactured identity.  
 
 Distinct from that is **"El Roy,"** the authorial signature Roy signs his lore with — his own name folded into *El Roi* (Roy / Roi / *the one who sees*). That one is real, and it's the seed of the whole seeing-motif on the [[Roy]] page.
 

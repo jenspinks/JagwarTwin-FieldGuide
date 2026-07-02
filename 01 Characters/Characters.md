@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Characters
 
-This world isn't built from ordinary characters. Some of these figures are people, some are masks, some are inner voices, and some are symbolic roles or forces that keep recurring across the songs, the videos, and the public posts — most of them, in the end, facets of a single self, defined less by what they are than by how they relate to one another. The trick is that they argue with each other in public: an artist who feuds with his own shadow on the band's verified Instagram, a buried child the whole arc is trying to call back, an AI that started as a joke about being too online. This section maps the major figures and how they fit together.
+This world isn't built from ordinary characters. Some of these figures are people, some are masks, some are inner voices, and some are symbolic roles or forces that keep recurring across the songs, the videos, and the public posts — most of them, in the end, facets of a single self, defined less by what they are than by how they relate to one another. The trick is that they argue with each other in public: an artist who feuds with his own shadow on the band's verified Instagram, a buried child the whole arc is trying to call back, an AI that started as a joke about being too online. This section maps the major figures and how they fit together. 
 
 ## Primary voices
 

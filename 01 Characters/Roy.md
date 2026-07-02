@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Roy
 
-> **One-line reading.** Roy is the heart-centered interpreter — the later conscious self trying to recover the buried [[Brandon|Ballerina Boy]] and bring [[Sir Lucius]], the protector-mind, back into service of the heart.
+> **One-line reading.** Roy is the heart-centered interpreter — the later conscious self trying to recover the buried [[Brandon|Ballerina Boy]] and bring [[Sir Lucius]], the protector-mind, back into service of the heart. 
 
 > [!infobox] Roy
 > - **Also known as** — Jagwar Twin · Roy English *(2006–2015)* · El Roy

@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Sir Lucius
 
-> **One-line reading.** Sir Lucius is the mind severed from the heart — a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth. That's the problem.
+> **One-line reading.** Sir Lucius is the mind severed from the heart — a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth. That's the problem. 
 
 > [!infobox] Sir Lucius
 >
