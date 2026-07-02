@@ -81,6 +81,8 @@ When Roy handed the project's official Instagram over to Lucius in October 2024 
 
 It's the Genesis-3 apple: the mind grasping for what it hasn't grown into. It is, in other words, the "mind severed from the heart" definition rendered as a single object he carries everywhere. His full signature — used to sign in-character posts — is 🗡🍏, the dagger and the green apple: charm and threat in one breath.
 
+There's a live tension in that dagger worth flagging, and this guide leaves it open. Roy's own simple character-key gives the **sword to [[Roy]]** — glossed as *discernment, chosen action* (see [[The Sword]]). So when Lucius signs with a blade, he's laying claim to the very edge his twin is supposed to carry. Read one way it's just his menace; read another, it's of a piece with everything else he does — **impersonation by wearing the other's regalia,** the mind reaching into the heart's territory and taking its emblem for a signature. (And note it's a *dagger* — 🗡, the concealed close blade — not the open knightly sword: two weapons for two honesties.) Held as a question, not an answer.
+
 The literary template is on Roy's own bookshelf. C. S. Lewis's *The Screwtape Letters* — a senior devil coaching a junior tempter, the manipulation always dressed as counsel — sits in his public Book Club (alongside *The Great Divorce*). Lucius is that voice given a face: the advisor who is technically never wrong and never on your side.
 
 ## The dream where he arrives

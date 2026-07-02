@@ -44,8 +44,12 @@ Every entry carries `#artifact` plus one or more content tags, so any tag is a "
 ## Migration (public site) — ✅ done
 Migrated to **The Jagwar Files → `06 Artifacts/`** (hub = [[Artifacts]] + 6 group pages), with reciprocal **Artifacts** sections on the public song pages and the public [[Hall of Mirrors]] page pointing here. Images are hotlinked GCS (light); local media kept here as backup.
 
-## The "I'm 33" board (separate enrichment track)
-Roy's own spreadsheet is already captured as **one consolidated doc**: [[The I'm 33 Board]] (decode: [[The I'm 33 Board]]). So this track is **enrichment, not capture** — weave the board's concepts into the relevant song/concept pages, each pointing *back* to that board doc.
+## The "I'm 33" board — its own four-room feature
+Roy's cosmology spreadsheet gets its own home, written for reading rather than filing: **[[The I'm 33 Board]]** (the way in) opens onto four passes —
+- [[The I'm 33 Board - The Upload]] — consciousness, immortality, and the digital double.
+- [[The I'm 33 Board - The Ascent Ladder]] — the ten-rung climb, drawn six ways.
+- [[The I'm 33 Board - The Source Code]] — the traditions, the geometry, the "One become Two" poem.
+- [[The I'm 33 Board - The Field]] — the cosmology in pictures, and the man behind it.
 
 > **★ Finding (Drawings pass):** many HoM drawing-artifacts *are the board's own diagrams*, minted individually — the Eye-of-Horus fractions (#71/#84), Platonic Lambda (#45), "A Head of Adam" (#86), "Tree thinking / Abyss" (#15), "suggestion of apex — 6 sides" (#26), the Lightning-Flash (#125). So the artifact pass and this enrichment track feed each other: the board decodes the artifacts, and the artifacts are the board's cosmology made collectible. Its own "Connections" section already lists the target pages ([[The Labors of Hercules]], [[It's Your Time]], [[Sir Lucius]], [[33 (album)]], [[Soul Is A Star]], [[Online]], [[The Pattern]]…) — that list is the enrichment worklist.
 
