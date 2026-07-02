@@ -24,7 +24,7 @@ Here is the joke the whole song is built around, and it springs on its own bait.
 - **Era / release** — *Lucius Lullaby* (2026), track 8 of 15; 3:33; the album's **first crack** — the moment the ego first destabilizes, well before [[Weirdness]] finishes the job.
 - **In one line** — the boast is sung in [[Mary]]'s voice, and the boaster is defeated by the song he thinks is his.
 - **Who speaks** — **[[Mary]]** owns the entire chorus (the count, the money-verdict, the title). **[[Sir Lucius]]** has no line of his own; he sings only the title, and only by climbing onto her voice. **[[Roy]]** is the ego underneath the character — the champion is Roy-in-Lucius-mode, diagnosed by what he can't see.
-- **Key symbols** — [[The Halo]] (without a head) · [[The Gun]] · [[The Crown]] · [[The Rose]] (white) · [[The Mirror]] (inverted) · the count ("A-B-C, one-two-three")
+- **Key symbols** — [[The Prop Room#The Halo|The Halo]] (without a head) · [[The Prop Room#The Gun|The Gun]] · [[The Prop Room#The Crown|The Crown]] · [[The Rose]] (white) · [[The Mirror]] (inverted) · the count ("A-B-C, one-two-three")
 
 ## The song, mapped
 
@@ -67,9 +67,9 @@ A few claims cut across the whole song.
 
 ## Symbols
 
-- **[[The Halo]] (without a head)** — holiness with no persona to flatter; the holy sign read, the face never seen. The clearest emblem of the failure-of-seeing at the song's core.
-- **[[The Gun]]** — the militarized Madonna. The vault leans toward sovereignty/revolution over self-defense (paired with *"fawning over no man… such a revolutionary"*), though the register stays partly open.
-- **[[The Crown]]** — *"Queen of California"* repurposes the Marian *"Queen of Heaven"* into the album's Hollywood register; the crown collides with the gutter (*"on the corner doing her time"*).
+- **[[The Prop Room#The Halo|The Halo]] (without a head)** — holiness with no persona to flatter; the holy sign read, the face never seen. The clearest emblem of the failure-of-seeing at the song's core.
+- **[[The Prop Room#The Gun|The Gun]]** — the militarized Madonna. The vault leans toward sovereignty/revolution over self-defense (paired with *"fawning over no man… such a revolutionary"*), though the register stays partly open.
+- **[[The Prop Room#The Crown|The Crown]]** — *"Queen of California"* repurposes the Marian *"Queen of Heaven"* into the album's Hollywood register; the crown collides with the gutter (*"on the corner doing her time"*).
 - **[[The Rose]] (white)** — the visualizer's *"white rose in my left hand"*; the Rider-Waite Fool's rose. The sign of the quest, in his hand the whole time and not saving him.
 - **[[The Mirror]] (inverted)** — the spectacle-self comes looking for reflection and recognition; Mary returns neither face nor reflection.
 - **The ledge / the leap** — *"stepped off the ledge"* — the Fool's leap of faith, rendered fatal.

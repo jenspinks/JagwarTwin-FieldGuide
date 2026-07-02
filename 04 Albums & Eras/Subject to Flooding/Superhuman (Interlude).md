@@ -22,7 +22,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — *Subject to Flooding*, Roy English's debut as Jagwar Twin, first released September 2018 and re-released by Atlantic the following April. This is the shortest thing on the record and the least "written" — which turns out to be the whole point.
 - **In one line** — a verbatim sample of Chaplin's *Great Dictator* speech, dropped in as a 22-second setup that hands directly into the full [[Superhuman]] (track 6).
 - **Who speaks** — nobody in the cast. Not [[Roy]], not [[Sir Lucius]], not [[Mary]], not the Crowd. The voice is Chaplin's, sampled — an inherited voice slotted into the sequence. What's *Roy's* here is the choosing.
-- **Key symbols** — [[The Machine]] (named here, remarkably, as a *human gift*) · the clown (via Chaplin — the clown who wakes the crowd instead of herding it) · the kingdom within · [[The Flood]] (the album it's drowning inside).
+- **Key symbols** — [[The Prop Room#The Machine|The Machine]] (named here, remarkably, as a *human gift*) · the clown (via Chaplin — the clown who wakes the crowd instead of herding it) · the kingdom within · [[The Prop Room#The Flood|The Flood]] (the album it's drowning inside).
 
 The one thing to hold onto before anything else: this is a **relay, not a statement.** Roy did not compose these words. He reached into the entire archive of recorded human speech and pulled out *this* — a 1940 humanist plea — to open his album's argument about machines. The meaning lives in the act of selection. Everything below follows from that.
 
@@ -60,10 +60,10 @@ A few claims that cut across the whole 22 seconds:
 
 ## Symbols
 
-- **[[The Machine]]** — named here as *human creative capacity*, the album's clearest statement that it is not the antagonist. This is the anchor of the [[Machine vs Human]] arc; the whole thread grows from these two lines.
+- **[[The Prop Room#The Machine|The Machine]]** — named here as *human creative capacity*, the album's clearest statement that it is not the antagonist. This is the anchor of the [[Machine vs Human]] arc; the whole thread grows from these two lines.
 - **The clown** (via Chaplin) — inverted: the clown who *wakes* the crowd, the historical inverse of the Ringmaster who herds it for spectacle.
 - **The kingdom within** — interior divinity, distributed across all, concentrated in no one. The counter-image to the surveillance the catalogue later names.
-- **[[The Flood]]** — the interlude is 22 seconds inside an album named for the deluge. Set against that title, *"let us all unite," "make this life free and beautiful"* reads as the human cry against drowning — a brief flash of daylight inside the immersion.
+- **[[The Prop Room#The Flood|The Flood]]** — the interlude is 22 seconds inside an album named for the deluge. Set against that title, *"let us all unite," "make this life free and beautiful"* reads as the human cry against drowning — a brief flash of daylight inside the immersion.
 
 ## Connected songs
 

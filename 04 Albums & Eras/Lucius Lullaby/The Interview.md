@@ -46,7 +46,7 @@ The shortest and tenderest. Roy sits alone staring into a spoon; Lucius wanders 
 ▶ https://www.youtube.com/watch?v=DKD44ULpy3o
 
 **EP5 — Sir Lucius Takes Over the Premiere** · posted March 23, 2026 *(listening party March 3, Santa Monica)*
-Lucius hijacks the album's industry listening party — [[Leif]]'s first appearance, planted up front as a bodyguard — and delivers a cold, prophetic solo address to a room of label heads: *"Systems don't fail because they get attacked; they fail when people stop believing in them."* / *"The future doesn't ask for permission to arrive; it just arrives."* / *"You build your own table."* It ends: *"Get out of the way. You're welcome."*
+Lucius hijacks the album's industry listening party — [[BMRC#Leif|Leif]]'s first appearance, planted up front as a bodyguard — and delivers a cold, prophetic solo address to a room of label heads: *"Systems don't fail because they get attacked; they fail when people stop believing in them."* / *"The future doesn't ask for permission to arrive; it just arrives."* / *"You build your own table."* It ends: *"Get out of the way. You're welcome."*
 ▶ https://www.youtube.com/watch?v=aCftmfU_YpA
 
 **EP6 — The Kidnapping** · released March 2026
@@ -61,7 +61,7 @@ Lucius ties Roy to a chair, covers his eyes, and forces him to sit through the w
 
 - [[Sir Lucius]] — the shadow on the other side of the table; the series is the clearest portrait of him there is.
 - [[Roy]] — the heart Lucius was built to protect, and the one who keeps conceding the bargain.
-- [[Leif]] — Lucius's goofy enforcer-bodyguard; first appears in EP5, does the kidnapping in EP6.
+- [[BMRC#Leif|Leif]] — Lucius's goofy enforcer-bodyguard; first appears in EP5, does the kidnapping in EP6.
 - [[Welcome to the Circus]] — the algorithmic hit Lucius bananas up in EP3.
 - [[Lucius Lullaby (album)]] — the album this whole series exists to roll out.
 - [[SOL]] — *The Song of Love*; the tender song Lucius refuses, again and again, and the one he can't metabolize.

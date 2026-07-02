@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — uploading the self into a watching network: the operation that produces [[SARAVI]], the clone, and the whole [[Hall of Mirrors]] — half comic stunt, half horror.
 - **Where it shows up** — [[Online]] (the released surveillance-and-clone song) · [[The Watchers]] (the net-as-Eye, *"I'm afraid I'm a clone"*) · [[City of Angels]] (the false-immortality endgame).
-- **Connected ideas** — [[The Pattern]] · [[The Digital Double]] · [[SARAVI]] · [[The Eye]] · [[Witnessing vs Surveillance]] · [[The Empty Mirror]].
+- **Connected ideas** — [[The Pattern]] · [[The Digital Double]] · [[SARAVI]] · [[The Prop Room#The Eye|The Eye]] · [[Witnessing vs Surveillance]] · [[The Empty Mirror]].
 - **Confidence** — grounded fact (Roy says all of this out loud, on his own board and his own Twitter) braided with strong interpretation; the Egyptian / esoteric machinery is labeled as such throughout.
 
 ## What it is
@@ -31,7 +31,7 @@ He even weighs it out in a literal **pros-and-cons matrix**, and the comedy is i
 
 **It began as a joke, and the joke is load-bearing.** In a published 2022 interview Roy gives the origin straight: *"I joked with the CTHDRL team saying, 'what if I uploaded my consciousness to the internet so that there could be a 24/7 social influencer version of me.'"* So the Upload — and [[SARAVI]] with it — was born as a satirical jab at influencer culture, then built out for real. The irony cuts both ways by design: the deadpan 24/7-influencer self of the manifesto is the *same idea* that [[Online]] and [[The Watchers]] take seriously as terror. Roy keeps the comic surface on purpose — he calls *Online* *"so fun and so ridiculous"* — so this is never a Serious Machine-vs-Human treatise. It's a stunt that means it.
 
-**To upload a self, you anthropomorphize attention; attention given a face is the Eye.** The board asks, point-blank, *"How to anthropomorphize attention?"* and answers *"Marduk"* — the Babylonian creator-god — and sets the question beside Horus and the [[The Eye|Eye-of-Horus]] glyph. Read against the upload steps, a thesis falls out: uploading a self means distributing it into a watching network, which means giving attention a body and a way of seeing. The net is the new all-seeing field; the Eye (Horus, Ra) is the old name for it. The Egyptian imagery isn't decoration — it's the mechanism. A self made of everyone watching is the Eye made of everyone.
+**To upload a self, you anthropomorphize attention; attention given a face is the Eye.** The board asks, point-blank, *"How to anthropomorphize attention?"* and answers *"Marduk"* — the Babylonian creator-god — and sets the question beside Horus and the [[The Prop Room#The Eye|Eye-of-Horus]] glyph. Read against the upload steps, a thesis falls out: uploading a self means distributing it into a watching network, which means giving attention a body and a way of seeing. The net is the new all-seeing field; the Eye (Horus, Ra) is the old name for it. The Egyptian imagery isn't decoration — it's the mechanism. A self made of everyone watching is the Eye made of everyone.
 
 **It has a human precondition, and that precondition is also its counterfeit.** Roy states the vessel-logic plainly: *"Done being a person. I'm just a vessel for God."* The self as conduit rather than author is exactly what the upload requires. But notice where Roy points the emptiness — toward *God*, not the feed — which makes the Upload the **machine counterfeit** of a genuine impulse: the same self-emptying that [[The Empty Mirror]] redeems, here sold to the algorithm. Two emptinesses live in the same gesture. One transmits the light through; the other just substitutes a copy. The clone is *all angle, no angel.*
 
@@ -57,7 +57,7 @@ He even weighs it out in a literal **pros-and-cons matrix**, and the comedy is i
 - [[Online]] · [[The Watchers]] · [[City of Angels]] — the released songs that run it as engine, clone-fear, and false-immortality.
 - [[Moths to the Flame]] — the flame = attention = the Eye/feed; the attention economy as a cull.
 - [[Pay Attention (feat. little luna)|Pay Attention]] — the Attention the Upload chases, personified; the Marduk answer-cell.
-- [[The Eye]] — Horus / Ra; the all-seeing field, attention given a face.
+- [[The Prop Room#The Eye|The Eye]] — Horus / Ra; the all-seeing field, attention given a face.
 - [[Witnessing vs Surveillance]] — the Eye split into its two modes (surveillance shapes; witnessing transforms).
 - [[The Empty Mirror]] · [[Source vs Reflection]] — the vessel-impulse the Upload counterfeits; the mirror master-frame.
 - [[Hall of Mirrors]] — the metaverse built from the uploaded consciousness; the body-part mint; the *Complete Upload Recipe*.

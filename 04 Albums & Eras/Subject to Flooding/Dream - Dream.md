@@ -25,7 +25,7 @@ The doubled title is the whole idea in two words. *Dream / Dream* names the song
 - **Era / release** — *Subject to Flooding* (2018), Jagwar Twin's debut; track 2. Built roughly 2012–2018 across Joshua Tree, Florence, Haiti, Ireland, and Lake Arrowhead.
 - **In one line** — a sincere, pre-mirror awakening anthem that still believes the prison is entirely *external* — and whose vehicle of liberation is itself borrowed.
 - **Who speaks** — [[Roy]], first-person sliding into collective "we." No persona is visible in the lyric yet; [[Sir Lucius]] is present only by retrospective implication.
-- **Key symbols** — [[The Dream]] · [[The Stairway to Heaven]] · [[The Crowd]] · the spelled word (D-R-E-A-M) · the Lord's Prayer / Sunday
+- **Key symbols** — [[The Prop Room#The Dream|The Dream]] · [[The Prop Room#The Stairway to Heaven|The Stairway to Heaven]] · [[The Crowd]] · the spelled word (D-R-E-A-M) · the Lord's Prayer / Sunday
 
 ## The song, mapped
 
@@ -60,8 +60,8 @@ A few claims that cut across the whole song.
 
 ## Symbols
 
-- **[[The Dream]]** — inherited from the songbook here (Mercer 1944), sincerely. Across the catalogue the relationship keeps shifting: *Subject to Flooding* inherits the cultural dream → [[Long Time Coming]] notices the disguise inside it → [[Ballerina Boy]] counts the cost of surviving it → [[Weirdness]] recovers the authenticity buried beneath it → [[Lucius Lullaby (album)|Lucius Lullaby]] and [[The Watchers]] turn it into simulation and loop (*"is it just a dream? wake up"*).
-- **[[The Stairway to Heaven]]** — upward, outward escape imagery: *"walk the stairway to Heaven like freedom,"* the climb begun before the gate is met. Later inverts against [[City of Angels]]' descending ladder.
+- **[[The Prop Room#The Dream|The Dream]]** — inherited from the songbook here (Mercer 1944), sincerely. Across the catalogue the relationship keeps shifting: *Subject to Flooding* inherits the cultural dream → [[Long Time Coming]] notices the disguise inside it → [[Ballerina Boy]] counts the cost of surviving it → [[Weirdness]] recovers the authenticity buried beneath it → [[Lucius Lullaby (album)|Lucius Lullaby]] and [[The Watchers]] turn it into simulation and loop (*"is it just a dream? wake up"*).
+- **[[The Prop Room#The Stairway to Heaven|The Stairway to Heaven]]** — upward, outward escape imagery: *"walk the stairway to Heaven like freedom,"* the climb begun before the gate is met. Later inverts against [[City of Angels]]' descending ladder.
 - **[[The Crowd]]** — collective-synchronization mechanics: repetition, entrainment, *"follow me,"* *"with me."* This is the same instrument the [[Welcome to the Circus|Circus]] later weaponizes as spectacle — and the seed of the [[The Circle|sing-back]] communion gesture. Not evil; the question is only what flows through the channel.
 - **The Lord's Prayer / Sunday** — a Father-address, a vertical invocation, a reaching-toward-source: the earliest Father-vector in the arc, before the explicit Father interventions later (the reached-for Father's hand; the fatherly blessing in [[Ballerina Boy]]).
 - **The spelled word (D-R-E-A-M)** — letter-by-letter construction as a transmission/teaching gesture; how a child learns a word. *(The one-letter-off echo of Wu-Tang's "C.R.E.A.M." was raised and ruled out — see Source notes.)*

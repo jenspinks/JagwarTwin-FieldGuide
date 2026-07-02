@@ -82,7 +82,7 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 - [[Witnessing vs Surveillance]] — being *seen* (without being taken) versus being *consumed*; [[Mary]] and the El Roi witness see without eating.
 - [[Down to You]] — the built-in rebuttal: *"one cannot live on bread alone"* refuses the cake.
 - [[The Banana]] — Lucius's prop; the sterile clone (real light in a sterile vessel) and the hijacked offering.
-- [[BMRC]] / [[The Boss]] — the industry-Babylon that may be upstream of the eating (see the open question below).
+- [[BMRC]] / [[BMRC|The Boss]] — the industry-Babylon that may be upstream of the eating (see the open question below).
 
 > [!note]- Advanced reading — consumed-and-discarded versus consumed-and-transformed (the central device)
 > This is the interpretive spine of the page, and it works as a *framework comparison* — something the songs invite, not something they assert. The biblical tradition is full of being *swallowed*: **Jonah** (Jonah 1–2), taken down into the dark for three days and returned *changed*; the **Eucharist** — *"this is my body, broken for you"* (Luke 22:19) — a consumption that is voluntary and nourishing. Those are descent-and-return structures: you go in, and you come back transformed. The Circus uses the same verbs and reverses the outcome. *"I'll chew you up, spit you out"* is the **anti-Eucharist**: the Christ-speech *form* (this is my body) loaded with predatory *content* (chew / spit). Predatory consumption, ejection without nourishment, the body broken *for nothing.*

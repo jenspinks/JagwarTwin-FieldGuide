@@ -23,3 +23,7 @@ The recurring images that carry the Jagwar Twin world's meaning — objects and 
 - [[The Banana]] — Lucius's prop; the offering turned into a microphone, a sterile clone that carries light but can't pass it on.
 - [[The Thread]] — the line that makes the maze survivable; most likely feeling itself, the thing that must not be sacrificed.
 - [[The Wheel]] — the circle felt as motion you can't stop: oriented toward a center it's prayer, without one it's only vertigo.
+- [[The Moon]] — reflected light in the dark: the reminder that even in darkness there is light, and the tragedy of trying to become a sun.
+- [[El Roi]] — *"the God who sees me,"* worn on the throat of the figure made of reflection; the whole seeing-motif in two words of ink.
+- [[The Fool]] — Tarot's Key 0 and Roy's *"I'm no-thing"* in one breath: the empty traveler who makes the leap.
+- [[The Prop Room]] — the smaller recurring objects and gestures, shelved in one place: the well, the halo, the gun, the crown, the raised hands, and the rest.

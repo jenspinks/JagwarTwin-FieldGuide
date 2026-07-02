@@ -22,7 +22,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — *Subject to Flooding*, Jagwar Twin's debut. Independent in 2018, redistributed through Atlantic in 2019. Track 10 of 13, and it doesn't stand alone: it leads straight into [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]]. This is the first half of a two-part unit.
 - **In one line** — a party contaminated with crime language, accelerating past its own admitted instability toward the crash-through of Pt. 2.
 - **Who speaks** — [[Roy]], before any persona exists. No mask operates here; this is the raw voice.
-- **Key symbols** — [[Hands Up]] (the hinge gesture) · [[The Ceiling]] / the roof · [[Fire]] · superstition, dropped · luck, as the wager-token.
+- **Key symbols** — [[The Prop Room#Hands Up|Hands Up]] (the hinge gesture) · [[The Prop Room#The Ceiling|The Ceiling]] / the roof · [[Fire]] · superstition, dropped · luck, as the wager-token.
 
 ## The song, mapped
 
@@ -49,7 +49,7 @@ The most complicated line is, oddly, the healthiest one. *"You're never gonna wi
 
 And the party was never innocent. The whole scene is laced with crime language — bail, locked up, trouble, hands up — and one line gives the game away: *"if I get locked up, promise you'll bail me out"* arranges the getaway paperwork **before any crime has happened.** That's premeditation, not panic. The good time functions as a **ritual of permission**: it licenses what comes next. Pt. 1 says *we'll be alright, let's go.* Pt. 2 says *give us what we ask for.*
 
-Which is why the raised hands carry so much weight (see [[Hands Up]]): one gesture, five valences, and it's the entire bridge from *hallelujah* to *stickup* — a fusion the sequel puts right in its title.
+Which is why the raised hands carry so much weight (see [[The Prop Room#Hands Up|Hands Up]]): one gesture, five valences, and it's the entire bridge from *hallelujah* to *stickup* — a fusion the sequel puts right in its title.
 
 ## Characters
 
@@ -59,8 +59,8 @@ Which is why the raised hands carry so much weight (see [[Hands Up]]): one gestu
 
 ## Symbols
 
-- **[[Hands Up]]** — the hinge. On the surface it's concert crowd-control (*wave 'em to the ceiling*). Set beside *trouble's on the way*, *locked up*, and the sequel's stickup, the single gesture goes double-coded across **party / robbery / arrest / surrender / worship** — and that one posture is the whole bridge between hallelujah and heist.
-- **[[The Ceiling]] / the roof** — *"wave 'em to the ceiling."* A node in a gesture that escalates across eras: hands raised at the ceiling here → *"ain't got no ceiling up on the roof"* in [[Superhuman]] → *"tear the roof off of my house"* in [[Bounce]]. The raised arm becomes the removed roof becomes self-exposure.
+- **[[The Prop Room#Hands Up|Hands Up]]** — the hinge. On the surface it's concert crowd-control (*wave 'em to the ceiling*). Set beside *trouble's on the way*, *locked up*, and the sequel's stickup, the single gesture goes double-coded across **party / robbery / arrest / surrender / worship** — and that one posture is the whole bridge between hallelujah and heist.
+- **[[The Prop Room#The Ceiling|The Ceiling]] / the roof** — *"wave 'em to the ceiling."* A node in a gesture that escalates across eras: hands raised at the ceiling here → *"ain't got no ceiling up on the roof"* in [[Superhuman]] → *"tear the roof off of my house"* in [[Bounce]]. The raised arm becomes the removed roof becomes self-exposure.
 - **Superstition (dropped)** — not an object but the song's central symbolic *operation*: the shedding of the ritual-mind guardrail. The pivot is a subtraction.
 - **Luck / "feeling lucky"** — the wager-token that replaces superstition; the chip pushed to the center of the table.
 - **[[Fire]]** — album-level. Track 10 reads as the flame turned up under the crucible, the unstable heat that forces the premature, explosive combustion of Pt. 2.

@@ -21,7 +21,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — *Lucius Lullaby*, released March 27 2026; credited jointly to **Jagwar Twin & sir lucius**. Track 7, wedged between [[Moths to the Flame]] (6) and [[#1 Champion (la Conquistadora)|#1 Champion]] (8). The album's tagline: *"Twisted takes on adolescent musical themes for hands that rock the cradle."*
 - **In one line** — a nursery chant that hands a crowd of "kids" permission to break things, get wasted, and burn the house down, then walks them from *person* to *monkey* to a self that no longer remembers its own acts.
 - **Who speaks** — [[Sir Lucius|Lucius]] inciting, [[Roy]]'s unleashed id erupting, and — probably — the horror of the split being *witnessed.* Most likely all three at once. The addressee is [[The Crowd|the "kids"]].
-- **Key symbols** — [[The Banana]] · [[Fire]] · [[The Mask]] · [[Duality]] · [[The Monkey]]
+- **Key symbols** — [[The Banana]] · [[Fire]] · [[The Mask]] · [[Duality]] · [[The Prop Room#The Monkey|The Monkey]]
 
 Bananas is what [[Moths to the Flame]] makes possible. The spoken-word doctrine of the previous track — *regress to the animal, shrug at the cull* — bleeds seamlessly into this sung id-eruption. Moths is the syllabus; Bananas is the enactment. In the official video the camera pulls back from Lucius's candelabra monologue to reveal him standing atop a roughly ten-foot pile of bananas as the song begins. He has, quite literally, been building to this.
 
@@ -65,7 +65,7 @@ It isn't a verse-chorus ballad — it's a playground chant, a call-and-answer bu
 - **[[The Banana]]** — does double duty. It's the **hijacked offering** (the altar gift rerouted into Lucius's mic) *and* the **sterile-clone Loop.** Roy has said publicly that he chose the banana because it's *sterile* — *"most bananas are sterile and cannot reproduce by seed ;)"* — and the botany backs him: the supermarket Cavendish is a sterile clone, genetically identical, unable to reproduce on its own, propagated only by human cutting, now being wiped out worldwide by a single fungus *precisely because* every plant is identical. That's Lucius's Loop made fruit: recurrence without variation, real light in a sterile vessel — *you can hear the song, you cannot inherit it.* It rhymes exactly with [[City of Angels]]'s *"everyone looks just like you."*
 - **[[Fire]] / the stove** — the domestic hearth turned to arson (*"light up the stove / and burn it down"*). A recurring stove: [[Happy Face]]'s *"flip the switch, flip the stove."*
 - **[[Duality]]** — the Good/Bad, nice/mad split in kindergarten language; the Roy/Lucius fracture *before* it becomes strategy.
-- **[[The Monkey]]** — the id as primate; the human collapsed into the animal (*"monkeys feeling funky"*).
+- **[[The Prop Room#The Monkey|The Monkey]]** — the id as primate; the human collapsed into the animal (*"monkeys feeling funky"*).
 - **[[The Mask]]** — Bananas is the point where the repressed self *blows through* the mask.
 
 ## Connected songs

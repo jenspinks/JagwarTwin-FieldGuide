@@ -65,7 +65,7 @@ The genius is the *"(woof!)."* The made-god still **barks**. The dog is trapped 
 - **[[Roy]]** — the lament *inside* the grin; the grief the form refuses to let stop the smile. Co-credited vocalist (*"ROY"*), and — at author level — credited separately again as writer, producer, and player. The song is the argument between the two of them, performed as a sing-along.
 - **[[Mary]]** — present only as her *counterfeit*. The spell-casting Lover is the album's false feminine, the partner asked to resurrect the past rather than restore the man to wholeness — the counterfeit that re-animates the wound where Mary would heal it. (Mary is not literally in the text.)
 - **[[The Crowd]]** — the many voices forced into the one song; not awakened, synchronized. The sing-along the whole song is built to trap.
-- **[[The Chemist]]** — the maker-without-wisdom who makes a god by error; a capitalized station, readable as failed alchemist, scientist, [[Gnosticism - The World as Trap|Demiurge]], and producer all at once (which mask stays open).
+- **[[The Prop Room#The Chemist|The Chemist]]** — the maker-without-wisdom who makes a god by error; a capitalized station, readable as failed alchemist, scientist, [[Gnosticism - The World as Trap|Demiurge]], and producer all at once (which mask stays open).
 - **The boy and the girl** — the two fable-protagonists, best read as Everyman *stations*. The boy carries a possible Cain/Abel shadow (fratricide in the opening breath); the girl a fountain-of-youth / institutionalized-woman shape (both held as framework; see below).
 
 ## Symbols

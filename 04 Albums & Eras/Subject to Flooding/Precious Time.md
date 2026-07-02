@@ -23,7 +23,7 @@ The album's deepest submersion — track 12 of 13, positioned so the last light 
 - **Era / release** — *Subject to Flooding*, Jagwar Twin's 2018 debut. This is the Roy English register *before* any persona: no [[Sir Lucius]], no Circus, no mask. Just a first-person voice, waist-deep.
 - **In one line** — a drowning clock; the album's flood run as *time*, discovered too late to outrun.
 - **Who speaks** — Roy, first-person, who at one marked moment widens the "I" outward to *the people* (a collective history of loss). A third presence haunts the track without a line: **Sarah Vaughan**, sampled.
-- **Key symbols** — [[Water]] / time (the fusion) · [[Heaven's Gate]] (salvation as a locked door) · the stockpile · [[Blood]] (inheritance) · the ticking clock.
+- **Key symbols** — [[The Prop Room#Water|Water]] / time (the fusion) · [[The Prop Room#Heaven's Gate|Heaven's Gate]] (salvation as a locked door) · the stockpile · [[The Prop Room#Blood|Blood]] (inheritance) · the ticking clock.
 
 ## The song, mapped
 
@@ -64,12 +64,12 @@ A few claims that cut across the whole loop.
 
 ## Symbols
 
-- **[[Water]] / time** — the fusion at the center: the title says time, the lyric makes it rise, tick, submerge, and waste. Depth and breath are available only from *inside* the water.
+- **[[The Prop Room#Water|Water]] / time** — the fusion at the center: the title says time, the lyric makes it rise, tick, submerge, and waste. Depth and breath are available only from *inside* the water.
 - ***Waist deep, wasting time*** — a homophone (**waist / waste**) welding depth-of-submersion to squandering: waist-deep in water, waste-deep in spent time. Framed as the *text's* pun — Roy is a documented homophone-player elsewhere (Sun/Son, prophets/profits, El Roy/El Roi), so the device is in-character, but this stays the text's play, not an asserted intention.
-- **[[Heaven's Gate]] / picking the lock** — salvation reframed as a locked door to be burgled; grace swapped for breaking-and-entering. (One node in the catalogue's wider door/gate imagery — kin to [[Pay Attention (feat. little luna)|Pay Attention]]'s *Door*, [[I Like to Party]]'s *lock up your door*, [[Another Way II Heaven]]'s *I opened up a Door*.)
+- **[[The Prop Room#Heaven's Gate|Heaven's Gate]] / picking the lock** — salvation reframed as a locked door to be burgled; grace swapped for breaking-and-entering. (One node in the catalogue's wider door/gate imagery — kin to [[Pay Attention (feat. little luna)|Pay Attention]]'s *Door*, [[I Like to Party]]'s *lock up your door*, [[Another Way II Heaven]]'s *I opened up a Door*.)
 - **The stockpile** — *stocked up for the day*; hoarding against time, prepping as the other doomed control-strategy.
 - **The clock / *time tickin*** — the ticking a public interview once paired with [[Happy Face]]'s "time bomb"; Roy reframed the ticking away from literal death, toward *a cycle* (see Source notes).
-- **[[Blood]] (Navajo blood in the veins)** — blood as *inheritance*, carrier-of-history; the terminal beat of the album's blood-imagery escalation. Guarded: **no ancestry claim** (see below).
+- **[[The Prop Room#Blood|Blood]] (Navajo blood in the veins)** — blood as *inheritance*, carrier-of-history; the terminal beat of the album's blood-imagery escalation. Guarded: **no ancestry claim** (see below).
 - **Buffalo on the plains** — mass slaughter, collective historical loss — evoked; meaning held open.
 - **Baptism, inverted** — submersion that *reveals* truth without *cleansing* it: more drowning than rebirth, redemption deferred one track to [[Shine]].
 

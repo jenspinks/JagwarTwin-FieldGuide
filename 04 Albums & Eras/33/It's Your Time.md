@@ -25,7 +25,7 @@ The title is also — this is not a metaphor — the literal web address of Roy'
 - **Era / release** — track 2 of 10 on *33* (2022), Jagwar Twin's sophomore record; one of the album's four pre-release singles and, despite modest streams, a live staple for years after.
 - **In one line** — the anthem is the disguise; the song is about remembering, not becoming.
 - **Who speaks** — [[Roy]], sincere and un-masked. No [[Sir Lucius]], no irony, no crowd. This is the "we come from space" cosmology said *straight* — which matters, because the track right before it says the same thing as a joke.
-- **Key symbols** — [[The Well]] · [[The Eye]] · [[The Fool]] · [[The Thread]] · [[The Mirror]] · the in-between.
+- **Key symbols** — [[The Prop Room#The Well|The Well]] · [[The Prop Room#The Eye|The Eye]] · [[The Fool]] · [[The Thread]] · [[The Mirror]] · the in-between.
 
 ## The song, mapped
 
@@ -68,8 +68,8 @@ The title is also — this is not a metaphor — the literal web address of Roy'
 ## Symbols
 
 - The in-between — *"a man is like an in-between, animating Heaven and Hell"*; man as the living middle story, the channel that vivifies both poles.
-- [[The Well]] — *"in your heart there is a Well, you can follow where it leads"*; depth, living water, the heart as navigator — [[The Thread]] internalized.
-- [[The Eye]] — *"within you got the Eye to see"*; the inner eye, perception turned inward; it brushes the "God who sees" / El-Roi eye-motif shared with [[Down to You]].
+- [[The Prop Room#The Well|The Well]] — *"in your heart there is a Well, you can follow where it leads"*; depth, living water, the heart as navigator — [[The Thread]] internalized.
+- [[The Prop Room#The Eye|The Eye]] — *"within you got the Eye to see"*; the inner eye, perception turned inward; it brushes the "God who sees" / El-Roi eye-motif shared with [[Down to You]].
 - The stars — *"all the stars under your Belt"*; the cosmos brought inside, the inheritance you already own.
 - [[The Thread]] — *animating* as the animating principle; the heart-Well's followable current is Ariadne's line.
 - [[The Mirror]] — the scare-quoted *'I'* and *'me'* flag the constructed ego as provisional, pointing past it to the capital-S Self.
@@ -210,6 +210,6 @@ All my life
 
 - [[Online]] — the satirical twin this song answers.
 - [[Sir Lucius]] — the face the innocent forgetting here eventually grows.
-- [[The Well]] · [[The Thread]] — the heart-as-navigator symbols the second verse turns on.
+- [[The Prop Room#The Well|The Well]] · [[The Thread]] — the heart-as-navigator symbols the second verse turns on.
 - [[Down to You]] — the "be it" sibling doctrine: embody, don't acquire.
 - [[33]] — the reverse-ladder record this sits near the top of.

@@ -22,7 +22,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — *Lucius Lullaby* (2026), the album that hands [[Sir Lucius]] the microphone. Track 10 of 15, deep in the long nigredo stretch — the descent, not the turn (the album's turn is track 13, [[Weirdness]]).
 - **In one line** — a walk through Hollywood where a beautiful stranger sells you your own dreams, and the walker ends the song selling them to the next person.
 - **Who speaks** — mostly the **City** (*"and she said…"*); the singer (**[[Roy]]**) originates almost nothing; **[[Sir Lucius]]** is co-credited as a voice on it, and it is *his* City — the City of *Light*.
-- **Key symbols** — [[The Star-Lined Road|the star-lined road]] · the bright lights ([[Fire]]) · [[The Mirror|the mirror]] (*"everyone looks just like you"*) · the counterfeit crown.
+- **Key symbols** — [[The Prop Room#The Star-Lined Road|the star-lined road]] · the bright lights ([[Fire]]) · [[The Mirror|the mirror]] (*"everyone looks just like you"*) · the counterfeit crown.
 
 This is the temple that [[Playing to the Gods]] is the seed of. Tracks 9 and 10 are one movement — they share the same *never gonna die* chant, and Jen first heard them live at the CD-release party as a single unbroken song; the album split them into two tracks after the fact. (It's the same seam-device the record uses for tracks 1→2 and 6→7.) So read them together: **Playing to the Gods** is the overture-mantra, **City of Angels** is the full song that swallows it whole.
 
@@ -67,7 +67,7 @@ The simplest reading survives all of this, and it's worth saying plainly: on its
 
 ## Symbols
 
-- [[The Star-Lined Road|The star-lined road]] — the Walk of Fame; heaven pressed flat into pavement and trodden underfoot (an inverted Jacob's Ladder, run downward).
+- [[The Prop Room#The Star-Lined Road|The star-lined road]] — the Walk of Fame; heaven pressed flat into pavement and trodden underfoot (an inverted Jacob's Ladder, run downward).
 - [[Fire]] — the bright lights: the one Light (City of Light, *singular*) dispersed into many bright lights (plural), sparks multiplied but never gathered.
 - [[The Mirror]] — *"everyone looks just like you,"* the reflection-for-sale; sameness as forged communion.
 - **The City of Light** (singular) — folds LA into Lucius's domain; the counterfeit the plural "bright lights" scatters.

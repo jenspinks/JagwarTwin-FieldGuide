@@ -16,6 +16,7 @@ The load-bearing structure: a single source, its reflections, and the question o
 - [[The Loop and the Circle]] — two recursions with the same shape and opposite charge; return without transformation versus return with the self remembered.
 - [[Source vs Reflection]] — the governing question: does a reflection return you to the source, or trap you in the image?
 - [[Duality]] — the root structure of the whole project; the arc is never to erase the split, only to order it correctly.
+- [[Heart and Mind]] — the one sentence everything serves: *"my mind must serve my heart"* — the mind as magnificent servant and catastrophic king.
 - [[Inversion]] — keep the form intact and reverse its direction: the same circle, the same prayer, pointed backward.
 - [[The Divide]] — the named edge where the leap is chosen, the threshold a seeker crosses to make the return.
 - [[The Pattern]] — Roy's name for the single law that repeats at every scale: as above, so below.
@@ -89,4 +90,5 @@ The things built around the music — the puzzles, the cards, the boards, and th
 - [[The Jaguar]] — the project's emblem of seeing: the creature that looks into others and back into itself.
 - [[Inherited Substrate]] — the honest note that not everything that resonates was deliberately placed; the work participates in older currents.
 - [[Jagwar Twin and Harry Potter]] — the Potter vocabulary threaded through the later work, read for what it's doing.
+- [[Gatekeeper Saga]] — the real label fight Roy narrated to his Discord as a Harry Potter serial, until *"Master gave dumbledore a sock."*
 - [[The Visual Canon Throughline]] — the recurring images that carry across every era's artwork and video.
