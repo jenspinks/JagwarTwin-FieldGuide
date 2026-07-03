@@ -65,13 +65,13 @@
    LOCAL ONLY — colored section folders in the file explorer
    (matches the page-type accents; has no effect on the Publish site)
    ============================================================ */
-.nav-folder-title[data-path="00 Start Here"]    .nav-folder-title-content { color: rgb(130, 130, 150); font-weight: 600; }
-.nav-folder-title[data-path="01 Characters"]    .nav-folder-title-content { color: rgb(220, 90, 110); font-weight: 600; }
-.nav-folder-title[data-path="02 Concepts"]      .nav-folder-title-content { color: rgb(79, 124, 230); font-weight: 600; }
-.nav-folder-title[data-path="03 Symbols"]       .nav-folder-title-content { color: rgb(150, 90, 200); font-weight: 600; }
-.nav-folder-title[data-path="04 Songs"]         .nav-folder-title-content { color: rgb(45, 170, 140); font-weight: 600; }
-.nav-folder-title[data-path="05 Albums & Eras"] .nav-folder-title-content { color: rgb(214, 158, 56); font-weight: 600; }
-.nav-folder-title[data-path="06 Reading Paths"] .nav-folder-title-content { color: rgb(120, 110, 215); font-weight: 600; }
+.nav-folder-title[data-path="Start Here"]    .nav-folder-title-content { color: rgb(130, 130, 150); font-weight: 600; }
+.nav-folder-title[data-path="Characters"]    .nav-folder-title-content { color: rgb(220, 90, 110); font-weight: 600; }
+.nav-folder-title[data-path="Concepts"]      .nav-folder-title-content { color: rgb(79, 124, 230); font-weight: 600; }
+.nav-folder-title[data-path="Symbols"]       .nav-folder-title-content { color: rgb(150, 90, 200); font-weight: 600; }
+.nav-folder-title[data-path="Songs"]         .nav-folder-title-content { color: rgb(45, 170, 140); font-weight: 600; }
+.nav-folder-title[data-path="Albums & Eras"] .nav-folder-title-content { color: rgb(214, 158, 56); font-weight: 600; }
+.nav-folder-title[data-path="Reading Paths"] .nav-folder-title-content { color: rgb(120, 110, 215); font-weight: 600; }
 
 /* ============================================================
    Artifact card gallery (cssclasses: cards) — render a plain
