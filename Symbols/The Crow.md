@@ -10,6 +10,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** The crow is [[Sir Lucius]]'s bird — **Mercury's** bird: the sharp, clever, scavenging intelligence, the mind's cunning given a familiar. Roy said it himself: *"I'd map a crow onto Mercury."*
 
+![[crow.png|340]]
+
+*The crow perched on Roy's arm, over the "I'm not here" tattoo.*
+
 ## At a glance
 
 - **What it is** — the emblem of the mind-pole: intellect, cleverness, cunning, the scavenger that takes. The crow (constellation **Corvus**) to Roy's [[The Dove|dove]] — Mercury against Venus, mind against heart.

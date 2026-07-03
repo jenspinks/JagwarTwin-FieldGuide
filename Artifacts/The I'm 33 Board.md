@@ -22,4 +22,9 @@ It's too much to take in one sitting, so we've hung it on four walls:
 
 > **A neat trick:** a good chunk of the **[[Hall of Mirrors]]** artifacts are *this board's own diagrams, minted one at a time* — the Eye of Horus, the Platonic Lambda, the Lightning Flash, "Tree Thinking." Part of the maze is just Roy framing his own homework. See [[Artifacts - Drawings and Sketches]].
 
+### B1034
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg" width="240"></a>
+
+Here's that trick in its purest form: not a diagram, not a doctrine, just a **single spreadsheet cell** (column B, row 1034) lifted straight off the wall, given a frame, and sent into the maze as a collectible. Half the maze's cipher-looking "codes" (B1034, R1045, J763) are really just *coordinates:* the address of a cell on this very grid. The board's filing system and the mint's naming system turn out to be one and the same. The rest of the coordinate-cells sit in [[Artifacts - Ciphers and Code-Series]].
+
 Say what you like about the ambition. Nobody builds a spreadsheet this big about a soul they don't take seriously.

@@ -12,6 +12,8 @@ source_basis: ["public posts", "public interviews"]
 
 A note on voice. Some of these come from **Roy** (the @JagwarTwin / @royenglish accounts, in his own voice). Some come from **[[Sir Lucius]]** — because in October 2024 Roy literally handed the band's Instagram to his own shadow, and a good deal of what got posted afterward is the villain talking. The split is the point; both are flagged below.
 
+> **Want the complete index?** This is the *curated* set, the load-bearing posts the guide leans on most. Every canon-relevant post, all 342, catalogued and grouped by theme, lives at **[[Roy's Posts — Canon Index]]**.
+
 ---
 
 ## Roy's aphorisms

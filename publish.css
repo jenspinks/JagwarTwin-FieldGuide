@@ -457,3 +457,118 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-center-column .markdown-preview-view:not(.circus-home) th { color: #ecc861; border-color: rgba(212,166,58,.2); }
 .site-body-center-column .markdown-preview-view:not(.circus-home) td { border-color: rgba(212,166,58,.12); }
 
+
+/* ====== ACT BILL (workflow-designed: per-folder color + circus flourishes) ====== */
+/* ============================================================= *
+ * TWISTED DARK CIRCUS - ACT BILL (per-folder semantic color)    *
+ * APPEND to publish.css after line 459. Extends the existing    *
+ * theme: reuses the proven \2726 mark + box-shadow-inset fill.  *
+ * No background-color on .tree-item-self (app.css locks it).    *
+ * No per-note cssclasses needed - pure [data-path] CSS.         *
+ * ============================================================= */
+
+/* 0) ACT ACCENTS - one swappable source of truth.
+      gold = gilt thresholds/objects/treasure; carmine = the living
+      show (cast + eras); teal = the cool mind + wayfinding. */
+.published-container{
+  --act-start:#d4a63a; --act-char:#8b1e2d; --act-conc:#1f6f78;
+  --act-sym:#d4a63a;   --act-alb:#8b1e2d; --act-path:#1f6f78; --act-art:#d4a63a;
+  --act-start-br:#ecc861; --act-char-br:#c23a48; --act-conc-br:#3ba7af;
+  --act-sym-br:#ecc861;   --act-alb-br:#c23a48; --act-path-br:#3ba7af; --act-art-br:#ecc861;
+}
+
+/* act counter: numerals follow the nav's DISPLAY order automatically */
+.published-container .site-body-left-column .nav-view{counter-reset:act;}
+.published-container .site-body-left-column .tree-item.mod-collapsible > .tree-item-self[data-path]{counter-increment:act;}
+
+/* 1) THE ACT CHIP - one mark per folder row, doing double duty as
+      Roman act-number AND colored ticket-chip. The bill is a real
+      sequence (keystone-first), so the numeral encodes true order.
+      Painted on ::before of the INNER label (never .tree-item-self),
+      in the circus-poster Rye face. Beats line-398 via [data-path]. */
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path] > .tree-item-inner::before{
+  display:inline-flex; align-items:center; justify-content:center;
+  min-width:2.1em; height:1.45em; margin-right:.55em; padding:0 .3em;
+  font-family:"Rye","Fraunces",serif; font-size:.62em; line-height:1;
+  letter-spacing:.02em; vertical-align:.12em;
+  color:var(--chip,#d4a63a);
+  border:1px solid color-mix(in srgb, var(--chip,#d4a63a) 55%, transparent);
+  border-radius:2px 5px 5px 2px;                 /* torn-stub asymmetry */
+  background:color-mix(in srgb, var(--chip,#d4a63a) 13%, transparent);
+  content: counter(act, upper-roman);   /* auto-sequences in DISPLAY order (reorder-proof) */
+}
+/* per-folder numeral + accent (data-path holds the bare folder name) */
+.published-container .site-body-left-column .tree-item-self[data-path="Start Here"]    > .tree-item-inner::before{--chip:var(--act-start-br);}
+.published-container .site-body-left-column .tree-item-self[data-path="Characters"]     > .tree-item-inner::before{--chip:var(--act-char-br);}
+.published-container .site-body-left-column .tree-item-self[data-path="Concepts"]       > .tree-item-inner::before{--chip:var(--act-conc-br);}
+.published-container .site-body-left-column .tree-item-self[data-path="Symbols"]        > .tree-item-inner::before{--chip:var(--act-sym-br);}
+.published-container .site-body-left-column .tree-item-self[data-path="Albums & Eras"]  > .tree-item-inner::before{--chip:var(--act-alb-br);}
+.published-container .site-body-left-column .tree-item-self[data-path="Reading Paths"]  > .tree-item-inner::before{--chip:var(--act-path-br);}
+.published-container .site-body-left-column .tree-item-self[data-path="Artifacts"]      > .tree-item-inner::before{--chip:var(--act-art-br);}
+
+/* 2) ACT-COLORED FOLDER LABELS - the folder's own text carries its
+      accent (files nested below stay cream via --nav-item-color).
+      Overrides line-399 (#cdbf9f); [data-path] wins on specificity.
+      Start Here / Symbols / Artifacts already read gold -> nudge to
+      the exact act-gold for consistency, not left to inherited tone. */
+.published-container .site-body-left-column .tree-item-self[data-path="Start Here"]    > .tree-item-inner,
+.published-container .site-body-left-column .tree-item-self[data-path="Symbols"]       > .tree-item-inner,
+.published-container .site-body-left-column .tree-item-self[data-path="Artifacts"]     > .tree-item-inner{color:var(--act-start-br)!important;}
+.published-container .site-body-left-column .tree-item-self[data-path="Characters"]     > .tree-item-inner,
+.published-container .site-body-left-column .tree-item-self[data-path="Albums & Eras"]  > .tree-item-inner{color:var(--act-char-br)!important;}
+.published-container .site-body-left-column .tree-item-self[data-path="Concepts"]       > .tree-item-inner,
+.published-container .site-body-left-column .tree-item-self[data-path="Reading Paths"]  > .tree-item-inner{color:var(--act-conc-br)!important;}
+
+/* 3) ACT-TINTED ACTIVE PAGE - the open page glows its OWN act color
+      instead of the uniform carmine (line 408). Same locked technique:
+      inset 0 0 0 100px fill + a 3px act-color left edge. The
+      [data-path^="Folder/"] attribute out-specifies the base rule and
+      lands later in source order, so it wins cleanly. Keep line-408 as
+      the fallback for the homepage / any unmatched active row. */
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Characters/"],
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Albums & Eras/"]{
+  box-shadow:inset 0 0 0 100px rgba(139,30,45,.28), inset 3px 0 0 0 var(--act-char-br)!important;}
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Concepts/"],
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Reading Paths/"]{
+  box-shadow:inset 0 0 0 100px rgba(31,111,120,.26), inset 3px 0 0 0 var(--act-conc-br)!important;}
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Start Here/"],
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Symbols/"],
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path^="Artifacts/"]{
+  box-shadow:inset 0 0 0 100px rgba(212,166,58,.22), inset 3px 0 0 0 var(--act-sym-br)!important;}
+/* active label stays bright cream so the fill (not the text) carries color */
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path*="/"] .tree-item-inner{color:#f2e3c6!important;}
+
+/* 4) FLOURISH - ringmaster's aside callout. A named voice for Sir
+      Lucius across the guide: gold spotlight edge on a hair-lifted
+      charcoal, Rye title. Authors write > [!ringmaster] Sir Lucius... */
+.site-body-center-column .callout[data-callout="ringmaster"]{
+  border:1px solid #8b1e2d; border-left:4px solid #d4a63a;
+  background:rgba(139,30,45,.12); border-radius:4px;}
+.site-body-center-column .callout[data-callout="ringmaster"] .callout-title{
+  font-family:"Rye","Fraunces",serif; color:#ecc861; letter-spacing:.02em;}
+.site-body-center-column .callout[data-callout="ringmaster"] .callout-title-inner::after{content:" \2726"; color:#d4a63a;}
+
+/* 5) FLOURISH - content <hr> becomes a mirror-flourish break: a
+      hairline that fades at both ends with a single centered gold ✦
+      floated over it. Replaces the plain dashed rule (line 452);
+      not scoped to .circus-home so every inner page gets it. */
+.site-body-center-column .markdown-preview-view:not(.circus-home) hr{
+  border:none; height:1px; overflow:visible; margin:2.2em 0;
+  background:linear-gradient(90deg,transparent,rgba(212,166,58,.32) 22%,rgba(212,166,58,.32) 78%,transparent);}
+.site-body-center-column .markdown-preview-view:not(.circus-home) hr::before{
+  content:"\2726"; position:relative; top:-.64em; display:block;
+  width:1.5em; margin:0 auto; text-align:center;
+  background:#1b1b1e; color:#d4a63a; font-size:.85em;}
+
+/* 6) FLOURISH - inner-page blockquote left edge gets a gilt->carmine
+      gradient bar so pull-quotes read as a lit spotlight, not a flat
+      rule. Extends line-447 without touching its carmine fill/pad. */
+.site-body-center-column .markdown-preview-view:not(.circus-home) blockquote{
+  border-left:3px solid transparent;
+  border-image:linear-gradient(180deg,#ecc861,#8b1e2d) 1;}
+
+/* ====== NAV: hide the exhaustive Canon Index from the sidebar (page stays published + is linked from Public Posts) ====== */
+.site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Start Here/Roy's Posts"]),
+.site-body-left-column .tree-item-self[data-path^="Start Here/Roy's Posts"]{ display:none !important; }
+
