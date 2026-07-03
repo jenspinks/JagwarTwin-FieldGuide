@@ -13,6 +13,10 @@ source_basis: ["public posts", "public interviews", "official videos"]
 > [!info] The structural key
 > **Every tattoo is inked on the right side of the body, then mirrored onto the left. One `+` sits at center-chest, below the throat, and spans both sides.** *(Roy's own description.)* So the body isn't a *list* of tattoos — it's a **symmetrical map with a central axis**, and that shape is itself the teaching.
 
+![[tattoos1.jpeg|360]]
+
+*The body as text: hand and chest tattoos, the cross-and-hammer chain, the gold teeth.*
+
 ## Why it matters
 
 Many of the concepts show up somewhere on Roy's body before they show up in a song. *Inversion*, the *Empty Mirror*, the *Tree of Life*, ego-death, *"wake up,"* the apophatic *via negativa* — they're all there, in his own words, glossed by him. The tattoos are the closest thing the catalogue has to a signed statement of intent: a wearable index of the cosmology, composed as a mirror because the mirror *is* the cosmology. This page collects the full inventory (his glosses, kept separate from interpretation) and is honest about where each piece is sourced.

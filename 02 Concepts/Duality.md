@@ -10,6 +10,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** Duality is the root structure of the whole project — and the arc is never the *elimination* of the split, only its correct ordering.
 
+![[roy-lucius-split.jpeg|400]]
+
+*One face split down the middle: [[Roy]] on the left, [[Sir Lucius]] on the right.*
+
 ## At a glance
 
 - **In one line** — Every major symbol, character, and move in Jagwar Twin descends from one foundational split: heart and mind, dark and light, source and reflection. The work doesn't pick a winner. It puts them in the right order.

@@ -17,6 +17,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Full lyrics:** [Genius](https://genius.com) · streaming
 > **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=VrQju5rBPMg)
 
+![[HappyFace.jpeg|360]]
+
+*The 2020 single art: the smiley and its wireframe globe laid over a painting of carousing revelers.*
+
 *Happy Face* is the catalogue's breakthrough — its most-streamed track by a country mile, the pre-album single that introduced most people to Jagwar Twin. It is also, underneath the earworm, the project's cleanest portrait of toxic positivity as a *product*: a song that instructs you to smile while quietly grieving what the smiling costs.
 
 The backstory is the kind you'd cut from a script for being too on-the-nose. A major label dropped Roy in 2020, telling him this song wasn't a hit and refusing to let him release it. He put it out himself. As he tells it: *"now it has over 100 million streams… all because of my amazing fans and a team that believed in me. Never stop fighting for your art."* And the number keeps growing on the record: Roy announced **70 million** streams in April 2023 and celebrated **100 million** that November. The song about performed contentment became the story of a man who refused to perform it.

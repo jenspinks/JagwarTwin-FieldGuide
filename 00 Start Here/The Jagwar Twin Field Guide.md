@@ -1,21 +1,13 @@
 ---
 title: The Jagwar Twin Field Guide
 type: meta
-cssclasses: ["type-meta"]
+cssclasses: ["circus-home"]
 status: published
 confidence: grounded
 ---
-# The Jagwar Twin Field Guide
-
-*An independent guide to the songs, characters, symbols, and mythology of Jagwar Twin.*
-
-This is a reader's map of a deep body of work. Jagwar Twin (the musical project of Roy English) builds a recurring cast of characters, a vocabulary of symbols, and a set of ideas that thread across albums, music videos, theatrical episodes, and public posts. This guide collects that material into something you can actually walk through — page by page, link by link — without already living inside it.
-
-It is a guide, not a verdict. Where something is stated outright by the work or the artist, it's presented plainly. Where it's an interpretation, it's marked as one. See **[[Source and Interpretation Policy]]** for how that line is drawn, and **[[How to Read This Site]]** for the confidence labels.
+<div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">Welcome to the Circus — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="#start-here">Enter the Guide ↓</a></div></div>
 
 > This is an independent, fan-made interpretive guide. It is not affiliated with or endorsed by Jagwar Twin. It uses public material — released songs, lyrics, videos, interviews, and public posts — and quotes only short excerpts for analysis.
-
----
 
 ## Start here
 

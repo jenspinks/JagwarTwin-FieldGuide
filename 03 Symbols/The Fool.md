@@ -12,6 +12,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 The Fool walks through this catalogue in more costumes than almost any other figure, and the project grounds him unusually well: Roy names him in a lyric, draws him on his own board, and gets called him — as an insult — by his own shadow.
 
+![[fool1.jpeg|340]]
+
+*Roy in the black Pierrot ruff, the holy fool's costume.*
+
 ## At a glance
 
 - **What it does** — holds the paradox of holy emptiness: the zero that contains everything, the idiot who is the only one wise enough to make the leap.

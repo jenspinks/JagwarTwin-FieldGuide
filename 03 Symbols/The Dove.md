@@ -10,6 +10,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** The dove is [[Roy]]'s bird — the descending spirit of love, the guide who gives light and then lets you go. Roy named his own *Cygnus,* after the Swan that flies the Milky Way.
 
+![[dove.jpg|340]]
+
+*A white dove in flight against pure black.*
+
 ## At a glance
 
 - **What it is** — the emblem of the heart-pole: love, gentleness, peace, the spirit that *descends* rather than seizes. Roy's bird in the simple character-key, opposite [[Sir Lucius]]'s [[The Crow|crow]] — dove against crow, Venus against Mercury, heart against mind.

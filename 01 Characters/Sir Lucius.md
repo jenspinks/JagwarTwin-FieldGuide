@@ -10,6 +10,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** Sir Lucius is the mind severed from the heart — a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth. That's the problem. 
 
+![[lucius.jpeg|360]]
+
+*The full regalia: white face paint, the horned headpiece, the red coat, the cigarette.*
+
 > [!infobox] Sir Lucius
 >
 > - **Also known as** — the final boss · the mastermind · the Light-Bearer

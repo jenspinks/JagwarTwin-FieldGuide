@@ -18,6 +18,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Full lyrics:** [Genius](https://genius.com) · streaming
 > **▶ Listen:** [Official video (YouTube)](https://www.youtube.com/watch?v=ZEUGFLvvl1I)
 
+![[loser.jpeg|340]]
+
+*The single cover: "LOSER" scrawled across the eyes in red.*
+
 ## At a glance
 
 - **Era / release** — [[Subject to Flooding]], 2018; the debut single (written ~2017, premiered on Zane Lowe's Beats 1). Re-released standalone in 2019 with the Montique/Villani video. Streaming figures are point-in-time and vary by source — 100K+ Spotify streams in its first 24 hours at launch; millions cumulatively by later bios. The song later found a second life going viral on TikTok — though Roy will not let you call that an audience of viewers: pressed on the numbers, he mock-solemnly refuses "millions of viewers" and insists on "millions of mind body spirit complexes who have heard the music" (and, straight-faced, that "fans come from *fanatic*, and we need less fanatics"). Even the metrics get the masks-off treatment.

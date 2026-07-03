@@ -10,6 +10,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** Jagwar Twin isn't a person — it's the whole system, the container the whole cast lives inside, and its name means *a mirror of consciousness with a double nature.* **Jagwar Twin is not another word for [[Roy]].** It's the stage every voice walks out onto — [[Roy]], [[Sir Lucius]], [[Brandon|Ballerina Boy]], [[Mary]], [[Sir Rabbit]], [[SARAVI]], and [[The Jaguar]] all appear *inside* it. It's the place where the inner system becomes music, mythology, and mirror.
 
+![[royandlucius.jpeg|380]]
+
+*The two voices the frame holds: [[Roy]] on the left, [[Sir Lucius]] on the right.*
+
 > [!infobox] Jagwar Twin
 > - **Also known as** — the project · the container · *Roy English* (2006–2015, former name)
 > - **Nature** — a musical project / world-frame, not a character or a person

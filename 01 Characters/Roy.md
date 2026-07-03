@@ -10,6 +10,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** Roy is the heart-centered interpreter — the later conscious self trying to recover the buried [[Brandon|Ballerina Boy]] and bring [[Sir Lucius]], the protector-mind, back into service of the heart. 
 
+![[royincircusjacket.jpeg|340]]
+
+*Roy in the red coat, out of Lucius's face paint: the heart-pole of the split.*
+
 > [!infobox] Roy
 > - **Also known as** — Jagwar Twin · Roy English *(2006–2015)* · El Roy
 > - **Born** — Brandon Roy Wronski, May 22 1988 · Los Angeles / Orange County area
