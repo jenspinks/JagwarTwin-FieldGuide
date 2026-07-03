@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the impersonal machine that sorts the world by what performs; in Roy's own term, the thing that took the place of feeling.
 - **Where it shows up** — [[Welcome to the Circus]] (confessed on camera as its own work) · [[Happy Face]] (*telling you what to wear and what to like and how to be*) · [[Online]] (the database that knows you before you do).
-- **Connected ideas** — [[Sir Lucius]] · [[The Circus]] · [[The Spectacle]] · [[The Aquarium]] · [[Flattened Identity]] · [[Consumption]] · [[Witnessing vs Surveillance]] · [[The System]].
+- **Connected ideas** — [[Sir Lucius]] · [[The Circus]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[The Aquarium]] · [[Flattened Identity]] · [[Consumption]] · [[Witnessing vs Surveillance]] · [[The System]].
 - **Confidence** — grounded fact (Roy's own term, an on-camera confession, lyric-explicit surveillance, documented label history) braided with strong interpretation; the esoteric apparatus is labeled as framework throughout.
 
 ## What it is
@@ -77,14 +77,14 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 
 - **[[Sir Lucius]]** — the Algorithm given a body; the green-apple operator who only tells the truth and uses it to deceive. His three modes = three optimization states.
 - **[[The Circus]]** — the Algorithm's output and venue at social scale. The Circus is the [[The Circle|Circle]] inverted; the Algorithm is the mechanism that runs it.
-- **[[The Spectacle]]** — what the Algorithm optimizes *for*: life replaced by its image. *"It's a spectacle, I'm the final boss."*
+- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — what the Algorithm optimizes *for*: life replaced by its image. *"It's a spectacle, I'm the final boss."*
 - **[[The Aquarium]]** — the Algorithm is its maintenance system; the self-cleaning invisible glass. It's *why* there's *"no exit sign in my maze."*
 - **[[Flattened Identity]]** — the Algorithm's move on a living self (person → profile, soul → star, self → utility). The Algorithm is its named, grounded agent.
 - **[[Consumption]]** — attention is the nutrient it extracts. *"I'll chew you up, spit you out"*; the force-fed cake.
 - **[[Witnessing vs Surveillance]]** — the Algorithm runs surveillance, the *counterfeit* of being witnessed. *"The algorithm does not know you — it knows how to shape you."*
 - **[[Machine vs Human]]** — the Algorithm is the Machine pole: optimization severed from the heart. The guardrail lives here (see below).
 - **[[The System]]** — the umbrella figure that fuses the Algorithm, the Circus, the Spectacle, Consumption, and Flattened Identity into one self-running machine.
-- **[[Panem et Circenses]]** — the Algorithm as the contemporary delivery mechanism for bread-and-circuses sedation.
+- **[[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]]** — the Algorithm as the contemporary delivery mechanism for bread-and-circuses sedation.
 - **[[The Audience]]** — the watchers are the Algorithm's power source: *"they love it when you lose control."* No audience, no Lucius.
 - **[[Roy]]** — the one the Algorithm processes; also the one who conceded *"I guess Lucius was right again."*
 - **[[SOL]]** — *the song of love*, the candidate anti-algorithmic track; the one thing Lucius can't metabolize, overridden by the Algorithm's logic.

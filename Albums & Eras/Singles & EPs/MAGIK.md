@@ -23,7 +23,7 @@ The tender one. In a catalogue full of masks, threats, spectacle and figures arg
 - **Era / release** — the *MAGIK* EP, May 16, 2025 (Big Loud Rock); the title track. It ran ahead of the *Lucius Lullaby* album and its whole shadow-arc.
 - **In one line** — *"Everything you do is Magik / living in a world so plastic"* — value located inside the person, before the world can package it.
 - **Who speaks** — [[Roy|Jagwar Twin]] at his most undefended: the witness, the blesser. Not Lucius. The "you" he sings *to* is left deliberately open (see below).
-- **Key symbols** — [[The Labyrinth]] (*"the middle of a maze"*) · [[The Moon]] (*"a lasso round the Moon"*) · the eyes / seeing (*"I see it in your eyes"*) · [[The Spectacle|the plastic world]].
+- **Key symbols** — [[The Labyrinth]] (*"the middle of a maze"*) · [[The Moon]] (*"a lasso round the Moon"*) · the eyes / seeing (*"I see it in your eyes"*) · [[The Circus#What it produces (the Spectacle)|the plastic world]].
 
 ## The song, mapped
 
@@ -50,7 +50,7 @@ A few claims that cut across the whole song.
 
 **The magic is ordinary, not performative.** *"Everything you do is Magik"* — already present, right now, in whatever you're doing. The problem is *perception, not capability.* That's the exact inverse of [[Sir Lucius|Lucius]]-style spectacle, which manufactures impact and needs a crowd to exist. MAGIK recognizes radiance instead, with no mask, myth or stage-trick anywhere in it. This is why the song is unmistakably Roy-side: **it blesses without recruiting.** Never *follow me / perform for me / become useful to me* — only *you already have it.*
 
-**"A world so plastic" makes it an anti-Circus song.** The plastic world is the artificial, surface-driven, manufactured one — the [[The Circus|Circus]] / [[The Algorithm|Algorithm]] / [[The Spectacle|Spectacle]] register compressed into a single adjective. It's a world that trains people to measure themselves by external forms. MAGIK answers by finding the value *inside* the person before the world can package it. It's the tender counter-pole to the whole spectacle machine.
+**"A world so plastic" makes it an anti-Circus song.** The plastic world is the artificial, surface-driven, manufactured one — the [[The Circus|Circus]] / [[The Algorithm|Algorithm]] / [[The Circus#What it produces (the Spectacle)|Spectacle]] register compressed into a single adjective. It's a world that trains people to measure themselves by external forms. MAGIK answers by finding the value *inside* the person before the world can package it. It's the tender counter-pole to the whole spectacle machine.
 
 **The "you" is unstable on purpose — and that's the strength, not a gap.** Lover, fan, child, friend, listener — or Roy addressing a wounded part of himself. Sung outward, it's consolation; sung inward, it's self-rescue; sung to *you*, it's a direct blessing. The song refuses to choose, and the refusal is load-bearing: it's unresolvable *by design*, not a loose end to tie off. Don't collapse it to one person.
 
@@ -75,7 +75,7 @@ A few claims that cut across the whole song.
 - **[[The Labyrinth]]** — *"you're the middle of a maze."* The addressee at the center, not lost outside it; the way through is inward.
 - **[[The Moon]]** — *"a lasso round the Moon."* Reaching for the unreachable as a gesture of love; the lunar register that runs through the project's Mary material.
 - **The eyes / seeing** — *"I see it in your eyes,"* *"if only you could see,"* *"you don't even see it / but you have it."* Sight *is* the song's mechanism: the seer restores the seen.
-- **[[The Spectacle|The plastic world]]** — *"a world so plastic."* The manufactured, surface-driven world; the [[The Circus|Circus]]/[[The Algorithm|Algorithm]] register in one word, and MAGIK's tender counter-pole to it.
+- **[[The Circus#What it produces (the Spectacle)|The plastic world]]** — *"a world so plastic."* The manufactured, surface-driven world; the [[The Circus|Circus]]/[[The Algorithm|Algorithm]] register in one word, and MAGIK's tender counter-pole to it.
 - **Magik (the word itself)** — held between two senses: the everyday wonder Roy talks about publicly (*"there is so much magik everywhere… we know it when we're young"*) and the possibility of the esoteric *"Magick"* (see Advanced reading). One word, two charges.
 
 ## Connected songs

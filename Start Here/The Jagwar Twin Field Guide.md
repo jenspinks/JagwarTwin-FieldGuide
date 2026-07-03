@@ -7,7 +7,7 @@ confidence: grounded
 ---
 <div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">Welcome to the Circus — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="jagwar-twin/Start+Here/The+Jagwar+Twin+Field+Guide#Start here">Enter the Guide ↓</a></div></div>
 
-> This is an independent, fan-made interpretive guide. It is not affiliated with or endorsed by Jagwar Twin. It uses public material: released songs, lyrics, videos, interviews, and public posts, and quotes.
+> This is an independent, fan-made interpretive guide. It is not affiliated with or endorsed by Jagwar Twin, and is purely nonsense. It uses public material: released songs, lyrics, videos, interviews, and public posts, quotes, and robots, and spectrum powered imagination. Even the parts that are real are not real.  Roy never said any of this, except the parts that he did say but they were nonsense too.
 
 ## Start here
 

@@ -88,7 +88,7 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 - **[[The Mask]]** — the *chosen* face, against which flattening is defined (chosen vs imposed-until-unremovable).
 - **[[The Mirror]]** — how the self becomes image in the first place; flattening is when the image is all the system recognizes.
 - **[[The Digital Double]]** — the copied self; flattening is what the system does to that copy.
-- **[[The Spectacle]]** — where the flattened self is *displayed* (*"it's a spectacle, I'm the final boss"*).
+- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — where the flattened self is *displayed* (*"it's a spectacle, I'm the final boss"*).
 - **[[The Audience]]** — where the flattened self is *consumed*.
 - **[[Witnessing vs Surveillance]]** — the *gaze* that flattens: watched-and-ranked, not seen-and-loved.
 - **[[Machine vs Human]]** — flattening is the machine pole's effect on the self.

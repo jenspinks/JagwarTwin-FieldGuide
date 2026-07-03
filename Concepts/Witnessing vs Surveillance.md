@@ -31,7 +31,7 @@ The cleanest test fits on a bumper sticker: *surveillance gathers data; witnessi
 
 This distinction is one of the load-bearing beams of the whole world, and it does most of its work by sorting the cast into two poles.
 
-**The surveillance pole** is the machine pole — [[Sir Lucius]] and his apparatus. Here live [[The Audience]], [[The Spectacle]], [[The Algorithm]], and [[The Aquarium]] (the self watched in a tank that can't see the glass), plus parasociality and the feed. Lucius is the watcher who *cannot witness* — a reactive system that needs a mirror and an audience to cohere at all (no audience, no Lucius), forever watching everyone and recognizing no one.
+**The surveillance pole** is the machine pole — [[Sir Lucius]] and his apparatus. Here live [[The Audience]], [[The Circus#What it produces (the Spectacle)|the Spectacle]], [[The Algorithm]], and [[The Aquarium]] (the self watched in a tank that can't see the glass), plus parasociality and the feed. Lucius is the watcher who *cannot witness* — a reactive system that needs a mirror and an audience to cohere at all (no audience, no Lucius), forever watching everyone and recognizing no one.
 
 **The witnessing pole** is the human pole — *El Roi* and [[Mary]]. Mary is the figure who sees without consuming: the faceless feminine who blesses ("born to shine") with her own face out of sight, so there's nothing to rank her by and nothing to consume. On [[No. 1 Champion (la Conquistadora)]] she's named and faceless in one breath — *"Saw a halo but I didn't see a head."* She is, precisely, the one thing Lucius's surveillance system can't absorb, because she returns no surface to flatter. (For the full mechanism — why the consuming eye simply ends when it meets a presence it can't consume — see [[Mary]].)
 
@@ -84,7 +84,7 @@ A companion page, *pay-attention.jagwartwin.com*, states the premise in Roy's ow
 - **[[The Audience]]** — the consuming collective; the watchers who don't merely see but *alter* the watched self (it performs, doubts, defends, dissociates). The same deified crowd, now felt as a gaze.
 - **[[The Aquarium]]** — surveillance's deepest enclosure: the self in a tank that can't see the glass, with the Algorithm as the maintenance system keeping the glass invisible.
 - **[[The Algorithm]]** — surveillance's operating logic; *"the algorithm, baby"*; the machine's counterfeit of *El Roi*.
-- **[[The Spectacle]]** — Debord's world where life is replaced by its image; it *requires* the gaze (*spectare*, to look at); *"it's a spectacle, I'm the final boss."*
+- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — Debord's world where life is replaced by its image; it *requires* the gaze (*spectare*, to look at); *"it's a spectacle, I'm the final boss."*
 - **[[The Upload]]** — the all-seeing net; attention given a face becomes the Eye, which splits into the two modes.
 - **[[The Digital Double]]** — the reflection given autonomy; the surveillance pole made flesh; the clone the self fears becoming.
 - **[[Machine vs Human]]** · **[[Source vs Reflection]]** · **[[Communion vs Spectacle]]** · **[[Flattened Identity]]** · **[[The Speaker Problem]]** — the parent thread, the genus, and the register-siblings.

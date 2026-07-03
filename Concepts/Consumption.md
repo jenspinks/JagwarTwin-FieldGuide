@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the Circus doesn't house you, watch you, or sell to you. It *eats* you, and the algorithm does the digesting.
 - **Where it shows up** — [[Welcome to the Circus]] (*"I'll chew you up, spit you out"*) · [[I Like to Party]] (the force-feeding video) · [[Bad Feeling (Oompa Loompa)]] (the attention economy as a mouth).
-- **Connected ideas** — [[The Circus]] · [[The Algorithm]] · [[The Audience]] · [[The Spectacle]] · [[Flattened Identity]] · [[Inversion]] · [[The Mouth]].
+- **Connected ideas** — [[The Circus]] · [[The Algorithm]] · [[The Audience]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Flattened Identity]] · [[Inversion]] · [[The Mouth]].
 - **Confidence** — the naming line and the video are grounded fact; the digestion is a strong reading; the biblical and esoteric apparatus is framework, labeled throughout.
 
 ## What it is
@@ -56,7 +56,7 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 - **The manifesto cards** ([[The Manifesto Cards]]) — the consumerism critique stamped on paratext since ~2020. The Happy Face card frames an infomercial parody: *"ARE YOU CONTENT? CALL NOW"* under a *"BROUGHT TO YOU BUY"* banner (with a ® and a *(TICK)…(TOCK)*), carrying a *"death of my generation"* payload in TV-pastiche register. The literal word *"consume"* — alongside *"BUY"* — appears on the cards.
 
 > [!note]- Advanced reading — the "ARE YOU CONTENT?" triple pun
-> One infomercial line holds the entire consumerism-versus-seeker critique. *Content* = happy/satisfied (the seeker's question). *Content* = media-to-be-consumed — *are you the content?* — which is exactly what the *"BROUGHT TO YOU BUY"* frame implies. *Content* = complacent, contained, pacified. The card asks all three at once and means all three: are you at peace, are you the product, and are you sitting still while it happens? Routes straight to [[The Algorithm]], Consumption, and [[The Spectacle]].
+> One infomercial line holds the entire consumerism-versus-seeker critique. *Content* = happy/satisfied (the seeker's question). *Content* = media-to-be-consumed — *are you the content?* — which is exactly what the *"BROUGHT TO YOU BUY"* frame implies. *Content* = complacent, contained, pacified. The card asks all three at once and means all three: are you at peace, are you the product, and are you sitting still while it happens? Routes straight to [[The Algorithm]], Consumption, and [[The Circus#What it produces (the Spectacle)|the Spectacle]].
 
 > [!note]- Advanced reading — Bad Feeling's two-way digestion (the crowd that sings is the crowd that's eaten)
 > *Bad Feeling* eats in both directions. V2 turns the audience into appetite — *"carnivores and cannibals… mandible, jaw split… gossip"* — but the Oompa-Loompas doing the singing are *themselves* consumed labor: imported workers paid in cacao beans, used as test subjects, one of them turned into a blueberry. The chorus that sings the warning is the factory's own product and victim. The crowd that sings is the crowd that's eaten. (The chorus phrase *"Everything's Perfect Here"* later became the title of Roy's first gallery show and pop-up — Lauren Powell Projects, LA, opened Jan 20, 2024.) A counter-flag worth keeping: not every devouring image encodes Consumption. The candy-horror wordplay may just be vivid candy-horror wordplay, and Roy's own read is the modest *"trust your gut."* Hold the systems-critique and the gut-feeling at once — the gap between them is itself a wink.
@@ -70,11 +70,11 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 - [[Sir Lucius]] — the Circus's digestive voice; *"I'm juggling your darkest thoughts"* (your shadow served back as entertainment); the *I Like to Party* force-feeding stills live on his page.
 - [[The Algorithm]] — the nutrient extracted is attention; the metabolic product is engagement. Named on camera as the author of *Welcome to the Circus* — Lucius's reply in *The Interview* (EP3, Jan 5 2026), *"the algorithm baby,"* the one moment the Circus's authorship is confessed to your face. (Grounded as Roy's *own* term, via his Manifesto's feeling→algorithm substitution.)
 - [[The Audience]] — *"they love it when you lose control"*; *"take your seat, scream and shout"* collapses the co-creator into a consumer. Roy publicly rejects the word *"fan"* and calls listeners *"co-creators of the world."*
-- [[The Spectacle]] — what the consumed self is *turned into* (Debord; the spectacle requires spectators).
+- [[The Circus#What it produces (the Spectacle)|the Spectacle]] — what the consumed self is *turned into* (Debord; the spectacle requires spectators).
 - [[Flattened Identity]] — the reduction that makes a self consumable in the first place: person → profile, voice → content, artist → product, self → utility. To be unflattenable is to be unconsumable.
 - [[The Mouth]] — the same symbolic cluster: the mouth that *testifies* versus the mouth that *consumes*.
 - [[Inversion]] — the engine under the anti-Eucharist; nourishing consumption run backward into predatory consumption.
-- [[Panem et Circenses]] — bread and circuses; the historical antecedent, where the chains are pleasurable.
+- [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — bread and circuses; the historical antecedent, where the chains are pleasurable.
 - [[Moths to the Flame]] — the flame that *consumes* versus the fire that *transfigures*; the attention economy as a cull.
 - [[Nigredo]] — consumption without transformation; blackening that never completes.
 - [[Fire]] — *"our God is a consuming fire"* (Hebrews 12:29); the burning bush *not* consumed (Exodus 3) as the contrast pole.
@@ -105,7 +105,7 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 > - **The beasts that consume kingdoms** — Daniel 7 / Revelation 13; empire itself as a consumption-system.
 > - **Moloch** — the god children were sacrificed to (2 Kings 23:10; Jeremiah 7:31); consumption as false-god worship. Allen Ginsberg's *Howl* revives Moloch for industrial capitalism — the machine-god fed on the living.
 > - **Capital / commodity** — Marx's labor consumed and expelled as surplus value; the worker chewed up and spat out with minimal return. The Circus is that factory floor with better lighting.
-> - **The Roman arena** — *Panem et Circenses* (Juvenal, *Satires* X, c.100 CE): the crowd is sedated not by force but by pleasure, and the literal Christian martyr is consumed by the entertainment apparatus for the spectators' enjoyment. The chains are fun. See [[Panem et Circenses]].
+> - **The Roman arena** — *Panem et Circenses* (Juvenal, *Satires* X, c.100 CE): the crowd is sedated not by force but by pleasure, and the literal Christian martyr is consumed by the entertainment apparatus for the spectators' enjoyment. The chains are fun. See [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]].
 
 > [!note]- Advanced reading — attention as a deity (Pay Attention, and the Marduk note)
 > *Pay Attention* is the attention-consumption prototype, and the structure is exact: Attention is the hidden god of the modern world, and what it consumes is *awareness* — the very faculty you'd need to notice it eating you. The currency you *spend* (*"pay me"*) and the resource it *extracts* (*"pay Attention"*) are one substance, which is why the temptation works through consent: the mark already wants what's offered. The grounded vocal roles read Roy as **Attention** and little luna as the guide/introducer. And the working method is on the record: Roy's *33* board, in his own hand, asks *"How to anthropomorphize attention? → Marduk"* — personifying Attention-as-deity (after the Babylonian creator who orders the cosmos by *word*) was an explicit move, not a critic's projection. (The same board's *"Let Them Eat Cake"* tracklist line was later realized as the Hall of Mirrors artifact *"Caution, All Kings End,"* code **CAKE** — tying the board back to *I Like to Party*'s cake.)

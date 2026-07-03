@@ -128,7 +128,7 @@ That dual register — pop-friendly affect (clapping, *"yah, we're in the club"*
 > [!note]- The esoteric frame — Cave, Gnostic awakening, the kingdom within
 > Several traditions rhyme with the song, held as correspondence rather than claimed method:
 > - **Plato's Cave** — watching representations indoors while believing yourself fully present.
-> - **[[Panem et Circenses|Bread and circuses]] / "let them eat cake"** — spectacle plus confection as population-pacifier, the classical critique made literal in dessert. Marie-Antoinette sits underneath the Devil's-Food.
+> - **[[The Circus#Where it comes from (bread and circuses)|Bread and circuses]] / "let them eat cake"** — spectacle plus confection as population-pacifier, the classical critique made literal in dessert. Marie-Antoinette sits underneath the Devil's-Food.
 > - **[[Gnosticism - The World as Trap|Gnostic awakening]]** — *"we don't want 'em awake"* vs *"claim what's in them"* = waking from illusion into remembrance, sharpened by the **Devil's** competing awakening. (Guard: the grounded floor is only Roy's public "society is fake, be yourself" posture; the specifically-Gnostic apparatus is a learned overlay on a plainer sentiment.)
 > - **The kingdom within / [[Kabbalah - The Tree of Life|Malkhut]]** — *"Heaven is within your heart / you're the kingdom"* locates authority in the person, not the institution or broadcast (Luke 17:21; the Kabbalistic Malkhut). The song's axis is external programming vs internal sovereignty.
 

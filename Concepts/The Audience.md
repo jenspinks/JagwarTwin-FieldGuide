@@ -58,11 +58,11 @@ Outside the songs, the Audience is addressed directly. In the theatrical [[The I
 - [[The Circus]] — the Audience's habitat; the Audience is its fuel. The Circus exists to collapse co-creator into spectator.
 - [[Sir Lucius]] — his existence depends on watchers; the Audience is his power source. *No audience, no Lucius.*
 - [[The Algorithm]] — optimizes for engagement; *"they love it when you lose control"* is an algorithmic fact. Roy's own substitution: *Feeling → Algorithm.*
-- [[The Spectacle]] — requires spectators; the Audience is what converts life into spectacle. *"It's a spectacle, I'm the final boss."*
+- [[The Circus#What it produces (the Spectacle)|the Spectacle]] — requires spectators; the Audience is what converts life into spectacle. *"It's a spectacle, I'm the final boss."*
 - [[Consumption]] — the Audience consumes the performer, and the system consumes both. *"I'll chew you up, spit you out"* — the anti-Eucharist; the cake in [[I Like to Party]].
 - [[Communion vs Spectacle]] — the crowd awakened (sings truth back) versus the crowd synchronized (sings the same song). A unison is not a communion.
 - [[Witnessing vs Surveillance]] — the being-seen version of the split; the Audience sits in the surveillance cluster. *Audiences consume; witnesses see.*
-- [[Panem et Circenses]] — Juvenal's bread and circuses: a crowd enslaved not by force but by entertainment. The chains are pleasurable.
+- [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — Juvenal's bread and circuses: a crowd enslaved not by force but by entertainment. The chains are pleasurable.
 - [[Flattened Identity]] — the crowd flattened to sameness; *"everyone looks just like you."*
 - [[The Mask]] — the audience actively prefers the painted face: *"paint my face, and they clap and smile."*
 - [[The Loop and the Circle]] — the awakened-crowd counterpart (*"the crowd sings it back"*) against spectacle's recursion.

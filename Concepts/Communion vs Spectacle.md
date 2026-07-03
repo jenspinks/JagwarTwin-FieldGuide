@@ -25,7 +25,7 @@ Picture two rooms. In both, a crowd is singing along. In the first, every voice 
 
 Why bother drawing the line? Because without it, you'd read *every* image of collective singing in this world as the sacred [[The Circle|Circle]] — and a lot of them aren't. The [[The Circus|Circus]], the algorithm's homogenizing pull, the "same song" — these are **counterfeit communions**. They wear the Circle's chorus over the [[The Loop and the Circle|Loop]]'s uniformity. The concept exists to keep you from mistaking the forgery for the genuine article when they're built to look the same.
 
-The spectacle pole has a long pedigree the work keeps faith with. Juvenal's *panem et circenses* — *bread and circuses*, a populace pacified by the show — names the political version of the same move (see [[Panem et Circenses]]); Guy Debord's *Society of the Spectacle* names the modern one, life reduced to image, participation replaced by performance. The "same song" is their descendant: a crowd that has traded the doing for the watching, and calls the watching togetherness.
+The spectacle pole has a long pedigree the work keeps faith with. Juvenal's *panem et circenses* — *bread and circuses*, a populace pacified by the show — names the political version of the same move (see [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]]); Guy Debord's *Society of the Spectacle* names the modern one, life reduced to image, participation replaced by performance. The "same song" is their descendant: a crowd that has traded the doing for the watching, and calls the watching togetherness.
 
 ## How it works
 

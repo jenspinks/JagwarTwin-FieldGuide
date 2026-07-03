@@ -17,13 +17,13 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Two waves** — ~2019–2021 (consumerist/Hermetic), pause ~5 years, returns 2026 (*Live Underground*, now with Hebrew letters)
 > - **First card** — *Long Time Coming* remixes (~2019), hamsa sigil
 > - **Recurring slogans** — *are you content?* · *what is it that you seek?* · *as above, so below* · *who are you without the mask?*
-> - **Connected** — [[The Circus]] · [[The Pattern]] · [[Source vs Reflection]] · [[Sir Lucius]] · [[The Spectacle]] · [[The Visual Canon Throughline]]
+> - **Connected** — [[The Circus]] · [[The Pattern]] · [[Source vs Reflection]] · [[Sir Lucius]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[The Visual Canon Throughline]]
 
 ## At a glance
 
 - **In one line** — a recurring fake-advertisement title card that smuggles the project's actual creed into print too small to read on the scroll.
 - **Where it shows up** — [[Happy Face]] (the inverted-face CRT card) · [[Down to You]] (*"what is it that you seek?"*) · [[Bounce]] and [[Welcome to the Circus]] (the 2026 *Live Underground* cards).
-- **Connected ideas** — [[The Spectacle]] · [[Consumption]] · [[Source vs Reflection]] · [[The Pattern]] · [[Sir Lucius]] · [[The Mask]] · [[The Labyrinth]] · [[Nigredo]].
+- **Connected ideas** — [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Consumption]] · [[Source vs Reflection]] · [[The Pattern]] · [[Sir Lucius]] · [[The Mask]] · [[The Labyrinth]] · [[Nigredo]].
 - **Confidence** — the cards themselves (template, text, sigils, dates) are grounded public fact; the doctrinal through-reading is strong interpretation; the letter-mysticism is openly framework-tier.
 
 ## What it is
@@ -61,7 +61,7 @@ The sharpest single line on any card is *Happy Face*'s **"are you content?"**, a
 
 *Content* (adjective) — happy, satisfied. The literal Happy-Face question. *Content* (noun) — media to be consumed: *are you THE content?*, the attention-economy product, pairing exactly with that card's *"brought to you buy."* And *content* (adjective again) — complacent, contained, settled inside the system: the precise opposite of the other cards' *"what is it that you seek?"*
 
-One infomercial throwaway holds the entire consumerism-versus-seeker argument. It points straight at [[The Spectacle]], [[Consumption]], and [[The Algorithm]]. And — this is the part that's almost too neat — the pun isn't an interpreter's invention. It's grounded in Roy's own Instagram diary from around 2020, written after watching *"a documentary on A.I. merging with humans"*: *"I am holding a device currently transmitting 1's and 0's that you are reading and something labeled content. Are you content?"* ([[Public Posts]]) The card is Roy's own joke, formalized.
+One infomercial throwaway holds the entire consumerism-versus-seeker argument. It points straight at [[The Circus#What it produces (the Spectacle)|the Spectacle]], [[Consumption]], and [[The Algorithm]]. And — this is the part that's almost too neat — the pun isn't an interpreter's invention. It's grounded in Roy's own Instagram diary from around 2020, written after watching *"a documentary on A.I. merging with humans"*: *"I am holding a device currently transmitting 1's and 0's that you are reading and something labeled content. Are you content?"* ([[Public Posts]]) The card is Roy's own joke, formalized.
 
 ## Where it appears
 
@@ -92,7 +92,7 @@ Short excerpts, in order:
 - **[[The Pattern]]** — *"as above, so below"* has been a card sigil since 2021; the Hermetic root.
 - **[[Source vs Reflection]]** — the *"change the concept of self"* manifesto is the mirror doctrine (and a possible Neville Goddard lead; see *Advanced reading — the named-influence map*).
 - **[[Sir Lucius]]** — the Devil *"claiming the kingdom"* on a 2021 card, pre-name; and the *Welcome to the Circus* card's recasting of Lucius as Hermes / Thoth.
-- **[[The Spectacle]]** · **[[Consumption]]** · **[[The Algorithm]]** — the *"are you content?"* triple pun and the whole consume-satire register point here.
+- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** · **[[Consumption]]** · **[[The Algorithm]]** — the *"are you content?"* triple pun and the whole consume-satire register point here.
 - **[[The Empty Mirror]]** — *"NONE"* as the no-thing answer to *"what do you seek?"*
 - **[[The Mask]]** — *"who are you without the mask?"*, turned on the viewer (Jung's persona = mask).
 - **[[The Labyrinth]]** — *"you are the maze"*: the self *is* the structure navigated.

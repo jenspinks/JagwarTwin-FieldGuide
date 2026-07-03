@@ -28,12 +28,12 @@ The load-bearing structure: a single source, its reflections, and the question o
 What the machine does to a living self once attention becomes the currency.
 
 - [[The Circus]] — the attention economy as a closed world, run by an algorithm, named at last in the song that welcomes you in.
-- [[The Spectacle]] — the condition where life has been replaced by its image; Lucius names it as a boast.
+- [[The Circus#What it produces (the Spectacle)|The Spectacle]] — the condition where life has been replaced by its image; Lucius names it as a boast. (Now a section of [[The Circus]].)
 - [[The Audience]] — the consuming collective the Circus needs and feeds on; co-creators reduced to spectators.
 - [[Consumption]] — how the Circus processes its material: taken in, metabolized for fuel, and expelled.
 - [[The Algorithm]] — what decides what is seen, amplified, and buried; the engine Lucius confesses built the show.
 - [[Flattened Identity]] — a multidimensional person reduced to a usable surface, then told that surface is all there is.
-- [[Panem et Circenses]] — "bread and circuses," the oldest name for the trap: a crowd sedated until it forgets it has lost its power.
+- [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — "bread and circuses," the oldest name for the trap: a crowd sedated until it forgets it has lost its power. (Now a section of [[The Circus]].)
 - [[Communion vs Spectacle]] — both look like a crowd singing together, but a unison is not a communion.
 - [[The Aquarium]] — the totalized interior; the fish that doesn't know it's in water, the inhabitant who can't see the glass.
 
@@ -64,21 +64,23 @@ The body-symbols and inner spaces the drama plays out in.
 - [[Keilim - The Breaking of the Vessels]] — the myth of a light too strong for its container; the vessel shatters and the work becomes gathering the sparks.
 - [[The House and the Vessel]] — the self as a container, and the drama of whether it holds, opens, shatters, or breaks open into something new.
 
-## Esoteric traditions
+## The Sacred Truths
 
-The older currents the work draws on — named, and kept in front as readings rather than facts.
+The older currents the work drinks from — named, and kept in front as readings rather than facts. The four core traditions are grouped together under [[The Sacred Truths]].
 
 - [[Kabbalah - The Tree of Life]] — a single source of light and a row of bodies that only reflect it; the shape of Roy, Lucius, and Mary.
 - [[Gnosticism - The World as Trap]] — the oldest version of the project's most public idea: the world as managed illusion, the self a spark, the way out remembrance.
 - [[Hermeticism - As Above So Below]] — the opposite of the trap: one coherent law repeating at every scale, whose maxim Roy printed on a video years early.
+- [[Theosophy]] — the cosmos as a Great Breath, worlds exhaled and drawn back; *"the mind is the slayer of the real,"* and what Roy does with that line.
+
+And the traditions put to work on the project's own trials and figures:
+
 - [[The Labors of Hercules]] — the Twelve Labors read as a map of the soul, each faculty tested and returned to the heart's rule.
 - [[The Angels and the Angles]] — a letter-mysticism lens that hears the "la-la / na-na" syllables as technique: consonants as angles, vowels as angels.
 - [[The Light-Bearer]] — the figure who carries light that disorients instead of illuminating; his symbol the strobe, not a steady flame.
 - [[Jacob and Esau]] — the two-brothers pattern; the smooth one and the rough one, and what gets taken between them.
-- [[Carl Jung]] — the shadow and its redemption: what you bury doesn't die, and the only way back is relationship, not war.
-- [[Gurdjieff]] — *"man is asleep"*: the wake-up doctrine Roy wears tattooed on his hand.
-- [[Alice Bailey]] — the Twelve Labors as the soul's inner zodiac; the book Roy annotates, teaches, and transcribes.
-- [[Roy on Influences]] — the reading list Roy posts himself: the named lineage, with receipts and a warning label.
+
+The *people* behind these currents — the thinkers Roy names and the musicians he stands in line behind — now have their own home: see **[[Influences]]** (Carl Jung, Gurdjieff, Alice Bailey, Manly P. Hall, the [[Roy on Influences|full annotated roster]], and the [[Musical Lineage]]).
 
 ## The wider world and artifacts
 

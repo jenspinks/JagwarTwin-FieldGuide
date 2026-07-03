@@ -60,7 +60,7 @@ And underneath the joke, a real wound. The song builds genuine martyr-scaffoldin
 - [[MAGIK]] — the sibling release (the "MAGIK / dumbledore EP family"); shares the word "Magik" at opposite charge — there a tender innate blessing, here the power that gets you burned.
 - [[The Mask]] / [[The Veil]] — the empty robe as the mask that replaced the face; the Oz "man behind the curtain" adjacency.
 - [[Not Your Homie]] / [[Life Is Good]] — the nursery-rhyme-over-darkness lineage "dumbledore"'s "if you're magic and you know it / clap your hands" belongs to.
-- [[The Algorithm]] / [[The Spectacle]] — the dumbing-down machine and the burning mob the song performs.
+- [[The Algorithm]] / [[The Circus#What it produces (the Spectacle)|the Spectacle]] — the dumbing-down machine and the burning mob the song performs.
 - [[Roy]] — the unresolved voice of the song (Roy's sincere wound vs Lucius's spectacle).
 
 > [!note]- Advanced reading — the seven shared traditions, mapped

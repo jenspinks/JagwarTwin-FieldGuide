@@ -17,7 +17,7 @@ Of everyone on Roy's bookshelf, Gurdjieff is the influence he names most. The **
 ## At a glance
 
 - **In one line** — humanity runs on automatic, mistakes the automation for a life, and cannot be woken by the same machinery that put it to sleep.
-- **Where it shows up** — [[The Aquarium]] (the closed tank as mechanical sleep); [[The Spectacle]] and [[The Circus]] (the exit problem); [[Sir Lucius]] (the "many I's" with no center); [[Moths to the Flame]] (his doctrine, deliberately inverted); [[The Watchers]] versus [[Lucius Lullaby]] (the alarm and the sedative); the tattoo on [[Roy]].
+- **Where it shows up** — [[The Aquarium]] (the closed tank as mechanical sleep); [[The Circus#What it produces (the Spectacle)|the Spectacle]] and [[The Circus]] (the exit problem); [[Sir Lucius]] (the "many I's" with no center); [[Moths to the Flame]] (his doctrine, deliberately inverted); [[The Watchers]] versus [[Lucius Lullaby]] (the alarm and the sedative); the tattoo on [[Roy]].
 - **Connected ideas** — [[Gnosticism - The World as Trap]] · [[Machine vs Human]] · [[Roy on Influences]].
 - **Confidence** — the influence itself is grounded to the hilt (tattoo, dated posts, promo caption). The finer applications — Law of Seven readings, self-remembering — are framework, and labeled.
 
@@ -47,7 +47,7 @@ Of everyone on Roy's bookshelf, Gurdjieff is the influence he names most. The **
 ## Read next
 
 - [[The Aquarium]] — mechanical sleep as a fish tank.
-- [[The Spectacle]] — the exit problem, stated as a boast.
+- [[The Circus#What it produces (the Spectacle)|the Spectacle]] — the exit problem, stated as a boast.
 - [[Moths to the Flame]] — the doctrine inverted, in Lucius's mouth.
 - [[The Watchers]] — the alarm; [[Lucius Lullaby]] — the sedative.
 - [[Gnosticism - The World as Trap]] — the older trap the wake-up answers.

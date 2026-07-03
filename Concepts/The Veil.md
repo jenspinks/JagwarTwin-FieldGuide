@@ -16,7 +16,7 @@ In the oldest version of this image, a veil *tears* and God spills out. In the J
 
 - **In one line** — the boundary between the show and the real; the project closes it and asks the audience to rate the experience.
 - **Where it shows up** — [[Welcome to the Circus]] (*"when the curtains close / did you like the show?"*) · the *Welcome to the Circus* "Live Underground" card (*"who are you without the mask?"*) · [[Imagine A World]] (OZ, *the man behind the curtain*).
-- **Connected ideas** — [[The Mask]] · [[Sir Lucius]] · [[The Spectacle]] · [[Inversion]] · [[The Empty Mirror]] · [[City of Angels]].
+- **Connected ideas** — [[The Mask]] · [[Sir Lucius]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Inversion]] · [[The Empty Mirror]] · [[City of Angels]].
 - **Confidence** — grounded on the verified *Welcome to the Circus* lyric and several public artifacts, braided with strong interpretation; the esoteric apparatus (Kabbalah, the temple-veil inversion) is labeled as framework throughout.
 
 ## What it is
@@ -52,7 +52,7 @@ What makes the Veil a Jagwar Twin idea rather than a stage prop is *when* it doe
 - **[[Sir Lucius]]** — operates entirely in front of the curtain; the ringmaster who runs the show and asks for the review. *"Did you like the show?"* is his fingerprint.
 - **[[Roy]]** — possibly the face the curtain conceals, possibly what was never performed. The open figure behind the cloth.
 - **[[The Mask]]** — the curtain and the mask are the same boundary, drawn on a stage versus a face; the "Live Underground" card's *"who are you without the mask?"* makes it the viewer's question.
-- **[[The Spectacle]]** — the curtain separates the spectacle from the real; the live question is whether anything is on the other side.
+- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — the curtain separates the spectacle from the real; the live question is whether anything is on the other side.
 - **[[Inversion]]** — temple veil tears to *open* the sacred / the Circus curtain *closes* to solicit approval: same structural moment, reversed direction.
 - **[[The Empty Mirror]]** — the *Bad Feeling [Dark Arts]* / dumbledore video shows an ornate priest-king robe with no one inside it (*"no body, I'm already gone"*): the behind-the-curtain emptiness made literal — the mask that finally replaced the face.
 - **[[The Audience]]** — the curtain exists to separate performer from watcher; *"who are you without the mask?"* drags the watcher into the frame.
