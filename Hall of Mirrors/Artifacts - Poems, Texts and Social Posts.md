@@ -20,7 +20,7 @@ A few of them are self-labeling, meaning the artifact spells out its own unlock 
 
 ## A note on the codes
 
-Several of these entries carry a code that looks like license-plate gibberish: `J403`, `X672`, `Q763`, `F876`. These are not unsolved mysteries or random strings. They are cell coordinates, column-plus-row addresses, on Roy's spreadsheet-style *"I'm 33"* board (see [[Artifacts/The I'm 33 Board]]), where the whole cosmology is laid out on a grid. So a code like `J763` is less a riddle and more a map reference: it tells you where on the board the idea lives. The phrase-codes (`WE FALL DOWN AS SEEDS ON THE GROUND`, `EVERY HUMAN BEING IS A STAR`) work the other way, quoting a lyric or an aphorism straight.
+Several of these entries carry a code that looks like license-plate gibberish: `J403`, `X672`, `Q763`, `F876`. These are not unsolved mysteries or random strings. They are cell coordinates, column-plus-row addresses, on Roy's spreadsheet-style *"I'm 33"* board (see [[Hall of Mirrors/The I'm 33 Board]]), where the whole cosmology is laid out on a grid. So a code like `J763` is less a riddle and more a map reference: it tells you where on the board the idea lives. The phrase-codes (`WE FALL DOWN AS SEEDS ON THE GROUND`, `EVERY HUMAN BEING IS A STAR`) work the other way, quoting a lyric or an aphorism straight.
 
 ## How to read them
 
@@ -92,4 +92,4 @@ A screenshot of two dark iOS message bubbles reading *"Here"* and *"At the gate"
 
 - [[Artifacts]] — the hub, and the rest of the artifact groups.
 - [[Hall of Mirrors]] — the ARG these objects were unlocked from.
-- [[Artifacts/The I'm 33 Board]] — the cosmology board so many of these texts are pieces of.
+- [[Hall of Mirrors/The I'm 33 Board]] — the cosmology board so many of these texts are pieces of.

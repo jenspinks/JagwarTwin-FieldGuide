@@ -22,7 +22,7 @@ Reading these is simple, and that is the point. Ask *who, when, what era* before
 
 ## A note on the codes
 
-Some of these rooms unlock with a phrase (`OSCAR`, `REBIRTH`, `HEIMDALL`). Others unlock with a letter-and-number key (`A749`, `R1063`, `G228`, `B1030`). Those are not unsolved riddles. They are **cell coordinates**: a column-plus-row address on Roy's *"I'm 33"* spreadsheet board, the same board so much of the cosmology is drawn on. So even the plainest family keepsake is quietly pinned back to the map. See [[Artifacts/The I'm 33 Board]].
+Some of these rooms unlock with a phrase (`OSCAR`, `REBIRTH`, `HEIMDALL`). Others unlock with a letter-and-number key (`A749`, `R1063`, `G228`, `B1030`). Those are not unsolved riddles. They are **cell coordinates**: a column-plus-row address on Roy's *"I'm 33"* spreadsheet board, the same board so much of the cosmology is drawn on. So even the plainest family keepsake is quietly pinned back to the map. See [[Hall of Mirrors/The I'm 33 Board]].
 
 ---
 
@@ -62,7 +62,7 @@ A looping 3D scan of a handmade white wooden birdhouse converted into a clock: b
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..jpg" width="320" controls preload="none"></video>
 
 A rotating scan of a comb-bound notebook open on weathered deck planks: page two of a story in a child's hand, "They said it was a mummy from ancient egyptain [sic] times. One man offered to pay 1 million dollars for it. Chuckster sold it and was a millionaire!", complete with a colored-pencil grinning man clutching green bills. It reads as a page from young Roy's storybooks, and the fable is a kid's P.T. Barnum bit: an object becomes a fortune purely because "they said" it was ancient, value conjured out of story and belief. That is the adult project's whole thesis in miniature, and it lands with perfect irony inside an NFT gallery, where scanned childhood ephemera is itself the priced relic. The code `G228` is a cell coordinate on the "I'm 33" board (the "(228)" in the title carries the same number), tying the childhood relic straight back to the cosmology board.
-**Connects to →** [[Pay Attention (feat. little luna)]] · [[Imagine A World]] · [[Hall of Mirrors]] · [[The Circus]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Artifacts/The I'm 33 Board]]
+**Connects to →** [[Pay Attention (feat. little luna)]] · [[Imagine A World]] · [[Hall of Mirrors]] · [[The Circus]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Hall of Mirrors/The I'm 33 Board]]
 
 ### #59 · 21 CANDLES · `SNOW WHITE`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9e74f6c604bfaf5ab8b29ba37f7252bb33ed95de093a8aeb30a98031a6f1004..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9e74f6c604bfaf5ab8b29ba37f7252bb33ed95de093a8aeb30a98031a6f1004..jpg" width="320" controls preload="none"></video>
@@ -190,4 +190,4 @@ A three-second looping scan of a gold lozenge pendant engraved "1941" beneath a 
 
 - [[Artifacts]] — the hub, and the rest of the artifact groups.
 - [[Hall of Mirrors]] — the ARG these objects were unlocked from.
-- [[Artifacts/The I'm 33 Board]] — the cosmology board so many of these keys point back to.
+- [[Hall of Mirrors/The I'm 33 Board]] — the cosmology board so many of these keys point back to.

@@ -154,4 +154,4 @@ Three seconds of a scanned model of Roy's own head and neck floating in pure bla
 
 - [[Artifacts]] — the hub, and the rest of the artifact groups.
 - [[Hall of Mirrors]] — the ARG these songs and demos were unlocked from.
-- [[Artifacts/The I'm 33 Board]] — the cosmology board so many of these codes are pieces of.
+- [[Hall of Mirrors/The I'm 33 Board]] — the cosmology board so many of these codes are pieces of.

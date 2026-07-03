@@ -188,4 +188,4 @@ A ~25-second found-footage montage: washes of solid teal cut against degraded 19
 
 - [[Artifacts]] — the hub, and the rest of the artifact groups.
 - [[Hall of Mirrors]] — the ARG these ciphers chain through.
-- [[Artifacts/The I'm 33 Board]] — the spreadsheet-cosmology most of these codes and cells are cut from.
+- [[Hall of Mirrors/The I'm 33 Board]] — the spreadsheet-cosmology most of these codes and cells are cut from.

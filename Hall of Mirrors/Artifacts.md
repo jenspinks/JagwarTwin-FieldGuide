@@ -14,6 +14,17 @@ These are the **Artifacts**: hidden pieces of the Jagwar Twin world, unlocked th
 
 Think of this section as the evidence room, except the evidence sometimes sings.
 
+## The full gallery — all 149, by number
+
+Every unlocked artifact as a scannable card, in the order the maze gave them up. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the whole collection reads at a glance. Each card's title opens its room, and **More →** jumps to the full reading.
+
+- **[[Artifacts - Gallery 1 (1-37)|Gallery 1 · #1–37]]**
+- **[[Artifacts - Gallery 2 (38-74)|Gallery 2 · #38–74]]**
+- **[[Artifacts - Gallery 3 (75-112)|Gallery 3 · #75–112]]**
+- **[[Artifacts - Gallery 4 (113-149)|Gallery 4 · #113–149]]**
+
+Prefer to read by *kind* rather than by number? The type deep-dives are below.
+
 ## What counts as an artifact?
 
 An artifact is a discovered Hall of Mirrors item with a code, title, media file, or gallery entry attached to it. These aren't ordinary screenshots or random reference images. They're pieces that were *placed* inside the Hall of Mirrors system and unlocked by people moving through it.
@@ -64,7 +75,7 @@ Images, clips, and objects where the code, title, or content directly overlaps w
 
 ## The "I'm 33" board
 
-One of the most important related objects is Roy's *I'm 33* board, which is handled separately on **[[Artifacts/The I'm 33 Board]]**.
+One of the most important related objects is Roy's *I'm 33* board, which is handled separately on **[[Hall of Mirrors/The I'm 33 Board]]**.
 
 That board isn't just another artifact list. It's more like a working diagram of the symbolic engine: music, geometry, identity, birth, pattern, planets, numbers, and the question of where the self enters the song.
 

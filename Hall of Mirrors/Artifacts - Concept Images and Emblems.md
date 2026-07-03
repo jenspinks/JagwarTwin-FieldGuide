@@ -64,7 +64,7 @@ A strong reading usually has several anchors: the image itself, the title, a kno
 
 ## A note on the "I'm 33" board
 
-Many of these concept images appear to be fragments of the larger thought-system visible in [[Artifacts/The I'm 33 Board]]. That board shows Roy working through music, number, geometry, theology, identity, and pattern as one connected field. Several artifacts here seem to be individual pieces of that board-world minted into the Hall: not separate ideas, but pieces of the same cosmology broken into collectible rooms. The board helps decode the artifacts; the artifacts show the board learning how to become mythology.
+Many of these concept images appear to be fragments of the larger thought-system visible in [[Hall of Mirrors/The I'm 33 Board]]. That board shows Roy working through music, number, geometry, theology, identity, and pattern as one connected field. Several artifacts here seem to be individual pieces of that board-world minted into the Hall: not separate ideas, but pieces of the same cosmology broken into collectible rooms. The board helps decode the artifacts; the artifacts show the board learning how to become mythology.
 
 ## What not to do
 
@@ -350,4 +350,4 @@ A hand-drawn sheet: the title *"Logos (Ratio)"* at top, a single crossed axis (i
 
 - [[Artifacts]] — the hub, and the rest of the artifact groups.
 - [[Hall of Mirrors]] — the ARG these objects were unlocked from.
-- [[Artifacts/The I'm 33 Board]] — the cosmology board so many of these images are pieces of.
+- [[Hall of Mirrors/The I'm 33 Board]] — the cosmology board so many of these images are pieces of.

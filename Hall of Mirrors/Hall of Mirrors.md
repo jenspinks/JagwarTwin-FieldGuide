@@ -142,6 +142,13 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 - **The honest disclaimer.** The "uploaded consciousness" is the project's **art-frame, not a literal claim.** The artifacts are real drawings, objects, and posts curated into a puzzle; treat the cosmology as a deliberate fiction being built, not a metaphysics to take at face value. And the maze is meant to be solved — the reward is the close reading in good company, not extracting a secret answer key.
 - This page draws only on released music, public interviews and posts, official videos, and the publicly viewable site.
 
+## Inside this section
+
+The Hall of Mirrors keeps two rooms of its own:
+
+- **[[Artifacts]]** — the evidence room: all 149 unlocked artifacts, as a color-coded card gallery (browse by number) and as deep-dives by type.
+- **[[Hall of Mirrors/The I'm 33 Board|The "I'm 33" Board]]** — Roy's working cosmology spreadsheet, the source-code the whole maze was quarried from.
+
 ## Read next
 
 - [[The Upload]] — the "uploaded consciousness" cosmology the maze externalizes.

@@ -18,7 +18,7 @@ If the polished artifacts are the mythology performing, these are the mythology 
 
 Start with what is actually on the page. Then the title. Then the code. Then the links.
 
-Two things repeat often enough to explain up front. Many of these sheets are pieces of Roy's larger thought-system, the [[Artifacts/The I'm 33 Board|"I'm 33" board]]: a wall-sized field where music, number, geometry, and theology all connect. Several drawings here are single cells of that board minted one at a time. And a good number of the codes are not mysteries at all: a letter-plus-number code (J403, F316, V222) is a spreadsheet cell coordinate, a column and a row on Roy's "I'm 33" spreadsheet map. The wild ones are the phrases.
+Two things repeat often enough to explain up front. Many of these sheets are pieces of Roy's larger thought-system, the [[Hall of Mirrors/The I'm 33 Board|"I'm 33" board]]: a wall-sized field where music, number, geometry, and theology all connect. Several drawings here are single cells of that board minted one at a time. And a good number of the codes are not mysteries at all: a letter-plus-number code (J403, F316, V222) is a spreadsheet cell coordinate, a column and a row on Roy's "I'm 33" spreadsheet map. The wild ones are the phrases.
 
 ## The artifacts
 
@@ -187,4 +187,4 @@ Two photographs belong to the drawing set by their codes, even though they live 
 
 - [[Artifacts]] — the hub, and the rest of the artifact groups.
 - [[Hall of Mirrors]] — the ARG these objects were unlocked from.
-- [[Artifacts/The I'm 33 Board]] — the cosmology board so many of these images are pieces of.
+- [[Hall of Mirrors/The I'm 33 Board]] — the cosmology board so many of these images are pieces of.

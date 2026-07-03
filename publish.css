@@ -572,3 +572,31 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Start Here/Roy's Posts"]),
 .site-body-left-column .tree-item-self[data-path^="Start Here/Roy's Posts"]{ display:none !important; }
 
+
+/* ============================================================
+   Hall of Mirrors — artifact card galleries: per-type color-coding
+   (ticket-tab + bottom color-wash + type chip). Cards render in
+   reading view; :has() row-styling is used elsewhere in this file.
+   ============================================================ */
+.art-gallery .legend{display:flex;gap:16px;flex-wrap:wrap;align-items:center;font-weight:700;font-size:12px;line-height:1;letter-spacing:.05em;margin:0 0 22px;padding:13px 16px;border:1px solid #3a2e30;border-radius:9px;background:#1a1516}
+.art-gallery .legend b{text-transform:uppercase;letter-spacing:.16em;color:#7a7266;font-size:10px;margin-right:4px}
+.art-gallery .legend span{display:inline-flex;align-items:center;gap:7px;color:#b6ab93}
+.art-gallery .legend i{width:16px;height:16px;border-radius:4px;display:inline-block;border:1px solid rgba(255,255,255,.14)}
+.art-gallery table>tbody>tr{--ink:#f2e3c6;border:1px solid #2c2426;transition:transform .16s ease,box-shadow .16s ease}
+.art-gallery table>tbody>tr td:first-child,.art-gallery table>tbody>tr td:first-child a{color:var(--ink)!important}
+.art-gallery table>tbody>tr td:not(:first-child){color:#cdbfa6!important}
+.art-gallery table>tbody>tr code{color:#f2e3c6!important;background:rgba(0,0,0,.32);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:1px 5px;font-size:.8em;letter-spacing:.03em}
+.art-gallery table>tbody>tr:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(0,0,0,.55)}
+.art-gallery table>tbody>tr:has(.t-ciphers){border-top:4px solid #1f6f78;background:linear-gradient(0deg,rgba(31,111,120,.36) 0%,transparent 56%);--chip:#1f6f78;--chipink:#eafcff}
+.art-gallery table>tbody>tr:has(.t-emblems){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(212,166,58,.32) 0%,transparent 56%);--chip:#d4a63a;--chipink:#241a06}
+.art-gallery table>tbody>tr:has(.t-family){border-top:4px solid #c23a48;background:linear-gradient(0deg,rgba(139,30,45,.46) 0%,transparent 56%);--chip:#8b1e2d;--chipink:#ffe9ec}
+.art-gallery table>tbody>tr:has(.t-drawings){border-top:4px solid #e9dcc2;background:linear-gradient(0deg,rgba(233,220,194,.22) 0%,transparent 56%);--chip:#e9dcc2;--chipink:#241a06}
+.art-gallery table>tbody>tr:has(.t-poems){border-top:4px solid #fff;background:linear-gradient(0deg,rgba(255,255,255,.16) 0%,transparent 56%);--chip:#fff;--chipink:#1b1b1e}
+.art-gallery table>tbody>tr:has(.t-songs){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(122,122,134,.24) 0%,transparent 56%);--chip:#1b1b1e;--chipink:#f2e3c6}
+.artchip{display:inline-block;font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;padding:2px 8px;border-radius:999px;background:var(--chip,#555);color:var(--chipink,#fff);margin:6px 0 0 8px;vertical-align:middle}
+.art-gallery table>tbody>tr:has(.t-songs) .artchip{border:1px solid rgba(212,166,58,.55)}
+
+/* Hide the individual artifact / gallery / pilot pages from the left nav
+   (the Hall of Mirrors landing, the Artifacts hub, and the board stay visible). */
+.site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Hall of Mirrors/Artifacts - "]),
+.site-body-left-column .tree-item-self[data-path^="Hall of Mirrors/Artifacts - "]{ display:none !important; }
