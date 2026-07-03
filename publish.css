@@ -261,3 +261,6 @@ css/* Web image interaction tuning */
 .circus-home li strong a,.circus-home li>a{font-family:var(--cserif);font-weight:600;font-size:1.35rem;color:var(--cgold-br);text-decoration:none;line-height:1.12}
 .circus-home li a:hover{color:var(--cream)}
 .circus-home a{color:var(--cgold-br)}
+
+/* hero background video (external CDN src) */
+.circus-home .hero-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
