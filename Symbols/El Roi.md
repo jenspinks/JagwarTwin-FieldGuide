@@ -32,8 +32,21 @@ Which is exactly why its placement is so loaded. The mark doesn't sit on the see
 
 The split is the theology of the project in miniature: the same name reads as *witness* on one bearer and as *watcher* on the other.
 
-> [!note]- Advanced reading — the throat as gate, and the letter-harmonics
-> The throat placement rewards a heavier read: in the Kabbalistic body-map the throat is **Da'at**, the gate where knowing becomes speech — so "the God who sees me" sits precisely where the interior crosses into utterance, on the very organ of Lucius's line *"you don't know me."* Pushing the Hebrew further: the root **ר-א-י** resonates across *re'i* ("my seeing"; kin to *mar'ah*, mirror — "that which shows") and *ari* (lion), collapsing seeing, reflection, light, and identity into one glyph — toward a functional synthesis like *"the one in whose seeing I am reflected."* All of that belongs to a letter-mysticism tradition, **not** to anything Roy has stated as his method. Harmonics the system permits, not claims it asserts.
+> [!note]- Advanced reading — the throat as gate, and the ר-א-י letter-harmonics
+> **The throat as gate.** In the Kabbalistic body-map the throat is **Da'at**, the gate where knowing becomes speech — so *"the God who sees me"* sits precisely where the interior crosses into utterance, on the very organ of Lucius's line *"you don't know me."*
+>
+> **The cluster.** Hebrew is written in consonants; meaning turns on the vowels you breathe into them — the same mechanism Roy *does* claim as method (*vowels are angels, consonants are angles*; see [[The Angels and the Angles]]). Point the three letters **ר-א-י** differently and a family of the project's own core words falls out — a tight cluster of real overlaps, not infinite meaning:
+> - **רֹאִי · *ro'i*** — "my seeing / the one who sees me." The Genesis reading. *(grounded)*
+> - **רְאִי · *re'i*** — **mirror**: the old poetic word (Job 37:18), *not* the ordinary *mar'ah* — a reflection that exists only *through* seeing, a relationship rather than an object. *(grounded lexical fact)*
+> - **אֲרִי · *ari*** — "**lion**": the same three letters reordered — identity, kingship. *(permutation)*
+> - **אוֹר · *or* / יָאִיר · *ya'ir*** — "**light**" / "he will shine": the cluster leans into the light-root — a vav or a yod shy of a clean anagram, but the pull toward light is real. *(root-adjacent)*
+> - **רֹעִי · *ro'i*** — "my **shepherd**": an exact homophone (*ʿayin* for *aleph*) — the one who sees, heard as the one who **leads**. *(sound-collision)*
+> - **אֵל → לֹא · *el → lo*** — reverse "God" and you get "**not**": even backwards the name holds its own negation, God and not-God. *(reversal)*
+> - By **sound only** (not Hebrew): *roi* (Fr., king) · *rey* (Sp., king) · *Roy* · *ray* (of light) — the name orbits **king** and **light** across tongues. *(phonetic overlap, not a Hebrew claim)*
+>
+> Collapsed, the cluster is tight and real — **seeing ↔ reflection ↔ light ↔ guidance ↔ identity**, all orbiting perception. It's why the glyph keeps expanding without breaking: it's anchored in actual overlaps, not coincidence. And it's why Lucius, seated between **אֵל | רְאִי** (*God | Mirror*), is no stretch — he lives in the gap between being seen and being a reflection.
+>
+> **Tier.** Everything here except *ro'i* (Genesis 16) and *re'i* = mirror (Job 37:18) is **letter-mysticism tradition and sound — not anything Roy has stated as his method.** The one authorial anchor is the vowel/consonant method he *does* claim (angels/angles). Harmonics the system permits; not claims it asserts.
 
 ## Source notes
 

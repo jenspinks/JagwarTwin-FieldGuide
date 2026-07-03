@@ -587,12 +587,12 @@ body.theme-dark, body.theme-light, .published-container {
 .art-gallery table>tbody>tr td:not(:first-child){color:#cdbfa6!important}
 .art-gallery table>tbody>tr code{color:#f2e3c6!important;background:rgba(0,0,0,.32);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:1px 5px;font-size:.8em;letter-spacing:.03em}
 .art-gallery table>tbody>tr:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(0,0,0,.55)}
-.art-gallery table>tbody>tr:has(.t-ciphers){border-top:4px solid #1f6f78;background:linear-gradient(0deg,rgba(31,111,120,.36) 0%,transparent 56%);--chip:#1f6f78;--chipink:#eafcff}
-.art-gallery table>tbody>tr:has(.t-emblems){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(212,166,58,.32) 0%,transparent 56%);--chip:#d4a63a;--chipink:#241a06}
-.art-gallery table>tbody>tr:has(.t-family){border-top:4px solid #c23a48;background:linear-gradient(0deg,rgba(139,30,45,.46) 0%,transparent 56%);--chip:#8b1e2d;--chipink:#ffe9ec}
-.art-gallery table>tbody>tr:has(.t-drawings){border-top:4px solid #e9dcc2;background:linear-gradient(0deg,rgba(233,220,194,.22) 0%,transparent 56%);--chip:#e9dcc2;--chipink:#241a06}
-.art-gallery table>tbody>tr:has(.t-poems){border-top:4px solid #fff;background:linear-gradient(0deg,rgba(255,255,255,.16) 0%,transparent 56%);--chip:#fff;--chipink:#1b1b1e}
-.art-gallery table>tbody>tr:has(.t-songs){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(122,122,134,.24) 0%,transparent 56%);--chip:#1b1b1e;--chipink:#f2e3c6}
+.art-gallery table>tbody>tr:has(.t-ciphers){border-top:4px solid #1f6f78;background:linear-gradient(0deg,rgba(31,111,120,.52) 0%,transparent 68%);--chip:#1f6f78;--chipink:#eafcff}
+.art-gallery table>tbody>tr:has(.t-emblems){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(212,166,58,.46) 0%,transparent 68%);--chip:#d4a63a;--chipink:#241a06}
+.art-gallery table>tbody>tr:has(.t-family){border-top:4px solid #c23a48;background:linear-gradient(0deg,rgba(139,30,45,.62) 0%,transparent 68%);--chip:#8b1e2d;--chipink:#ffe9ec}
+.art-gallery table>tbody>tr:has(.t-drawings){border-top:4px solid #e9dcc2;background:linear-gradient(0deg,rgba(233,220,194,.34) 0%,transparent 68%);--chip:#e9dcc2;--chipink:#241a06}
+.art-gallery table>tbody>tr:has(.t-poems){border-top:4px solid #fff;background:linear-gradient(0deg,rgba(255,255,255,.26) 0%,transparent 68%);--chip:#fff;--chipink:#1b1b1e}
+.art-gallery table>tbody>tr:has(.t-songs){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(122,122,134,.36) 0%,transparent 68%);--chip:#1b1b1e;--chipink:#f2e3c6}
 .artchip{display:inline-block;font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;padding:2px 8px;border-radius:999px;background:var(--chip,#555);color:var(--chipink,#fff);margin:6px 0 0 8px;vertical-align:middle}
 .art-gallery table>tbody>tr:has(.t-songs) .artchip{border:1px solid rgba(212,166,58,.55)}
 
