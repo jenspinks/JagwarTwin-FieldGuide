@@ -619,3 +619,6 @@ body.theme-dark, body.theme-light, .published-container {
     #161314 !important;
 }
 
+/* larger menu text (was 15px) */
+.published-container .site-body-left-column .tree-item-inner{ font-size: 17px !important; line-height: 1.35; }
+
