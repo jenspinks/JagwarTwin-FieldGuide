@@ -622,3 +622,19 @@ body.theme-dark, body.theme-light, .published-container {
 /* larger menu text (was 15px) */
 .published-container .site-body-left-column .tree-item-inner{ font-size: 17px !important; line-height: 1.35; }
 
+/* ===== FIX: [!infobox] callout (character pages). Minimal/Publish doesn't style
+   this custom type, so it collapsed to width:0 and ballooned to ~7700px, leaving a
+   huge empty band. Give it a real, full-width, themed box. ===== */
+.site-body-center-column .callout[data-callout="infobox"]{
+  display: block !important; width: auto !important; max-width: 100% !important; float: none !important;
+  border: 1px solid rgba(212,166,58,.22); border-left: 4px solid #d4a63a;
+  background: rgba(139,30,45,.10); border-radius: 5px; padding: .55em 1.1em; margin: 1.3em 0;
+}
+.site-body-center-column .callout[data-callout="infobox"] > .callout-title{
+  font-family:"Rye","Fraunces",Georgia,serif; color:#ecc861; letter-spacing:.02em;
+  font-size:1.02em; margin-bottom:.35em;
+}
+.site-body-center-column .callout[data-callout="infobox"] .callout-content{ width: auto !important; min-width: 0 !important; }
+.site-body-center-column .callout[data-callout="infobox"] .callout-content ul{ width: auto !important; margin: .2em 0 0; padding-left: 1.1em; }
+.site-body-center-column .callout[data-callout="infobox"] .callout-content li{ margin: .18em 0; }
+
