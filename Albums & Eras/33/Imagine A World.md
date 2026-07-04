@@ -73,7 +73,7 @@ A few claims that cut across the whole thing:
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4c3cc16801611899e9e7698122fd86a5e82d6858095c4a4c47af5c46c51b91b9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4c3cc16801611899e9e7698122fd86a5e82d6858095c4a4c47af5c46c51b91b9..jpg" width="200"></a>
 
 **IMAGINE A WORLD** · `IMAGINE A WORLD` — This is the buried song-mint of 'Imagine A World' (track 9 of 33), unlock code = the song title; the tie is definitional, and the frame's red-bordered desert-and-forming-membrane matches the song's 'imagine/… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf49a9d959a1f5ba49fc8d8f4ee38f459ef0bdd9b67c7117bfbe5b5263fbeda2f..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf49a9d959a1f5ba49fc8d8f4ee38f459ef0bdd9b67c7117bfbe5b5263fbeda2f..jpg" width="240" controls preload="none"></video>
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf49a9d959a1f5ba49fc8d8f4ee38f459ef0bdd9b67c7117bfbe5b5263fbeda2f..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/140.png" width="240" controls preload="none"></video>
 
 ## Symbols
 

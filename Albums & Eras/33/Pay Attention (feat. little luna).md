@@ -66,7 +66,7 @@ A handful of claims that cut across the whole pitch.
 ## Artifacts
 
 **HELLO, ATTENTION (µå®∂¨˚)** · `MARDUK` — The artifact title "HELLO, ATTENTION" is the song's opening line ("Hello, Attention / I'd like to introduce you to someone"), the board cell shown in the video, "eyes all around head", matches the bridge lyr… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..jpg" width="240" controls preload="none"></video>
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/4.png" width="240" controls preload="none"></video>
 
 **LITTLE LUNA EXPLAINING NFTS** · `EXPLAINING NFTS` — little luna, the artifact's named subject, is this song's featured artist, and the song's attention-as-currency economy ("televise is just my disguise"; attention as the hidden god you transact with) is the… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdaa5986dfa957f4d504265bd2a0f4e768070f1d25aa7b26fd6b7b8be848d7eca..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdaa5986dfa957f4d504265bd2a0f4e768070f1d25aa7b26fd6b7b8be848d7eca..jpg" width="240" controls preload="none"></video>

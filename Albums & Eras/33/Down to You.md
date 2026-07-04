@@ -89,7 +89,7 @@ The logic, start to finish: authority comes *down* to you → so **be** it, don'
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6a332117c7270b3be98acbcbbcf3161369e9ab06527609378bf71865507acc..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6a332117c7270b3be98acbcbbcf3161369e9ab06527609378bf71865507acc..jpg" width="240" controls preload="none"></video>
 
 **DOWN TO YOU** · `WHAT IS IT THAT YOU SEEK?` — This is the MINT artifact of the released 33 track, and its code 'WHAT IS IT THAT YOU SEEK?' is the song's verbatim opening line; the glowing-core wireframe figure in a galaxy renders the lyric's inner-light… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xb76708129c2cce34f6eb3c4e9469a9ca7eb0090e0d64ffc1cdb694ba4f720061..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xb76708129c2cce34f6eb3c4e9469a9ca7eb0090e0d64ffc1cdb694ba4f720061..jpg" width="240" controls preload="none"></video>
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xb76708129c2cce34f6eb3c4e9469a9ca7eb0090e0d64ffc1cdb694ba4f720061..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/138.png" width="240" controls preload="none"></video>
 
 ## Symbols
 

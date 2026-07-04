@@ -81,7 +81,7 @@ Each entry below carries the artifact's number, title, unlock code, image or vid
 ## The artifacts
 
 ### #4 · HELLO, ATTENTION (µå®∂¨˚) · `MARDUK`
-<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..jpg" width="320" controls preload="none"></video>
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/4.png" width="320" controls preload="none"></video>
 
 A segment of Roy's *"I'm 33 this year"* board: a pasted Mesopotamian winged-deity relief (the Neo-Assyrian carving popularly circulated as Marduk battling Tiamat) with a green-highlighted cell beneath it reading *"eyes all around head"* — Marduk's *Enuma Elish* attribute, the four all-seeing eyes. The board elsewhere poses the exact worksheet question this answers: *"How to anthropomorphize attention? → Marduk."* The title itself is the answer typed in the Mac Option layer (µå®∂¨˚ = "marduk"), and Roy confirmed the whole equation outright: *"Marduk. You've got to pay Attention."* This is the moment the attention economy gets cast as an ancient Babylonian god, the deity-of-Attention the released song then dramatizes.
 **Connects to →** [[Pay Attention (feat. little luna)]] · [[Hall of Mirrors]] · [[The Pattern]] · [[Sir Lucius]] · [[Roy]]

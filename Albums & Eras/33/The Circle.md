@@ -86,7 +86,7 @@ A few claims that cut across the whole myth.
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="200"></a>
 
 **THE CIRCLE** · `THE GREAT JAGWAR` — This is the MINT BURIED song-mint of 'The Circle' (33 closer, minted 02-10-23), and its unlock code 'THE GREAT JAGWAR' names the song's feminine maker-Jagwar who holds the world on a string — the tie is defi… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
-<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xac9f2eb2401875e22837d494811b38df27d81045fb7d66466e68768f781ef4d5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xac9f2eb2401875e22837d494811b38df27d81045fb7d66466e68768f781ef4d5..jpg" width="240" controls preload="none"></video>
+<video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xac9f2eb2401875e22837d494811b38df27d81045fb7d66466e68768f781ef4d5..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/141.png" width="240" controls preload="none"></video>
 
 ## Symbols
 
