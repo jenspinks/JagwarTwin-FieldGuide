@@ -572,31 +572,50 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Start Here/Roy's Posts"]),
 .site-body-left-column .tree-item-self[data-path^="Start Here/Roy's Posts"]{ display:none !important; }
 
+/* ====== NAV EYEBROW: בא ⇄ אב  (Ba/Av — "enter" reversed is "source") over the Act list ======
+   Hebrew has no glyphs in Rye/Fraunces, so use a Hebrew-capable serif; force LTR + isolate
+   so the two words + arrow keep the order  בא ⇄ אב  and don't bidi-flip. */
+.published-container .site-body-left-column .nav-view-outer::before{
+  content: "\05D1\05D0\0020\21C4\0020\05D0\05D1";   /* בא ⇄ אב */
+  display: block;
+  direction: ltr;
+  unicode-bidi: isolate;
+  text-align: center;
+  font-family: "Frank Ruhl Libre", "Noto Serif Hebrew", "David Libre", "Times New Roman", serif;
+  font-size: 1.2rem;
+  letter-spacing: .05em;
+  color: #d4a63a;
+  margin: .1rem .2rem .7rem;
+  padding-bottom: .6rem;
+  border-bottom: 1px solid rgba(212,166,58,.18);
+}
 
-/* ============================================================
-   Hall of Mirrors — artifact card galleries: per-type color-coding
-   (ticket-tab + bottom color-wash + type chip). Cards render in
-   reading view; :has() row-styling is used elsewhere in this file.
-   ============================================================ */
-.art-gallery .legend{display:flex;gap:16px;flex-wrap:wrap;align-items:center;font-weight:700;font-size:12px;line-height:1;letter-spacing:.05em;margin:0 0 22px;padding:13px 16px;border:1px solid #3a2e30;border-radius:9px;background:#1a1516}
-.art-gallery .legend b{text-transform:uppercase;letter-spacing:.16em;color:#7a7266;font-size:10px;margin-right:4px}
-.art-gallery .legend span{display:inline-flex;align-items:center;gap:7px;color:#b6ab93}
-.art-gallery .legend i{width:16px;height:16px;border-radius:4px;display:inline-block;border:1px solid rgba(255,255,255,.14)}
-.art-gallery table>tbody>tr{--ink:#f2e3c6;border:1px solid #2c2426;transition:transform .16s ease,box-shadow .16s ease}
-.art-gallery table>tbody>tr td:first-child,.art-gallery table>tbody>tr td:first-child a{color:var(--ink)!important}
-.art-gallery table>tbody>tr td:not(:first-child){color:#cdbfa6!important}
-.art-gallery table>tbody>tr code{color:#f2e3c6!important;background:rgba(0,0,0,.32);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:1px 5px;font-size:.8em;letter-spacing:.03em}
-.art-gallery table>tbody>tr:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(0,0,0,.55)}
-.art-gallery table>tbody>tr:has(.t-ciphers){border-top:4px solid #1f6f78;background:linear-gradient(0deg,rgba(31,111,120,.52) 0%,transparent 68%);--chip:#1f6f78;--chipink:#eafcff}
-.art-gallery table>tbody>tr:has(.t-emblems){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(212,166,58,.46) 0%,transparent 68%);--chip:#d4a63a;--chipink:#241a06}
-.art-gallery table>tbody>tr:has(.t-family){border-top:4px solid #c23a48;background:linear-gradient(0deg,rgba(139,30,45,.62) 0%,transparent 68%);--chip:#8b1e2d;--chipink:#ffe9ec}
-.art-gallery table>tbody>tr:has(.t-drawings){border-top:4px solid #e9dcc2;background:linear-gradient(0deg,rgba(233,220,194,.34) 0%,transparent 68%);--chip:#e9dcc2;--chipink:#241a06}
-.art-gallery table>tbody>tr:has(.t-poems){border-top:4px solid #fff;background:linear-gradient(0deg,rgba(255,255,255,.26) 0%,transparent 68%);--chip:#fff;--chipink:#1b1b1e}
-.art-gallery table>tbody>tr:has(.t-songs){border-top:4px solid #d4a63a;background:linear-gradient(0deg,rgba(122,122,134,.36) 0%,transparent 68%);--chip:#1b1b1e;--chipink:#f2e3c6}
-.artchip{display:inline-block;font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;padding:2px 8px;border-radius:999px;background:var(--chip,#555);color:var(--chipink,#fff);margin:6px 0 0 8px;vertical-align:middle}
-.art-gallery table>tbody>tr:has(.t-songs) .artchip{border:1px solid rgba(212,166,58,.55)}
+/* ================= a little more circus (2026-07-03) ================= */
 
-/* Hide the individual artifact / gallery / pilot pages from the left nav
-   (the Hall of Mirrors landing, the Artifacts hub, and the board stay visible). */
-.site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Hall of Mirrors/Artifacts - "]),
-.site-body-left-column .tree-item-self[data-path^="Hall of Mirrors/Artifacts - "]{ display:none !important; }
+/* 1) smaller sidebar logo (was ~224px) */
+.published-container .site-body-left-column-site-logo img{ max-width: 150px !important; height: auto !important; }
+
+/* 2) bigger interactive graph (was 300x260) */
+.published-container .graph-view-container{ height: 400px !important; min-height: 400px !important; }
+
+/* 3) ✦ stars flanking the site name */
+.published-container .site-body-left-column-site-name::before{ content:"\2726\00A0"; color:#c23a48; font-size:.62em; vertical-align:.22em; opacity:.9; }
+.published-container .site-body-left-column-site-name::after { content:"\00A0\2726"; color:#c23a48; font-size:.62em; vertical-align:.22em; opacity:.9; }
+
+/* 4) the Hebrew eyebrow's divider becomes a marquee-bulb run */
+.published-container .site-body-left-column .nav-view-outer::before{
+  border-bottom: none;
+  padding-bottom: 1.05rem;
+  background:
+    radial-gradient(circle at center, #ecc861 1.7px, rgba(236,200,97,.28) 2.3px, transparent 2.8px)
+    bottom center / 17px 7px repeat-x;
+}
+
+/* 5) tent-pole barber-stripe down the sidebar's right edge */
+.published-container .site-body-left-column{
+  border-right: none !important;
+  background:
+    repeating-linear-gradient(180deg, #8b1e2d 0 11px, #ecc861 11px 22px) right top / 4px 100% no-repeat,
+    #161314 !important;
+}
+

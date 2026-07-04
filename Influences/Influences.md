@@ -24,6 +24,7 @@ The names on Roy's own roster, the ones who do enough work in the catalogue to e
 Not a reading list — a lineage. The artists Roy names as having *"completed the circle,"* the ones his own myth places at the far end of the same thread he's pulling.
 
 - [[Musical Lineage]] — *"a Jesus, a Bowie, a Prince"*: Michael Jackson, Prince, David Bowie, and Joni Mitchell, and what each one actually lends the work.
+- [[Joni and the Descending Star]] — the deep dive: the confirmed co-write and blessing on *Soul Is A Star*, and why Joni is the clearest working model of the whole descending-star cycle.
 
 ## Read next
 
