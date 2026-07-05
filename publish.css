@@ -362,6 +362,11 @@ body.theme-dark, body.theme-light, .published-container {
   --nav-item-background-active:   rgba(139,30,45,.28);
   --nav-item-background-hover:    rgba(212,166,58,.09);
   --nav-item-weight-active: 600;
+  /* CALLOUT BLEND FIX: Obsidian keys callout blend-mode to the theme CLASS
+     (theme-light -> darken). This site is committed-dark on the theme-light
+     class, so 'darken' blended every callout INTO the charcoal ground and made
+     the Advanced-reading / quote / infobox boxes invisible. Force normal. */
+  --callout-blend-mode: normal;
   color-scheme: dark;
 }
 
@@ -650,6 +655,7 @@ body.theme-dark, body.theme-light, .published-container {
    gold high-contrast titles + icons, cream body, subtle warm box. Infobox/ringmaster keep
    their own styling (excluded below). ===== */
 .site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]){
+  mix-blend-mode: normal !important;          /* insurance: never let the box blend into the ground */
   --callout-color: 212, 166, 58;              /* gold: drives icon, fold arrow, tint, title */
   --callout-title-color: #ecc861;
   background-color: rgba(212,166,58,.055);
