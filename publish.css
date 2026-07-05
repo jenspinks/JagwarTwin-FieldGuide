@@ -643,3 +643,38 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-center-column .callout[data-callout="infobox"] .callout-content ul{ width: auto !important; margin: .2em 0 0; padding-left: 1.1em; }
 .site-body-center-column .callout[data-callout="infobox"] .callout-content li{ margin: .18em 0; }
 
+/* ===== FIX: generic callouts (the "Advanced reading" [!note] and [!quote] blocks).
+   Obsidian's defaults give [!note] a blue title and [!quote] a gray one — both near-invisible
+   ("black in black") on the charcoal circus ground, and worse on the Inside-of-the-Inside
+   pages, which are ALL collapsed callouts (title-only). Recolor the whole family warm:
+   gold high-contrast titles + icons, cream body, subtle warm box. Infobox/ringmaster keep
+   their own styling (excluded below). ===== */
+.site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]){
+  --callout-color: 212, 166, 58;              /* gold: drives icon, fold arrow, tint, title */
+  --callout-title-color: #ecc861;
+  background-color: rgba(212,166,58,.055);
+  border: 1px solid rgba(212,166,58,.18);
+  border-left: 3px solid #d4a63a;
+  border-radius: 6px;
+}
+.site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]) > .callout-title{
+  color:#ecc861 !important;
+}
+.site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]) > .callout-title .callout-title-inner{
+  color:#ecc861 !important; font-weight:600;
+}
+.site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]) > .callout-title .callout-icon,
+.site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]) > .callout-title .callout-fold{
+  color:#d4a63a !important;
+}
+.site-body-center-column .callout:not([data-callout="infobox"]):not([data-callout="ringmaster"]) .callout-content{
+  color: var(--text-normal);                  /* cream body */
+}
+/* [!quote] a touch cooler (muted tan) so it reads distinct from the gold [!note] blocks.
+   .published-container prefix lifts specificity to win over the generic rule above. */
+.published-container .site-body-center-column .callout[data-callout="quote"]{ --callout-color: 182, 171, 147; border-left-color:#b6ab93 !important; }
+.published-container .site-body-center-column .callout[data-callout="quote"] > .callout-title,
+.published-container .site-body-center-column .callout[data-callout="quote"] > .callout-title .callout-title-inner{ color:#d8cbab !important; }
+.published-container .site-body-center-column .callout[data-callout="quote"] > .callout-title .callout-icon,
+.published-container .site-body-center-column .callout[data-callout="quote"] > .callout-title .callout-fold{ color:#b6ab93 !important; }
+

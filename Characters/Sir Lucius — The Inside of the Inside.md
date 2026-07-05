@@ -8,14 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Sir Lucius — The Inside of the Inside
 
-> **Where the floor goes.** This is the speculation wing for [[Sir Lucius]]: the esoteric framework, the syncretic correspondences, the deep-cut traces, and the name-research rabbit holes. None of it is authorial intent, and all of it is labeled. If you want the grounded figure, that lives on the [[Sir Lucius|main page]].
-
-> [!note]- Advanced reading — Hod / Mercury, and the buried Lucifer/morning-star resonance (syncretic framework, not authorial intent)
-> Lucius's clean map is **Hod — Mercury:** the analytic intellect — speech, cleverness, analysis, framing — the *"truth divorced from heart,"* the mind that only ever tells the truth and deploys it to kill. Cross it with **Geburah / Mars** (severity, the cutting edge) and you have the whole green-apple mechanism: intelligence divorced from spirit, wielded with a blade. This is the **mind-pole**, standing opposite [[Roy]]'s **Netzach / Venus** heart — Mercury against Venus.
->
-> His **operating theater** is **Yesod** — the reflective image-realm, the Treasure House of Images, the glamour he works *through* rather than occupies (which is why the broken imagery — the sterile banana, the artificial apple — reads as *Yesod gone wrong*).
->
-> Held beneath all that as a **footnote resonance only:** the **Lucifer / morning-star** thread. *Lucifer* is the Latin name for **Venus as the morning star** — the herald that rises just before the sun, is mistaken for the dawn it only announces, and is outshone by the sun it precedes (→ [[SOL]]). It echoes his "herald mistaken for the source" tragedy — but it is **not** his character-symbol. Venus / Netzach belongs to Roy; this Venus register is kept strictly separate (see [[The Light-Bearer]], [[The Rose]]). Syncretic framework throughout, never something Roy authorized as intent.
+> **Where the floor goes.** This is the speculation wing for [[Sir Lucius]]: the deep-cut traces and the name-research rabbit holes. None of it is authorial intent, and all of it is labeled. If you want the grounded figure, that lives on the [[Sir Lucius|main page]].
 
 > [!note]- Advanced reading — the earliest traces (Rorrim Ehtni, the 2021 shadow-voice, "I Like to Party")
 > **Rorrim Ehtni (2008–2009).** On Eye Alaska's *Genesis Underground*, two song titles credit a fictional author, "Rorrim Ehtni" — *"In the Mirror"* spelled backwards, as a mirror reverses. The album credits Roy (as Brandon Wronski) as sole lyricist; Rorrim Ehtni exists only inside the titles. The mirror-self was already signing the work at age twenty. One title — *"The Legion Night (Rorrim Ehtni Lived)"* — carries a phonetic ghost (*devil in the mirror*) and "Legion," from Mark 5: *"My name is Legion, for we are many."* A multiplicity wearing one name, already encoded.
