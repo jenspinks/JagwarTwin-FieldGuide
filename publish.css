@@ -544,17 +544,15 @@ body.theme-dark, body.theme-light, .published-container {
 /* active label stays bright cream so the fill (not the text) carries color */
 .published-container .site-body-left-column .tree-item-self.mod-active[data-path*="/"] .tree-item-inner{color:#f2e3c6!important;}
 
-/* ── UNIFORM MENU (Jen 2026-07-04): make every top-level nav item read the
-      same muted tone as Hall of Mirrors / Influences (#cdbf9f), a touch bolder.
-      Overrides the per-folder ACT-BILL label colors (lines ~520-526). The open
-      folder still highlights gold via the active rules, and the little
-      Roman-numeral ticket-chips are left with their per-act colors. ── */
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path] > .tree-item-inner{ font-weight: 700; }
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path]:not(.mod-active):not(.is-active) > .tree-item-inner{
-  color: #cdbf9f !important;
-}
+/* ── UNIFORM MENU (Jen 2026-07-04): every nav folder reads the same muted tone
+      as Hall of Mirrors / Influences (--text-muted, #b6ab93), a touch bolder.
+      Overrides the per-folder ACT-BILL label colors (lines ~520-526).
+      NB: in the live Publish DOM, .mod-collapsible sits on .tree-item-SELF
+      (not .tree-item), so the selector MUST match it there — an earlier version
+      keyed .tree-item.mod-collapsible and silently matched nothing.
+      The active folder keeps its gold highlight via the :not(.mod-active) guard. ── */
+.published-container .site-body-left-column .tree-item-self.mod-collapsible[data-path] > .tree-item-inner{ font-weight: 700; }
+.published-container .site-body-left-column .tree-item-self.mod-collapsible[data-path]:not(.mod-active):not(.is-active) > .tree-item-inner{ color: var(--text-muted) !important; }
 
 /* 4) FLOURISH - ringmaster's aside callout. A named voice for Sir
       Lucius across the guide: gold spotlight edge on a hair-lifted
