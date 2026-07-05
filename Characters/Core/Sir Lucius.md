@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Sir Lucius
 
-> **One-line reading.** Sir Lucius is the mind severed from the heart: a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth. That is the problem.
+> **One-line reading.** Sir Lucius is the mind severed from the heart: a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth, but truth can be hard to tell.   
 
 ![[lucius.jpeg|360]]
 
@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Also known as** — the final boss · the mastermind · the Light-Bearer
 > - **Nature** — the mind severed from the heart
 > - **Register** — mercurial · reflective · audience-dependent
-> - **First appeared** — *Good Time (1:08)*, 2023 *(per Roy)*
+> - **First appeared** — *Good Time (1:08)*, 2023 *(per Roy)* - Traces as early as Eye Alaska. 
 > - **Co-credited** — first on *Not Your Homie*, Oct 31 2025; full album billing on *Lucius Lullaby*, March 27 2026
 > - **Mark** — 🍏 the green apple · signs 🗡🍏
 > - **Tattoo** — *El Roi* (throat)
@@ -29,11 +29,14 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## Start here
 
-Sir Lucius is Roy's shadow: the mind severed from the heart. He is not an outside villain but a faculty of Roy's own interior, the protective intelligence that pulled Roy out of the dark and then risked becoming the thing that keeps him there. Inside the mythology he is not a separate person at all. He is *"the mind divorced from the heart,"* and Roy's line to him is simply *"I made you."* The whole drama is a man arguing with himself across a table.
+Sir Lucius is Roy's shadow: the mind severed from the heart. He is not an outside villain but a faculty of Roy's own interior, the protective intelligence that pulled Roy out of the dark and then risked becoming the thing that keeps him there. Characters in the Jagwar Twin Cosmos defy a labels and clean mappings, but fundamentally he is the Jungian shadow. He is *"the mind divorced from the heart,"*. The whole drama is a man arguing with himself across a table.
 
-The one fact to hold: he only ever tells the truth, and that is the problem. He does not lie. He selects, frames, and emphasizes true things until believing them kills the part of you that is most alive. And his first job was protection. The vulnerable thing he guards is the buried [[Brandon|Ballerina Boy]], the shamed child who learned that being visible could be dangerous. The tragedy is that the protection became a second wound: what once kept the boy safe eventually kept him unreachable.
+The one fact to hold: he only ever tells the truth, he does not lie. He selects, frames, and emphasizes true things. Sure, he wakes you up to the spectacle or society, the attention culture; but he replaces it with his own show: "you gotta serve someone." His first job was protection; the vulnerable thing he guards is the buried [[Brandon|Ballerina Boy]], the shamed child who learned that being visible could be dangerous. The tragedy is that the protection became a second wound: what once kept the boy safe eventually becomes a prison. 
 
-So the drama has three voices, not two. **Lucius says *"stay hidden or they'll hurt you,"* [[Mary]] says *"you were born to shine,"* and Roy has to become strong enough to believe Mary without demonizing the part of him that believed Lucius.** That last clause is the whole ethic of the arc, which is why the answer is never simply *destroy the protector.* By 2026 Lucius is no longer a background figure but a co-credited artist with his own streaming pages, and the album named for him asks the load-bearing question: can the protector be revised, or has the protector become the cell?
+So the drama has three voices, not two. **Lucius says *"stay hidden, don't be vulnerable"* [[Mary]] says *"you were born to shine,"* and Roy has to become strong enough to believe Mary and confront the shadow, understanding it and making it serve the heart.** That last clause is the whole ethic of the arc, the answer is never simply *destroy the protector.* You tame the beast, you don't destroy it. 
+
+Consider - 
+Good and evil are names we give to the poles of experience. One cannot exist without the other, any more than cold and heat can exist apart from temperature. The road to heaven begins on the path out of hell. To know either side, we must live in a world where both are possible.
 
 ### At a glance
 
