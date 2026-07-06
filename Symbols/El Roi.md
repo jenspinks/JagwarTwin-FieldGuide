@@ -5,6 +5,7 @@ cssclasses: ["type-symbol"]
 status: published
 confidence: mixed
 source_basis: ["released music", "public interviews", "public posts", "official videos"]
+aliases: ["El Roy", "El Roi / El Roy"]
 ---
 # El Roi
 
