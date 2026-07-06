@@ -7,16 +7,13 @@ confidence: grounded
 ---
 <div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">Welcome to the Circus — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="jagwar-twin/Start+Here/The+Jagwar+Twin+Field+Guide#Start here">Enter the Guide ↓</a></div></div>
 
-> This is an independent, fan-made interpretive guide. It is not affiliated with or endorsed by Jagwar Twin, and is purely nonsense. It uses public material: released songs, lyrics, videos, interviews, and public posts, quotes, emotional robots, and spectrum powered imagination. Even the parts that are real are not real.  Roy never said any of this, except the parts that he did say, but they were nonsense too.
+> An independent, unofficial fan guide to the world inside Jagwar Twin's music. Everything here is interpretation built on public songs, videos, interviews, and posts; the jokes are ours, the songs are his.
 
-## New To the Jagwar Twin Cosmos?
+## Start here
 
-If you're new, read these few pages first. They're the spine everything else hangs from.
+**New here?** Start with **[[So You Found Jagwar Twin]]**. The whole story in five minutes, no homework.
 
-- **[[Sir Lucius]]** — the mind divorced from the heart; the figure the 2026 album is named for.
-- **[[Roy]]** — the heart-centered self Lucius was built to protect.
-- **[[The Loop and the Circle]]** — the single most load-bearing idea in the whole project.
-- **[[Welcome to the Circus]]** — the song that breaks the world open.
+Rather listen first? Play **[[The Circle]]**, then **[[Happy Face]]**.
 
 ---
 
@@ -42,4 +39,6 @@ Two pages collect the paratexts the rest of the guide quotes from — so a claim
 
 ## About this guide
 
-V1 is intentionally small and coherent rather than exhaustive — a strong spine of characters and ideas, with songs and symbols growing outward from it. Pages are added one at a time, finished, not stubbed. See **[[Source and Interpretation Policy]]** and **[[How to Read This Site]]** before going deep.
+A strong spine of characters and ideas, with songs and symbols growing outward from it. See **[[Source and Interpretation Policy]]** and **[[How to Read This Site]]** before going deep.
+
+*For the record: this guide is affectionate nonsense. Roy never said most of this, except the parts he did, and those were nonsense too. Even the real parts are not quite real.*
