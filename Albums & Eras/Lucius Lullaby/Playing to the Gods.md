@@ -115,6 +115,8 @@ That's the false immortality made audible: the phoenix that skips the burning. A
 >
 > The instrumentation makes the counterfeit literal. Choir + cello + piano is *temple* scoring — a gospel-gallery sound on the song about the deified gallery. In alchemical terms it's Lucius offering the **coagula** (the fixing, mortal → immortal) *without the Work* — a false fixing, promised on the far side of no real transformation. This is the one place the vocabulary of the catalogue names *coagula as a counterfeit* rather than the genuine article the descent opens toward. Held as counterfeit-transformation, not alchemy achieved.
 >
+> The full counterfeit-marriage reading, the Twin collapsed into the Clone (the wedding whose issue is copies, not a child), lives on [[City of Angels]] and spans this seam-pair.
+>
 > **Open question (no evidence, left open):** did Roy draw on Joni Mitchell's *Paprika Plains* — the extended phoenix-from-ashes suite — for the die-and-rise shape the "never gonna die" chant forecloses? Nothing ties them beyond the shared image; noted only so the question isn't silently dropped.
 
 > [!note]- Advanced reading — the compressed-transmission triplet (the seam as architecture)

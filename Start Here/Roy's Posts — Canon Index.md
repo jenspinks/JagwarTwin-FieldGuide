@@ -407,6 +407,13 @@ source_basis: ["public posts"]
 - *"Chowing courage over comfort is integrity"* — **2023-04-05**
 - *"Love is everywhere. That's all that needs to be said today"* — **2023-02-10**
 
+## Engagement, public likes (weak tier: liked, not authored)
+
+*Roy's public Instagram **likes** that bear on the mythology, a distinct and weaker class than the authored posts above. A like is a weak signal (engagement, not authorship), and the third-party wording is never Jagwar Twin canon, but these are public and citable as documented interest. Reshares and content from the private "Exclusive" story-highlight are deliberately excluded (use their meaning, do not cite, per source discipline).*
+
+- **liked @iamoliviacarli** (~**2026-06-26**) — post stating *"the Sun corresponds to Tiphareth, the Heart at the center of the Tree of Life"* (the heart as the center from which we live). Corroborates Sun = Tiferet = heart-center. — [[SOL]] · [[Source vs Reflection]]
+- **liked @lorelelove_** (~**2026-06-04**) — a Joseph Campbell piece: *"eternity has nothing to do with a long duration of time… a separate dimension… hidden by the veil of temporal existence… Maya,"* with *"Shiva the world dancer… dancing on a little dwarf whose name is forgetfulness."* The true/false-immortality fork (eternity ≠ duration) and the forgetting axis. — [[The Veil]] · [[Playing to the Gods]] · [[City of Angels]]
+
 ## See also
 
 - [[Public Posts]] — the curated, most load-bearing subset, with live links where they survive.
