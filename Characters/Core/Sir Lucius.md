@@ -26,16 +26,25 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Tattoo** — *El Roi* (throat)
 > - **Symbols** — [[The Green Apple]] · [[The Crow|crow / Corvus]] · cigarettes · *El Roi* · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · trumpet / bugle · dagger
 > - **Counter-pole** — [[Roy]]: heart · sword · dove / Cygnus · *El Roy*
-> - **Possible esoteric lens** — Hod / Mercury (intellect, speech, cleverness, analysis)
+> - **Esoteric lens** — Hod / Mercury (intellect, speech, cleverness, analysis)
 > - **Related** — [[Roy]] · [[Mary]] · [[Sir Rabbit]] · [[BMRC#Leif|Leif]] · [[The Green Apple]] · [[The Light-Bearer]] · [[The Interview]]
 
 ---
 
 ## Start here
 
-Sir Lucius is Roy's shadow: the mind severed from the heart. He is not an outside villain but a faculty of Roy's own interior, the protective intelligence that pulled Roy out of the dark and then risked becoming the thing that keeps him there. Characters in the Jagwar Twin cosmos defy clean labels and mappings, but fundamentally he is the Jungian shadow, *"the mind divorced from the heart."* The whole drama is a man arguing with himself across a table.
+Sir Lucius is Roy's shadow: the mind severed from the heart. He is not an outside villain but a faculty of Roy's own interior, the protective intelligence that pulled Roy out of the dark and then risked becoming the thing that keeps him there. 
 
-The one fact to hold: he only ever tells the truth, he does not lie. He selects, frames, and emphasizes true things. He wakes you up to the spectacle of society, the attention culture, but then he replaces it with his own show: *"you gotta serve someone."* His first job was protection. The vulnerable thing he guards is the buried [[Brandon|Ballerina Boy]], the shamed child who learned that being visible could be dangerous. The tragedy is that the protection became a second wound: what once kept the boy safe eventually becomes a prison.
+Characters in the Jagwar Twin cosmos defy clean labels and mappings, but the simple version is this: Lucius is Roy’s sharp mind when it stops serving the heart and starts running the house. He is the protective intelligence, the fast voice, the survival system, the part that knows exactly where the wound is because it has been guarding it for years.
+
+This is what makes him dangerous. He is not stupid. He is not random chaos. He is not even simply wrong.
+
+He tells the truth.
+
+That is the problem.
+
+The one fact to hold: he does not lie. He is a master of the angle. He selects, frames, and emphasizes true things. 
+He wakes you up to the spectacle of society, the attention culture, but then he replaces it with his own show: *"you gotta serve someone."* His first job was protection. The vulnerable thing he guards is the buried [[Brandon|Ballerina Boy]], the shamed child who learned that being visible and vulnerable could be dangerous. The tragedy is that the protection became a second wound: what once kept the boy safe eventually becomes a prison.
 
 So the drama has three voices, not two. **Lucius says *"stay hidden, don't be vulnerable,"* [[Mary]] says *"you were born to shine,"* and Roy has to become strong enough to believe Mary and confront the shadow, understanding it and making it serve the heart.** That last clause is the whole ethic of the arc: the answer is never simply *destroy the protector.* You tame the beast, you do not destroy it.
 
