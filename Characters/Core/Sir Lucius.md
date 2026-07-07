@@ -10,9 +10,11 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** Sir Lucius is the mind severed from the heart: a protective intelligence that pulled Roy out of the dark, then risked becoming the thing that keeps him there. He only ever tells the truth, but truth can be hard to tell.
 
-![[lucius.jpeg|360]]
+<img src="https://plumcreekranch.com/jagwar/lucius_left.png" alt="hom-lucius-float-card-main">
 
 *The regalia: white face paint, the horned/rabbit headpiece, the red coat, the cigarette, the green apple. A clown, a courtier, a warning label.*
+
+
 
 > [!infobox] Sir Lucius
 >
@@ -33,17 +35,19 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## Start here
 
-Sir Lucius is Roy's shadow: the mind severed from the heart. He is not an outside villain but a faculty of Roy's own interior, the protective intelligence that pulled Roy out of the dark and then risked becoming the thing that keeps him there. 
+Sir Lucius is Roy’s shadow: the mind severed from the heart. He is not an outside villain. He is a part of Roy’s own interior life, the protective intelligence that pulled him out of the dark and then risked becoming the thing that keeps him there.<img src="https://plumcreekranch.com/jagwar/shadow.gif" style="float: right; width: 155px; margin-left: 16px; margin-bottom: 8px;">
+
+That word, *shadow*, matters. In the Jungian sense, the shadow is not simply “the bad part.” It is the rejected part, the buried part, the part of the self that gets pushed out of sight because it feels dangerous, shameful, unacceptable, or too much to carry. Sometimes it is ugly. Sometimes it is powerful. Usually it is both, because apparently being human was not complicated enough already.
 
 Characters in the Jagwar Twin cosmos defy clean labels and mappings, but the simple version is this: Lucius is Roy’s sharp mind when it stops serving the heart and starts running the house. He is the protective intelligence, the fast voice, the survival system, the part that knows exactly where the wound is because it has been guarding it for years.
 
-This is what makes him dangerous. He is not stupid. He is not random chaos. He is not even simply wrong.
+That is also why the project keeps circling duality: light and dark, mask and face, heart and mind, truth and distortion, Roy and Lucius. The point is not “light good, dark bad.” That would be boring, and also wrong. Light needs shadow to be seen. Shadow needs light to be understood. The danger begins when one side declares itself the whole truth.
 
-He tells the truth.
+This is what makes Lucius dangerous. He is not stupid. He is not random chaos. He is not even simply wrong.
 
-That is the problem.
+He tells the truth.  That is the problem.
 
-The one fact to hold: he does not lie. He is a master of the angle. He selects, frames, and emphasizes true things. 
+**The one fact to hold**: he does not lie. He is a master of the angle. He selects, frames, and emphasizes true things. 
 He wakes you up to the spectacle of society, the attention culture, but then he replaces it with his own show: *"you gotta serve someone."* His first job was protection. The vulnerable thing he guards is the buried [[Brandon|Ballerina Boy]], the shamed child who learned that being visible and vulnerable could be dangerous. The tragedy is that the protection became a second wound: what once kept the boy safe eventually becomes a prison.
 
 So the drama has three voices, not two. **Lucius says *"stay hidden, don't be vulnerable,"* [[Mary]] says *"you were born to shine,"* and Roy has to become strong enough to believe Mary and confront the shadow, understanding it and making it serve the heart.** That last clause is the whole ethic of the arc: the answer is never simply *destroy the protector.* You tame the beast, you do not destroy it.
@@ -97,11 +101,11 @@ The core is above. Everything below is optional depth, folded into collapsible s
 >
 > **The dagger.** Roy's own key gives the *sword* to [[Roy]] (discernment, chosen action). So when Lucius signs with a blade it is a *dagger,* the concealed close blade, not the open knightly sword. Menace, or mimicry, the mind reaching into the heart's territory and taking its emblem for a signature. This is held as a question, not a verdict.
 >
-> **The crow / Corvus.** Intelligent, adaptive, watchful, hard to fool.<img src="https://plumcreekranch.com/jagwar/crow.png" style="float: right; width: 75px; margin-left: 16px; margin-bottom: 8px;"> A scavenger, a messenger, a trickster, a bird that knows where the bodies are, comfortable around ruin and failed systems. If the apple is unripe knowledge, the crow is the mind that knows how to use it. It keeps him from being a cartoon devil: he is not "darkness," he is the cleverness that learned to live in dark places.
+> **The crow / Corvus.** Intelligent, adaptive, watchful, hard to fool. <img src="https://plumcreekranch.com/jagwar/crow.png" style="float: right; width: 75px; margin-left: 16px; margin-bottom: 8px;"> A scavenger, a messenger, a trickster, a bird that knows where the bodies are, comfortable around ruin and failed systems. If the apple is unripe knowledge, the crow is the mind that knows how to use it. It keeps him from being a cartoon devil: he is not "darkness," he is the cleverness that learned to live in dark places.
 >
-> **Cigarettes and smoke.** Appetite, glamour, self-destruction, nervous ritual, pose, desecration of the kingdom. <img src="https://plumcreekranch.com/jagwar/luciuscigarette.jpeg" style="float: lefy; width: 55px; margin-right: 16px; margin-bottom: 8px;"> A little performance of harm that gives the body something to do while the mouth talks, and creates an atmosphere while making the room harder to see. Not every cigarette is a clue, but on Lucius it rhymes: burning, haze, damage made elegant. He is always making the wound look desirable
+> **Cigarettes and smoke.** Appetite, glamour, self-destruction, nervous ritual, pose, desecration of the kingdom. <img src="https://plumcreekranch.com/jagwar/luciuscigarette.jpeg" style="float: left; width: 55px; margin-right: 16px; margin-bottom: 8px;"> A little performance of harm that gives the body something to do while the mouth talks, and creates an atmosphere while making the room harder to see. Not every cigarette is a clue, but on Lucius it rhymes: burning, haze, damage made elegant. He is always making the wound look desirable
 >
-> **El Roi on the throat.** Hebrew (אל ראי) for *"the God who sees me,"* from Hagar in Genesis 16, inked on the organ of speech.  <img src="https://plumcreekranch.com/jagwar/luciuscigarette.jpeg" style="float: lefy; width: 105px; margin-right: 16px; margin-bottom: 8px;">A creature of reflection, performance, and distorted recognition wearing *the God who sees me* at the throat, the gate where thought becomes sound. It could be irony, it could be confession, it is probably both.  (The deeper seeing/mirror thread is held below, and on [[El Roi / El Roy]] and [[The Relational Mirror]].)
+> **El Roi on the throat.** Hebrew (אל ראי) for *"the God who sees me,"* from Hagar in Genesis 16, inked on the organ of speech.  <img src="https://plumcreekranch.com/jagwar/ElRoi.png" style="float: left; width: 105px; margin-right: 16px; margin-bottom: 8px;">A creature of reflection, performance, and distorted recognition wearing *the God who sees me* at the throat, the gate where thought becomes sound. It could be irony, it could be confession, it is probably both.  (The deeper seeing/mirror thread is held below, and on [[El Roi / El Roy]] and [[The Relational Mirror]].)
 >
 > **The mask, the trumpet, and the rest.** White face paint (survival hardened into identity), a small painted cross on the cheek, X's under the eyes; the rabbit-eared hat that doubles as horns; symbol of Gemini, knight armor as the protector's shell; the trumpet and bugle (the herald's instrument, below). The literary template sits on Roy's own bookshelf: C. S. Lewis's *The Screwtape Letters,* a senior devil coaching a junior tempter, counsel that is always manipulation. Lucius is that voice given a face, the advisor who is technically never wrong and never on your side.
 
@@ -115,7 +119,8 @@ The core is above. Everything below is optional depth, folded into collapsible s
 > **The co-credit.** By *Not Your Homie* (Oct 2025) he is a credited performer; by *Lucius Lullaby* (2026) he shares the album billing, with his own streaming pages, and takes over the premiere. A shadow that gets an artist page is the whole modern problem in one move: the fractured self does not just haunt the artist privately, it becomes content, gets metadata, and gets pushed through the same systems it claims to critique. The shadow got a profile. Of course he did.
 
 > [!note]- The bargain and the machine
-> **The Interview.** The theatrical [[The Interview|Interview]] series stages the conflict as comedy: Roy and Lucius across a table, arguing over whose music this is, like a custody battle over a discography. *"You mean OUR music?" / "I made it. You were just a tool."* His pitch is simple: *"Without me, you'd still be singing sweet little lullabies that don't stream very well… You naive little god, without me you'll drown."*
+> **The Interview.** The theatrical [[The Interview|Interview]] series stages the conflict as comedy:  <img src="https://plumcreekranch.com/jagwar/ourMusic.gif" style="float: right; width: 250px; margin-left: 16px; margin-bottom: 8px;">
+> Roy and Lucius across a table, arguing over whose music this is, like a custody battle over a discography. *"You mean OUR music?" / "I made it. You were just a tool."* His pitch is simple: *"Without me, you'd still be singing sweet little lullabies that don't stream very well… You naive little god, without me you'll drown."*
 >
 > **The bargain.** Roy brings a tender song, *The Song of Love* (SOL). Lucius shuts it down (*"No one wants this love stuff"*) and works every lever at once: the label verdict, the money, the dependents, the humiliation (*"you're 37, living at your parents' house"*). *"Just give me one, Roy. One hit."* And Roy concedes: *"Fine, I'll give you this one."* That is the catastrophic beat, not because Roy turns evil, but because the heart lets the survival mind take the wheel. Lucius does not win by being false. He wins by being useful.
 >
