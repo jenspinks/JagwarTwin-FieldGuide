@@ -12,9 +12,10 @@ You probably arrived through a song, and maybe you are feeling a bit confused.
 
 Maybe it was [[Happy Face]], the radio curse that smiles while it bleeds in the backseat of a taxi cab. Maybe it was [[Bad Feeling (Oompa Loompa)|Bad Feeling]], the one that sounds like a party until the floor drops out. Maybe it was [[Welcome to the Circus]], because apparently the algorithm has a sense of humor and a red coat.
 
-Good! However you got here, that song was a door.<img src="circle.png" style="float: right; width: 120px; margin-left: 16px; margin-bottom: 8px;">
-![[a7b7506a-a7a7-4767-85ed-8a4af184117f 1.png]]
-Jagwar Twin is the project of Roy English: singer, songwriter, mirror holder, connection-maker, occasional ringmaster of meaningful nonsense. On the surface, these are catchy pop songs with big hooks, creepy smiles, circus lights, and swirling melodies. The canon gets tangled fast. One minute you are listening to a pop song. The next, the Dude, Jesus, Jung, and a Kabbalist are arguing over an Egyptian statue in a bowling-alley parking lot at 3 a.m.![[IMG_4951.jpg]]
+Good! However you got here, that song was a door.<img src="https://plumcreekranch.com/jagwar/lucius_left.png" style="float: right; width: 120px; margin-left: 16px; margin-bottom: 8px;">
+<img src="https://plumcreekranch.com/jagwar/lucius_left.png" style="float: right; width: 120px; margin-left: 16px; margin-bottom: 8px;">
+
+Jagwar Twin is the project of Roy English: singer, songwriter, mirror holder, connection-maker, occasional ringmaster of meaningful nonsense. On the surface, these are catchy pop songs with big hooks, creepy smiles, circus lights, and swirling melodies. The canon gets tangled fast. One minute you are listening to a pop song. The next, the Dude, Jesus, Jung, and a Kabbalist are arguing over an Egyptian statue in a bowling-alley parking lot at 3 a.m.
 
 But underneath, the songs seem to tell one long story.
 
