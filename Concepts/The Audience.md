@@ -35,6 +35,8 @@ And the project is wry about which side of the ledger it is staging. When [[Sir 
 
 **The same crowd shows up wearing three masks**, and the page keeps them straight. As *worship* it is the deified crowd of [[Playing to the Gods]]. As *gaze* it is the surveillance crowd of [[The Watchers]] (*"I always feel like somebody's watching me"*). As *harvest* it is the cull of [[Moths to the Flame]]. Communion, harvest, gaze — three faces of one collective, and the difference between them is never *who* the people are. It is the **mode**: how they are sung, and what is done with the singing.
 
+> 🚪 *Two rooms, two crowds, both singing along, and from across the street you can't tell them apart. A thousand voices hitting the same note is not the same as a thousand people singing together, and learning to tell the difference is the whole game of [[Communion vs Spectacle]].*
+
 ## Where it appears
 
 The transaction is named most plainly in [[Welcome to the Circus]] (single Jan 16 2026; track 4 of [[Lucius Lullaby (album)|Lucius Lullaby]]), voiced by the Ringmaster: *"take your seat, scream and shout"* · *"they love it when you lose control"* · *"I'll chew you up, spit you out"* · *"did you like the show?"* The audience is seated, channeled into expressive release, and absorbed as engagement — and the chewing-up is sold back to them as the show.

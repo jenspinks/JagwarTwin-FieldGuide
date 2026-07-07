@@ -21,6 +21,10 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 The song Roy had to fight his own label to release — and the fight became half the meaning. The other half is a piece of wordplay that eats itself: *Dumble-Dumble-Dumbledore* decays into *dumb, dumb, dumb… go dumb,* a wisdom-name flattened into a chant. It's the funniest premise in the catalogue and one of the most serious, and it refuses to pick.
 
+> 🚪 *The fight was real: a label held this song hostage for months while Roy narrated the standoff to his Discord in full wizard-speak, house-elf and all. The blow-by-blow, right down to "Master gave dumbledore a sock," lives in [[Gatekeeper Saga]].*
+
+> 🚪 *One wizard name on the whole record, and yet the catalogue is full of mirrors, shadows, and alchemy that would look right at home at Hogwarts. Coincidence, or [[Jagwar Twin and Harry Potter|two writers reading from the same very old library]]?*
+
 ## At a glance
 
 - **Era / release** — *MAGIK*-adjacent era; February 28, 2025, on Big Loud, in two simultaneous versions (standard + *DARK ARTS*). Whether it's a standalone single or a six-track EP is genuinely unsettled — flagged below.

@@ -694,3 +694,169 @@ body.theme-dark, body.theme-light, .published-container {
 .published-container .site-body-center-column .callout[data-callout="quote"] > .callout-title .callout-icon,
 .published-container .site-body-center-column .callout[data-callout="quote"] > .callout-title .callout-fold{ color:#b6ab93 !important; }
 
+
+/* ============================================================= *
+ * PHASE 4 - THE SIMPLE SIDEBAR (site simplification 2026-07-07) *
+ * Story-ordered nav, 7 rows at rest:                            *
+ *   I Start Here · II Albums & Eras · III Characters ·          *
+ *   IV Symbols · V Concepts · VI Hall of Mirrors ·              *
+ *   VII The Deep End                                            *
+ * ~62 pages leave the SIDEBAR ONLY: all stay published, search- *
+ * able, and reachable via hubs + inline door teasers (two-door  *
+ * audit passed 2026-07-07). Delete any single hide line to      *
+ * resurface its page. Degrades safe: if Publish ever drops      *
+ * :has(), order reverts to alphabetical; nothing else breaks.   *
+ * ============================================================= */
+
+/* 1) STORY ORDER - flex the root list. Negative order = pinned
+      sequence; anything new published later (order:0) lands after
+      The Deep End instead of scrambling the bill. */
+.published-container .site-body-left-column .nav-view > .tree-item-children{
+  display:flex; flex-direction:column;
+}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path="Start Here"]){order:-70;}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path="Albums & Eras"]){order:-60;}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path="Characters"]){order:-50;}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path="Symbols"]){order:-40;}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path="Concepts"]){order:-30;}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path="Hall of Mirrors"]){order:-20;}
+.published-container .site-body-left-column .nav-view > .tree-item-children
+  > .tree-item:has(> .tree-item-self[data-path^="The Deep End"]){order:-10;}
+
+/* 2) ACT NUMERALS, PINNED - CSS counters follow DOM order, not flex
+      order, so after the reorder the auto-roman chips would lie.
+      Same selector shape as the counter rule (line ~494), later in
+      source, so these win. */
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path="Start Here"] > .tree-item-inner::before{content:"I";}
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path="Albums & Eras"] > .tree-item-inner::before{content:"II";}
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path="Characters"] > .tree-item-inner::before{content:"III";}
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path="Symbols"] > .tree-item-inner::before{content:"IV";}
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path="Concepts"] > .tree-item-inner::before{content:"V";}
+.published-container .site-body-left-column .tree-item.mod-collapsible
+  > .tree-item-self[data-path="Hall of Mirrors"] > .tree-item-inner::before{content:"VI";}
+
+/* 3) THE DEEP END - a root FILE (not .mod-collapsible), so the base
+      chip/bold rules skip it; give the basement door its own ticket
+      stub (teal, act VII) and the uniform label treatment. */
+.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]
+  > .tree-item-inner::before{
+  content:"VII"; display:inline-flex; align-items:center; justify-content:center;
+  min-width:2.1em; height:1.45em; margin-right:.55em; padding:0 .3em;
+  font-family:"Rye","Fraunces",serif; font-size:.62em; line-height:1;
+  letter-spacing:.02em; vertical-align:.12em;
+  color:var(--act-conc-br);
+  border:1px solid color-mix(in srgb, var(--act-conc-br) 55%, transparent);
+  border-radius:2px 5px 5px 2px;
+  background:color-mix(in srgb, var(--act-conc-br) 13%, transparent);
+}
+.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]
+  > .tree-item-inner{ font-weight:700; }
+.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]:not(.mod-active):not(.is-active)
+  > .tree-item-inner{ color:var(--text-muted) !important; }
+
+/* 4) THE SHELVES - hidden from the sidebar, alive everywhere else.
+      Prefix match mirrors the proven Roy's-Posts / Inside-of-the-
+      Inside rules; a folder prefix hides the folder row AND its
+      children in one line. */
+/* wings (whole folders) */
+.site-body-left-column .tree-item-self[data-path^="Influences"]{ display:none !important; }
+.site-body-left-column .tree-item-self[data-path^="Reading Paths"]{ display:none !important; }
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Sacred Truths"]{ display:none !important; }
+/* stray root file */
+.site-body-left-column .tree-item-self[data-path^="Untitled"]{ display:none !important; }
+/* Concepts: the shelf keeps 9 rows (hub + Heart and Mind, Duality,
+   The Loop and the Circle, The Circus, Source vs Reflection,
+   The Pattern, The Jaguar, Machine vs Human) */
+.site-body-left-column .tree-item-self[data-path^="Concepts/Communion vs Spectacle"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Consumption"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Flattened Identity"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Gatekeeper Saga"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Inherited Substrate"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Inversion"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Jacob and Esau"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Jagwar Twin and Harry Potter"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Keilim - The Breaking of the Vessels"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Music as Pattern and Identity"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Nigredo"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Pronoun Audit (I-You)"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Algorithm"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Angels and the Angles"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Aquarium"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Audience"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Digital Double"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Divide"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Dweller on the Threshold"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Empty Mirror"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Flip and the Distorting Mirror"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The House and the Vessel"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The I'm 33 Board"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Labors of Hercules"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Labyrinth"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Light-Bearer"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Manifesto Cards"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Mouth"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Protector"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Realm"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Relational Mirror"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Speaker Problem"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Upload"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Veil"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Visual Canon Throughline"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Voice"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/Witnessing vs Surveillance"]{ display:none !important; }
+/* Symbols: the shelf keeps 9 rows (hub + the basic-map kit: Green
+   Apple, Crow, Dove, Sword, Rose, El Roi, plus Mirror and Mask) */
+.site-body-left-column .tree-item-self[data-path^="Symbols/Fire"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/Roy's Tattoos"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Banana"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Fool"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Moon"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Prop Room"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Rabbit"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Thread"],
+.site-body-left-column .tree-item-self[data-path^="Symbols/The Wheel"]{ display:none !important; }
+
+/* ============================================================= *
+ * ONE-COLOR MENU (Roy relay via Jen, 2026-07-07)                *
+ * "Keep the menu items one color; colors have meaning."         *
+ * Completes the approved palette spec early (plan section 8):   *
+ * labels one true off-white, numeral chips all gold, active     *
+ * glow all carmine. Overrides the per-act tints above by later  *
+ * source order; delete this block to restore the act colors.    *
+ * ============================================================= */
+
+/* labels: one uniform off-white (bold stays from the uniform rule) */
+.published-container .site-body-left-column .tree-item-self.mod-collapsible[data-path]:not(.mod-active):not(.is-active) > .tree-item-inner,
+.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]:not(.mod-active):not(.is-active) > .tree-item-inner{
+  color:#ece4d0 !important;
+}
+
+/* chips: every ticket stub the same gold (numeral, border, and fill
+   all derive from --chip via the base chip rule) */
+.published-container .site-body-left-column .tree-item-self[data-path] > .tree-item-inner::before{
+  --chip:#ecc861 !important;
+}
+/* the Deep End's VII stub sets its colors directly, not via --chip */
+.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"] > .tree-item-inner::before{
+  color:#ecc861;
+  border-color:color-mix(in srgb, #ecc861 55%, transparent);
+  background:color-mix(in srgb, #ecc861 13%, transparent);
+}
+
+/* active page: one carmine glow everywhere (neutralizes the act-tinted
+   overrides; same locked inset-fill technique) */
+.published-container .site-body-left-column .tree-item-self.mod-active[data-path],
+.published-container .site-body-left-column .tree-item-self.is-active[data-path]{
+  box-shadow:inset 0 0 0 100px rgba(139,30,45,.28), inset 3px 0 0 0 #c23a48 !important;
+}

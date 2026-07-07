@@ -37,6 +37,8 @@ So Lucius doesn't *have* a protective side among others. **He IS the Protector, 
 
 Here's the cruel knot at the center: **a protector formed around trauma craves healing and sabotages it in the same breath, because healing dissolves its job.** If Roy becomes whole, Lucius no longer rules the system. So the thing built to protect the wounded child has a stake in keeping the wound open — which is exactly why, in the lore, Lucius *mocks* the buried child by name. And note *how* he does it: he doesn't argue the point, he **pirouettes** — miming a ballet dancer to land *"Ballerina Boy. When you're vulnerable you LOSE!"* The jester turns the most exposed nerve in the catalogue into a physical-comedy bit, because for the Protector mockery isn't a side effect of the defense — mockery *is* the defense. The longing to be known while enforcing *you don't know me* is the whole drama. The armor wants to be saved from being armor, and fights anyone who tries.
 
+> 🚪 *There is an old name for the guard you build out of everything you refused to face, the one posted at the door of your own deep self. Whether Lucius is blocking that door or about to walk Roy through it is the question waiting behind [[The Dweller on the Threshold]].*
+
 ## Where it appears
 
 The clearest way to watch the Protector work is to watch it run before it has a name. *Subject to Flooding* (2018) is its operating manual.

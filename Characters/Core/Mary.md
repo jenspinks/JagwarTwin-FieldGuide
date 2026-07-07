@@ -59,6 +59,8 @@ The visualizer makes the same confession even more nakedly. Roy's public reel fo
 
 So Mary's facelessness isn't coyness. It's the whole point. She is the presence that cannot be turned into a surface — and the failure to see her is a failure of the seer, not of her strength.
 
+> 🚪 *There is one old map where a halo with no head under it is exactly what belongs at the top: a crown you can reach but not keep. The songs seem to keep drawing that map without ever naming it, and it looks like there is a seat on it for Mary too: [[Kabbalah - The Tree of Life]].*
+
 ## She cannot be surveilled
 
 Here's where it gets sharp. The spectacle-self comes to Mary the only way it knows how: looking for a surface that returns his own reflection — recognition, conquest, a face to flatter or to win. And she returns **nothing**. No face to charm. No reflection to claim. She *sees* and is not seen-and-flattered.

@@ -26,6 +26,9 @@ If you learn a single doctrine before going deep in this world, learn this one. 
 
 - **"My mind must serve my heart."** The load-bearing sentence — repeated in interviews and posts, embedded in the LOOP-era lore (*"My mind must serve my heart, Roy repeated… as he stepped through the gate"*).
 - **"The mind is the slayer of the real. We must slay the slayer."** Posted March 2026 — near-verbatim Blavatsky (*The Voice of the Silence*), and the doctrine's sharp edge. The discipline stays integrative, though: you don't kill the mind, you ask it to serve.
+
+> 🚪 *That sentence comes from a slim Victorian book of aphorisms, written by a woman who taught that the whole universe breathes. Roy seems to have taken more than the one line from her: follow the breath into [[Theosophy]].*
+
 - **"In so many different mythologies the intellect, or the rational mind, is equated with the Lucifer archetype — the most beautiful angel with the most potential to fall."** Roy's own gloss on why the antagonist is the *mind enthroned*, not the mind as such. The mind is high, necessary, and dangerous precisely because of its height.
 - **The third voice.** In his Labors livestream Roy sketches the full architecture: *"there's a third voice… the synthesis between the instinct and the intellect… the intuition… super consciousness"* — instinct below, intellect above it, and intuition as the synthesis that outranks both. The dyad resolves upward, not by one pole beating the other.
 

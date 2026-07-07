@@ -24,6 +24,8 @@ The name [[Jagwar Twin]] is built on an image, and [[Roy]] — Brandon Roy Wrons
 
 That's the rare bit of artist-name lore that turns out to be the master key rather than the trivia answer. Most musicians' origin stories are a shrug — a misheard lyric, a band-name generator. Roy's is a small theory of consciousness with a cat in it.
 
+> 🚪 *The jaguar is not the only big cat in this story: Roy has shown off a hand-underlined Alice Bailey book where a hero has to face a lion, and the lion reads as his own ego. He never gets to kill it, only tame it, and that whole strange trial is waiting in [[The Labors of Hercules]].*
+
 ## At a glance
 
 - **Role** — the project's emblem of seeing; the field, not a character.

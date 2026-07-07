@@ -53,6 +53,8 @@ What the device *does* across the work is more interesting than the kit. Read in
 - **Change the concept of self.** The *Down to You* manifesto — *"to change the world one must first change the concept of one's self"* — is the mirror doctrine of [[Source vs Reflection]] in plain language.
 - **Burn it down, then rebirth.** *Happy Face*'s *"burning the old world down… out of the fire something new is being birthed. This is the death of my generation"* is the alchemical blackening (see [[Nigredo]]), later *staged* as the fire-close of the *Bad Feeling* video.
 
+> 🚪 *The fine print knew the story years before the songs did. Line the videos up, 2019 to 2026, and the eras seem to dissolve into [[The Visual Canon Throughline|one long work, slowly taking its disguise off]].*
+
 The cards also connect the work *outward* into its alternate-reality games. The same *"are you content?"* device that runs across the cards also ran on a 2020 Jagwar Twin microsite and, later, surfaced as a working code inside the [[The Hall of Mirrors|Hall of Mirrors]] ARG — the gag had a back-end (see *Advanced reading — the are-you-content easter egg*, below).
 
 ## "Are you content?"

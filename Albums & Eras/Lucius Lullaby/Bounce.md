@@ -42,6 +42,8 @@ Bounce runs six labeled sections, and the shape *is* the argument: each time a r
 
 Read top to bottom, the protections strip away in sequence: panic surfaces → identity becomes mythology → the roof comes off → the body keeps moving. The trajectory isn't toward freedom. It's toward **exposure.**
 
+> 🚪 *Notice which part goes: not the walls, not the door, just the roof. Roy builds an awful lot of houses, arks, cages, and eggs, and there seem to be only four things a container can do: hold, open, shatter, or hatch. So [[The House and the Vessel|which one is this]]?*
+
 ## What it means
 
 **The real command is *don't stop*.** Everything in the song points at continuous motion, and the opposite of Bounce isn't sitting still — it's *reflection*. The track behaves as if stopping would be dangerous, which is the surest sign that stopping is exactly where the truth is. Movement here is the technology for staying asleep: the catalogue's "wake up" axis run in reverse. (The pronoun math backs the read — Bounce sits firmly in the album's *"I"*-engine of self-assertion and performance, where [[33|33]] ran an other-directed *"you."*)

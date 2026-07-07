@@ -19,6 +19,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 Here is one of the catalogue's quiet miracles: a song about being too strange to belong that turns out to be co-written with **Sia** — one of the biggest names in pop — and born, per Roy, from a real thing Sia actually said to him when he was low. The line that opens the whole album's one bright track came in as a gift from a friend. It is exactly the sort of receipt that makes the myth feel less like a costume and more like a diary.
 
+> 🚪 *One bright song on a whole dark album reads less like an accident and more like a recipe: the old alchemists said you go black before you go gold. The rest of the record seems to be [[Nigredo|the blackening]], and the open question is whether the Circus ever lets it turn.*
+
 ## At a glance
 
 - **Era / release** — *Lucius Lullaby*, March 27 2026; the rollout's own visual precursor is *[[The Interview|The Spoon EP 4]]* (Feb 17 2026), whose closing lines *are* this song's intro.

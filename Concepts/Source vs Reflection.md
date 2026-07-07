@@ -76,6 +76,8 @@ The frame isn't only in the imagery. It's in the word count. Tally every sung ly
 
 So the catalogue is, grammatically, an **I-facing-you machine**. For a project built on the mirror, that's the master frame hiding in the arithmetic: the mirror isn't just an image *in* the songs, it's the *grammar* of them. I-facing-you **is** the source-and-reflection axis enacted at the level of pronouns — and it's the closest thing to grounded footing under a frame that otherwise lives in interpretation.
 
+> 🚪 *We counted every I and every you on both records, expecting the ego to get louder. It barely budged; it's the you that quietly leaves the room, and you can check the [[Pronoun Audit (I-You)|whole count]] with a highlighter.*
+
 ### Why it's the master key
 
 The catalogue's named oppositions all turn out to be special cases of this one — *source vs reflection* in era-specific clothes.

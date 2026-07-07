@@ -54,6 +54,8 @@ A few claims that cut across the whole song.
 
 **The pronoun turn is the whole move.** The verses are witness — *"I met a Man," "I met a girl"* — and then the chorus wheels around to *"do you know who you are?"* The question goes outward and inward in the same breath, which means Roy isn't the ferryman standing above the river naming the drowned. He's **among the buried** — one of the seeds, not the boatman. (There's a human floor under that: a typed note in Roy's own hand about a song he was *"really proud of… before being dropped by my record label,"* recognized as special *from the inside* even without outside validation. Handle that warmly; it's the wound the cleverness orbits.)
 
+> 🚪 *One minute he's the witness, the next the question lands in your seat: so who exactly is singing this line, and to whom? The whole catalogue seems built to keep that one open, which is why it gets its own room: [[The Speaker Problem]].*
+
 **The Star is relocated, on purpose.** Two tracks earlier, [[Pay Attention (feat. little luna)]] sells the fame-gospel — *stars are born from light,* the *A Star Is Born* machine, in the tempter's mouth. Here the correction arrives: *your **soul** is a star.* The star is moved off the marquee and back inside the person. That relocation is the same move the whole catalogue keeps making — the external star fails or betrays (*"stars out of place," "looked down at my stars," "stars conspired"*) and the true star turns out to be interior.
 
 **The Joni thread is real, and it is load-bearing.** This is the part with a paper trail — and it's rich enough to have its own concept page, [[Joni and the Prophet Lineage]]. The short version below; the welding, the industry lexicon, and the enacted-repair reading are in the Advanced sections.

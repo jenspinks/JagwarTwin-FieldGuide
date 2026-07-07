@@ -78,6 +78,10 @@ It all resolves to one line he keeps returning to, the project's single discipli
 
 Whether he actually gets there is the open question of the entire mythology.
 
+> 🚪 *There is a reason "my mind must serve my heart" sounds less like a mood and more like a diagram: the songs keep sketching one sun with a row of mirrors hung below it, and Roy, Lucius, and Mary each seem to have a seat on it. If you want to see the map the whole argument is standing on, it reads as [[Kabbalah - The Tree of Life|an old tree with a sun at its heart]].*
+
+> 🚪 *A much older book already ran this exact experiment: two twins, one blessing, a costume con, a midnight wrestling match, and an ending where nobody wins because the brothers hug instead. It reads like the whole Roy and Lucius arc sketched thousands of years early, in [[Jacob and Esau]].*
+
 ## The mind as the beautiful danger
 
 Here is the keystone, and it's grounded in Roy's own voice. He's explicit that [[Sir Lucius]] isn't an outside villain but a faculty of his own — the rational mind — and he frames it in flatly theological terms:

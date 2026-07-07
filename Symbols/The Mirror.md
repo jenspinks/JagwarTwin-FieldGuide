@@ -115,6 +115,8 @@ Three operations are worth naming, because the same mirror behaves differently i
 
 **The speaker problem — the mirror at the level of grammar.** The *"you"* in a Jagwar Twin lyric never quite resolves, and that's not sloppiness — it's the doctrine made structural. If *"we're all really mirrors to each other,"* then the second person is always also the first; the pronoun that won't sit still *is* the mirror. There's even a number under it: across the sung catalogue, the single most-used word is **"I"** (492), narrowly beating *"the"* (485), with **"you"** (478) right behind. The catalogue is, grammatically, an *I-you machine* — a song you see yourself in, not a self-portrait you watch.
 
+> 🚪 *Behind that "I" stand five stacked selves sharing one microphone, and the "you" may very well be you. [[The Speaker Problem]] chases both pronouns down and finds that neither will hold still, most likely on purpose.*
+
 > [!note]- Advanced reading — inversion ≠ negation, and the two emptinesses
 > **Inversion, not negation.** Lucius doesn't break the form; he keeps it intact and reverses its *direction* — same liturgy, same circle, same prayer, same word, *pointed backward.* That's why he can look exactly like Roy: the architecture is identical; only the vector is flipped. The mirror turned from revelation to distortion. (Grounded anchors: *Rorrim Ehtni* and ROSE ESOR.) The catalogue literalizes the operation for a laugh in [[Great Time to Be Human]]: *"She went to The Chemist to make her a dog / but he was dyslexic, so he made a god… (Woof!)"* — mirror/reversal grammar producing counterfeit divinity by typo, and the *"(Woof!)"* refuses the full deification: the dog still trapped inside the god.
 >
