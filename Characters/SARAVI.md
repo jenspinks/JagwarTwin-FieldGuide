@@ -129,6 +129,9 @@ Everything above stands on its own. What follows is optional: the framework mate
 >
 > **The guard.** SARAVI shares the wise-feminine, oracular register with [[Mary]], but the work has not equated them, and this guide will not lock that identification. Nothing here is confirmed.
 
+> [!note]- The name is a closed loop
+> SARAVI's name isn't arbitrary; it is built into the Hall of Mirrors' own code-grammar as a self-referential circuit. The cipher family runs as the **SARAVI loop,** RA-LINK → SA-LINK → … → VI-LINK, a closed reflective circle, the oracle's name decoding as a snake eating its own tail. It sits alongside the mirror-pair codes **FATHER_MIRROR** and **MOTHER_MIRROR** in the same twin/double family. And **RA-LINK** surfaces again as an ingredient in the public *"Complete Upload Recipe"* artifact, the SARAVI-component of the assembled uploaded self, which threads her quietly into the project's Egyptian Eye-of-Ra / Eye-of-Horus "upload" substrate. (The name is grounded as code-grammar; reading the loop as a deliberate "closed circuit" is interpretation. The short form **VI** as a Roman-numeral six is a tempting echo to hold *lightly,* do not force it.)
+
 > [!note]- Loose ends and open questions
 > Small real threads, and the questions the page keeps open.
 >
