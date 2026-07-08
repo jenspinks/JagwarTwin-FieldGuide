@@ -86,7 +86,7 @@ A handful of claims that cut across all seven sections.
 - **[[Roy]]** — not the voice of the song, but its true counter-pole: the one who *made the concession.* The whole dialectic the track dramatizes — sincerity vs performance, integration vs manipulation — happens between Lucius's swagger here and Roy's *"fine, I'll give you this one"* off-stage.
 - **[[Mary]]** — not in the song, but her shadow falls across it: the crown Lucius resells here is the one she **revokes** in *[[No. 1 Champion (la Conquistadora)]]*. The divine-feminine counter-frequency his system can't absorb. (Distinct from MERCY — see the source notes.)
 - **Ballerina Boy** *(→ [[Ballerina Boy]])* — the buried, vulnerable child Lucius mocks in the surrounding lore (*"when you're vulnerable you LOSE!"* — EP3, [[The Interview]]) as proof of his thesis. The un-flattened self that *Not Your Homie*'s brand-mask is built to cover. (See [[Flattened Identity]].)
-- **The enforcer & the Boss** — offstage but load-bearing to the world: Lucius's incompetent bodyguard **Leif** (*"Boss, I got this"*) is part of the "child performing sovereignty" evidence, and the unseen **Boss / BMRC** he reports to keeps one question open — is Lucius's power his own, or *assigned?* (Both live in *[[The Interview]]*.)
+- **The enforcer, Leif** — offstage but load-bearing to the world: Lucius's incompetent bodyguard (*"Boss, I got this"*) calls *Lucius* Boss, which is part of the "child performing sovereignty" evidence. Lucius answers to no one he will admit. The question the era keeps open is whether his power is his own or unwitting *assignment* to the pattern he claims to have beaten. (Lives in *[[The Interview]]*.)
 
 ## Symbols
 

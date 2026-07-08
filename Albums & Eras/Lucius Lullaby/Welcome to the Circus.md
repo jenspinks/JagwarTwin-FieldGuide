@@ -73,7 +73,7 @@ It also sharpens the album's biggest open question. Is Lucius *protecting* Roy, 
 
 - [[Sir Lucius]] — the speaking voice, in his cold, prophetic ruler mode; the ringmaster and self-declared final boss. This is his ringmaster address, delivered from *inside* the tent.
 - [[Roy]] — the body that provides the voice; the reluctant performer Lucius overrode in EP 3. Credited here as the human "Roy English" (not the ROY *character* used elsewhere on the album), which is itself a quiet tell about who's really running this track.
-- **The Boss** — the unseen authority Lucius reports to across the visual lore (*"Boss, I got this, my lullaby is everywhere"* — EP 6, [[The Interview]]). Identity is an open question — BMRC? the algorithm? capital? the crowd itself? — held open on purpose.
+- **"Boss"** — the title Leif gives *Lucius* in the visual lore (*"Boss, I got this"* — EP 6, [[The Interview]]); Lucius answers with a boast, *"my lullaby is everywhere,"* not a report to any superior. He crowns himself the final boss and acknowledges no one above him. The larger irony the album holds open: whether he is nonetheless serving the pattern he thinks he beat, the true higher power being the champion he denies ([[Mary]], [[Roy]]).
 - **The Crowd** — simultaneously co-creators and marks, then flattened into passive seat-holders by *"take your seat, scream and shout."* They're the Circus's fuel *and* its product; their voice is scripted as **noise**, never song. (Contrast the [[The Circle|Circle]], where distinct voices return a shared song. The Circus wants undifferentiated noise.)
 - [[Mary]] and [[Ballerina Boy]] — **absent**, and the absence is load-bearing (see below).
 

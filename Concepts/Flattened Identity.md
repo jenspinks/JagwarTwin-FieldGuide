@@ -94,7 +94,7 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 - **[[Machine vs Human]]** — flattening is the machine pole's effect on the self.
 - **[[The Aquarium]]** — the totalized closed system the flattened self is watched inside.
 - **[[The Protector]]** — the survival-armor (Loser / Good Day / No Fake Friends) Lucius is built from.
-- **Characters** — [[Roy]] (the heart the Algorithm processes; the un-flattenable *"no thing"* self) · [[Sir Rabbit]] (the searching identity-vacancy the wound leaves) · [[Mary]] (true witnessing, the anti-flattening gaze — *"born to shine, face out of sight"*) · [[Brandon|Ballerina Boy]] (the un-flattened child still underneath) · the unnamed *Boss* / label Lucius answers to (faint, speculative — the corporate authority above the performer, if there is one; held loosely).
+- **Characters** — [[Roy]] (the heart the Algorithm processes; the un-flattenable *"no thing"* self) · [[Sir Rabbit]] (the searching identity-vacancy the wound leaves) · [[Mary]] (true witnessing, the anti-flattening gaze — *"born to shine, face out of sight"*) · [[Brandon|Ballerina Boy]] (the un-flattened child still underneath) · the *champion* Lucius denies ([[Mary]] or [[Roy]], the true higher power he refuses to acknowledge; he crowns himself the final boss and answers to no one).
 
 ## Advanced reading
 

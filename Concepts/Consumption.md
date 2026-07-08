@@ -82,7 +82,7 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 - [[Witnessing vs Surveillance]] — being *seen* (without being taken) versus being *consumed*; [[Mary]] and the El Roi witness see without eating.
 - [[Down to You]] — the built-in rebuttal: *"one cannot live on bread alone"* refuses the cake.
 - [[The Banana]] — Lucius's prop; the sterile clone (real light in a sterile vessel) and the hijacked offering.
-- [[BMRC]] / [[BMRC|The Boss]] — the industry-Babylon that may be upstream of the eating (see the open question below).
+- [[BMRC]] — Lucius's own industry-Babylon; the eating may run *through* him to the pattern he serves (see the open question below).
 
 > [!note]- Advanced reading — consumed-and-discarded versus consumed-and-transformed (the central device)
 > This is the interpretive spine of the page, and it works as a *framework comparison* — something the songs invite, not something they assert. The biblical tradition is full of being *swallowed*: **Jonah** (Jonah 1–2), taken down into the dark for three days and returned *changed*; the **Eucharist** — *"this is my body, broken for you"* (Luke 22:19) — a consumption that is voluntary and nourishing. Those are descent-and-return structures: you go in, and you come back transformed. The Circus uses the same verbs and reverses the outcome. *"I'll chew you up, spit you out"* is the **anti-Eucharist**: the Christ-speech *form* (this is my body) loaded with predatory *content* (chew / spit). Predatory consumption, ejection without nourishment, the body broken *for nothing.*
@@ -127,7 +127,7 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 - **What's still open.** The [[Bounce]] line *"you just love me for my lore"* is a strong read on a word pending audio verification. And see the open question below on *who is actually doing the eating.*
 
 > [!note]- Advanced reading — open questions
-> - **Who is the actual consumer?** The song pins the eating on Lucius-as-ringmaster, but behind Lucius is a Boss, and behind the Boss may be the industry, capital, or the Algorithm itself ([[BMRC]] is the candidate production-house-and-weapons-brand — but its decode is unconfirmed). The consumption may be further upstream than it looks.
+> - **Who is the actual consumer?** The song pins the eating on Lucius-as-ringmaster, and he believes he is the top of the chain (the self-crowned *"final boss,"* answering to no one). But he is not: the appetite may run *through* him to the industry, capital, or the Algorithm itself, the pattern he serves without admitting it. ([[BMRC]] is his own corporate signature, now decoded from site metadata as the *Black Magic Rainbow Circus*.) The consumption may be further upstream than it looks.
 > - **Is being chewed up the *start* of something?** Is there a transformation-through-consumption reading the *Welcome to the Circus* timeframe simply hasn't reached yet — is this the Jonah-moment *before* the prayer in the belly?
 > - **Diagnosis without exit?** Juvenal diagnosed *panem et circenses* but prescribed nothing. Is the project the same — naming the Circus without naming a way out — or is there a way to *bear witness within* it rather than escape or be eaten? ([[Down to You]]'s *"bread alone"* is the cleanest candidate for a built-in answer.)
 > - **Audience: failure or feature?** Is the crowd's love of watching you lose control a *moral failure* of the audience, or a *designed feature* of a system the audience can't be blamed for?
