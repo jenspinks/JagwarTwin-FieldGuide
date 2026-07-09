@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — a map of how a single divine light pours down through ten stages into the world; in the songs, the structural skeleton under who reflects, who shines, and who breaks.
 - **Where it shows up** — [[Another Way II Heaven]] (Roy's "One become Two" creation poem) · [[Bounce]] (the title card quotes the *Sefer Yetzirah*) · [[No. 1 Champion (la Conquistadora)]] (the pillar-vs-pillar takedown).
-- **Connected ideas** — [[Source vs Reflection]] · [[Keilim - The Breaking of the Vessels]] · [[The Light-Bearer]] · [[The Angels and the Angles]] · [[SOL]].
+- **Connected ideas** — [[Source vs Reflection]] · [[Keilim - The Breaking of the Vessels]] · [[The Light-Bearer]] · [[Letters of Creation|The Angels and the Angles]] · [[SOL]].
 - **Confidence** — Roy's documented engagement is grounded; the specific placements (who sits where on the Tree) are a framework lens the songs fit, not doctrine the artist has stated.
 
 ## What it is
@@ -77,7 +77,7 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 - [[Keilim - The Breaking of the Vessels]] — the *fracture* of this structure (shevirah / tikkun); the doctrine's other half.
 - [[The Light-Bearer]] — Lucius's Hod/Mercury intellect and the Yesod image-realm he works through (a demoted morning-star/Venus resonance held apart from Roy's Venus); the Hermetic stream of the split.
 - [[Inversion]] — Lucifer as the *inverted* angel; the inverted golden Tree Roy draws on the board; the *"Fear functions like Prayer in Reverse"* tattoo on his clavicle. The Tree flipped is the shadow's whole grammar.
-- [[The Angels and the Angles]] — the *other* axis of Kabbalah: the letter-mysticism (22 letters + 10 sefirot = 32 paths).
+- [[Letters of Creation|The Angels and the Angles]] — the *other* axis of Kabbalah: the letter-mysticism (22 letters + 10 sefirot = 32 paths).
 - [[Sir Lucius]] — Hod/Mercury (intellect) + Geburah, Yesod operating theater (a demoted morning-star resonance); the Devil card; the *El Roi* throat tattoo.
 - [[Roy]] — the moon's position (Malkhut + Yesod); the Middle Pillar; *"reclaim your crown"*; *"I am still I."*
 - [[Mary]] — the Shekhinah ascending toward Binah's throne; *"saw a halo but I didn't see a head."*
@@ -140,9 +140,9 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 > [!note]- Advanced reading — the two axes of Kabbalah (keep them separate)
 > *Sefer Yetzirah* unites *"22 foundation letters + 10 sefirot = 32 paths of wisdom."* That's two systems sharing one text, and they should not be merged:
 > 1. **The emanation structure** — sefirot and pillars. *This* page.
-> 2. **The letter-mysticism** — [[The Angels and the Angles]]: consonants as the *angles* (the body / structure), vowels as the *angels* (breath / *Ruach* / spirit), with Abulafia's permutation-with-vowel-tones as *"a ladder for the mind to climb."*
+> 2. **The letter-mysticism** — [[Letters of Creation|The Angels and the Angles]]: consonants as the *angles* (the body / structure), vowels as the *angels* (breath / *Ruach* / spirit), with Abulafia's permutation-with-vowel-tones as *"a ladder for the mind to climb."*
 >
-> The lineage behind axis 2, as public scholarship — the documented tradition *under* the method, not the compositional method itself (which Roy has stated as his own; see [[The Angels and the Angles]]): *Sefer Yetzirah* (22 letters split into 3 mothers / 7 doubles / 12 simples; the Beth passage that forms the Moon); Abraham Abulafia's ecstatic *tzeruf*; the doctrine that vowels = spirit and consonants = body (Zohar Bereshit 15b, *"the letters are the body and the vowel-points the soul"*; Ezra ben Solomon of Gerona; Gikatilla's *Sefer HaNikud*); letters as angels via the Shem HaMephorash (Exodus 14:19–21 → the 72 three-letter Names). One sequencing note, so the parallels aren't mis-cited as a template: Ezekiel 37 assembles the *body first*, then summons *ruach* last; the catalogue runs it the other way — breath/vowel-spirit first, verbal structure after. Same doctrine, reversed order.
+> The lineage behind axis 2, as public scholarship — the documented tradition *under* the method, not the compositional method itself (which Roy has stated as his own; see [[Letters of Creation|The Angels and the Angles]]): *Sefer Yetzirah* (22 letters split into 3 mothers / 7 doubles / 12 simples; the Beth passage that forms the Moon); Abraham Abulafia's ecstatic *tzeruf*; the doctrine that vowels = spirit and consonants = body (Zohar Bereshit 15b, *"the letters are the body and the vowel-points the soul"*; Ezra ben Solomon of Gerona; Gikatilla's *Sefer HaNikud*); letters as angels via the Shem HaMephorash (Exodus 14:19–21 → the 72 three-letter Names). One sequencing note, so the parallels aren't mis-cited as a template: Ezekiel 37 assembles the *body first*, then summons *ruach* last; the catalogue runs it the other way — breath/vowel-spirit first, verbal structure after. Same doctrine, reversed order.
 >
 > A weakened sub-hypothesis, recorded honestly: a predicted *Bounce → Beth* letter-cipher (that the Live Underground title cards would spell out Hebrew letters) is disconfirmed in its strict form — the "Welcome to the Circus" card carried a Hermes riddle, not the predicted letter. What survives is the modest claim: *a song-specific esoteric epigraph per card, drawn from the Hermetic-Kabbalah well.* The load-bearing find is the **Beth = house = heart** convergence on the *Bounce* card; the Babel wordplay is demoted, re-scoped to the Lucius Lullaby wave.
 
@@ -190,6 +190,6 @@ The Tree isn't a reading laid over silent songs. The work keeps printing the fur
 - [[Source vs Reflection]] — the governing question the Tree runs on: does a reflection return you to the source, or trap you in the image?
 - [[Keilim - The Breaking of the Vessels]] — the fracture; the doctrine's other half.
 - [[The Light-Bearer]] — Lucius on the Tree; the morning-star and the image-realm.
-- [[The Angels and the Angles]] — the *other* axis: the letter-mysticism, 22 letters + 10 sefirot = 32 paths.
+- [[Letters of Creation|The Angels and the Angles]] — the *other* axis: the letter-mysticism, 22 letters + 10 sefirot = 32 paths.
 - [[Concepts/The I'm 33 Board]] — Roy's own board, where the ladder is encoded half a dozen ways over.
 - [[SOL]] — the Sun the whole Tree reflects, and the one signal the morning-star can't absorb.

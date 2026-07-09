@@ -55,7 +55,7 @@ And underneath the joke, a real wound. The song builds genuine martyr-scaffoldin
 - [[Nigredo]] — the alchemical blackening; "dumbledore"'s crucified/thorns/grave cluster and the DARK ARTS robe.
 - [[Source vs Reflection]] / [[The Empty Mirror]] / [[The Mirror]] — the mirror tradition (the Mirror of Erised parallel); the empty robe is the Empty Mirror's hollow pole.
 - [[The Dweller on the Threshold]] — the shadow/double tradition node; Lucius as Dweller.
-- [[The Angels and the Angles]] — the names/word-magic tradition node (spells-as-words).
+- [[Letters of Creation|The Angels and the Angles]] — the names/word-magic tradition node (spells-as-words).
 - [[The Circle]] — the awakening/anamnesis node ("inside of the inside," remembrance not acquisition).
 - [[MAGIK]] — the sibling release (the "MAGIK / dumbledore EP family"); shares the word "Magik" at opposite charge — there a tender innate blessing, here the power that gets you burned.
 - [[The Mask]] / [[The Veil]] — the empty robe as the mask that replaced the face; the Oz "man behind the curtain" adjacency.
@@ -69,7 +69,7 @@ And underneath the joke, a real wound. The song builds genuine martyr-scaffoldin
 > - **The double / the shadow** — Potter's unintegrated shadow and house-polarity (Gryffindor lion vs Slytherin serpent); Jagwar Twin's [[Sir Lucius]] (mind split from heart) and [[The Dweller on the Threshold]]. *Shared tradition: the Jungian shadow.*
 > - **The mirror / speculum** — the Mirror of Erised (desire vs truth); [[Source vs Reflection]], [[The Empty Mirror]], the "magic mirror." *Shared tradition: the mirror as a way of knowing.*
 > - **Anamnesis** — Potter turns on hidden knowledge and a long game; Jagwar Twin's [[The Circle]] runs on remembrance-not-acquisition. *Shared tradition: Gnostic/Platonic recollection.*
-> - **Logos-magic / word-magic** — Latinate spells, true-names with power; the "magic of words," letters-as-creative-force ([[The Angels and the Angles]]). *Shared tradition: the word as creative power.*
+> - **Logos-magic / word-magic** — Latinate spells, true-names with power; the "magic of words," letters-as-creative-force ([[Letters of Creation|The Angels and the Angles]]). *Shared tradition: the word as creative power.*
 > - **Death–rebirth** — Fawkes the phoenix and the sacrificial mentor; the Circle's recurrence and survival-through-rock-bottom. *Shared tradition: the death-rebirth mystery.*
 > - **Christ-mythos / martyrology** — Potter's whole climax is a willing sacrificial death-and-return (the king-sacrifice the alchemy is pointing at all along); "dumbledore" runs its own martyr-scaffolding — crucified, the crown of thorns, climbing out of the grave, the persecuted-truth-teller roll-call. *Shared tradition: the Christ-passion / martyrology — the sacrificed light, not Potter-sourced.*
 > The deeper Potter-side architecture (the Black-family astronomy names — Sirius, Regulus, Bellatrix; the Deathly Hallows triangle-circle-line sigil; the sevenfold recurrence of seven books and seven Horcruxes) is real *in Potter* and Rowling-confirmed — but it is context about Potter, never evidence about Roy. Treat it as a neighbor's bookshelf, not a citation.

@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — Every major symbol, character, and move in Jagwar Twin descends from one foundational split: heart and mind, dark and light, source and reflection. The work doesn't pick a winner. It puts them in the right order.
 - **Where it shows up** — [[Welcome to the Circus]] (the Circle inverted) · [[Down to You]] (the heart/mind split, stated outright in 2022) · [[Bananas]] (the same split in kindergarten language).
-- **Connected ideas** — [[Roy]] · [[Sir Lucius]] · [[The Mirror]] · [[Source vs Reflection]] · [[Inversion]] · [[The Angels and the Angles|The Angle and the Angel]].
+- **Connected ideas** — [[Roy]] · [[Sir Lucius]] · [[The Mirror]] · [[Source vs Reflection]] · [[Inversion]] · [[Letters of Creation|The Angle and the Angel]].
 - **Confidence** — grounded fact (the name itself, Roy's own statements from 2018 onward, released lyrics) braided with strong interpretation; the esoteric framework is sealed in collapsibles and labeled as such.
 
 ## What it is
@@ -81,7 +81,7 @@ The project leaves one tension genuinely unresolved, and it's better to name it 
 - [[Roy]] — the heart-pole; the primary subject of the work.
 - [[Sir Lucius]] — the mind-pole; the split-off intellectual/defensive structure ("the mind divorced from the heart"). Co-credited as equal author on *Lucius Lullaby*.
 - [[Mary]] — the masculine/feminine duality (Roy / Mary); the union of opposites in its tender register; the figure Lucius's mirror-system can't absorb.
-- [[The Angels and the Angles|The Angle and the Angel]] — the consonant/vowel axis (angles = structure, angels = breath); duality written into Roy's compositional language.
+- [[Letters of Creation|The Angle and the Angel]] — the consonant/vowel axis (angles = structure, angels = breath); duality written into Roy's compositional language.
 - [[The Mirror]] — the instrument of duality: the device by which the self becomes visible as an other.
 - [[Inversion]] — the move that keeps the form and reverses its direction; the *Rorrim Ehtni* engine.
 - [[Source vs Reflection]] — the master frame the dark/light split feeds into; the ethical test of the mirror.
@@ -98,7 +98,7 @@ The project leaves one tension genuinely unresolved, and it's better to name it 
 > | Register | Pair | Notes |
 > |---|---|---|
 > | Biographical | Roy English / Jagwar Twin | the name change as intentional self-transformation |
-> | Compositional | consonants / vowels | angles (structure) and angels (breath) — see [[The Angels and the Angles|The Angle and the Angel]] |
+> | Compositional | consonants / vowels | angles (structure) and angels (breath) — see [[Letters of Creation|The Angle and the Angel]] |
 > | Character | Roy / Lucius | heart and mind, co-credited as equal authors on the album |
 > | Visual | mirrored tattoos | ROSE / ESOR, the Empty Mirror, the central *+*, bilateral symmetry as lived practice |
 > | Structural | the Circle / the Circus | same shape, opposite orientation and outcome |

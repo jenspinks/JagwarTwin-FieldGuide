@@ -36,7 +36,7 @@ The split is the theology of the project in miniature: the same name reads as *w
 > [!note]- Advanced reading — the throat as gate, and the ר-א-י letter-harmonics
 > **The throat as gate.** In the Kabbalistic body-map the throat is **Da'at**, the gate where knowing becomes speech — so *"the God who sees me"* sits precisely where the interior crosses into utterance, on the very organ of Lucius's line *"you don't know me."*
 >
-> **The cluster.** Hebrew is written in consonants; meaning turns on the vowels you breathe into them — the same mechanism Roy *does* claim as method (*vowels are angels, consonants are angles*; see [[The Angels and the Angles]]). Point the three letters **ר-א-י** differently and a family of the project's own core words falls out — a tight cluster of real overlaps, not infinite meaning:
+> **The cluster.** Hebrew is written in consonants; meaning turns on the vowels you breathe into them — the same mechanism Roy *does* claim as method (*vowels are angels, consonants are angles*; see [[Letters of Creation|The Angels and the Angles]]). Point the three letters **ר-א-י** differently and a family of the project's own core words falls out — a tight cluster of real overlaps, not infinite meaning:
 > - **רֹאִי · *ro'i*** — "my seeing / the one who sees me." The Genesis reading. *(grounded)*
 > - **רְאִי · *re'i*** — **mirror**: the old poetic word (Job 37:18), *not* the ordinary *mar'ah* — a reflection that exists only *through* seeing, a relationship rather than an object. *(grounded lexical fact)*
 > - **אֲרִי · *ari*** — "**lion**": the same three letters reordered — identity, kingship. *(permutation)*

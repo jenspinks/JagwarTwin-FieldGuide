@@ -17,13 +17,14 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Tarot** — The Magician (Atu I) · Mercury
 > - **Grounded appearance** — the *Sefer Yetzirah* Beth epigraph on the [[Bounce]] (Live Underground) card, 2026 — the first and only Hebrew letter on any [[The Manifesto Cards|Manifesto Card]]
 > - **Opens** — Genesis (בְּרֵאשִׁית, *"In the beginning"*)
+> - **Hub** — [[Letters of Creation]] (Beth is its flagship per-letter entry, with Yod and Qoph)
 > - **Related** — [[The Manifesto Cards]] · [[Bounce]] · [[Welcome to the Circus]] · [[The House and the Vessel]] · [[Heart and Mind]] · [[Sir Lucius]] · [[The Fool]] · [[Jacob and Esau]]
 
 ## At a glance
 
 - **In one line** — a single glyph that means *house,* opens creation, and turns out to be the hinge where the project's systems interlock.
 - **Where it shows up** — the [[Bounce]] card prints the *Sefer Yetzirah* Beth passage verbatim; [[Welcome to the Circus]] puts **Hermes** in the same slot (and Hermes = Mercury = Beth); and the whole house / roof / ark / vessel image-field runs on it (see [[The House and the Vessel]]).
-- **Why it's a hub** — Beth is the one node where **Genesis, Kabbalah, Tarot, the Trickster, Ladders, Distortion, and Heart-vs-Mind** all meet on a single letter Roy actually chose and printed.
+- **Why it's the flagship letter** — under the [[Letters of Creation]] hub, Beth is the one node where **Genesis, Kabbalah, Tarot, the Trickster, Ladders, Distortion, and Heart-vs-Mind** all meet on a single letter Roy actually chose and printed.
 - **Confidence** — the card and the letter's traditional meanings are grounded; the heart-over-mind doctrine-reading is strong; the cross-setlist letter-cipher is openly speculative and, as of this writing, **pending a decider card** (see below).
 
 ## What it is
@@ -80,6 +81,7 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 
 ## Connections
 
+- **[[Letters of Creation]]** — the hub; Beth is its flagship per-letter entry (with Yod and Qoph, and the *angels and the angles* framing).
 - **[[Bounce]]** — the card that prints Beth; *tear the roof off of my house.*
 - **[[Welcome to the Circus]]** — Hermes in the letter-slot; the Trickster face of Beth/Mercury.
 - **[[The Manifesto Cards]]** — the device Beth appears on; the letter-cipher's home.
@@ -100,6 +102,7 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 
 ## Read next
 
+- [[Letters of Creation]] — the hub: the letter-mysticism thread and the other centered letters (Yod, Qoph).
 - [[Bounce]] — the card, the roof, the house.
 - [[The Manifesto Cards]] — the letter-cipher's home and the Hermes-in-the-slot move.
 - [[Jacob and Esau]] — Bethel and the ladder Beth opens onto.

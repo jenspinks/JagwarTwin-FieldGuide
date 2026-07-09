@@ -89,7 +89,7 @@ And the old stories put to work on this world's own trials and figures:
 - [[The Labors of Hercules]]: the Twelve Labors read as a map of the soul: each faculty tested, then returned to the heart's rule.
 - [[The Dweller on the Threshold]]: the guardian at the edge of your inner world, assembled from everything you've refused to face. Sir Lucius reads as exactly that.
 - [[Jacob and Esau]]: the original two-brothers problem: the smooth twin, the rough twin, and what gets taken between them.
-- [[The Angels and the Angles]]: a letter-mysticism lens that hears the la-la and na-na syllables as technique: consonants as angles, vowels as angels.
+- [[Letters of Creation|The Angels and the Angles]]: a letter-mysticism lens that hears the la-la and na-na syllables as technique: consonants as angles, vowels as angels.
 - [[The Light-Bearer]]: the figure who carries light that disorients instead of illuminating. His emblem is the strobe, never the steady flame.
 
 The *people* behind these currents have their own home: see [[Influences]] for Carl Jung, Gurdjieff, Alice Bailey, Manly P. Hall, the [[Roy on Influences|full annotated roster]], and the [[Musical Lineage]].

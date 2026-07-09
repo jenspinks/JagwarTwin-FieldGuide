@@ -60,25 +60,25 @@ A whale breaching (with an arrow labelling *"extra eyes"*) above the ringed plan
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x03713ef7ffbd93989ca4e46975668d5ca48250385158624dfea7fa321ae799be..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x03713ef7ffbd93989ca4e46975668d5ca48250385158624dfea7fa321ae799be..png" width="300"></a>
 
 A bird-headed creature under a floating sun-glyph ☉, captioned *"Enoch the imaginary Swan,"* marked *"B 8"* and *"1"* and two old wheel-seals (drawn in the Theosophical sense of cyclic cosmic motion, recorded exactly as they appear on the page). This is the cranium coordinate of the cosmic anatomy, and the pairing is precise: Enoch "walked with God" and ascended to become Metatron, and the swan is the classical soul-bird. So "the cranium of the swan" is the seat of ascending soul-consciousness, with the sun-monad hovering above it as a crown or third eye. The bird whose head is a launchpad.
-**Connects to →** [[The Pattern]] · [[The Angels and the Angles]] · [[Kabbalah - The Tree of Life]]
+**Connects to →** [[The Pattern]] · [[Letters of Creation|The Angels and the Angles]] · [[Kabbalah - The Tree of Life]]
 
 ### #82 · Bird ∆ (angel) · `TRIANGLE RESOLUTION`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x18e316c064ab8e2db7dc17801d21e001cb9d85d241429e8107d51b0ca668e920..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x18e316c064ab8e2db7dc17801d21e001cb9d85d241429e8107d51b0ca668e920..jpeg" width="300"></a>
 
 A bird drawn as an angel: a haloed head, upswept V-wings, a forked tail, a three-dot triangle (∴) on the breast, a small sunburst upper-left. The code *"TRIANGLE RESOLUTION"* reads through that ∴, which is at once the logician's "therefore" and the alchemical fire-and-aspiration triangle. Its three points of tension resolve into one winged, haloed form: the soul-bird reconciled, and ascended. It belongs to the recurring angel-as-angle pun, the drawn cousin of the "angle of eternity" wordplay running through the archive.
-**Connects to →** [[The Angels and the Angles]] · [[The Pattern]] · [[The Upload]]
+**Connects to →** [[Letters of Creation|The Angels and the Angles]] · [[The Pattern]] · [[The Upload]]
 
 ### #103 · "Aubrey's Angle" — the white organism · `KAMARI`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9e75cba4dbfa45410a809db94da9a0c0974a6d1d19abe9e8829a151c292f6678..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9e75cba4dbfa45410a809db94da9a0c0974a6d1d19abe9e8829a151c292f6678..jpeg" width="300"></a>
 
 A small, childlike cat-eared humanoid with mismatched eyes and twig limbs, floating on blank paper. *"Aubrey's Angle"* leans on Roy's private angle-equals-angel pun, so this reads as a soul-icon rather than a portrait of anyone (the name turns up nowhere in the songs or essays). What confirms it matters is reuse: the same little creature is enshrined at the center of the chakra-rainbow ring in *"Religious Organism"* (below), which marks it as a soul-vessel, a recurring upload-icon in the drawings.
-**Connects to →** [[The Upload]] · [[The Angels and the Angles]] · [[The Digital Double]] · [[The Pattern]]
+**Connects to →** [[The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[The Digital Double]] · [[The Pattern]]
 
 ### #21 · Religious Organism (rejected album art) · `HOW TO STEER THE SOUL`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg" width="300"></a>
 
 The same cat-organism from #99, now enshrined at the center of a hand-coloured chakra-rainbow ring on a black starfield: rejected album art. The code *"HOW TO STEER THE SOUL"* turns the bestiary's anatomy into an instruction. If the other drawings define the parts of a soul, this one asks how you pilot one through the ring of colours. It is the operational verb of the Upload cosmology, a small mandala of the self with a steering wheel implied.
-**Connects to →** [[Soul Is A Star]] · [[The Upload]] · [[The Angels and the Angles]] · [[The Pattern]]
+**Connects to →** [[Soul Is A Star]] · [[The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[The Pattern]]
 
 ## Cosmology & diagram drawings
 
