@@ -13,9 +13,9 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 <img src="https://plumcreekranch.com/jagwar/jagwar-twin.jpg" style="float: right; width: 175px; margin-left: 16px; margin-bottom: 8px;">
 
 > [!infobox] Jagwar Twin
-> - **Also known as:** the project · the container · *Roy English* *(2006–2015, former name)*
+> - **Also known as:** the project · the container · *Roy English* *(the earlier artist name, before the 2018 rebrand)*
 > - **Nature:** a musical project / world-frame, not a character or a person
-> - **Run by:** [[Roy]] (Brandon Roy Wronski), since 2018
+> - **Run by:** [[Roy]], since 2018
 > - **First album:** *[[Subject to Flooding]],* September 21 2018
 > - **Key symbols:** [[The Jaguar]] · [[The Mirror]] · [[The Circle]] · the Twin
 > - **Related:** [[Roy]] · [[Sir Lucius]] · [[The Jaguar]] · [[SARAVI]] · [[Hall of Mirrors]] · [[Mary]]
@@ -28,7 +28,7 @@ Jagwar Twin is the room the whole drama happens in, and getting that straight is
 
 Hold three things apart and the architecture snaps into focus.
 
-[[Roy]] is the human. Brandon Roy Wronski, the heart the whole thing is voiced through.
+[[Roy]] is the human, the heart the whole thing is voiced through.
 
 [[The Jaguar]] is the emblem. The seeing-creature on the artwork, a mirror of consciousness, not a character with lines.
 
@@ -42,7 +42,7 @@ New here and want the sound, not the syllabus? Start with the three albums below
 
 <img src="https://plumcreekranch.com/jagwar/roy-lucius-split.jpeg" style="float: left; width: 160px; margin-right: 16px; margin-bottom: 8px;">Every other page in this guide is a *who.* Jagwar Twin is the only one that is a *where,* and that changes how you read it. Pull [[Roy]] out of his cast and everyone else collapses into abstractions. Pull the *frame* out from under the cast and there is simply no stage left to stand on. Jagwar Twin is the ground the others perform on, the one name on the roster with no lines of its own.
 
-Read from the inside out, the whole cast is one life told as a system of voices. Brandon is the lived origin, the person. The [[Brandon|Ballerina Boy]] is the buried child, the original light, the exile. [[Sir Lucius]] is the protector-shell, the shadow-mind. [[Roy]] is the conscious interpreter, the heart-voice. [[Mary]] is the blessing that stays true to the source. Jagwar Twin is the whole of it, the container, never any single line in the stack.
+Read from the inside out, the whole cast is one life told as a system of voices. [[Roy]] is the lived origin and the conscious interpreter, the heart the work is voiced through. The [[Brandon|Ballerina Boy]] is the buried child, the original light, the exile. [[Sir Lucius]] is the protector-shell, the shadow-mind. [[Mary]] is the blessing that stays true to the source. Jagwar Twin is the whole of it, the container, never any single line in the stack.
 
 That is why it had to be a frame and not a figure. It holds a heart and a mind that do not agree, and its only job is to be the space where that argument can happen out loud without the project tearing in two.
 

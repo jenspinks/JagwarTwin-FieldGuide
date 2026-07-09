@@ -84,6 +84,11 @@ This is why [[Sir Lucius]] reads as the Nemean Lion — the dominant personality
 >
 > One Kabbalistic rhyme, held as resonance: this is **Geburah (Severity / Mars) tempered by Chesed (Mercy / Expansion)** — the same correction the Strength card draws. On that map, [[Superhuman]] is the *untempered* Geburah pole: severity with no mercy to soften it, the lion as brute force.
 
+> [!note]- Advanced reading — the Leo bird-cluster (Corvus and Cygnus), and the likely source of Roy's crow and dove
+> Bailey's Leo labour carries a bird-doctrine that maps precisely onto Roy's own [[The Crow|crow]] / [[The Dove|dove]] split. In her reading of the Leo sky, **Corvus the raven** perches on the lion's shoulder as the *bird of matter* (the Old Testament "started with a raven"), and its consummation is **Cygnus the swan**, the *bird of spirit* (the New Testament "starts with a dove"; the Swan sits in Aquarius, Leo's consummating sign): *"experience starts with the bird of matter and ends with the bird of spirit."* That raven → swan ascent is the same matter → spirit arc Roy draws as crow (Mercury / mind) → dove (Venus / heart), and it is the likely **source** of his naming, since he calls his crow **Corvus** and his dove **Cygnus** — the two birds Bailey pairs in this one labour. The alchemical layer rhymes cleanly, and alchemy is a named influence: the *caput corvi* (raven's head) is the **[[Nigredo|nigredo]]**, the white swan/dove the **albedo** — the blackening that whitens, the same matter → spirit turn. `[S/F]` (Grounded on Bailey's public text and Roy's own Corvus/Cygnus symbol-key; the source-inference is a reading.)
+>
+> The same Leo passage seats a plumed feminine figure "holding out two cups" — the cup of experience and the cup of penalty, "the cup offered to the initiate," the cup Christ refers to at Gethsemane. It rhymes with the **Crater** (the cup) the crow is condemned to thirst beside on [[The Crow]], the white **dove on the chalice** that *reaches* it on [[The Dove]], and the latent Cups-suit thread across the catalogue: the cup the initiate must be willing to drink. Held at framework tier; a candidate anchor for [[Mary]] as the cup-bearer. `[F]`
+
 ## The strongest lyric anchor
 
 The clearest single piece of public evidence tying the framework to the catalogue is in [[Not Your Homie]]:

@@ -13,7 +13,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 <img src="https://plumcreekranch.com/jagwar/roy_port.jpeg" style="float: right; width: 165px; margin-left: 16px; margin-bottom: 8px;">
 
 > [!infobox] Roy
-> - **Also known as:** Jagwar Twin · Roy English *(2006–2015)* · El Roy
+> - **Also known as:** Jagwar Twin · Roy English · El Roy
 > - **Born:** Brandon Roy Wronski, May 22 1988 · Los Angeles / Orange County area
 > - **Role:** the heart-centered self, going back for the buried boy
 > - **First album:** *Subject to Flooding* (2018), as Jagwar Twin
