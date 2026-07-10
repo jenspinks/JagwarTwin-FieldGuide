@@ -81,7 +81,7 @@ And in Roy's own voice, off the records: the Gurdjieff quote-posts (*"Man is asl
 
 The dense framework material lives here — the structural mappings, the named traditions, the counterarguments, the distributed readings across the catalogue. None of it is required to read the page. All of it is labeled as a lens.
 
-> [!note]- Advanced reading — the four moves, mapped to the vault's vocabulary
+> [!note]- Advanced reading — the four moves, mapped to this guide's vocabulary
 > The hub's structural spine, made explicit:
 > 1. **The false world-system / Kenoma** — the world as a managed prison of spiritual sleep; TV / radio / feed = archontic mediation maintaining the sleep. Vault forms: the Circus, the Aquarium, the database ([[Online]]), the fog.
 > 2. **The trapped spark / pneuma** — transcendent origin, material entrapment (*"stuck like a bug inside your database"*); the spark is the soul, the kingdom within (Malkhut, in the Kabbalistic cross-reference).

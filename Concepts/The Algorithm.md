@@ -21,7 +21,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 Here is the cleanest definition the project ever gives, and Roy gives it himself. In his public Manifesto there's a substitution table — a tidy little ledger of what internet culture did to art. *Immersion* became *volume of content.* *Purpose* became *reach.* And *Feeling* became *Algorithm.* That third swap is the whole diagnosis in one line: **the Algorithm is the thing that moved into the seat where feeling used to sit.**
 
-So this isn't a vault coinage. "The Algorithm" is Roy English's own named concept. It's the mechanism that determines what gets attention, what gets rewarded, and what disappears — operating without announced logic, invisible until you're already caught in it. And in the Jagwar Twin world it is not an abstraction you argue about over coffee. It is named, on camera, as the *author* of a song.
+So this isn't this guide's coinage. "The Algorithm" is Roy English's own named concept. It's the mechanism that determines what gets attention, what gets rewarded, and what disappears — operating without announced logic, invisible until you're already caught in it. And in the Jagwar Twin world it is not an abstraction you argue about over coffee. It is named, on camera, as the *author* of a song.
 
 The signature line of the whole figure: **the Algorithm is not personal and does not hate you. It processes you.** Cruelty would at least be personal — it would mean someone was looking. The indifference is exactly what lets it scale to the size of a culture. You can't out-argue it, because it isn't making an argument. You can only see it, or fail to.
 
@@ -29,7 +29,7 @@ The signature line of the whole figure: **the Algorithm is not personal and does
 
 ### The confession on camera
 
-The keystone is a single exchange. In the filmed [[The Interview]] series (EP3, "welcome to the circus," posted to the Jagwar Twin YouTube), [[Sir Lucius]] plays the song; Roy, hearing it, says *"this is exactly what I think YOU would make,"* then asks the real question — *"What happened to music that was created from the soul?"* Lucius doesn't flinch. *"The algorithm, baby."*
+The keystone is a single exchange. In the filmed [[The Interview|Roy v Lucius]] series (EP3, "welcome to the circus," posted to the Jagwar Twin YouTube), [[Sir Lucius]] plays the song; Roy, hearing it, says *"this is exactly what I think YOU would make,"* then asks the real question — *"What happened to music that was created from the soul?"* Lucius doesn't flinch. *"The algorithm, baby."*
 
 That's the only public moment where the Circus's authorship gets confessed out loud. The song is named not as soul-authored but as *engineered* — and named by the figure who engineered it, with the bored satisfaction of a machine that knows it works and isn't embarrassed. (One honest caveat: this is theatrical canon. Lucius speaking is not automatically Roy speaking — read below for why that matters.)
 
@@ -41,9 +41,9 @@ He runs the same move as mockery, lining up Roy's catalogue by stream count and 
 
 EP1 sets the floor under all of it. Lucius claims the algorithm-rewarded hits by name — *"happy face, bad feeling, hundreds of millions of streams. Those are me. You need me."*
 
-### Lucius is the Algorithm given a body
+### Lucius speaks fluent Algorithm (and is not it)
 
-The project's law, at character scale: **[[Sir Lucius]] is the Algorithm wearing a face.** Roy's plainest doctrine is that *"lucius is the mind. the mind is a tool, but that force can lead us astray if it is not subservient to the heart."* The Algorithm is exactly that — the mind's optimizing power cut loose from the heart and handed the wheel.
+At character scale the mapping is close, but it is not an equation. Roy's plainest doctrine is that *"lucius is the mind. the mind is a tool, but that force can lead us astray if it is not subservient to the heart."* The Algorithm is what that severed mind sounds like at industrial scale: optimization with no feeling anywhere in the chain. So Lucius speaks it natively, engineers hits with it, boasts in its grammar. But he is its best student, not its body. The System was beating Roy for two decades before Lucius had a name, and half of Lucius's arc is his war to replace the old machine with his own (see [[The System]]).
 
 He's the one who has *read* the Algorithm and chosen to serve it. Whether he's its conscious **agent**, its unknowing **product**, or its **mirror-face** shifts song to song — and his three modes (prophet, clown, pleading child) read cleanly as different optimization states of the same engine. His method is the Algorithm's method in miniature: *"while Sir Lucius only tells the truth, the truth can be deceiving."* He never quite lies. He selects, frames, and emphasizes — same as a feed. His mark, the green apple, is Roy's own decode of the whole problem: *"knowledge that hasn't been earned; misuse of the mind; intelligence divorced from spirit; power access before spiritual maturity; fruit that is unripe."* ([[Public Posts]]) Intelligence without the wisdom to wield it — that's the Algorithm in one piece of fruit.
 
@@ -75,7 +75,7 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 
 ## Connections
 
-- **[[Sir Lucius]]** — the Algorithm given a body; the green-apple operator who only tells the truth and uses it to deceive. His three modes = three optimization states.
+- **[[Sir Lucius]]** — the Algorithm's best student, not its body: the green-apple usurper who mastered the engine and wars to replace the show it runs (see [[The System]]). His three modes = three optimization states.
 - **[[The Circus]]** — the Algorithm's output and venue at social scale. The Circus is the [[The Circle|Circle]] inverted; the Algorithm is the mechanism that runs it.
 - **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — what the Algorithm optimizes *for*: life replaced by its image. *"It's a spectacle, I'm the final boss."*
 - **[[The Aquarium]]** — the Algorithm is its maintenance system; the self-cleaning invisible glass. It's *why* there's *"no exit sign in my maze."*
@@ -150,7 +150,7 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts, official videos).** The term itself — the Manifesto's *Feeling → Algorithm* substitution. The on-camera confession *"the algorithm, baby"* ([[The Interview]], EP3) and the override logic (*"Not Your Homie is flying,"* the *Ballerina Boy / loop* mockery). EP1's *"Those are me. You need me."* The real-time meta-collapse (*"I guess Lucius was right again,"* same minute as the song breaking out). The lyric-explicit surveillance and timeline pressure of [[Online]] and [[Happy Face]]. The documented gatekeeper biography (*"I got dropped for this song… Now it's my first Gold record"*; Happy Face RIAA Gold; 70M+ streams). The 2019 *"programmed… deprogram ourselves"* line. The 2020 *deathofmygeneration.fun* copy (*WHAT TO WEAR / LIKE / HOW TO BE*; *Are you content?*). The 2025 timeline post and the *"God and the algorithm"* LOOP caption. The Manifesto Cards' *BROUGHT TO YOU BUY*. Roy's *"Internet is like a web, and we're the spider's food."*
-- **Strong readings.** The Algorithm as engine beneath the Circus/Spectacle; Lucius as the Algorithm given a body and his three modes as optimization states; surveillance as the counterfeit of witnessing; flattening as the Algorithm's move on the self; the Aquarium as its self-cleaning maintenance system; LOOP as self-reproducing; *Not Your Homie*'s shallowness-as-thesis; the unification into *The System*. All interpretation built on grounded anchors, and labeled as such.
+- **Strong readings.** The Algorithm as engine beneath the Circus/Spectacle; Lucius as the Algorithm's best student (not its body) and his three modes as optimization states; surveillance as the counterfeit of witnessing; flattening as the Algorithm's move on the self; the Aquarium as its self-cleaning maintenance system; LOOP as self-reproducing; *Not Your Homie*'s shallowness-as-thesis; the unification into *The System*. All interpretation built on grounded anchors, and labeled as such.
 - **Framework (esoteric, syncretic — never authorial intent).** The Theosophy / Gurdjieff / Gnostic-Demiurge / Debord / Juvenal lineage; the Aquarium's philosophical ancestry; *"coding-consciousness weaponized."* The system *permits* these resonances; it does not assert that Roy intends them. (Gurdjieff and Bailey are documented public influences; the *correspondence* is still framework, not a stated source for this concept.)
 - **How we'd be wrong.** If the plain *"mind severed from heart"* doctrine accounts for every Algorithm song as well as the esoteric apparatus does, the apparatus is decorative — and the meta-collapse, the strongest beat, needs none of it. We keep that falsifier on the table.
 - This page draws only on released music, public interviews and posts, and official videos.
@@ -158,7 +158,7 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 ## Read next
 
 - [[Welcome to the Circus]] — the song confessed on camera as the Algorithm's own work.
-- [[Sir Lucius]] — the Algorithm given a body; the green-apple operator.
+- [[Sir Lucius]] — the Algorithm's best student and would-be usurper; the green-apple claimant.
 - [[The System]] — the umbrella machine the Algorithm powers.
 - [[Witnessing vs Surveillance]] — the mechanism behind the counterfeit gaze.
 - [[Happy Face]] — *telling you what to wear and what to like and how to be.*

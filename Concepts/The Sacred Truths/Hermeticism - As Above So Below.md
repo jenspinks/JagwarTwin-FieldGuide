@@ -111,7 +111,7 @@ And then there's the figure who carries the tradition's *name* into the masks: *
 > - **Hermetic ≠ Lurianic.** The **Hermetic Qabalah** (Golden Dawn, tarot, Qliphoth-as-Tree-of-Death) is *not* the **Jewish-Lurianic Kabbalah** ([[Kabbalah - The Tree of Life]], [[Keilim - The Breaking of the Vessels]]). Different "Tree," different lineage.
 > - **Engagement ≠ architecture.** That Roy *transcribed* the seven principles proves he read and collected the Kybalion — a reading-list, not a proven compositional grammar. The leap from "he wrote it down" to "the songs run on it" is interpretation, and labeled as such.
 >
-> The wider substrate the Kybalion sits inside — Walter Russell (octaves, the cosmic pendulum), Alice Bailey (the *Labours of Hercules* material in Roy's hand; see [[The Labors of Hercules]]), Plato's *Timaeus* World-Soul, Jung — is what makes the vault's concepts naturally rhyme. The Kybalion is board-grounded; the off-board Golden-Dawn correspondences stay interpretive. See [[Inherited Substrate]].
+> The wider substrate the Kybalion sits inside — Walter Russell (octaves, the cosmic pendulum), Alice Bailey (the *Labours of Hercules* material in Roy's hand; see [[The Labors of Hercules]]), Plato's *Timaeus* World-Soul, Jung — is what makes this guide's concepts naturally rhyme. The Kybalion is board-grounded; the off-board Golden-Dawn correspondences stay interpretive. See [[Inherited Substrate]].
 
 > [!quote]- Roy on the feed — posts that bear on this
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):

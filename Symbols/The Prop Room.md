@@ -74,7 +74,7 @@ Two registers of one organ. Interior: *"within you got the Eye to see"* ([[It's 
 
 ### The Gun
 
-*"La Conquistadora with a gun in her hand… fawning over no man"* ([[No. 1 Champion (la Conquistadora)]]): the militarized Madonna. The vault leans sovereignty-and-revolution over self-defense, register held partly open.
+*"La Conquistadora with a gun in her hand… fawning over no man"* ([[No. 1 Champion (la Conquistadora)]]): the militarized Madonna. This guide leans sovereignty-and-revolution over self-defense, register held partly open.
 
 ### The Crown
 

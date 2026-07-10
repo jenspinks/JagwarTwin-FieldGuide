@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Roy
 
-> **One-line reading.** Roy is the heart of the whole project: the grown man who went back down for the seven-year-old he buried, and who spends every song trying to get his own brilliant, dangerous mind, [[Sir Lucius]], to serve that heart instead of ruling it.
+> **One-line reading.** Roy is the heart of the whole project: the grown man who went back down for the seven-year-old he buried; and who will find that ditching his baggage for the next guy to deal with was never truly an option.  
 
 <img src="https://plumcreekranch.com/jagwar/roy_port.jpeg" style="float: right; width: 165px; margin-left: 16px; margin-bottom: 8px;">
 
@@ -39,11 +39,11 @@ New here and want songs, not a syllabus? Start with [[Lucius Lullaby]], [[Baller
 
 ## Where he sits
 
-Every other character here is really a position relative to Roy. [[Sir Lucius]] is the protector-mind that broke off from him. [[Mary]] is the blessing-voice reaching back toward him. [[Brandon|the Ballerina Boy]] is the buried child he is reaching *for.* [[The Jaguar]] is the lens he sees through. <img src="https://plumcreekranch.com/jagwar/trio.png" style="float: right; width: 150px; margin-left: 16px; margin-bottom: 8px;">Pull Roy out of the middle and the whole cast collapses into abstractions. Lucius becomes a costume. Mary becomes a symbol. Brandon becomes a wound with no body attached. The Jaguar becomes a logo. Roy is the one with a body, a birthday, a voice, and a bruise.
+Every other character here is really a position relative to Roy. [[Sir Lucius]] is the protector-mind that broke off from him. [[Mary]] is the blessing-voice reaching back toward him. [[Brandon|The Ballerina Boy]] is the buried child he is reaching *for.* [[The Jaguar]] is the lens he sees through. <img src="https://plumcreekranch.com/jagwar/trio.png" style="float: right; width: 150px; margin-left: 16px; margin-bottom: 8px;">Pull Roy out of the middle and the whole cast collapses into abstractions. Lucius becomes a costume. Mary becomes a symbol. Brandon becomes a wound with no body attached. The Jaguar becomes a logo. Roy is the one with a body, a birthday, a voice, and a bruise.
 
 And the bruise is the engine.
 
-His stated mission is to be a **mirror**: to remind people who they are by showing them something true about themselves. But that only works because he is willing to be the first one in the mirror, and what he finds there is not especially flattering. He has been broke, dropped by a major label, and flat on the floor of his childhood bedroom at thirty-five. He names his own depression in interviews without flinching.
+His stated mission is to be a **mirror**: to remind people who they are by showing them something true about themselves. But that only works because he is willing to be the first one in the mirror, and what he finds there is not especially flattering. He has been broke, dropped by a major label, and flat on the floor of his childhood bedroom at thirty-five naming himself a mistake. He names his own depression in interviews without flinching. Say it plainly, because the mythology can bury the human fact: this album is built on vulnerability. And that vulnerability is laid bare on the chance it will become a beacon for others facing what seems to be an endless night.
 
 The songs don't read like a wellness brochure because the man writing them actually went down and came back up with something.
 
@@ -51,15 +51,15 @@ The songs don't read like a wellness brochure because the man writing them actua
 
 ## The wound: the ballerina boy
 
-<img src="https://plumcreekranch.com/jagwar/boyroy.png" style="float: left; width: 130px; margin-right: 16px; margin-bottom: 8px;">The earliest injury the work keeps circling happened at seven, before any of the later roles had names. A boy did ballet at a Christian school, the only one in his class. Adults started reading that through the wrong lens. Girls around him told him he *wasn't a real boy.* He prayed to be made *good,* and buried the part of himself that came alive on stage.
+<img src="https://plumcreekranch.com/jagwar/boyroy.png" style="float: left; width: 130px; margin-right: 16px; margin-bottom: 8px;">The earliest injury the work keeps circling happened at seven, before any of the later roles had names. A boy did ballet at a Christian school, the only one in his class. Adults started applying labels and value to simple joy. Girls around him told him he *wasn't a real boy.* He prayed to be made *good,* and buried the part of himself that didn't look and act like the other kids.
 
-He came home crying. He never danced again.
+As he grew he didn't even realize why he had stopped dancing.
 
 > "I never danced again / I killed that ballerina boy / I buried him inside"
 
 That buried child, the [[Brandon|Ballerina Boy]], is the exile. Roy is not simply that child. He is the later self who turns around and goes back for him: the one who can name the wound, sing it, and try to lift it back into the light.
 
-There is a counter-voice in the wound, too. In the released song, the father looks at him and says, *"there's nothing wrong with you, my son."* That matters. The story is not only injury; it also contains the first clear blessing-frequency, the line that later blooms into [[Mary]]. The wound says, *hide.* The blessing says, *nothing is wrong with you. Shine*
+There is a counter-voice in the wound, too. Two of them, in fact, and they are not equal. The father's blessing is narrated inside the story: *"there's nothing wrong with you, my son."* Real love, and phrased in the negative. It acquits the charge without ever leaving the courtroom the teacher and the girls built: a pardon on the accusation's own terms. The second blessing is the song's motherly spoken outro, and it works in a different grammar entirely: *"you are one of a kind, God's design… so my son, let your light shine."* That one does not rebut the accusation. It claims his nature outright, because *you are not broken* is not the same as *you are, exactly as you are, good.* It is this generative, feminine blessing-frequency, not the father's pardon. The wound says, *hide.* The father says, *nothing is wrong with you.* The mother-voice says, *shine.*
 
 The adult dance videos Roy later made are, in his telling, shadow-work: going back for what got left on the floor.
 
@@ -67,13 +67,13 @@ Years later, he names the cost of that childhood prayer in a single posted line:
 
 ## The collapse and the mirror
 
-At thirty-five Roy hit bottom, broke and couch-surfing, back in his childhood bedroom, and sang [[Lucius Lullaby]] into a laptop mic in something close to desperation. Out of that floor comes the thing he names as his entire purpose: to be a **mirror.**
+At thirty-five Roy hit bottom, broke and couch-surfing, back in his childhood bedroom, and sang [[Lucius Lullaby]] into a laptop mic in something close to desperation. It is the oldest trap there is, spending years looking only forward and missing all the moments: surviving, not living. Out of that floor comes the thing he names as his entire purpose: to be a **mirror.**
 
 It is worth pausing on the number this work likes to wear. The 2022 album *33* invites a reflexive Christ-age, sacred-numerology read, and Roy heads it off himself. *"Thirty-three is the age I wrote the album,"* he says, and *"it represents peace within and without."* The record's real subject is plainer and harder than any numerology: *"the whole theme of the album is, in some ways, catalyzing pain,"* making *"this beautiful body of work out of those difficult things."* The mysticism is real elsewhere; here the title is a birthday and a reckoning. Take him at his word before reaching for the gematria.
 
 > "My mission with music is to be a mirror — the clearest mirror I can be, to remind people who they truly are."
 
-This is not a late idea. He was saying *"I just want to be a mirror"* and *"a song is a mirror"* in 2020, and *"we're all really mirrors to each other"* back in 2018. The doctrine runs the length of the project and predates the entire [[Hall of Mirrors]] platform built around it. To be that mirror, he says, he first has to dive into his own psyche, *"beat myself up, like Fight Club,"* and come back as a clearer reflection. By 2026 he raises the stakes from aesthetic to ethical: *"Compassion is a mirror."* Seeing the other clearly *is* seeing yourself.
+This is not a recent idea. He was saying *"I just want to be a mirror"* and *"a song is a mirror"* in 2020, and *"we're all really mirrors to each other"* back in 2018. The doctrine runs the length of the project and predates the entire [[Hall of Mirrors]] platform built around it. To be that mirror, he says, he first has to dive into his own psyche, *"beat myself up, like Fight Club,"* and come back as a clearer reflection. By 2026 he raises the stakes from aesthetic to ethical: *"Compassion is a mirror."* Seeing the other clearly *is* seeing yourself. The delivery mechanism never changed: bind the medicine to music, and send it out.
 
 What the mirror is supposed to show is the doctrine under [[Loser]], which he stated plainly back in 2019: *"Loser is about how we all walk around with these masks on and try to be what we think other people want us to be. But if we remove those masks we find that we're all human underneath and we're all losers. There is only perceived separation."* That last clause is the whole ethic in four words.
 
@@ -85,7 +85,7 @@ It all resolves to one line he keeps returning to, the project's single discipli
 
 Whether he actually gets there is the open question of the entire mythology.
 
->> 🚪 *There is a reason “my mind must serve my heart” sounds less like a mood and more like a diagram. The songs keep pointing toward an old vertical map: mind, heart, mirror, body, shadow, light. If you want the version with Hebrew names, colored spheres, and a sun at the center, start with [[Kabbalah - The Tree of Life|the Tree of Life]].*
+> 🚪 *There is a reason “my mind must serve my heart” sounds less like a mood and more like a diagram. The songs keep pointing toward an old vertical map: mind, heart, mirror, body, shadow, light. If you want the version with Hebrew names, colored spheres, and a sun at the center, start with [[Kabbalah - The Tree of Life|the Tree of Life]].*
 
 > 🚪 *There is also an older sibling-drama hiding under the clown makeup: two twins, one blessing, a costume trick, a midnight wrestling match, and an ending where nobody really wins because the brothers embrace. Long before the circus, [[Jacob and Esau]] had already drawn part of the Roy/Lucius shape.*
 
@@ -97,7 +97,7 @@ Here is the keystone, and it is grounded in Roy’s own voice. [[Sir Lucius]] is
 ![[royandlucius.jpeg|260]]
 *Roy and his shadow: in his own telling the mind is his own faculty, not an outside villain.*
 
-The mind is never simply *bad* in his telling. It is *"potentially this beautiful thing,"* high and necessary and dangerous *precisely because* of that height. The antagonist is the mind **enthroned,** not the mind as such. He has posted the harder version too: *"The mind is the slayer of the real / we must slay the slayer"* ([[Public Posts]]). Which is why the project's resolution is a discipline and not a conquest. You don't kill the mind. You ask it to serve.
+The mind is never simply *bad* in his telling. It is *"potentially this beautiful thing,"* high and necessary and dangerous *precisely because* of that height. The antagonist is the mind **enthroned,** not the mind as such. He has posted the harder version too: *"The mind is the slayer of the real / we must slay the slayer"* ([[Public Posts]]). Which is why the project's resolution is a discipline and not a conquest. You don't kill the mind. You ask it to serve. And the asking is not a conquest: you cannot destroy the shadow by willpower alone. The loop breaks through grace, not heroic force, and in this story total defeat keeps turning out to be the doorway grace uses. Once you have that frame you hear it everywhere, because nearly every song he has written describes this break in himself somewhere: the mask getting clearer, the man in between animating heaven and hell.
 
 ## Co-creators, not fans
 
@@ -107,7 +107,7 @@ The machine has other plans. The [[The Circus|Circus]] and [[The Algorithm]] col
 
 This is why Roy's openness is a real risk and not a pose: he offers the tender thing to [[The Audience]] inside a [[The Circus#What it produces (the Spectacle)|system]] engineered to reward the armored thing. His own shadow ranks the field by streams and tour sales, the exact metric the music refuses. (See [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] for the bread-and-circuses machinery behind it.)
 
-And [[The Algorithm]] is not a vault gloss laid over his work after the fact. It is his own word. His Manifesto lays out a substitution table for how the internet quietly swapped the values that used to drive art: *"Immersion"* becomes *"Volume of content,"* *"Purpose"* becomes *"Reach,"* and the one that names the whole disease, *"Feeling"* becomes *"Algorithm."* That is the attention-economy critique stated as authorial intent, in his own hand: the algorithm is what you get when feeling is evicted and a metric moves in.
+And [[The Algorithm]] is not a label this guide pasted over his work after the fact. It is his own word. His Manifesto lays out a substitution table for how the internet quietly swapped the values that used to drive art: *"Immersion"* becomes *"Volume of content,"* *"Purpose"* becomes *"Reach,"* and the one that names the whole disease, *"Feeling"* becomes *"Algorithm."* That is the attention-economy critique stated as authorial intent, in his own hand: the algorithm is what you get when feeling is evicted and a metric moves in.
 
 ## El Roy
 
@@ -127,32 +127,32 @@ The God who sees Hagar in the wilderness is the name he signs. Being seen is the
 
 <img src="https://plumcreekranch.com/jagwar/roy-lucius-split.jpeg" style="float: right; width: 155px; margin-left: 16px; margin-bottom: 8px;">The cleanest public demonstration of the Roy/Lucius split is one observation said twice. From Roy it is rueful: *"Everyone's a guru. We are now fully in the aquarium"* ([[Public Posts]]). Humility. *We're all trapped performing authority, me included.* From Lucius, on the same account, it curdles into contempt: *"Everyone is an artist or a guru or a dj these days. I'm bored. Find something more interesting to do with your little life."*
 
-One observation, two hearts. That gap is the whole difference between them. And the fact that Roy stages *both,* on his own feed, is the funniest and most revealing trick in the catalogue: the artist-as-shadow roasting himself with the precision of someone who feels each cut.  
+One observation, two hearts. That gap is the whole difference between them. And the fact that Roy stages *both,* on his own feed, is the funniest and most revealing trick in the catalogue: the artist-as-shadow roasting himself with the precision of someone who feels each cut. And it is not only captions. Watch him switch characters and the whole physicality changes, the face, the dance, the temperature of the eyes. He truly becomes them, dialing his polarity and matching the outside to the inside.  
 
 ## The comedy (it is load-bearing)
 
-<img src="https://plumcreekranch.com/jagwar/roy_phone.jpeg" style="float: right; width: 150px; margin-left: 16px; margin-bottom: 8px;">The funniest thing about Roy is that he is, in public, two people who clearly cannot stand each other. He narrates his own struggles in the third person, *"Roy just needs to survive invisibility,"* while his shadow brags that *"Jagwar Twin sells out stadiums 🏟."* The official rollout for [[Weirdness]] is literally *"Roy got distracted by a spoon."* He talks to his own AI in public like a Siri command, *"HeySARAVI."* He posts *"Happy thanksgiving everyone"* in April. He runs an unexplained anti-weekend crusade that escalates from soft sociology, *"the way you spend your weekends says a lot about you,"* to open HR policy: *"I will have no weekenders working with me."* And once he turned down Dr. Dre over a drum disagreement, narrated with total calm: *"I said I don't really like drums… that was the last time I talked to Dr. Dre."*
+<img src="https://plumcreekranch.com/jagwar/roy_phone.jpeg" style="float: right; width: 150px; margin-left: 16px; margin-bottom: 8px;">The funniest thing about Roy is that he is willing to be, in public, two people who clearly cannot stand each other. He narrates his own struggles in the third person, *"Roy just needs to survive invisibility,"* while his shadow brags that *"Jagwar Twin sells out stadiums 🏟."* The official rollout for [[Weirdness]] is literally *"Roy got distracted by a spoon."* He talks to his own AI in public like a Siri command, *"HeySARAVI."* He posts *"Happy thanksgiving everyone"* in April. He runs an unexplained anti-weekend crusade that escalates from soft sociology, *"the way you spend your weekends says a lot about you,"* to open HR policy: *"I will have no weekenders working with me."* And once he turned down Dr. Dre over a drum disagreement, narrated with total calm: *"I said I don't really like drums… that was the last time I talked to Dr. Dre."*
 
 Between Gurdjieff quotes and rose-cross aphorisms he will drop, deadpan, *"I love peeing and I love trees,"* *"I like the sexual nature of ice cream,"* *"I identify as musk,"* *"digital onions,"* *"my first untoasted sandwich in years,"* the genuinely great *"garage bands don't exist anymore because millennial parents don't have garages,"* and the pure non-sequitur *"when did the men of the world decide to start dressing like toddlers?"* Each is delivered with the same flat gravity he gives the cosmology. He sells *Chaos Club* mask shirts in the same feed where he warns that *"chaos must be contained… or it will kill you."* The merch performs the thesis.
 
 The richest of these hides the whole project inside a sound effect: *"Let's not pretend we're not pretending. Blleeepp."* That *Blleeepp* is the mask doctrine delivered as a glitch. The second the line gets too honest about the performance, it censors itself with a cartoon noise, which is exactly what [[Happy Face]] is about. He even lets the feed diagnose itself: of [[Online]], the song that maps the algorithm flattening identity into a database entry, his own gloss is *"that song is so fun and so ridiculous."*
 
-The whiplash is not noise. The playful register *is* the authorial one. The prankster and the priest are the same person refusing to pick a lane, which is the most Jagwar Twin thing about him.
+The whiplash is not noise. The playful register *is* the authorial one. The prankster and the priest are the same person refusing to pick a lane, which is the most Jagwar Twin thing about him. Or, said with the affection it deserves: he is the Mary Poppins of esoteric integration. A spoonful of synth-pop helps the shadow work go down, medicine for the soul coated so thickly in cheese you do not even notice you are taking it.
 
 ## The symbols he carries
 
-If you met him at the circus, here is what he would be holding. A quick map, no decoder ring required:
+If you met him at the grocery store here is what he would be holding. A quick map, no decoder ring required:
 
 <img src="https://plumcreekranch.com/jagwar/dove.jpg" style="float: left; width: 110px; margin-right: 16px; margin-bottom: 8px;">
 
-- 🕊️ **[[The Dove|the dove]]:** not the tame dove of peace. He calls it **Cygnus,** the Swan that flies the Milky Way, the Northern Cross, the descending spirit of love.
+- 🕊️ **[[The Dove|the dove]]:** not the tame dove of peace. This is **Cygnus,** the Swan that flies the Milky Way, the Northern Cross, the descending spirit of love.
 - ⚔️ **[[The Sword|the sword]]:** discernment, the clean cut of chosen action. The heart in this story has a blade.
 - 🩷 **the heart:** the pole he is trying to keep on the throne.
 - 🌹✝️ **[[The Rose|the rose]] and the cross:** the Rosy Cross, *"the heart revealed, the union of opposites."*
 - 👁️ **El Roy:** the signature that folds *the one who sees* into his own name.
 - 🪞 **[[The Mirror]]:** his mission, his measure, and the platform built from it.
 
-These are the fingerprints. They sit opposite Lucius's green apple, crow, and cigarette: heart against mind, the whole argument in props.
+These are the fingerprints. They sit opposite Lucius's green apple, crow, and cigarette: heart against mind, the whole argument in props. And clock the joke the wardrobe tells on him: a man singing about freedom and vulnerability while draped in armor and chains, heavy cross included. He put them on himself. It was not Lucius. Looking tough, and the childishness and feminine softness sneak through anyway.
 
 ## The body as a map
 
@@ -179,7 +179,7 @@ Together they read as the project worn on skin: identity, reflection, fear trans
 
 There is a clean way to hold the three figures closest to the wound: **[[Sir Lucius]] protects by concealment, [[Mary]] protects by blessing, and Roy heals by witnessing.** The protector-mind hid the tender boy to keep him safe; the blessing-voice keeps saying *you were born to shine;* and Roy does the thing neither of the other two can, which is to *see* the buried boy and stay. The arc's real difficulty is that all three are trying to help.
 
-- **[[Sir Lucius]]:** the protector-mind divorced from the heart, formed from Roy's own interior life. *"I made you."* Lucius pulled Roy off the bottom, and the deal may have been worth it. Their tension, mind serving the heart versus mind replacing it, *is* the project.
+- **[[Sir Lucius]]:** the protector-mind divorced from the heart, formed from Roy's own interior life. *"I made you."* Lucius pulled Roy off the bottom, and the deal may have been worth it. Their tension, mind serving the heart versus mind replacing it, *is* the project. Jacob at Peniel is the older picture: creator and created wrestling until they are impossible to separate, the struggle itself becoming the thing that binds.
 - **[[Mary]]:** the divine-feminine blessing voice, the *"you were born to shine"* that answers the childhood *"you're not a real boy."* She does **not** appear in [[Lucius Lullaby]]; the savior-voice there is Lucius counterfeiting the rescue. Her grounded appearances are [[No. 1 Champion (la Conquistadora)]], [[Ballerina Boy]], and [[Weirdness]].
 - **[[The Jaguar]]:** the project's emblem of seeing, the cat that looks first into itself and only then into others (*"humans are mirrors for each other"*). The frame around everything, not a separate peer.
 - **The Father:** public via the *Half the Man* post (*"I reached for my Father's hand / He said you're half the man that you know,"* Roy pictured in a jester's ruff) and via *"there's nothing wrong with you, my son"* in [[Ballerina Boy]]. An aviation thread runs alongside him: a grandfather's WWII plane scanned into the [[Hall of Mirrors]], a Test Pilot School lighter.
@@ -194,7 +194,7 @@ There is a clean way to hold the three figures closest to the wound: **[[Sir Luc
 
 Everything above stands on its own. What follows is optional: the long inventories, the framework held loosely, the counter-arguments that keep the page honest. Open what you want. Ignore all of it and nothing breaks.
 
-> [!note]- The full tattoo inventory
+> [!props]- Ink-ventory (the full body map)
 > *(His own spoken glosses, compiled and verified against his statements; exact wording and placement are pending photo-confirmation, so treat marked quotes as close-but-unconfirmed.)*
 >
 > **The structural key.** Every tattoo: right side first, mirrored left. One `+` in the center spans both. The body composes as a **mirror diagram with a central axis,** and that shape is itself doctrine. It reads three ways at once: a **Tree of Life** (two pillars resolved by the `+` as the middle pillar / the Tiferet-center he marks elsewhere); an *"as above, so below"* object (the Kybalion's Correspondence principle, which he transcribes on his public *"I'm 33"* board, enacted on flesh); and a **mirror** (tying the body to the Empty Mirror, *"we are all mirrors,"* and Paul's *"glass darkly"*).
@@ -211,33 +211,33 @@ Everything above stands on its own. What follows is optional: the long inventori
 >
 > **Why "Fear functions like Prayer in Reverse" is the prize.** It is the single cleanest grounding of the project's **inversion** principle, and it is on his body. Fear = inverted prayer = inverted faith, the exact mechanism the work assigns to Lucius (who runs by inversion, the inverted cross on his cheek). Fear is the reversed prayer; the shadow runs on it.
 
-> [!note]- The third faculty and the slayer of the real
+> [!reading]- Three's Company (and the Slayer of the Real)
 > The Heart/Mind split is not a flat binary. In a 2026 IG Live on the Labours of Hercules, Roy lays out the full architecture: **instinct** (lower, animal) → **intellect** (the mind / Lucifer pole, *"higher," but not final*) → **intuition** (*"the god voice thing in here,"* super-consciousness) as the **synthesis** of the first two. The split resolves *upward* into a third term. He frames the same rise epistemically: *knowledge → understanding → wisdom,* with failure described as getting *"stuck in the abyss between worlds."*
 >
 > His *"the mind is the slayer of the real / we must slay the slayer"* is near-verbatim Blavatsky (*The Voice of the Silence*), which grounds the resolution as a *discipline,* serve and slay the mind-pole, rather than a war you win once. And the childlike→rational→return-to-childlike spiral he describes (kids *"are geniuses,"* then learn rational thought, then must go *back* to intuition) is the same shape: the mind is a necessary *step,* never the destination. Guard: his *instinct/intellect/intuition* triad shares a shape with Roy/Lucius/Ballerina-Boy but is a different register, don't collapse them.
 
-> [!note]- The esoteric map, held loosely
+> [!map]- You Are Here (Probably)
 > *(A lens, never his stated intent. The page works without it.)*
 >
 > **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, he is **Netzach, Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it: the [[The Dove|dove]] (named **Cygnus,** the Swan that flies the Milky Way, the Northern Cross, the descending spirit of love), the [[The Sword|sword]] (discernment, the clean cut of chosen action), and the heart itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury. The deeper Tree-of-Life readings are held even more loosely and live on [[Kabbalah - The Tree of Life]]; this page keeps only the simple association.
 >
 > **A water-line in the naming (framework).** One reading hears a sixteen-year water-line in his self-naming: *Eye Alaska* (2010, looking toward the shore) → *Subject to Flooding* (2018, being the flooded) → *"I am the shore, I am not the wave"* (2026, being the shore, [[Public Posts]]). Almost certainly retrospective continuity rather than an authored plan, but a clean shape. He is also a Gemini Sun, which literalizes *Jagwar Twin* and the **duality** he calls *"a lot of what Jagwar Twin is"*; his X bio runs *"🐆 ☉ There's two sides to every story ☉."*
 
-> [!note]- The LOOP cosmology (his authored mythology)
+> [!lore]- Once Upon a LOOP
 > Treat this as authored myth, not literal claim. Roy's published *LOOP* arc runs: *"In the beginning there was the One. The One was divided"* → *"a shadow awoke, and the shadow was Sir Lucius"* → the war → *"Sir Lucius created his own Dark Circle within The Circle and the loop continued"* → *"My mind must serve my heart… the loop ends the moment you choose it"* → *"as the rose bloomed."* The resolution verb is **service,** integration, not destruction. His own glosses populate it: the green apple (knowledge plucked too soon), the rose (the heart revealed in the center of the cross), and the *"I am thee / Thou is Me"* nondual chant.
 >
 > The astrological substrate he names for *the aquarium*: *"a conjunction of Saturn, Jupiter, and Mars in the sign of Aquarius corrupted the air."* And the pre-incarnation frame in his cosmology, *"I trained with a God… now I gotta come do this Earth thing,"* with the *digital circus* as his own term for the machine. A year before *33* and three years before Lucius is named, the shadow-voice is already in his 2021 Discord poems: *"You're never gunna make it / Spoke the Shadow to the Light"* and the inherited *"A Darkness from my father's side."* The signature *"I'm the spider… the answers in a name"* threads the same name-as-cipher motif.
 
-> [!note]- Counter-readings (holding the page honest)
+> [!warning]- Devil's Advocate (Someone Has to)
 > The page's central frame is Roy's own press, and adopting it wholesale risks **circularity,** describing Roy using Roy's self-account. Three guards worth keeping:
 >
-> **The authentic self may also be authored.** *"Vulnerable, egoless Roy"* could be a curated counter-pole to *"Lucius the villain,"* both products. An artist who repeats *"I have become nothing,"* *"I am the shore"* is, after all, marketing a *brand* of egolessness. The heart/mind split might be a deliberate two-character *artistic device* rather than literal interior architecture; the falsifier would be Roy treating the Roy/Lucius distinction as pure stagecraft.
+> **The authentic self may also be authored.** *"Vulnerable, egoless Roy"* could be a curated counter-pole to *"Lucius the villain,"* both products. An artist who repeats *"I have become nothing,"* *"I am the shore"* is, after all, marketing a *brand* of egolessness. The heart/mind split might be a deliberate two-character *artistic device* rather than literal interior architecture; the falsifier would be Roy treating the Roy/Lucius distinction as pure stagecraft. Push the symmetry one step further and it gets properly vertiginous: it is just as possible we one day learn that the *Roy* character is a shadow too, a persona grown over the person the way Lucius grew over Roy.
 >
 > **He discounts his own authorship.** Roy describes songs as *"downloads,"* *"I didn't really write it… it felt given to me,"* *"The Circle seemed to write itself, I just got out of the way."* He pushes the same posture onto his own identity, *"done being a person, I'm just a vessel for God,"* *"I have become nothing."* This is his stated process, not just a metaphor: he *guards* the creative signal, saying on a recent livestream that he won't drink matcha while creating so it doesn't interfere with "the signals," treating composition as reception, something received cleanly rather than manufactured. That receptivity *limits* how much intentional encoding can be laid at his feet, a built-in guard against over-reading. (It cuts the other way too: a man marketing a brand of egolessness has a clear incentive to call his own craft a *download.*) He even polices his own symbolism in public: *"I would map a crow onto Mercury but that's just personal. I don't recommend you do it."*
 >
 > **The missing keystone.** Roy names the *archetype* (mind = Lucifer) but has not, on record, explicitly called the *character* Sir Lucius "the mind" in his own voice. The link is strongly implied, not stated. Keep the seam visible.
 
-> [!quote]- Roy on the feed
+> [!feed]- Feed Me, See More
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
 > - *"My words have always been imperfect. I prefer to speak in images, or music, or to not speak at all."* · **10-19 '23** · Roy-voice doctrine stated in his own hand
 > - *"It's raining in LA again. Matt Pauling and I are back at it making music in paradise. I feel warm and fuzzy but my hands are cold. And now I'm going to make some tea. - Love RO/RA-Y"* · **02-24 '23** · the split self-signature; duality in the sign-off
@@ -246,7 +246,7 @@ Everything above stands on its own. What follows is optional: the long inventori
 > - *"Love is still here. We will not let Fear overtake our hearts and spread like a"* · **10-12 '23** · Love vs Fear as cosmological forces, asserted over a collapsed promo moment
 > - *"Being an artist is becoming a warrior / Being a warrior is becoming an artist"* · **11-26 '23** · artist-warrior integration
 
-> [!note]- Source notes
+> [!receipts]- Source notes (the receipts)
 > **Grounded (his own life and words, publicly stated).** The biography comes from released songs and public interviews: *Brandon Roy Wronski,* born May 22 1988 (the Los Angeles / Orange County area; public sources give it both ways), Roy English then Jagwar Twin, the bands (*Eye Alaska* confirmed; *Dead Letter Diaries* and *Canary Dynasty* cited with lower verification), the writing/production credits including Lana Del Rey and Alesso, the rock-bottom-at-thirty-five collapse, and the self-disclosed depression and anxiety. The origin beats are his own words too: the *"intense"* child who *"didn't know how to express myself in language,"* the Chain Reaction venue at thirteen, the *"make music or die trying"* line, and the *"misfit, an outcast"* self-description with its no-anger-at-the-bullies coda. The *ballerina-boy* wound is grounded because its key lines, including the father's *"there's nothing wrong with you, my son,"* are in the released song. The masks doctrine (*"we all walk around with these masks on… we're all human underneath"*), the mirror mission, *"my mind must serve my heart,"* the mind-as-Lucifer equation, *"the mind is the slayer of the real,"* the Manifesto's Algorithm substitution table (*"Feeling" → "Algorithm"*), the *33*-is-his-literal-age framing, and the Trojan-Horse thesis (*"infiltrate pop music and blast people with a healing frequency"*) are all directly quoted from interviews and posts. The commercial figures (10.2M listeners and 91M streams in 2025; the 100M-plus songs) are his own.
 >
 > **Studies and influences (grounded).** Roy keeps a public Instagram "Book Club," and the shelf maps where the cosmology comes from: Jung (*Modern Man in Search of a Soul,* *Man and His Symbols*); the *Hermetica* and the *Kybalion*; Kabbalah (William G. Gray's *The Ladder of Lights*); Joseph Campbell's *Hero with a Thousand Faces*; Dante's *Divine Comedy*; C. S. Lewis (*The Screwtape Letters,* *The Great Divorce,* *The Four Loves*); Jeremy Narby's *The Cosmic Serpent*; Paulo Coelho's *The Alchemist*; Kahlil Gibran's *The Prophet*; Neale Donald Walsch's *Conversations with God*; van de Wetering's *The Empty Mirror* (the named source of the wrist tattoo); and the Bible alongside the Vedas. Among the influences he has quoted publicly: **Gurdjieff** (his most-named, by 2025), Alan Watts, Rudolf Steiner, Éliphas Lévi, Blavatsky, Carl Jung, Neville Goddard, and da Vinci. One title is unusually telling for the rest of the cast: *The Screwtape Letters,* a senior devil instructing a junior tempter by mail, the manipulation always dressed as counsel, is the cleanest literary comparison point for [[Sir Lucius]]: the advisor who only ever tells the truth, deceptively. Not a source claim, just the nearest analogue, and it happens to be on his shelf.

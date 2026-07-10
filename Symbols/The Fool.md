@@ -27,7 +27,7 @@ The Fool walks through this catalogue in more costumes than almost any other fig
 
 The clearest anchor in the catalogue opens as an invocation: *"Oh Lord / Cause I ain't nothing but a Fool."* The song then builds the Fool's whole interior kit — *"Within you got the Eye to see… And in your heart there is a Well"* — while insisting on his unschooledness: *"With all the things you've ever seen / You still can hardly spell."*
 
-Two readings land on the same syllables, and the vault holds both. **Tarot's Key 0**: the unmanifested spirit before it steps into matter, ignorant of worldly logic, yet the unconditioned vessel that carries the whole journey — fitting, for a song about remembering the origin, to open by naming the card that *is* the origin. And **"I ain't no-thing"**: Roy's grounded anti-categorization disposition, the refusal to be a fixed type, which shows up across his public voice. The Fool is the one empty enough to be filled; the no-thing is the emptying.
+Two readings land on the same syllables, and this guide holds both. **Tarot's Key 0**: the unmanifested spirit before it steps into matter, ignorant of worldly logic, yet the unconditioned vessel that carries the whole journey — fitting, for a song about remembering the origin, to open by naming the card that *is* the origin. And **"I ain't no-thing"**: Roy's grounded anti-categorization disposition, the refusal to be a fixed type, which shows up across his public voice. The Fool is the one empty enough to be filled; the no-thing is the emptying.
 
 ## The leap: triumphant, wagered, fatal
 

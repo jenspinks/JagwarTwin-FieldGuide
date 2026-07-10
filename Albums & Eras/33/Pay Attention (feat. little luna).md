@@ -80,7 +80,7 @@ A handful of claims that cut across the whole pitch.
 **SENSE HIERARCHY** · `SENSE` — A 1-10 ranking of the senses is precisely what attention does, and Pay Attention's narrator is the entity that seizes that ranking, commandeering the sense-organs one by one: "May I have all your ears," "I g… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg" width="200"></a>
 
-**LUNA_COACHELLA 2015** · `BELIEVE IN YOUR FRIENDS DREAMS` — The woman pictured is by all vault evidence little luna, this song's featured guide-voice ('Hello, Attention...'), so the room documents the 2015 origin of the friendship the 2022 feature repaid, exactly wha… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**LUNA_COACHELLA 2015** · `BELIEVE IN YOUR FRIENDS DREAMS` — The woman pictured is by all available evidence little luna, this song's featured guide-voice ('Hello, Attention...'), so the room documents the 2015 origin of the friendship the 2022 feature repaid, exactly wha… → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x604fedcb1e620c6f6027cecf3598deb665abf9b3e31e8476de75266a80f021f0..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x604fedcb1e620c6f6027cecf3598deb665abf9b3e31e8476de75266a80f021f0..jpg" width="200"></a>
 
 ## Symbols
@@ -138,7 +138,7 @@ A handful of claims that cut across the whole pitch.
 > - **Hermes / the trickster** — messenger, advertiser, dealer, promising access while staying invisible behind the message.
 > - **The Ringmaster** — *"Step right up,"* a textual anticipation of [[Welcome to the Circus]].
 > - **The marketplace-of-souls bargain** — *"a small price and a rendezvous"* sharpens the deal into a tryst; the deal-as-liaison register.
-> - **Name-as-power** — *"What's my name?"* resonates (a pointer only) with the vault's name-as-power material, the *El Roi / El Roy* throat motif.
+> - **Name-as-power** — *"What's my name?"* resonates (a pointer only) with the guide's name-as-power material, the *El Roi / El Roy* throat motif.
 
 ## Lyrics
 

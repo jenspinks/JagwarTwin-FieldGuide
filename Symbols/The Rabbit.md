@@ -41,7 +41,7 @@ And the song is sung from *inside* that dream. [[Good Time (1-08)|Good Time (1:0
 - **[[The Jaguar]]** — the food-chain pairing (see below): the jaguar eats rabbits. The rabbit, in this register, is prey — the foolish, exposed self the predator-self outranks.
 
 > [!note]- Advanced reading — the full character chain, and why Sir Rabbit stays the Roy-register
-> Read across the framework, the rabbit anchors a developmental sequence rather than a single image: the original **wound** produces a **buried child** ([[Brandon|Ballerina Boy]]), who becomes a **searching rabbit** with no fixed identity ([[Sir Rabbit]]), who is then overlaid with **armor** ([[Sir Lucius]] — and behind Lucius, [[The Protector]], the survival-self that calcifies into him). Sir Rabbit's identity-vacancy is the hinge: it's what the shame produces *and* what the armor is built to cover. The vault holds Sir Rabbit deliberately as the **Roy-register seeker**, not as a peer-character to Roy / Lucius / [[Mary]] — he's the self before the split, not a fourth person in the room. If evidence ever forces a lock, that can change; for now he stays the seeker-pole.
+> Read across the framework, the rabbit anchors a developmental sequence rather than a single image: the original **wound** produces a **buried child** ([[Brandon|Ballerina Boy]]), who becomes a **searching rabbit** with no fixed identity ([[Sir Rabbit]]), who is then overlaid with **armor** ([[Sir Lucius]] — and behind Lucius, [[The Protector]], the survival-self that calcifies into him). Sir Rabbit's identity-vacancy is the hinge: it's what the shame produces *and* what the armor is built to cover. This guide holds Sir Rabbit deliberately as the **Roy-register seeker**, not as a peer-character to Roy / Lucius / [[Mary]] — he's the self before the split, not a fourth person in the room. If evidence ever forces a lock, that can change; for now he stays the seeker-pole.
 
 ## Appears in
 
@@ -100,7 +100,7 @@ Beyond Carroll: across folklore the rabbit reads as **instinct, vulnerability, s
 ## Open questions and one guarded resonance
 
 - **The faceless white-rabbit-masked woman** (*Playing to the Gods* / *City of Angels*) — held explicitly open. She is faceless like [[Mary]], but passive, masked, and led-then-dropped — which reads as *the soul stripped of sovereignty by the spectacle*, or possibly Lucius's own benched anima (rabbit-vs-rabbit extended). **She is not identified as Mary here** — that equation would need a Roy anchor, and there isn't one.
-- **Is the rabbit / March-Hare imagery a fixed cipher** in the LOOP-era sigil grammar (🐆🐇 appended to captions), or open thematic recurrence? The vault stance: no cipher asserted yet.
+- **Is the rabbit / March-Hare imagery a fixed cipher** in the LOOP-era sigil grammar (🐆🐇 appended to captions), or open thematic recurrence? This guide stance: no cipher asserted yet.
 - **The exact date of the *Good Time* dream** precedes the 2023 release; the TikTok telling is later that year; the precise dream-date is unpinned.
 
 > [!note]- Advanced reading — the leopard-rabbit (resonance only, do not canonize)

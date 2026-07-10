@@ -65,7 +65,7 @@ The paradox the song holds cleanest is this: **the anti-mask revelation is happe
 
 ## Artifacts
 
-**DEVIL IN THE MIRROR** · `RORRIM EHTNI LIVED` — "Every night when I look in the mirror / I see the disguise on my face getting clearer" is the vault's earliest released-lyric anchor for the mirror/disguise motif, the same looking-in-the-mirror-and-seeing-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**DEVIL IN THE MIRROR** · `RORRIM EHTNI LIVED` — "Every night when I look in the mirror / I see the disguise on my face getting clearer" is this guide's earliest released-lyric anchor for the mirror/disguise motif, the same looking-in-the-mirror-and-seeing-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
 
 ## Symbols
@@ -118,7 +118,7 @@ The paradox the song holds cleanest is this: **the anti-mask revelation is happe
 > [!note]- Advanced reading — the master-key position, and where it does NOT go
 > This song's mirror is the **first articulation of the catalogue's master split**: does a reflection return you to the source, or lock you in the image? (See [[Source vs Reflection]].) The debut opens in reflection here and closes in radiance at *Shine* — *from seeing the image to being the source.* Everything downstream — Circle vs Loop, witnessing vs surveillance, heart vs optimization — is a special case of that one binary, and this is where it's first posed.
 >
-> Two guardrails the vault keeps, and this page keeps too. **First:** don't back-date the later Lucius apparatus onto 2018. The contemporaneous interviews show *no* Lucius, no Circus, no Algorithm in Roy's own vocabulary — the debut *sincerely participates* in dream/mask/"we are all losers" language that the later work reinterprets and weaponizes. The soil held the seed; the seed wasn't planted on purpose. **Second:** don't collapse this song's *faceless* into the divine-feminine arc — the register here is social and political, a structural echo of the later divine faceless, not the same figure.
+> Two guardrails this guide keeps, and this page keeps too. **First:** don't back-date the later Lucius apparatus onto 2018. The contemporaneous interviews show *no* Lucius, no Circus, no Algorithm in Roy's own vocabulary — the debut *sincerely participates* in dream/mask/"we are all losers" language that the later work reinterprets and weaponizes. The soil held the seed; the seed wasn't planted on purpose. **Second:** don't collapse this song's *faceless* into the divine-feminine arc — the register here is social and political, a structural echo of the later divine faceless, not the same figure.
 
 ## Lyrics
 
@@ -178,12 +178,12 @@ Ayy, it's been a long time coming
 - **Framework (esoteric, syncretic — never authorial intent).** The Jung / Gurdjieff / Kabbalah / alchemy correspondences; the Tree-of-Life album-descent; the counting-rhyme-as-proto-algorithm. The system *permits* these; it doesn't assert Roy intends them.
 - **How we could be wrong.** Mirror-and-mask self-alienation is among the *most common* singer-songwriter images — *"I don't recognize myself in the mirror"* needs no protector-architecture, and reading it as "the protector's formation before 2018" imposes a specific structure on a generic picture. *"For the faceless, not the famous"* is a populist applause line (*"this is for the real ones, not the celebrities"*) — one of pop-rock's most common anthemic gestures, and the faceless→Mary echo may just be the tracker finding its figure in a crowd-pleaser. Plausibly this is a sincere 2018 *"I feel fake, this one's for the underdogs"* opener — which is exactly what the *mixed* confidence flag is honoring.
 
-> [!note]- Footnotes from the vault's paper trail (two true stories, one correction)
+> [!note]- Footnotes from this guide's paper trail (two true stories, one correction)
 > **The naming that almost went another way.** By the public account of collaborator Michael Morgan, the project that became *Jagwar Twin* was very nearly called **"Rat Boy"** — one of the names Roy liked most at a Lake Arrowhead fireside session. The morning after, Roy woke up and wrote *Long Time Coming*; his producer noted this felt like more of a *rock* project and should have a rock name — and *Jagwar Twin* was born. So this song is, in the retelling, the hinge that flipped the whole project's identity. (Roy's earlier band, for the record, ran "more metal and screamo than anything.")
 >
 > **The title that ate the discography.** In the Jagwar Twin Discord (Jan 2024), collaborator Michael Morgan stitched the song titles into one deadpan run-on sentence: *"It's been a long time coming for all my friends, I just hope they have a good time and have a happy face because life is good and I like to party."* Every clause is a track (*Long Time Coming*, *Happy Face*, *I Like to Party*) fused into a single grinning benediction — the catalogue read as one continuous mood, told as a joke.
 >
-> **The typo that almost became a doctrine.** For a while the vault's scraped lyric had the dedication as *"the lost, not the FRAMERS"* — nonsense — and a good chunk of the *witnesses-vs-spectacle* reading briefly hung on it, until it was checked against streaming and turned out to be *"the lost, not the FAMOUS."* A cautionary tale about building interpretation on an unverified word. (One correction that *stuck*: a remark about a song being "a download I didn't really write," sometimes floated near this era, belongs to *Move To You*, not here — don't attach it to *Long Time Coming*.)
+> **The typo that almost became a doctrine.** For a while this guide's scraped lyric had the dedication as *"the lost, not the FRAMERS"* — nonsense — and a good chunk of the *witnesses-vs-spectacle* reading briefly hung on it, until it was checked against streaming and turned out to be *"the lost, not the FAMOUS."* A cautionary tale about building interpretation on an unverified word. (One correction that *stuck*: a remark about a song being "a download I didn't really write," sometimes floated near this era, belongs to *Move To You*, not here — don't attach it to *Long Time Coming*.)
 
 ## Read next
 

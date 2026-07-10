@@ -27,7 +27,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## The song, mapped
 
-The title is a two-register joke on itself: a hushed lowercase *"tomorrow"* set against an uppercase, almost liturgical *"(ANGLE OF ETERNITY)."* (Spotify brackets it — *tomorrow [ANGLE OF ETERNITY]*; the vault uses parentheses so the filename behaves.) The small word is the mortal one; the big words are the eternal frame around it.
+The title is a two-register joke on itself: a hushed lowercase *"tomorrow"* set against an uppercase, almost liturgical *"(ANGLE OF ETERNITY)."* (Spotify brackets it — *tomorrow [ANGLE OF ETERNITY]*; this guide uses parentheses so the filename behaves.) The small word is the mortal one; the big words are the eternal frame around it.
 
 Structurally this is a **dissolution, not a build.** Most anthems climb toward a claim; this one keeps *removing* floors — of certainty, then of death, then of reality itself — and lets you discover that presence is the ground underneath all three. Follow its own moves:
 
@@ -91,7 +91,7 @@ One line the song throws off and doesn't unpack — *"in a war that I lost and w
 > The polished reading above takes the song at its sincere word. But there's a sharper, more ironic angle worth preserving as a genuine counter-read. On this view, *"ANGLE OF ETERNITY"* is itself the **category error** — the mind's doomed attempt to *geometrize* what can't be bounded, to put a protractor to the infinite; a soul described from *outside* the loop by a faculty that can only ever see angles. And *"tomorrow"* becomes **temporal deferral** — the thing that never actually arrives inside a closed system, the promised day the Circus dangles precisely so it never has to deliver it. In this key, *"we might not get tomorrow"* isn't a memento mori — it's the system's structural bad-faith stated plainly. So: is *"tomorrow"* **sincere hope**, or the **never-arriving promise** the machine runs on? The essay-tradition reads it as sincere threshold-remembrance; this darker Circus/Loop reading is held open alongside it, because the song genuinely supports both.
 
 > [!note]- Advanced reading — the un-folded cross-era pairings (death-mantra, soul-plan)
-> Two connective threads live in the vault's working notes but haven't yet been argued out in the individual song pages, so they're flagged here as *leads*, not conclusions. First: tomorrow pairs with [[Playing to the Gods]] and [[City of Angels]] as a **death-mantra contrast set** — three songs circling mortality with very different postures (surrender, clutch, and elegy). Second: tomorrow pairs with [[Imagine A World]] as a **soul-plan thread** — the sense of a life or soul that arrived with an itinerary. Real connective tissue, currently resting on the harvest note rather than a full reading; surfaced so it isn't lost.
+> Two connective threads live in this guide's working notes but haven't yet been argued out in the individual song pages, so they're flagged here as *leads*, not conclusions. First: tomorrow pairs with [[Playing to the Gods]] and [[City of Angels]] as a **death-mantra contrast set** — three songs circling mortality with very different postures (surrender, clutch, and elegy). Second: tomorrow pairs with [[Imagine A World]] as a **soul-plan thread** — the sense of a life or soul that arrived with an itinerary. Real connective tissue, currently resting on the harvest note rather than a full reading; surfaced so it isn't lost.
 
 ## Lyrics
 
