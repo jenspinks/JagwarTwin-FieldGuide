@@ -407,11 +407,12 @@ source_basis: ["public posts"]
 - *"Chowing courage over comfort is integrity"* — **2023-04-05**
 - *"Love is everywhere. That's all that needs to be said today"* — **2023-02-10**
 
-## Engagement, public likes (weak tier: liked, not authored)
+## Engagement — public likes & reshares (weak tier: engaged, not authored)
 
-*Roy's public Instagram **likes** that bear on the mythology, a distinct and weaker class than the authored posts above. A like is a weak signal (engagement, not authorship), and the third-party wording is never Jagwar Twin canon, but these are public and citable as documented interest. Reshares and content from the private "Exclusive" story-highlight are deliberately excluded (use their meaning, do not cite, per source discipline).*
+*Roy's public Instagram **likes and reshares/reposts** that bear on the mythology, a distinct and weaker class than the authored posts above. Engagement is a weak signal (interest, not authorship) — a reshare is a slightly stronger signal than a like, but the third-party wording is never Jagwar Twin canon and stays in the hedged register ("his social engagement indicates…", "Roy seems drawn to…"), never "Roy said." These are public and citable as documented interest. Content from the private "Exclusive" story-highlight stays excluded (use its meaning, do not cite, per source discipline).*
 
-- **liked @iamoliviacarli** (~**2026-06-26**) — post stating *"the Sun corresponds to Tiphareth, the Heart at the center of the Tree of Life"* (the heart as the center from which we live). Corroborates Sun = Tiferet = heart-center. — [[SOL]] · [[Source vs Reflection]]
+- **reposted @iamoliviacarli** (~**2026-06-26**) — a reshare (stronger than a like) of a post stating *"the Sun corresponds to Tiphareth, the Heart at the center of the Tree of Life"* over a *"as the Sun is the centre… so the heart is the centre… around it all the powers of life should be ordered"* quote-card (reads as Rudolf Steiner, a named influence). Corroborates Sun = Tiferet = heart-center. — [[Heart and Mind]] · [[Kabbalah - The Tree of Life]] · [[The Colors]] · [[SOL]] · [[Source vs Reflection]]
+- **reposted an alchemical explainer** (~**2026-06**, @agrippasdiary / @alexander.gnosis) — *"Why Alchemists Drew a Green Lion Eating the Sun":* green = the unripe/unrefined, a crude force; the lion devouring the sun = a raw substance dissolving and absorbing gold, the solar principle, *"the raw life-force integrating the higher self."* Reads against Lucius (the lion / the green apple) dissolving the heart-Sun. — [[Nigredo]] · [[Sir Lucius]] · [[The Green Apple]] · [[The Labors of Hercules]] · [[SOL]]
 - **liked @lorelelove_** (~**2026-06-04**) — a Joseph Campbell piece: *"eternity has nothing to do with a long duration of time… a separate dimension… hidden by the veil of temporal existence… Maya,"* with *"Shiva the world dancer… dancing on a little dwarf whose name is forgetfulness."* The true/false-immortality fork (eternity ≠ duration) and the forgetting axis. — [[The Veil]] · [[Playing to the Gods]] · [[City of Angels]]
 
 ## See also

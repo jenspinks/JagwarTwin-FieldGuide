@@ -45,6 +45,9 @@ The characters are this doctrine with faces:
 
 Listen to the grammar of the war. Lucius's bargain in [[The Interview]] runs on the Dylan echo: *"you gotta serve somebody."* Roy's resolution-line uses the **same verb**: *"my mind must serve my heart."* Integration here isn't refusing servitude — it's answering the bargain in its own grammar and reassigning the master: the servant redirected from the external lords (the metric, the money, the fear, the Boss) to the internal source. That single verb, turned 180 degrees, is the whole album arc of *Lucius Lullaby* — from *"Fine, I'll give you this one"* at the threshold to the mind re-seated at the end.
 
+> [!note]- The heart as the center (the Sun / Tiphareth)
+> The doctrine has a cosmological face Roy's socials keep circling: **the heart at the center, the way the Sun is the center of the solar system.** Based on his social-media engagement he seems drawn to the old correspondence — *"as the Sun is the centre of the solar system around which all planets revolve, so the heart is the centre of the human being; around it all the powers of life should be ordered"* — and to its Kabbalistic form, where **the Sun corresponds to Tiphareth, the heart at the center of the Tree of Life** (see [[Kabbalah - The Tree of Life]]; and [[The Colors]], where gold = the Sun = the heart = Tiphareth is the grounded read). It is *"my mind must serve my heart"* enlarged to a cosmology: everything is meant to be ordered around the heart-center, and the work is to clear away whatever displaced it. `[S]` engagement; the articulation is a third party's, not Roy's own words.
+
 ## Where the songs run it
 
 - **[[Welcome to the Circus]]** — the mind enthroned at full power: the triple voice-failure (*"I'm screaming, but no words come out"*), the silencing house rule (*"step right up, shut your mouth"*), the consuming mouth.
