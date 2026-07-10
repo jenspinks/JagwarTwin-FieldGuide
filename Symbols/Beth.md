@@ -70,14 +70,14 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 >
 > And there is a letter-level flip under it, kept explicitly as **the project's own "rearrange, don't replace" method, not as received tradition** (no classical source reads it this way; see [[The Flip and the Distorting Mirror]]): **בבל** (*Babel,* the tower / outward / empire) and **לבב** (*levav,* "heart" / inward / communion) are the same three consonants reordered. Babel put through the mirror is the heart. Roy fished at this publicly — *"if you keep building those towers we'll show up to sing it back to you"* (post to be re-sourced) — the towers (Babel) answered by the song (the heart sung back). `[F]`
 
-> [!note]- Advanced reading — the Live Underground letter-cipher (OPEN — decider card due 2026-07-10)
+> [!note]- Advanced reading — the Live Underground letter-cipher (RESOLVED 2026-07-10 — strict cipher retired)
 > A live question: is each *Live Underground* card keyed to a Hebrew letter, spelling something across the setlist? The candidate set is **{Vav, Beth, Beth, Lamed}**, whose three-consonant core {ב,ב,ל} permutes to *Babel* ⇄ *levav* (heart), and whose **full four letters** read as an exact mirror-pair:
 > - **ובבל** = *u-Bavel* = **"and Babel"** (Vav as the conjunction — outward, the tower)
 > - **לבבו** = *levavo* = **"his heart"** (Vav as the possessive suffix — inward, the heart)
 >
 > The same four glyphs spell the empire one way and **his heart** the other: the album's SOL-hidden-under-the-Devil's-marquee thesis at the level of the alphabet. `[P]`
 >
-> **What's grounded vs. pending.** Grounded: [[Bounce]] = **Beth**, and [[Welcome to the Circus]] = **Hermes** (and Hermes = Mercury = Beth, so the card that seemed to *break* the letter-series in fact points back to the same letter — two Beths, one Hebrew and one Greek). Not yet verified: the **Bananas** and **Lucius Lullaby** card letters. Per the [[The Manifesto Cards|card series]], the strict cipher is "weakened, not confirmed," and the **Lucius Lullaby title-track card is the decider — due 2026-07-10.** A Hebrew letter there (ideally Vav or Lamed) revives the strict cipher and locks *levavo/Babel*; a lyrics-or-riddle card leaves only "a mixed-tradition esoteric epigraph per song." Pinned; revisit when the card drops.
+> **What's grounded vs. pending.** Grounded: [[Bounce]] = **Beth**, and [[Welcome to the Circus]] = **Hermes** (and Hermes = Mercury = Beth, so the card that seemed to *break* the letter-series in fact points back to the same letter — two Beths, one Hebrew and one Greek). The **Lucius Lullaby title-track card (2026-07-10) settled it: no Hebrew letter** — a scripture-and-lullaby manifesto in the slot instead (the serpent, *"serve somebody,"* *"life is but a dream, wake up"*). So the strict cross-card cipher is **retired**, and the confirmed pattern is the softer *mixed-tradition esoteric epigraph per song* (Hebrew Beth, Greek Hermes, scripture here). Beth stays the one Hebrew letter the series printed; the *Babel* ⇄ *levav* reordering survives only as the project's letter-level *rearrange-not-replace* move (see [[The Flip and the Distorting Mirror]]), never a cross-card code. (And Qoph turns out to be a standalone [[Sir Lucius|Lucius]] sigil, not a card in this series.)
 
 ## Connections
 
