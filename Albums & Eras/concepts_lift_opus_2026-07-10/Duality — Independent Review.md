@@ -9,7 +9,7 @@ verdict: ship-with-calibration
 
 > [!review] Review status
 > **Verdict:** Ship with calibration  
-> **Scope:** Compared against the live concept page, the Opus lift, relevant JagwarVault context, and Roy's public statements quoted in the page.
+> **Scope:** Compared against the live concept page, the Opus lift, relevant JagwarVault context, and Roy's public statements and direct project guidance.
 
 ## What the rewrite improves
 
@@ -25,7 +25,7 @@ Likewise, the claim that the arc is never the elimination of the split and only 
 
 The sentence saying Roy and Lucius "have to be equal" because the Lucius side is no more negative than the Roy side overstates the evidence. Co-credit supports structural importance, not moral or ontological equality. Lucius can be necessary, generative, and partially illuminating while still functioning as a distorted, defensive, or dangerous configuration. Suggested adjustment: the album grants Lucius equal billing, which invites the reading that the shadow is structurally indispensable, not merely disposable.
 
-The Roy/Lucius table should remain, but several rows are interpretive rather than definitional. Heart/mind is grounded. Vulnerable self/defensive persona is a strong reading. Vowel/angel and consonant/angle are framework-level symbolic mappings unless directly stated by Roy. "Faces the source" and "works through the image" belong to the Source vs Reflection framework, not to settled character identity.
+The Roy/Lucius table should remain. **Roy has explicitly supplied the project guidance that Roy maps to Netzach/Venus and Lucius maps to Hod/Mercury, so that specific Kabbalistic and planetary placement is grounded for this project and should be presented confidently as the starting map.** The caution belongs elsewhere: the map should not be treated as exhaustive, and additional character functions or symbolic registers may coexist with it. Heart/mind is also grounded. Vulnerable self/defensive persona remains a strong psychological reading. Vowel/angel and consonant/angle require their own source tier unless directly stated. "Faces the source" and "works through the image" belong to the Source vs Reflection framework rather than replacing the grounded Netzach/Hod placement.
 
 ## Specific claims to soften, not delete
 
@@ -42,15 +42,16 @@ The page tends to equate polarity with hierarchy too quickly. Roy's heart-over-m
 
 1. **Polarity as fact:** both sides exist.
 2. **Heart/mind as ethical ordering:** mind serves heart.
-3. **Other dualities as open structures:** they may integrate differently.
+3. **Grounded character map:** Roy begins at Netzach/Venus and Lucius at Hod/Mercury, according to Roy's direct project guidance.
+4. **Other dualities as open structures:** they may integrate differently and may admit additional mappings.
 
-This distinction prevents one grounded doctrine from becoming a universal algorithm imposed on every pair.
+This distinction prevents one grounded doctrine or one grounded map from becoming a universal algorithm imposed on every pair, while still honoring the placements Roy explicitly supplied.
 
 The page should also preserve its own open question about whether the split is generative or pathological. That question is not a weakness. It is one of the strongest parts of the page because the catalogue appears to require the divided structure to create the very work that seeks repair.
 
 ## Exact revision instruction
 
-Keep the rewrite's structure and voice. Revise only sentences that universalize the heart/mind hierarchy into a law governing every duality. Mark the totalizing architecture as the guide's strongest synthesis. Preserve all elegant resonances, but use claim markers such as "can be read," "the page proposes," "in this framework," or "one way to see it" where the work itself has not made the declaration.
+Keep the rewrite's structure and voice. Retain the Roy = Netzach/Venus and Lucius = Hod/Mercury mapping as grounded project guidance and use it as the map's starting point. Revise only sentences that make that mapping exhaustive or universalize the heart/mind hierarchy into a law governing every duality. Mark the totalizing architecture as the guide's strongest synthesis. Preserve all elegant resonances, but use claim markers such as "can be read," "the page proposes," "in this framework," or "one way to see it" where the work itself has not made the declaration.
 
 Recommended replacement for the opening thesis:
 
