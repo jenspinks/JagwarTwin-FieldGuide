@@ -1,0 +1,61 @@
+---
+title: Duality — Independent Review
+type: internal-review
+status: complete
+review_date: 2026-07-11
+verdict: ship-with-calibration
+---
+# Duality — Independent Review
+
+> [!review] Review status
+> **Verdict:** Ship with calibration  
+> **Scope:** Compared against the live concept page, the Opus lift, relevant JagwarVault context, and Roy's public statements quoted in the page.
+
+## What the rewrite improves
+
+The rewrite is stronger than the live page in tone, organization, and self-awareness. It gives the concept a clearer emotional thesis, an embrace rather than a funeral, and it correctly preserves Roy's repeatedly stated interest in polarity, light and dark, and the mind serving the heart. It also improves several factual details, especially the correction that Rorrim Ehtni is a recurring alias/byline rather than simply a tattoo, and it wisely withdraws the earlier attempt to treat the Babel/heart letter resemblance as a working cipher.
+
+The page should retain its more imaginative passages. The magnet, temperature, shadow-depth, mirror, and two-tongues formulations are useful interpretive prose. They do not need to be removed merely because they are not authorial declarations.
+
+## Required calibration
+
+The central fact is grounded: Roy repeatedly defines the Twin through polarity, light/dark, yin/yang, and the capacity to hold two truths. What is less grounded is the page's stronger claim that every major symbol and character descends from one foundational split. That is a powerful organizing reading, but it should be introduced as the guide's master lens rather than as an established fact about the construction of every element.
+
+Likewise, the claim that the arc is never the elimination of the split and only its correct ordering is strongly supported by Roy's statements about mind and heart, but it remains an extrapolation when applied to the entire mythology. Preserve it, but phrase it as the page's best reading of the arc.
+
+The sentence saying Roy and Lucius "have to be equal" because the Lucius side is no more negative than the Roy side overstates the evidence. Co-credit supports structural importance, not moral or ontological equality. Lucius can be necessary, generative, and partially illuminating while still functioning as a distorted, defensive, or dangerous configuration. Suggested adjustment: the album grants Lucius equal billing, which invites the reading that the shadow is structurally indispensable, not merely disposable.
+
+The Roy/Lucius table should remain, but several rows are interpretive rather than definitional. Heart/mind is grounded. Vulnerable self/defensive persona is a strong reading. Vowel/angel and consonant/angle are framework-level symbolic mappings unless directly stated by Roy. "Faces the source" and "works through the image" belong to the Source vs Reflection framework, not to settled character identity.
+
+## Specific claims to soften, not delete
+
+- "The whole project" and "every major symbol" should become "the project can be read" or "many of the major symbols."
+- "The light has to come through Lucius as much as through Roy" is eloquent but speculative. Retain it in an advanced-reading register.
+- The proposition that the Circle and Circus are the same structure with opposite vectors is a strong cross-page reading, not a direct statement of the work.
+- The Joni Mitchell parallels are worth keeping as candidate dialogues. They are already properly caveated and should not be flattened further.
+- The Hebrew Babel/heart resemblance should remain exactly as a loose spelling resonance, not a key or encoded system.
+- The Gemini material is grounded as Roy's own association. Astrology beyond that should remain a framework.
+
+## Missing nuance
+
+The page tends to equate polarity with hierarchy too quickly. Roy's heart-over-mind formulation clearly establishes ordering in one register, but not every duality in the project necessarily resolves through subordination. Some may resolve through alternation, reciprocity, tension, union, or permanent difference. The page should distinguish:
+
+1. **Polarity as fact:** both sides exist.
+2. **Heart/mind as ethical ordering:** mind serves heart.
+3. **Other dualities as open structures:** they may integrate differently.
+
+This distinction prevents one grounded doctrine from becoming a universal algorithm imposed on every pair.
+
+The page should also preserve its own open question about whether the split is generative or pathological. That question is not a weakness. It is one of the strongest parts of the page because the catalogue appears to require the divided structure to create the very work that seeks repair.
+
+## Exact revision instruction
+
+Keep the rewrite's structure and voice. Revise only sentences that universalize the heart/mind hierarchy into a law governing every duality. Mark the totalizing architecture as the guide's strongest synthesis. Preserve all elegant resonances, but use claim markers such as "can be read," "the page proposes," "in this framework," or "one way to see it" where the work itself has not made the declaration.
+
+Recommended replacement for the opening thesis:
+
+> **One-line reading.** Duality is the most stable organizing principle Roy has named for Jagwar Twin. This guide reads the larger arc not as the destruction of one pole, but as the difficult work of holding, ordering, and sometimes reconciling what the split reveals: an embrace, not a funeral.
+
+## Final assessment
+
+The proposed rewrite should substantially replace the live page after calibration. Its imaginative synthesis is an asset. The problem is not that it reads too much into the work, but that a handful of its best readings are written in the grammatical mood of fact.
