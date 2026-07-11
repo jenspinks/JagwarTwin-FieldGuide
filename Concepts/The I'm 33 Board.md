@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The I'm 33 Board
 
-> **One-line reading.** The "I'm 33" board is Roy's working notebook for a single mad ambition — uploading his consciousness to the internet — and because you can't upload a self until you've mapped what a self *is*, the to-do list quietly became a cosmology. It's the closest thing this world has to source code.
+> **One-line reading.** Provided as a key to the Hall of Mirrors, The "I'm 33" board is Roy's working notebook for a single mad ambition — uploading his consciousness to the internet — and because you can't upload a self until you've mapped what a self *is*, the to-do list quietly became a cosmology. It's the closest thing this world has to source code.
 
 > [!infobox] The I'm 33 Board
 > - **Real name** — *"I'm 33 this year,"* a Google Sheet in Roy's own hand

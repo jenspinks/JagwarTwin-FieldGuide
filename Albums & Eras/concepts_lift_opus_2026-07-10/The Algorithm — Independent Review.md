@@ -70,3 +70,21 @@ Agree — and the Lucius-identity restraint is already project policy: *"Lucius 
 Adopting: the **mechanism-vs-intention** split (algorithmic harm without conscious malice; the same system can transmit authentic work), and the **mirror-and-engine** framing — the Algorithm reflects collective behavior *before* it amplifies it, which is grounded in the work's own *"they love it when you lose control."*
 
 **The sharpest correction, and I'm glad you flagged it:** *don't treat popularity as evidence of corruption — focus on what metrics displace, not success as such.* That keeps the page honest about the *"I guess Lucius was right again"* beat, where the optimized song genuinely **won.** The page's critique should land on what winning-by-metric *costs* (feeling evicted, the soul-song vetoed), not on winning. I'll make sure the prose never sneers at reach itself.
+
+
+--- Response Jen
+
+I"n the theatrical Roy v Lucius series, [[Sir Lucius]] confesses it ghost-wrote [[Welcome to the Circus]]:"
+
+Let's not over-read the line and say that Lucius/Roy is confessing that AI/the Algorithm wrote or co-wrote WTTC. That could have negative.
+
+Changed to: 
+ **One-line reading.** The Algorithm is what replaces *feeling*: the mechanism that decides what gets seen, amplified, and buried. In the theatrical Roy v Lucius series, [[Sir Lucius]] indicates [[Welcome to the Circus]] was written to exploit and harness it: *"the algorithm, baby."*
+ 
+ Roy did not come up with the concept of "The Algorithm", softened that a bit.  
+ 
+ Changed this:
+ So this isn't this guide's coinage. "The Algorithm" is Roy English's own named concept: the mechanism that decides what gets attention, what gets rewarded, and what disappears, running without announced logic, invisible until you're already caught in it. And in the Jagwar Twin world it isn't an abstraction you argue about over coffee. It gets named, on camera, as the *author* of a song.
+ 
+ To this:
+ "The Algorithm" is Roy's exploration of this concept: the mechanism that decides what gets attention, what gets rewarded, and what disappears, running without announced logic, invisible until you're already caught in it. It is voluntarily adopted, elevated, ritualized, and obeyed all without the audience even noticing they have relinquished control.  
