@@ -36,7 +36,7 @@ The links under each entry are deliberately few. A poem can gesture at a dozen i
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdb2916dfb388353085a0551d381c2565d478197df1332c0e4aff59c7b7d901de..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdb2916dfb388353085a0551d381c2565d478197df1332c0e4aff59c7b7d901de..jpg" width="320" controls preload="none"></video>
 
 A short looping scan of an old CD glued flat onto weathered gray fence-planks, rotating in a black void: the white disc reads *"Dead Letter Diaries,"* and the insert is a black-and-white photo of a teenage boy in a cap, arms crossed, with faded band-credit lines beside him. This is a relic of Roy's very first band, Dead Letter Diaries, from his high-school years (roughly the mid-2000s, before Eye Alaska), and the code is just the artifact's own name, the object introducing itself. It sits in the gallery's ghost realm and earns the placement: a *"dead letter"* is mail that can never be delivered, so the band name already framed a teenager's diaries as messages sent to no one, now preserved here as an undeliverable object. One small uncanny touch: the scan's texture is mirror-flipped, so every word reads backward as the disc turns, which is either an accident of the capture or the Hall being the Hall.
-**Connects to →** [[Loser]] · [[Hall of Mirrors]] · [[The Digital Double]] · [[Roy]]
+**Connects to →** [[Loser]] · [[Hall of Mirrors]] · [[Concepts/The Digital Double]] · [[Roy]]
 
 ### #23 · ROY DIARY 2014 · `J403`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd14909d1145a6a8baf6db46d9a5efee8677c90898ae1dabf470ba720bb340e1e..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd14909d1145a6a8baf6db46d9a5efee8677c90898ae1dabf470ba720bb340e1e..jpg" width="300"></a>
@@ -54,7 +54,7 @@ Four typed pages of the complete *"Sir Rabbit"* narrative poem, laid out around 
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2e527d507f693170efa5263a09886b1f9c835e74c59be669ace885c087c4f2e9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2e527d507f693170efa5263a09886b1f9c835e74c59be669ace885c087c4f2e9..jpg" width="300"></a>
 
 A screenshot of a real @JagwarTwin tweet (1/29/21, the avatar already the dissolving-figure *33*-era artwork): *"Attention is like color, or love, or beauty. You don't create it. It's something you discover."* Posted more than a year before *33* arrived, this is Roy planting the album's central thesis in public, out loud, on his own timeline: Attention as a force that already exists in the world, found rather than manufactured, which *Pay Attention* then dramatizes by personifying it as an ancient, trans-historical power. Its placement in a monologue realm fits, since Attention speaks in the first person in the song. The code `X672` is a cell coordinate on the board, an internal address, not a phrase to decode.
-**Connects to →** [[Pay Attention (feat. little luna)]] · [[The Upload]] · [[Hall of Mirrors]] · [[Roy]]
+**Connects to →** [[Pay Attention (feat. little luna)]] · [[Concepts/The Upload]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### #64 · SEEDS ON THE GROUND · `WE FALL DOWN AS SEEDS ON THE GROUND`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd3377c7198f96892fd6255e46a18aacc9b534b55576c039ab4545e75fdb7f8bd..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd3377c7198f96892fd6255e46a18aacc9b534b55576c039ab4545e75fdb7f8bd..png" width="300"></a>
@@ -66,7 +66,7 @@ A single scanned notebook page of loose pencil doodles carrying three little sce
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84c56ca2073a6cace80a1c6d0a3d0474ae2440ca8345332d95da28141e4fcc2e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84c56ca2073a6cace80a1c6d0a3d0474ae2440ca8345332d95da28141e4fcc2e..png" width="300"></a>
 
 A hand-drawn stick figure whose body *is* a five-pointed star: a smiley face in a small crown for a head, hands and feet at the star's points, ringed by the words *"Every human being is A Star"* and, beneath, *"Basically and Potentially"* (the artifact's title). The code is the sentence itself, documented as a Roy tweet, paraphrasing the old Thelemic line *"every man and every woman is a star."* The drawing literalizes the microcosm idea, the human body inscribed as a pentagram, the Vitruvian figure with a crown, and that crown at the top of the head points quietly at Kether, the Crown of the Tree of Life: an inherent sovereignty and divinity in every ordinary person. It belongs to the run of *33*-era cosmology sketches that keep insisting the soul is stellar by nature.
-**Connects to →** [[Soul Is A Star]] · [[Kabbalah - The Tree of Life]] · [[Hermeticism - As Above So Below]] · [[Subject to Flooding]] · [[Roy]]
+**Connects to →** [[Soul Is A Star]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] · [[Subject to Flooding]] · [[Roy]]
 
 ### #67 · SLEEPING ON CARROT JUICE · `I WAS SLEEPING ON CARROT JUICE`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x011a058ff340496332804b33c8999b56f60c054b0d08185866d82977112dc309..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x011a058ff340496332804b33c8999b56f60c054b0d08185866d82977112dc309..png" width="300"></a>
@@ -84,7 +84,7 @@ A self-referential piece: a screenshot of Roy's own tweet (11/28/21), a three-li
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x34a355ff8ae82b2500b8837fd908336edc9f7a13d2d52edefa906504bbce0a8d..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x34a355ff8ae82b2500b8837fd908336edc9f7a13d2d52edefa906504bbce0a8d..jpeg" width="300"></a>
 
 A screenshot of two dark iOS message bubbles reading *"Here"* and *"At the gate"*, an *"incoming text"* captured (or staged) and framed as a piece of correspondence rather than a drawing. The code `F876` is a board cell coordinate, and the piece works by the Hall's favorite reversal: an utterly mundane *"on my way, I'm at the gate"* text becomes a threshold image. The gate is one of the project's most load-bearing motifs, the boundary the self eventually has to step through rather than merely stand before, so a plain two-word message lands as a moment of arrival at the edge of one state and the start of another. An intimate, real-world scrap lifted into the mythology of crossing over.
-**Connects to →** [[The Dweller on the Threshold]] · [[LOOP]] · [[Hall of Mirrors]] · [[Roy]]
+**Connects to →** [[Concepts/The Dweller on the Threshold]] · [[LOOP]] · [[Hall of Mirrors]] · [[Roy]]
 
 ---
 

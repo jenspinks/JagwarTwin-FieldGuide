@@ -23,7 +23,7 @@ Two characters, two kits. Same five slots, opposite jobs.
 
 And one line for [[Mary]] 🌙: she carries [[The Moon]], borrowed light for the dark, and she is the wound and the blessing at once, which is a lot, and she holds it.
 
-A field tip: when a post signs off with a dagger and a green apple, you know whose hand it came from. A fair amount of Roy's column is worn in real ink on a real person; [[Roy's Tattoos]] gives the tour, including the rose written forwards and backwards around a cross. And the split itself, how one mind and one heart ended up at separate addresses, has its own page: [[Heart and Mind]].
+A field tip: when a post signs off with a dagger and a green apple, you know whose hand it came from. A fair amount of Roy's column is worn in real ink on a real person; [[Roy's Tattoos]] gives the tour, including the rose written forwards and backwards around a cross. And the split itself, how one mind and one heart ended up at separate addresses, has its own page: [[Concepts/Heart and Mind]].
 
 ## The rest of the shelf
 

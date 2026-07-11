@@ -24,7 +24,7 @@ The album named for the shadow gives its last word to the one song the shadow sp
 - **Era / release** — *Lucius Lullaby*, 2026; track 14 of 15, the album's structural ending. At 1:18 it's one of the three shortest cuts on the record.
 - **In one line** — the Song of Love, reduced past language to a wordless human voice — everything removable removed, and the song still there.
 - **Who speaks** — [[Roy]], the voice and the source. [[Sir Lucius]] appears only as the boundary of his own power: the one song he can't metabolize. [[Mary]] is present faintly, in the feminine breath under the paternal frame, not as a named figure.
-- **Key symbols** — [[The Thread]] · [[The Loop and the Circle]] · [[The Moon]] (the foil) · [[The Mouth]] · [[The Voice]]
+- **Key symbols** — [[The Thread]] · [[Concepts/The Loop and the Circle]] · [[The Moon]] (the foil) · [[Concepts/The Mouth]] · [[Concepts/The Voice]]
 
 ## The song, mapped
 
@@ -68,7 +68,7 @@ A few claims that cut across everything above.
 
 **The shadow meets the wrong instrument.** In the premiere finale (EP7), Lucius doesn't *reject* SOL — he's *unable to process it*. He gets agitated, has Roy taken from the room, then is forced to sit and listen, unsettled, until it finishes. That's not moral opposition; it's the wrong tool for the job. Lucius knows through strategy, prediction, leverage, control. SOL operates in a mode he has no instrument for — "everyone's guessing, everyone knows" is *participatory* knowing, the kind you only have by being inside it. He reaches for a thing with no surface to grip. (One way the project frames it: Lucius is the words-and-structure half; SOL is the breath-and-soul half he was never made of. He can't metabolize breath because he isn't made of any.)
 
-> 🚪 *Lucius may not be the first container to fail this test. There is a much older story that begins with a light too strong for the vessels built to hold it, and once you have heard SOL, [[Keilim - The Breaking of the Vessels|the breaking of the vessels]] is hard to unhear.*
+> 🚪 *Lucius may not be the first container to fail this test. There is a much older story that begins with a light too strong for the vessels built to hold it, and once you have heard SOL, [[Concepts/Keilim - The Breaking of the Vessels|the breaking of the vessels]] is hard to unhear.*
 
 **Returning, not introducing.** SOL isn't unveiling a new love-theme. It's returning to one of the catalogue's oldest. "Love's a question" is *literally* a 2018 line (see [[Move To You]]) — seven-plus years before this album, before any Lucius architecture existed. What changed isn't the idea. It's the compression.
 
@@ -96,9 +96,9 @@ A few claims that cut across everything above.
 ## Symbols
 
 - [[The Thread]] — the feeling that must not be cut; the Song of Love as the thread *made audible*, the thing that survived the bargain.
-- [[The Loop and the Circle]] — origin surfacing at the close: a circle returning, not a loop repeating. SOL sits at the album's end where the breath carries through.
+- [[Concepts/The Loop and the Circle]] — origin surfacing at the close: a circle returning, not a loop repeating. SOL sits at the album's end where the breath carries through.
 - [[The Moon]] — the foil. Lucius is lunar: reflected light trying to become a source. *Sol* is Latin and Spanish for **the sun** — so SOL reads as the solar source the moon can only orbit, never absorb. The title carries the double meaning cleanly: *Song Of Love* and *solar source* at once.
-- [[The Mouth]] / [[The Voice]] — the testifying voice as opposed to the consuming one; what the mouth sounds like when the Circus's suppression mechanism finally fails and nobody overrides it.
+- [[Concepts/The Mouth]] / [[Concepts/The Voice]] — the testifying voice as opposed to the consuming one; what the mouth sounds like when the Circus's suppression mechanism finally fails and nobody overrides it.
 
 ## The premiere: how SOL becomes the song they keep silencing
 
@@ -122,7 +122,7 @@ Two more public anchors round out the wordless release. Apple Music lists SOL as
 
 > [!note]- Advanced reading — SOL as the Voice, the Thread, and the secret in the Circle
 > Several of the project's concepts converge on SOL, all as *strong readings* rather than grounded fact:
-> - **[[The Mouth]] / [[The Voice]] integrated.** If the Circus works by suppressing the voice — voiceless scream, commanded silence, the lullaby's desperation-voice — then SOL may be the arc's resolution: the mouth in its most integrated state, the voice fully itself, sounding only once the override mechanism fails.
+> - **[[Concepts/The Mouth]] / [[Concepts/The Voice]] integrated.** If the Circus works by suppressing the voice — voiceless scream, commanded silence, the lullaby's desperation-voice — then SOL may be the arc's resolution: the mouth in its most integrated state, the voice fully itself, sounding only once the override mechanism fails.
 > - **[[The Thread]] made audible.** Possibly what the thread sounds like when it's *held* rather than cut — the feeling that wasn't sacrificed, the breath outlasting the bargain.
 > - **The secret in the [[The Circle|Circle]].** "Everyone's guessing, everyone knows" is an *open secret sung in unison* — remembering the song rather than receiving it from on high. Knowledge recovered by the crowd, not issued to it. That's why SOL reads as the hidden song sung back.
 

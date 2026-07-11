@@ -12,16 +12,16 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **In one line** — the operation that flips the proper relationship between things: spirit-above-matter becomes matter-above-spirit, the original becomes the reflection, the [[The Loop and the Circle|Circle]] becomes the [[The Circus|Circus]]. It is how [[Sir Lucius]] works, and its defining trick is that an inverted system looks identical to the real one from the outside.
+- **In one line** — the operation that flips the proper relationship between things: spirit-above-matter becomes matter-above-spirit, the original becomes the reflection, the [[Concepts/The Loop and the Circle|Circle]] becomes the [[Concepts/The Circus|Circus]]. It is how [[Sir Lucius]] works, and its defining trick is that an inverted system looks identical to the real one from the outside.
 - **Where it shows up** — [[Welcome to the Circus]] (*"everything's upside down"*) · [[Lucius Lullaby|Lucius Lullaby]] (*"nothing's what it seems"*) · Roy's tattoos (*"Functions like Prayer in Reverse"*).
-- **Connected ideas** — [[Sir Lucius]] · [[The Mirror]] · [[The Flip and the Distorting Mirror]] · [[The Light-Bearer]] · [[The Loop and the Circle]] · [[Source vs Reflection]] · [[Duality]].
+- **Connected ideas** — [[Sir Lucius]] · [[The Mirror]] · [[Concepts/The Flip and the Distorting Mirror]] · [[Concepts/The Light-Bearer]] · [[Concepts/The Loop and the Circle]] · [[Concepts/Source vs Reflection]] · [[Concepts/Duality]].
 - **Confidence** — anchored on Roy's own body and his own posts (grounded), then carried into framework by strong interpretation that is labeled as such throughout.
 
 ## What it is
 
 Inversion is not negation. That distinction does all the work, so hold onto it: Lucius does not *deny* the sacred structure. He keeps it perfectly intact and reverses its direction. Same liturgy, same circle, same prayer, same word — pointed the other way. Only the *vector* flips: contraction where there should be expansion, fear where there should be faith, the crowd's untruth where there should be communion.
 
-This is why Lucius can look so much like [[Roy]] — *"two sides of the same coin."* The architecture is identical. A liar builds a different house; an inverter moves into yours and rearranges the furniture so subtly you mistake it for your own taste. Which means you can't tell the [[The Loop and the Circle|Circle]] from the [[The Circus|Circus]] by their *shape* — both are circular, both spin. Inversion is detectable only from the inside, by what it does to you: do you feel more yourself, or less yourself, the deeper in you go?
+This is why Lucius can look so much like [[Roy]] — *"two sides of the same coin."* The architecture is identical. A liar builds a different house; an inverter moves into yours and rearranges the furniture so subtly you mistake it for your own taste. Which means you can't tell the [[Concepts/The Loop and the Circle|Circle]] from the [[Concepts/The Circus|Circus]] by their *shape* — both are circular, both spin. Inversion is detectable only from the inside, by what it does to you: do you feel more yourself, or less yourself, the deeper in you go?
 
 ## How it works
 
@@ -37,11 +37,11 @@ The same grammar shows up everywhere once you have the eye for it:
 - **Lowercase as contraction.** Lucius's songs are styled in lowercase because, in the project's own gloss, *"darkness contracts, unlike light that expands."* Typography itself inverts — CAPITALS for expansion (Jagwar Twin), lowercase for contraction (sir lucius). The font is doing theology.
 - **Same line, opposite spirit.** *"Everyone's a guru"* lands as rueful humility in Roy's mouth (*"we are now fully in the aquarium"*) and as pure contempt in Lucius's, who deploys the identical observation inside an industry put-down and signs it *"Your loyal servant, Sir Lucius 🗡🍏."* ([[Public Posts]]). Identical words, reversed vector — possibly the cleanest behavioral inversion in the whole catalogue.
 
-And it scales. What Lucius does to a word, the [[The Circus|Circus]] does to a world: systematic inversion at social scale, the attention economy as the same flip run through everyone at once — *"every day is a circus all in my brain,"* the inversion installed as your interior.
+And it scales. What Lucius does to a word, the [[Concepts/The Circus|Circus]] does to a world: systematic inversion at social scale, the attention economy as the same flip run through everyone at once — *"every day is a circus all in my brain,"* the inversion installed as your interior.
 
 ### The reversal is the hope
 
-Here's the part that keeps inversion from being a counsel of despair: if a flip made the split, you can flip back. The corrective to inversion is not destruction — it's *re-inversion*. Roy's method is **rearrange, not replace.** He integrates Lucius rather than killing him; the Circle *transforms* the Loop rather than rejecting it; the aim is to *"get back together and see the Great Design."* That reversibility is, in a real sense, the project's whole hope. (For the engine underneath, see [[The Flip and the Distorting Mirror]].)
+Here's the part that keeps inversion from being a counsel of despair: if a flip made the split, you can flip back. The corrective to inversion is not destruction — it's *re-inversion*. Roy's method is **rearrange, not replace.** He integrates Lucius rather than killing him; the Circle *transforms* the Loop rather than rejecting it; the aim is to *"get back together and see the Great Design."* That reversibility is, in a real sense, the project's whole hope. (For the engine underneath, see [[Concepts/The Flip and the Distorting Mirror]].)
 
 ## Where it appears
 
@@ -67,15 +67,15 @@ It is the catalogue's clearest measure of the Lucius arc, taken purely in how on
 
 ## Connections
 
-- [[The Loop and the Circle]] — the un-inverted form (Circle = return to source, *"the inside of the inside"*) and its inversion (Loop / Circus = closed self-referential repetition, *"no exit sign in my maze"*). The Circus is structurally the Circle inverted: same recursive motion, opposite direction and outcome.
+- [[Concepts/The Loop and the Circle]] — the un-inverted form (Circle = return to source, *"the inside of the inside"*) and its inversion (Loop / Circus = closed self-referential repetition, *"no exit sign in my maze"*). The Circus is structurally the Circle inverted: same recursive motion, opposite direction and outcome.
 - [[Sir Lucius]] — *the* inversion operator; the mind divorced from the heart; the reflection that gained autonomy and started claiming sourcehood. Runs on inverted faith (fear) and inverted scripture (truth warped by framing).
 - [[The Mirror]] — the primary inversion device; the mirror turned from revelation to distortion. *"A mirror is faithful while it knows it is a mirror. It becomes Sir Lucius when it forgets it is not the source."*
-- [[The Flip and the Distorting Mirror]] — inversion as the *operation*: the One→Two flip plus the funhouse distortion. The flip is reversible; flip back = integrate.
-- [[The Light-Bearer]] — Lucifer (*lux-ferre*, "to carry light") as the inverted illuminator: light that disorients instead of guides.
-- [[Source vs Reflection]] — the master-frame. Inversion is a special case of *transmit* (returns to source) versus *substitute* (traps in the image); its far end is usurpation.
-- [[Duality]] — the split that inversion reverses; *"two sides of the same coin"*; the Hermetic Polarity principle (*"opposites are identical in nature, but different in degree"*).
-- [[The Mouth]] — the anti-Eucharist; *"step right up"* as the inverted *"come unto me."*
-- [[The Aquarium]] — the inverted air. The Aquarian age's clarity turns to corrupted air when you live submerged in the medium — *"we are now fully in the aquarium,"* the breathable element become the thing you drown in; *"everyone's a guru"* is what it sounds like from inside the tank.
+- [[Concepts/The Flip and the Distorting Mirror]] — inversion as the *operation*: the One→Two flip plus the funhouse distortion. The flip is reversible; flip back = integrate.
+- [[Concepts/The Light-Bearer]] — Lucifer (*lux-ferre*, "to carry light") as the inverted illuminator: light that disorients instead of guides.
+- [[Concepts/Source vs Reflection]] — the master-frame. Inversion is a special case of *transmit* (returns to source) versus *substitute* (traps in the image); its far end is usurpation.
+- [[Concepts/Duality]] — the split that inversion reverses; *"two sides of the same coin"*; the Hermetic Polarity principle (*"opposites are identical in nature, but different in degree"*).
+- [[Concepts/The Mouth]] — the anti-Eucharist; *"step right up"* as the inverted *"come unto me."*
+- [[Concepts/The Aquarium]] — the inverted air. The Aquarian age's clarity turns to corrupted air when you live submerged in the medium — *"we are now fully in the aquarium,"* the breathable element become the thing you drown in; *"everyone's a guru"* is what it sounds like from inside the tank.
 - [[Happy Face]] — inversion as a visual pun: 🙃, the literal flipped grin, a smile worn upside-down so it still reads as a smile. The joke *is* the inversion.
 - [[The Banana]] — a *broken Yesod*: generativity replaced by image; the channel that transmits glamour but cannot seed.
 - [[The Thread]] — the labyrinth navigated by the felt string, not the disorienting lights; *"no exit sign in my maze"* = thread severed.
@@ -100,14 +100,14 @@ The pages below carry the heavy framework and esoteric material — kept whole, 
 > [!note]- Advanced reading — the Qliphoth and the inverted tree
 > One strong frame reads inversion through several esoteric traditions of "the same energy run backward."
 >
-> In the **Kabbalah** Roy studies (the *I'm 33* board, the Tree of Life tattoo), the *Qliphoth* is the Tree of Death — the inverted Tree of Life, where each *Sefirah* has a husked, reversed counterpart (a *Qliphah*): the demonic as the divine running in reverse. At the very top sits the *Qliphah of Keter* — **Thaumiel**, the counterfeit divine crown, the false light at the apex of the inverted tree, which is the [[The Light-Bearer|Light-Bearer]]'s precise signature.
+> In the **Kabbalah** Roy studies (the *I'm 33* board, the Tree of Life tattoo), the *Qliphoth* is the Tree of Death — the inverted Tree of Life, where each *Sefirah* has a husked, reversed counterpart (a *Qliphah*): the demonic as the divine running in reverse. At the very top sits the *Qliphah of Keter* — **Thaumiel**, the counterfeit divine crown, the false light at the apex of the inverted tree, which is the [[Concepts/The Light-Bearer|Light-Bearer]]'s precise signature.
 >
 > The **Hermetic** axiom (the Kybalion, transcribed verbatim on Roy's board) names the proper correspondence: *"As above, so below."* Inverted to *"as below, so above,"* it makes matter supreme over spirit. The board also carries the Polarity principle — *"opposites are identical in nature, but different in degree"* — which is inversion's logical floor: Roy and Lucius are not different substances but the same substance at opposite poles.
 >
 > The prophetic diagnosis is **Isaiah 5:20**: *"Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness."* That is systematic inversion named as a moral condition, not a metaphysics.
 
 > [!note]- Advanced reading — voluntary vs involuntary inversion (the Hanged Man)
-> Not all inversion is demonic, and the project seems to know it. **Tarot's Hanged Man** (XII) is a *voluntary* inversion for insight — you hang upside-down to see differently, on purpose. **Peter crucified upside-down** is voluntary inversion as self-abasement, refusing equality with Christ. **Acts 17:6** has the apostles accused of *"turning the world upside down"* — revolutionary inversion as *liberation.* Set those beside the [[The Circus|Circus]], which also turns the world upside down — but does it *to* you, as control.
+> Not all inversion is demonic, and the project seems to know it. **Tarot's Hanged Man** (XII) is a *voluntary* inversion for insight — you hang upside-down to see differently, on purpose. **Peter crucified upside-down** is voluntary inversion as self-abasement, refusing equality with Christ. **Acts 17:6** has the apostles accused of *"turning the world upside down"* — revolutionary inversion as *liberation.* Set those beside the [[Concepts/The Circus|Circus]], which also turns the world upside down — but does it *to* you, as control.
 >
 > The difference appears to be **consent.** Lucius's inversion is imposed and disorienting; the Hanged Man's is chosen and clarifying. Whether the work argues that inversion is *always* evil, or that it can be generative when chosen, is one of its live open questions. (See below.)
 
@@ -122,7 +122,7 @@ The pages below carry the heavy framework and esoteric material — kept whole, 
 > The tradition cluster: *Isaiah 14:12* (*"How art thou fallen from heaven, O Lucifer, son of the morning"*); the morning-star (Venus) outshone by the sun; and a Hermetic-Tarot stream — **The Star** (XVII, morning-star/Venus) → **The Moon** (XVIII, reflection and illusion, the last deception) → **The Sun** (XIX, true light) — reflected light inverting back toward the real. (Stream-disciplined and kept open, apart from the Jewish-Lurianic material.)
 
 > [!note]- Advanced reading — transmission → distortion → usurpation (the far end of inversion)
-> [[Source vs Reflection]] sharpens where inversion *ends.* The graded interior runs in three steps: **transmission** (a faithful channel returning to source) → **distortion** (a warped image) → **usurpation** (an *autonomous* reflection that stops merely distorting and tries to *become* the source — a rival center claiming sourcehood). Inversion's worst outcome is not a dirty mirror; it is a mirror that forgets it is a mirror. *"It becomes Sir Lucius when it forgets it is not the source."* This is why Lucius can't simply be *cleaned* like a smudged glass — a husk set up as a center isn't a distortion to wipe, it's a usurper to depose. The one signal the inverting system can't metabolize is source-light itself: it *"reaches for a thing with no surface to grip."*
+> [[Concepts/Source vs Reflection]] sharpens where inversion *ends.* The graded interior runs in three steps: **transmission** (a faithful channel returning to source) → **distortion** (a warped image) → **usurpation** (an *autonomous* reflection that stops merely distorting and tries to *become* the source — a rival center claiming sourcehood). Inversion's worst outcome is not a dirty mirror; it is a mirror that forgets it is a mirror. *"It becomes Sir Lucius when it forgets it is not the source."* This is why Lucius can't simply be *cleaned* like a smudged glass — a husk set up as a center isn't a distortion to wipe, it's a usurper to depose. The one signal the inverting system can't metabolize is source-light itself: it *"reaches for a thing with no surface to grip."*
 
 > [!note]- Advanced reading — the green apple and the inversion of knowing
 > Lucius's mark, the green apple 🍏, is itself an inversion — of *knowledge.* The IG post handing him the account (2024) put it plainly: *"while Sir Lucius only tells the truth, the truth can be deceiving 🍏."* He is not a liar; he is a teller of true things, warped by selection, framing, and emphasis. Roy's own decode of the apple: *"knowledge that hasn't been earned; misuse of the mind; intelligence divorced from spirit; power access before spiritual maturity — fruit that is unripe."*
@@ -139,7 +139,7 @@ The pages below carry the heavy framework and esoteric material — kept whole, 
 > - **Stop / strip** (Lurianic *kelipah*/husk): the husk is dead matter to be stripped away.
 > - **Redeem / integrate** (Jungian shadow / Steiner's Dweller-becomes-guide): the shadow is reabsorbed, not destroyed.
 >
-> The danger is letting *redeem* silently override *stop.* The work guards all three; so does this page. (See [[Keilim - The Breaking of the Vessels]].)
+> The danger is letting *redeem* silently override *stop.* The work guards all three; so does this page. (See [[Concepts/Keilim - The Breaking of the Vessels]].)
 
 > [!note]- Advanced reading — the letter level (Beth, Hermes, and *rearrange not replace*)
 > Inversion runs all the way down to the alphabet. The *Bounce (Live Underground)* title card prints **Sefer Yetzirah** ch. 4 as its epigraph: *"HE MADE THE LETTER BETH KING OVER WISDOM…"* — and *Beth* literally means *house*, while *Bounce*'s chorus is *"let's tear the roof off of my house, my house."* The doctrine *is* the epigraph: the house-letter (heart) enthroned *king over* Wisdom (mind) = heart-must-rule-mind; *"tear the roof off"* inverts Beth from *container* into *opening.* This publicly grounds Roy/JT engagement with Hebrew letter-mysticism *on the work itself.*
@@ -177,8 +177,8 @@ The pages below carry the heavy framework and esoteric material — kept whole, 
 ## Read next
 
 - [[Sir Lucius]] — the inversion operator, in full.
-- [[The Flip and the Distorting Mirror]] — the operation underneath, and why it's reversible.
+- [[Concepts/The Flip and the Distorting Mirror]] — the operation underneath, and why it's reversible.
 - [[The Mirror]] — the device inversion works through, and the rule it breaks.
-- [[The Light-Bearer]] — light that disorients instead of guides.
+- [[Concepts/The Light-Bearer]] — light that disorients instead of guides.
 - [[Welcome to the Circus]] — inversion operating out loud, line by line.
-- [[Source vs Reflection]] — the master-frame: transmit versus substitute.
+- [[Concepts/Source vs Reflection]] — the master-frame: transmit versus substitute.

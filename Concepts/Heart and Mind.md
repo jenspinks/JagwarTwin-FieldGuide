@@ -19,7 +19,7 @@ If you learn a single doctrine before going deep in this world, learn this one. 
 
 - **In one line** — the mind is a magnificent servant and a catastrophic king; the arc of the whole project is re-seating it.
 - **Where it shows up** — everywhere, but most nakedly: [[Roy]] (the heart-voice), [[Sir Lucius]] (Roy's own definition: *"the mind divorced from the heart"*), [[Brandon]] (what got buried when the mind took over), [[LOOP]] (the resolution-line in a lyric), [[SOL]] (the heart-source the mind cannot absorb).
-- **Connected ideas** — [[Duality]] · [[The Dweller on the Threshold]] · [[The Voice]] · [[Source vs Reflection]].
+- **Connected ideas** — [[Concepts/Duality]] · [[Concepts/The Dweller on the Threshold]] · [[Concepts/The Voice]] · [[Concepts/Source vs Reflection]].
 - **Confidence** — the doctrine itself is as grounded as anything in the catalogue (Roy's own repeated words); the esoteric formulations below are strong readings and framework, labeled.
 
 ## The doctrine, in Roy's voice
@@ -27,7 +27,7 @@ If you learn a single doctrine before going deep in this world, learn this one. 
 - **"My mind must serve my heart."** The load-bearing sentence — repeated in interviews and posts, embedded in the LOOP-era lore (*"My mind must serve my heart, Roy repeated… as he stepped through the gate"*).
 - **"The mind is the slayer of the real. We must slay the slayer."** Posted March 2026 — near-verbatim Blavatsky (*The Voice of the Silence*), and the doctrine's sharp edge. The discipline stays integrative, though: you don't kill the mind, you ask it to serve.
 
-> 🚪 *That sentence comes from a slim Victorian book of aphorisms, written by a woman who taught that the whole universe breathes. Roy seems to have taken more than the one line from her: follow the breath into [[Theosophy]].*
+> 🚪 *That sentence comes from a slim Victorian book of aphorisms, written by a woman who taught that the whole universe breathes. Roy seems to have taken more than the one line from her: follow the breath into [[Concepts/The Sacred Truths/Theosophy]].*
 
 - **"In so many different mythologies the intellect, or the rational mind, is equated with the Lucifer archetype — the most beautiful angel with the most potential to fall."** Roy's own gloss on why the antagonist is the *mind enthroned*, not the mind as such. The mind is high, necessary, and dangerous precisely because of its height.
 - **The third voice.** In his Labors livestream Roy sketches the full architecture: *"there's a third voice… the synthesis between the instinct and the intellect… the intuition… super consciousness"* — instinct below, intellect above it, and intuition as the synthesis that outranks both. The dyad resolves upward, not by one pole beating the other.
@@ -57,10 +57,10 @@ Listen to the grammar of the war. Lucius's bargain in [[The Interview]] runs on 
 - **[[Another Way II Heaven]]** — the split written as creation-myth: *"One become Two"*, and Roy's only line of threatened self-loss, *"remind myself that I was still I."*
 
 > [!note]- Advanced reading — Beth, the Moon, and the heart enthroned
-> The strongest esoteric corroboration arrived printed on the work itself. The *bounce* (Live Underground) title card carries a *Sefer Yetzirah* passage: **"HE MADE THE LETTER BETH KING OVER WISDOM… AND WITH THEM HE FORMED THE MOON."** Read through Beth = house = heart (see [[The House and the Vessel]]), the line states the doctrine as scripture: the heart-letter crowned **king over Wisdom** — the mind. The same verse forms *the Moon*, and the Moon is the heart/lunar pole in this cosmology (see [[The Moon]]). It can't be grounded harder than a strong reading — the heart-identification routes through the letter-symbolism — but as strong readings go, it's the page's smoking gun.
+> The strongest esoteric corroboration arrived printed on the work itself. The *bounce* (Live Underground) title card carries a *Sefer Yetzirah* passage: **"HE MADE THE LETTER BETH KING OVER WISDOM… AND WITH THEM HE FORMED THE MOON."** Read through Beth = house = heart (see [[Concepts/The House and the Vessel]]), the line states the doctrine as scripture: the heart-letter crowned **king over Wisdom** — the mind. The same verse forms *the Moon*, and the Moon is the heart/lunar pole in this cosmology (see [[The Moon]]). It can't be grounded harder than a strong reading — the heart-identification routes through the letter-symbolism — but as strong readings go, it's the page's smoking gun.
 
 > [!note]- Advanced reading — the Tree, the repair, and the gate
-> In the [[Kabbalah - The Tree of Life]] frame the dyad sits as **Netzach (Roy/Venus/heart)** across from **Hod (Lucius/Mercury/mind)**, with **Tiferet/SOL** — the only body that makes its own light — as the source both flank. The [[Keilim - The Breaking of the Vessels]] myth gives the doctrine its history (faculties shattered into isolation, each hoarding light) and *"my mind must serve my heart"* becomes the **tikkun**, the repair-as-ethic: reflected light re-subordinated to its source. And the [[The Dweller on the Threshold]] shows what happens instead of repair — the divorced mind accumulating at the gate until it has a name, a wardrobe, and a co-writing credit. All framework, all labeled: the correspondence belongs to the traditions Roy demonstrably studies, not to any stated method.
+> In the [[Kabbalah - The Tree of Life]] frame the dyad sits as **Netzach (Roy/Venus/heart)** across from **Hod (Lucius/Mercury/mind)**, with **Tiferet/SOL** — the only body that makes its own light — as the source both flank. The [[Concepts/Keilim - The Breaking of the Vessels]] myth gives the doctrine its history (faculties shattered into isolation, each hoarding light) and *"my mind must serve my heart"* becomes the **tikkun**, the repair-as-ethic: reflected light re-subordinated to its source. And the [[Concepts/The Dweller on the Threshold]] shows what happens instead of repair — the divorced mind accumulating at the gate until it has a name, a wardrobe, and a co-writing credit. All framework, all labeled: the correspondence belongs to the traditions Roy demonstrably studies, not to any stated method.
 
 ## Source notes
 
@@ -71,8 +71,8 @@ Listen to the grammar of the war. Lucius's bargain in [[The Interview]] runs on 
 ## Read next
 
 - [[Roy]] and [[Sir Lucius]] — the two poles, in full.
-- [[Duality]] — the root structure this dyad is the sharpest case of.
-- [[The Voice]] — the third voice, and what silencing does.
+- [[Concepts/Duality]] — the root structure this dyad is the sharpest case of.
+- [[Concepts/The Voice]] — the third voice, and what silencing does.
 - [[SOL]] — the heart-source, wordless on purpose.
-- [[The Dweller on the Threshold]] — the mind divorced from heart, given a face.
+- [[Concepts/The Dweller on the Threshold]] — the mind divorced from heart, given a face.
 - [[Kabbalah - The Tree of Life]] — the full map the poles sit on.

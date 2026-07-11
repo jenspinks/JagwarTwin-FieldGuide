@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line**: the same circular shape, drawn twice. The Circle grows you outward from your own center; the Loop walks you forever without letting you become anyone new.
 - **Where it shows up**: [[The Circle]] (the founding myth, the *33* closer), [[LOOP]] (the trap named from the light side), [[Welcome to the Circus]] (the Circle run outward as spectacle).
-- **Connected ideas**: [[Sir Lucius]], [[Albums & Eras/concepts_lift_opus_2026-07-10/Inversion]], [[Albums & Eras/concepts_lift_opus_2026-07-10/Source vs Reflection]], [[The Thread]], [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]], [[Mary]].
+- **Connected ideas**: [[Sir Lucius]], [[Inversion]], [[Source vs Reflection]], [[The Thread]], [[The Circus]], [[Mary]].
 - **Confidence**: grounded fact (Roy's own words, released songs, public posts) braided with strong interpretation. The heavy esoteric framework is collapsed into the drawers below and labeled as framework throughout. And keep the house rule handy: certainty is just a tone, not a truth.
 
 ## What it is
@@ -44,9 +44,9 @@ There is a quieter mechanism worth naming, because it is how the trap feels from
 
 **The Circle's signature gesture is the crowd singing it back.** The song the maker gave returns to her through the crowd's own voices, and that single image is the whole idea at once. It is the **anti-metric** (you cannot stream-count communion). It **enacts the founding myth**: the maker hid the song *"inside their wings,"* the new kings told the Jagwars *they never could sing,* so the crowd singing it back *is* the Jagwars singing again, the suppressed song recovered audibly in real time. It is **reciprocity at scale**: *"It moves to me, I move to you"* (from [[Move To You]]) is two centers in mutual motion, and the crowd singing it back scales that into a closing loop of mutual movement, which is what makes it a circle and not a broadcast. And it runs on **remembrance, not reception**: the crowd does not get the song handed down top-down, it *remembers* a song that was always inside it. The open secret, sung in unison.
 
-Its exact mirror-image is [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]]: the same crowd energy pointed the other way. The Circle *receives* voices in communion; the Circus *extracts* them for the metric. Same singing crowd, opposite pole.
+Its exact mirror-image is [[The Circus]]: the same crowd energy pointed the other way. The Circle *receives* voices in communion; the Circus *extracts* them for the metric. Same singing crowd, opposite pole.
 
-**The flip is deliberate, and it is Lucius's whole move.** [[Sir Lucius]] takes Roy's own recursive idea and turns the word against him: *"you're in a loop and you don't even realize it."* That is the operation called [[Albums & Eras/concepts_lift_opus_2026-07-10/Inversion]]: keep the form intact, reverse the vector. You cannot tell the Circle from the Circus by shape, both are circular, both spin. The only place the difference is legible is *from inside,* by whether you feel more or less yourself.
+**The flip is deliberate, and it is Lucius's whole move.** [[Sir Lucius]] takes Roy's own recursive idea and turns the word against him: *"you're in a loop and you don't even realize it."* That is the operation called [[Inversion]]: keep the form intact, reverse the vector. You cannot tell the Circle from the Circus by shape, both are circular, both spin. The only place the difference is legible is *from inside,* by whether you feel more or less yourself.
 
 ## Where it appears
 
@@ -71,19 +71,19 @@ The fruit bowl is doing more work than it lets on. It holds green apples and ban
 - [[Sir Lucius]]: names the Loop and weaponizes the word, the inversion specialist whose slow emergence runs parallel to the Circle's.
 - [[Roy]]: voices the Circle, felt and communal; *"my mind must serve my heart"* is his resolution.
 - [[The Thread]]: originates with the Circle, the *"world tied on a string"* is the thread of feeling, Ariadne's line back through the labyrinth.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]]: the Circle run outward as spectacle, *"no exit sign in my maze."*
+- [[The Circus]]: the Circle run outward as spectacle, *"no exit sign in my maze."*
 - [[Welcome to the Circus]]: the song that names the Circus, *"spinning you round and round."*
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Inversion]]: the operation by which Lucius flips the Circle into the Loop.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Source vs Reflection]]: the master frame, the Circle is return-to-source, the Loop is reflection closed on itself.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Communion vs Spectacle]]: distinct voices (Circle) versus forced unison (Circus/Loop).
+- [[Inversion]]: the operation by which Lucius flips the Circle into the Loop.
+- [[Source vs Reflection]]: the master frame, the Circle is return-to-source, the Loop is reflection closed on itself.
+- [[Communion vs Spectacle]]: distinct voices (Circle) versus forced unison (Circus/Loop).
 - [[The Wheel]]: the Circle in its most mechanical form, the dervish-versus-circus distinction.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Aquarium]]: the totalized closed system, *"the inside of the inside"* read as trap or as exit.
+- [[The Aquarium]]: the totalized closed system, *"the inside of the inside"* read as trap or as exit.
 - [[Move To You]]: the 2019 earliest-naming song, reciprocity at couple-scale.
 - [[Not Your Homie]]: the middle link of the LOOP chain, the Circle's own ring-game (ring-around-the-rosie, *"I'm ringing rosies, my pocket's full of posies"*) inverted into a plague-march.
 - [[Another Way II Heaven]]: the same cycle run at song-scale, its *"One, become Two"* the division the Loop-era spine opens with (*"The One was divided"*).
 - [[Soul Is A Star]]: the father's *"just one verse,"* the Joni Mitchell co-write, a transmission that arrives battered but recoverable, two halves of one inheritance packed in a seed. SOL rhymes with that one surviving verse; this guide reads them as the same *kind* of object, not the same song.
 - [[Mary]]: the feminine rememberer, the Wise One's archetypal territory.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Pattern]]: Roy's *"as above so below"* fractal law, the curated film-index that includes the Loop-escaped-through-love exemplars.
+- [[The Pattern]]: Roy's *"as above so below"* fractal law, the curated film-index that includes the Loop-escaped-through-love exemplars.
 - [[City of Angels]]: *"everyone looks just like you,"* the Loop's return-with-the-self-deleted, different paint jobs on the same soul.
 
 ## The buried irony at the center
@@ -118,7 +118,7 @@ Everything below is optional depth, folded into drawers so you can open only wha
 > The Wise One holds two faces at once, joined by anamnesis. There is a **cosmic-source** face (she *was* the maker, a Sophia/Shekinah register, the divine wisdom in exile who remembers and returns) and an **immanent-collective** face: because the song was hidden inside *every* Jagwar, the Wise One is the template of remembrance any of us can instantiate, *"all of us, remembering."* Roy grounds the collective face publicly (*"Jesus is my North Star"*; *"getting it inside out"*; *"Meet David Bowie,"* a Jesus, a Bowie, a Prince as exemplars). The Gnostic hinge is that personal awakening and reunion with the cosmic maker are the *same event,* which is why both faces can be true without contradiction.
 
 > [!reading]- The Master Key (it's mirrors all the way down)
-> Circle-versus-Loop is one special case of a larger frame: *does a reflection return you to the source, or trap you in the image?* The Circle is return-to-source; the Loop is a reflection closed on itself. And [[Sir Lucius]] is the third step the binary does not capture, not just a distorted mirror but a reflection that **claims sourcehood** (usurpation). One grounded tell that the mirror is structural rather than decorative: across the sung catalogue the pronoun counts run *I* ≈ *the* ≈ *you,* neck-and-neck, so the mirror is the *grammar* of the writing, not only an image laid on top of it. See [[Albums & Eras/concepts_lift_opus_2026-07-10/Source vs Reflection]].
+> Circle-versus-Loop is one special case of a larger frame: *does a reflection return you to the source, or trap you in the image?* The Circle is return-to-source; the Loop is a reflection closed on itself. And [[Sir Lucius]] is the third step the binary does not capture, not just a distorted mirror but a reflection that **claims sourcehood** (usurpation). One grounded tell that the mirror is structural rather than decorative: across the sung catalogue the pronoun counts run *I* ≈ *the* ≈ *you,* neck-and-neck, so the mirror is the *grammar* of the writing, not only an image laid on top of it. See [[Source vs Reflection]].
 
 > [!mask]- The Circle (Lucius Version): a cover-up, not a cover
 > The *Lucius Lullaby* opener performs four precise inversions of the keystone. **Awakening to dreaming:** the song of remembrance is rendered as a literal lullaby, a sleep-song, the Circle's waking doctrine turned into *"I'm dreaming."* **Depth to platitude:** the cosmology flattens to *"it's a beautiful life."* **Circle to Loop:** the living shape becomes a mechanical music box, wound from outside, no will of its own, going nowhere (beauty without agency is the Lucius condition exactly). **Many voices to one surface:** the original's communion becomes a single smooth surface hiding its multiplicity.
@@ -183,10 +183,10 @@ Everything below is optional depth, folded into drawers so you can open only wha
 > [!feed]- The First Rule of the Circle
 > The doctrine is not only sung, it is the operating name of the owned community. On the public @jagwartwin Discord, Roy uses *"the Circle"* as the name of the inner society: *"I'm so happy we got the circle going"* (2023); *"The circle is definitely a secret society"* (2023); *"only the circle knows about the circle"* (2024); *"welcome to the circle… This is where the real Jagwar fam plots"* (2024); *"the circle will grow"* (2024, echoing the song's refrain); *"circles never end ❤️"* (2024). Around the arena shows he even muses about opening a set with the Circle sung completely a cappella. The song's refrain becomes the community's slogan, enacted, and by now the same Circle vocabulary saturates the songs, the posts, and the lore alike, until the myth and the fandom are speaking the same sentences.
 >
-> The comedy writes itself: *"only the circle knows about the circle"* is pure fan-club-bouncer energy, gatekeeping a secret society whose secret is that it *is* a secret society. Roy also says, in one breath, *"the realm will expand the circle will grow,"* leaving open whether **[[Albums & Eras/concepts_lift_opus_2026-07-10/The Realm]]** is a distinct concept or just another name for the owned community, the blockchain-and-ren-faire end-run around the gatekeepers. (All quotes above are from Roy's public Discord.)
+> The comedy writes itself: *"only the circle knows about the circle"* is pure fan-club-bouncer energy, gatekeeping a secret society whose secret is that it *is* a secret society. Roy also says, in one breath, *"the realm will expand the circle will grow,"* leaving open whether **[[The Realm]]** is a distinct concept or just another name for the owned community, the blockchain-and-ren-faire end-run around the gatekeepers. (All quotes above are from Roy's public Discord.)
 
 > [!door]- The Inside of the Inside (trap, or the thinnest glass?)
-> The Loop has no single home, it is distributed across this page's neighbors (The Circle, LOOP, Inversion, Source vs Reflection, Communion vs Spectacle, The Wheel, The Aquarium). The richest open knot is *"the inside of the inside,"* which [[Albums & Eras/concepts_lift_opus_2026-07-10/The Aquarium]] reads **both** ways: the Loop's deepest trap (the center of the closed system, most caged) *or* the Circle's exit (the place the glass is thinnest, the breach). Same phrase, opposite valence, and the work has not decided which, possibly on purpose. The sharpest single source for the Loop/Circle distinction itself is a Hall of Mirrors poem in which a rabbit ends *"back where he begun"* but is *changed* by the passage: return without transformation versus return with it, in four lines. And it is worth saying plainly that the work is not one-and-done either way: those messy bits are *you,* and you cannot know yourself without sitting with them, and it will get cluttered again, because you are not static. The circle is a thing you keep re-entering, not a door you walk through once.
+> The Loop has no single home, it is distributed across this page's neighbors (The Circle, LOOP, Inversion, Source vs Reflection, Communion vs Spectacle, The Wheel, The Aquarium). The richest open knot is *"the inside of the inside,"* which [[The Aquarium]] reads **both** ways: the Loop's deepest trap (the center of the closed system, most caged) *or* the Circle's exit (the place the glass is thinnest, the breach). Same phrase, opposite valence, and the work has not decided which, possibly on purpose. The sharpest single source for the Loop/Circle distinction itself is a Hall of Mirrors poem in which a rabbit ends *"back where he begun"* but is *changed* by the passage: return without transformation versus return with it, in four lines. And it is worth saying plainly that the work is not one-and-done either way: those messy bits are *you,* and you cannot know yourself without sitting with them, and it will get cluttered again, because you are not static. The circle is a thing you keep re-entering, not a door you walk through once.
 
 > [!feed]- Straight From the Feed (Roy's own posts)
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
@@ -212,5 +212,5 @@ Everything below is optional depth, folded into drawers so you can open only wha
 - [[LOOP]]: the trap named from the light side, and asked to break.
 - [[Welcome to the Circus]]: the Circle inverted into spectacle, *"no exit sign in my maze."*
 - [[Sir Lucius]]: the figure who names the Loop and turns the word against its maker.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Source vs Reflection]]: the master frame the Circle/Loop split lives inside.
+- [[Source vs Reflection]]: the master frame the Circle/Loop split lives inside.
 - [[The Thread]]: the string the maker tied the world to, and the Wise One remembered holding.

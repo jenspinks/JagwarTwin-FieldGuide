@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the carrier of a counterfeit light: he brings illumination, technically; it just blinds rather than guides.
 - **Where it shows up** — [[Welcome to the Circus]] (*"flashing lights, there's no exit sign in my maze"*) · [[Good Time (1-08)|Good Time (1:08)]] (the 2023 video that assembles the whole visual vocabulary) · [[City of Angels]] (*"the City of Light"* / *"bright lights"* — the one Light made plural) · [[Soul Is A Star]] (the soul-star the fame-star counterfeits) · [[Weirdness]] (*"his weirdness is sunshine"* — the first move to reclaim the light).
-- **Connected ideas** — [[Sir Lucius]] · [[Inversion]] · [[The Circus]] · [[The Mirror]] · [[The Algorithm]] · [[SOL]] · [[Source vs Reflection]] · [[Duality]].
+- **Connected ideas** — [[Sir Lucius]] · [[Concepts/Inversion]] · [[Concepts/The Circus]] · [[The Mirror]] · [[Concepts/The Algorithm]] · [[SOL]] · [[Concepts/Source vs Reflection]] · [[Concepts/Duality]].
 - **Confidence** — a framework-tier *reading* of a grounded figure. The anchors are public (the etymology, the Circus lyric, Roy's own X aphorisms, the green-apple decode, the Devil-card pointer); the esoteric scaffolding is labeled as interpretation throughout.
 
 ## What it is
@@ -34,7 +34,7 @@ And — crucially — he is not evil to begin with. Roy is explicit: *"Nothing i
 The figure gathers a cluster of related lights, each one a slightly different angle on the same problem:
 
 - **The morning star (Venus).** The most brilliant object in the sky before dawn — the light that *precedes* the real light, gets mistaken for it, and is then extinguished by the sunrise it announced. The herald that thinks it's the king.
-- **The false angel of light.** Scripture warns that *"Satan himself is transformed into an angel of light"* (2 Corinthians 11:14) — the mimicry of illumination, light counterfeited. That is, almost word for word, the technique of the project's [[The Circus|Circus]].
+- **The false angel of light.** Scripture warns that *"Satan himself is transformed into an angel of light"* (2 Corinthians 11:14) — the mimicry of illumination, light counterfeited. That is, almost word for word, the technique of the project's [[Concepts/The Circus|Circus]].
 - **Prometheus.** A different, more ambiguous Light-Bearer — the titan who stole fire for humanity and was punished eternally for the gift. Light-bearing as a transgression that is also a mercy. (This one points away from Lucius and toward [[Roy]]; see below.)
 
 What ties this to the spine of the whole project is Roy's own theology of the mind. He has said, unprompted, that across mythologies *the intellect is equated with the Lucifer archetype* — *"the highest angel in God's kingdom, the most beautiful angel with the most potential to fall and cause destruction and burn everything to the ground. And that's kind of like the mind."* That sentence is the warrant for the entire reading. Lucius is the mind divorced from the heart; the mind, in Roy's framing, *is* the Lucifer archetype; so the Light-Bearer material isn't a clever overlay laid on top of Lucius — it's the structure Roy himself reached for to describe him.
@@ -66,23 +66,23 @@ Two of Roy's public X posts round out the steady/flashing dialectic in his own t
 - [[SOL]] — the sun (Spanish), the Song of Love; the source the Light-Bearer cannot absorb. The answer both the tarot and Kabbalah sequences converge on.
 - [[Soul Is A Star]] — the soul-star (real, inner, celestial) vs. the fame-star (the Circus's counterfeit); the genuine light the Light-Bearer's billing knocks off.
 - [[City of Angels]] — *"the City of Light"* (singular *luc-*) folding LA into Lucius's domain; *"bright lights"* (plural) as the one Light scattered into ungathered sparks.
-- [[Inversion]] — Lucifer as the inverted angel; the inverted *function* of light. *"Fear functions like prayer in reverse."*
-- [[The Circus]] — the architecture built out of the disorienting glare; the Light-Bearer's domain.
+- [[Concepts/Inversion]] — Lucifer as the inverted angel; the inverted *function* of light. *"Fear functions like prayer in reverse."*
+- [[Concepts/The Circus]] — the architecture built out of the disorienting glare; the Light-Bearer's domain.
 - [[The Mirror]] — the reflector of light; the realm of images he works through.
-- [[The Algorithm]] — the engine of the flashing lights: the notification, the metric, the screen that never stops.
+- [[Concepts/The Algorithm]] — the engine of the flashing lights: the notification, the metric, the screen that never stops.
 - [[The Thread]] — the counter-image: not made of light, felt in the dark; the maze navigated by *touch*, not by the strobe.
 - [[The Mask]] — the white face paint: light and concealment in one color.
-- [[The Dweller on the Threshold]] — Lucius as Roy's Dweller; the threshold-figure who (per Steiner) can become a guide once recognized.
-- [[The Protector]] — the Light-Bearer's possible re-ordering. Lucius is the Protector calcified; *"go inward, past Lucius, to the child."*
-- [[Duality]] — *"more light reveals more shadow."*
+- [[Concepts/The Dweller on the Threshold]] — Lucius as Roy's Dweller; the threshold-figure who (per Steiner) can become a guide once recognized.
+- [[Concepts/The Protector]] — the Light-Bearer's possible re-ordering. Lucius is the Protector calcified; *"go inward, past Lucius, to the child."*
+- [[Concepts/Duality]] — *"more light reveals more shadow."*
 - [[Fire]] — the dual fire: Lucius holding the candle in the *Bad Feeling* fire-tag; the Circus's ring of fire; the Promethean theft.
-- [[Source vs Reflection]] — the master-key meta-frame: the Light-Bearer is the far, *usurping* end of reflection.
-- [[Kabbalah - The Tree of Life]] · [[Hermeticism - As Above So Below]] · [[Keilim - The Breaking of the Vessels]] — the esoteric streams this material sits on (kept distinct; see Advanced reading).
+- [[Concepts/Source vs Reflection]] — the master-key meta-frame: the Light-Bearer is the far, *usurping* end of reflection.
+- [[Kabbalah - The Tree of Life]] · [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] · [[Concepts/Keilim - The Breaking of the Vessels]] — the esoteric streams this material sits on (kept distinct; see Advanced reading).
 
 ## Advanced reading
 
 > [!note]- Advanced reading — the name (resonance, not proof)
-> This one is worth sitting with precisely because it's *only* a resonance, not a claim about intent. **Sir Lucius** comes from the Latin name *Lucius*, built on *lux*, "light." **Lucifer** is *lux* (light) plus *ferre* (to carry). The two names share the root *lux*. So the character who is *"the mind divorced from the heart,"* who runs the [[The Circus|Circus]] on algorithmic fuel and calls himself *"the final boss,"* carries a name that means *light* at its root. This requires no conscious intent from the artist and shouldn't be read as a hidden confession — the resonance is structural, an echo in the etymology, and it's load-bearing for the reading whether or not it was deliberate. Which raises the discrete open question worth stating outright: **does the name need to be *intentional* to be load-bearing?** The reading's answer is no — an etymological resonance can do real interpretive work as structure even if the artist never reached for it — but whether Roy reached for it stays formally open, resolvable only by a Roy-sourced statement.
+> This one is worth sitting with precisely because it's *only* a resonance, not a claim about intent. **Sir Lucius** comes from the Latin name *Lucius*, built on *lux*, "light." **Lucifer** is *lux* (light) plus *ferre* (to carry). The two names share the root *lux*. So the character who is *"the mind divorced from the heart,"* who runs the [[Concepts/The Circus|Circus]] on algorithmic fuel and calls himself *"the final boss,"* carries a name that means *light* at its root. This requires no conscious intent from the artist and shouldn't be read as a hidden confession — the resonance is structural, an echo in the etymology, and it's load-bearing for the reading whether or not it was deliberate. Which raises the discrete open question worth stating outright: **does the name need to be *intentional* to be load-bearing?** The reading's answer is no — an etymological resonance can do real interpretive work as structure even if the artist never reached for it — but whether Roy reached for it stays formally open, resolvable only by a Roy-sourced statement.
 >
 > A wider name-cluster sits behind it, of varying strength. The *luc-/light* root threads through **Lucifer / lux / Lucis** — and here a genuine convergence appears: **Alice Bailey**, a named Roy influence (he publicly annotates her *Labours of Hercules*), founded the **Lucis Trust**, whose publishing arm was originally the **Lucifer Publishing Company** (1922, renamed Lucis 1925). *Lucis / Lucifer / Lucius* all share the light-root. But this is convergence *within* a shared Theosophical substrate, **not** evidence that Roy named Lucius after the Trust — *Lucius* already means light, and the name-overlap resolves on its own. Whether Roy ever connects the two stays open, resolvable only by a Roy-sourced statement. Roy has also followed *"a Rudolf Steiner rabbit hole with the Gospel of Luke,"* tying the name to **Luke / Loukas** as well as Lucifer. The weakest strand of all is the pop-culture cousin, **Lucius Malfoy** — a shared light-name, not a source.
 >
@@ -110,7 +110,7 @@ Two of Roy's public X posts round out the steady/flashing dialectic in his own t
 > [!note]- Advanced reading — inversion, and why he can't be "fixed like a dirty mirror"
 > Lucifer is the *inverted* angel, and the Light-Bearer inverts the *function* of light. But inversion is not negation: Lucius keeps the form intact and reverses its direction — the same liturgy, circle, prayer, or word, pointed backward. The grounded anchor sits on Roy's own body: the tattoo *"Fear Functions like Prayer in Reverse."* Same gesture, opposite vector.
 >
-> That inversion has a graded interior (from [[Source vs Reflection]]): **Transmission** (a reflection that stays servant) → **Distortion** (a reflection that forgets it is a reflection) → **Usurpation** (a reflection that tries to *become* the source itself). Lucius sits at the far end. He's not a bad copy or a smudged mirror — he's a reflection that has become a *rival center*, the moon staging a coup on the sun. Which is exactly why he can't be cleaned up like a dirty mirror: the problem isn't smudge, it's the claim to sourcehood. Note the white mask doing double duty here too — white as the color of *light* and the color of *concealment* at once.
+> That inversion has a graded interior (from [[Concepts/Source vs Reflection]]): **Transmission** (a reflection that stays servant) → **Distortion** (a reflection that forgets it is a reflection) → **Usurpation** (a reflection that tries to *become* the source itself). Lucius sits at the far end. He's not a bad copy or a smudged mirror — he's a reflection that has become a *rival center*, the moon staging a coup on the sun. Which is exactly why he can't be cleaned up like a dirty mirror: the problem isn't smudge, it's the claim to sourcehood. Note the white mask doing double duty here too — white as the color of *light* and the color of *concealment* at once.
 
 > [!note]- Advanced reading — stop / re-order / redeem (three streams, kept un-collapsed by design)
 > The arc's treatment of the Light-Bearer is emphatically **not** "kill the enemy." A straightforward attempt to *remove* him fails by design: Roy's public **STOP SIR LUCIUS** flyer-and-banner campaign (March 2026) collapses, and in the theatrical EP6 Roy is the one captured. You can't excise what isn't external. The figure is a *misplaced/autonomous power* — a reflection that came to believe it was the source — so the verb the arc reaches for depends on which interpretive stream you read it through, and the project deliberately keeps all three live:
@@ -119,7 +119,7 @@ Two of Roy's public X posts round out the steady/flashing dialectic in his own t
 > 2. **Lurianic *kelipah* / shell → STOP / STRIP.** The husk that merely substitutes for the real is broken off, not integrated.
 > 3. **Jungian shadow → REDEEM / INTEGRATE.** The Dweller-who-becomes-guide, owned and brought into the self.
 >
-> The project does **not** collapse these into one answer — which is why whether Lucius is ever *truly* redeemed stays open **by design**, not for lack of evidence. (Stream-guard: Lurianic ≠ Hermetic ≠ Jungian — always name the stream. See [[Keilim - The Breaking of the Vessels]] for the break/husk machinery.)
+> The project does **not** collapse these into one answer — which is why whether Lucius is ever *truly* redeemed stays open **by design**, not for lack of evidence. (Stream-guard: Lurianic ≠ Hermetic ≠ Jungian — always name the stream. See [[Concepts/Keilim - The Breaking of the Vessels]] for the break/husk machinery.)
 >
 > What's being re-ordered, stopped, or redeemed isn't a single mood but a *whole machinery* of misplaced power: Lucius runs as a constellation of context-bound selves with no integrated center — prophet/power, comic sidekick (with [[BMRC#Leif|Leif]] as the foil that lets him cohere), and a pleading childlike core the other modes exist to defend. That fuller anatomy lives on the [[Sir Lucius]] page; it matters here only as the reminder that the Light-Bearer is not one steady villain to switch off but a reactive system — which is *why* "kill the enemy" was never going to work. (The comic register stays on the Sir Lucius page by design — the spoon brandished as a scepter, the "sir lucius for president" bit, the industry-scorecard rants. Even there it's load-bearing, not decoration: a usurper who reaches for a spoon to play king is the whole counterfeit-crown thesis told as a sight gag — the herald who thinks he's the king, holding the wrong prop.)
 
@@ -168,8 +168,8 @@ Two of Roy's public X posts round out the steady/flashing dialectic in his own t
 - [[Sir Lucius]] — the figure the Light-Bearer reads; start here.
 - [[Welcome to the Circus]] — the strobe-maze made explicit; *"the final boss."*
 - [[Weirdness]] — Lucius as *distorted* light, not absence of light: the first integration move.
-- [[Source vs Reflection]] — the master-key frame; the usurpation end of reflection.
-- [[Inversion]] — the inverted angel; the inverted function of light.
+- [[Concepts/Source vs Reflection]] — the master-key frame; the usurpation end of reflection.
+- [[Concepts/Inversion]] — the inverted angel; the inverted function of light.
 - [[Soul Is A Star]] — the soul-star the fame-star counterfeits; the real celestial light, relocated inward.
 - [[City of Angels]] — the *City of Light* and the scattered *bright lights*; the figure's city named by its root.
 - [[SOL]] — the sun the Light-Bearer cannot absorb.

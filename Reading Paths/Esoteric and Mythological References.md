@@ -14,12 +14,12 @@ Underneath the songs runs a current of esoteric and mythological material: Kabba
 ## The route
 
 1. [[Kabbalah - The Tree of Life]] — start here: a single source of light and a row of bodies that only reflect it, which is exactly the shape of Roy, Lucius, and Mary.
-2. [[Gnosticism - The World as Trap]] — the oldest version of the project's most public idea: the world as managed illusion, the self a spark trapped inside, the way out remembrance rather than acquisition.
-3. [[Hermeticism - As Above So Below]] — the counterweight to the trap: one coherent, legible law repeating at every scale, whose central maxim Roy printed on a video years before anyone decoded his sources.
-4. [[The Light-Bearer]] — where the traditions turn personal: the figure who carries light that disorients instead of illuminating, his symbol the strobe of the stage rather than a steady flame.
-5. [[The Labors of Hercules]] — the trial-cycle the project genuinely runs on: the Twelve Labors read as a map of the soul, with the tyrant-ego Lion the one that matters most here.
+2. [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the oldest version of the project's most public idea: the world as managed illusion, the self a spark trapped inside, the way out remembrance rather than acquisition.
+3. [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the counterweight to the trap: one coherent, legible law repeating at every scale, whose central maxim Roy printed on a video years before anyone decoded his sources.
+4. [[Concepts/The Light-Bearer]] — where the traditions turn personal: the figure who carries light that disorients instead of illuminating, his symbol the strobe of the stage rather than a steady flame.
+5. [[Concepts/The Labors of Hercules]] — the trial-cycle the project genuinely runs on: the Twelve Labors read as a map of the soul, with the tyrant-ego Lion the one that matters most here.
 6. [[The Green Apple]] — where all of it surfaces in one object: knowledge taken before it's earned, the Genesis-3 fruit picked unripe, and Lucius's permanent mark.
 
 ## Where to go next
 
-Follow [[The Hall of Mirrors]] to see these traditions encoded as a puzzle, or open the [[Concepts]] hub for the rest of the esoteric material, including [[Hermeticism - As Above So Below|the Pattern]] and the breaking of the vessels. The people Roy actually reads have pages of their own — [[Carl Jung]], [[Gurdjieff]], and [[Alice Bailey]] — collected, with the full named roster, under [[Roy on Influences]].
+Follow [[The Hall of Mirrors]] to see these traditions encoded as a puzzle, or open the [[Concepts]] hub for the rest of the esoteric material, including [[Concepts/The Sacred Truths/Hermeticism - As Above So Below|the Pattern]] and the breaking of the vessels. The people Roy actually reads have pages of their own — [[Carl Jung]], [[Gurdjieff]], and [[Alice Bailey]] — collected, with the full named roster, under [[Roy on Influences]].

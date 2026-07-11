@@ -23,7 +23,7 @@ One of the album's *oldest* seeds. Per Roy's own account of the record, "Superhu
 - **Era / release** — *Subject to Flooding*, 2018 (Atlantic redistribution shows 2019 in Apple metadata). Track 6, directly after its own 22-second interlude.
 - **In one line** — human limitation reaching, collectively and by force, toward inner divinity — and never quite arriving.
 - **Who speaks** — [[Roy]], but dissolved into a roaring, faceless **"we"**: the Protector gone from solo guard to marching army. No [[Sir Lucius]] yet — this is 2018, pre-mask — but the consequence-blind force the persona later refines is rehearsed here.
-- **Key symbols** — the **lion** (not yet slain) · the **march / drill** ("left, right, left") · the **open roof / no ceiling** · **blood on the knees** · the **battlecry**. See [[The Protector]] · [[Move To You]] · [[Welcome to the Circus]].
+- **Key symbols** — the **lion** (not yet slain) · the **march / drill** ("left, right, left") · the **open roof / no ceiling** · **blood on the knees** · the **battlecry**. See [[Concepts/The Protector]] · [[Move To You]] · [[Welcome to the Circus]].
 
 ## The song, mapped
 
@@ -48,7 +48,7 @@ A verse-driven anthem built to peak — until a bridge pulls the floor out. Its 
 
 A few claims that cut across the whole song.
 
-**The Protector, marching.** This is [[The Protector]] in its martial, collective mode. The isolated trauma of the album's earlier tracks gets converted into a mechanized front: the vulnerable solo voice gives way to a roaring "we," and the cadence *"left, right, left"* standardizes movement into a rigid binary that locks the tender self inside a moving tank. Armoring, not healing.
+**The Protector, marching.** This is [[Concepts/The Protector]] in its martial, collective mode. The isolated trauma of the album's earlier tracks gets converted into a mechanized front: the vulnerable solo voice gives way to a roaring "we," and the cadence *"left, right, left"* standardizes movement into a rigid binary that locks the tender self inside a moving tank. Armoring, not healing.
 
 **One wound, three faces.** Set against [[Loser]] and [[Good Day]] — both on *this same album* — *Superhuman* completes a trilogy of the same faceless formation in three modes. **Loser** is shame-mode: dissolve into "we're all losers" so shame can't land. **Good Day** is mood-mode: seal the vibe so disturbance can't land. **Superhuman** is martial-mode: armor up as an army. One wound-born operator, three masks, all of it *before* the operator acquires a name and a face. The escalation tell is simple and a little chilling: **the march needs the inadequacy.** If you were already enough, there'd be nothing to fight.
 
@@ -80,7 +80,7 @@ A few claims that cut across the whole song.
 
 - **The lion** — via Bailey, the Nemean lion: the coordinated, devastating *personality* (mind, emotion, and vitality fused into one wild force). In *Superhuman* it's the lion **not yet slain** — the goal is to master it by wearing its skin, not to overpower it. The song's central symbol. (See Advanced reading below.)
 - **The march / drill ("left, right, left")** — the mechanizing cadence: a rigid binary that standardizes movement and locks the tender self inside a moving tank.
-- **The ceiling / roof ("no ceiling up on the roof")** — the open-top / boundlessness motif: reads as freedom, scans as inflation. Part of a cross-era roof/ceiling series — *"wave 'em to the ceiling"* ([[Hell Of A Night]]) → *"no ceiling up on the roof"* (here) → *"tear the roof off of my house"* ([[Bounce]], 2026). (See [[The House and the Vessel|The House & the Vessel]].)
+- **The ceiling / roof ("no ceiling up on the roof")** — the open-top / boundlessness motif: reads as freedom, scans as inflation. Part of a cross-era roof/ceiling series — *"wave 'em to the ceiling"* ([[Hell Of A Night]]) → *"no ceiling up on the roof"* (here) → *"tear the roof off of my house"* ([[Bounce]], 2026). (See [[Concepts/The House and the Vessel|The House & the Vessel]].)
 - **Blood (on the knees)** — *"blood on our knees, workin' the overtime"*: blood as the **cost of the fight.** This is a verbatim-family repeat of *"blood on they knees"* from the album's own opener [[Long Time Coming]] (tracks 1 and 6) — where the opener sets solidarity, *Superhuman* escalates it to cost.
 - **The battlecry** — *"scream out the battlecry,"* *"raise up your voices"*: the spectacle-manufacturing voice.
 
@@ -182,5 +182,5 @@ Yeah, we gon' fight 'til it's through 'cause we're superhuman
 - [[Superhuman (Interlude)]] — the 22-second Chaplin thesis that comes first.
 - [[Loser]] — the counter-thesis: *enough,* against *become more.*
 - [[Move To You]] — the structural inverse, one track later: the heart, not the march.
-- [[The Protector]] — the wound-born operator this song wears as an army.
+- [[Concepts/The Protector]] — the wound-born operator this song wears as an army.
 - [[Welcome to the Circus]] — where the spectacle finally gets captured.

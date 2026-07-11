@@ -20,7 +20,7 @@ BMRC is the production-house-slash-weapons-brand whose initials are stamped acro
 - **Role** — the in-lore industry entity of the *Lucius Lullaby* era, part studio, part munitions label, part social club: the corporate signature of Lucius's own Circus.
 - **First stamped** — *"welcome to the BMRC 🎪"* (Roy's feed, January 5, 2026); then across merch drops, the album's bonus track, the video end-cards, and a real Los Angeles event.
 - **Personnel** — [[Sir Lucius]] (the boss, the visible operator) · **Leif** (the muscle; the one who calls Lucius *"Boss"*).
-- **Related** — [[The Circus]] · [[The System]] · [[Consumption]] · [[The Algorithm]] · [[The Interview]].
+- **Related** — [[Concepts/The Circus]] · [[The System]] · [[Concepts/Consumption]] · [[Concepts/The Algorithm]] · [[The Interview]].
 - **Confidence** — every appearance is a grounded public artifact; everything about what BMRC *means* is held as an open question, on purpose.
 
 ## The two faces of the brand
@@ -51,7 +51,7 @@ The [[Open Questions]] page keeps the honest version on the table: is Leif a sep
 
 ## The open question it stages
 
-BMRC exists to hold one question open: **is the disruptor pose opposition, or assignment?** Lucius performs the rebel — *"you build your own table"* — while stamping his own brand on his own show and his own rocket launcher. He is certain he is the top, the self-crowned *"final boss"* who answers to no one. This guide's grounded frame says he is wrong about that, though not in the way it might look: there is no corporate Boss over his shoulder. The power he cannot see is the *champion* — [[Mary]], or [[Roy]] — the true victor of the larger story, whom Lucius neither acknowledges nor believes in. So the live question is not *"who is the Boss above him"* (he recognizes none); it is whether his whole rebellion is unknowingly in service of the pattern he thinks he has escaped, with [[Consumption]]'s appetite (*who is the actual consumer?*) running *through* him rather than stopping at him. See [[The System]] for the full treatment.
+BMRC exists to hold one question open: **is the disruptor pose opposition, or assignment?** Lucius performs the rebel — *"you build your own table"* — while stamping his own brand on his own show and his own rocket launcher. He is certain he is the top, the self-crowned *"final boss"* who answers to no one. This guide's grounded frame says he is wrong about that, though not in the way it might look: there is no corporate Boss over his shoulder. The power he cannot see is the *champion* — [[Mary]], or [[Roy]] — the true victor of the larger story, whom Lucius neither acknowledges nor believes in. So the live question is not *"who is the Boss above him"* (he recognizes none); it is whether his whole rebellion is unknowingly in service of the pattern he thinks he has escaped, with [[Concepts/Consumption]]'s appetite (*who is the actual consumer?*) running *through* him rather than stopping at him. See [[The System]] for the full treatment.
 
 ## Source notes
 
@@ -64,6 +64,6 @@ BMRC exists to hold one question open: **is the disruptor pose opposition, or as
 
 - [[The System]] — the force this entity may be the letterhead of.
 - [[Sir Lucius]] — the visible operator, three modes deep.
-- [[The Circus]] — the show BMRC produces.
-- [[Consumption]] — the eating that may run upstream.
+- [[Concepts/The Circus]] — the show BMRC produces.
+- [[Concepts/Consumption]] — the eating that may run upstream.
 - [[The Interview]] — where Leif earns his keep.

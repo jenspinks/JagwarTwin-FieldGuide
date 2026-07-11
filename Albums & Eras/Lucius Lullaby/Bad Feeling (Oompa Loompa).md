@@ -26,7 +26,7 @@ Here is a song that grew out of Roy digging through his own ancestry — German,
 - **Era / release** — Single, Dec 15 2023 (a *Wonka*-film tie-in); folded into [[Lucius Lullaby (album)|Lucius Lullaby]] (2026) as track 5, with an acoustic-live track 15. A whole 2024 rollout in between: gallery show, music video, live acoustic, remix, cemetery show.
 - **In one line** — A candy-coated smoke alarm — and, in the same breath, a candy-factory product. The tell that warns you about the machine while running through it.
 - **Who speaks** — [[Sir Lucius]] claims the track outright ("those are me"), so the warning issues from the shadow's own mouth. But the *gut* doing the warning is [[Roy]]'s. The song's one diagnostic line turns on the Crowd: *"bad feeling 'bout you."*
-- **Key symbols** — [[Consumption]] · [[The Mask]] · [[Inversion]] · [[The Moon]] · candy/chocolate · [[The Circus]] · fire
+- **Key symbols** — [[Concepts/Consumption]] · [[The Mask]] · [[Concepts/Inversion]] · [[The Moon]] · candy/chocolate · [[Concepts/The Circus]] · fire
 
 ## The song, mapped
 
@@ -68,12 +68,12 @@ A handful of claims that cut across the whole thing.
 
 ## Symbols
 
-- [[Consumption]] — the crowd as appetite; people eaten as content, scandal, outrage, on demand. The mouth / mandible makes it bodily.
+- [[Concepts/Consumption]] — the crowd as appetite; people eaten as content, scandal, outrage, on demand. The mouth / mandible makes it bodily.
 - [[The Mask]] — *"everything's perfect here"* is the [[Happy Face]] mask's audio, scaled to an entire environment.
-- [[Inversion]] — *"the truth is a lie that nobody can tell"*: truth flipped into a lie and made unspeakable; the cautionary chorus flipped from after-the-fall to before-it. Bad Feeling is the middle stage of a three-song arc (see Advanced reading).
+- [[Concepts/Inversion]] — *"the truth is a lie that nobody can tell"*: truth flipped into a lie and made unspeakable; the cautionary chorus flipped from after-the-fall to before-it. Bad Feeling is the middle stage of a three-song arc (see Advanced reading).
 - Candy / chocolate — the coating: sweetness now, the medicine (dread) inside. Sugar as anesthetic; how a candy factory gets you to swallow things. *(The tooth-decay nightmare belongs to the adjacent [[Welcome to the Circus]], not here.)*
 - [[The Moon]] — *"when the moon hits the sky, I'm a little unwell"* → luna / lunacy; the dread arriving under a reflected, borrowed light.
-- [[The Circus]] — the 2024 video stages the fully-realized Circus (carousel, giant chess pieces, harlequin animal-masks, ringmaster Roy). The candy factory *is* the Circus.
+- [[Concepts/The Circus]] — the 2024 video stages the fully-realized Circus (carousel, giant chess pieces, harlequin animal-masks, ringmaster Roy). The candy factory *is* the Circus.
 - Fire — the 2024 video's closing tag: Lucius holds a candle while performers' heads burn. Light-Bearer, staged.
 
 ## Connected songs

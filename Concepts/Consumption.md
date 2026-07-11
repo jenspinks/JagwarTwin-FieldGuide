@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the Circus doesn't house you, watch you, or sell to you. It *eats* you, and the algorithm does the digesting.
 - **Where it shows up** — [[Welcome to the Circus]] (*"I'll chew you up, spit you out"*) · [[I Like to Party]] (the force-feeding video) · [[Bad Feeling (Oompa Loompa)]] (the attention economy as a mouth).
-- **Connected ideas** — [[The Circus]] · [[The Algorithm]] · [[The Audience]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Flattened Identity]] · [[Inversion]] · [[The Mouth]].
+- **Connected ideas** — [[Concepts/The Circus]] · [[Concepts/The Algorithm]] · [[Concepts/The Audience]] · [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Concepts/Flattened Identity]] · [[Concepts/Inversion]] · [[Concepts/The Mouth]].
 - **Confidence** — the naming line and the video are grounded fact; the digestion is a strong reading; the biblical and esoteric apparatus is framework, labeled throughout.
 
 ## What it is
@@ -27,7 +27,7 @@ And it's been on the menu since the start. This isn't a Circus-era invention; th
 
 ## How it works
 
-The single most useful thing to know about Consumption is that it is a *counterfeit* of something real — and the real thing is everywhere in the same body of work. The whole drama of the project runs on one fault line: the heart versus the machine that was supposed to serve it. A machine kept under the heart is creation. The same machine cut loose becomes [[The Algorithm]] — optimization severed from feeling, now optimizing *you* into fuel. So Consumption isn't "eating is bad" or generic anti-consumerism. The villain is the *severing*, not the mouth. (More on that guardrail below — it's what keeps this page from collapsing into a poster about screen time.)
+The single most useful thing to know about Consumption is that it is a *counterfeit* of something real — and the real thing is everywhere in the same body of work. The whole drama of the project runs on one fault line: the heart versus the machine that was supposed to serve it. A machine kept under the heart is creation. The same machine cut loose becomes [[Concepts/The Algorithm]] — optimization severed from feeling, now optimizing *you* into fuel. So Consumption isn't "eating is bad" or generic anti-consumerism. The villain is the *severing*, not the mouth. (More on that guardrail below — it's what keeps this page from collapsing into a poster about screen time.)
 
 Once you have that frame, the catalogue lights up as variations on a single mouth:
 
@@ -39,7 +39,7 @@ Once you have that frame, the catalogue lights up as variations on a single mout
 - **The pitch you swallow and re-transmit.** [[City of Angels]] runs a pronoun rotation — *your* dream → *my* dream → *your* dream — as the city's sales pitch is aimed at him, swallowed (*"my"*), and re-aimed at the next walker. He doesn't escape the beautiful stranger; he *becomes* one. The promise — *"never gonna die… live forever in the bright lights, godlike"* — is the upload/immortality counterfeit, resurrection downgraded to taxidermy.
 - **The sweet that clones you.** [[The Watchers]] welds consumption to the clone-fear: *"now they want candy / but I'm not Mandy Moore."* The crowd wants the sweet, edited, manufactured pop-commodity — and *to be consumed sweetly is to be cloned.*
 
-What ties these together, and what keeps the concept honest, is the contrast pole. The Circus doesn't have the only mouth in the catalogue. There's also the mouth that *testifies* — Roy's song, Ballerina Boy's voice, the Song of Love (see [[The Mouth]]). [[Welcome to the Circus]] is brutal precisely because it packs three mouth-*failures* into one song — *"teeth falling out," "screaming, no words come out," "shut your mouth"* — alongside the chew-you-up line. The body that should sing is the body being eaten.
+What ties these together, and what keeps the concept honest, is the contrast pole. The Circus doesn't have the only mouth in the catalogue. There's also the mouth that *testifies* — Roy's song, Ballerina Boy's voice, the Song of Love (see [[Concepts/The Mouth]]). [[Welcome to the Circus]] is brutal precisely because it packs three mouth-*failures* into one song — *"teeth falling out," "screaming, no words come out," "shut your mouth"* — alongside the chew-you-up line. The body that should sing is the body being eaten.
 
 ## Where it appears
 
@@ -53,10 +53,10 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 - **[[City of Angels]]** — swallowing the pitch; the upload-immortality counterfeit.
 - **[[Good Day]]** — the earliest node; consumption-as-anesthetic.
 - **[[Not Your Homie]]** / **[[Bounce]]** — parasocial consumption; *"love me for my lore."*
-- **The manifesto cards** ([[The Manifesto Cards]]) — the consumerism critique stamped on paratext since ~2020. The Happy Face card frames an infomercial parody: *"ARE YOU CONTENT? CALL NOW"* under a *"BROUGHT TO YOU BUY"* banner (with a ® and a *(TICK)…(TOCK)*), carrying a *"death of my generation"* payload in TV-pastiche register. The literal word *"consume"* — alongside *"BUY"* — appears on the cards.
+- **The manifesto cards** ([[Concepts/The Manifesto Cards]]) — the consumerism critique stamped on paratext since ~2020. The Happy Face card frames an infomercial parody: *"ARE YOU CONTENT? CALL NOW"* under a *"BROUGHT TO YOU BUY"* banner (with a ® and a *(TICK)…(TOCK)*), carrying a *"death of my generation"* payload in TV-pastiche register. The literal word *"consume"* — alongside *"BUY"* — appears on the cards.
 
 > [!note]- Advanced reading — the "ARE YOU CONTENT?" triple pun
-> One infomercial line holds the entire consumerism-versus-seeker critique. *Content* = happy/satisfied (the seeker's question). *Content* = media-to-be-consumed — *are you the content?* — which is exactly what the *"BROUGHT TO YOU BUY"* frame implies. *Content* = complacent, contained, pacified. The card asks all three at once and means all three: are you at peace, are you the product, and are you sitting still while it happens? Routes straight to [[The Algorithm]], Consumption, and [[The Circus#What it produces (the Spectacle)|the Spectacle]].
+> One infomercial line holds the entire consumerism-versus-seeker critique. *Content* = happy/satisfied (the seeker's question). *Content* = media-to-be-consumed — *are you the content?* — which is exactly what the *"BROUGHT TO YOU BUY"* frame implies. *Content* = complacent, contained, pacified. The card asks all three at once and means all three: are you at peace, are you the product, and are you sitting still while it happens? Routes straight to [[Concepts/The Algorithm]], Consumption, and [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]].
 
 > [!note]- Advanced reading — Bad Feeling's two-way digestion (the crowd that sings is the crowd that's eaten)
 > *Bad Feeling* eats in both directions. V2 turns the audience into appetite — *"carnivores and cannibals… mandible, jaw split… gossip"* — but the Oompa-Loompas doing the singing are *themselves* consumed labor: imported workers paid in cacao beans, used as test subjects, one of them turned into a blueberry. The chorus that sings the warning is the factory's own product and victim. The crowd that sings is the crowd that's eaten. (The chorus phrase *"Everything's Perfect Here"* later became the title of Roy's first gallery show and pop-up — Lauren Powell Projects, LA, opened Jan 20, 2024.) A counter-flag worth keeping: not every devouring image encodes Consumption. The candy-horror wordplay may just be vivid candy-horror wordplay, and Roy's own read is the modest *"trust your gut."* Hold the systems-critique and the gut-feeling at once — the gap between them is itself a wink.
@@ -66,20 +66,20 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 
 ## Connections
 
-- [[The Circus]] — the consuming system itself; Consumption is *how* it processes material.
+- [[Concepts/The Circus]] — the consuming system itself; Consumption is *how* it processes material.
 - [[Sir Lucius]] — the Circus's digestive voice; *"I'm juggling your darkest thoughts"* (your shadow served back as entertainment); the *I Like to Party* force-feeding stills live on his page.
-- [[The Algorithm]] — the nutrient extracted is attention; the metabolic product is engagement. Named on camera as the author of *Welcome to the Circus* — Lucius's reply in *The Interview* (EP3, Jan 5 2026), *"the algorithm baby,"* the one moment the Circus's authorship is confessed to your face. (Grounded as Roy's *own* term, via his Manifesto's feeling→algorithm substitution.)
-- [[The Audience]] — *"they love it when you lose control"*; *"take your seat, scream and shout"* collapses the co-creator into a consumer. Roy publicly rejects the word *"fan"* and calls listeners *"co-creators of the world."*
-- [[The Circus#What it produces (the Spectacle)|the Spectacle]] — what the consumed self is *turned into* (Debord; the spectacle requires spectators).
-- [[Flattened Identity]] — the reduction that makes a self consumable in the first place: person → profile, voice → content, artist → product, self → utility. To be unflattenable is to be unconsumable.
-- [[The Mouth]] — the same symbolic cluster: the mouth that *testifies* versus the mouth that *consumes*.
-- [[Inversion]] — the engine under the anti-Eucharist; nourishing consumption run backward into predatory consumption.
-- [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — bread and circuses; the historical antecedent, where the chains are pleasurable.
+- [[Concepts/The Algorithm]] — the nutrient extracted is attention; the metabolic product is engagement. Named on camera as the author of *Welcome to the Circus* — Lucius's reply in *The Interview* (EP3, Jan 5 2026), *"the algorithm baby,"* the one moment the Circus's authorship is confessed to your face. (Grounded as Roy's *own* term, via his Manifesto's feeling→algorithm substitution.)
+- [[Concepts/The Audience]] — *"they love it when you lose control"*; *"take your seat, scream and shout"* collapses the co-creator into a consumer. Roy publicly rejects the word *"fan"* and calls listeners *"co-creators of the world."*
+- [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] — what the consumed self is *turned into* (Debord; the spectacle requires spectators).
+- [[Concepts/Flattened Identity]] — the reduction that makes a self consumable in the first place: person → profile, voice → content, artist → product, self → utility. To be unflattenable is to be unconsumable.
+- [[Concepts/The Mouth]] — the same symbolic cluster: the mouth that *testifies* versus the mouth that *consumes*.
+- [[Concepts/Inversion]] — the engine under the anti-Eucharist; nourishing consumption run backward into predatory consumption.
+- [[Concepts/The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — bread and circuses; the historical antecedent, where the chains are pleasurable.
 - [[Moths to the Flame]] — the flame that *consumes* versus the fire that *transfigures*; the attention economy as a cull.
-- [[Nigredo]] — consumption without transformation; blackening that never completes.
+- [[Concepts/Nigredo]] — consumption without transformation; blackening that never completes.
 - [[Fire]] — *"our God is a consuming fire"* (Hebrews 12:29); the burning bush *not* consumed (Exodus 3) as the contrast pole.
-- [[Machine vs Human]] — the root frame: the antagonist is the *severing*, not the eating.
-- [[Witnessing vs Surveillance]] — being *seen* (without being taken) versus being *consumed*; [[Mary]] and the El Roi witness see without eating.
+- [[Concepts/Machine vs Human]] — the root frame: the antagonist is the *severing*, not the eating.
+- [[Concepts/Witnessing vs Surveillance]] — being *seen* (without being taken) versus being *consumed*; [[Mary]] and the El Roi witness see without eating.
 - [[Down to You]] — the built-in rebuttal: *"one cannot live on bread alone"* refuses the cake.
 - [[The Banana]] — Lucius's prop; the sterile clone (real light in a sterile vessel) and the hijacked offering.
 - [[BMRC]] — Lucius's own industry-Babylon; the eating may run *through* him to the pattern he serves (see the open question below).
@@ -105,19 +105,19 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 > - **The beasts that consume kingdoms** — Daniel 7 / Revelation 13; empire itself as a consumption-system.
 > - **Moloch** — the god children were sacrificed to (2 Kings 23:10; Jeremiah 7:31); consumption as false-god worship. Allen Ginsberg's *Howl* revives Moloch for industrial capitalism — the machine-god fed on the living.
 > - **Capital / commodity** — Marx's labor consumed and expelled as surplus value; the worker chewed up and spat out with minimal return. The Circus is that factory floor with better lighting.
-> - **The Roman arena** — *Panem et Circenses* (Juvenal, *Satires* X, c.100 CE): the crowd is sedated not by force but by pleasure, and the literal Christian martyr is consumed by the entertainment apparatus for the spectators' enjoyment. The chains are fun. See [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]].
+> - **The Roman arena** — *Panem et Circenses* (Juvenal, *Satires* X, c.100 CE): the crowd is sedated not by force but by pleasure, and the literal Christian martyr is consumed by the entertainment apparatus for the spectators' enjoyment. The chains are fun. See [[Concepts/The Circus#Where it comes from (bread and circuses)|Panem et Circenses]].
 
 > [!note]- Advanced reading — attention as a deity (Pay Attention, and the Marduk note)
 > *Pay Attention* is the attention-consumption prototype, and the structure is exact: Attention is the hidden god of the modern world, and what it consumes is *awareness* — the very faculty you'd need to notice it eating you. The currency you *spend* (*"pay me"*) and the resource it *extracts* (*"pay Attention"*) are one substance, which is why the temptation works through consent: the mark already wants what's offered. The grounded vocal roles read Roy as **Attention** and little luna as the guide/introducer. And the working method is on the record: Roy's *33* board, in his own hand, asks *"How to anthropomorphize attention? → Marduk"* — personifying Attention-as-deity (after the Babylonian creator who orders the cosmos by *word*) was an explicit move, not a critic's projection. (The same board's *"Let Them Eat Cake"* tracklist line was later realized as the Hall of Mirrors artifact *"Caution, All Kings End,"* code **CAKE** — tying the board back to *I Like to Party*'s cake.)
 
 > [!note]- Advanced reading — nigredo without completion
-> In alchemy, the **nigredo** — the blackening, the rot, the dissolution — is the *first* stage; the prima materia is broken down *in order to* be reconstituted as gold. The Circus specializes in the blackening that never completes: prima materia endlessly processed, exhausted, and never reconstituted. *"I'll chew you up, spit you out"* is dissolution with the gold-step amputated — Jonah digested but not returned, the Eucharist inverted, nigredo arrested mid-rot. Consumption *without* transformation is the whole signature. See [[Nigredo]].
+> In alchemy, the **nigredo** — the blackening, the rot, the dissolution — is the *first* stage; the prima materia is broken down *in order to* be reconstituted as gold. The Circus specializes in the blackening that never completes: prima materia endlessly processed, exhausted, and never reconstituted. *"I'll chew you up, spit you out"* is dissolution with the gold-step amputated — Jonah digested but not returned, the Eucharist inverted, nigredo arrested mid-rot. Consumption *without* transformation is the whole signature. See [[Concepts/Nigredo]].
 
 > [!note]- Advanced reading — the consuming fire and the bush that doesn't burn
 > Two fires sit at the edge of this concept. *"Our God is a consuming fire"* (Hebrews 12:29) — the same fire that purifies *also* consumes whatever can't endure it; consumption isn't always the adversary's, sometimes it's the refiner's. Against it, the burning bush of Exodus 3 *that is not consumed* — presence that radiates without being used up. The Circus's fire only ever takes the first form and never the second: it burns, and there's nothing left. See [[Fire]] and [[Moths to the Flame]], where the moth gets the death without the rebirth — the counterfeit of the phoenix.
 
 > [!note]- Advanced reading — the severing, not the eating (the guardrail that keeps this from being a screen-time poster)
-> Consumption is the Circus's mode of a much larger split — Source vs Reflection, Machine vs Human. The antagonist is **optimization severed from the heart**, not machinery and not appetite per se. A machine subordinate to the heart is creation; the same machine cut loose becomes the Algorithm that consumes. This matters because it stops the concept from flattening into generic anti-consumerism: the project is not against *eating*, or *attention*, or even *the internet*. It's against the moment the tool stops serving feeling and starts feeding on it. Lose this guardrail and Consumption becomes a poster about putting your phone down. Keep it and it stays a diagnosis of a *severing*. See [[Machine vs Human]].
+> Consumption is the Circus's mode of a much larger split — Source vs Reflection, Machine vs Human. The antagonist is **optimization severed from the heart**, not machinery and not appetite per se. A machine subordinate to the heart is creation; the same machine cut loose becomes the Algorithm that consumes. This matters because it stops the concept from flattening into generic anti-consumerism: the project is not against *eating*, or *attention*, or even *the internet*. It's against the moment the tool stops serving feeling and starts feeding on it. Lose this guardrail and Consumption becomes a poster about putting your phone down. Keep it and it stays a diagnosis of a *severing*. See [[Concepts/Machine vs Human]].
 
 ## Source notes
 
@@ -137,7 +137,7 @@ What ties these together, and what keeps the concept honest, is the contrast pol
 
 - [[Welcome to the Circus]] — the primary naming; the Circus at full digestive power.
 - [[I Like to Party]] — the cake before the Circus; the force-feeding made visible.
-- [[The Algorithm]] — what does the digesting; *"the algorithm baby."*
-- [[The Mouth]] — the mouth that consumes versus the mouth that testifies.
-- [[Inversion]] — the engine under the anti-Eucharist.
-- [[Machine vs Human]] — the severing the whole concept hangs on.
+- [[Concepts/The Algorithm]] — what does the digesting; *"the algorithm baby."*
+- [[Concepts/The Mouth]] — the mouth that consumes versus the mouth that testifies.
+- [[Concepts/Inversion]] — the engine under the anti-Eucharist.
+- [[Concepts/Machine vs Human]] — the severing the whole concept hangs on.

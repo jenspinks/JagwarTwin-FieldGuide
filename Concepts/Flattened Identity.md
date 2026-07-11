@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the reduction of a whole person to a usable surface, plus the system's insistence that the surface is the whole person.
 - **Where it shows up** — [[Online]] (database identity, predictive profiling) · [[Happy Face]] (the minimum-viable mask, scaled to a generation) · [[Welcome to the Circus]] (the self as spectacle, authored by *"the algorithm, baby"*).
-- **Connected ideas** — [[The Algorithm]] · [[Sir Lucius]] · [[The Mask]] · [[The Mirror]] · [[Witnessing vs Surveillance]] · [[Machine vs Human]].
+- **Connected ideas** — [[Concepts/The Algorithm]] · [[Sir Lucius]] · [[The Mask]] · [[The Mirror]] · [[Concepts/Witnessing vs Surveillance]] · [[Concepts/Machine vs Human]].
 - **Confidence** — a strong reading built on grounded vocabulary. Roy names *the Algorithm*, *programming*, and *masks* in his own voice; the song-by-song flattening readings are interpretation, labeled as such.
 
 ## What it is
@@ -52,7 +52,7 @@ So the concept has a shape: a machine that turns selves into surfaces, a persona
 > The concept only stays useful if you don't let it blur into the ideas next to it:
 > - **vs [[The Mask]]** — a mask can be *chosen*: protective, ritual, theatrical, transformative. Flattening is *imposed* or *rewarded* until the person can no longer easily take it off.
 > - **vs [[The Mirror]]** — the Mirror shows the self *as* image. Flattening is when the image is the *only* thing the system will recognize.
-> - **vs [[The Digital Double]]** — the Double is the *copied* self. Flattening is what the system *does* to that copy: reduces it to a profile, a content-object, a predictive pattern. The Double is the artifact; flattening is the operation performed on it.
+> - **vs [[Concepts/The Digital Double]]** — the Double is the *copied* self. Flattening is what the system *does* to that copy: reduces it to a profile, a content-object, a predictive pattern. The Double is the artifact; flattening is the operation performed on it.
 
 ## Where it appears
 
@@ -83,17 +83,17 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 
 ## Connections
 
-- **[[The Algorithm]]** — the *agent* of flattening: the engine that runs person → surface, and the author who confesses *"the algorithm, baby."*
-- **[[Sir Lucius]]** — the self *optimized* for the machine; the glamour of flattening; [[The Protector]] crystallized into a single theatrical identity.
+- **[[Concepts/The Algorithm]]** — the *agent* of flattening: the engine that runs person → surface, and the author who confesses *"the algorithm, baby."*
+- **[[Sir Lucius]]** — the self *optimized* for the machine; the glamour of flattening; [[Concepts/The Protector]] crystallized into a single theatrical identity.
 - **[[The Mask]]** — the *chosen* face, against which flattening is defined (chosen vs imposed-until-unremovable).
 - **[[The Mirror]]** — how the self becomes image in the first place; flattening is when the image is all the system recognizes.
-- **[[The Digital Double]]** — the copied self; flattening is what the system does to that copy.
-- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — where the flattened self is *displayed* (*"it's a spectacle, I'm the final boss"*).
-- **[[The Audience]]** — where the flattened self is *consumed*.
-- **[[Witnessing vs Surveillance]]** — the *gaze* that flattens: watched-and-ranked, not seen-and-loved.
-- **[[Machine vs Human]]** — flattening is the machine pole's effect on the self.
-- **[[The Aquarium]]** — the totalized closed system the flattened self is watched inside.
-- **[[The Protector]]** — the survival-armor (Loser / Good Day / No Fake Friends) Lucius is built from.
+- **[[Concepts/The Digital Double]]** — the copied self; flattening is what the system does to that copy.
+- **[[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]]** — where the flattened self is *displayed* (*"it's a spectacle, I'm the final boss"*).
+- **[[Concepts/The Audience]]** — where the flattened self is *consumed*.
+- **[[Concepts/Witnessing vs Surveillance]]** — the *gaze* that flattens: watched-and-ranked, not seen-and-loved.
+- **[[Concepts/Machine vs Human]]** — flattening is the machine pole's effect on the self.
+- **[[Concepts/The Aquarium]]** — the totalized closed system the flattened self is watched inside.
+- **[[Concepts/The Protector]]** — the survival-armor (Loser / Good Day / No Fake Friends) Lucius is built from.
 - **Characters** — [[Roy]] (the heart the Algorithm processes; the un-flattenable *"no thing"* self) · [[Sir Rabbit]] (the searching identity-vacancy the wound leaves) · [[Mary]] (true witnessing, the anti-flattening gaze — *"born to shine, face out of sight"*) · [[Brandon|Ballerina Boy]] (the un-flattened child still underneath) · the *champion* Lucius denies ([[Mary]] or [[Roy]], the true higher power he refuses to acknowledge; he crowns himself the final boss and answers to no one).
 
 ## Advanced reading
@@ -102,7 +102,7 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 > Several strands of thought illuminate this, worth naming as *resonances* rather than as influences the work claims. None is stated in the songs; together they describe the same gravity the catalogue keeps dramatizing.
 >
 > - **Gurdjieff** is the closest of these to load-bearing — the one most often named as a touchstone around this work. His diagnosis is *mechanical sleep*: most of a life run on autopilot by a crowd of "many I's," no single self at the wheel. That is flattening from the inside — not a machine reducing you, but a person who has *become* the reduction and stopped noticing. The *"programmed / deprogram"* language sits squarely on this nerve.
-> - **Gnosticism** supplies the cosmology flattening rhymes with: a soul-spark (pneuma) trapped in a counterfeit world built by a demiurge who *misnames* it. Hear it in *"you're not a real boy"* (the demiurgic verdict, identity assigned from outside) and *"a bug inside your database"* (the spark catalogued as a glitch). Flattening is demiurgic misnaming with a server farm. (See [[Gnosticism - The World as Trap]].)
+> - **Gnosticism** supplies the cosmology flattening rhymes with: a soul-spark (pneuma) trapped in a counterfeit world built by a demiurge who *misnames* it. Hear it in *"you're not a real boy"* (the demiurgic verdict, identity assigned from outside) and *"a bug inside your database"* (the spark catalogued as a glitch). Flattening is demiurgic misnaming with a server farm. (See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].)
 > - **Jung's persona** is the social mask — necessary, until it isn't. The pathology is *identification*: when the persona swallows the person and the disowned remainder hardens into shadow. Lucius is exactly that arc — a survival-face that ate its wearer, with everything it refused to be now wearing knives.
 > - **Apophatic theology / via negativa** is the deep grammar under *"I'm no thing."* You can only say what God is *not*; the unflattenable self answers the box the same way — by negation. It runs against the **I AM** register (*Ehyeh asher ehyeh*, "I am that I am," Exodus 3:14): the name that is pure unbounded being and refuses every predicate. *"I'm no thing"* is the human-scale echo — a self that won't be pinned to a noun.
 > - **Erving Goffman's dramaturgy** (life as roles, fronts, and backstage) describes the *healthy* version flattening corrupts. In Goffman there is always a backstage; flattening is precisely what happens when the backstage is abolished and the front becomes the whole self.
@@ -114,7 +114,7 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 > The antagonist here is the *severing*, not the machine. This is the single most important thing not to get wrong, or the whole cosmology collapses into generic anti-tech mysticism. A machine subordinated to the heart is *creation*; the same machine cut loose from the heart becomes *the Algorithm*. Flattening = optimization severed from the heart = Yesod severed from Tiferet. The line to hold: the problem was never the mirror. It was the mirror with nothing behind it.
 
 > [!note]- Advanced reading — witnessing vs surveillance, and the El Roi irony
-> Two gazes can land on the same person. **Surveillance** gathers data; **witnessing** transforms the witnessed. *"The algorithm does not know you — it knows how to shape you."* Surveillance is a *forgery* of the soul's deepest need — to be seen and loved — sold back as being watched and ranked. The witnessing antidote has a name in the work: **El Roi**, *"the God who sees me"* (Genesis 16:13), the one who sees Hagar in the wilderness. The savage irony: that tattoo sits on *Lucius's* throat. The machine that watches everything cannot witness anyone. (See [[Witnessing vs Surveillance]].)
+> Two gazes can land on the same person. **Surveillance** gathers data; **witnessing** transforms the witnessed. *"The algorithm does not know you — it knows how to shape you."* Surveillance is a *forgery* of the soul's deepest need — to be seen and loved — sold back as being watched and ranked. The witnessing antidote has a name in the work: **El Roi**, *"the God who sees me"* (Genesis 16:13), the one who sees Hagar in the wilderness. The savage irony: that tattoo sits on *Lucius's* throat. The machine that watches everything cannot witness anyone. (See [[Concepts/Witnessing vs Surveillance]].)
 
 > [!note]- Advanced reading — City of Angels: flattening's actual reward is *reproducibility*
 > The deepest single elaboration of what flattening *delivers* lives in [[City of Angels]]. Hollywood offers immortality, but the small print reads *reproducibility*, not resurrection — *"everyone looks just like you."* A circle needs distinct points held in communion; sameness deletes the points and collapses the Circle into a **Loop** (one point repeating). *"The particular self the dream promised to fulfill has already been deleted to fulfill it."* It says *we are all one* and means *you are all replaceable.* Twinning gone metastatic. The clone-imagery threads through [[Playing to the Gods]], [[The Watchers]], and [[All My Friends]].
@@ -122,7 +122,7 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 > [!note]- Advanced reading — Weirdness is the named antidote
 > If flattening is the disease, **[[Weirdness]]** is the cure the catalogue actually names. It's *"the vowel principle in biographical form… the living breath that refuses to be flattened into dead structure."* The Algorithm wants repeatability, categorization, compression, and marketable identity; weirdness resists all four — not out of opposition, but because it's *alive* in a way dead structure can't contain. The blessing underneath it: *your uncategorizable part may be your divine signature.* This is the same un-flattenable self as Roy's *"no thing"* — and here the inverse of flattening turns out to be more than resistance. It's **creation.**
 >
-> Two of Roy's 2022 X aphorisms run as a matched pair. *"No thing ever creates another thing"* (verified live, Feb 2 2022) and *"What is the point? There is no point"* (Sep 20 2022). Read flat they sound nihilist; read apophatically they're the opposite. The *"no thing"* is not zero — it's the **generative void**, the davar capstone (see [[The Empty Mirror]]): the empty glass that transmits perfectly *because* it holds nothing of its own, the silence a word comes out of. The same emptiness that, severed from the heart, becomes the hollow stare with nobody home is — held the other way — the fertile dark that *makes*. So flattening's true inverse isn't just the self refusing the box. It's the self that, by being no thing, can still bring a thing into being. *"There is no point"* then reads as freedom *from* imposed meaning, the clean ground meaning gets *made* on — not the absence of it.
+> Two of Roy's 2022 X aphorisms run as a matched pair. *"No thing ever creates another thing"* (verified live, Feb 2 2022) and *"What is the point? There is no point"* (Sep 20 2022). Read flat they sound nihilist; read apophatically they're the opposite. The *"no thing"* is not zero — it's the **generative void**, the davar capstone (see [[Concepts/The Empty Mirror]]): the empty glass that transmits perfectly *because* it holds nothing of its own, the silence a word comes out of. The same emptiness that, severed from the heart, becomes the hollow stare with nobody home is — held the other way — the fertile dark that *makes*. So flattening's true inverse isn't just the self refusing the box. It's the self that, by being no thing, can still bring a thing into being. *"There is no point"* then reads as freedom *from* imposed meaning, the clean ground meaning gets *made* on — not the absence of it.
 
 > [!note]- Advanced reading — Online as the infrastructure that produces Lucius
 > [[Online]] maps the conditions that *make* Lucius before he exists as a named figure: **the database precedes the mask; the algorithm precedes the performer.** Run the chain — database → prediction → recommendation → habit → identity → self-narration → the voice of Lucius. The detail that bridges flattening back to [[The Mirror]]: the database *"got my face"* is the first artificial reflection — *a mirror that replaces rather than reflects*, not a surface returning your image but a copy standing in for you. Flattening as usurpation.
@@ -156,9 +156,9 @@ Beyond the songs: Roy's **Manifesto** (mirrors.jagwartwin.com) hands you the app
 
 ## Read next
 
-- [[The Algorithm]] — the agent that does the flattening, and confesses it.
+- [[Concepts/The Algorithm]] — the agent that does the flattening, and confesses it.
 - [[Sir Lucius]] — the self optimized for the machine; flattening with a face.
 - [[Online]] — database identity and predictive profiling, sung as a jingle.
-- [[Witnessing vs Surveillance]] — the gaze that flattens, and the one that frees.
+- [[Concepts/Witnessing vs Surveillance]] — the gaze that flattens, and the one that frees.
 - [[Weirdness]] — the part of you the machine can't compress.
-- [[Machine vs Human]] — the duality this whole concept lives inside.
+- [[Concepts/Machine vs Human]] — the duality this whole concept lives inside.

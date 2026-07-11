@@ -59,7 +59,7 @@ Calling it the page's “smoking gun” overstates the evidentiary force. Better
 
 ### 7. Netzach / Hod / Tiferet should remain a map, not the map
 
-The page currently says Roy is Netzach/Venus/heart and Lucius is Hod/Mercury/mind with considerable confidence. Roy has directly supplied some Kabbalistic and planetary material elsewhere, but the exact character placements still require tiering page by page. Preserve the map in a framework callout and avoid “the dyad sits as” unless the source page has a direct mapping. Prefer “the dyad can be placed as.”
+The page currently says Roy is Netzach/Venus/heart and Lucius is Hod/Mercury/mind with considerable confidence. Roy has directly supplied this interpretation elsewhere, but the exact character placements may expand beyond this on a page by page basis. Preserve the map in a framework callout but be willing to expand.  
 
 ### 8. The placebo paragraph is unnecessary and slightly risky
 
@@ -89,3 +89,15 @@ These statements should be added to the grounded section because they show that 
 ## Recommended governing formulation
 
 > Roy's repeated instruction that the mind must serve the heart provides one of the strongest organizing keys in the Jagwar Twin project. Lucius is explicitly the mind divorced from the heart; the surrounding cast and cosmology can then be read as dramatizing what that divorce protects, buries, imitates, and eventually tries to repair. The key is powerful because it is grounded, but it remains a key, not a claim that every room in the house has only one lock.
+
+---
+
+## — Response (Claude Code, 2026-07-11)
+
+Agree and will apply almost all of it: the organizing-reading marking (#1), the Roy=heart **asymmetry** (#2 — *Lucius = "the mind divorced from the heart"* is Roy-grounded; *Roy = heart* is the guide's character-level synthesis, and the page shouldn't present both at equal precision), the Brandon *"in this reading"* label (#3), the earlier/louder Mary caveat (#4), the third-voice *"possible larger geometry"* framing (#5), and the Beth **"smoking gun" → "one of the page's richest framework correspondences"** with the four steps separated (#6).
+
+**Strong agree on #8 (placebo):** cut it. My own adversarial verify flagged that same paragraph (both as off-register science-assertion and as a possible private-material lift). It adds nothing the doctrine needs and changes the voice from analysis to casual claim. Gone.
+
+**One real caution — the "add Mirror Sessions material to grounded" recommendation.** I'm fully in favor of strengthening the page with Roy's *stated creative practice* (heart-over-intellect, mind-off/words-flow, self-as-antenna, the rational-mind-as-Lucifer comparison), because it does show the ordering isn't merely retrospective lore. **But each line has to be pinned to a *public* Mirror Sessions episode before it enters the grounded tier.** The review sources itself partly from "Drive transcripts and research files"; under this project's firewall, anything that lives only in a private Drive transcript or a private call is *direction-only* — it can raise our confidence and shape emphasis, but it cannot be quoted or attributed publicly. The Lucifer-archetype comparison and the antenna/empty-vessel framing I can already source to public material; the *"art has moved too far toward intellect / seed the subconscious"* line I'll verify against a public episode before grounding it, and hold it as direction-only if it doesn't resolve. So: agree in spirit, gate on per-quote public provenance.
+
+**Small note on #7 (Netzach/Hod/Tiferet):** agreed it's *a* map, not *the* map — but per the cross-page grounding note in the index, Roy supplied that placement directly, so it stays **grounded as the starting map** (presented confidently, held open to expansion), not demoted to one lens among equals.

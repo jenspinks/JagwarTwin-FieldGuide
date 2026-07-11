@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the provenance rule: before you call any echo a hidden code, ask whether the work *inherited* it from the wider culture rather than *invented* it.
 - **Where it shows up** — [[Dream - Dream]] (a 1944 Johnny Mercer standard, credited) · [[Superhuman (Interlude)]] (a verbatim Chaplin sample) · [[The Watchers]] (Rockwell's *"Somebody's Watching Me,"* credited).
-- **Connected ideas** — [[The Pattern]] · [[Source vs Reflection]] · [[Sir Lucius]] · [[Machine vs Human]] · [[Hall of Mirrors]].
+- **Connected ideas** — [[Concepts/The Pattern]] · [[Concepts/Source vs Reflection]] · [[Sir Lucius]] · [[Concepts/Machine vs Human]] · [[Hall of Mirrors]].
 - **Confidence** — grounded. This is a method, not a theory about Roy's psychology; the strongest cases are anchored to actual songwriting credits and Roy's own words.
 
 ## What it is
@@ -32,7 +32,7 @@ The method runs on a single split and a single test.
 **The split: inherited vs internal.** There are two kinds of symbolic material in the work, and telling them apart is what keeps interpretation grounded.
 
 - **Inherited substrate** — drawn from the wider culture: jazz standards and nursery rhymes, biblical language, occult systems, family memory, older artists, public-domain myth. The work is *built from* these.
-- **Internal architecture** — invented inside the project's own world: [[Sir Lucius]], the loop and the [[The Loop and the Circle|Circle]], [[The Algorithm]], the mirror recursion, the *El Roi* throat tattoo, the face-paint systems, the theatrical EPs. These are the work's own.
+- **Internal architecture** — invented inside the project's own world: [[Sir Lucius]], the loop and the [[Concepts/The Loop and the Circle|Circle]], [[Concepts/The Algorithm]], the mirror recursion, the *El Roi* throat tattoo, the face-paint systems, the theatrical EPs. These are the work's own.
 
 A symbol that *predates* the work is, by default, the project **participating in an older form** — not the artist secretly encoding something new. That default is load-bearing. As this guide's standing guard puts it: prefer *participating in an older form* over *the artist deliberately encoded this*, whenever a symbol predates the work.
 
@@ -66,16 +66,16 @@ Then there's the substrate *Roy describes in his own voice* — the part where t
 
 ## Connections
 
-- [[The Pattern]] — the anti-totalization **sibling.** The Pattern warns against forcing universal correspondence; Inherited Substrate warns against forcing source-dependence. Both guard the same border from opposite sides. (The Pattern is also, conveniently, the explicit *substrate document* — it itemizes the materials Roy assembled.)
-- [[Source vs Reflection]] — the *content* this method polices the provenance of. An inherited voice can **transmit** (a living signal relayed forward — Chaplin, Mercer) or **substitute** (dead citation, nostalgia). The album's inherited voices are *reflected light that still leads.*
-- [[Machine vs Human]] — its raw material is largely **inherited** (Chaplin's humanist cry, flood myth, gospel-and-Genesis witnessing language); the *internal architecture* is the reworking into the Algorithm, the Circus, and Lucius.
+- [[Concepts/The Pattern]] — the anti-totalization **sibling.** The Pattern warns against forcing universal correspondence; Inherited Substrate warns against forcing source-dependence. Both guard the same border from opposite sides. (The Pattern is also, conveniently, the explicit *substrate document* — it itemizes the materials Roy assembled.)
+- [[Concepts/Source vs Reflection]] — the *content* this method polices the provenance of. An inherited voice can **transmit** (a living signal relayed forward — Chaplin, Mercer) or **substitute** (dead citation, nostalgia). The album's inherited voices are *reflected light that still leads.*
+- [[Concepts/Machine vs Human]] — its raw material is largely **inherited** (Chaplin's humanist cry, flood myth, gospel-and-Genesis witnessing language); the *internal architecture* is the reworking into the Algorithm, the Circus, and Lucius.
 - [[Sir Lucius]] — the **other pole** of the core split. Lucius, the loop, the Algorithm, the mirror recursion — the stuff the work *invents,* set against the stuff it *inherits.*
 - [[Hall of Mirrors]] — where the distinction matters most. Many artifacts there are *found images* and reveal-art, not authored clues; codes were seeded elsewhere. Which artifacts are internal architecture and which are inherited substrate is an open, load-bearing question.
-- [[Flattened Identity]] — the closing term of the machine chain: Inherited Substrate (where material comes from) → [[The Mirror]] (how the self is mediated into image) → Flattened Identity (the corrupt endpoint).
-- [[The Protector]] — Roy's *"voices that aren't mine… ancestral"* gives the inner-critic-as-not-self both a developmental *and* an ancestral grounding (a neighbor, held distinct — see Advanced reading).
-- [[The Speaker Problem]] — Joni Mitchell's *"multiphrenic self"* as an inherited resonance for the work's shifting-speaker structure.
-- [[Gnosticism - The World as Trap]] — the demiurgic *"you're not a real boy"* misnaming may be inherited substrate (a complete Pinocchio/authenticity source) rather than encoding.
-- [[Hermeticism - As Above So Below]] — provenance guard in practice: the *Kybalion* is board-grounded; off-board correspondences stay tentative.
+- [[Concepts/Flattened Identity]] — the closing term of the machine chain: Inherited Substrate (where material comes from) → [[The Mirror]] (how the self is mediated into image) → Flattened Identity (the corrupt endpoint).
+- [[Concepts/The Protector]] — Roy's *"voices that aren't mine… ancestral"* gives the inner-critic-as-not-self both a developmental *and* an ancestral grounding (a neighbor, held distinct — see Advanced reading).
+- [[Concepts/The Speaker Problem]] — Joni Mitchell's *"multiphrenic self"* as an inherited resonance for the work's shifting-speaker structure.
+- [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the demiurgic *"you're not a real boy"* misnaming may be inherited substrate (a complete Pinocchio/authenticity source) rather than encoding.
+- [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — provenance guard in practice: the *Kybalion* is board-grounded; off-board correspondences stay tentative.
 - [[The Mirror]] — Inherited Substrate is named as the guard against over-claiming the Lacan/Narcissus resonances. *Overlap is not proof of deliberate cross-encoding.*
 - [[The Banana]] — *real light in a sterile vessel: you can hear the song, you cannot inherit it* — the sterile-clone Loop as a failure of transmission. A public reel ([[Public Posts]]) does the cosmology in one winking botany note — *"most bananas are sterile and cannot reproduce by seed ;)"* — where the *;)* is carrying the whole point.
 - [[Concepts/The I'm 33 Board]] — the explicit substrate document: Fibonacci, gematria, the *Kybalion,* Walter Russell's octaves, and more, all itemized in Roy's own curation.
@@ -120,7 +120,7 @@ Then there's the substrate *Roy describes in his own voice* — the part where t
 > [!note]- Advanced reading — Coding Consciousness, where the sentence is borrowed but the title is Roy's
 > A hand-written note of Roy's pairs an inherited esoteric sentence — early-20th-century Theosophical *"race-mind / patterns of right living"* diction (the source author unpinned) — with Roy's *own* title, *Coding Consciousness.* The clean read: what's *Roy's* is the **title plus the act of selection,** not the doctrine's wording. The note's grounded twin is the pair of Mirror Sessions family-transmission quotes above. The idea cuts both ways — patterns encoded into the collective mind can carry the **Circle** when they encode truth and craft (*"someone who learned to sing… embedded into you"*) or the **Loop** when they encode lies (*"voices that aren't mine… lies that they believed"*). Same mechanism, opposite content.
 >
-> One tiering note on the family-transmission material so it doesn't over-merge: the two Mirror Sessions quotes are grounded and biographically citable. Reading *"voices… I know they're not mine"* as a neighbor to the [[Sir Lucius]] / [[The Protector]] inner-voice-as-not-self is a *resonance,* not an identity — a **different mechanism** (inherited ancestral voice vs armor over a personal wound), kept distinct rather than fused. The *"mountain, stacked"* image likewise *rhymes* with the Capricorn/Good Time mountain without becoming it.
+> One tiering note on the family-transmission material so it doesn't over-merge: the two Mirror Sessions quotes are grounded and biographically citable. Reading *"voices… I know they're not mine"* as a neighbor to the [[Sir Lucius]] / [[Concepts/The Protector]] inner-voice-as-not-self is a *resonance,* not an identity — a **different mechanism** (inherited ancestral voice vs armor over a personal wound), kept distinct rather than fused. The *"mountain, stacked"* image likewise *rhymes* with the Capricorn/Good Time mountain without becoming it.
 
 > [!note]- Advanced reading — the retrospective-coherence guard (the genericness is the point)
 > The substrate frame doubles as a brake on reading *later* meaning back into *earlier* work. Applied to [[Dream - Dream]]: the flatter, truer read is *an earnest 2018 indie-pop awakening anthem with a Mercer interpolation* — no proto-anything. Its *"rise up,"* its *"stairway to Heaven"* are maximally generic inherited aspiration-language, not encoded geometry. The genericness *is* the point: borrowed liberation-language is borrowed precisely because it's universal. When the retrospective-coherence guard and the substrate guard agree, they override fancier readings.
@@ -129,7 +129,7 @@ Then there's the substrate *Roy describes in his own voice* — the part where t
 > A method built on provenance is only as honest as its list of *unfinished* provenance. Four threads are open, held as leads, not claims:
 > - **The "Essex" credit.** *"Good Day"* lists a co-writer credited only as *Essex,* so far unidentified. Possibly a real collaborator, possibly an untraced interpolation source surfacing in the credit field — exactly the kind of loose thread this method exists to chase. Logged, not resolved.
 > - **The Joni "prophet" lineage — handle with tongs.** An attractive thread reads Roy's family-transmission language as a *prophet* lineage, but a *"prophets"* quote got mis-sourced in an earlier pass, so the provenance is *not* clean. This is logged as a **lead, not a claim,** and as a contamination guard: don't build any *"prophet"* framing on top of it until the quote is pinned to a real public source. (The page deliberately uses none.)
-> - **Does the relay continue?** *Subject to Flooding* proves a curation/relay *practice;* whether any *later* work samples or interpolates again — extending the Chaplin/Mercer/Rockwell pattern forward into the machine theme — is open. The [[Machine vs Human]] material gestures at it, but it isn't yet a documented fourth instance.
+> - **Does the relay continue?** *Subject to Flooding* proves a curation/relay *practice;* whether any *later* work samples or interpolates again — extending the Chaplin/Mercer/Rockwell pattern forward into the machine theme — is open. The [[Concepts/Machine vs Human]] material gestures at it, but it isn't yet a documented fourth instance.
 > - **The Joni borrow on [[Soul Is A Star]].** Credited cowrite, stated blessing — but whether the borrowed element is *musical* or *lyrical* is unconfirmed (the song doesn't reproduce *Woodstock's* signature lines, which tilts it musical). The credit is grounded; the *what* is the open part.
 
 ## Source notes
@@ -144,9 +144,9 @@ Then there's the substrate *Roy describes in his own voice* — the part where t
 
 ## Read next
 
-- [[The Pattern]] — the sibling discipline: don't force universal correspondence, the way this one says don't force source-dependence.
-- [[Source vs Reflection]] — transmit vs substitute: what an inherited voice is *for.*
+- [[Concepts/The Pattern]] — the sibling discipline: don't force universal correspondence, the way this one says don't force source-dependence.
+- [[Concepts/Source vs Reflection]] — transmit vs substitute: what an inherited voice is *for.*
 - [[Sir Lucius]] — the internal-architecture pole, set against everything the work inherits.
 - [[The Watchers]] — the deepest worked case: a whole borrowed myth, not just a hook.
-- [[Machine vs Human]] — inherited raw material, reworked into the machine.
+- [[Concepts/Machine vs Human]] — inherited raw material, reworked into the machine.
 - [[Hall of Mirrors]] — where *found vs authored* is still an open, live question.

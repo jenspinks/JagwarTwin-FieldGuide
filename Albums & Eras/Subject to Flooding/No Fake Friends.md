@@ -88,7 +88,7 @@ And the tragedy sits right in the architecture: the wound never gets repaired, i
 - **[[Sir Lucius]]** — the crystallized end-state of the architecture this song helps build.
 
 > [!note]- Advanced reading — the Protector, and its three debut faces
-> *No Fake Friends* is the **third face of the debut's [[The Protector|Protector]] cluster** — the survival intelligence that formed around early wounding to keep a hurt self functional. Read the three faces as one architecture wearing three masks:
+> *No Fake Friends* is the **third face of the debut's [[Concepts/The Protector|Protector]] cluster** — the survival intelligence that formed around early wounding to keep a hurt self functional. Read the three faces as one architecture wearing three masks:
 >
 > | Track | Face | What it defends |
 > |---|---|---|
@@ -119,7 +119,7 @@ And the tragedy sits right in the architecture: the wound never gets repaired, i
 >
 > **Existential / phenomenological.** The deepest destabilization isn't losing friends — it's the discovery that *belonging itself may be contingent* on utility, success and upward motion. Once that lands, reality tilts: friendship becomes uncertain, memory becomes *evidence*, perception becomes *defensive*, and ascent quietly replaces intimacy. The speaker survives by increasing altitude. But altitude is not the same thing as home.
 >
-> **Where this all lives in the system:** the active machinery here is [[The Protector]], [[Flattened Identity]] (turned outward — flattening *others* down to background noise) and social filtration; the phase is [[Nigredo]] (the dark, dissolving ground); the state is *orbit*, not return. And the recurring surveillance vocabulary across the early catalogue — *night watch, radar, vibe, frame* — points at a unified concern this guide tracks under [[Witnessing vs Surveillance]]: the difference between being *seen* and being *watched.*
+> **Where this all lives in the system:** the active machinery here is [[Concepts/The Protector]], [[Concepts/Flattened Identity]] (turned outward — flattening *others* down to background noise) and social filtration; the phase is [[Concepts/Nigredo]] (the dark, dissolving ground); the state is *orbit*, not return. And the recurring surveillance vocabulary across the early catalogue — *night watch, radar, vibe, frame* — points at a unified concern this guide tracks under [[Concepts/Witnessing vs Surveillance]]: the difference between being *seen* and being *watched.*
 
 > [!note]- Advanced reading — the falsifier we keep pointed at ourselves
 > The honest self-check: **if *No Fake Friends* is simply a standard post-scarcity "I left the fake friends behind" flex** — emergent from a three-writer session, not encoded — **then the Protector-triad architecture is a beautiful overlay on a genre staple.** *I made a list… they ain't on my radar* really is among the most common sentiments in the form. We hold the elaborate reading *and* its falsifier at once; the boundary-setting counter above is where the pressure lands hardest, and it deserves its win.
@@ -190,7 +190,7 @@ Fake Friends
 
 ## Read next
 
-- [[The Protector]] — the survival-self this song helps build; the full arc and its self-sabotage paradox.
+- [[Concepts/The Protector]] — the survival-self this song helps build; the full arc and its self-sabotage paradox.
 - [[Good Day]] — the companion perimeter-track; mood-armor to this song's social-armor.
 - [[Loser]] — the shame-preemption face of the same instinct.
 - [[Subject to Flooding]] — the debut album this belongs to, and the flood it's named for.

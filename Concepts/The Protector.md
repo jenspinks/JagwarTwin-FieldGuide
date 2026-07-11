@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the adaptive architecture of shame-preemption, mood-defense, and social-filtering the psyche assembles over an early wound, in order to keep going.
 - **Where it shows up** — [[Loser]], [[Good Day]], [[No Fake Friends]] (the armor mid-operation, 2018); [[Ballerina Boy]] (the wound it forms around); [[Not Your Homie]] (the armor calcified and weaponized).
-- **Connected ideas** — [[Sir Lucius]] · [[The Dweller on the Threshold]] · [[The Circle]] · [[Roy]] · [[Mary]]
+- **Connected ideas** — [[Sir Lucius]] · [[Concepts/The Dweller on the Threshold]] · [[The Circle]] · [[Roy]] · [[Mary]]
 - **Confidence** — a strong reading on a grounded floor: the wound, the bullying, the masks doctrine, and Roy's own "mind must serve the heart" are his public words; the survival-self framework that knits them together is interpretation, labeled as such throughout.
 
 ## What it is
@@ -37,7 +37,7 @@ So Lucius doesn't *have* a protective side among others. **He IS the Protector, 
 
 Here's the cruel knot at the center: **a protector formed around trauma craves healing and sabotages it in the same breath, because healing dissolves its job.** If Roy becomes whole, Lucius no longer rules the system. So the thing built to protect the wounded child has a stake in keeping the wound open — which is exactly why, in the lore, Lucius *mocks* the buried child by name. And note *how* he does it: he doesn't argue the point, he **pirouettes** — miming a ballet dancer to land *"Ballerina Boy. When you're vulnerable you LOSE!"* The jester turns the most exposed nerve in the catalogue into a physical-comedy bit, because for the Protector mockery isn't a side effect of the defense — mockery *is* the defense. The longing to be known while enforcing *you don't know me* is the whole drama. The armor wants to be saved from being armor, and fights anyone who tries.
 
-> 🚪 *There is an old name for the guard you build out of everything you refused to face, the one posted at the door of your own deep self. Whether Lucius is blocking that door or about to walk Roy through it is the question waiting behind [[The Dweller on the Threshold]].*
+> 🚪 *There is an old name for the guard you build out of everything you refused to face, the one posted at the door of your own deep self. Whether Lucius is blocking that door or about to walk Roy through it is the question waiting behind [[Concepts/The Dweller on the Threshold]].*
 
 ## Where it appears
 
@@ -76,20 +76,20 @@ And the inverse worth noting — the deadpan that *isn't* a defense, where the s
 - **[[Superhuman]]** — the fourth face: armor in martial/collective mode (*the lion not yet slain* — see Advanced reading).
 - **[[Hell Of A Night]] / [[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell of a Night Pt. 2]]** — the fifth face: momentum and production as armor; velocity that can't stop.
 - **[[Not Your Homie]]** — the self-sabotage paradox and the weaponized pole of the vibe-hinge.
-- **[[The Dweller on the Threshold]]** — the survival-self the Dweller is built from: self-generated, mirror-anchored, growing with whatever's disowned, undefeatable by force.
-- **[[The Circle]]** — return-to-source, the cure to the Protector's orbit; the [[The Loop and the Circle|Loop]] is the trapped recursion it lives in.
+- **[[Concepts/The Dweller on the Threshold]]** — the survival-self the Dweller is built from: self-generated, mirror-anchored, growing with whatever's disowned, undefeatable by force.
+- **[[The Circle]]** — return-to-source, the cure to the Protector's orbit; the [[Concepts/The Loop and the Circle|Loop]] is the trapped recursion it lives in.
 - **[[Roy]]** — the heart-self the mind/Protector must come to serve.
 - **[[Sir Rabbit]]** — the pre-Lucius *searching* self the armor forms around: *"I do not know… but I must be someone."*
 - **[[Mary]]** — the blessing that protects by *claiming* the child's nature, against Lucius protecting by *armoring* it.
 - **[[SOL]]** — *The Song of Love*: the sincere song the Protector's Bargain refuses, overrides, and keeps overriding; the feeling that must not be traded.
 - **[[Welcome to the Circus]]** — the second song the Bargain swaps in over SOL; *"the algorithm, baby"* in place of the soul.
-- **[[Inherited Substrate]]** — the *ancestral* inner-voice mechanism, held distinct from the developmental Protector (see Advanced reading).
-- **[[Jacob and Esau]]** — the birthright law beneath the whole arc: *the elder shall serve the younger* (see Advanced reading).
+- **[[Concepts/Inherited Substrate]]** — the *ancestral* inner-voice mechanism, held distinct from the developmental Protector (see Advanced reading).
+- **[[Concepts/Jacob and Esau]]** — the birthright law beneath the whole arc: *the elder shall serve the younger* (see Advanced reading).
 
 > [!note]- Advanced reading — the voice that isn't yours (the inherited substrate)
 > There's a grounded neighbor to all this in Roy's own words. He describes a hostile inner voice he experiences as *not his own*, and as ancestral: *"I'm aware of some darkness too, that has been passed along for generations… when those voices pop up, I know that they're not mine, and I know that they're from mistakes that my ancestors made — meaning lies that they believed… I'm gonna heal that for you guys."*
 >
-> Hold this *distinct* from the Protector. The Protector is armor built over a *personal* wound; the inherited voice is a transmission from before Roy was born — a different mechanism for the same lived experience of "the critic in my head is not me." They complement rather than replace each other: the inner critic as not-self has both a developmental account (the survival-self) and an ancestral one (see [[Inherited Substrate]]). The shared move is the same either way — *I know they're not mine.*
+> Hold this *distinct* from the Protector. The Protector is armor built over a *personal* wound; the inherited voice is a transmission from before Roy was born — a different mechanism for the same lived experience of "the critic in my head is not me." They complement rather than replace each other: the inner critic as not-self has both a developmental account (the survival-self) and an ancestral one (see [[Concepts/Inherited Substrate]]). The shared move is the same either way — *I know they're not mine.*
 
 > [!note]- Advanced reading — orbit vs return, and the double-edge of "untouchable"
 > The Protector's signature solution to internal collapse is **velocity** — momentum, travel, altitude, [[Good Day]]'s *"untouchable."* It *outruns* the wound rather than metabolizing it. Orbit is perpetual not-landing — the exact opposite of [[The Circle]]'s return-to-source — which is why the cure is never *go faster* but *stop, go inward, return.* N.F.F.'s key line says it cleanly: *the speaker does not recover trust. He recovers altitude.*
@@ -110,7 +110,7 @@ And the inverse worth noting — the deadpan that *isn't* a defense, where the s
 > Superhuman also grounds the wound *behind* the armor. In a public Mirror Sessions conversation, Roy names **perfectionism** as the root — *"the perfect child all the time"* is a persona laid over the real self. The chain: perfectionism (wound) → perfect-child persona (buries the authentic child) → people-pleasing → the Protector / Lucius lineage. The lion was always a frightened child trying to be flawless.
 
 > [!note]- Advanced reading — Jacob & Esau: the birthright law of the Protector
-> [[Jacob and Esau]] is the scriptural spine of the whole arc. *"The elder shall serve the younger"* reads as the law of the Protector: the dominant survival-self (Esau, born first, the man of force) is meant to *serve* the heart-self (Jacob), not govern it — the Protector *subordinated, not destroyed.* Esau's grievance is genuine — *"Bless me — me also!"* — which is exactly why the Protector reads as pleading and aggrieved, *afraid of being discarded* rather than simply hostile. And the lesser blessing he receives (*live by the sword, serve, but break the yoke when restless*) describes Lucius almost to the letter. The endpoint of the story is not a duel but **the embrace** (Genesis 33:4). The un-reconciled alternative — the prognosis if the order is never set right — is Cain and Abel.
+> [[Concepts/Jacob and Esau]] is the scriptural spine of the whole arc. *"The elder shall serve the younger"* reads as the law of the Protector: the dominant survival-self (Esau, born first, the man of force) is meant to *serve* the heart-self (Jacob), not govern it — the Protector *subordinated, not destroyed.* Esau's grievance is genuine — *"Bless me — me also!"* — which is exactly why the Protector reads as pleading and aggrieved, *afraid of being discarded* rather than simply hostile. And the lesser blessing he receives (*live by the sword, serve, but break the yoke when restless*) describes Lucius almost to the letter. The endpoint of the story is not a duel but **the embrace** (Genesis 33:4). The un-reconciled alternative — the prognosis if the order is never set right — is Cain and Abel.
 
 > [!note]- Advanced reading — Loser, Good Day, N.F.F.: the mechanisms up close
 > **[[Loser]] — anticipatory shame-neutralization.** *If humiliation is inevitable, control the humiliation yourself.* Self-label first, soften the blow, become emotionally untouchable before rejection arrives. The brightness (*"sunshine in my mind"*) is *emotional bunker-light, not emergence* — *the warmth is not evidence that the wound is healed; the warmth is the coping mechanism.* A double Trojan horse: the self-label smuggles shame past the listener, and the bright melody smuggles dread past everyone. (In the deeper-framework register, Loser also runs Jericho-as-vibration — demolition by frequency, the Kybalion's principle of Vibration that the *I'm 33* board flags — but you don't need it to read the song.)
@@ -144,7 +144,7 @@ And the inverse worth noting — the deadpan that *isn't* a defense, where the s
 > - **How early was the armor activated?** (See the timing note above — held open: the knight is a resonance, not a clock.)
 > - **Is Lucius *protecting* Roy or *training* him to rule the Circus?** The lore tilts from pleading to *teaching* — sharpened by Roy's own real-life concession, *"I guess Lucius was right again."* A genuine reframe of the protector/shadow-ally reading.
 > - **Beginning or midpoint?** Is the Protector's emergence-into-visibility in the 2018 work the *start* of the arc, or already a mid-point — something surfacing in pre-2018 material (the "devil in the mirror" traces run back to 2008)?
-> - **Can the Dweller become a guide?** I.e., can the Protector be genuinely *re-ordered* rather than only contained? (See [[The Dweller on the Threshold]].)
+> - **Can the Dweller become a guide?** I.e., can the Protector be genuinely *re-ordered* rather than only contained? (See [[Concepts/The Dweller on the Threshold]].)
 > - **Buried, or only unrecognized?** An alternate read holds that the ballerina boy was kept alive *as performance* while denied recognition *as that child* — reframing the resolution from recovery to recognition. Held open only; it presses against the song's explicit *"I killed… I buried."*
 > - **Whose is the Test Pilot lighter?** A named relative's heirloom, or an emblem object acquired for the maze? Decides whether the protection-as-going-first layer promotes to grounded.
 > - **Does Roy ever name Lucius *as* "the mask" in his own voice?** This isn't in tension with the page's "named mask" language above — that's this guide's *reading*; the open question is narrower, about whether Roy himself ever makes the identification explicitly in his own voice (not in character, not in interpretation). A confirmation would link the masks doctrine directly to the character.
@@ -153,7 +153,7 @@ And the inverse worth noting — the deadpan that *isn't* a defense, where the s
 
 - [[Sir Lucius]] — the Protector calcified into a character; the face this function wears.
 - [[Ballerina Boy]] — the origin wound, and the two blessings laid over it.
-- [[The Dweller on the Threshold]] — the survival-self that grows with whatever's disowned.
+- [[Concepts/The Dweller on the Threshold]] — the survival-self that grows with whatever's disowned.
 - [[The Circle]] — return-to-source: the cure to the Protector's orbit.
 - [[Mary]] — the blessing that protects by claiming the child's nature.
 - [[Roy]] — the heart the mind was built to protect, and must come to serve.

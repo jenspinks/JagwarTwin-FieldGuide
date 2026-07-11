@@ -14,12 +14,12 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line:** the parallel distribution world Roy builds *outside* label and algorithm reach, figured as a medieval kingdom with servants, oaths, and a sword.
 - **Where it shows up:** [[dumbledore]] (the song fought past the gatekeepers *to* the realm) · [[LOOP]] (*"who will lead the Realm / wield the sword of truth?"*) · [[Welcome to the Circus]] (*"the algorithm, baby,"* the gatekeeping it answers).
-- **Connected ideas:** [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]] · [[Albums & Eras/concepts_lift_opus_2026-07-10/The Loop and the Circle|The Circle]] · [[Albums & Eras/concepts_lift_opus_2026-07-10/The Algorithm]] · [[Sir Lucius]] · [[Hall of Mirrors]].
+- **Connected ideas:** [[The Circus]] · [[The Loop and the Circle|The Circle]] · [[The Algorithm]] · [[Sir Lucius]] · [[Hall of Mirrors]].
 - **Confidence:** *"the realm"* is Roy's own repeated public word (grounded), braided with strong interpretation about what the counter-kingdom *does*; the metaphysical and esoteric extensions are flagged as such.
 
 ## What it is
 
-If [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]] is the machine that blocks the work from getting through (the algorithm, the label, the gate), the Realm is the world Roy builds *around* it. Renaissance-faire headlining, bardcore, blockchain drops, an owned audience that no algorithm stands between. Where the Circus is the blockade, the Realm is the route around it: the place a song goes once it's past the gate.
+If [[The Circus]] is the machine that blocks the work from getting through (the algorithm, the label, the gate), the Realm is the world Roy builds *around* it. Renaissance-faire headlining, bardcore, blockchain drops, an owned audience that no algorithm stands between. Where the Circus is the blockade, the Realm is the route around it: the place a song goes once it's past the gate.
 
 And here is the part that makes it more than a metaphor for distribution. Roy builds it as a literal medieval *kingdom*. It has servants (he signs off *"loyal servant of the realm"*), guardians (*"we are guardians of the realm… here to keep the world safe"*), oaths (*"swore an oath to protect the Realm ⚔️"*), a sword of truth, a question of succession, and recruitment drives. The aesthetic is not set dressing. It is the flag of a counter-kingdom, and, just as crucially, an excuse for everyone to show up in costume. *"I love a theme,"* Roy says, and means it.
 
@@ -35,7 +35,7 @@ But the escape is never perfectly clean, because nothing in this project ever is
 
 And do not read that contradiction as a funeral. It is the cost to play. Two poles held in tension is what makes anything exist at all, and harmony here comes from adjusting the degree, not from eliminating one side. The Realm does not win by finally stepping out of the weather. It wins by building a door the weather does not control.
 
-The Realm also has a near-twin. It sits so close to [[Albums & Eras/concepts_lift_opus_2026-07-10/The Loop and the Circle|The Circle]], the owned fan community, that the two sometimes look like one world under two names. *"The realm will expand, the circle will grow,"* Roy says in a single breath; of the medieval look, *"this is where the circle needs to go."* Whether they are one thing or two is left open here on purpose (see *Connections*).
+The Realm also has a near-twin. It sits so close to [[The Loop and the Circle|The Circle]], the owned fan community, that the two sometimes look like one world under two names. *"The realm will expand, the circle will grow,"* Roy says in a single breath; of the medieval look, *"this is where the circle needs to go."* Whether they are one thing or two is left open here on purpose (see *Connections*).
 
 ## Where it appears
 
@@ -72,9 +72,9 @@ The Realm also has a near-twin. It sits so close to [[Albums & Eras/concepts_lif
 
 ## Connections
 
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]]: the algorithmic-gatekeeping system the Realm routes around; **blockade ↔ escape**. The Realm's defining opposite, and the page it should always be read against.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Loop and the Circle|The Circle]]: the owned fan community; possibly the *same* owned-world under another name (*"the realm will expand, the circle will grow"* · *"this is where the circle needs to go"* · *"the circle is ready… we just need the realm"*). To join the circle is to surrender the ego and return to the source, which makes it either the Realm's twin or the Realm itself with a different accent. Held open here, not collapsed.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Algorithm]]: the specific gatekeeper the Realm answers; *"the algorithm, baby"* in [[Welcome to the Circus]] names exactly what the counter-kingdom is built to escape.
+- [[The Circus]]: the algorithmic-gatekeeping system the Realm routes around; **blockade ↔ escape**. The Realm's defining opposite, and the page it should always be read against.
+- [[The Loop and the Circle|The Circle]]: the owned fan community; possibly the *same* owned-world under another name (*"the realm will expand, the circle will grow"* · *"this is where the circle needs to go"* · *"the circle is ready… we just need the realm"*). To join the circle is to surrender the ego and return to the source, which makes it either the Realm's twin or the Realm itself with a different accent. Held open here, not collapsed.
+- [[The Algorithm]]: the specific gatekeeper the Realm answers; *"the algorithm, baby"* in [[Welcome to the Circus]] names exactly what the counter-kingdom is built to escape.
 - [[dumbledore]]: the release fought past the gatekeepers *to* the realm; the Harry Potter wizard-kingdom register; *"It's a love song"*; the on-chain end-run; and the "DARK ARTS VERSION." The lived chronology that grounds Realm-as-route-around.
 - [[LOOP]]: the succession campaign (*"who will lead the Realm / wield the sword of truth"*) and the *"El Roy, a loyal servant of the Realm"* sign-off.
 - [[Sir Lucius]]: the LOOP-era *"who will lead the Realm / wield the sword of truth"* theatrics sit squarely in his succession-and-spectacle season; he is the obvious contender for a contestable throne, the one who would *rule* the kingdom rather than serve it.
@@ -103,9 +103,9 @@ The Realm also has a near-twin. It sits so close to [[Albums & Eras/concepts_lif
 
 ## Read next
 
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Circus]]: the gatekeeping machine the Realm is built to escape; read them as a pair.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Loop and the Circle|The Circle]]: the owned community that may be the Realm under another name.
+- [[The Circus]]: the gatekeeping machine the Realm is built to escape; read them as a pair.
+- [[The Loop and the Circle|The Circle]]: the owned community that may be the Realm under another name.
 - [[dumbledore]]: the song fought past the gate, with the on-chain end-run and the Dobby-sock ending.
 - [[LOOP]]: the succession campaign and the sword of truth.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Algorithm]]: the specific weather the counter-kingdom can never fully step out of.
+- [[The Algorithm]]: the specific weather the counter-kingdom can never fully step out of.
 - [[Hall of Mirrors]]: the web3 ARG and its separate artifact-"realm" cosmology.

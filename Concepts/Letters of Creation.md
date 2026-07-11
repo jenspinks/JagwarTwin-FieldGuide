@@ -17,8 +17,8 @@ aliases: ["The Angels and the Angles", "The Angle and the Angel"]
 
 - **In one line** — letters as the fabric of creation; Roy engages the tradition directly, and the English pun does the rest: *angels* and *angles* are the same letters with the *e* and the *l* swapped, one transposition apart, and so are the things they name, the breath and the frame it fills.
 - **The centered letters so far**: **Yod** (2020–21) and **Beth** (2026), with **Qoph** the anticipated wildcard; see the registry below.
-- **Where it shows up**: [[Bounce]] (the *Sefer Yetzirah* Beth card) · [[Bananas]] / [[SOL]] / [[Weirdness]] (the vocables as vowel-spirit) · [[City of Angels]] (the angels named, the clones counted) · [[The Mouth]] (where angels and angles meet).
-- **Connected ideas** — [[Beth]] · [[Kabbalah - The Tree of Life]] · [[The Mouth]] · [[The Voice]] · [[Inversion]] · [[The Empty Mirror]] · [[Sir Lucius]].
+- **Where it shows up**: [[Bounce]] (the *Sefer Yetzirah* Beth card) · [[Bananas]] / [[SOL]] / [[Weirdness]] (the vocables as vowel-spirit) · [[City of Angels]] (the angels named, the clones counted) · [[Concepts/The Mouth]] (where angels and angles meet).
+- **Connected ideas** — [[Beth]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Mouth]] · [[Concepts/The Voice]] · [[Concepts/Inversion]] · [[Concepts/The Empty Mirror]] · [[Sir Lucius]].
 - **Confidence** — Roy's engagement with Hebrew letter-mysticism is grounded (a release, a tattoo, the board, years of posts); the consonant/vowel framing is this guide's reading of that engagement; the per-letter readings and the cross-card cipher are labeled by tier.
 
 ## What it is
@@ -48,11 +48,11 @@ The reading earns its keep because it doesn't just sit there being clever — it
 
 There's a quieter pattern hiding in *where* the wordless voice tends to land: at the **seams**. The *La-da-da-da* passage arriving out of the title track just past the music-box seam, the descending wordless vocalization that falls between tracks, [[SOL]]'s wordless closer: the breath keeps showing up at the editorial joints, the splits and transitions, exactly where the *angles* (the structure) are weakest. Read generously, the frame is thinnest precisely where the breath carries through on its own. The honest counter, kept in plain sight: bridges and outros are *where every record on earth parks its wordless vocals* — it's common craft, not a fingerprint, so this stays a noticing, not a proof.
 
-**It tightens the mirror.** Hebrew can be read in both directions, and the project is obsessed with reading things backwards (see [[Inversion]]). The Hebrew word for mirror, *re'i*, sits literally inside the *El Roi* tattoo on [[Sir Lucius]]'s throat; Roy's own 2019 line is *"Everything is a mirror."* The letter-axis and the mirror-axis are the same axis seen from two sides.
+**It tightens the mirror.** Hebrew can be read in both directions, and the project is obsessed with reading things backwards (see [[Concepts/Inversion]]). The Hebrew word for mirror, *re'i*, sits literally inside the *El Roi* tattoo on [[Sir Lucius]]'s throat; Roy's own 2019 line is *"Everything is a mirror."* The letter-axis and the mirror-axis are the same axis seen from two sides.
 
-**It tightens the counterfeit, and gives it a phrase.** This is the payoff. If a true song is *angels carried on angles* — spirit on structure — then the project's counterfeiter produces the opposite: **structure with no spirit. All angle, no angel.** That single formula diagnoses the whole counterfeit cluster: the clone in [[City of Angels]] where *"everyone looks just like you,"* the dread in [[The Watchers]] (*"I'm afraid I'm a clone"*), and the sterile banana of [[Bananas]]: real light in a sterile vessel, breath carried but not inheritable, its own kind of hollow. (See [[The Empty Mirror]], where this becomes the diagnostic for one whole pole of the work.)
+**It tightens the counterfeit, and gives it a phrase.** This is the payoff. If a true song is *angels carried on angles* — spirit on structure — then the project's counterfeiter produces the opposite: **structure with no spirit. All angle, no angel.** That single formula diagnoses the whole counterfeit cluster: the clone in [[City of Angels]] where *"everyone looks just like you,"* the dread in [[The Watchers]] (*"I'm afraid I'm a clone"*), and the sterile banana of [[Bananas]]: real light in a sterile vessel, breath carried but not inheritable, its own kind of hollow. (See [[Concepts/The Empty Mirror]], where this becomes the diagnostic for one whole pole of the work.)
 
-**It points back at the mouth.** All of this converges on a single instrument. The mouth is where angels and angles meet — where breath becomes word, spirit becomes structure, feeling becomes language (see [[The Mouth]], [[The Voice]]). Which means its *failures* are legible too: teeth falling out (the [[Welcome to the Circus]] image) reads as the consonant/angle structure collapsing, and screaming-with-no-words reads as pure vowel-spirit with no structure left to carry it. Whether that's a failure state or the voice at its rawest is left genuinely open.
+**It points back at the mouth.** All of this converges on a single instrument. The mouth is where angels and angles meet — where breath becomes word, spirit becomes structure, feeling becomes language (see [[Concepts/The Mouth]], [[Concepts/The Voice]]). Which means its *failures* are legible too: teeth falling out (the [[Welcome to the Circus]] image) reads as the consonant/angle structure collapsing, and screaming-with-no-words reads as pure vowel-spirit with no structure left to carry it. Whether that's a failure state or the voice at its rawest is left genuinely open.
 
 ## The centered letters
 
@@ -64,10 +64,10 @@ Beyond the vocables, Roy has put *individual* Hebrew letters at the center of th
 
 Read as a spine: **Yod** (the spark, the "I") → **Beth** (the house, where creation and duality begin). Source, then vessel: the project's arc so far, spelled one letter at a time.
 
-The mechanism to watch is the **Live Underground card series** ([[Bounce]] = Beth; the [[Welcome to the Circus]] card fills the same small-print slot with the song's own lines plus a Hermes riddle). Whether the cards spell a word across the setlist — the {Vav, Beth, Beth, Lamed} → *Babel* ⇄ *levav* cipher — has now been decided: the *Lucius Lullaby* title-track card (2026-07-10) carried **no** Hebrew letter, so the strict cross-card cipher is **retired**. The confirmed pattern is the softer one, *an esoteric epigraph per song, mixed traditions* — Hebrew (Beth), Greek (Hermes), scripture-and-lullaby (Lucius Lullaby). Beth stays the one Hebrew letter the series printed; the *Babel* ⇄ *levav* reordering survives only as the letter-level *rearrange-not-replace* move. See [[The Flip and the Distorting Mirror]] and [[Beth]].
+The mechanism to watch is the **Live Underground card series** ([[Bounce]] = Beth; the [[Welcome to the Circus]] card fills the same small-print slot with the song's own lines plus a Hermes riddle). Whether the cards spell a word across the setlist — the {Vav, Beth, Beth, Lamed} → *Babel* ⇄ *levav* cipher — has now been decided: the *Lucius Lullaby* title-track card (2026-07-10) carried **no** Hebrew letter, so the strict cross-card cipher is **retired**. The confirmed pattern is the softer one, *an esoteric epigraph per song, mixed traditions* — Hebrew (Beth), Greek (Hermes), scripture-and-lullaby (Lucius Lullaby). Beth stays the one Hebrew letter the series printed; the *Babel* ⇄ *levav* reordering survives only as the letter-level *rearrange-not-replace* move. See [[Concepts/The Flip and the Distorting Mirror]] and [[Beth]].
 
 > [!note]- Letters at work — the words
-> Beyond the centered single letters, Hebrew shows up *inside words* the project loads: **YHWH** (יהוה) built letter-by-letter on the board (Yod-Heh-Vav-Heh totals 26, also the unlock code of a long-since-minted Hall of Mirrors artifact); **El Roi** (אל ראי, "the God who sees me," Genesis 16) on [[Sir Lucius]]'s throat, whose root ר-א-י also spells *re'i* / mirror (see [[El Roi]]); **Nachash** (נחש, the serpent) marked on the board's Jacob's-Ladder, = 358 = *Mashiach*; and **davar** (דבר, the Word *and* the thing), the MAGIK ARG's final drop, creation-by-word routing to [[The Voice]] and [[The Mouth]]. The centered letters are the glyphs; these are the letters already at work.
+> Beyond the centered single letters, Hebrew shows up *inside words* the project loads: **YHWH** (יהוה) built letter-by-letter on the board (Yod-Heh-Vav-Heh totals 26, also the unlock code of a long-since-minted Hall of Mirrors artifact); **El Roi** (אל ראי, "the God who sees me," Genesis 16) on [[Sir Lucius]]'s throat, whose root ר-א-י also spells *re'i* / mirror (see [[El Roi]]); **Nachash** (נחש, the serpent) marked on the board's Jacob's-Ladder, = 358 = *Mashiach*; and **davar** (דבר, the Word *and* the thing), the MAGIK ARG's final drop, creation-by-word routing to [[Concepts/The Voice]] and [[Concepts/The Mouth]]. The centered letters are the glyphs; these are the letters already at work.
 
 ## Where it appears
 
@@ -85,10 +85,10 @@ Roy's engagement with Hebrew letter-mysticism runs all through the catalogue, na
 ## Connections
 
 - **[[Beth]]** — the flagship per-letter entry: the house-letter, the one printed on a release; Genesis, the Magician, and the heart-over-mind card.
-- **[[The Mouth]] / [[The Voice]]** — the instrument where vowel-spirit and consonant-structure meet; teeth falling out = the angle collapsing, screaming-with-no-words = the angel with nothing to ride.
+- **[[Concepts/The Mouth]] / [[Concepts/The Voice]]** — the instrument where vowel-spirit and consonant-structure meet; teeth falling out = the angle collapsing, screaming-with-no-words = the angel with nothing to ride.
 - **[[Sir Lucius]]** — the *El Roi* throat tattoo; and the counterfeit as *all angle, no angel* — structure without spirit, the logic under his sterile-copy imagery.
-- **[[The Empty Mirror]]** — the clone *all angle, no angel* anchors the "hollow" pole there; this concept supplies its diagnostic phrase.
-- **[[Inversion]]** — Hebrew read both ways; *re'i* = mirror; *"everything is a mirror."*
+- **[[Concepts/The Empty Mirror]]** — the clone *all angle, no angel* anchors the "hollow" pole there; this concept supplies its diagnostic phrase.
+- **[[Concepts/Inversion]]** — Hebrew read both ways; *re'i* = mirror; *"everything is a mirror."*
 - **[[Kabbalah - The Tree of Life]]** — the *other* axis of the same system. The foundational text unites the 22 letters (this page) with the 10 sefirot (there) into 32 paths. Kept as parallel cross-linked pages, never merged.
 - **[[The Banana]]** — the sterile Cavendish: real light in a sterile vessel; you can hear the song, you cannot inherit it.
 - **[[The Watchers]]** — *"I'm afraid I'm a clone"* — the counterfeit pole in the first person.
@@ -119,7 +119,7 @@ Roy's engagement with Hebrew letter-mysticism runs all through the catalogue, na
 >
 > **Kenotic emptiness** is empty *to transmit* — the source pole. *"I have become nothing,"* the vessel emptied so the breath passes through unobstructed because there are no words left to block it. (Roy's *"I'm no thing"* in the Mirror Sessions pairs with the *"I AM"* / Exodus-3:14 beat: the kenotic self, the inverse of Lucius's reputation-dependent *"I'm the one they're talking 'bout."*)
 >
-> **Hollow emptiness** is empty *of spirit*, with the structure left standing — the reflection pole. The Empty Mirror *"seeing nothing"*; the clone *all angle, no angel*; the sterile Cavendish. The clone is this pole's anchor, and *"all angle, no angel"* is the portable phrase the concept hands [[The Empty Mirror]] to diagnose it with.
+> **Hollow emptiness** is empty *of spirit*, with the structure left standing — the reflection pole. The Empty Mirror *"seeing nothing"*; the clone *all angle, no angel*; the sterile Cavendish. The clone is this pole's anchor, and *"all angle, no angel"* is the portable phrase the concept hands [[Concepts/The Empty Mirror]] to diagnose it with.
 
 > [!note]- Advanced reading — Ruach, and the sequence run backwards
 > *Ruach* (רוח) — breath/spirit, grammatically feminine — is the substrate: breath before speech (Genesis 1:2), the breath of life (Genesis 2:7), the *ruach* summoned to the dry bones (Ezekiel 37). The doctrine throughout is the same: structure is the vessel, breath is the life.
@@ -147,7 +147,7 @@ Roy's engagement with Hebrew letter-mysticism runs all through the catalogue, na
 > Read through *consonants = angles / vowels = breath*, the root ר-א-י (r-'-y) inside the *El Roi* tattoo *permits* reading across vowel variations: *re'i* = "my seeing" / mirror; *ari* = lion → Leo / light-bearer; *El × ro'i* = "God of my seeing." A functional synthesis lands on *"the one in whose seeing I am reflected."* Guard hard: the letters do not *mean* all of these. The system permits the resonance; it does not force it — read it as a fan of possibilities the root opens, not a single fixed gloss. (The same root unfolds across [[The Watchers]] — mirror → eye → surveillance — and the *El Roi* throat-tattoo as Hebrew on the gate of the voice.)
 
 > [!note]- Advanced reading — the *davar* capstone
-> The MAGIK ARG's final drop resolved to *davar* (Hebrew דָבָר — the Word *and* the thing); its negation *lo davar* ("no-thing") was the live wildcard. The four-drop sequence (*you are it → heart → alcyone → davar*) lands on *"the Word that creates from No-Thing"* — creation-by-word routing straight to *Sefer Yetzirah* / [[The Voice]] / [[The Mouth]], and bridging to Roy's 2022 aphorism *"No thing ever creates another thing."* (The ARG solve is grounded; the theological reading of it is interpretation.)
+> The MAGIK ARG's final drop resolved to *davar* (Hebrew דָבָר — the Word *and* the thing); its negation *lo davar* ("no-thing") was the live wildcard. The four-drop sequence (*you are it → heart → alcyone → davar*) lands on *"the Word that creates from No-Thing"* — creation-by-word routing straight to *Sefer Yetzirah* / [[Concepts/The Voice]] / [[Concepts/The Mouth]], and bridging to Roy's 2022 aphorism *"No thing ever creates another thing."* (The ARG solve is grounded; the theological reading of it is interpretation.)
 
 ## Source notes
 
@@ -159,9 +159,9 @@ Roy's engagement with Hebrew letter-mysticism runs all through the catalogue, na
 ## Read next
 
 - [[Beth]] — the per-letter deep-dive: the house-letter, the one printed on a release.
-- [[The Mouth]] — the instrument where angels and angles meet.
+- [[Concepts/The Mouth]] — the instrument where angels and angles meet.
 - [[City of Angels]] — the angels named; the clones counted.
 - [[SOL]] — the wordless closer: breath with the verses removed.
-- [[The Empty Mirror]] — *all angle, no angel,* the hollow pole.
+- [[Concepts/The Empty Mirror]] — *all angle, no angel,* the hollow pole.
 - [[Kabbalah - The Tree of Life]] — the other axis of the same system.
-- [[Inversion]] — Hebrew read both ways; *re'i* = mirror; everything is a mirror.
+- [[Concepts/Inversion]] — Hebrew read both ways; *re'i* = mirror; everything is a mirror.

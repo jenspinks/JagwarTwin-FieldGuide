@@ -46,7 +46,7 @@ A few claims that cut across the whole loop.
 
 **It's a noticing, not a climax.** There is no arrival event in the lyric — no wave hits, nothing breaks. The speaker is *already* waist-deep, the head *already* going under. So this isn't where the flood strikes; it's where the album's momentum-doctrine — [[Hell Of A Night]]'s *outrun it* — stops working long enough for the submersion to become **conscious**. Elsewhere on the record a climax happens *to* Roy. Here he simply looks down and sees he's been drowning the whole time.
 
-**Time is the flood.** The title says *time*, but the lyric makes time behave like water — ticking, rising, submerging, wasting — and fuses them outright in one line. So the album's deluge isn't only emotional; underneath, it's **temporality itself**: underwater in time, submerged in the awareness that a life is being spent. This is the track where the record's title-metaphor and its clock turn out to be the same object (see [[Subject to Flooding]], [[Machine vs Human]]).
+**Time is the flood.** The title says *time*, but the lyric makes time behave like water — ticking, rising, submerging, wasting — and fuses them outright in one line. So the album's deluge isn't only emotional; underneath, it's **temporality itself**: underwater in time, submerged in the awareness that a life is being spent. This is the track where the record's title-metaphor and its clock turn out to be the same object (see [[Subject to Flooding]], [[Concepts/Machine vs Human]]).
 
 **The line break is a fork — and the song keeps both tines.** *"We know we can't change / nobody else"* reads two ways depending on where you stop. Run it on: *"we can't change nobody else"* — **accountability**, you cannot change other people, only your own time is yours to spend or waste. Stop it dead: *"we can't change." / "Nobody else."* — **fatalism plus isolation**, locked in the pattern, and no one is coming. The relentless repetition lets both run *simultaneously*; the outro's *"there's nobody else"* is what finally tips the scale toward verdict. Don't resolve the ambiguity — it *is* the mechanism.
 
@@ -84,7 +84,7 @@ A few claims that cut across the whole loop.
 - **[[Hell Of A Night]]** — the momentum-doctrine (*outrun it*) that **failed**; *Precious Time* is where the running stops working.
 - **[[Hell of a Night Pt. 2 (The Hallelujah Stickup)]]** — the seizure-logic / outlaw grammar, extended here from money and joy to salvation and time.
 - **[[Shine]]** — the very next track and the immediate answer: recognition gives way to dawn. *Shine* chooses light but doesn't cancel the water — and its hope reads as *chosen, not casual* precisely because *Precious Time* made the crisis as large as death.
-- **[[Dream - Dream]]** *(track 2)* — the shared source: one 1957 Sarah Vaughan recording feeds **both** tracks. *Dream / Dream* takes the *song*; *Precious Time* takes the *speech* before it — one night's music and talk split across the album's two halves (see [[Inherited Substrate]]).
+- **[[Dream - Dream]]** *(track 2)* — the shared source: one 1957 Sarah Vaughan recording feeds **both** tracks. *Dream / Dream* takes the *song*; *Precious Time* takes the *speech* before it — one night's music and talk split across the album's two halves (see [[Concepts/Inherited Substrate]]).
 - **[[It's Your Time]]** *(33, 2022)* — the *other* "Time" song, and its opposite charge: kairos, the seized moment (*all my life I've been waiting for this*) against *Precious Time*'s awakening-too-late. Same noun, inverted polarity — panic vs. arrival.
 - **[[All My Friends]]** *(2023 single)* — *no time left on the clock*: a game-clock, kin in *theme* across eras (winning collapses when the game ends), not a callback.
 - **[[Superhuman]]** — an album-sibling on the inherited-substrate axis (its own sampled voice) and the *blood-on-our-knees* strand of the blood census.
@@ -93,7 +93,7 @@ A few claims that cut across the whole loop.
 
 The third writing credit is the strange, wonderful one. **Sarah Vaughan** is credited not because the song borrows her melody or words but because it *samples her voice* — specifically, by ear, the spoken banter she does *before* she sings, lifted from a 1957 live recording of "Dream." So a song called *Precious Time* opens a window into a captured, recorded moment of *another* performer's spent time: a dead woman's living, off-hand room-talk, preserved.
 
-The lovely structural fact: the **same 1957 performance** feeds two different songs on this album. [[Dream - Dream]] (track 2) takes the *song* she sang; *Precious Time* (track 12) takes the *talk* before it. One night, split down the middle and stationed at either end of the record — music in the first half, speech in the last. It's a small, exact instance of the album's method of building new work on inherited material (see [[Inherited Substrate]]). The credit itself is grounded (it's in the released credits); the by-ear identification of the source recording is a strong reading pending a close listen for exactly where the banter sits in the mix.
+The lovely structural fact: the **same 1957 performance** feeds two different songs on this album. [[Dream - Dream]] (track 2) takes the *song* she sang; *Precious Time* (track 12) takes the *talk* before it. One night, split down the middle and stationed at either end of the record — music in the first half, speech in the last. It's a small, exact instance of the album's method of building new work on inherited material (see [[Concepts/Inherited Substrate]]). The credit itself is grounded (it's in the released credits); the by-ear identification of the source recording is a strong reading pending a close listen for exactly where the banter sits in the mix.
 
 ## Lyrics
 
@@ -200,4 +200,4 @@ Wasting precious time
 - [[Dream - Dream]] — the album's *other* Vaughan track; the song to this one's speech.
 - [[It's Your Time]] — the opposite pole: the seized moment against the wasted one.
 - [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]] — the seizure-logic this song inherits.
-- [[Inherited Substrate]] — the method behind the sampled voice.
+- [[Concepts/Inherited Substrate]] — the method behind the sampled voice.

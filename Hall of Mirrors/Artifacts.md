@@ -71,7 +71,7 @@ Family images, childhood traces, pets, live moments, personal-history fragments,
 Flood glyphs, numeric IDs, the SA-RA-VI upload-links, body-part codes, gate chains, and other artifacts that behave like *systems* rather than standalone images. This is the puzzle-brain section. It's also the section most likely to tempt overreach, so the rule here is simple: a code has to *connect* more than it *decorates*. Repeated numbers, symbols, or glyphs are interesting; a demonstrated relationship between code, concept, room, and song is much more interesting.
 
 **[[Artifacts - Concept Images and Emblems]]**
-Images, clips, and objects where the code, title, or content directly overlaps with a major concept in the Jagwar Twin world. These are the artifacts that function almost like illustrated glossary entries. Some point at [[The Circle]], [[The Mirror|the mirror]], [[The Pattern|the pattern]], the body, the star, the flood, the eye, or the tree. When an artifact isn't just "an image of a thing" but "the concept made visible," it belongs here.
+Images, clips, and objects where the code, title, or content directly overlaps with a major concept in the Jagwar Twin world. These are the artifacts that function almost like illustrated glossary entries. Some point at [[The Circle]], [[The Mirror|the mirror]], [[Concepts/The Pattern|the pattern]], the body, the star, the flood, the eye, or the tree. When an artifact isn't just "an image of a thing" but "the concept made visible," it belongs here.
 
 ## The "I'm 33" board
 

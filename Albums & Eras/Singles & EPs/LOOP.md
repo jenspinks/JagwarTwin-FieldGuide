@@ -24,7 +24,7 @@ The song that says the quiet part out loud. Roy spent months of his feed hashtag
 - **Era / release** — Standalone single (3-song release + Dolby Atmos mix), August 29 2025, Big Loud Rock. First in the LOOP → Not Your Homie → Welcome to the Circus chain; deliberately **not** an album track.
 - **In one line** — A love song about a carousel that is really a diagnosis of the simulation — the trap recognized with full clarity, the exit still just talk.
 - **Who speaks** — [[Roy]] / Jagwar Twin, alone, in two registers: the self *caught inside* the loop (verses, choruses) and the guide who *names it from outside* (the coda). No [[Sir Lucius]] — absent by design. The "you" is polyvalent. A background "(I just can't get away)" carries a faint [[The Crowd|crowd]]-echo.
-- **Key symbols** — [[The Loop and the Circle|The Loop]] · the carousel ([[The Wheel]]) · the simulation ([[The Algorithm]]) · the stars · the journey · and, by pointed absence, [[The Loop and the Circle|The Circle]].
+- **Key symbols** — [[Concepts/The Loop and the Circle|The Loop]] · the carousel ([[The Wheel]]) · the simulation ([[Concepts/The Algorithm]]) · the stars · the journey · and, by pointed absence, [[Concepts/The Loop and the Circle|The Circle]].
 
 ## The song, mapped
 
@@ -47,7 +47,7 @@ The form *enacts the trap*: the song is structurally the thing it names, and its
 
 A few claims that cut across the whole song.
 
-**The romance is the *delivery mechanism*, not a mask.** The "you" is a lover — and also the algorithm, the [[The Circus|Circus]], the trauma-pattern, and the recurring self-state you keep waking up inside. Hold all of them at once. The love-song surface isn't a disguise to see through; it's what makes the systemic reading *emotionally legible*. Our relationship to whatever traps us really does run like a bad romance, and the sincerity never drops.
+**The romance is the *delivery mechanism*, not a mask.** The "you" is a lover — and also the algorithm, the [[Concepts/The Circus|Circus]], the trauma-pattern, and the recurring self-state you keep waking up inside. Hold all of them at once. The love-song surface isn't a disguise to see through; it's what makes the systemic reading *emotionally legible*. Our relationship to whatever traps us really does run like a bad romance, and the sincerity never drops.
 
 **It's the paralysis of awareness.** *"We're gonna break the simulation"* is the thesis — and it's delivered as something two people talked about all night and never did. That's the modern condition in one couplet: we *know* we're in the simulation, we *discuss* leaving it endlessly, and we stay on the carousel. The song's most uncomfortable suggestion is that the talking might itself be part of the loop — escape rhetoric as another lap.
 
@@ -64,19 +64,19 @@ A few claims that cut across the whole song.
 
 ## Symbols
 
-- [[The Loop and the Circle|The Loop]] — the **trapped** recursion this song names: trauma pattern, algorithmic repetition, the Circus internalized. Repetition *without transformation.* LOOP is the concept made explicit as a title — the closest thing to a plain statement of the closed-system framework.
+- [[Concepts/The Loop and the Circle|The Loop]] — the **trapped** recursion this song names: trauma pattern, algorithmic repetition, the Circus internalized. Repetition *without transformation.* LOOP is the concept made explicit as a title — the closest thing to a plain statement of the closed-system framework.
 - [[The Wheel|The carousel]] — the Loop made concrete. *"Round and around… the same thing every time."* The same carousel is staged fully in the [[Bad Feeling (Oompa Loompa)]] visualizer's Circus, and it echoes Joni Mitchell's captive carousel in "The Circle Game" and the *"spinning you round and round"* of [[Welcome to the Circus]].
-- [[The Algorithm|The simulation]] — the systemic frame the core targets: the modern condition, named.
+- [[Concepts/The Algorithm|The simulation]] — the systemic frame the core targets: the modern condition, named.
 - **The stars** — *"the stars in the sky conspired"*: fate that reads two ways at once, liberating and complicit (see Advanced reading).
 - **The journey** — the coda's reframe. The initiation named from outside; the word that turns a loop into a path.
-- [[The Loop and the Circle|The Circle]] — the load-bearing **inverse**, present by its absence. Not in the lyric, but it's the thing the Loop is the dark twin of: liberating recursion, return to source, remembrance. What you find *when the Loop breaks.* Do not conflate the two.
+- [[Concepts/The Loop and the Circle|The Circle]] — the load-bearing **inverse**, present by its absence. Not in the lyric, but it's the thing the Loop is the dark twin of: liberating recursion, return to source, remembrance. What you find *when the Loop breaks.* Do not conflate the two.
 
 ## Connected songs
 
 - [[Welcome to the Circus]] — the same carousel, **fully weaponized**: *"spinning you round and round."* Third in the chain. In [[The Interview]] EP3, Lucius accuses Roy of being in a loop and then plays *this.*
 - [[Not Your Homie]] — the chain's **pivot** to mastery-from-within (2025-10-31), the dark road. This is the loop LOOP names, now spoken *from inside* it — and its counter-line is the same integration mantra ("my mind must serve my heart").
 - [[Bounce]] — the album-interior version of the same loop: riding the carousel as a forced party, **without** LOOP's clarity.
-- [[Lucius Lullaby|Lucius Lullaby (the song)]] — the light/dark **pair**. *"Life is a loop"* names the trap so it can be broken; *"life is but a dream"* is the trap sung as a lullaby so you stay asleep inside it (the documented [[Inversion]]; note the nursery-round "Row, Row, Row Your Boat" that literally loops).
+- [[Lucius Lullaby|Lucius Lullaby (the song)]] — the light/dark **pair**. *"Life is a loop"* names the trap so it can be broken; *"life is but a dream"* is the trap sung as a lullaby so you stay asleep inside it (the documented [[Concepts/Inversion]]; note the nursery-round "Row, Row, Row Your Boat" that literally loops).
 - [[The Circle]] (2022) — the essential **inverse** concept-song: the remembrance doctrine LOOP's trap is measured against.
 - [[The Circle (Lucius Version)]] (2026) — keeps the name but its whole lyric is a single looped line — the Circle *recoded into a Loop*, the dark pole literalized in production.
 - [[Soul Is A Star]] — the other end of the **star** motif: *"your soul is a star"* (relocated inward) against LOOP's *"stars conspired"* (fate as trap).
@@ -88,13 +88,13 @@ A few claims that cut across the whole song.
 > - **The Loop** = *return without transformation.* Trauma repeating, the algorithm serving you the same thing, the Circus internalized. You come back around and nothing has changed. This song.
 > - **The Circle** = *return with memory restored.* No beginning, no end, back to the source, the one song, "the inside of the inside." You come back around and you *remember.*
 >
-> The sharpest one-liner (from the Sir Rabbit material): *Loop = return without transformation; Circle = return with memory restored.* The Circle is what's *found* when the Loop breaks — so LOOP names the Loop and asks, still trapped, to get out. [[The Loop and the Circle]] holds the full contrast.
+> The sharpest one-liner (from the Sir Rabbit material): *Loop = return without transformation; Circle = return with memory restored.* The Circle is what's *found* when the Loop breaks — so LOOP names the Loop and asks, still trapped, to get out. [[Concepts/The Loop and the Circle]] holds the full contrast.
 
 > [!note]- Advanced reading — "Life is a loop" and the dream that recodes it
-> LOOP is the light-side counterweight to the album's title track inside one phrase-family. *"Life is a loop"* (posted January 2024, ~8 months pre-single) belongs to the same family as *"life is but a dream"* — Roy's sincere 2023 line that Lucius later recodes into the *Lucius Lullaby* register (the documented [[Inversion]]: a "Dark Circle" *within* the Circle). Two sides of one frame: **loop** = the trap *named* so it can be broken; **dream** = the same trap sung as a *lullaby* so you never wake up. LOOP wants you conscious; the lullaby wants you asleep.
+> LOOP is the light-side counterweight to the album's title track inside one phrase-family. *"Life is a loop"* (posted January 2024, ~8 months pre-single) belongs to the same family as *"life is but a dream"* — Roy's sincere 2023 line that Lucius later recodes into the *Lucius Lullaby* register (the documented [[Concepts/Inversion]]: a "Dark Circle" *within* the Circle). Two sides of one frame: **loop** = the trap *named* so it can be broken; **dream** = the same trap sung as a *lullaby* so you never wake up. LOOP wants you conscious; the lullaby wants you asleep.
 
 > [!note]- Advanced reading — the stars that "conspired," and a Gnostic harmonic
-> *"The stars in the sky conspired to bring me right to you"* reads two ways simultaneously. **Liberating:** fate, providence, the loop contains a lesson meant for you. **Trapping:** the cosmos is *complicit* — *"conspired"* is a word with a knife in it. That doubleness faintly resonates with the Gnostic picture (see [[Gnosticism - The World as Trap]]) of archons keeping the divine spark trapped inside the material mechanism — a resonance the line *supports*, not a reference Roy is citing. It sits in a cross-era star throughline: *"stars out of place"* ([[Move To You]], 2018) → *"looked down at my stars,"* walked-on ([[No Fake Friends]], 2018) → *"stars conspired"* (LOOP, 2025) → *"your soul is a star,"* relocated inward ([[Soul Is A Star]], 2022).
+> *"The stars in the sky conspired to bring me right to you"* reads two ways simultaneously. **Liberating:** fate, providence, the loop contains a lesson meant for you. **Trapping:** the cosmos is *complicit* — *"conspired"* is a word with a knife in it. That doubleness faintly resonates with the Gnostic picture (see [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]]) of archons keeping the divine spark trapped inside the material mechanism — a resonance the line *supports*, not a reference Roy is citing. It sits in a cross-era star throughline: *"stars out of place"* ([[Move To You]], 2018) → *"looked down at my stars,"* walked-on ([[No Fake Friends]], 2018) → *"stars conspired"* (LOOP, 2025) → *"your soul is a star,"* relocated inward ([[Soul Is A Star]], 2022).
 
 > [!note]- Advanced reading — the keystone: not eliminate the split, re-order it
 > LOOP carries the doctrinal resolution the whole arc points toward, and it's a subtle one: the goal is **not** to *eliminate* the heart/mind split but to *correctly order* it — *"my mind must serve my heart."* Roy published this as part of the LOOP-era lore: in the narrative spine, Roy fights the loop and steps through a gate repeating that line. Note the verb: the same *serve* Lucius twists (mind serving an external master, the algorithm) is here turned to its rightful object (mind serving the internal heart). Same word, opposite masters. That is the pivot the entire Lucius arc is built to reach — and LOOP is where it's first stated as the way out. It also gestures at the wider lore imagery of the era: the **gate** as threshold, the **[[The Rose|rose]]** that blooms once the loop is fought ("infinity powering eternity"), and the promo call-sign ∞.
@@ -220,7 +220,7 @@ You're going on a journey
 
 ## Read next
 
-- [[The Loop and the Circle]] — the distinction this whole page rests on.
+- [[Concepts/The Loop and the Circle]] — the distinction this whole page rests on.
 - [[Not Your Homie]] — the dark-road answer; the loop sung from *inside.*
 - [[Welcome to the Circus]] — the carousel weaponized; where the chain lands.
 - [[The Interview]] — where Lucius takes the word "loop" and turns it on Roy.

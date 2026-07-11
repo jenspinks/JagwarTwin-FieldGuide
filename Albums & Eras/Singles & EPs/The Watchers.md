@@ -21,7 +21,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **Era / release** — October 2024, Big Loud. A standalone single and short EP with a *Slowed + Verb* companion; the official visualizer followed (into 2025). Roy toasted it on Discord — *"celebrate the watchers being out with all our nerd friends"* — and the fan channel gave it a second life as a Halloween-playlist staple and a *"10 hours of The Watchers"* YouTube loop.
 - **In one line** — a surveillance-dream: the self replicated, consumed, judged, and watched, asking whether it's awake or already the copy.
-- **Who speaks** — [[Roy|Jagwar Twin]], the watched and doubting self trying to wake. [[The Audience]] is the fascinated, dancing crowd that has become the eye. [[Sir Lucius]] surfaces in the scapegoat passage — and, in the video, appears silent at the very end.
+- **Who speaks** — [[Roy|Jagwar Twin]], the watched and doubting self trying to wake. [[Concepts/The Audience]] is the fascinated, dancing crowd that has become the eye. [[Sir Lucius]] surfaces in the scapegoat passage — and, in the video, appears silent at the very end.
 - **Key symbols** — [[The Mirror]] becoming the eye · the Eye (Horus) · the clone / the sterile copy · the dream and the alarm · candy and consumption · the theremin (form as content).
 
 ## The song, mapped
@@ -47,7 +47,7 @@ The Watchers is built on *one* borrowed anchor — the Rockwell hook — and spe
 
 **The clone line is the whole move.** *"I'm afraid I'm a clone"* takes [[City of Angels]]' replication horror — *everyone looks just like you*, aimed outward — and turns it inward: maybe *I'm* the copy. External homogenization becomes ontological panic. This is why The Watchers *develops* the replication thread instead of restating it, and why every other image in the song orbits it.
 
-**The crowd is a third face of the audience.** The fascinated, intoxicated, dancing crowd is the deified audience of [[Playing to the Gods]], now felt as surveillance rather than worship. It gives [[The Audience]] a third face alongside its other two — communion and harvest — the *gaze*. And the watchers don't merely see: they *alter* the watched self, which begins to perform, doubt, defend, and dissociate. Being watched is not passive here. It manufactures the thing it observes.
+**The crowd is a third face of the audience.** The fascinated, intoxicated, dancing crowd is the deified audience of [[Playing to the Gods]], now felt as surveillance rather than worship. It gives [[Concepts/The Audience]] a third face alongside its other two — communion and harvest — the *gaze*. And the watchers don't merely see: they *alter* the watched self, which begins to perform, doubt, defend, and dissociate. Being watched is not passive here. It manufactures the thing it observes.
 
 **To be consumed sweetly is to be cloned.** *"Now they want candy"* and *"I'm making bacon"* plug the watched self into the [[Bad Feeling (Oompa Loompa)|Wonka]]/appetite system: the crowd wants the sweet, edited version, not the whole person. The next line welds appetite to the clone-fear — *"now they want candy / but I'm not Mandy Moore"* — refusing to be the wholesome, manufactured pop-icon. The candy the crowd wants *is* the copy.
 
@@ -56,14 +56,14 @@ The Watchers is built on *one* borrowed anchor — the Rockwell hook — and spe
 **The scapegoat passage is "Stop Sir Lucius," turned inward.** *"Tried to make me out to be the bad guy"* is the exact logic of the visual series' *STOP SIR LUCIUS* flyers — the crowd manufactures the conditions for spectacle, then condemns the performer for becoming spectacular. Here it's pointed inward. The runaway train about to crash is the self the watching made, blamed for what the watching wanted.
 
 > [!note]- Advanced reading — the El Roi axis: witnessing vs. surveillance
-> This is the load-bearing frame. The Watchers is the catalogue's purest surveillance song, and it lands on the artist whose name *is* El Roi — Genesis 16:13, *"the God who sees me,"* inked in Hebrew (אל ראי) on [[Sir Lucius]]'s throat. The project distinguishes two ways of being seen ([[Witnessing vs Surveillance]]): **witnessing** recognizes and restores — you are *transformed* by being seen; **surveillance** predicts and ranks — you are *shaped*, not known. The machine that watches everything cannot witness anyone.
+> This is the load-bearing frame. The Watchers is the catalogue's purest surveillance song, and it lands on the artist whose name *is* El Roi — Genesis 16:13, *"the God who sees me,"* inked in Hebrew (אל ראי) on [[Sir Lucius]]'s throat. The project distinguishes two ways of being seen ([[Concepts/Witnessing vs Surveillance]]): **witnessing** recognizes and restores — you are *transformed* by being seen; **surveillance** predicts and ranks — you are *shaped*, not known. The machine that watches everything cannot witness anyone.
 >
 > Read against that, *"I'm afraid I'm a clone"* is the precise *output* of surveillance — the self shaped into a copy rather than witnessed into itself — sung by the one whose name promises the opposite gaze. And the keeper line resolves into the Hebrew itself: the El Roi root ר-א-י braids *re'i* (mirror) with *seeing* and with the *eye*. So *"the hall of mirrors grows eyes"* isn't a reached-for metaphor — mirror → eye is the word unfolding. Which is exactly why Roy's Jung-Horus pairing lands: Horus's eye is surveillance, El Roi is witness, and The Watchers is the space between them.
 
 > [!note]- Advanced reading — the clone as "all angle, no angel"
 > *"I'm afraid I'm a clone"* is the first-person of the catalogue's sterile-copy motif. It rhymes with the Cavendish banana — *real light in a sterile vessel: you can hear the song, you cannot inherit it* — and with [[Letters of Creation|The Angels and the Angles]], where the counterfeit is structure without spirit. A clone is *all angle, no angel*: a body without the breath (the Ruach) that would make it originate rather than repeat. The horror isn't being watched; it's discovering the watching has already remade you into something that can only copy.
 >
-> Underneath sits an upload cosmology (see [[The Upload]] / [[The Pattern]]): Roy's 2022 *"I'm 33"* board carried a tab, *"how to upload myself to the internet"* — upload as anthropomorphized attention, the net as an all-seeing field, the Eye. The board's Eye-of-Horus *wedjat* fractions (½, ¼, … down to 1/64, summing to 63/64, always missing the last 1/64 that Thoth restores) *are* the clone paradox the lyric names — the part that won't digitize. The Egyptians, in this reading, already wrote the equation for the incomplete copy. The spine runs board (2022) → [[Online]] (2022) → The Watchers (2024) → the 2026 eye/surveillance material.
+> Underneath sits an upload cosmology (see [[Concepts/The Upload]] / [[Concepts/The Pattern]]): Roy's 2022 *"I'm 33"* board carried a tab, *"how to upload myself to the internet"* — upload as anthropomorphized attention, the net as an all-seeing field, the Eye. The board's Eye-of-Horus *wedjat* fractions (½, ¼, … down to 1/64, summing to 63/64, always missing the last 1/64 that Thoth restores) *are* the clone paradox the lyric names — the part that won't digitize. The Egyptians, in this reading, already wrote the equation for the incomplete copy. The spine runs board (2022) → [[Online]] (2022) → The Watchers (2024) → the 2026 eye/surveillance material.
 
 > [!note]- Advanced reading — form enacts content: the theremin, the na-na, the Jung crop
 > The song's textures *are* its argument.
@@ -95,7 +95,7 @@ At bottom, the entire Rockwell saga is about *who gets to claim a song* — the 
 
 - [[Roy|Jagwar Twin]] — the watched, doubting self, trying to wake; the one whose name is *El Roi* ("the God who sees me"), now living under the Algorithm's gaze rather than God's.
 - [[Sir Lucius]] — present in the scapegoat passage (*"made me out to be the bad guy"*): the disowned self the crowd's gaze calcifies and then condemns. In the video he is the **watcher revealed** — the white-face clown who appears, silent, at the close.
-- [[The Audience]] — the fascinated, intoxicated, dancing crowd; here given a third face alongside communion and harvest: the gaze. The watchers don't merely see; they alter the watched self.
+- [[Concepts/The Audience]] — the fascinated, intoxicated, dancing crowd; here given a third face alongside communion and harvest: the gaze. The watchers don't merely see; they alter the watched self.
 - **Michael Jackson** *(ghost figure)* — sang the interpolated source's hook uncredited; invoked in-song as the dance/spectacle icon watched, copied, consumed, never privately himself.
 - **Mandy Moore** *(named foil)* — the wholesome, manufactured pop-commodity the narrator refuses to be: candy-clean pop as the clone the song fears becoming.
 
@@ -129,9 +129,9 @@ At bottom, the entire Rockwell saga is about *who gets to claim a song* — the 
 - [[Lucius Lullaby]] — sedation against alarm; *"life is but a dream"* against *"is it just a dream / wake up"* — and Roy's own floor-origin twin to Rockwell's prayer-genesis.
 - [[Online]] — the *named* surveillance precedent from 2022 (*"they know my every step… a bug inside your database"*); The Watchers is its dream-state sequel.
 - [[Bad Feeling (Oompa Loompa)]] / [[Bananas]] / [[Welcome to the Circus]] — the candy/consumption/spectacle system the *"now they want candy"* line plugs into. *Bad Feeling* also shares Ryan Daly's credit and the silent-Lucius video end-tag.
-- [[Moths to the Flame]] — read with The Watchers and [[The Upload]] as "one machine seen three ways": the Eye that watches, the net you upload into, the flame you fly into to be seen.
+- [[Moths to the Flame]] — read with The Watchers and [[Concepts/The Upload]] as "one machine seen three ways": the Eye that watches, the net you upload into, the flame you fly into to be seen.
 - [[All My Friends]] — the "clone-with-friends" (2023) that hardens into "clone-being-watched" (2024).
-- [[Witnessing vs Surveillance]] / [[Inversion]] / [[The Digital Double]] / [[The Empty Mirror]] / [[The Dweller on the Threshold]] — the concept nodes underneath: being-seen, mirror-becoming-eye, the copy, and the disowned self the gaze condemns.
+- [[Concepts/Witnessing vs Surveillance]] / [[Concepts/Inversion]] / [[Concepts/The Digital Double]] / [[Concepts/The Empty Mirror]] / [[Concepts/The Dweller on the Threshold]] — the concept nodes underneath: being-seen, mirror-becoming-eye, the copy, and the disowned self the gaze condemns.
 
 ## The video — the watcher revealed
 
@@ -140,7 +140,7 @@ The official visualizer runs the song's argument in images and then closes it. R
 And it **ends on Sir Lucius** — the silent white-face clown. Across these visualizers Roy performs and Lucius appears, wordless, at the close; here, *the one watching turns out to be him*. El Roi is on his throat; the performance was watched, and at the last frame the watcher steps into view. The shadow outlasts the show.
 
 > [!note]- Advanced reading — the scapegoat as the Dweller, blamed
-> Read through the character system, the scapegoat passage is the Dweller doctrine, not just crowd cruelty. [[Sir Lucius]] reads as [[The Dweller on the Threshold]] for Roy — the accumulated, disowned self that the crowd's gaze *calcifies* and then condemns. *"Tried to make me out to be the bad guy"* is the *STOP SIR LUCIUS* flyer logic *and* the Dweller mechanism: the watching makes the bad guy it then punishes (cf. *"another song about ME,"* in *#1 Champion*). The runaway train is the self the watching built, crashing under the blame the watching assigned it.
+> Read through the character system, the scapegoat passage is the Dweller doctrine, not just crowd cruelty. [[Sir Lucius]] reads as [[Concepts/The Dweller on the Threshold]] for Roy — the accumulated, disowned self that the crowd's gaze *calcifies* and then condemns. *"Tried to make me out to be the bad guy"* is the *STOP SIR LUCIUS* flyer logic *and* the Dweller mechanism: the watching makes the bad guy it then punishes (cf. *"another song about ME,"* in *#1 Champion*). The runaway train is the self the watching built, crashing under the blame the watching assigned it.
 
 > [!note]- Advanced reading — the title: Grigori, tetramorph, and the moral-watchers split
 > Held as resonance, not assertion.
@@ -237,7 +237,7 @@ Na na, na na
 
 **Strong readings.** That Roy chose Rockwell *for* the parallels (an overdetermined inference, not stated intent); the clone line as the inward turn of *City of Angels*; the crowd as a third face of the audience; the El Roi / witnessing-vs-surveillance axis; the scapegoat-as-Dweller; the form-enacts-content readings (theremin, na-na, the illegible crop); the video's silent-Lucius end-tag as "the watcher revealed."
 
-**Resonance (interpretive, held lightly).** The title as the Grigori/Enochic watchers; the Ezekiel tetramorph; the Law of One moral-watchers split; the "one machine, three ways" reading that unifies The Watchers, [[Moths to the Flame]], and [[The Upload]].
+**Resonance (interpretive, held lightly).** The title as the Grigori/Enochic watchers; the Ezekiel tetramorph; the Law of One moral-watchers split; the "one machine, three ways" reading that unifies The Watchers, [[Moths to the Flame]], and [[Concepts/The Upload]].
 
 **Two housekeeping notes.** (1) One sourcing thread frames the track as belonging to a later *SideQuest* EP (2025); the credits, ontology, and Discord timeline support the October 2024 single. Both framings exist; the likeliest reconciliation is *single first, later collected* — treated here as an October 2024 release. (2) The "Eminem-production" comparison sometimes attached to this song came from an interviewer, not from Roy.
 
@@ -245,6 +245,6 @@ Na na, na na
 
 - [[Online]] — the named surveillance precedent; The Watchers is its dream-state sequel.
 - [[City of Angels]] — the replication horror this song turns inward.
-- [[Witnessing vs Surveillance]] — the two ways of being seen the whole reading rests on.
+- [[Concepts/Witnessing vs Surveillance]] — the two ways of being seen the whole reading rests on.
 - [[Sir Lucius]] — the watcher revealed at the video's close; the "bad guy" the gaze condemns.
 - [[Moths to the Flame]] — the flame, the net, and the eye as one machine.

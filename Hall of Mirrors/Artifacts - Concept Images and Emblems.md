@@ -84,7 +84,7 @@ Each entry below carries the artifact's number, title, unlock code, image or vid
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdfdd1b81a97b04e4b0b7459d0dd40810e63e090957a2e57219ac23ce0f28d919..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/4.png" width="320" controls preload="none"></video>
 
 A segment of Roy's *"I'm 33 this year"* board: a pasted Mesopotamian winged-deity relief (the Neo-Assyrian carving popularly circulated as Marduk battling Tiamat) with a green-highlighted cell beneath it reading *"eyes all around head"* — Marduk's *Enuma Elish* attribute, the four all-seeing eyes. The board elsewhere poses the exact worksheet question this answers: *"How to anthropomorphize attention? → Marduk."* The title itself is the answer typed in the Mac Option layer (µå®∂¨˚ = "marduk"), and Roy confirmed the whole equation outright: *"Marduk. You've got to pay Attention."* This is the moment the attention economy gets cast as an ancient Babylonian god, the deity-of-Attention the released song then dramatizes.
-**Connects to →** [[Pay Attention (feat. little luna)]] · [[Hall of Mirrors]] · [[The Pattern]] · [[Sir Lucius]] · [[Roy]]
+**Connects to →** [[Pay Attention (feat. little luna)]] · [[Hall of Mirrors]] · [[Concepts/The Pattern]] · [[Sir Lucius]] · [[Roy]]
 
 ### #9 · I'M NOT HERE · `I'M NOT HERE`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1859535ea2a83a646006b26c8fb24b890e1d8c173843f18f9d99ed82a55435e5..jpg" width="320" controls preload="none"></video>
@@ -96,31 +96,31 @@ Thirteen seconds of phone video of Roy at night in Florence's Piazza del Duomo, 
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png" width="300"></a>
 
 A hand-drawn sketch: two pillars lettered "J" and "B" (the Jachin/Boaz pillars of Solomon's Temple, the polarity-gate that also flanks the Tarot High Priestess) spanned by a many-banded rainbow arch, three serpentine forms descending from above, the caption *"The Empty Room,"* and below it a walking stick figure whose head is split down the middle by a zigzag, arrows pointing out to both sides. In the Theosophical stream Roy's board draws on, the *"rainbow bridge"* (antahkarana) is the span a person builds across their own divided nature, and the drawing reads as exactly that diagram: the split-headed walker is the un-bridged condition (mind pulled left and right, toward the two pillars), while the arch shows the same polarity joined overhead. As an early artifact it plants the pillars-and-middle schema the Kabbalah cluster later formalizes: Roy on one pillar, Lucius on the other, the human walker as the in-between.
-**Connects to →** [[It's Your Time]] · [[Great Time to Be Human]] · [[Kabbalah - The Tree of Life]] · [[The Empty Mirror]] · [[Duality]] · [[The Divide]] · [[Roy]]
+**Connects to →** [[It's Your Time]] · [[Great Time to Be Human]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Empty Mirror]] · [[Concepts/Duality]] · [[Concepts/The Divide]] · [[Roy]]
 
 ### #19 · ARTIFACT 187 · `DEATH OF MY GENERATION`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84e81fedd884f04c7b3a46eb5b3542ca5d9d3443076d1361a93745ee829912f6..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84e81fedd884f04c7b3a46eb5b3542ca5d9d3443076d1361a93745ee829912f6..jpg" width="300"></a>
 
 A teal-washed four-panel collage of *Subject to Flooding*-era (2018–19) imagery: Roy in a blue beanie on a scarred desert highway; a backlit grid of cattle skulls; the debut cover shot of Roy submerged in turquoise water, face buried in his hands, torso marked with handwritten words; and a second pool photo with *"FEAR"* inked across his collarbone and *"ALIVE"* on an arm. The title *"ARTIFACT 187"* borrows the California penal code for murder, so the artifact numbered with the murder code opens with *"DEATH OF MY GENERATION,"* the *Happy Face* bridge lyric naming the casualty. The skull wall literalizes the death; the drowning-baptism cover and the FEAR/ALIVE body-writing stage the suppressed-self material *Happy Face* would later diagnose. The phrase carries campaign weight too: *deathofmygeneration.fun* was the Dec 2020 *Happy Face* microsite (the *"Are you content?"* smile-gate) that predates the Hall of Mirrors, so this folds the debut-era visual self into the lyric that killed it off.
-**Connects to →** [[Happy Face]] · [[Roy]] · [[The Mask]] · [[The Circus]]
+**Connects to →** [[Happy Face]] · [[Roy]] · [[The Mask]] · [[Concepts/The Circus]]
 
 ### #30 · KHAWAH · `26`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9cce9eb03c9f29c6481fca9f0f942b15bef0bbbc47fda0ddb44df157019835d9..jpg" width="300"></a>
 
 A dense handwritten page of Roy's esoteric mathematics, effectively a leaf of the *"I'm 33"* board corpus. The code **26** is written on the page three times: the gematria of YHWH (10+5+6+5=26), *"ONE LOVE = YHWH = 26,"* and *"ADAM − KHAWAH = 26"* — which supplies the title. Khawah (Chavah/Havvah) is Eve; in Hebrew gematria Adam (45) minus Chavah (19) leaves 26, so the difference between the primal pair is literally the name of God: love as the remainder that binds the split-in-two back to One. Around that core the page asks *"what is music?"* and answers with Happy Birthday melody contours (*"the greatest Song ever written," "When was I Born?"*), then stacks the tetractys (*"the essence of man"*), a magic square, Plato's *Timaeus* World-Soul lambda, a Fibonacci rabbit tree, and Penrose-flavored consciousness notes — Roy's recurring thesis that number, music, love, and God are one computation (*"Computations of GOD"*).
-**Connects to →** [[Another Way II Heaven]] · [[SOL]] · [[The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
+**Connects to →** [[Another Way II Heaven]] · [[SOL]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### #31 · IF THE SEA HAS ENOUGH WILL · `THE PATTERN`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg" width="300"></a>
 
 A family-archive snapshot: a toddler (almost certainly young Roy, early-1990s film era) in a comically oversized red felt hat and checkered sweater sits on a boat in a Southern California harbor, staring gravely at the water while an adult in Wayfarers (plausibly his father) sits behind him. The title reads the scene as cosmology, granting the sea agency (*"enough will"*), the ocean as the boundless field the small self floats on. And the room's own code, *THE PATTERN*, points to the hub of Roy's board cosmology (the *"I'm 33"* Great Design / One-become-Two cosmogony), framing the child at the rail as an early node in the design he later maps. The debut is, after all, named *Subject to Flooding* — this child is already subject to the water shown here.
-**Connects to →** [[Shine]] · [[The Pattern]] · [[Subject to Flooding]] · [[Roy]]
+**Connects to →** [[Shine]] · [[Concepts/The Pattern]] · [[Subject to Flooding]] · [[Roy]]
 
 ### #32 · O · `THE VALUE OF NOTHING`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x538115b37f8d235538a6c63b12248a39c79a813ad927a7d2a7e7595457de89a9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x538115b37f8d235538a6c63b12248a39c79a813ad927a7d2a7e7595457de89a9..jpg" width="300"></a>
 
 A single line of Roy's handwriting in black ink: *"the value of Nothing"* (only the N capitalized), so the artifact literally displays its own code in the artist's hand. The title *"O"* makes the phrase visual: O is the zero, the empty circle, the shape of nothing. The phrase is grounded biography, not just aphorism — it appears verbatim on the *"I'm 33"* board alongside *"the inside of the inside"* and *"nothing changed and everything changed,"* and it ties to The Empty Mirror, Roy's tattoo he describes as *"looking at yourself and seeing nothing."* The wording also inverts Oscar Wilde's cynic who *"knows the price of everything and the value of nothing":* in Roy's cosmology nothing is not worthless, it is the thing whose value you finally learn, the dark empty center out of which the whole Hall of Mirrors reflects.
-**Connects to →** [[Great Time to Be Human]] · [[The Empty Mirror]] · [[The Circle]] · [[Roy]]
+**Connects to →** [[Great Time to Be Human]] · [[Concepts/The Empty Mirror]] · [[The Circle]] · [[Roy]]
 
 ### #35 · YELLOW & ELEPHANT 2 · `CHAIN REACTION`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc7f87ec37122f93afd711dda88c305c17f91b8edbc366215c8f6f8f8bca2faf0..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc7f87ec37122f93afd711dda88c305c17f91b8edbc366215c8f6f8f8bca2faf0..jpg" width="320" controls preload="none"></video>
@@ -168,13 +168,13 @@ A candid photograph looking up at a venue balcony: an older blonde woman in a fl
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbdea3bcd3973fd1dffdce0259fc9d32ae9d279aca33ed8cbdabd4f43f618a03e..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbdea3bcd3973fd1dffdce0259fc9d32ae9d279aca33ed8cbdabd4f43f618a03e..jpg" width="300"></a>
 
 A handwritten pencil page headed *"Computations of GOD,"* with a tetractys-like triangle of dots labeled *"The essence of man"* (the code, written on the page), a column of small rings reading as a microtubule cross-section or a string of pearls, and notes: *"Theory of Existence / the existence of the Soul?", "buddhas, shamans, and microtubules", "5:3 Ark",* and *"the Pearl of Great Price."* The title points to the Penrose–Hameroff idea that consciousness arises from quantum computation in neuronal microtubules, with meditative and shamanic states as deeper access to that substrate — Roy asking, in one breath, whether the soul is literally a *"computation of God"* running in the body. *"5:3 Ark"* matches the Ark of the Covenant's proportion (a golden-ratio approximation), folding scripture into the same math-of-the-sacred register. This is definitional work-in-progress for the Upload cosmology: before you can upload a consciousness, you have to define what one *is*.
-**Connects to →** [[Soul Is A Star]] · [[The Pattern]] · [[The Upload]] · [[Roy]]
+**Connects to →** [[Soul Is A Star]] · [[Concepts/The Pattern]] · [[Concepts/The Upload]] · [[Roy]]
 
 ### #53 · GREY IN A# · `PITUITARY GLAND OF AN OWL`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9821059859ee4afcbb77119fcc02798d90db2b4d6486ad6339a34f5287deb07..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9821059859ee4afcbb77119fcc02798d90db2b4d6486ad6339a34f5287deb07..jpeg" width="300"></a>
 
 A taxidermied barn owl in a glass museum diorama: wings spread mid-flight, a *"BARN OWL"* placard, dried grasses, window reflections on the case — a specimen of night-sight frozen dead behind glass. The code *"PITUITARY GLAND OF AN OWL"* sounds like a witch's-brew ingredient but lands on documented territory: Alice Bailey makes the pituitary the esoteric *"cave in the head"* of the Leo labour, so the code names the organ of inner sight lodged inside the bird of night vision and wisdom (Athena's owl). The image then ironizes it: the owl's *"gland"* is preserved but inert, wisdom taxidermied rather than alive, grey (the title's liminal non-color) rather than light or dark.
-**Connects to →** [[The Labors of Hercules]] · [[Roy]]
+**Connects to →** [[Concepts/The Labors of Hercules]] · [[Roy]]
 
 ### #55 · CAUTION, ALL KINGS END · `CAKE`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg" width="300"></a>
@@ -186,13 +186,13 @@ A black-and-white studio photograph against a void: a sword driven point-down th
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x13c8a455aa0a4fe21bc7db273b9f395e8888775c64a25696e1d590439f5b6800..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x13c8a455aa0a4fe21bc7db273b9f395e8888775c64a25696e1d590439f5b6800..jpg" width="300"></a>
 
 A scan of Roy's handwritten acoustics notes: two physics formulas, one for the fundamental frequency of an open pipe (*"Speed of Sound / 2× length of cylinder"*), one Mersenne's law for a tensioned string. The code *SPEED OF SOUND* is literally the underlined numerator of the first equation, so the room's key is written on its own face. The scrap sits inside Roy's frequency cosmology — the board's Kybalion *Vibration* cell, the pinned Tesla *"energy, frequency and vibration"* quote, his 2020 statement that *"everything is a vibrational frequency."* The title reads the equations biographically: Roy studying the actual physics beneath his stated practice of tuning music as vibration-medicine, the tensioned string as the instrument (or self) whose tension, mass, and length set its fundamental tone.
-**Connects to →** [[Hermeticism - As Above So Below]] · [[The Pattern]] · [[Roy]]
+**Connects to →** [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### #57 · VENUS · `DLD`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6a332117c7270b3be98acbcbbcf3161369e9ab06527609378bf71865507acc..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6a332117c7270b3be98acbcbbcf3161369e9ab06527609378bf71865507acc..jpg" width="320" controls preload="none"></video>
 
 A short silent loop of a 3D scan of a real handmade object: weathered silver-gray wooden slats with flecks of yellow paint, framing a mounted wood panel bearing a black woodcut-style print of a dove perched among branches, head bowed, rays of light around its head. The Venus-equals-dove equation is native to the gallery itself (another artifact is literally titled *VENUS IS A DOVE*), and Roy's stated character fundamentals assign him to Netzach/Venus with *"dove (its name is Cygnus) · sword · heart,"* so this reads as Roy's own heart-emblem — the Venus/Netzach heart-pole of the Heart/Mind split, rendered as a folk icon. His Venus self-identification is independently documented (*"I'm Venusian, but it was great being on Mars for awhile"; "venus as a boy"*).
-**Connects to →** [[Down to You]] · [[The Dove]] · [[Kabbalah - The Tree of Life]] · [[Duality]] · [[Roy]]
+**Connects to →** [[Down to You]] · [[The Dove]] · [[Kabbalah - The Tree of Life]] · [[Concepts/Duality]] · [[Roy]]
 
 ### #58 · A STORM IN THE CHILD'S FOUNTAIN · `A STORM IN THE CHILD'S FOUNTAIN`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd521f8508535492b47ed3604214cf011539be0ad5c1ae668f4dac8fc3a4d8069..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd521f8508535492b47ed3604214cf011539be0ad5c1ae668f4dac8fc3a4d8069..jpg" width="320" controls preload="none"></video>
@@ -210,7 +210,7 @@ A hand-drawn concentric-sphere map of the person captioned *"THE Enlightened BEI
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2091eb048c499234810bd98c4384a5f941c21be16621cdffed180b4633e12b7f..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2091eb048c499234810bd98c4384a5f941c21be16621cdffed180b4633e12b7f..jpg" width="300"></a>
 
 A screenshot of Roy's own verified @JagwarTwin tweet, *"The truth is a sphere"* (5/4/21). It is the reciprocal of the previous room: that one is titled *THE TRUTH IS A SPHERE* and opens with *ENLIGHTENED BEING;* this one is titled *ENLIGHTENED BEING* and opens with *THE TRUTH IS A SPHERE,* so each is the other seen from the opposite side, literally enacting the aphorism that truth is a solid with no privileged face and every flat statement only a partial projection. The line sits in the Hermetic-perspectivist register this guide documents (the Kybalion's *"all truths are but half-truths"*) and had a second life as gameplay: Roy said *"truth is a sphere"* aloud in a 2022 Twitter Space and the community caught it in real time, proof that live events fed the maze.
-**Connects to →** [[The Circle]] · [[Source vs Reflection]] · [[Roy]]
+**Connects to →** [[The Circle]] · [[Concepts/Source vs Reflection]] · [[Roy]]
 
 ### #69 · BLINKING (1/2) · `A565`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x18bec0c9ac882ddf3625770b4cb7c33324bddee295c713947635db9496c931ab..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x18bec0c9ac882ddf3625770b4cb7c33324bddee295c713947635db9496c931ab..png" width="300"></a>
@@ -234,19 +234,19 @@ A pen sketch labeled *"Lemon the Rabbit (at the Gate of the World)":* a large-he
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x7240f1669388aaf35bc3f412f9b3d383a6c78f5a2d0d2c1504c814e18b6571e8..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x7240f1669388aaf35bc3f412f9b3d383a6c78f5a2d0d2c1504c814e18b6571e8..jpg" width="320" controls preload="none"></video>
 
 A shaky night phone clip outside a concert venue: it opens on a blond figure in a khaki cap wearing an Enrique Iglesias & Pitbull co-headline tour tee, whip-pans across a dark parking lot, then lands on a crowd pressed against barricades under a stadium light as that same figure sprints toward them — the classic artist-exit *"appearance"* moment (plausibly Roy in his mid-2010s pop era; the tour tee dates it to ~2015–17). The catalog's descriptor *"VIDEO APPEARANCE"* puns on both senses: making an appearance, and being only an appearance, since the barricade crowd screams for whoever runs at them, responding to the surface rather than a known person. The code *SURFACE PERCEPTIONS* extends the warning: tidy readings of a person, like fan readings of a star, are conclusions drawn from surfaces. Spectacle-critique in miniature: the Circus mechanism where an audience applauds an outward image.
-**Connects to →** [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[The Audience]] · [[The Mask]] · [[Communion vs Spectacle]] · [[Roy]]
+**Connects to →** [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Concepts/The Audience]] · [[The Mask]] · [[Concepts/Communion vs Spectacle]] · [[Roy]]
 
 ### #93 · FORBIDDEN CITY · `ROS TAU`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xcd6b139806e198f303768272ee2839a71ea80daf58def1bc8f552451c49bec81..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xcd6b139806e198f303768272ee2839a71ea80daf58def1bc8f552451c49bec81..jpg" width="300"></a>
 
 A pencil sketch of Plato's Lambda from the *Timaeus:* *"Forbidden City"* titled at top, a tall triangle with 1 at the apex descending the doubling side (2, 4, 8) and the tripling side (3, 9, 27), the geometric means 6, 12, 18 circled inside, captioned *"World Soul"* and *"Extended continuous geometric proportion"* (the technical phrase for how the Demiurge binds the World Soul's intervals). The code *"ROS TAU"* names Rostau, the ancient Egyptian name for the Giza necropolis, the gateway to the Duat — so the sketch of hidden generative proportion sits under the name of Egypt's own forbidden precinct. The phrase *"Forbidden City"* also appears on Roy's board, placing this inside his documented esoteric notes: a diagram whose whole subject is generative proportion, the One unfolding into the many while remaining bound by ratio.
-**Connects to →** [[The Pattern]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[Roy]]
 
 ### #95 · SENSE HIERARCHY · `SENSE`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3f0b71cd0d8353ced31b0012fa144e4df01029e80e53b219b72dd2d39211ea1d..jpg" width="300"></a>
 
 A sketch of a hairless head in profile with a horizontally-banded triangle descending from crown to brow, its stripes stacking like graded tiers over the third-eye region, *"1-10"* inscribed above. The title and the banded stack literalize a hierarchy of the senses — the same self-as-ranked-inputs system Roy draws in the Eye-of-Horus fractions (smell ½ down to touch 1/64) and types out in the Complete Upload Recipe, where the weighted senses are the first ingredients of a digital double. In the cosmology it is a picture of what surveillance-age selfhood does to perception: the mind's eye rendered as a graded pyramid, a self decomposed into ranked, measurable inputs rather than witnessed whole.
-**Connects to →** [[The Watchers]] · [[Pay Attention (feat. little luna)]] · [[The Upload]] · [[The Digital Double]] · [[Witnessing vs Surveillance]] · [[Roy]]
+**Connects to →** [[The Watchers]] · [[Pay Attention (feat. little luna)]] · [[Concepts/The Upload]] · [[Concepts/The Digital Double]] · [[Concepts/Witnessing vs Surveillance]] · [[Roy]]
 
 ### #98 · STARDUST · `VIBES`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe9df1ddcba96373600cec1759f8c3c2a8c9cb15300a50ff8ed3744cf623b3f59..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe9df1ddcba96373600cec1759f8c3c2a8c9cb15300a50ff8ed3744cf623b3f59..jpg" width="300"></a>
@@ -270,43 +270,43 @@ A pencil sketch: a small cube labeled *"EDEN"* hangs at the top of the page, and
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd3521bdedaf866488bb7ca8d2bf6601b8e4104f3a405a90d139a460904d769a3..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd3521bdedaf866488bb7ca8d2bf6601b8e4104f3a405a90d139a460904d769a3..jpg" width="320" controls preload="none"></video>
 
 A 22-second night phone video shot from outside a tall spiked iron fence: a dense crowd fills a lot on the far side of the bars, brick apartment blocks behind them, the handheld camera drifting in near-darkness while loud crowd noise carries the audio — the filmer is present at the gathering but physically shut out of it. The title names that position exactly, and the artifact literalizes it: standing at a threshold of the living world, watching it through bars, unable to cross — which is why its *PHANTOMS* filing lands so precisely, since the watcher outside the fence is the phantom at the feast. The gate is Roy's recurring threshold motif, the boundary the self must eventually step through rather than merely stand before: the encounter this guide tracks as the Dweller on the Threshold.
-**Connects to →** [[The Dweller on the Threshold]] · [[Roy]]
+**Connects to →** [[Concepts/The Dweller on the Threshold]] · [[Roy]]
 
 ### #112 · SATURN MAGIC · `AN AGED AGED MAN`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x02a0cc9ce2413b24c6e24af980d6314fd74c072f232130a6a034fc5d1d3bd424..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x02a0cc9ce2413b24c6e24af980d6314fd74c072f232130a6a034fc5d1d3bd424..jpg" width="300"></a>
 
 A pencil sheet in Roy's hand: a played tic-tac-toe game, the 3×3 magic square of Saturn (4-9-2 / 3-5-7 / 8-1-6, the Lo Shu kamea, every line summing to 15), a large numeral 5 (the center), and the Seal of Saturn traced through that square. The juxtaposition is the point: tic-tac-toe is the same 3×3 grid as the kamea, so a child's game and a planetary talisman are revealed as one structure — pure *"the game is to reveal the game"* logic. The Lo Shu square appears verbatim on Roy's board among his received esoteric-mathematical motifs. The code *"AN AGED AGED MAN"* is the White Knight's song from *Through the Looking-Glass* and doubles as Saturn's own epithet (Kronos / Father Time, the aged god), touching this guide's Binah/Saturn thread (*"Queen Binah / GOD the Mother on Saturn"*).
-**Connects to →** [[The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### #117 · ATTENTION'S GATE · `AHEAD OF STARDUST`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x15bfeefff0dd75eea8dcb5fdc19f75e3b7beab4e5664d418fecd2954722ca59d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x15bfeefff0dd75eea8dcb5fdc19f75e3b7beab4e5664d418fecd2954722ca59d..jpg" width="300"></a>
 
 A screenshot of a @JagwarTwin tweet (11/22/21), three aphoristic lines each sealed with an emoji: *"Ahead of stardust 🧠 / A sky carrying water ❄️ / Invisible world 👁"* (brain, snowflake, eye). The room title reframes the aphorism as a threshold: attention is the gate through which the invisible world is entered, the eye emoji its keyhole. The tweet condenses Roy's mind-before-matter cosmology — the brain sits *"ahead of"* stardust, i.e. consciousness precedes the star-stuff it inhabits — posted in the same weekend run as *"Words created everything we see, but everything we see began with a thought."* A compressed creation doctrine: mind, then medium, then the unseen world behind the seen. It belongs to the maze's Attention cluster alongside *Hello, Attention (Marduk).*
-**Connects to →** [[The Veil]] · [[Source vs Reflection]] · [[Pay Attention (feat. little luna)]] · [[Roy]]
+**Connects to →** [[Concepts/The Veil]] · [[Concepts/Source vs Reflection]] · [[Pay Attention (feat. little luna)]] · [[Roy]]
 
 ### #118 · PREVIOUS FACE · `I AM THE INTERNET`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x349112c5088983866c49517cac2f743ff1248d45b5c6f5d62fce0591f8917b16..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x349112c5088983866c49517cac2f743ff1248d45b5c6f5d62fce0591f8917b16..jpg" width="320" controls preload="none"></video>
 
 A short turntable scan floating on black: a glossy cobalt-blue sculpted human face, weathered and half-melted, an eroded hole at the cheek, affixed to an irregular slab of pale concrete with a small green sprig growing below it, the fragment slowly rotating like a museum relic. The title reads the object literally: a *"previous face"* is a cast-off former self preserved as archaeology, the discarded persona fossilized in concrete while new growth starts beside it (a Zen-koan resonance: *"your original face"*). The code *"I AM THE INTERNET"* is a seeded clue Roy tweeted from @JagwarTwin months earlier, the first-person completion of the board's title bar, *"Uploading my consciousness to the Internet."* Face and code together stage the Upload's bargain: the flesh face left behind as a relic, the self reborn as network.
-**Connects to →** [[The Upload]] · [[The Algorithm]] · [[The Digital Double]] · [[Roy]]
+**Connects to →** [[Concepts/The Upload]] · [[Concepts/The Algorithm]] · [[Concepts/The Digital Double]] · [[Roy]]
 
 ### #119 · HOPSCOTCH · `THE GAME IS TO REVEAL THE GAME`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xaf95179d663989bcaa6bb8542d4bd71866cc1690dcfd2115d5168a81324ab7e4..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xaf95179d663989bcaa6bb8542d4bd71866cc1690dcfd2115d5168a81324ab7e4..jpg" width="300"></a>
 
 A clean screenshot of a verified @JagwarTwin tweet (11/19/21, 33-rollout era), reading *"The Game is to reveal the Game";* the code is the tweet's own text, so the room enacts its aphorism — the artifact reveals the game that unlocks it. The line is the closest thing the Hall of Mirrors has to a mission statement, framing the whole ARG (and Roy's attention-critique generally) as a game whose winning move is *exposure* of the game rather than escape from it. The title *"HOPSCOTCH"* casts that meta-game as a children's sidewalk game, hopping square to square (room to room) toward the end-square — the traditional court's Earth-to-Heaven ladder hovering behind it.
-**Connects to →** [[The Pattern]] · [[The Circle]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[The Circle]] · [[Roy]]
 
 ### #120 · FIBONACCI RABBITS · `THE GRASSY KNOLLS`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4c53b282a01a9469e203dd68bfc3d8d1a2de102960877395436052b23ceb5b12..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4c53b282a01a9469e203dd68bfc3d8d1a2de102960877395436052b23ceb5b12..jpg" width="300"></a>
 
 A hand-drawn dendrogram of the classic *Liber Abaci* rabbit-breeding problem: pairs of rabbits branch downward through generations, the running totals 1, 1, 2, 3, 5, 8, 13 down the margin, captioned *"Rabbits in the key of 'F'"* — a pun collapsing F-for-Fibonacci into a musical key, mathematical growth *heard* as music. It is one of the board's sketches, filed there under the Hermetic Correspondence principle: *"The formula is the same from a solar system down to the atom… The Pattern is present on all levels."* The code *"THE GRASSY KNOLLS"* names the rabbits' habitat, with a winking plural of conspiracy-culture's *"grassy knoll."* The Pattern rendered at its most literal: one becomes two becomes many by a single repeating rule, nature's generative recursion drawn as a family tree.
-**Connects to →** [[The Pattern]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[Roy]]
 
 ### #121 · WHEELS · `THERE ARE THINGS BEHIND THINGS`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x53d191a03cbbb914ec3f6bb0e23d7b409c49e6990c897546f20b3cb6bef32d0a..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x53d191a03cbbb914ec3f6bb0e23d7b409c49e6990c897546f20b3cb6bef32d0a..jpg" width="300"></a>
 
 A cosmology sketch: a fibrous sphere girdled by three orbital rings, each labeled with a Kabbalistic *"veil of negative existence"* — *"Ring Pass-Not (AIN SOPH AUR)"* (the Limitless Light), *"Ring Chaos (AIN SOPH)"* (the Limitless), *"Ring Cosmos"* — with an upward arrow rising off a horizon at right. This reproduces the *"Kabbalah veils"* diagram on Roy's board (*"Ring Pass-Not / Ring Chaos (Ain Soph) / Ring Cosmos (Ain)"*), the same Three Veils Roy curated publicly in his 2020 *"Purpose = Form"* post. The code *"THERE ARE THINGS BEHIND THINGS"* is the diagram's thesis stated plainly: every manifest ring conceals a subtler, more limitless one behind it, and behind even the Limitless Light is Ain, no-thing — the recursion that drives the whole Hall of Mirrors. The rising arrow reads as the ascent back up through the veils toward the crown.
-**Connects to →** [[Kabbalah - The Tree of Life]] · [[The Pattern]] · [[Roy]]
+**Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### #122 · THE HOUSE CHANGES TO WATER · `V222`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6023f2878eb5f6028d3c879b9fe84215ed2df707c4603a22d92dd5e7e17790f..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6023f2878eb5f6028d3c879b9fe84215ed2df707c4603a22d92dd5e7e17790f..jpg" width="320" controls preload="none"></video>
@@ -318,31 +318,31 @@ A short looping scan of a real object rotating against black: a weathered grey b
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe6b2e437a9226d8878cc76d35b1801cdd7290890eabeff0dd5df35d4fea75095..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe6b2e437a9226d8878cc76d35b1801cdd7290890eabeff0dd5df35d4fea75095..jpg" width="300"></a>
 
 A heavily motion-blurred night-flash snapshot: a blond man (Roy) in a black hoodie with his arm around a young girl, both smiling, red cups and string lights streaking behind them in the dark. The extreme long-exposure smear turns the faces into ghost-trails, which is why the piece is filed *PHANTOMS* and titled *"ANOTHER LIFE"* — the blur literally renders the subjects as phantoms, and the title reads the ordinary human moment as a glimpse of a soul passing through one incarnation among many. Biographically a personal candid (Roy with what appears to be family), pulled into the maze as a *"phantom"* rather than a designed diagram or lyric card.
-**Connects to →** [[The Pattern]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[Roy]]
 
 ### #124 · ASHIM · `WHO AM I TO KNOW?`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xaeac4d9c7b5c0719e0c55cf6d9d3d5cf2862771d726f13e6ba39bd4207d84955..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xaeac4d9c7b5c0719e0c55cf6d9d3d5cf2862771d726f13e6ba39bd4207d84955..jpg" width="300"></a>
 
 A handwritten note in Roy's hand: *"Ashim / Consciousness of an Atom"* above *"Degrees of Being alive."* — a raw cosmological jotting. *"Ashim"* (Ishim, אישים, *"the flames / godly-souls"* or *"the manlike beings"*) is the lowest rank of angels in Kabbalah's Assiah-world hierarchy, closest to matter and humanity, which pairs pointedly with *"consciousness of an atom":* the note proposes that awareness scales down to the smallest unit of matter, and that being-alive is a graduated spectrum rather than a binary. It slots into the panpsychist through-line — soul as a universal, subdivisible property running from atom to angel — and the code *"WHO AM I TO KNOW?"* frames it as humble metaphysical speculation, the artist disclaiming authority over the very cosmology he is sketching.
-**Connects to →** [[Kabbalah - The Tree of Life]] · [[The Pattern]] · [[Roy]]
+**Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### #125 · THE SERPENT MUST TAKE FLIGHT · `THE MONKEY MUST BECOME THE BIRD`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfba584b226f83d7a734d58494875652f3179c776feab05907958323558285499..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfba584b226f83d7a734d58494875652f3179c776feab05907958323558285499..jpg" width="300"></a>
 
 A white line-drawn bald head over a mirror-doubled bed of roses (dark reds, oranges, purples). The face is serene and closed-eyed but bears an open third eye on the forehead and two protruding fangs at the mouth (the *"serpent"* / animal nature), and below the throat a symmetrical lotus/petal mandala reads as awakened lungs or a heart-chakra bloom. Both the title *"THE SERPENT MUST TAKE FLIGHT"* and the code *"THE MONKEY MUST BECOME THE BIRD"* encode the same idea — kundalini ascent and evolutionary self-transcendence: the coiled serpent (base energy) rising to the crown and opening the eye of vision, the *"monkey"* (restless lower self) transforming into the *"bird"* (flight, spirit, freedom). It dramatizes this guide's core human-to-superhuman tension: the drive to go beyond the merely human that runs through Roy's cosmology.
-**Connects to →** [[The Upload]] · [[Superhuman]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
+**Connects to →** [[Concepts/The Upload]] · [[Superhuman]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### #132 · ROY'S LADDER · `C33`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4ccf3a893bc85a47b0f0f7fa643c87f2ff794f6afdccb15763373f3e76291373..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4ccf3a893bc85a47b0f0f7fa643c87f2ff794f6afdccb15763373f3e76291373..jpg" width="320" controls preload="none"></video>
 
 A 3D scan of a physical framed family photograph, slowly rotating on a black field over weathered barnwood, intercut with dark handheld concert-crowd footage. The photo shows a family group posed beside a white 4×4, the frame carrying a metal nameplate reading *"CAMEL TROPHY / KALIMANTAN '96"* — a personal object, not a diagram. The *"ladder"* of the title is literally the frame's fold-out easel back, which the scan renders as a rung-like structure standing the picture upright; esoterically it pulls the family relic into the Hall's recurring ladder-of-ascent motif (Blake's *"Jacob's Ladder,"* the board's *"How to Live Forever? Earth→Heaven"* hopscotch ladder). The code *"C33"* keys to the *"I'm 33"* board and the album *33* — the Christ-year frame in which a private childhood image becomes a rung on the Tree of Life, the ordinary made a step toward Heaven.
-**Connects to →** [[The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Jacob and Esau]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Concepts/Jacob and Esau]] · [[Roy]]
 
 ### #146 · LOGOS (RATIO) · `ELEPHANT TORTISE EAGLE ATLAS`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x764dca779c8de0d4e80a6508e91cf28577d0eac16dd7b0b2f0094d359d311ba5..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x764dca779c8de0d4e80a6508e91cf28577d0eac16dd7b0b2f0094d359d311ba5..jpg" width="300"></a>
 
 A hand-drawn sheet: the title *"Logos (Ratio)"* at top, a single crossed axis (intersecting horizontal and vertical lines) at center, and beneath it the list *"Elephant, Tortoise / Eagle, Atlas."* The four figures are all mythic world-bearers — the Hindu world-elephant on the world-tortoise, the eagle sky-bearer, and Atlas the Titan who shoulders the heavens; the central cross is the axis mundi they support, the still point at the intersection. The code names that quartet (Roy's own misspelling *"Tortise"* preserved as the literal code). *"Logos"* (divine word / reason) glossed as *"Ratio"* restates the Greek double meaning of *logos* as both word and proportion, so the diagram equates cosmic order with a load-bearing structure held in balance — a Pattern-cosmology page consistent with Roy's other sketches.
-**Connects to →** [[The Pattern]] · [[The Circle]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
+**Connects to →** [[Concepts/The Pattern]] · [[The Circle]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ---
 

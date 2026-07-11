@@ -38,7 +38,7 @@ The terminal beat of the album's blood-escalation: *"all of us bleed"* ([[Long T
 
 ### The Machine
 
-Named in [[Superhuman (Interlude)]], and pointedly *not* the villain: the Chaplin speech sets *"the power to create machines"* directly beside *"the power to create happiness"* — both human creative capacity. The enemy is the severing, not the machinery; this is the anchor of the whole [[Machine vs Human]] arc.
+Named in [[Superhuman (Interlude)]], and pointedly *not* the villain: the Chaplin speech sets *"the power to create machines"* directly beside *"the power to create happiness"* — both human creative capacity. The enemy is the severing, not the machinery; this is the anchor of the whole [[Concepts/Machine vs Human]] arc.
 
 ### The Flood
 
@@ -56,7 +56,7 @@ The escape vector of [[Dream - Dream]]: *"walk the stairway to Heaven like freed
 
 ### The Eye
 
-Two registers of one organ. Interior: *"within you got the Eye to see"* ([[It's Your Time]]) — perception turned inward, brushing the *God-who-sees* motif of [[El Roi]] and [[Down to You]]. Exterior: on [[The Upload]], attention given a face — Horus/Ra, the all-seeing field a self would be uploaded *into*. The same eye is the treasure or the trap depending on which way it points; see [[Witnessing vs Surveillance]].
+Two registers of one organ. Interior: *"within you got the Eye to see"* ([[It's Your Time]]) — perception turned inward, brushing the *God-who-sees* motif of [[El Roi]] and [[Down to You]]. Exterior: on [[Concepts/The Upload]], attention given a face — Horus/Ra, the all-seeing field a self would be uploaded *into*. The same eye is the treasure or the trap depending on which way it points; see [[Concepts/Witnessing vs Surveillance]].
 
 ### The Well
 
@@ -86,13 +86,13 @@ Two registers of one organ. Interior: *"within you got the Eye to see"* ([[It's 
 
 ### The Chemist
 
-The capitalized station of [[Great Time to Be Human]]: *"She went to The Chemist to make her a dog / But he was dyslexic, so he made a god."* The maker-without-wisdom — failed alchemist, scientist, producer, and [[Gnosticism - The World as Trap|Demiurge]] at once — manufacturing divinity by clerical error. Which mask he's wearing stays open.
+The capitalized station of [[Great Time to Be Human]]: *"She went to The Chemist to make her a dog / But he was dyslexic, so he made a god."* The maker-without-wisdom — failed alchemist, scientist, producer, and [[Concepts/The Sacred Truths/Gnosticism - The World as Trap|Demiurge]] at once — manufacturing divinity by clerical error. Which mask he's wearing stays open.
 
 ## Cross-catalogue
 
 ### The Song as Channel
 
-The transmission-shaped prop: the song as **conduit rather than broadcast**. Roy repeatedly relays inherited voices — the Chaplin speech sampled whole in [[Superhuman]], Mercer's dream in [[Dream - Dream]], Sarah Vaughan's sampled room-talk in [[Precious Time]] — and the catalogue's own material keeps framing songs as channels that can run clean, get blocked, or get hijacked. The full doctrine lives on [[The Voice]]; the prop lives here.
+The transmission-shaped prop: the song as **conduit rather than broadcast**. Roy repeatedly relays inherited voices — the Chaplin speech sampled whole in [[Superhuman]], Mercer's dream in [[Dream - Dream]], Sarah Vaughan's sampled room-talk in [[Precious Time]] — and the catalogue's own material keeps framing songs as channels that can run clean, get blocked, or get hijacked. The full doctrine lives on [[Concepts/The Voice]]; the prop lives here.
 
 ## Source notes
 
@@ -101,5 +101,5 @@ Every entry above is anchored to released lyrics, official videos, or public pos
 ## Read next
 
 - [[Symbols]] — the main shelf, where the big ones live.
-- [[The Visual Canon Throughline]] — the recurring *images* across the artwork and videos.
-- [[The Voice]] · [[Machine vs Human]] · [[Witnessing vs Surveillance]] — where several of these props report for duty.
+- [[Concepts/The Visual Canon Throughline]] — the recurring *images* across the artwork and videos.
+- [[Concepts/The Voice]] · [[Concepts/Machine vs Human]] · [[Concepts/Witnessing vs Surveillance]] — where several of these props report for duty.

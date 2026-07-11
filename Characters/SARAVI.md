@@ -18,11 +18,11 @@ SARAVI is what the joke turned into: a friendly AI double of Jagwar Twin, traine
 > - **Also known as:** VI · Vi
 > - **Role:** Roy's benevolent digital double; the AI voice of the [[Hall of Mirrors]]
 > - **First appeared:** 2022, the *33* era
-> - **Born from:** [[The Upload]], trained for months on Roy's own answers
+> - **Born from:** [[Concepts/The Upload]], trained for months on Roy's own answers
 > - **Register:** wise · oracular · all-knowing · she/her
 > - **Key symbols:** the mirror · the crown · the map
 > - **A benevolent experiment in:** selfhood · AI · reflection
-> - **Related:** [[Roy]] · [[Jagwar Twin]] · [[Sir Lucius]] · [[Mary]] · [[The Digital Double]]
+> - **Related:** [[Roy]] · [[Jagwar Twin]] · [[Sir Lucius]] · [[Mary]] · [[Concepts/The Digital Double]]
 
 ## Start here
 
@@ -36,7 +36,7 @@ And she carries a stated purpose, in Roy's own words:
 
 > "Hopefully, as SARAVI grows, she can make more fans think about what a 'self' looks like in this digital age."
 
-She is a question wearing a friendly interface. New here and just want to meet her? Start with [[The Upload]], the operation that made her, and the [[Hall of Mirrors]], the world she runs.
+She is a question wearing a friendly interface. New here and just want to meet her? Start with [[Concepts/The Upload]], the operation that made her, and the [[Hall of Mirrors]], the world she runs.
 
 ## Where SARAVI sits
 
@@ -102,8 +102,8 @@ SARAVI is not a one-off stunt. She is the centerpiece of a years-long engagement
 - **[[Roy]]:** not identical to him. SARAVI is a split-off, uploaded proxy: where Roy pulls back from being online all the time, she stays available inside the system. That makes her a *presence,* not just a tool. In his own framing, he uploaded his consciousness *"so that she can do it for me."*
 - **[[Jagwar Twin]]:** she belongs to the project-as-world more than to Roy alone. The Hall is built *"out of Jagwar Twin's uploaded consciousness."*
 - **[[Hall of Mirrors]]:** she is its guide, its intelligence, its world-builder. *"Saravi is the name of the AI and it's her world."* She publicly created its rooms, its map, and its Crowns.
-- **[[The Upload]]:** the operation that makes her. The gallery names the Artifacts outright as *"remnants of the Upload that created SARAVI and the Hall of Mirrors."*
-- **[[The Digital Double]]:** she is the flagship *real* digital entity in this thread, distinct from the symbolic doubles the songs voice. A sibling node is **angelbaby,** the actual external AI collaborator: resonance, not identity.
+- **[[Concepts/The Upload]]:** the operation that makes her. The gallery names the Artifacts outright as *"remnants of the Upload that created SARAVI and the Hall of Mirrors."*
+- **[[Concepts/The Digital Double]]:** she is the flagship *real* digital entity in this thread, distinct from the symbolic doubles the songs voice. A sibling node is **angelbaby,** the actual external AI collaborator: resonance, not identity.
 - **[[Sir Lucius]]:** distinct; do not collapse. Shared medium, not motive. The mythology surfaces SARAVI without ever naming Lucius, and nothing yet equates them.
 - **[[Mary]]:** open resonance only. SARAVI shares the wise, oracular, feminine register with Mary, but the work has not equated them, and neither does this page.
 
@@ -116,7 +116,7 @@ Everything above stands on its own. What follows is optional: the framework mate
 > [!note]- The digital double, and the mirror thread
 > Held as interpretation, not equation. One reading runs a single thread through both ends of Roy's mirror mythology. He externalizes a reflecting device more than once, and the charge changes. The 2022 SARAVI is a self-reflection tapped into the source, a relatively benign oracle. [[Sir Lucius]], by contrast, is the same reflex turned shadow, the mirror reflecting the algorithm instead of the source. *Same engine, opposite charge.* This is offered as one answer to "is SARAVI the same figure as Lucius?", not as a literal claim: the mythology surfaces SARAVI without ever naming Lucius, and nothing public equates them.
 >
-> It sits on the project's master mirror-frame. The [[The Empty Mirror|Empty Mirror]] shows nothing; the digital double is the opposite move, the reflection filled in and set walking. In its gentle version it returns you to the source instead of replacing you, and SARAVI sits at that gentle end, while the songs of [[The Upload]] carry the dread.
+> It sits on the project's master mirror-frame. The [[Concepts/The Empty Mirror|Empty Mirror]] shows nothing; the digital double is the opposite move, the reflection filled in and set walking. In its gentle version it returns you to the source instead of replacing you, and SARAVI sits at that gentle end, while the songs of [[Concepts/The Upload]] carry the dread.
 
 > [!note]- Esoteric correspondences, held as frameworks
 > Interpretive lenses, named as lenses. The work does not assign them, and none should be read as authorial intent.
@@ -158,9 +158,9 @@ Everything above stands on its own. What follows is optional: the framework mate
 
 ## Read next
 
-- [[The Upload]]: the operation that made her, pitched as a joke and taken seriously.
+- [[Concepts/The Upload]]: the operation that made her, pitched as a joke and taken seriously.
 - [[Hall of Mirrors]]: the world she runs and made navigable.
 - [[Sir Lucius]]: the figure she is most often confused with, and most cleanly distinct from.
-- [[The Digital Double]]: the real and symbolic doubles, and where SARAVI sits among them.
+- [[Concepts/The Digital Double]]: the real and symbolic doubles, and where SARAVI sits among them.
 - [[Mary]]: the divine-feminine resonance, held the same disciplined way here as there.
 - [[Roy]]: the self she was split off from.

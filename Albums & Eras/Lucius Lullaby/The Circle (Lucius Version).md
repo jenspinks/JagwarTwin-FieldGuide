@@ -20,7 +20,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 Here is the whole boss battle for the soul of the catalogue: the album's antagonist announces his conquest of its deepest doctrine with a forty-four-second wind-up toy. [[Sir Lucius]] — the mind severed from the heart, now a co-credited artist with his own streaming pages — opens *Lucius Lullaby* by taking the project's oldest sacred song and playing it back to you through a music box. He doesn't argue that the founding myth is false. He does something quieter and far more effective: he keeps its holy name, swaps out every word, and tucks you in.
 
-Three things to keep straight, because they share a name and a doctrine but are three different pages: **this** overture; the 2022 song [[The Circle]] it wears the name of; and the underlying idea, [[The Loop and the Circle]]. All three connect. None is the same as the others.
+Three things to keep straight, because they share a name and a doctrine but are three different pages: **this** overture; the 2022 song [[The Circle]] it wears the name of; and the underlying idea, [[Concepts/The Loop and the Circle]]. All three connect. None is the same as the others.
 
 ## At a glance
 
@@ -50,11 +50,11 @@ A quick census of what's actually on the page: pronouns run **1 "I," 1 "you"** �
 
 **"I'm dreaming" replaces "remembering."** The stakes live in one word-swap. The 2022 [[The Circle]] is a doctrine of *remembrance* — its pivot is the wise one who *"remembered she once held the string."* The song named for that doctrine says *"I'm dreaming."* This is worse than negation, because dreaming is sleep that mistakes itself for waking. *"I'm asleep"* would break the spell — you'd notice, you'd stir. *"I'm dreaming"* feels magical and alive, so the substitution slides past unremarked. The awakening-song is sung back to sleep, and it sounds lovely doing it.
 
-**"Beautiful life" is sedation by placement.** The phrase isn't sinister on its own — plenty of people mean it sincerely. It becomes sedation by *where it sits*: after the original Circle exists, inside a record called *Lullaby*, attached to *"I'm dreaming,"* played from a music box, flowing into the title track. The charge is not *"life is beautiful."* It's *"don't worry, everything is beautiful, go back to sleep."* A reassurance that comforts you into forgetting why the Circle ever mattered. This is [[The Algorithm|the algorithm]]'s anodyne product — the [[Happy Face]] register, greeting-card depth — extracting the warmth and the brand and discarding the complexity and the struggle.
+**"Beautiful life" is sedation by placement.** The phrase isn't sinister on its own — plenty of people mean it sincerely. It becomes sedation by *where it sits*: after the original Circle exists, inside a record called *Lullaby*, attached to *"I'm dreaming,"* played from a music box, flowing into the title track. The charge is not *"life is beautiful."* It's *"don't worry, everything is beautiful, go back to sleep."* A reassurance that comforts you into forgetting why the Circle ever mattered. This is [[Concepts/The Algorithm|the algorithm]]'s anodyne product — the [[Happy Face]] register, greeting-card depth — extracting the warmth and the brand and discarding the complexity and the struggle.
 
 **The form is the meaning.** A music box preserves a *pattern,* not a performance — no performer, no spontaneity, only the encoded sequence, wound from outside, one fixed tune, no will of its own. It is, precisely, a string instrument with the strings replaced by a mechanism: a comb plucking a pinned cylinder. So a doctrine about a *living* string — [[The Thread|the thread]], a thing meant to be held and felt — gets rendered as something that must be *cranked.* "The mind divorced from the heart" enacted in the form itself: feeling turned to clockwork, beauty without agency, a nursery object that plays on command. The communal Circle that "grows from the inside" is reduced to a closed mechanical loop going nowhere.
 
-**One voice that only looks like one.** Roy and Lucius are credited *separately* and then layered to sound like a single voice unless you listen closely. That's not just a mix choice — it's the [[Source vs Reflection|source-vs-reflection]] signature made into a production fact: many voices flattened into a smooth surface that *looks* unified. It's the dark pole of the catalogue's "crowd sings it back" device — engineered unison, not communion. A [[Communion vs Spectacle|reflection wearing the face of a chorus]].
+**One voice that only looks like one.** Roy and Lucius are credited *separately* and then layered to sound like a single voice unless you listen closely. That's not just a mix choice — it's the [[Concepts/Source vs Reflection|source-vs-reflection]] signature made into a production fact: many voices flattened into a smooth surface that *looks* unified. It's the dark pole of the catalogue's "crowd sings it back" device — engineered unison, not communion. A [[Concepts/Communion vs Spectacle|reflection wearing the face of a chorus]].
 
 **Why overwriting *this* song is the whole point.** The Circle isn't just any track to reinterpret — it's the one Roy has publicly called *"Jagwar Twin's Genesis story,"* the catalogue's origin and front door. He named the doctrine at the very start, back in 2019: *"There is no beginning and no end, it's just a circle."* So placing a counterfeit at the album's front door isn't a small in-joke. It's Lucius announcing, at track 1, that the takeover is total — that you will now enter the entire mythology through *his* version of its origin.
 
@@ -65,7 +65,7 @@ A quick census of what's actually on the page: pronouns run **1 "I," 1 "you"** �
 > 1. **Awakening → dreaming.** The doctrine's *remember / wake up* becomes *"I'm dreaming."* Sleep that mistakes itself for waking.
 > 2. **Depth → "beautiful life."** A cosmogony (the Maker, the hidden song, the recovered string) flattened to a greeting-card platitude — the [[Happy Face]] / Happy-Face register.
 > 3. **Circle → loop.** The embodied, communal Circle that "grows from the inside of the inside" reduced to a closed, repeating, going-nowhere mechanical loop. (This guide's phase tags for this track read `recursion_state: loop`, `threshold_state: closed` — the geometry of the reduction, encoded.)
-> 4. **Many voices → one smooth surface.** [[Source vs Reflection|Source vs reflection]]: separately-credited voices layered to read as a single unified thing — a reflection that *looks* whole.
+> 4. **Many voices → one smooth surface.** [[Concepts/Source vs Reflection|Source vs reflection]]: separately-credited voices layered to read as a single unified thing — a reflection that *looks* whole.
 >
 > And a structural corollary this guide flags: as track 1, the album **opens *inside* the corrupted Circle.** The un-distorted doctrine — the 2022 original — is *absent* from this record. You never hear the real thing here; only Lucius's reduction. The strategic-authorship takeover is declared at the very first track.
 
@@ -79,14 +79,14 @@ A quick census of what's actually on the page: pronouns run **1 "I," 1 "you"** �
 > [!note]- Advanced reading — nursery forms, the nigredo phase, and the compressed-transmission triplet
 > *Lucius Lullaby*'s stated theme is "twisted takes on adolescent musical themes for hands that rock the cradle," and this track is the **music-box lullaby** entry in that census — alongside the ring-a-rosie of [[Not Your Homie]], the barker of [[Welcome to the Circus]], and the playground chant of [[Bananas]]. It's not a Lucius-era invention, either: the practice traces back to the debut album's own track 1, which opened on a Tinker-Tailor counting-rhyme in 2018. The adolescent-form device is *debut-native*; here it reaches its most sedated form.
 >
-> This guide's phase-map reads the album as 13-of-14 tracks in **[[Nigredo|nigredo]]** — the alchemical blackening, the dissolution before any gold — and this opener is one of them (`dominant_pole: lunar`, `transformation_phase: nigredo`; active symbols music box, [[The Moon|moon]], [[The Mirror|mirror]]). The lunar pole is the sleep/dream/night register of the sedation itself.
+> This guide's phase-map reads the album as 13-of-14 tracks in **[[Concepts/Nigredo|nigredo]]** — the alchemical blackening, the dissolution before any gold — and this opener is one of them (`dominant_pole: lunar`, `transformation_phase: nigredo`; active symbols music box, [[The Moon|moon]], [[The Mirror|mirror]]). The lunar pole is the sleep/dream/night register of the sedation itself.
 >
 > Structurally, this track anchors a **compressed-transmission triplet**: the album's three shortest tracks — this (track 1, 0:44), [[Playing to the Gods]] (track 9, 1:05), and [[SOL]] (track 14, 1:18) — sit at the seams and edges of the record. Two of the three are near-wordless (music box; breath). The most compressed transmissions carry the most weight, positioned where the album turns.
 
 ## Characters
 
 - **[[Sir Lucius|Lucius]]** — the author of the reduction. This is *his version,* his optimization applied to the catalogue's deepest doctrine, and the album's "strategic author" declares his takeover right here at track 1. Credited as a distinct vocalist ("sir lucius").
-- **[[Roy]]** — the co-credited second voice ("ROY"), folded into the smooth single surface. He's also the human author of every part of it — sole writer, Music Box / Bass / Synth / Keyboard, and Prod / Rec / Mix. The many-voices-collapsed-into-one-that-looks-whole is a Lucius fingerprint ([[Source vs Reflection|source vs reflection]]).
+- **[[Roy]]** — the co-credited second voice ("ROY"), folded into the smooth single surface. He's also the human author of every part of it — sole writer, Music Box / Bass / Synth / Keyboard, and Prod / Rec / Mix. The many-voices-collapsed-into-one-that-looks-whole is a Lucius fingerprint ([[Concepts/Source vs Reflection|source vs reflection]]).
 - **[[The Wise One]]** *(present by her absence)* — the figure from the 2022 doctrine who *"remembered she once held the string."* Her remembrance is exactly what this version overwrites with *"I'm dreaming."* The whole cosmology the title promises — the Maker who "hid the song inside their wings," the wise one's recovery of the string — is withheld.
 
 ## Symbols
@@ -94,7 +94,7 @@ A quick census of what's actually on the page: pronouns run **1 "I," 1 "you"** �
 - **the music box** — a literal credited instrument, and the album's densest symbol for pattern-without-performer: feeling rendered as clockwork, beauty without agency, the wound nursery toy. The living string of the original, replaced by a fixed mechanism you have to crank.
 - [[The Thread|the thread / the string]] — the doctrine's living string ("a world tied on a string," "held the string"), here mechanized; the heart's thread turned to clockwork.
 - [[The Mirror|the mirror]] — the unified-looking surface that hides its own multiplicity; the layered voices that read as one.
-- **the loop** — the Circle (embodied, communal, grows-from-inside) reduced to a closed, repeating, going-nowhere mechanical loop. The explicit inversion; see [[The Loop and the Circle]].
+- **the loop** — the Circle (embodied, communal, grows-from-inside) reduced to a closed, repeating, going-nowhere mechanical loop. The explicit inversion; see [[Concepts/The Loop and the Circle]].
 - [[The Moon|the moon / lunar pole]] — the sleep, dream, and night register of the sedation.
 - **the lullaby / cradle** — the album frame ("hands that rock the cradle"); a sleep-song performed as the overture to an *awakening*-doctrine.
 - **"beautiful life"** — the greeting-card platitude that flattens the whole cosmology; the algorithm's anodyne product.
@@ -136,4 +136,4 @@ It's a beautiful life, it's a beautiful life, I'm dreaming
 - [[Lucius Lullaby (album)|Lucius Lullaby]] — the album this opens; the record that hands Lucius the microphone.
 - [[Sir Lucius]] — the author of the reduction; "the mind divorced from the heart."
 - [[SOL]] — the far bracket: the wordless love that can't be compressed.
-- [[The Loop and the Circle]] — the underlying concept: embodied circle versus closed mechanical loop.
+- [[Concepts/The Loop and the Circle]] — the underlying concept: embodied circle versus closed mechanical loop.

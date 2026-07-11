@@ -27,7 +27,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — *33* (2022), the album opener; released alongside the *Hall of Mirrors* Web3 universe. The single that ships *inside* the thing it diagnoses.
 - **In one line** — the predictive-surveillance machine rendered as a commercial you can't stop humming.
 - **Who speaks** — [[Roy]] as the captured human narrating his own flattening with a shrug, interwoven with the machine's seductive pitch. The two voices blur on purpose. [[Sir Lucius]] isn't named yet — but this is the infrastructure that produces him.
-- **Key symbols** — [[The Aquarium]] · [[The Algorithm]] · [[The Mirror]] ([[Source vs Reflection]]) · the web / the Spider · the screen · [[The Digital Double]]
+- **Key symbols** — [[Concepts/The Aquarium]] · [[Concepts/The Algorithm]] · [[The Mirror]] ([[Concepts/Source vs Reflection]]) · the web / the Spider · the screen · [[Concepts/The Digital Double]]
 
 ## The song, mapped
 
@@ -54,13 +54,13 @@ A few claims that cut across the whole song.
 
 **The comedy is load-bearing — the song is the mechanism it describes.** The jingle, the "Feeling good!" shout, the Buy/Bye pun wrapped around "they infiltrate my brain" — these aren't garnish on a serious point, they *are* the point. The move the song runs, over and over, is *horror → "but it's okay" → keep going.* That's not denial; it's assimilation. The subject narrates the loss of their own autonomy as fine. By being an infectious earworm *about* being metabolized by infectious earworms, *Online* becomes the very engine of sedation it's diagnosing. (The honest guard, which the song itself invites: Roy called it "fun and ridiculous," so the brightness might be exactly the seduction this reading describes — or it might just be a fun song. Both are live. Hold them.)
 
-**Surveillance is the mechanism; the subject is what surveillance does to identity.** The database doesn't just *collect* — it "got my face," and the horror isn't the data, it's that statistical prediction has become indistinguishable from being *known*. "They know what you like in bed" is a counterfeit of genuine witnessing: the machine that shapes you wearing the face of the friend who sees you. This is the concern that later mythologizes into mirrors and masks, in its earliest stripped-down form — the database as a mirror that *replaces* rather than reflects. (See [[Witnessing vs Surveillance]], [[Flattened Identity]].)
+**Surveillance is the mechanism; the subject is what surveillance does to identity.** The database doesn't just *collect* — it "got my face," and the horror isn't the data, it's that statistical prediction has become indistinguishable from being *known*. "They know what you like in bed" is a counterfeit of genuine witnessing: the machine that shapes you wearing the face of the friend who sees you. This is the concern that later mythologizes into mirrors and masks, in its earliest stripped-down form — the database as a mirror that *replaces* rather than reflects. (See [[Concepts/Witnessing vs Surveillance]], [[Concepts/Flattened Identity]].)
 
 **The web is inverted — you're prey, not the navigator.** *"Internet is like a web and we're the Spider's food."* A web is supposed to mean *connection* — that's the internet's founding myth. The song flips it: the human is no longer the spider navigating the strands for information, but the thing tracked, wrapped, and digested. It's the recurring Jagwar Twin reversal in its clearest early form — circus to cage, mirror to trap, connection to extraction; the promised tool of liberation revealed as the mechanism of capture.
 
-**"Everyone's a guru" is a refusal, not a syncretist buffet.** The "shamans and Brahmans and mamas and Lamas say we come from space" pile-up isn't Roy invoking those authorities — it's stacking *every* guru-voice at once in order to refuse all of them, then deflating the whole stack with "maybe Jupiter is stupider than people say." The plurality *is* the refusal: if everyone's talking, no one's worth deferring to. Structurally, every transcendent claim gets answered by the surveillance grid — reach for the cosmic, land in the database. That landing has a name in Roy's own words: *"Everyone's a guru. We are now fully in the aquarium."* ([[Public Posts]], See [[The Aquarium]].)
+**"Everyone's a guru" is a refusal, not a syncretist buffet.** The "shamans and Brahmans and mamas and Lamas say we come from space" pile-up isn't Roy invoking those authorities — it's stacking *every* guru-voice at once in order to refuse all of them, then deflating the whole stack with "maybe Jupiter is stupider than people say." The plurality *is* the refusal: if everyone's talking, no one's worth deferring to. Structurally, every transcendent claim gets answered by the surveillance grid — reach for the cosmic, land in the database. That landing has a name in Roy's own words: *"Everyone's a guru. We are now fully in the aquarium."* ([[Public Posts]], See [[Concepts/The Aquarium]].)
 
-> 🚪 *This picture is older than the internet by about eighteen centuries: a counterfeit world built to keep you asleep, a spark from somewhere else caught inside it, and a way out that runs through remembering, not escaping. The song reads like it knows [[Gnosticism - The World as Trap|that old map]] by heart.*
+> 🚪 *This picture is older than the internet by about eighteen centuries: a counterfeit world built to keep you asleep, a spark from somewhere else caught inside it, and a way out that runs through remembering, not escaping. The song reads like it knows [[Concepts/The Sacred Truths/Gnosticism - The World as Trap|that old map]] by heart.*
 
 **The infrastructure precedes the character.** *Online* maps the conditions that produce Lucius before Lucius exists as a named figure: identity becomes data, attention becomes currency, prediction becomes influence, visibility becomes survival, selfhood becomes performance. The database precedes the mask; the algorithm precedes the performer. [[Sir Lucius]] isn't the *creator* of the Circus — he's its most successful native inhabitant, and this is the arena he'll come to rule. It's also the bridge in the larger arc: from external forces *acting on* the human (the [[Subject to Flooding]] era) toward those same forces *internalized as a voice* (the *Lucius Lullaby* era). Here, the machine's pitch — "you feel good," "we can help you" — is already starting to sound intimate. That's the seed of what Lucius becomes: the voice inside that sounds like you.
 
@@ -87,13 +87,13 @@ A few claims that cut across the whole song.
 
 ## Symbols
 
-- [[The Aquarium]] — the totalized closed system the song narrates from *inside*, anchored by Roy's "fully in the aquarium" post. *Online* is the song that reports from within the tank.
-- [[The Algorithm]] — the predictive-surveillance engine; *Online* is its plainest, most literal statement anywhere in the catalogue.
-- [[The Mirror]] / [[Source vs Reflection]] — the database that "got my face" is a mirror that *replaces* rather than reflects. *33* is where the reflection-engine goes industrial: the counterfeit intimacy of prediction is a mirror that shapes you, not one that witnesses you.
+- [[Concepts/The Aquarium]] — the totalized closed system the song narrates from *inside*, anchored by Roy's "fully in the aquarium" post. *Online* is the song that reports from within the tank.
+- [[Concepts/The Algorithm]] — the predictive-surveillance engine; *Online* is its plainest, most literal statement anywhere in the catalogue.
+- [[The Mirror]] / [[Concepts/Source vs Reflection]] — the database that "got my face" is a mirror that *replaces* rather than reflects. *33* is where the reflection-engine goes industrial: the counterfeit intimacy of prediction is a mirror that shapes you, not one that witnesses you.
 - **The web / the Spider** — the internet's founding connection-myth inverted; the human as prey, not navigator.
 - **The database / static** — the self as data ("a bug inside your database"), the species dissolved into signal-noise ("automatic in the static"). The song ends *in the static*.
 - **The screen** — the surface where the self-image becomes an idol; central to the song's video world (below).
-- [[The Digital Double]] / [[The Upload]] — to upload a self, you first anthropomorphize attention and give the watching net a face. *Online* is the first *released* instance of that thread — the one [[SARAVI]], and later [[City of Angels]], run to its endpoint.
+- [[Concepts/The Digital Double]] / [[Concepts/The Upload]] — to upload a self, you first anthropomorphize attention and give the watching net a face. *Online* is the first *released* instance of that thread — the one [[SARAVI]], and later [[City of Angels]], run to its endpoint.
 
 ## Connected songs
 
@@ -136,25 +136,25 @@ The **official music video** turns the same idea into images: a CRT-TV on a pede
 > [!note]- Advanced reading — where the song sits in the arc (the machine-awareness pivot)
 > Set against the earlier [[Subject to Flooding]] material, *Online* is the first song that **sees the system as a system** — database, feedback loop, predictive profiling — *after* the cosmology had matured and *before* Lucius personifies it. The progression is legible: *Dream - Dream* (escape looks straightforward) → *Long Time Coming* (diagnoses the mask) → *Superhuman* (still trusts collective activation) → *Online* (already knows the architecture is recursive; it names the web and *stays inside it*).
 >
-> That "stays inside it" is the pivot. Earlier songs look for the exit. *Online* stops looking — it narrates the captivity with a shrug and closes "in the static." The threshold is *there*, and the song refuses it. No release; the loop is the whole design. (See [[Machine vs Human]] for the arc this opens onto.)
+> That "stays inside it" is the pivot. Earlier songs look for the exit. *Online* stops looking — it narrates the captivity with a shrug and closes "in the static." The threshold is *there*, and the song refuses it. No release; the loop is the whole design. (See [[Concepts/Machine vs Human]] for the arc this opens onto.)
 >
 > One honest flag, kept on the record: the "*33* = recursive machine-awareness pivot" framing is a strong reading, and its hyper-clean fit with the *later* Lucius mythology could be the map smoothing a loose pop artifact into a tidy arc. Held open — see the guard in *What it means.*
 
 > [!note]- Advanced reading — the machine is not the enemy; the severing is
 > Two ambiguities in the song are load-bearing rather than sloppy.
 >
-> First, the **outro**: "as machines became more sophisticated… *thanks to, or because of* the internet." Gift versus curse, deliberately unresolved. In the [[Machine vs Human]] arc, the antagonist was never the machine — it's the **severing** (optimization cut loose from the heart). The machine-is-not-evil tension is kept live on purpose.
+> First, the **outro**: "as machines became more sophisticated… *thanks to, or because of* the internet." Gift versus curse, deliberately unresolved. In the [[Concepts/Machine vs Human]] arc, the antagonist was never the machine — it's the **severing** (optimization cut loose from the heart). The machine-is-not-evil tension is kept live on purpose.
 >
 > Second, the **voice**: is the "we can help you / better life" pitch the *machine* speaking, or the *sedated human ventriloquizing* it? The captured human ("they infiltrate my brain") and the seductive sell ("you feel good") are woven so tightly they blur — which is the signature of the machine becoming *intimate.* The ambiguity is the point, and it's the direct seed of Lucius's later "voice inside that sounds like you."
 
 > [!note]- Advanced reading — esoteric correspondences (rhymes, not claims)
 > These are frames the song's images *rhyme* with, offered as resonance, not as decoded intent.
 >
-> **Gnostic trapped spark.** The self tracked, bound, and administered inside an inescapable data-matrix maps onto the Gnostic *pneuma* captured in the Demiurge's dense copy of reality. "We come from space… but we're stuck like a bug inside your database" is nearly a one-line statement of the myth: transcendent origin, material entrapment. And crucially, *Online* offers no escape — it sits *in* the captivity and narrates it. (See [[Gnosticism - The World as Trap]].)
+> **Gnostic trapped spark.** The self tracked, bound, and administered inside an inescapable data-matrix maps onto the Gnostic *pneuma* captured in the Demiurge's dense copy of reality. "We come from space… but we're stuck like a bug inside your database" is nearly a one-line statement of the myth: transcendent origin, material entrapment. And crucially, *Online* offers no escape — it sits *in* the captivity and narrates it. (See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].)
 >
-> **Hermetic vibration, run as horror.** The benign Hermetic principle of "induction" — mind reaching mind by sympathetic vibration — is something Roy *demonstrably* engaged: the "I'm 33" concept-board's Vibration cell transcribes it almost verbatim and closes "Tune to desired frequency." *Online* takes that voluntary tuning and runs it as involuntary capture: "they infiltrate my brain," the self "automatic in the static." Mind-over-mind becomes machine-over-mind. That Roy *collected* the doctrine is grounded ([[Concepts/The I'm 33 Board]]); that he *encoded* it here is not — it's a resonance. (See [[Hermeticism - As Above So Below]].)
+> **Hermetic vibration, run as horror.** The benign Hermetic principle of "induction" — mind reaching mind by sympathetic vibration — is something Roy *demonstrably* engaged: the "I'm 33" concept-board's Vibration cell transcribes it almost verbatim and closes "Tune to desired frequency." *Online* takes that voluntary tuning and runs it as involuntary capture: "they infiltrate my brain," the self "automatic in the static." Mind-over-mind becomes machine-over-mind. That Roy *collected* the doctrine is grounded ([[Concepts/The I'm 33 Board]]); that he *encoded* it here is not — it's a resonance. (See [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]].)
 >
-> **A frozen Nigredo.** Identity dissolved into automated code — the alchemical *blackening* — but with no reformation following. The self splits into original and artificial reflection and *stops there*: dissolution without recombination, progression frozen by swapping lived experience for simulated optimization. (See [[Nigredo]].)
+> **A frozen Nigredo.** Identity dissolved into automated code — the alchemical *blackening* — but with no reformation following. The self splits into original and artificial reflection and *stops there*: dissolution without recombination, progression frozen by swapping lived experience for simulated optimization. (See [[Concepts/Nigredo]].)
 
 ## Lyrics
 
@@ -242,4 +242,4 @@ It's okay
 - [[The Watchers]] — the 2024 sequel to *Online*'s named surveillance.
 - [[SARAVI]] — the upload the song's title set in motion.
 - [[Welcome to the Circus]] — where the machine gets named and Lucius takes the arena.
-- [[The Aquarium]] — the tank *Online* reports from.
+- [[Concepts/The Aquarium]] — the tank *Online* reports from.

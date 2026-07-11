@@ -17,19 +17,19 @@ Jung is not a lens some fan dragged to this work; Roy shelved him in public. His
 ## At a glance
 
 - **In one line** — disowned material holds real power; repression doesn't erase it, it arms it; the task is relationship, not elimination.
-- **Where it shows up** — [[Sir Lucius]] (the shadow given a name, a wardrobe, and a co-writing credit); [[Brandon]] (the buried child the shadow grew to guard); [[The Dweller on the Threshold]] (the shadow met at the gate); the Leo labor in [[The Labors of Hercules]] (tame, don't slay); [[The Watchers]] (the posted Jung page).
-- **Connected ideas** — [[The Protector]] · [[Source vs Reflection]] · [[Roy on Influences]].
+- **Where it shows up** — [[Sir Lucius]] (the shadow given a name, a wardrobe, and a co-writing credit); [[Brandon]] (the buried child the shadow grew to guard); [[Concepts/The Dweller on the Threshold]] (the shadow met at the gate); the Leo labor in [[Concepts/The Labors of Hercules]] (tame, don't slay); [[The Watchers]] (the posted Jung page).
+- **Connected ideas** — [[Concepts/The Protector]] · [[Concepts/Source vs Reflection]] · [[Roy on Influences]].
 - **Confidence** — Roy's engagement with Jung is grounded (the shelf, the Story, his own Lucifer-archetype gloss). The specific castings — Lucius as shadow, Brandon as Divine Child — are strong readings, and this page keeps them labeled as such.
 
 ## What the work takes from him
 
 **The shadow.** Jung's broad category for everything the conscious self disowns: unacceptable impulses, buried grief, and — crucially — *power*. The catalogue's whole architecture rests on this. [[Sir Lucius]] is not a demon who moved in from outside; he reads as what grew around a wound, made of exactly the material a hurt child had to disown to stay safe. The Dion Fortune quote-card Roy posted says it in one line: *"The shadow is not evil. It is power unrecognized and therefore misused."*
 
-**Integration, not destruction.** The single most load-bearing lyric in the catalogue — *"but if you choose to tame The Beast / you've got to prove yourself to be / a champion"* — is shadow work in miniature. The Beast is not killed. Its power is preserved; its *authority* changes. Jung's clinical version and the Leo labor of [[The Labors of Hercules]] describe the same operation, and Roy runs it across an entire album arc: not exorcism but renegotiation. See also his stated discipline, *"my mind must serve my heart"* — hierarchy, not homicide.
+**Integration, not destruction.** The single most load-bearing lyric in the catalogue — *"but if you choose to tame The Beast / you've got to prove yourself to be / a champion"* — is shadow work in miniature. The Beast is not killed. Its power is preserved; its *authority* changes. Jung's clinical version and the Leo labor of [[Concepts/The Labors of Hercules]] describe the same operation, and Roy runs it across an entire album arc: not exorcism but renegotiation. See also his stated discipline, *"my mind must serve my heart"* — hierarchy, not homicide.
 
 **The Divine Child.** [[Brandon]] — the Ballerina Boy — reads as Jung's Divine Child: the original, undefended, creative self that goes underground when visibility becomes dangerous, and whose recovery is the whole point of the late work. The compensatory protector the psyche builds over that grave is Lucius; the witnessing voice that blesses the child (*"my son, let your light shine"*) reads as the Self doing what only the Self can do.
 
-**The shadow at the gate.** [[The Dweller on the Threshold]] is, in this reading, the specific *form* the shadow takes when you finally approach real change — the disowned material standing in the doorway wearing a face. The shadow is the category; the Dweller is the encounter.
+**The shadow at the gate.** [[Concepts/The Dweller on the Threshold]] is, in this reading, the specific *form* the shadow takes when you finally approach real change — the disowned material standing in the doorway wearing a face. The shadow is the category; the Dweller is the encounter.
 
 **Symbols versus signs.** The page Roy posted to his Story distinguishes a *sign* (which points at something known) from a *symbol* (which gestures at something not yet knowable). Jung's worked example there runs Ezekiel's living creatures — *"full of eyes"* — through Horus and the wheel and the cross, and Roy tagged the whole thing to [[The Watchers]]: seeing as sacred rather than merely surveillant.
 
@@ -49,7 +49,7 @@ Jung is not a lens some fan dragged to this work; Roy shelved him in public. His
 
 - [[Sir Lucius]] — the shadow with a stage name.
 - [[Brandon]] — the child the shadow was built to protect.
-- [[The Dweller on the Threshold]] — the encounter at the gate.
-- [[The Labors of Hercules]] — taming as the champion's move.
+- [[Concepts/The Dweller on the Threshold]] — the encounter at the gate.
+- [[Concepts/The Labors of Hercules]] — taming as the champion's move.
 - [[The Watchers]] — the song Roy pinned his Jung page to.
 - [[Roy on Influences]] — the rest of the named lineage.

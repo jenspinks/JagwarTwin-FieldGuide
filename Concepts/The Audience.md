@@ -14,14 +14,14 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the crowd as both the Circus's *fuel* and its *product*; co-creators seated, handed a role, and turned into engagement.
 - **Where it shows up** — [[Welcome to the Circus]] (*"take your seat, scream and shout"*) · [[Moths to the Flame]] (the crowd as moths drawn to the flame) · [[Great Time to Be Human]] (*"all sing the same song"*).
-- **Connected ideas** — [[The Circus]] · [[Sir Lucius]] · [[The Algorithm]] · [[Communion vs Spectacle]] · [[Witnessing vs Surveillance]] · [[Consumption]].
+- **Connected ideas** — [[Concepts/The Circus]] · [[Sir Lucius]] · [[Concepts/The Algorithm]] · [[Concepts/Communion vs Spectacle]] · [[Concepts/Witnessing vs Surveillance]] · [[Concepts/Consumption]].
 - **Confidence** — the co-creator doctrine is grounded in Roy's own words; the harm-as-product and crowd-as-fuel readings are strong interpretation built on released lyrics; the esoteric scaffolding is framework, flagged as such.
 
 ## What it is
 
 Here is the paradox the whole page turns on. The same people are, at once, the **co-creators** — Roy's deliberate word for his listeners, chosen instead of "fan" — and the **marks**, the ones the Circus performs for and quietly digests. Not two different crowds. One crowd, two ways of arriving: as subjects doing their own interior work, or as objects consuming someone else's spectacle.
 
-[[The Circus]] exists to collapse the first into the second. The instruction in [[Welcome to the Circus]] — *"take your seat, scream and shout"* — is that collapse performed on the listener in real time. The co-creator is seated, handed a role, and turned into fuel. You walked in a maker; you sit down a mark.
+[[Concepts/The Circus]] exists to collapse the first into the second. The instruction in [[Welcome to the Circus]] — *"take your seat, scream and shout"* — is that collapse performed on the listener in real time. The co-creator is seated, handed a role, and turned into fuel. You walked in a maker; you sit down a mark.
 
 And the project is wry about which side of the ledger it is staging. When [[Sir Lucius]] addresses the room, he is not pretending the transaction is anything other than what it is. He thanks you for it.
 
@@ -35,7 +35,7 @@ And the project is wry about which side of the ledger it is staging. When [[Sir 
 
 **The same crowd shows up wearing three masks**, and the page keeps them straight. As *worship* it is the deified crowd of [[Playing to the Gods]]. As *gaze* it is the surveillance crowd of [[The Watchers]] (*"I always feel like somebody's watching me"*). As *harvest* it is the cull of [[Moths to the Flame]]. Communion, harvest, gaze — three faces of one collective, and the difference between them is never *who* the people are. It is the **mode**: how they are sung, and what is done with the singing.
 
-> 🚪 *Two rooms, two crowds, both singing along, and from across the street you can't tell them apart. A thousand voices hitting the same note is not the same as a thousand people singing together, and learning to tell the difference is the whole game of [[Communion vs Spectacle]].*
+> 🚪 *Two rooms, two crowds, both singing along, and from across the street you can't tell them apart. A thousand voices hitting the same note is not the same as a thousand people singing together, and learning to tell the difference is the whole game of [[Concepts/Communion vs Spectacle]].*
 
 ## Where it appears
 
@@ -53,25 +53,25 @@ The mechanism is older than the album that named it. [[I Like to Party]] (single
 
 The commanded version of the crowd-echo recurs wherever Lucius holds the mic: [[Pay Attention (feat. little luna)|Pay Attention]] (*"What's my name? / Attention"* — to answer is to pay) and [[I Like to Party]]'s Pied-Piper *"sing along… follow me."* Against these sit the Roy-voiced songs where the crowd sings *with* — [[Long Time Coming]], [[Loser]] (the bridge that turns *I* into *we*), [[Shine]] (*"sing it if you know you're gonna shine"*), [[Superhuman]], [[Imagine A World]]. (Why the *direction* of the sing-along is the whole tell gets its own callout below.)
 
-Outside the songs, the Audience is addressed directly. In the theatrical [[The Interview|Roy v Lucius series]], Roy proposes a *Song of Love* and Lucius overrides it with the algorithmic hit, citing the low stream counts of the vulnerable songs — *"the algorithm baby."* Then life imitated the script: as *Welcome to the Circus* actually broke out, Roy conceded in his own voice, *"I guess Lucius was right again."* The biographical and theatrical layers fused in public. And Roy's own [[The Algorithm|Manifesto]] addresses its readers not as fans but as *"leaders, free thinkers, truth seekers"* — *"I don't desire more 'followers',"* he writes — the co-creator stance stated as policy.
+Outside the songs, the Audience is addressed directly. In the theatrical [[The Interview|Roy v Lucius series]], Roy proposes a *Song of Love* and Lucius overrides it with the algorithmic hit, citing the low stream counts of the vulnerable songs — *"the algorithm baby."* Then life imitated the script: as *Welcome to the Circus* actually broke out, Roy conceded in his own voice, *"I guess Lucius was right again."* The biographical and theatrical layers fused in public. And Roy's own [[Concepts/The Algorithm|Manifesto]] addresses its readers not as fans but as *"leaders, free thinkers, truth seekers"* — *"I don't desire more 'followers',"* he writes — the co-creator stance stated as policy.
 
 ## Connections
 
-- [[The Circus]] — the Audience's habitat; the Audience is its fuel. The Circus exists to collapse co-creator into spectator.
+- [[Concepts/The Circus]] — the Audience's habitat; the Audience is its fuel. The Circus exists to collapse co-creator into spectator.
 - [[Sir Lucius]] — his existence depends on watchers; the Audience is his power source. *No audience, no Lucius.*
-- [[The Algorithm]] — optimizes for engagement; *"they love it when you lose control"* is an algorithmic fact. Roy's own substitution: *Feeling → Algorithm.*
-- [[The Circus#What it produces (the Spectacle)|the Spectacle]] — requires spectators; the Audience is what converts life into spectacle. *"It's a spectacle, I'm the final boss."*
-- [[Consumption]] — the Audience consumes the performer, and the system consumes both. *"I'll chew you up, spit you out"* — the anti-Eucharist; the cake in [[I Like to Party]].
-- [[Communion vs Spectacle]] — the crowd awakened (sings truth back) versus the crowd synchronized (sings the same song). A unison is not a communion.
-- [[Witnessing vs Surveillance]] — the being-seen version of the split; the Audience sits in the surveillance cluster. *Audiences consume; witnesses see.*
-- [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — Juvenal's bread and circuses: a crowd enslaved not by force but by entertainment. The chains are pleasurable.
-- [[Flattened Identity]] — the crowd flattened to sameness; *"everyone looks just like you."*
+- [[Concepts/The Algorithm]] — optimizes for engagement; *"they love it when you lose control"* is an algorithmic fact. Roy's own substitution: *Feeling → Algorithm.*
+- [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] — requires spectators; the Audience is what converts life into spectacle. *"It's a spectacle, I'm the final boss."*
+- [[Concepts/Consumption]] — the Audience consumes the performer, and the system consumes both. *"I'll chew you up, spit you out"* — the anti-Eucharist; the cake in [[I Like to Party]].
+- [[Concepts/Communion vs Spectacle]] — the crowd awakened (sings truth back) versus the crowd synchronized (sings the same song). A unison is not a communion.
+- [[Concepts/Witnessing vs Surveillance]] — the being-seen version of the split; the Audience sits in the surveillance cluster. *Audiences consume; witnesses see.*
+- [[Concepts/The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] — Juvenal's bread and circuses: a crowd enslaved not by force but by entertainment. The chains are pleasurable.
+- [[Concepts/Flattened Identity]] — the crowd flattened to sameness; *"everyone looks just like you."*
 - [[The Mask]] — the audience actively prefers the painted face: *"paint my face, and they clap and smile."*
-- [[The Loop and the Circle]] — the awakened-crowd counterpart (*"the crowd sings it back"*) against spectacle's recursion.
+- [[Concepts/The Loop and the Circle]] — the awakened-crowd counterpart (*"the crowd sings it back"*) against spectacle's recursion.
 - [[Roy]] — his co-creator model is the alternative to the Audience-as-spectator. *"We are ALL creators… we all co-create the world we live in."*
 
 > [!note]- Advanced reading — Communion vs Spectacle: a unison is not a communion
-> Two crowds can look identical — many voices singing together — and be opposite things. **Communion** is many *distinct* voices singing truth together: difference held in unity, the crowd *awakened*, measured by remembrance and reciprocity, returning you to the source. This is the [[The Loop and the Circle|Circle]]'s chorus — *"the crowd sings it back."* **Spectacle** is many voices forced into the *same* song: difference deleted, the crowd *synchronized*, measured by reach and conformity, trapping you in the image. This is the Circus's crowd — *"everyone looks just like you."*
+> Two crowds can look identical — many voices singing together — and be opposite things. **Communion** is many *distinct* voices singing truth together: difference held in unity, the crowd *awakened*, measured by remembrance and reciprocity, returning you to the source. This is the [[Concepts/The Loop and the Circle|Circle]]'s chorus — *"the crowd sings it back."* **Spectacle** is many voices forced into the *same* song: difference deleted, the crowd *synchronized*, measured by reach and conformity, trapping you in the image. This is the Circus's crowd — *"everyone looks just like you."*
 >
 > The point of holding the distinction is to stop reading every image of a crowd-singing-together as sacred. The Circus, the algorithm's homogenization, and *"the crooks and believers all sing the same song"* are **counterfeit communions** — they wear the Circle's chorus over the Loop's uniformity. The one test: *is difference held, or deleted?* Held → communion. Deleted → spectacle. (And note the open question the page keeps live: is the *crowd* itself ever neutral, or is the entire difference in the **mode** — how they are sung?)
 
@@ -81,7 +81,7 @@ Outside the songs, the Audience is addressed directly. In the theatrical [[The I
 > A built-in discipline keeps this honest: call-and-response is endemic to pop, so the mere *presence* of sing-along lines proves nothing. The claim survives **only** on the directional split by voice. The prettier era-decline story (communion 2018 → command 2022 → scream 2026) is weaker, since *33* already carries both voices. The falsifier is clean: a plainly Roy-voiced song scripting the crowd as consumable noise, or a Lucius-voiced song genuinely inviting distinct-voiced return.
 
 > [!note]- Advanced reading — the surveillance cluster, and El Roi
-> [[Witnessing vs Surveillance]] splits *being-seen* into two opposite functions. Witnessing restores, recognizes, dignifies, transforms the one seen. Surveillance predicts, categorizes, monetizes, and stabilizes behavior — it *shapes* you without ever knowing you. The functional test: **surveillance gathers data; witnessing transforms the witnessed.** The Audience sits squarely in the surveillance cluster (the machine-pole), alongside the feed, the [[The Aquarium|aquarium]] (the self watched in a tank), and parasociality. *"Did you like the show?"* is the watched performing for the watchers; harm rendered as product.
+> [[Concepts/Witnessing vs Surveillance]] splits *being-seen* into two opposite functions. Witnessing restores, recognizes, dignifies, transforms the one seen. Surveillance predicts, categorizes, monetizes, and stabilizes behavior — it *shapes* you without ever knowing you. The functional test: **surveillance gathers data; witnessing transforms the witnessed.** The Audience sits squarely in the surveillance cluster (the machine-pole), alongside the feed, the [[Concepts/The Aquarium|aquarium]] (the self watched in a tank), and parasociality. *"Did you like the show?"* is the watched performing for the watchers; harm rendered as product.
 >
 > The irony underneath is load-bearing. Lucius wears *El Roi* — Hebrew for *"the God who sees me"* (Genesis 16:13) — tattooed on his throat, and Roy signs himself *El Roy*. The machine that watches everything cannot witness anyone. Surveillance is the forgery of the soul's deepest need — to be seen and loved — sold back as being watched-and-ranked. This is why the Audience-as-surveillance feels *spiritually* wrong in the cosmology and not merely unpleasant: it is the counterfeit of the one thing the work is reaching for.
 
@@ -115,8 +115,8 @@ Outside the songs, the Audience is addressed directly. In the theatrical [[The I
 ## Read next
 
 - [[Welcome to the Circus]] — the primary song; *"take your seat, scream and shout."*
-- [[The Circus]] — the habitat the Audience fuels.
+- [[Concepts/The Circus]] — the habitat the Audience fuels.
 - [[Sir Lucius]] — the figure who cannot cohere without watchers.
-- [[Communion vs Spectacle]] — the crowd awakened versus the crowd synchronized.
-- [[Witnessing vs Surveillance]] — being seen-and-loved versus watched-and-ranked.
+- [[Concepts/Communion vs Spectacle]] — the crowd awakened versus the crowd synchronized.
+- [[Concepts/Witnessing vs Surveillance]] — being seen-and-loved versus watched-and-ranked.
 - [[The Attention Economy and the Circus]] — the reading path that threads all of this together.

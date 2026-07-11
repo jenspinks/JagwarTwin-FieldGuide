@@ -17,19 +17,19 @@ Of everyone on Roy's bookshelf, Gurdjieff is the influence he names most. The **
 ## At a glance
 
 - **In one line** — humanity runs on automatic, mistakes the automation for a life, and cannot be woken by the same machinery that put it to sleep.
-- **Where it shows up** — [[The Aquarium]] (the closed tank as mechanical sleep); [[The Circus#What it produces (the Spectacle)|the Spectacle]] and [[The Circus]] (the exit problem); [[Sir Lucius]] (the "many I's" with no center); [[Moths to the Flame]] (his doctrine, deliberately inverted); [[The Watchers]] versus [[Lucius Lullaby]] (the alarm and the sedative); the tattoo on [[Roy]].
-- **Connected ideas** — [[Gnosticism - The World as Trap]] · [[Machine vs Human]] · [[Roy on Influences]].
+- **Where it shows up** — [[Concepts/The Aquarium]] (the closed tank as mechanical sleep); [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] and [[Concepts/The Circus]] (the exit problem); [[Sir Lucius]] (the "many I's" with no center); [[Moths to the Flame]] (his doctrine, deliberately inverted); [[The Watchers]] versus [[Lucius Lullaby]] (the alarm and the sedative); the tattoo on [[Roy]].
+- **Connected ideas** — [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] · [[Concepts/Machine vs Human]] · [[Roy on Influences]].
 - **Confidence** — the influence itself is grounded to the hilt (tattoo, dated posts, promo caption). The finer applications — Law of Seven readings, self-remembering — are framework, and labeled.
 
 ## What the work takes from him
 
-**Waking sleep.** Gurdjieff's core claim: ordinary consciousness is not consciousness. People walk, talk, build careers and empires in a state he flatly calls sleep. This is the master frame under the project's most public idea — the fish that doesn't know it's in water ([[The Aquarium]]), the show you forget you're watching ([[Welcome to the Circus]]), and the hammered *"wake up (wake up) wake up"* of [[The Watchers]].
+**Waking sleep.** Gurdjieff's core claim: ordinary consciousness is not consciousness. People walk, talk, build careers and empires in a state he flatly calls sleep. This is the master frame under the project's most public idea — the fish that doesn't know it's in water ([[Concepts/The Aquarium]]), the show you forget you're watching ([[Welcome to the Circus]]), and the hammered *"wake up (wake up) wake up"* of [[The Watchers]].
 
 **The many I's.** Gurdjieff taught that the unexamined self isn't one self but a crowd — dozens of context-bound "I's," each claiming to be the whole person, with no center holding them. [[Sir Lucius]]'s multiplicity reads straight out of this: the persona that is many masks deep, each one sincere while it's on.
 
 **The system cannot wake you.** *"You can never awaken using the same system that put you to sleep in the first place"* — posted by Roy, October 15, 2025. This is the sharpest tool in the box, and the catalogue uses it as a structural problem: the Circus cannot host its own escape, an algorithm optimized for sedation will not amplify the alarm. It's why the sincere song keeps getting stopped, and why the way out keeps routing through *remembering* rather than winning.
 
-**The crowd and its fear.** The longest Gurdjieff quote Roy has posted (October 9, 2025) is the bleak one: the crowd *"neither wants nor seeks knowledge,"* and the slavery of mankind rests on that fear. Posted with the hashtags of two songs — Happy Face and Bad Feeling — it reads as an artist annotating his own material: [[The Audience]] page carries the weight of it.
+**The crowd and its fear.** The longest Gurdjieff quote Roy has posted (October 9, 2025) is the bleak one: the crowd *"neither wants nor seeks knowledge,"* and the slavery of mankind rests on that fear. Posted with the hashtags of two songs — Happy Face and Bad Feeling — it reads as an artist annotating his own material: [[Concepts/The Audience]] page carries the weight of it.
 
 **Objective art, or the Trojan horse.** Gurdjieff distinguished art that merely leaks the artist's condition from *objective* art built to produce a precise effect. Roy's stated method — the bright pop shell smuggling the dark payload, his own "Trojan Horse" framing on [[Happy Face]] — is this doctrine in practice: engineered sweetness, deliberate aftertaste.
 
@@ -46,9 +46,9 @@ Of everyone on Roy's bookshelf, Gurdjieff is the influence he names most. The **
 
 ## Read next
 
-- [[The Aquarium]] — mechanical sleep as a fish tank.
-- [[The Circus#What it produces (the Spectacle)|the Spectacle]] — the exit problem, stated as a boast.
+- [[Concepts/The Aquarium]] — mechanical sleep as a fish tank.
+- [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] — the exit problem, stated as a boast.
 - [[Moths to the Flame]] — the doctrine inverted, in Lucius's mouth.
 - [[The Watchers]] — the alarm; [[Lucius Lullaby]] — the sedative.
-- [[Gnosticism - The World as Trap]] — the older trap the wake-up answers.
+- [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the older trap the wake-up answers.
 - [[Roy on Influences]] — the rest of the named lineage.

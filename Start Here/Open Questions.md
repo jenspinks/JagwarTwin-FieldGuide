@@ -23,7 +23,7 @@ The questions whose answers would reshape everything else.
    
 4. **Is the divine feminine one figure or many?** A faceless voice blesses across the catalogue; [[Mary]] is named once; [[The Circle]] has a maker-Jagwar and a Wise One. One source under many names, or a genuine cast?
    
-5. **How much of the esoteric architecture is *built*, and how much is *found*?** The work plugs into [[Kabbalah - The Tree of Life|Kabbalah]], [[Gnosticism - The World as Trap|Gnosticism]], [[Hermeticism - As Above So Below|Hermeticism]], tarot. How much was consciously encoded versus emerged from older currents and named in hindsight? It governs how you read everything else. Does Jesus save, or is it Gandolf? ...or maybe Micheal Jackson.... 
+5. **How much of the esoteric architecture is *built*, and how much is *found*?** The work plugs into [[Kabbalah - The Tree of Life|Kabbalah]], [[Concepts/The Sacred Truths/Gnosticism - The World as Trap|Gnosticism]], [[Concepts/The Sacred Truths/Hermeticism - As Above So Below|Hermeticism]], tarot. How much was consciously encoded versus emerged from older currents and named in hindsight? It governs how you read everything else. Does Jesus save, or is it Gandolf? ...or maybe Micheal Jackson.... 
 
 ## On Lucius and the shadow
 - Why is [[SOL]] the one song Lucius can't absorb? I mean we know why but also why... 
@@ -32,7 +32,7 @@ The questions whose answers would reshape everything else.
 - Does the 2026 co-credit mean Lucius *won*, or that he's finally visible enough to be integrated? Again we probably can say whats going on in general here but what changed between Happy Face and now? 
 
 ## On Roy and the endgame
-- Does Roy *leave* [[The Circus|the Circus]], or learn to move differently inside it?
+- Does Roy *leave* [[Concepts/The Circus|the Circus]], or learn to move differently inside it?
 - Is "authentic, egoless Roy" itself a curated persona — the marketed counter-pole to the Lucius villain?
 - Is the buried [[Brandon|Ballerina Boy]] the thing [[Mary]] is reaching for — or a different recovery?
 - Has *"my mind must serve my heart"* been *achieved*, or is it still the aspiration the next record will test?
@@ -42,8 +42,8 @@ The questions whose answers would reshape everything else.
 - Is the faceless blessing-voice (Ballerina Boy, [[Weirdness]]) the same entity as the named Mary (#1 Champion) and Weirdness?
 
 ## On the structure
-- The Loop becomes [[The Loop and the Circle|the Circle]] *through love* — has that turn happened in the catalogue, or is it still the promise?
-- Is [[The Jaguar]] a *frame* (the seeing itself) or an active character/guide?
+- The Loop becomes [[Concepts/The Loop and the Circle|the Circle]] *through love* — has that turn happened in the catalogue, or is it still the promise?
+- Is [[Concepts/The Jaguar]] a *frame* (the seeing itself) or an active character/guide?
 - **[[SARAVI]]**, the 2022 AI "digital double" — a one-off experiment, or a permanent second double beside Lucius?
 
 ## On authorship and method

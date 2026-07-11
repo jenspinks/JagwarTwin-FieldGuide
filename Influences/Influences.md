@@ -29,6 +29,6 @@ Not a reading list — a lineage. The artists Roy names as having *"completed th
 ## Read next
 
 - [[Roy on Influences]] — the roster in full, and the rule against over-reading it.
-- [[The Pattern]] — the single law Roy assembles out of all of them.
+- [[Concepts/The Pattern]] — the single law Roy assembles out of all of them.
 - [[Concepts/The I'm 33 Board]] — the influences in his own hand, on the board.
 - [[Concepts]] — the ideas the influences seeded.

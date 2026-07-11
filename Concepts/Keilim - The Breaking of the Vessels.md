@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the myth where creation begins with a break: a divine light overwhelms its vessels, they shatter, the light scatters into trapped sparks, and the repair (*tikkun*) is the work left to everyone after.
 - **Where it shows up** — [[City of Angels]] (scattered light / "bright lights"), [[SOL]] (the song too intense for its container), [[The Watchers]] (the vessel/download doctrine and the "clone").
-- **Connected ideas** — [[Kabbalah - The Tree of Life]] · [[The Empty Mirror]] · [[The House and the Vessel]] · [[Source vs Reflection]] · [[Sir Lucius]] · [[Roy]].
+- **Connected ideas** — [[Kabbalah - The Tree of Life]] · [[Concepts/The Empty Mirror]] · [[Concepts/The House and the Vessel]] · [[Concepts/Source vs Reflection]] · [[Sir Lucius]] · [[Roy]].
 - **Confidence** — Roy's own *vessel* and *sterile-vessel* language is grounded; the scattered-sparks reading is grounded in [[City of Angels]]; the strict Lurianic attribution is a strong interpretive frame laid on top, labeled as such throughout.
 
 ## What it is
@@ -35,7 +35,7 @@ Start with the grounded floor, because honesty demands it: Roy uses the word *ve
 
 **The split, then the repair.** The takeover and the "war for control," followed by restoration, map onto the move from a state of shattered, isolated vessels toward a *related* configuration. And here's where that load-bearing sentence pays off: the vessels broke because they couldn't relate — so the repair is the establishment of relationship. Which is precisely what *"my mind must serve my heart"* re-orders. Tikkun isn't winning the argument; it's getting the parts back into right relation.
 
-**The two emptinesses.** [[The Empty Mirror]] runs the distinction the doctrine depends on: the vessel that transmits *because* it's hollow, against the sealed shell that only substitutes. Roy's arc converts the hollow *"seeing nothing"* (the Empty Mirror tattoo, in his own gloss, is "about looking at yourself in the mirror and seeing nothing") into the open *"I have become nothing"* — the same nothing, redeemed. That conversion is the doctrine's repair in miniature: raising the spark out of the shell.
+**The two emptinesses.** [[Concepts/The Empty Mirror]] runs the distinction the doctrine depends on: the vessel that transmits *because* it's hollow, against the sealed shell that only substitutes. Roy's arc converts the hollow *"seeing nothing"* (the Empty Mirror tattoo, in his own gloss, is "about looking at yourself in the mirror and seeing nothing") into the open *"I have become nothing"* — the same nothing, redeemed. That conversion is the doctrine's repair in miniature: raising the spark out of the shell.
 
 **The sterile banana.** Roy's own deadpan, winking-emoji Instagram gloss on the Bananas reel — *"most bananas are sterile and cannot reproduce by seed ;)"* — does double duty as theology. It makes the banana a container that holds form but cannot seed: a husk severed from the generative flow. (Public botany seconds it: the Cavendish is a sterile clone, every plant genetically identical, which is exactly why a single blight can wipe the lot.) Real light in a sterile vessel — you can hear the song, you cannot inherit it. The joke *is* the theology, which is roughly the funniest possible way to teach a Kabbalistic doctrine.
 
@@ -64,20 +64,20 @@ Short excerpts, for the ear:
 
 ## Connections
 
-- [[The House and the Vessel]] — the wider audit of container imagery (house, door, gate, roof, Ark, egg). The shattering here is one of its four fates; see the collapsible below for the full set.
+- [[Concepts/The House and the Vessel]] — the wider audit of container imagery (house, door, gate, roof, Ark, egg). The shattering here is one of its four fates; see the collapsible below for the full set.
 - [[Kabbalah - The Tree of Life]] — the structure these vessels belong to. Keilim is its *fracture*. *"My mind must serve my heart"* is the re-ordering. Companion-and-opposite page.
-- [[The Empty Mirror]] — the hollow vessel that transmits against the sealed shell that substitutes; "become nothing" (open) versus "seeing nothing" (hollow).
-- [[Source vs Reflection]] — the master-key frame: transmission → distortion → usurpation, read as vessel → forgetful vessel → husk-that-claims-to-be-the-source.
+- [[Concepts/The Empty Mirror]] — the hollow vessel that transmits against the sealed shell that substitutes; "become nothing" (open) versus "seeing nothing" (hollow).
+- [[Concepts/Source vs Reflection]] — the master-key frame: transmission → distortion → usurpation, read as vessel → forgetful vessel → husk-that-claims-to-be-the-source.
 - [[City of Angels]] — grounds the scattered-sparks reading; the single strongest public song-anchor.
 - [[Roy]] — the broken and re-forming vessel; "in pieces, looking for pieces of one piece."
 - [[Sir Lucius]] — the shell that traps the light; read three ways (see below), never flattened to one.
-- [[The Light-Bearer]] — where the Hermetic stream's Lucius-split lives, kept separate from the Jewish one by design.
+- [[Concepts/The Light-Bearer]] — where the Hermetic stream's Lucius-split lives, kept separate from the Jewish one by design.
 - [Tikkun Olam](https://en.wikipedia.org/wiki/Tikkun_olam) — the repair; the doctrine's other half.
 - [[The Banana]] — the sterile husk and Roy's public gloss on it.
-- [[Inversion]] — carries the "contract to expand" finding; the inverted Tree.
-- [[The Mirror]] · [[The Flip and the Distorting Mirror]] — the vessel-versus-husk failure-and-redemption state; the distorted twin.
-- [[Gnosticism - The World as Trap]] — the redeem-versus-escape fork that keeps this reading honest.
-- [[Hermeticism - As Above So Below]] — the *other* esoteric stream, explicitly not the Jewish one.
+- [[Concepts/Inversion]] — carries the "contract to expand" finding; the inverted Tree.
+- [[The Mirror]] · [[Concepts/The Flip and the Distorting Mirror]] — the vessel-versus-husk failure-and-redemption state; the distorted twin.
+- [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the redeem-versus-escape fork that keeps this reading honest.
+- [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the *other* esoteric stream, explicitly not the Jewish one.
 - [[Concepts/The I'm 33 Board]] — Roy's source-code scratchpad; supplies the board images below.
 
 ## Advanced reading
@@ -102,10 +102,10 @@ The accessible version is above. What follows is the dense framework material �
 >
 > **(1) The Lurianic *kelipot* are NOT the Hermetic Qliphoth.** The Golden-Dawn "Tree of Death" — the 22 averse paths, Thaumiel as the Qliphah of Keter, Choronzon — descends through Knorr von Rosenroth → Mathers → the Golden Dawn, and it is *Hermetic*, not Jewish. The Jewish *shevirah* and the Hermetic Qliphoth are different traditions wearing similar vocabulary. The project's broader tarot/sefirot/morning-star scaffold leans Hermetic; the breaking-of-the-vessels is Jewish. Label which one you're standing in.
 >
-> **(2) Lurianic Kabbalah is NOT Gnosticism.** Luria is **world-affirming** — the material is to be *redeemed*, and the break is *generative*. Roy's public frame ("escape the circus," "wake from the fog") leans **Gnostic** and *anti-cosmic* — the world as a trap to flee. The spark/*birur* mapping is a real structural parallel, but never a silent merge: in Luria you stay and repair; in Gnosticism you wake and leave. (See [[Gnosticism - The World as Trap]].)
+> **(2) Lurianic Kabbalah is NOT Gnosticism.** Luria is **world-affirming** — the material is to be *redeemed*, and the break is *generative*. Roy's public frame ("escape the circus," "wake from the fog") leans **Gnostic** and *anti-cosmic* — the world as a trap to flee. The spark/*birur* mapping is a real structural parallel, but never a silent merge: in Luria you stay and repair; in Gnosticism you wake and leave. (See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].)
 
 > [!note]- Advanced reading — the four fates of the vessel
-> From [[The House and the Vessel]]: the self-as-container has four possible fates, and they *are* the project's structure.
+> From [[Concepts/The House and the Vessel]]: the self-as-container has four possible fates, and they *are* the project's structure.
 > 1. **HOLD / contain** — the Ark holds against the flood. But over-containment seals shut and becomes a cage: Lucius's sealed empire, the Mind/discipline pole.
 > 2. **OPEN / transmit** — *"I'm just a vessel for God,"* "tear the roof off": open at the top, at the crown. The Heart/communion pole.
 > 3. **SHATTER / break** — the *shevirah* itself: SOL too intense → the Roy/Lucius split → scattered sparks; tikkun = repair. **Keilim is fate #3.**
@@ -138,10 +138,10 @@ The accessible version is above. What follows is the dense framework material �
 > - **(b) Lucius as *kelipah* / Sitra Achra** — the shell that traps the light and "masters the system from within." In the Lurianic stream this is redeemed or nullified, never *allied with*. *(Lurianic.)*
 > - **(c) Lucius as the shadow to integrate** — which slides into the Hermetic/Jungian shadow-integration stream, *not* strict Luria. *(Mark Hermetic.)*
 >
-> The standing guard, from [[The Light-Bearer]]: don't let "redeem" (the Jungian reading) silently override "stop" (the *kelipah* reading). The work keeps Lucius's outcome open *by design* — tragedy (the husk stopped and stripped) versus redemption (the shadow integrated, or the necessary break re-ordered) — and which it ultimately commits to is undetermined.
+> The standing guard, from [[Concepts/The Light-Bearer]]: don't let "redeem" (the Jungian reading) silently override "stop" (the *kelipah* reading). The work keeps Lucius's outcome open *by design* — tragedy (the husk stopped and stripped) versus redemption (the shadow integrated, or the necessary break re-ordered) — and which it ultimately commits to is undetermined.
 
 > [!note]- Advanced reading — the vessel grammar (transmission → distortion → usurpation)
-> From [[Source vs Reflection]]: the vessel has three states, and they're a sequence of decay. **Transmission** — the *kli* passes the source-light through *because* it is hollow. **Distortion** — the vessel forgets its own emptiness. **Usurpation** — the *kelipah* substitutes for the source *and claims to be it*: Lucius as a rival center, the moon staging a coup on the sun. SOL exposes the usurpation's limit — a source the husk "has no instrument to convert." This maps the full Sun/Moon/Morning-Star structure: Tiferet (Sun / SOL / source) against the reflected bodies — the Moon (Roy) and the herald-light (Lucius — the morning-star/Venus a demoted resonance, Venus/Netzach being Roy's). And it's the structural home of "reclaim your crown," via Cordovero's *atarah* (Malkhut *becomes* the crown on ascent) and the diminished-moon myth (Chullin 60b → Isaiah 30:26).
+> From [[Concepts/Source vs Reflection]]: the vessel has three states, and they're a sequence of decay. **Transmission** — the *kli* passes the source-light through *because* it is hollow. **Distortion** — the vessel forgets its own emptiness. **Usurpation** — the *kelipah* substitutes for the source *and claims to be it*: Lucius as a rival center, the moon staging a coup on the sun. SOL exposes the usurpation's limit — a source the husk "has no instrument to convert." This maps the full Sun/Moon/Morning-Star structure: Tiferet (Sun / SOL / source) against the reflected bodies — the Moon (Roy) and the herald-light (Lucius — the morning-star/Venus a demoted resonance, Venus/Netzach being Roy's). And it's the structural home of "reclaim your crown," via Cordovero's *atarah* (Malkhut *becomes* the crown on ascent) and the diminished-moon myth (Chullin 60b → Isaiah 30:26).
 
 > [!note]- Advanced reading — the "pieces" thread (one lexicon, eight years)
 > "Pieces" is native to the catalogue, and it carries both poles of the vessel at once — the shattered self *and* the participatory self. Three grounded fragments, eight years apart:
@@ -155,7 +155,7 @@ The accessible version is above. What follows is the dense framework material �
 > [[Soul Is A Star]] runs the doctrine as inheritance: a transmission that arrives corrupted but recoverable — *wound and wisdom handed down together, then called back.* Two verses read as two halves of one inheritance packed into a seed; the falling is the planting; burial-over-destruction means the seed waits, latent, not dead. The "bullet in her genes" is the ancestral-wound node. The song breadcrumbs a chosen lineage to Joni Mitchell (who co-wrote it) — which lets the reductive press tag get reclaimed rather than resented: the joke is that *"we can make 'Roy is a millennial Joni Mitchell' funny again"* — a vibe-comparison turned into a real and elected inheritance, the cheap label repaired into a true one. (Then the inheritance reading sobers the joke right back up: maybe not this part, though, because the wound it carries is real.) If Joni's surviving voice is *actually* sampled — currently unverified here — the descending/silenced inheritance becomes lore *enacted* in reality: a tikkun the mythology performs rather than merely depicts. The actual-voice claim stays open until the sourcing is pinned.
 
 > [!note]- Advanced reading — the cosmogonic pole of "nothing" (No Thing creates)
-> [[The Empty Mirror]] holds three faces of *nothing*, one of which deepens the vessel directly. *"No thing ever creates another thing"* (2022) and Roy's kenotic self-emptying — *"I have become nothing,"* *"in this dream I was no one,"* *"I consider myself no thing"* — point past the hollow vessel to a *cosmogonic* one: the empty that transmits is also the empty that *creates*. The same nothing the husk hoards is the nothing the true vessel pours through.
+> [[Concepts/The Empty Mirror]] holds three faces of *nothing*, one of which deepens the vessel directly. *"No thing ever creates another thing"* (2022) and Roy's kenotic self-emptying — *"I have become nothing,"* *"in this dream I was no one,"* *"I consider myself no thing"* — point past the hollow vessel to a *cosmogonic* one: the empty that transmits is also the empty that *creates*. The same nothing the husk hoards is the nothing the true vessel pours through.
 
 ## Open questions
 
@@ -180,8 +180,8 @@ The page commits to a reading; these are the seams where it stays honest about w
 ## Read next
 
 - [[Kabbalah - The Tree of Life]] — the structure the vessels belong to; Keilim is its fracture.
-- [[The Empty Mirror]] — the hollow vessel that transmits against the sealed husk that substitutes.
-- [[The House and the Vessel]] — the full container audit; the shatter is one of four fates.
-- [[Source vs Reflection]] — transmission, distortion, usurpation: the master-key frame.
+- [[Concepts/The Empty Mirror]] — the hollow vessel that transmits against the sealed husk that substitutes.
+- [[Concepts/The House and the Vessel]] — the full container audit; the shatter is one of four fates.
+- [[Concepts/Source vs Reflection]] — transmission, distortion, usurpation: the master-key frame.
 - [[Sir Lucius]] — the shell that traps the light, read three ways.
 - [[City of Angels]] — the scattered sparks, in song.

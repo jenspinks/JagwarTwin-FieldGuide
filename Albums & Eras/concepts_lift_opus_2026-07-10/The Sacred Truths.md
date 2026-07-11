@@ -20,9 +20,9 @@ Kept in front as readings, not verdicts. You don't need a word of any of this to
 ## The Usual Suspects
 
 - [[Kabbalah - The Tree of Life|Kabbalah]]: a single source of light and a row of vessels that only reflect it; the shape of Roy, Lucius, and Mary.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Gnosticism - The World as Trap|Gnosticism]]: the oldest version of the project's most public idea, the world as managed illusion, the self a buried spark, the way out remembrance.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Hermeticism - As Above So Below|Hermeticism]]: the opposite of the trap, one coherent law repeating at every scale, whose maxim Roy printed on a music video years early.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/Theosophy]]: the cosmos as a Great Breath, worlds exhaled and drawn back; *"the mind is the slayer of the real,"* and what Roy does with that line.
+- [[Gnosticism - The World as Trap|Gnosticism]]: the oldest version of the project's most public idea, the world as managed illusion, the self a buried spark, the way out remembrance.
+- [[Hermeticism - As Above So Below|Hermeticism]]: the opposite of the trap, one coherent law repeating at every scale, whose maxim Roy printed on a music video years early.
+- [[Theosophy]]: the cosmos as a Great Breath, worlds exhaled and drawn back; *"the mind is the slayer of the real,"* and what Roy does with that line.
 
 > [!door]- The Bottom of the Well (Mind the Drop)
 > These four are the currents the work names out loud. They aren't the bottom of the well. Underneath them run the compilers and the mystery schools, the Rosicrucians, the lodges, the secret-society material that treats all of the above as one inherited system with the serial numbers filed off. This guide leaves that door shut, on purpose. The songs don't need it, and the deeper you go the easier it is to mistake a pattern you brought for one you found. Finding a place to hang a concept you already know, over a career's worth of songs, is not hard; that ease is the whole trap. But if you insist on the threshold, there's a name for the person who spent a lifetime standing in it: [[Manly P. Hall]]. Start there, and mind the drop.
@@ -30,5 +30,5 @@ Kept in front as readings, not verdicts. You don't need a word of any of this to
 ## Read next
 
 - [[Roy on Influences]]: the named lineage, with receipts and a warning label.
-- [[Albums & Eras/concepts_lift_opus_2026-07-10/The Pattern]]: the single law Roy assembles out of all four traditions at once.
+- [[The Pattern]]: the single law Roy assembles out of all four traditions at once.
 - [[Source and Interpretation Policy]]: how this guide keeps *the work says* and *a tradition suggests* from wearing the same shirt.

@@ -16,7 +16,7 @@ The trap is elegant: the mind cannot reason its way out of a structure the mind 
 
 - **In one line** — a maze with no exit sign, where reasoning your way out fails because the maze and the reasoner share an architect.
 - **Where it shows up** — [[Welcome to the Circus]] (*"no exit sign in my maze"* — the primary naming) · [[MAGIK]] (*"you're the middle of a maze"*) · the 2026 *welcome to the circus (live underground)* card (the *"you are the maze"* seal).
-- **Connected ideas** — [[The Aquarium]] · [[The Thread]] · [[The Circle]] · [[The Circus]] · [[Sir Lucius]] · [[Mary]].
+- **Connected ideas** — [[Concepts/The Aquarium]] · [[The Thread]] · [[The Circle]] · [[Concepts/The Circus]] · [[Sir Lucius]] · [[Mary]].
 - **Confidence** — one grounded naming (a released lyric) braided with strong interpretation; the myth-structure and esoteric correspondences are labeled as framework throughout.
 
 ## What it is
@@ -33,7 +33,7 @@ The Labyrinth does three things across the work: it escalates, it distinguishes 
 
 **It escalates.** Watch the maze-line tighten across two years. In [[MAGIK]] (2025) you are *"the middle of a maze"* — the addressee placed at the *center*. By [[Welcome to the Circus]] (2026) there's *"no exit sign in my maze,"* and then a 2026 card pushes it all the way to *"you are the maze."* The arc runs middle → no-exit → *you are it.* You start out lost in the structure and end up being the structure. (More on that move below — it's the hinge of the whole concept.)
 
-**It distinguishes itself from [[The Aquarium]].** These two sit close and get confused. The Aquarium explains why you can't see *outside* — why you can't even register the wall as a wall. The Labyrinth explains why you can't find the *exit* once you already know you're inside. The Aquarium is the totalized interior; the Labyrinth is the active navigation problem. Put another way: the Aquarium is the deeper condition that makes the Labyrinth unsolvable. You can't thread your way out of a maze you can't perceive the edges of.
+**It distinguishes itself from [[Concepts/The Aquarium]].** These two sit close and get confused. The Aquarium explains why you can't see *outside* — why you can't even register the wall as a wall. The Labyrinth explains why you can't find the *exit* once you already know you're inside. The Aquarium is the totalized interior; the Labyrinth is the active navigation problem. Put another way: the Aquarium is the deeper condition that makes the Labyrinth unsolvable. You can't thread your way out of a maze you can't perceive the edges of.
 
 **It sets up the thread.** Every version of this myth turns on one object — a line back to the entrance. The labyrinth is the only trap in the catalogue that comes pre-loaded with its own solution *and* the news that the solution has been removed. That's the whole charge of *"no exit sign."* The exit isn't necessarily gone; the *sign* is — the thread that would lead you out has been taken or cut. The architect of the maze is also, conveniently, the one who'd know where the exits are.
 
@@ -51,29 +51,29 @@ That architect has a name, and he's playing every position at once. [[Sir Lucius
 
 This is the line the whole concept pivots on, and it lands the escalation. *"You're the middle of a maze"* still lets you be a thing *inside* a structure. *"You are the maze"* takes the structure and the seeker and fuses them. You are not lost *in* the labyrinth — you *are* it; the thing you've been trying to navigate is yourself.
 
-Which reorients the exit entirely. If you are the maze, the way out is not *out* but *in* — through yourself, the Circle's *"inside of the inside."* It's the identical move as the ARG password *"you are it"* (Watts) and [[I Like to Party]]'s 2021 line *"you're the Kingdom, you're the King"* — the self-is-sovereign axiom that's been printed on the [[The Manifesto Cards|Manifesto Cards]] since 2021. The maze seal on the 2026 WTTC card is the newest stamp in that lineage: *you are the kingdom, you are the king, you are the maze.*
+Which reorients the exit entirely. If you are the maze, the way out is not *out* but *in* — through yourself, the Circle's *"inside of the inside."* It's the identical move as the ARG password *"you are it"* (Watts) and [[I Like to Party]]'s 2021 line *"you're the Kingdom, you're the King"* — the self-is-sovereign axiom that's been printed on the [[Concepts/The Manifesto Cards|Manifesto Cards]] since 2021. The maze seal on the 2026 WTTC card is the newest stamp in that lineage: *you are the kingdom, you are the king, you are the maze.*
 
 ## The thread is the feeling
 
 Here's the most load-bearing reading on the page, and it's built only on public anchors. Three pieces: the world is *"tied on a string"* (from [[The Circle]]); the string is the feeling that must not be sacrificed (the project's published philosophical arc); and the classical labyrinth can only be solved with a thread. Lay them over each other and **the feeling is the thread — and the Circus's primary function is severing it.**
 
-So the maze has *"no exit sign"* not because no exit exists, but because the line that would lead out has been broken. Ariadne's instruction is the whole project's instruction: *hold the string.* And the way you hold it is telling — by touch, in the dark. The *"flashing lights"* aren't the way out; they're the reason you can't find it (distraction is the spectacle's signature). The thread isn't made of light. It's felt. You navigate the maze by the thing you can feel in your hand, not by the strobe that keeps you from focusing. (See [[The Light-Bearer]].)
+So the maze has *"no exit sign"* not because no exit exists, but because the line that would lead out has been broken. Ariadne's instruction is the whole project's instruction: *hold the string.* And the way you hold it is telling — by touch, in the dark. The *"flashing lights"* aren't the way out; they're the reason you can't find it (distraction is the spectacle's signature). The thread isn't made of light. It's felt. You navigate the maze by the thing you can feel in your hand, not by the strobe that keeps you from focusing. (See [[Concepts/The Light-Bearer]].)
 
 ## Connections
 
-- [[The Aquarium]] — the labyrinth lived from inside; why you can't see the walls. The deeper condition that makes the maze unsolvable.
+- [[Concepts/The Aquarium]] — the labyrinth lived from inside; why you can't see the walls. The deeper condition that makes the maze unsolvable.
 - [[The Thread]] — the missing element; Ariadne's line; what the labyrinth requires to be solved; *the feeling is the thread.*
 - [[The Circle]] — the labyrinth successfully navigated (you came back with the thread); *"world tied on a string"*; the exit that's *in,* not out.
-- [[The Circus]] — the labyrinth at social scale; a labyrinth *without* a thread.
+- [[Concepts/The Circus]] — the labyrinth at social scale; a labyrinth *without* a thread.
 - [[Sir Lucius]] — the architect of the mind-maze; readable at once as the Minotaur at the center, as Daedalus who built the trap, and possibly as the one who took the thread. *The mind divorced from the heart.*
 - [[Mary]] — the candidate thread-bearer; the divine-feminine presence who appears precisely when the distortion can't contain what it holds.
 - [[City of Angels]] — the *"beautiful stranger"* as a *false Ariadne* who hands you a reason to stay, not the way out.
-- [[The Labors of Hercules]] — the cave with two openings as a different labyrinth-type; the interior confrontation.
-- [[The Light-Bearer]] — the *"flashing lights"* as the reason the exit can't be found; the maze navigated by touch, not light.
+- [[Concepts/The Labors of Hercules]] — the cave with two openings as a different labyrinth-type; the interior confrontation.
+- [[Concepts/The Light-Bearer]] — the *"flashing lights"* as the reason the exit can't be found; the maze navigated by touch, not light.
 - [[Fire]] — the ring of fire as the maze's outer wall (*"ring of fire, no escaping"*).
 - [[Dream - Dream]] — the early song that misunderstands *where* the labyrinth resides (external vs internal).
 - [[Move To You]] — the Thread in its purest early form: the heart as compass when the stars fail.
-- [[The Pattern]] — *"Labyrinth"* in Roy's own freehand cosmology sketch.
+- [[Concepts/The Pattern]] — *"Labyrinth"* in Roy's own freehand cosmology sketch.
 
 > [!note]- Advanced reading — the Theseus / Minotaur myth (and Daedalus, trapped in his own maze)
 > The reference is Theseus and the Minotaur. Daedalus builds the labyrinth for King Minos to contain the Minotaur — the beast that is half-human, half-bull. Theseus enters to kill it and survives *only* because Ariadne gives him a thread, a line back from the entrance. Without the thread he kills the beast and still dies in the maze. The classical exit *requires a thread.* That's the structural fact the whole *"no exit sign"* reading hangs on.
@@ -83,7 +83,7 @@ So the maze has *"no exit sign"* not because no exit exists, but because the lin
 > And **Daedalus, imprisoned by his own design.** The maker of the trap later became trapped in it and had to build wings to escape — the craftsman caught in his own creation, the shadow grown too powerful for its maker. There may be a *wings-as-escape* link here to the *"song hidden inside its wings"* image: the way out of the maze you built is to grow something that can leave it from above.
 
 > [!note]- Advanced reading — the Circle / Circus / Aquarium triad (same geometry, different charge)
-> The Labyrinth doesn't sit alone — it's one face of a recursive shape that wears four names. **[[The Circle]]** is the labyrinth *successfully navigated:* you went in, found the center, and came back out holding the thread. **[[The Circus]]** is the labyrinth at *social scale* — a maze with the thread already removed, run for an audience. **[[The Aquarium]]** is the labyrinth gone so *total* you forgot you were inside one. Same geometry every time; what changes is the charge — whether you're carrying the thread, whether anyone took it, and whether you can still see that there's a maze at all.
+> The Labyrinth doesn't sit alone — it's one face of a recursive shape that wears four names. **[[The Circle]]** is the labyrinth *successfully navigated:* you went in, found the center, and came back out holding the thread. **[[Concepts/The Circus]]** is the labyrinth at *social scale* — a maze with the thread already removed, run for an audience. **[[Concepts/The Aquarium]]** is the labyrinth gone so *total* you forgot you were inside one. Same geometry every time; what changes is the charge — whether you're carrying the thread, whether anyone took it, and whether you can still see that there's a maze at all.
 >
 > [[MAGIK]] is the tender counter-pole to the Circus's version. *"You're the middle of a maze"* isn't *you're lost* — it's *you're at the center,* and the speaker's witnessing functions like the thread itself, helping the addressee find the way through rather than solving it for them. The Circus severs the thread; MAGIK *is* one.
 
@@ -100,10 +100,10 @@ So the maze has *"no exit sign"* not because no exit exists, but because the lin
 > Read through that frame, [[Sir Lucius]] — the mind divorced from the heart, by Roy's own statement — is the architect of the maze, and *release / surrender* is the way through rather than a smarter route. You don't out-think the structure the mind built; you let go of the faculty doing the thinking. Two named influences route directly here. **Alan Watts** (named 2025-10-28) supplies the *"you are it"* / ego-dissolution move — the same *you-are-the-maze* logic, and literally the first ARG password. **Israel Regardie** (named 2025-11-04) supplies the center: *"If you face something that you fear and recognize it for what it is, you give it balance. You restore equilibrium"* — shadow-work as facing what waits at the heart of the maze, which is exactly the Rosicrucian Minotaur-as-transformation read.
 
 > [!note]- Advanced reading — the Leo trial: the cave with two openings (a different labyrinth-type)
-> [[The Labors of Hercules]] supplies a second, sharper maze-geometry. The fifth labor (Leo) requires confronting the Nemean Lion inside a *cave with two openings:* block one (seal the emotional escape route), drop your weapons, and strangle the beast bare-handed — *integrate* it (wear the skin), don't kill it. Read against that, [[Welcome to the Circus]] is the lion *ravaging the countryside before the cave* — the beast still loose — and the maze with *"no exit sign"* is the cave the aspirant has not yet *voluntarily* entered. *Not Your Homie* names the trial outright: *"if you choose to tame The Beast / you've got to prove yourself to be / a champion."* The exit isn't a clever turn; it's a door you choose to close behind you.
+> [[Concepts/The Labors of Hercules]] supplies a second, sharper maze-geometry. The fifth labor (Leo) requires confronting the Nemean Lion inside a *cave with two openings:* block one (seal the emotional escape route), drop your weapons, and strangle the beast bare-handed — *integrate* it (wear the skin), don't kill it. Read against that, [[Welcome to the Circus]] is the lion *ravaging the countryside before the cave* — the beast still loose — and the maze with *"no exit sign"* is the cave the aspirant has not yet *voluntarily* entered. *Not Your Homie* names the trial outright: *"if you choose to tame The Beast / you've got to prove yourself to be / a champion."* The exit isn't a clever turn; it's a door you choose to close behind you.
 
 > [!note]- Advanced reading — "Labyrinth" in Roy's own cosmology (the Undefined Map)
-> This isn't only an interpreter's frame. On Roy's hand-drawn *"Undefined Map"* — a freehand planetary-correspondence cosmology, surfaced as a Hall of Mirrors artifact — **"Labyrinth" is listed explicitly** under the 7-Sisters / Pleiades / Saturn column, sitting alongside *"chakra rainbow 7s," "moonless nights,"* and *"isolated city."* So the term lives in the artist's *own* schema, not just the reading. (See [[The Pattern]].) That grounds the word itself; what the column *means* stays interpretation.
+> This isn't only an interpreter's frame. On Roy's hand-drawn *"Undefined Map"* — a freehand planetary-correspondence cosmology, surfaced as a Hall of Mirrors artifact — **"Labyrinth" is listed explicitly** under the 7-Sisters / Pleiades / Saturn column, sitting alongside *"chakra rainbow 7s," "moonless nights,"* and *"isolated city."* So the term lives in the artist's *own* schema, not just the reading. (See [[Concepts/The Pattern]].) That grounds the word itself; what the column *means* stays interpretation.
 
 > [!note]- Advanced reading — wider traditions the maze rhymes with
 > The labyrinth is one of the most over-determined images in the esoteric canon, and several traditions resonate without being claimed as intent:
@@ -150,7 +150,7 @@ So the maze has *"no exit sign"* not because no exit exists, but because the lin
 
 - [[Welcome to the Circus]] — the primary naming; the maze at full power.
 - [[The Thread]] — the missing element; Ariadne's line, and *the feeling is the thread.*
-- [[The Aquarium]] — why you can't see the walls; the condition that makes the maze unsolvable.
+- [[Concepts/The Aquarium]] — why you can't see the walls; the condition that makes the maze unsolvable.
 - [[The Circle]] — the labyrinth navigated; the exit that's *in,* not out.
 - [[Sir Lucius]] — the architect of the mind-maze; the final boss.
 - [[Mary]] — the candidate thread-bearer; the figure the distortion can't contain.

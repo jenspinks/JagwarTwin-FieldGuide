@@ -23,7 +23,7 @@ The album's capstone before the closer. *33* spends nine tracks diagnosing a wor
 - **Era / release** — *33* (2022, Big Loud Rock), track 9 of 10, the penultimate track. Runtime 4:44.
 - **In one line** — imagination as authorship of your own world, running wonder → false gods → media conditioning → the Eden within.
 - **Who speaks** — Roy, as the inviting voice, addressing **the listener** the whole way through — *you* ×35, *I* ×0. The most other-directed song on the album. (Sir Lucius is *in* it, disguised — see OZ.)
-- **Key symbols** — the Garden of Eden (relocated inward) · [[The Mirror|the Mirror]] (parents as reflections) · [[The Veil|OZ / the man behind the curtain]] · "Those Thoughts" (the conditioning force).
+- **Key symbols** — the Garden of Eden (relocated inward) · [[The Mirror|the Mirror]] (parents as reflections) · [[Concepts/The Veil|OZ / the man behind the curtain]] · "Those Thoughts" (the conditioning force).
 
 ## The song, mapped
 
@@ -79,14 +79,14 @@ A few claims that cut across the whole thing:
 
 - **The Garden of Eden** — relocated from lost history to interior consciousness; paradise as a state you conceive, not a place you return to.
 - [[The Mirror|The Mirror]] — parents named as *"reflections of who you are,"* folding the catalogue's mirror motif into the family itself.
-- [[The Veil|OZ / the man behind the curtain]] — the fabricated god; the disguise stretched over the machinery. The "designed God" made concrete, and the closest thing the song has to a villain.
+- [[Concepts/The Veil|OZ / the man behind the curtain]] — the fabricated god; the disguise stretched over the machinery. The "designed God" made concrete, and the closest thing the song has to a villain.
 - **"Those Thoughts"** *(capitalized in the lyric)* — the conditioning/programming force: cable news plus labeling, personified as an intruding agent that "takes ahold of you." The attention-economy critique given a proper noun.
 
 ## Connected songs
 
 - [[Down to You]] (33, track 7) — *"a God you designed"* shakes hands with *"what's the God you believe in?"*; the two songs share a self-authorship and false-gods vocabulary.
 - [[Pay Attention (feat. little luna)|Pay Attention]] (33, track 3) — OZ behind the curtain meets the attention-force whose *"televise is just my disguise"*; "Those Thoughts" and the cable news meet the machine that programs them.
-- **The [[Machine vs Human]] cluster** — [[Online]], [[Happy Face]], [[I Like to Party]] (all *33*) build the attention-machine song by song: life through the screen, the minimum-viable mask, consumption as anesthetic. *Imagine A World* is the arc's **residual human appeal** — the counter-offer the record makes *against* the machine it spends those tracks assembling. Where they diagnose the severing, this one hands the pen back to the human.
+- **The [[Concepts/Machine vs Human]] cluster** — [[Online]], [[Happy Face]], [[I Like to Party]] (all *33*) build the attention-machine song by song: life through the screen, the minimum-viable mask, consumption as anesthetic. *Imagine A World* is the arc's **residual human appeal** — the counter-offer the record makes *against* the machine it spends those tracks assembling. Where they diagnose the severing, this one hands the pen back to the human.
 - [[Another Way II Heaven]] (33, track 8) — the cosmogony (*"One become Two"*) that this song makes participatory: consciousness creating and experiencing reality through perspective. The myth, then the invitation.
 - [[The Circle]] (33, track 10) — the closer this hands to, and its own answer: what's sought externally is found within, *"the inside of the inside."*
 - [[Soul Is A Star]] (33, track 5) — the shared Joni Mitchell channel: *Woodstock*'s *"back to the garden"* feeds both this song's "Garden of Eden" line and Soul Is A Star's credited sample. Two branches off the same *Ladies of the Canyon.*
@@ -238,4 +238,4 @@ Imagine a world full of wonder
 - [[Down to You]] — the album's other "designed God" song; shared false-gods vocabulary.
 - [[Pay Attention (feat. little luna)|Pay Attention]] — the curtain-god and "Those Thoughts" at full attention-machine power.
 - [[Sir Lucius]] — the OZ behind the curtain; the fraud-deity in the roster, decoded.
-- [[Machine vs Human]] — the album-wide arc this song caps: the human counter-appeal against the attention-machine that Online, Happy Face, and I Like to Party assemble.
+- [[Concepts/Machine vs Human]] — the album-wide arc this song caps: the human counter-appeal against the attention-machine that Online, Happy Face, and I Like to Party assemble.

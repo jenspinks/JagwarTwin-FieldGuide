@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the impersonal machine that sorts the world by what performs; in Roy's own term, the thing that took the place of feeling.
 - **Where it shows up** — [[Welcome to the Circus]] (confessed on camera as its own work) · [[Happy Face]] (*telling you what to wear and what to like and how to be*) · [[Online]] (the database that knows you before you do).
-- **Connected ideas** — [[Sir Lucius]] · [[The Circus]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[The Aquarium]] · [[Flattened Identity]] · [[Consumption]] · [[Witnessing vs Surveillance]] · [[The System]].
+- **Connected ideas** — [[Sir Lucius]] · [[Concepts/The Circus]] · [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Concepts/The Aquarium]] · [[Concepts/Flattened Identity]] · [[Concepts/Consumption]] · [[Concepts/Witnessing vs Surveillance]] · [[The System]].
 - **Confidence** — grounded fact (Roy's own term, an on-camera confession, lyric-explicit surveillance, documented label history) braided with strong interpretation; the esoteric apparatus is labeled as framework throughout.
 
 ## What it is
@@ -76,19 +76,19 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 ## Connections
 
 - **[[Sir Lucius]]** — the Algorithm's best student, not its body: the green-apple usurper who mastered the engine and wars to replace the show it runs (see [[The System]]). His three modes = three optimization states.
-- **[[The Circus]]** — the Algorithm's output and venue at social scale. The Circus is the [[The Circle|Circle]] inverted; the Algorithm is the mechanism that runs it.
-- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** — what the Algorithm optimizes *for*: life replaced by its image. *"It's a spectacle, I'm the final boss."*
-- **[[The Aquarium]]** — the Algorithm is its maintenance system; the self-cleaning invisible glass. It's *why* there's *"no exit sign in my maze."*
-- **[[Flattened Identity]]** — the Algorithm's move on a living self (person → profile, soul → star, self → utility). The Algorithm is its named, grounded agent.
-- **[[Consumption]]** — attention is the nutrient it extracts. *"I'll chew you up, spit you out"*; the force-fed cake.
-- **[[Witnessing vs Surveillance]]** — the Algorithm runs surveillance, the *counterfeit* of being witnessed. *"The algorithm does not know you — it knows how to shape you."*
-- **[[Machine vs Human]]** — the Algorithm is the Machine pole: optimization severed from the heart. The guardrail lives here (see below).
+- **[[Concepts/The Circus]]** — the Algorithm's output and venue at social scale. The Circus is the [[The Circle|Circle]] inverted; the Algorithm is the mechanism that runs it.
+- **[[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]]** — what the Algorithm optimizes *for*: life replaced by its image. *"It's a spectacle, I'm the final boss."*
+- **[[Concepts/The Aquarium]]** — the Algorithm is its maintenance system; the self-cleaning invisible glass. It's *why* there's *"no exit sign in my maze."*
+- **[[Concepts/Flattened Identity]]** — the Algorithm's move on a living self (person → profile, soul → star, self → utility). The Algorithm is its named, grounded agent.
+- **[[Concepts/Consumption]]** — attention is the nutrient it extracts. *"I'll chew you up, spit you out"*; the force-fed cake.
+- **[[Concepts/Witnessing vs Surveillance]]** — the Algorithm runs surveillance, the *counterfeit* of being witnessed. *"The algorithm does not know you — it knows how to shape you."*
+- **[[Concepts/Machine vs Human]]** — the Algorithm is the Machine pole: optimization severed from the heart. The guardrail lives here (see below).
 - **[[The System]]** — the umbrella figure that fuses the Algorithm, the Circus, the Spectacle, Consumption, and Flattened Identity into one self-running machine.
-- **[[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]]** — the Algorithm as the contemporary delivery mechanism for bread-and-circuses sedation.
-- **[[The Audience]]** — the watchers are the Algorithm's power source: *"they love it when you lose control."* No audience, no Lucius.
+- **[[Concepts/The Circus#Where it comes from (bread and circuses)|Panem et Circenses]]** — the Algorithm as the contemporary delivery mechanism for bread-and-circuses sedation.
+- **[[Concepts/The Audience]]** — the watchers are the Algorithm's power source: *"they love it when you lose control."* No audience, no Lucius.
 - **[[Roy]]** — the one the Algorithm processes; also the one who conceded *"I guess Lucius was right again."*
 - **[[SOL]]** — *the song of love*, the candidate anti-algorithmic track; the one thing Lucius can't metabolize, overridden by the Algorithm's logic.
-- **[[The Realm]]** — the route *around* the gatekeeping (owned audience, blockchain releases). Circus = blockade; Realm = the way around it.
+- **[[Concepts/The Realm]]** — the route *around* the gatekeeping (owned audience, blockchain releases). Circus = blockade; Realm = the way around it.
 
 ## Advanced reading
 
@@ -96,12 +96,12 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 > The companion [[The System]] page fuses the Algorithm with the Circus, the Spectacle, Consumption, and Flattened Identity into a single impersonal force — the algorithm, the spectacle, and the industry unified into one self-running machine that converts selves into content. The Algorithm is the *engine* of that machine; the Circus is its output at social scale; the Spectacle is the image it produces; Consumption is how it feeds; Flattened Identity is what's left of you afterward. The official press chain stages the conflict explicitly: the single rollout positioned LOOP → not your homie → welcome to the circus as two opposing instincts — *"one path seeks clarity beyond the system, while the other chooses to master it from within."* This unification is interpretation built on grounded anchors, but the anchors are real and the press framing is public.
 
 > [!note]- Advanced reading — surveillance, the counterfeit of being seen
-> The Algorithm's gaze is *surveillance* — the counterfeit of being witnessed. The distinction is the whole point: *"surveillance gathers data; witnessing transforms the witnessed."* The machine that watches everything cannot witness anyone, because witnessing is a relationship and surveillance is an extraction. In the project's vocabulary this makes the Algorithm the dark double of **El Roi**, *"the God who sees me"* — the gaze that holds and loves, counterfeited by the gaze that merely shapes. *"The algorithm does not know you — it knows how to shape you."* [[Online]] and [[The Watchers]] are where this lives: predictive profiling (*"they know what you like in bed before you come into"*), the database self (*"a bug inside your database"*), the clone-fear — the gaze that shapes without ever knowing. See [[Witnessing vs Surveillance]].
+> The Algorithm's gaze is *surveillance* — the counterfeit of being witnessed. The distinction is the whole point: *"surveillance gathers data; witnessing transforms the witnessed."* The machine that watches everything cannot witness anyone, because witnessing is a relationship and surveillance is an extraction. In the project's vocabulary this makes the Algorithm the dark double of **El Roi**, *"the God who sees me"* — the gaze that holds and loves, counterfeited by the gaze that merely shapes. *"The algorithm does not know you — it knows how to shape you."* [[Online]] and [[The Watchers]] are where this lives: predictive profiling (*"they know what you like in bed before you come into"*), the database self (*"a bug inside your database"*), the clone-fear — the gaze that shapes without ever knowing. See [[Concepts/Witnessing vs Surveillance]].
 
 > [!note]- Advanced reading — flattening, and the Aquarium that cleans its own glass
-> **Flattening** is the Algorithm's operation on a self: person → profile, voice → content, witness → audience, artist → product, soul → star, self → utility. The load-bearing line from [[Flattened Identity]]: *"Flattened Identity is not the mask. It is the system insisting the mask is all there is."*
+> **Flattening** is the Algorithm's operation on a self: person → profile, voice → content, witness → audience, artist → product, soul → star, self → utility. The load-bearing line from [[Concepts/Flattened Identity]]: *"Flattened Identity is not the mask. It is the system insisting the mask is all there is."*
 >
-> The sharpest image for *how* it stays invisible comes from [[The Aquarium]]: the Algorithm is **the glass that cleans and fortifies itself** — an auto-tuned tank that keeps optimizing for content confirming the tank's reality, until no outside is accessible and the boundary disappears. That's why the maze is unsolvable: *"no exit sign in my maze"* isn't cruelty, it's architecture. You can't navigate a wall you can't see as a wall.
+> The sharpest image for *how* it stays invisible comes from [[Concepts/The Aquarium]]: the Algorithm is **the glass that cleans and fortifies itself** — an auto-tuned tank that keeps optimizing for content confirming the tank's reality, until no outside is accessible and the boundary disappears. That's why the maze is unsolvable: *"no exit sign in my maze"* isn't cruelty, it's architecture. You can't navigate a wall you can't see as a wall.
 
 > [!note]- Advanced reading — LOOP, the Algorithm that reproduces through you
 > [[LOOP]] reads as *the Algorithm that reproduces itself through the listener* — trapped recursion, repetition without transformation. Hold it against [[The Circle]], which is *liberating* recursion: a return to source. Same circular shape, opposite physics. The HoM note frames it most pointedly: the Algorithm is *"coding-consciousness weaponized"* — the Loop/possession pole of inherited-pattern encoding, against the Circle/pedagogy pole. The Algorithm doesn't just play to you; it installs itself in you and runs again.
@@ -110,7 +110,7 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 > The Algorithm is the contemporary form of an idea named across traditions — framework correspondence, **explicitly not a claim about authorial intent**, though several of these are documented public Roy influences:
 > - **Theosophy / Alice Bailey** — *"illusion, propaganda, and mass suggestion"*; the layered unreality (*maya / glamour*) the aspirant must cross. Bailey is a publicly-curated Roy influence, and that *"mass suggestion"* line is one he's circulated.
 > - **Gurdjieff** — *mechanical sleep*: humanity walking around convinced it's awake and choosing. Gurdjieff is Roy's single most-named public influence. The Algorithm is mechanical sleep updated to a feed.
-> - **Gnosticism** — the **Demiurge**, the lesser, ignorant maker running a counterfeit world; the Algorithm/Circus as the Demiurge's dense copy keeping the *pneuma* asleep. (Resonance, not source-claim — Roy's public posture leans Gnostic *"wake up,"* though his cure leans redemptive.) See [[Gnosticism - The World as Trap]].
+> - **Gnosticism** — the **Demiurge**, the lesser, ignorant maker running a counterfeit world; the Algorithm/Circus as the Demiurge's dense copy keeping the *pneuma* asleep. (Resonance, not source-claim — Roy's public posture leans Gnostic *"wake up,"* though his cure leans redemptive.) See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].
 > - **Guy Debord** — *The Society of the Spectacle* (1967): life replaced by its image; the Situationist critique that predicted the attention economy by half a century. Plus **Baudrillard** (the image becomes reality) and **Boorstin** (the pseudo-event — staged to be covered).
 > - **Juvenal** — *panem et circenses* (c. 100 CE): mass sedation by spectacle, the crowd bought off so it never notices it lost power; the chains are pleasurable. The Roman circus was also the literal arena where witnesses were consumed for entertainment.
 >
@@ -160,6 +160,6 @@ He even names it in his own promo voice, half-sincere: on *LOOP*'s release he wr
 - [[Welcome to the Circus]] — the song confessed on camera as the Algorithm's own work.
 - [[Sir Lucius]] — the Algorithm's best student and would-be usurper; the green-apple claimant.
 - [[The System]] — the umbrella machine the Algorithm powers.
-- [[Witnessing vs Surveillance]] — the mechanism behind the counterfeit gaze.
+- [[Concepts/Witnessing vs Surveillance]] — the mechanism behind the counterfeit gaze.
 - [[Happy Face]] — *telling you what to wear and what to like and how to be.*
-- [[The Aquarium]] — the invisible glass the Algorithm keeps clean.
+- [[Concepts/The Aquarium]] — the invisible glass the Algorithm keeps clean.

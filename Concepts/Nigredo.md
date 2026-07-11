@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the blackening; you go down before you come back. Nigredo is not failure. It is the first movement. The danger is not the dark — it is being kept there.
 - **Where it shows up** — [[Welcome to the Circus]] (*"I'll chew you up, spit you out"* — the blackening that never turns) · [[Lucius Lullaby (album)|Lucius Lullaby]] (a whole album in the dark) · [[Happy Face]] (2020: *"burning the old world down"*).
-- **Connected ideas** — [[Sir Lucius]] · [[The Circus]] · [[Weirdness]] · [[Brandon|Ballerina Boy]] · [[SOL]] · [[Keilim - The Breaking of the Vessels]].
+- **Connected ideas** — [[Sir Lucius]] · [[Concepts/The Circus]] · [[Weirdness]] · [[Brandon|Ballerina Boy]] · [[SOL]] · [[Concepts/Keilim - The Breaking of the Vessels]].
 - **Confidence** — the alchemical tradition is established fact; Roy publicly attaches himself to it (a Latin alchemy motto on TikTok, the *"I'm 33"* board in his own hand); the song-by-song mapping is interpretation, labeled as such.
 
 ## What it is
@@ -38,7 +38,7 @@ Three things make nigredo more than a piece of borrowed vocabulary here. First, 
 - **The collapse at thirty-five.** Rock bottom, and not the poetic kind: the major label gone, a relationship ended, a friend lost. This is the period that produced [[Lucius Lullaby]], reportedly written from a childhood bedroom — which is its own grim joke, a grown man back in the room where the first burial happened.
 - **Lucius as the blackening itself.** The shadow split off and walking around: distorted light operating as darkness, the *prima materia* handed a name, a face, and a verified Instagram. [[Sir Lucius]] *is* nigredo externalized — the raw material you're supposed to transmute, given a voice that argues back.
 
-**The Circus is the blackening that won't turn.** This is the keystone. [[The Circus]] is *not* nigredo — it's the *prevention* of nigredo completing. It holds material in dissolution and never lets transmutation begin: a perpetual blackening with no whitening anywhere in view. Real alchemy moves *through* the dark toward gold; the Circus specializes in a dark that never moves. *"I'll chew you up, spit you out"* ([[Welcome to the Circus]]) is the thesis in one line — consumption without transformation, swallowed and not returned changed. (See [[Consumption]] for the inverted-Eucharist reading: digested, not transfigured.)
+**The Circus is the blackening that won't turn.** This is the keystone. [[Concepts/The Circus]] is *not* nigredo — it's the *prevention* of nigredo completing. It holds material in dissolution and never lets transmutation begin: a perpetual blackening with no whitening anywhere in view. Real alchemy moves *through* the dark toward gold; the Circus specializes in a dark that never moves. *"I'll chew you up, spit you out"* ([[Welcome to the Circus]]) is the thesis in one line — consumption without transformation, swallowed and not returned changed. (See [[Concepts/Consumption]] for the inverted-Eucharist reading: digested, not transfigured.)
 
 **The turn toward light.** And then, late, one frequency shifts. [[Weirdness]] reads as the first solar movement after a long dark passage — the moment the split-off light is finally recognized and named. The whole turn lives in a single pronoun: *"YOUR weirdness is the sunshine"* becomes *"all MY weirdness is MY sunshine."* That's integration by *reclaiming* the shadow's distorted light as your own — not by defeating Lucius, but by stopping mistaking his voice for someone else's. It is not completion. It's not even the dawn yet. It's the nigredo lifting. [[SOL]] — "the Song of Love" — may be the gold on the far side if the work completes, but on release it's voiced-but-wordless, a glimpse around the 1:18 mark, *survival, not triumph.* Whether SOL is the finished gold stays an open question, held open on purpose.
 
@@ -81,8 +81,8 @@ Nigredo isn't named on a lyric sheet. It surfaces as a *texture* — fire, buria
 > And there's a single image that compresses the whole catalogue's direction. Roy tweeted Vladimir Kush's *Sunrise by the Ocean* (2021-10-02) with one word of caption: **"Egg."** The painting reads *drown → crack → dawn* — which is exactly the move the catalogue runs from *Subject to Flooding* (nigredo immersion) toward *Shine* / [[SOL]] (the sun coming out). The egg has to be underwater before it can crack toward morning.
 
 > [!note]- Advanced reading — the Green Lion devouring the Sun (a softer, social anchor)
-> Softer than the VITRIOL caption, because it comes from engagement rather than his own words, but pointed. Based on his social-media activity, Roy seems drawn to the alchemical image of the **Green Lion devouring the Sun** — one of the tradition's pictures of the *solve,* the dissolution that opens the Great Work. In the alchemists' color-language **green is the unripe and unrefined,** a crude but powerful force, and the lion's swallowing of the sun is *"a raw substance dissolving and absorbing gold, the solar principle"* — at once operative (a solvent eating the noble metal) and spiritual (*"the raw life-force integrating the higher self,"* which is the Leo labour of [[The Labors of Hercules]] in alchemical dress).
-> Read against the project's own figures the image is nearly a portrait. The **lion** is already [[Sir Lucius]] (Leo, the Nemean lion); **green** is already his color (the green apple is his mark 🗡🍏, the [[The Green Apple|unripe]] knowledge); and the **Sun** is the heart ([[SOL]]; and Sun = Tiphareth = the heart-center his socials also circle, see [[Heart and Mind]]). So the Green Lion eating the Sun reads as **Lucius, the crude unripe force, dissolving the heart** — the *solve* run as pure consumption, the same *"chew you up, spit you out"* the Circus makes permanent, and the board's own *"Man devours God, God devours Man."* The engagement is grounded; the mapping onto Lucius is the reading. `[S]`
+> Softer than the VITRIOL caption, because it comes from engagement rather than his own words, but pointed. Based on his social-media activity, Roy seems drawn to the alchemical image of the **Green Lion devouring the Sun** — one of the tradition's pictures of the *solve,* the dissolution that opens the Great Work. In the alchemists' color-language **green is the unripe and unrefined,** a crude but powerful force, and the lion's swallowing of the sun is *"a raw substance dissolving and absorbing gold, the solar principle"* — at once operative (a solvent eating the noble metal) and spiritual (*"the raw life-force integrating the higher self,"* which is the Leo labour of [[Concepts/The Labors of Hercules]] in alchemical dress).
+> Read against the project's own figures the image is nearly a portrait. The **lion** is already [[Sir Lucius]] (Leo, the Nemean lion); **green** is already his color (the green apple is his mark 🗡🍏, the [[The Green Apple|unripe]] knowledge); and the **Sun** is the heart ([[SOL]]; and Sun = Tiphareth = the heart-center his socials also circle, see [[Concepts/Heart and Mind]]). So the Green Lion eating the Sun reads as **Lucius, the crude unripe force, dissolving the heart** — the *solve* run as pure consumption, the same *"chew you up, spit you out"* the Circus makes permanent, and the board's own *"Man devours God, God devours Man."* The engagement is grounded; the mapping onto Lucius is the reading. `[S]`
 
 ## The comedy of the descent
 
@@ -99,18 +99,18 @@ And [[Sir Lucius]] himself wears the trickster-surface of the externalized shado
 
 - **[[Sir Lucius]]** — the nigredo externalized; the blackened *prima materia* given a voice and a face. The central character connection: Lucius is the thing in the alembic that talks back.
 - **[[Brandon|Ballerina Boy]]** — the burial at seven; the first descent witnessed; the first nigredo event the whole arc rhymes with.
-- **[[The Circus]]** — perpetual, arrested nigredo; dissolution without transmutation; the danger of being *kept* in the dark.
+- **[[Concepts/The Circus]]** — perpetual, arrested nigredo; dissolution without transmutation; the danger of being *kept* in the dark.
 - **[[Weirdness]]** — the first turn toward light; the lone albedo track; the *your → my* pronoun integration.
 - **[[SOL]]** — possible rubedo, the gold if the work completes; held open.
-- **[[Consumption]]** — *"chew you up, spit you out"*: nigredo that doesn't complete; the inverted Eucharist (consumed, not transfigured); Jonah digested but not returned.
+- **[[Concepts/Consumption]]** — *"chew you up, spit you out"*: nigredo that doesn't complete; the inverted Eucharist (consumed, not transfigured); Jonah digested but not returned.
 - **[[Roy]]** — the alchemical subject; the one undergoing the Work.
 - **[[Lucius Lullaby (album)|Lucius Lullaby]]** — the sustained-nigredo album; the 35-year-old collapse anchored in the title track.
 - **[[Subject to Flooding|Subject to Flooding]]** — the other nigredo album; *"diagnosis, not cure"*; Flood-vs-Circus as opposite failure-modes.
-- **[[Keilim - The Breaking of the Vessels]]** — the same descent-and-repair shape in a different tradition (the Kabbalistic *shevirat ha-kelim*). Resonance, not influence.
+- **[[Concepts/Keilim - The Breaking of the Vessels]]** — the same descent-and-repair shape in a different tradition (the Kabbalistic *shevirat ha-kelim*). Resonance, not influence.
 - **[[Moths to the Flame]] / [[Happy Face]]** — fire and the Light-Bearer: burning the old world down, the true phoenix versus the moth's counterfeit deathlessness.
 - **[[Playing to the Gods]] / [[City of Angels]]** — the counterfeit-coagula seam (fixing without the Work).
 - **[[Hell of a Night Pt. 2 (The Hallelujah Stickup)|Hell Of A Night Pt. 2]]** — premature, over-heated rubedo.
-- **[[The Dweller on the Threshold]]** — the shadow-figure one must pass to cross; a sibling tradition-node.
+- **[[Concepts/The Dweller on the Threshold]]** — the shadow-figure one must pass to cross; a sibling tradition-node.
 
 > [!note]- Advanced reading — the traditions feeding the current
 > Roy has publicly named or posted the influences that ground this, which is what keeps it out of pure projection:
@@ -119,7 +119,7 @@ And [[Sir Lucius]] himself wears the trickster-surface of the externalized shado
 > - **Jung** — the psyche diagram Roy posted (2020), the quote *"the order of its being is crossed by chaos"* (2023), the *Collected Works* vol. 18 photographed (2026); chaos-as-generative and shadow-integration prefigure the nigredo→albedo movement exactly.
 > - **Dante's *Divine Comedy*** — descent-before-ascent, named.
 > - **Coelho's *The Alchemist*** — the alchemical-journey shelf, named.
-> - **Kabbalah** — [[Keilim - The Breaking of the Vessels]] (*shevirat ha-kelim*) as a parallel descent-and-repair; the *sefirot* the nigredo lifts *toward* (Tiferet, Yesod, Malkhut) routed as resonance, not spine.
+> - **Kabbalah** — [[Concepts/Keilim - The Breaking of the Vessels]] (*shevirat ha-kelim*) as a parallel descent-and-repair; the *sefirot* the nigredo lifts *toward* (Tiferet, Yesod, Malkhut) routed as resonance, not spine.
 > - **Christian / biblical descent** — Jonah in the whale (digested, not returned), the inverted Eucharist, *"the way to Heaven lies through Hell."*
 > - **Shared-tradition node, NOT influence** — Harry Potter's confirmed alchemy and its red(*Rubeus*)/white(*Albus*) coding sit on the *same* tradition shelf; the route is always tradition-to-both, never Potter-to-Jagwar Twin. (*"Black Magic Rainbow Circus"* as black→spectrum ≈ nigredo→the colors is an attractive bridge, but unconfirmed — there's no Roy-stated definition on file. Held loosely.)
 
@@ -154,8 +154,8 @@ A few threads the work hasn't tied off — held open rather than forced shut.
 ## Read next
 
 - [[Sir Lucius]] — the blackening given a name and a face.
-- [[The Circus]] — nigredo arrested; the dark that never turns.
+- [[Concepts/The Circus]] — nigredo arrested; the dark that never turns.
 - [[Weirdness]] — the lone turn toward light; the one-pronoun integration.
 - [[SOL]] — the possible gold on the far side, held open.
-- [[Keilim - The Breaking of the Vessels]] — the same descent-and-repair, in another tradition.
+- [[Concepts/Keilim - The Breaking of the Vessels]] — the same descent-and-repair, in another tradition.
 - [[Lucius Lullaby (album)|Lucius Lullaby]] — a whole album in the dark.

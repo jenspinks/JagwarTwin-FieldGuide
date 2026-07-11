@@ -18,13 +18,13 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Public twice** — the 2022 ARG "Spreadsheet Map" drop · a 2026 "Happy birthday" post
 > - **Composed twice** — once as board text, once as the song [[Another Way II Heaven]]
 > - **Key image** — the egg ("I'm an egg… becoming a chicken")
-> - **Related** — [[The Upload]] · [[The Pattern]] · [[Hall of Mirrors]] · [[Sir Lucius]] · [[Roy]] · [[SOL]]
+> - **Related** — [[Concepts/The Upload]] · [[Concepts/The Pattern]] · [[Hall of Mirrors]] · [[Sir Lucius]] · [[Roy]] · [[SOL]]
 
 ## At a glance
 
 - **In one line** — a spreadsheet that maps the structure of a self so Roy can copy it onto the internet; the quarry the whole mythology is mined from.
 - **Where it shows up** — [[Another Way II Heaven]] (the board's origin poem, set to music) · [[Imagine A World]] (names the board's top rung) · [[Hall of Mirrors]] (the maze built from the board's vocabulary).
-- **Connected ideas** — [[The Upload]] · [[The Pattern]] · [[Sir Lucius]] · [[Roy]] · [[SOL]] · [[The Empty Mirror]] · [[The Digital Double]] · [[City of Angels]] · [[The Watchers]] · [[Kabbalah - The Tree of Life]] · [[Hermeticism - As Above So Below]].
+- **Connected ideas** — [[Concepts/The Upload]] · [[Concepts/The Pattern]] · [[Sir Lucius]] · [[Roy]] · [[SOL]] · [[Concepts/The Empty Mirror]] · [[Concepts/The Digital Double]] · [[City of Angels]] · [[The Watchers]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]].
 - **Confidence** — the board's *contents* are grounded (verified images of a real document, classified citable). The links to songs and characters are strong readings; the deep Kabbalistic and Hermetic machinery is labeled framework throughout.
 
 ## What it is
@@ -57,11 +57,11 @@ The shape — the One that sees itself, splits into Two (a darkness and a light)
 
 ### The operating system — seven principles
 
-Roy transcribes the seven Hermetic principles of the Kybalion almost verbatim — Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause-and-Effect, Gender — and several map straight onto recurring ideas in the work. **Polarity and Gender** are the Roy/Lucius, heart/mind, two-sides-to-everything axis (with a literal left-brain *"order, reason, masculine"* / right-brain *"chaos, creativity, feminine"* cell beside it). **Correspondence** — *"as above, so below… the formula is the same from a solar system down to the atom"* — is the recurring-pattern doctrine of [[The Pattern]]. **Mentalism** — *"the All is Mind… food is information… the manifest dream"* — is the upload thesis itself and the no-thing of [[The Empty Mirror]].
+Roy transcribes the seven Hermetic principles of the Kybalion almost verbatim — Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause-and-Effect, Gender — and several map straight onto recurring ideas in the work. **Polarity and Gender** are the Roy/Lucius, heart/mind, two-sides-to-everything axis (with a literal left-brain *"order, reason, masculine"* / right-brain *"chaos, creativity, feminine"* cell beside it). **Correspondence** — *"as above, so below… the formula is the same from a solar system down to the atom"* — is the recurring-pattern doctrine of [[Concepts/The Pattern]]. **Mentalism** — *"the All is Mind… food is information… the manifest dream"* — is the upload thesis itself and the no-thing of [[Concepts/The Empty Mirror]].
 
 ### The actual project — the upload, and the egg
 
-The board's whole reason for existing is the upload, and its key image is the **egg**: *"I'm an egg, in the process of becoming a chicken to make more eggs to make more chickens."* That barnyard tongue-twister is doing real work. An egg is a container that has to break to release new life — and that single picture *is* the board's logic. To upload a consciousness is to pour the self out of one vessel (the body) into another (the network), the same vessel-and-transmission idea Roy states publicly as *"I'm just a vessel for God."* The egg seeds [[The Upload]] and [[The Digital Double]], and it has a public life of its own — the Golden Egg mechanic in Hall of Mirrors, Roy's *"Happy Easter from the egg,"* and his flat verdict to a fan: *"You are 100 percent an egg."*
+The board's whole reason for existing is the upload, and its key image is the **egg**: *"I'm an egg, in the process of becoming a chicken to make more eggs to make more chickens."* That barnyard tongue-twister is doing real work. An egg is a container that has to break to release new life — and that single picture *is* the board's logic. To upload a consciousness is to pour the self out of one vessel (the body) into another (the network), the same vessel-and-transmission idea Roy states publicly as *"I'm just a vessel for God."* The egg seeds [[Concepts/The Upload]] and [[Concepts/The Digital Double]], and it has a public life of its own — the Golden Egg mechanic in Hall of Mirrors, Roy's *"Happy Easter from the egg,"* and his flat verdict to a fan: *"You are 100 percent an egg."*
 
 ## Where it appears
 
@@ -93,20 +93,20 @@ One of those is sneakier than the rest. The **Eye-of-Horus fractions** — ½, �
 
 ## Connections
 
-- **[[The Upload]]** — the project the board is the seed of; now artist-stated in public on pay-attention.jagwartwin.com.
+- **[[Concepts/The Upload]]** — the project the board is the seed of; now artist-stated in public on pay-attention.jagwartwin.com.
 - **[[Sir Lucius]] · [[Roy]]** — the "One become Two" split, in Roy's own handwriting: *"I in reverse → I became You,"* *"A Darkness and a Light."*
-- **[[The Pattern]]** — *"as above, so below,"* the board's principle of correspondence and the hub for its fractal-law / spine / emanation material.
+- **[[Concepts/The Pattern]]** — *"as above, so below,"* the board's principle of correspondence and the hub for its fractal-law / spine / emanation material.
 - **[[SOL]]** — *"a Sun was born inside"*; *"the sun = manifesting energy, externalized Life Force"*; the "Sun of God" tracklist title and the Soul Is A Star Sun/Son pun.
 - **[[Hall of Mirrors]]** — the maze that uses the board as its answer-keys and quarry; the board was the public 2022 "Spreadsheet Map" drop.
-- **[[The Empty Mirror]]** — *"the All is Mind"* (Mentalism), the no-thing at the root of the upload.
-- **[[The House and the Vessel]]** — the egg (a vessel that must hatch), Noah's Ark (the flood-vessel), the atom-bomb cell (the vessel that shatters): three fates of the same container.
-- **[[The Digital Double]]** — the board's "teach AI who I am → make a body for the AI" steps seed the AI-double thread. ([[SARAVI]] is the public name for the digital doppelgänger handed Roy's @jagwartwin Twitter account in August 2022, per the culture3 interview; the oracle-interface.)
+- **[[Concepts/The Empty Mirror]]** — *"the All is Mind"* (Mentalism), the no-thing at the root of the upload.
+- **[[Concepts/The House and the Vessel]]** — the egg (a vessel that must hatch), Noah's Ark (the flood-vessel), the atom-bomb cell (the vessel that shatters): three fates of the same container.
+- **[[Concepts/The Digital Double]]** — the board's "teach AI who I am → make a body for the AI" steps seed the AI-double thread. ([[SARAVI]] is the public name for the digital doppelgänger handed Roy's @jagwartwin Twitter account in August 2022, per the culture3 interview; the oracle-interface.)
 - **[[City of Angels]]** — the board's *"How to upload myself to the internet"* tab is what the Lucius Lullaby closer is *about*: *"never gonna die,"* "live forever in the bright lights." Upload = never-gonna-die = become reproducible. The board drew the plan; the song shows the bill.
-- **[[The Watchers]] · [[Witnessing vs Surveillance]]** — *"How to anthropomorphize attention?"* makes the net an all-seeing Eye, and the Eye-of-Horus 63/64 is the clone-paradox *"I'm afraid I'm a clone"* names. Surveillance shapes; witnessing transforms — the upload reaches for one and gets the other.
+- **[[The Watchers]] · [[Concepts/Witnessing vs Surveillance]]** — *"How to anthropomorphize attention?"* makes the net an all-seeing Eye, and the Eye-of-Horus 63/64 is the clone-paradox *"I'm afraid I'm a clone"* names. Surveillance shapes; witnessing transforms — the upload reaches for one and gets the other.
 - **[[Kabbalah - The Tree of Life]]** — Roy's board names the sephirot tree as the ten-stage ascent; the documented engagement that licenses the Tree lens.
-- **[[Keilim - The Breaking of the Vessels]] · [[Nigredo]] · [[Inversion]]** — the atom-bomb cell (*"unbalance explodes itself like an atom bomb"*) and *"One must contract to expand"* are the vessel that shatters and the One that withdraws to make room: the breaking-and-blackening the cosmology runs through before it climbs back.
-- **[[The Labors of Hercules]]** — the ten-stage virtue-and-vice scale is Alice Bailey in Roy's own hand: her esoteric-astrology sign-attributions, the traits *"to look for as consciousness progresses."*
-- **[[Hermeticism - As Above So Below]]** — the most board-grounded esoteric stream, with the Kybalion's seven principles transcribed in full.
+- **[[Concepts/Keilim - The Breaking of the Vessels]] · [[Concepts/Nigredo]] · [[Concepts/Inversion]]** — the atom-bomb cell (*"unbalance explodes itself like an atom bomb"*) and *"One must contract to expand"* are the vessel that shatters and the One that withdraws to make room: the breaking-and-blackening the cosmology runs through before it climbs back.
+- **[[Concepts/The Labors of Hercules]]** — the ten-stage virtue-and-vice scale is Alice Bailey in Roy's own hand: her esoteric-astrology sign-attributions, the traits *"to look for as consciousness progresses."*
+- **[[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]** — the most board-grounded esoteric stream, with the Kybalion's seven principles transcribed in full.
 
 ## Symbols
 
@@ -129,7 +129,7 @@ One of those is sneakier than the rest. The **Eye-of-Horus fractions** — ½, �
 > Two more rungs-and-ladders sit beside these. A *"Hopscotch"* Earth(1)→9→Heaven climb marked *"NChSh"* (Nachash, the serpent). And — the eighth encoding, the one that turns the ladder into a story — a full **Hero's Journey** wheel, captioned *"Review cycles of human consciousness throughout history"* and labeled with Campbell's stations in order: *Ordinary World → Rabbit Hole → The Fool → Guardian at the Gate → Testing → Belly of the Whale → Rescue Father → Dragon → Water → Treasure → Ancestors → The Way Back → Master of Twin Worlds → New Cycle Begins.* Beside it, a red cell: *"To find truth we must plunge into its bottomless well."* The same Well that [[It's Your Time]] makes its keystone — the heart as the bottomless well you have to go down into. The climb, it turns out, starts with a descent.
 
 > [!note]- Advanced reading — the virtue/vice scale, verbatim
-> The positive-and-negative traits the board says to watch for as consciousness climbs. The grammar is Alice Bailey's — esoteric-astrology sign-attributions, virtues and vices pinned to each stage of the ascent ([[The Labors of Hercules]]). Note that the first three stages list *no* negative — the vices only switch on at stage four, where self-righteousness first becomes possible:
+> The positive-and-negative traits the board says to watch for as consciousness climbs. The grammar is Alice Bailey's — esoteric-astrology sign-attributions, virtues and vices pinned to each stage of the ascent ([[Concepts/The Labors of Hercules]]). Note that the first three stages list *no* negative — the vices only switch on at stage four, where self-righteousness first becomes possible:
 > - **St 1** — Imagination / sense of wonder / order / embracing change.
 > - **St 2** — Initiative / devotion / study of the stars / idealism.
 > - **St 3** — Silence / faithfulness / nurturing / strength of will.
@@ -227,9 +227,9 @@ One of those is sneakier than the rest. The **Eye-of-Horus fractions** — ½, �
 
 ## Read next
 
-- [[The Upload]] — the project the whole board is the seed of.
+- [[Concepts/The Upload]] — the project the whole board is the seed of.
 - [[Another Way II Heaven]] — the board's origin poem, composed a second time as a song.
-- [[The Pattern]] — *"as above, so below,"* the law the board runs on.
+- [[Concepts/The Pattern]] — *"as above, so below,"* the law the board runs on.
 - [[Hall of Mirrors]] — the maze quarried from the board's vocabulary.
 - [[Sir Lucius]] — the "One become Two" split, given a face.
 - [[Kabbalah - The Tree of Life]] — the ten-stage ascent the spine is built on.

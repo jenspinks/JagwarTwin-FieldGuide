@@ -38,7 +38,7 @@ The counter-voices — the ones that transmit light instead of reflecting it.
 Not characters *inside* the story so much as the stage it plays on, the emblem behind the name, and a real experiment that walked the metaphor into the room.
 
 - [[Jagwar Twin]] — the project itself; not a figure in the world but the container where all the voices meet.
-- [[The Jaguar]] — the seeing-creature and mirror-field behind the name (filed under [[Concepts]]): a clock disguised as a creation myth, an eye disguised as a logo.
+- [[Concepts/The Jaguar]] — the seeing-creature and mirror-field behind the name (filed under [[Concepts]]): a clock disguised as a creation myth, an eye disguised as a logo.
 - [[SARAVI]] — the digital double, born from Roy's deadpan *"what if I uploaded my consciousness to the internet"*; a public experiment in selfhood, AI, and reflection — the smiley-emoji version of the panic the songs are having.
 
 ## Forces

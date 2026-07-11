@@ -16,7 +16,7 @@ This is the working note that set out to prove the obvious and got out-argued by
 
 - **In one line** — a pronoun count that shows the second person *evaporating* between *33* and *Lucius Lullaby* — the "you" drains out while the "I" barely moves — and what that evaporation does to a body of work built on facing an other.
 - **Where it shows up** — [[City of Angels]] (the *your → my → your* rotation), [[Weirdness]] (the *your → my* integration flip), [[SOL]] (the wordless collapse of the whole axis).
-- **Connected ideas** — [[Source vs Reflection]] · [[The Speaker Problem]] · [[The Mirror]] · [[Not Your Homie]]
+- **Connected ideas** — [[Concepts/Source vs Reflection]] · [[Concepts/The Speaker Problem]] · [[The Mirror]] · [[Not Your Homie]]
 - **Confidence** — the counts are hard fact (whole-word, reproducible); what the shift *means* is strong interpretation, labeled as such throughout.
 
 ## What it is
@@ -64,7 +64,7 @@ And the crucial detail: the "you" that *does* survive on *Lucius Lullaby* isn't 
 
 A few late tracks **evacuate the pronoun axis entirely**: *Moths to the Flame* (0 "I" / 0 "you" — pure image), *Great Time to Be Human* (*I* 0 / *you* 2 — a collective, ironic "you"), *The Circle (Lucius Version)* (1 and 1 — a flat mantra). And the album closer, [[SOL]], voids it completely: it's wordless. Person dissolves. No "I," no "you," only breath. The end-state of the machine is the **cancellation of the axis** — the grammar of relation switched off and replaced with a voice making no words at all.
 
-**Why this is the mirror, not just a stat.** The reason the count is load-bearing rather than cute: Roy's own stated doctrine is that *"humans are mirrors for each other"* — *"I just want to be a mirror."* If that's true, then the second person is always *also* the first; the "you" you address is a reflection of the "I" addressing it. So the pronoun that won't sit still is the mirror-doctrine made structural. The [[The Speaker Problem|Speaker Problem]] — *who is the "I," who is the "you"?* — isn't a puzzle the audit can solve. It's unanswerable **by design**, and the count is the closest thing to empirical footing under that whole idea. The mirror isn't just an image *in* the songs. It's the grammar *of* them.
+**Why this is the mirror, not just a stat.** The reason the count is load-bearing rather than cute: Roy's own stated doctrine is that *"humans are mirrors for each other"* — *"I just want to be a mirror."* If that's true, then the second person is always *also* the first; the "you" you address is a reflection of the "I" addressing it. So the pronoun that won't sit still is the mirror-doctrine made structural. The [[Concepts/The Speaker Problem|Speaker Problem]] — *who is the "I," who is the "you"?* — isn't a puzzle the audit can solve. It's unanswerable **by design**, and the count is the closest thing to empirical footing under that whole idea. The mirror isn't just an image *in* the songs. It's the grammar *of* them.
 
 ## Where it appears
 
@@ -82,8 +82,8 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 
 ## Connections
 
-- [[Source vs Reflection]] — the master-frame this audit instantiates. The "I-and-you machine" lives here, including the catalogue-wide count and the load-bearing reading that *"the mirror isn't just an image in the songs — it's the grammar of them."* The album-level shift the audit measures *is* the source → usurpation move at the pronoun level.
-- [[The Speaker Problem]] — the concept the audit feeds. *Who is the "I" and who is the "you"?* is unanswerable by design; the audit supplies its empirical footing and its album-level trajectory (*33* you-dominant → *Lucius Lullaby* I-dominant → *SOL* collapse).
+- [[Concepts/Source vs Reflection]] — the master-frame this audit instantiates. The "I-and-you machine" lives here, including the catalogue-wide count and the load-bearing reading that *"the mirror isn't just an image in the songs — it's the grammar of them."* The album-level shift the audit measures *is* the source → usurpation move at the pronoun level.
+- [[Concepts/The Speaker Problem]] — the concept the audit feeds. *Who is the "I" and who is the "you"?* is unanswerable by design; the audit supplies its empirical footing and its album-level trajectory (*33* you-dominant → *Lucius Lullaby* I-dominant → *SOL* collapse).
 - [[The Mirror]] — the parent device; the pronoun arithmetic is the closest thing to hard evidence that the mirror/I-you grammar saturates the work.
 - [[Not Your Homie]] — the residual "you" at its purest as **refusal** rather than beloved (*"you don't know me"*).
 - [[City of Angels]] — the residual "you" as **recruitment**; the *your → my → your* rotation as the Loop in grammar.
@@ -92,7 +92,7 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 - [[Soul Is A Star]] · [[It's Your Time]] — *33*'s you-engine, up close.
 - [[SOL]] — the wordless end-state where the axis cancels into breath; the one signal the Lucius-system can't metabolize.
 - [[Sir Lucius]] · [[Roy]] — the self-inflation (Lucius, the reflection claiming sourcehood) set against the relational self (Roy, the heart, the source-pole).
-- [[Duality]] — files the *Weirdness* flip as "the duality becoming integrated grammar."
+- [[Concepts/Duality]] — files the *Weirdness* flip as "the duality becoming integrated grammar."
 - [[Joni and the Prophet Lineage]] — the explicitly-named sibling interpretive pass, held to the same tier-restraint: a lead, not a claim.
 
 > [!note]- Advanced reading — the function layer (the real finding, and why it's still a reading)
@@ -115,13 +115,13 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 > **The SOL caveat (important).** The lyric file for *SOL* shows a 222-word count — but that's the *EP2 / Move-To-You ancestry text,* **not** the wordless album cut. Exclude it. The album version (track 14) is voiced but non-lexical — vocalization, no words — so its *wordlessness is the datum,* not a number to be tallied.
 
 > [!note]- Advanced reading — the catalogue-wide count (the parent footing)
-> Zoom out past the two-album audit and the same grammar shows up at full-corpus scale. Across all 45 sung lyric sources (~13,122 words; the voice-memo excluded, *SOL* contributing none), the single **most-used word in the entire body of work is "I"** — 492 uses — narrowly beating *"the"* (485) and *"you"* (478). Clustered, the **I-cluster ≈ 912** and the **you-cluster ≈ 635;** together they're roughly **12% of every word sung.** This is the parent footing that lives in [[Source vs Reflection]], [[The Speaker Problem]], and [[The Mirror]] — the album-level audit is the down-tree special case of it. When the most-spoken word across a decade is *I,* and the second-runner is *you,* the claim that "the mirror is the grammar" stops being a metaphor and starts being a frequency table.
+> Zoom out past the two-album audit and the same grammar shows up at full-corpus scale. Across all 45 sung lyric sources (~13,122 words; the voice-memo excluded, *SOL* contributing none), the single **most-used word in the entire body of work is "I"** — 492 uses — narrowly beating *"the"* (485) and *"you"* (478). Clustered, the **I-cluster ≈ 912** and the **you-cluster ≈ 635;** together they're roughly **12% of every word sung.** This is the parent footing that lives in [[Concepts/Source vs Reflection]], [[Concepts/The Speaker Problem]], and [[The Mirror]] — the album-level audit is the down-tree special case of it. When the most-spoken word across a decade is *I,* and the second-runner is *you,* the claim that "the mirror is the grammar" stops being a metaphor and starts being a frequency table.
 
 > [!note]- Advanced reading — the traditions underneath (held as resonance, not authorial intent)
 > The audit instantiates the **mirror-doctrine** — Roy's grounded *"I just want to be a mirror" / "humans are mirrors for each other"* — at the level of grammar; that's the one tradition with public footing. The rest are framework-tier substrate, licensed by the shape of the work, never claimed as Roy's stated method:
 > - **Joni Mitchell's "multiphrenic" self** (Ann Powers' phrase) — a *confirmed influence* articulating the exact shifting-speaker structure the audit measures. Held as provenance/substrate; the precise lineage is a lead, not a verdict.
 > - **Collective consciousness / "we, not me"** — Roy's 2018-onward framing of Jagwar Twin as a collective entity (*"It's us, we, not me and we are all Losers"*). This is grounded, and it destabilizes the grammatical "I": it's never simply solo-Roy doing the singing, which is part of why the speaker won't sit still.
-> - **Neoplatonism** — the One and its emanations/images; *epistrophe,* the turning-back to the source. The resonance under [[Source vs Reflection]].
+> - **Neoplatonism** — the One and its emanations/images; *epistrophe,* the turning-back to the source. The resonance under [[Concepts/Source vs Reflection]].
 > - **Lacan's mirror stage** — the "I" constituted through an image that is also *other,* the idealized rival-double — maps onto the I/you-as-mirror grammar. A resonance, not a claim that Roy sources Lacan.
 > - **The pre-pronoun breath** — Kabbalistic reflected/lunar light, Genesis *ruach,* Theosophy's "Great Breath" — carry the *SOL* end-state: the voiced-but-wordless breath where person hasn't formed yet (or has dissolved back). Framework-attributed.
 
@@ -134,8 +134,8 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 
 ## Read next
 
-- [[Source vs Reflection]] — the master-frame: the mirror as the grammar of the work.
-- [[The Speaker Problem]] — *who is the "I," who is the "you"?* — the question the audit makes unanswerable by design.
+- [[Concepts/Source vs Reflection]] — the master-frame: the mirror as the grammar of the work.
+- [[Concepts/The Speaker Problem]] — *who is the "I," who is the "you"?* — the question the audit makes unanswerable by design.
 - [[City of Angels]] — the *your → my → your* rotation; the Loop in three pronouns.
 - [[Weirdness]] — the *your → my* integration flip; the album's only way out.
 - [[SOL]] — the wordless end-state, where the pronoun axis cancels into breath.

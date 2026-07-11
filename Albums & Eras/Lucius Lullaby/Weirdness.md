@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 Here is one of the catalogue's quiet miracles: a song about being too strange to belong that turns out to be co-written with **Sia** — one of the biggest names in pop — and born, per Roy, from a real thing Sia actually said to him when he was low. The line that opens the whole album's one bright track came in as a gift from a friend. It is exactly the sort of receipt that makes the myth feel less like a costume and more like a diary.
 
-> 🚪 *One bright song on a whole dark album reads less like an accident and more like a recipe: the old alchemists said you go black before you go gold. The rest of the record seems to be [[Nigredo|the blackening]], and the open question is whether the Circus ever lets it turn.*
+> 🚪 *One bright song on a whole dark album reads less like an accident and more like a recipe: the old alchemists said you go black before you go gold. The rest of the record seems to be [[Concepts/Nigredo|the blackening]], and the open question is whether the Circus ever lets it turn.*
 
 ## At a glance
 
@@ -61,7 +61,7 @@ A few claims that cut across the whole song.
 
 **The freedom was always there.** Because *both* choruses say the head is *"off its string,"* the song is not a journey from being controlled to being free. It's a journey from **not knowing the freedom was yours to knowing it.** The string — the control system, the algorithm, the audience-dependency — was never really the puppet-master it claimed to be. (It plays against [[The Circle]]'s *"a world tied on a string"*: same image, opposite verdict.)
 
-**And the biggest one — for the whole arc:** if Lucius says *"I'm your weirdness,"* and *"your weirdness is the sunshine,"* then [[Sir Lucius|Lucius]] is not the *absence* of light. He's **distorted light** — the split-off radiance of the buried child, running under the wrong orientation, reflected outward as spectacle and control instead of transmitted as love. That reframes the endgame of the entire project. Integration can't be won by *defeating* Lucius, and it isn't won by *becoming* or *surrendering* to him either. Roy has to **reclaim what Lucius has been holding.** Not *your* weirdness — *my* weirdness. The light comes home. (This is developed in full under [[The Light-Bearer]].)
+**And the biggest one — for the whole arc:** if Lucius says *"I'm your weirdness,"* and *"your weirdness is the sunshine,"* then [[Sir Lucius|Lucius]] is not the *absence* of light. He's **distorted light** — the split-off radiance of the buried child, running under the wrong orientation, reflected outward as spectacle and control instead of transmitted as love. That reframes the endgame of the entire project. Integration can't be won by *defeating* Lucius, and it isn't won by *becoming* or *surrendering* to him either. Roy has to **reclaim what Lucius has been holding.** Not *your* weirdness — *my* weirdness. The light comes home. (This is developed in full under [[Concepts/The Light-Bearer]].)
 
 ## Characters
 
@@ -98,7 +98,7 @@ A few claims that cut across the whole song.
 - **[[Lucius Lullaby]]** (title track) — shares the suicidal floor-register with Weirdness's pre-chorus, and stages the counterfeit: its *"set you free / magic mirror"* savior-voice is Lucius *impersonating* the Mary-function — which is exactly what sharpens the **real** faceless-Mary here.
 
 > [!note]- Advanced reading — the album's single point of light (nigredo → albedo)
-> On the phase-map, Weirdness is the album's **one exception.** Thirteen of *Lucius Lullaby*'s fourteen distinct tracks read as [[Nigredo|nigredo]] — a sustained blackening — and Weirdness is the sole track that turns toward **albedo**, first light, return, the crossing. The album is, on this reading, "a sustained blackening with one late turn": #1 Champion (8) is the first crack; Weirdness (13) is the first successful crossing; SOL (14) the wordless destination; the acoustic *Bad Feeling* (15) loops back to Lucius. Two honest caveats travel with this: it's *one* upbeat track carrying a lot of interpretive weight, and the plainer reading (below) is genuinely available.
+> On the phase-map, Weirdness is the album's **one exception.** Thirteen of *Lucius Lullaby*'s fourteen distinct tracks read as [[Concepts/Nigredo|nigredo]] — a sustained blackening — and Weirdness is the sole track that turns toward **albedo**, first light, return, the crossing. The album is, on this reading, "a sustained blackening with one late turn": #1 Champion (8) is the first crack; Weirdness (13) is the first successful crossing; SOL (14) the wordless destination; the acoustic *Bad Feeling* (15) loops back to Lucius. Two honest caveats travel with this: it's *one* upbeat track carrying a lot of interpretive weight, and the plainer reading (below) is genuinely available.
 
 > [!note]- Advanced reading — alchemy, Jung, Gnosis, and the Tree of Life
 > Four attributed correspondences, none of them a claim about stated intent — but all coherent with the material and with authors Roy names publicly (Jung, Kierkegaard, Watts).
@@ -107,7 +107,7 @@ A few claims that cut across the whole song.
 >
 > **Jungian (individuation / shadow).** Roy exiled his strangeness early; it became the raw material Lucius was built to protect. Integration *recognizes what the shadow was carrying* rather than destroying it — which is why the song ends on ownership, not erasure. The shadow isn't defeated. It's known.
 >
-> **Gnostic.** The conformity-machine is an illusion that teaches the soul to forget itself; inside it the strange person looks defective, but from above the strangeness is the divine spark showing through the cracks. The faceless angel resembles **Sophia** — and her message gives no *new* information; it cancels the false information that was suppressing the real. That's the structure of *gnosis*: not addition, but the lifting of a lie. (A family resemblance to Mary / Shekhinah, **not** an equation — the three shouldn't collapse into one.) See [[Gnosticism - The World as Trap]].
+> **Gnostic.** The conformity-machine is an illusion that teaches the soul to forget itself; inside it the strange person looks defective, but from above the strangeness is the divine spark showing through the cracks. The faceless angel resembles **Sophia** — and her message gives no *new* information; it cancels the false information that was suppressing the real. That's the structure of *gnosis*: not addition, but the lifting of a lie. (A family resemblance to Mary / Shekhinah, **not** an equation — the three shouldn't collapse into one.) See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].
 >
 > **Kabbalistic.** [[Sir Lucius|Lucius]] works the **Yesod** register (lunar, reflective, audience-dependent); [[Ballerina Boy]] lives between Malkhut and Yesod. Weirdness orients toward **Tiferet**, the solar heart-center — every keyword (*sunshine, shine, light, born to*) is solar. Not Tiferet *achieved*: the *first genuine solar movement* after a long lunar passage. Reflected weirdness → owned weirdness → the beginning of solar weirdness. See [[Kabbalah - The Tree of Life]].
 
@@ -115,7 +115,7 @@ A few claims that cut across the whole song.
 > A [[Letters of Creation|tradition-correspondence]] (Abulafia / niqqud), explicitly **not** presented as Roy's stated method: vowels = the living breath, activation, spirit; consonants = dead, fixed structure. Weirdness is the *vowel* — the breath that refuses to be flattened. The algorithm wants repeatability, categorization, compression, a marketable identity — and weirdness resists every one of those *because it is alive.* The uncategorizable part of you may be your divine signature: the exact inverse of the [[Not Your Homie]] bargain (*"it doesn't mean anything"*). This belongs in the reader's toolkit as attributed framework only — never as authorial intent.
 
 > [!note]- Advanced reading — the pronoun that won't sit still (the Speaker Problem)
-> Weirdness's *your → my* is one instance of a catalogue-wide device: a [[The Speaker Problem|deliberately unfixable second person]] (also in [[LOOP]], Bad Feeling, [[Bounce]], [[Ballerina Boy]]). The pronoun that keeps sliding enacts, at the level of grammar, the grounded doctrine that *humans are mirrors for each other* — and it's why the outro's reversion to *"your"* refuses to settle into a single meaning. (See [[Duality]] for the pronoun-shift as integrated grammar.)
+> Weirdness's *your → my* is one instance of a catalogue-wide device: a [[Concepts/The Speaker Problem|deliberately unfixable second person]] (also in [[LOOP]], Bad Feeling, [[Bounce]], [[Ballerina Boy]]). The pronoun that keeps sliding enacts, at the level of grammar, the grounded doctrine that *humans are mirrors for each other* — and it's why the outro's reversion to *"your"* refuses to settle into a single meaning. (See [[Concepts/Duality]] for the pronoun-shift as integrated grammar.)
 
 > [!note]- Advanced reading — the dedication that became a benediction
 > A direction-of-travel finding on the faceless feminine. In 2018 Roy dedicates songs **to** the faceless — they *receive* care (*"this one's for the faceless,"* Long Time Coming). By 2025–26 the faceless one **gives** the blessing (the [[Ballerina Boy]] outro, Weirdness, *[[No. 1 Champion (la Conquistadora)]]*). The dedication returns as benediction: object-of-care becomes source-of-care. Best held as a *function* swap, not a literal identity — don't over-personify it.
@@ -240,4 +240,4 @@ Ooh (Ba ba ba ba)
 - [[Ballerina Boy]] — the wound this song begins to heal.
 - [[Mary]] — the one frequency Lucius's system can't absorb; here, faceless.
 - [[Lucius Lullaby (album)|Lucius Lullaby]] — the album's single point of light, in context.
-- [[The Light-Bearer]] — the full case for the light that came home distorted.
+- [[Concepts/The Light-Bearer]] — the full case for the light that came home distorted.

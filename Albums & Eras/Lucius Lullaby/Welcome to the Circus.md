@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Full lyrics:** [Genius](https://genius.com) · streaming
 > **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=BouRN2QuXV8)
 
-This is the title card of the 2026 album. By track 4 the problem has been named and the mechanism described: the [[The Circus|Circus]] is up, the ringmaster is speaking, and the listener can no longer claim not to have been warned. A chirpy carnival barker delivering cannibalism — menace performed as fun — it is the confession that makes the rest of the record possible.
+This is the title card of the 2026 album. By track 4 the problem has been named and the mechanism described: the [[Concepts/The Circus|Circus]] is up, the ringmaster is speaking, and the listener can no longer claim not to have been warned. A chirpy carnival barker delivering cannibalism — menace performed as fun — it is the confession that makes the rest of the record possible.
 
 And here is the fact that outruns all the interpretation: as the single actually broke out, Roy watched an algorithmic hit that [[Sir Lucius|Lucius]] had forced on him climb the charts while his own tender song stayed buried — and conceded, in his own voice, *"I guess Lucius was right again."* The song about being consumed by the machine got consumed *by* the machine, in his favor, and he said so out loud. Everything else on this page is downstream of that.
 
@@ -27,7 +27,7 @@ And here is the fact that outruns all the interpretation: as the single actually
 - **Era / release** — *Lucius Lullaby* (2026), track 4 of 15; issued as a single January 16, 2026, with a YouTube visualizer the same day. First previewed narratively in [[The Interview]] EP 3.
 - **In one line** — the ringmaster's anthem, sung from *inside* the tent: participate, but don't testify.
 - **Who speaks** — [[Sir Lucius]] as ringmaster (the "I"). [[Roy]] supplies the body and the voice — credited here as the human "Roy English," not the *character* ROY, a small exception worth noting. [[Mary]] and [[Ballerina Boy]] are pointedly **absent**. The Crowd is addressed constantly and answers only in noise.
-- **Key symbols** — [[The Circus]] · [[The Circle]] · [[The Mask]] · [[The Mirror]] · [[The Mouth]] · [[The Algorithm]] · [[The Labyrinth]] · [[Consumption]]
+- **Key symbols** — [[Concepts/The Circus]] · [[The Circle]] · [[The Mask]] · [[The Mirror]] · [[Concepts/The Mouth]] · [[Concepts/The Algorithm]] · [[Concepts/The Labyrinth]] · [[Concepts/Consumption]]
 
 ## The song, mapped
 
@@ -79,17 +79,17 @@ It also sharpens the album's biggest open question. Is Lucius *protecting* Roy, 
 
 ## Symbols
 
-- [[The Circus]] — named outright; the spectacle machine / attention economy / industrialized performance at scale. Crucially an *installed interior* (*"all in my brain"*), not merely an external venue.
+- [[Concepts/The Circus]] — named outright; the spectacle machine / attention economy / industrialized performance at scale. Crucially an *installed interior* (*"all in my brain"*), not merely an external venue.
 - [[The Circle]] — inverted here into a *"ring of fire,"* the hoop the performer jumps through: same circular motion as the homeward Circle, opposite direction and opposite outcome.
 - [[The Mask]] — Lucius's jester face paint (white face, black X crosses on the cheeks); the optimized [[Happy Face]], *"in style"* because the mask sells.
 - [[The Mirror]] — the Circus as a hall of distorted images at industrial scale; the inversion you can't detect from the surface. The Lucius signature.
-- [[The Mouth]] — teeth falling, the silent scream, "shut your mouth," "chew you up": the speech mechanism compromised inside the spectacle.
-- [[The Algorithm]] — confessed as the song's true author in EP 3 (*"the algorithm, baby"*).
-- [[The Labyrinth]] — *"no exit sign in my maze"*: the maze with the guiding [[The Thread|thread]] cut. (The 2026 live card escalates it to a sigil reading *"you are the maze."*)
+- [[Concepts/The Mouth]] — teeth falling, the silent scream, "shut your mouth," "chew you up": the speech mechanism compromised inside the spectacle.
+- [[Concepts/The Algorithm]] — confessed as the song's true author in EP 3 (*"the algorithm, baby"*).
+- [[Concepts/The Labyrinth]] — *"no exit sign in my maze"*: the maze with the guiding [[The Thread|thread]] cut. (The 2026 live card escalates it to a sigil reading *"you are the maze."*)
 - [[Fire]] — the *"ring of fire"* as a burning perimeter; the refining fire turned into a wall.
 - [[The Wheel]] — *"spinning you 'round and 'round,"* the Circle at its most mechanical: motion without consciousness, return without arrival.
 - [[The Banana]] — Lucius's trigger-prop; he cues the manufactured hit off a banana from the altar bowl (as he did *Not Your Homie* off a browning banana in EP 2). The hijacked offering.
-- [[Consumption]] — *"chew you up, spit you out"*; the Circus as digestive tract.
+- [[Concepts/Consumption]] — *"chew you up, spit you out"*; the Circus as digestive tract.
 
 ## Connected songs
 
@@ -116,21 +116,21 @@ It also sharpens the album's biggest open question. Is Lucius *protecting* Roy, 
 > [!note]- Advanced reading — the shadow weaponized, the digestive system, the demiurge signature
 > *"I'm juggling your darkest thoughts"* names Lucius's shadow-processing function — metabolizing what the conscious self can't face. In the integrated register that work is **protective**; here it's weaponized as entertainment, the shadow juggled for applause.
 >
-> *"Chew you up, spit you out"* frames the Circus as [[Consumption|a digestive system]] — you don't pass *through* a container, you are *processed* by an organism. The performer is food.
+> *"Chew you up, spit you out"* frames the Circus as [[Concepts/Consumption|a digestive system]] — you don't pass *through* a container, you are *processed* by an organism. The performer is food.
 >
 > *"I'm the final boss"* (with the EP 5 speech's *"I understand the game"*) carries the **demiurge signature**: the figure who claims to have seen through the system and therefore holds the authority to rebuild it — not knowing that his authority is itself a feature of the system. The voice that says *"I understand"* from inside the machine is the one most trapped by it.
 
 > [!note]- Advanced reading — the theological and mythological inversions *(esoteric; syncretic framework, not stated intent)*
-> The song runs Christ-speech **form** with predatory **content**. *"Step right up"* inverts *"come unto me"*; *"chew you up / spit you out"* inverts *"this is my body / take, eat."* Same liturgical shape, opposite metaphysics — the [[The Circus#Where it comes from (bread and circuses)|panem-et-circenses]] point made literal, since the Roman circus was the actual site where witnesses were consumed for a crowd's entertainment.
+> The song runs Christ-speech **form** with predatory **content**. *"Step right up"* inverts *"come unto me"*; *"chew you up / spit you out"* inverts *"this is my body / take, eat."* Same liturgical shape, opposite metaphysics — the [[Concepts/The Circus#Where it comes from (bread and circuses)|panem-et-circenses]] point made literal, since the Roman circus was the actual site where witnesses were consumed for a crowd's entertainment.
 >
-> Mythologically: Theseus in the labyrinth **without Ariadne's [[The Thread|thread]]** (*"no exit sign in my maze"* = the thread severed); Jonah **inverted** (consumed and *discarded* rather than consumed and *transformed*). *"Everything's upside down"* reads as the [[Hermeticism - As Above So Below|Hermetic "as above, so below"]] broken into *as below, so above* — matter treated as supreme.
+> Mythologically: Theseus in the labyrinth **without Ariadne's [[The Thread|thread]]** (*"no exit sign in my maze"* = the thread severed); Jonah **inverted** (consumed and *discarded* rather than consumed and *transformed*). *"Everything's upside down"* reads as the [[Concepts/The Sacred Truths/Hermeticism - As Above So Below|Hermetic "as above, so below"]] broken into *as below, so above* — matter treated as supreme.
 >
 > These are harmonics the tradition permits. They are not claims about what Roy set out to encode.
 
 > [!note]- Advanced reading — the Hercules/Leo layer and the Kabbalistic placement *(strong reading / framework)*
-> **Leo / the Nemean Lion.** Welcome to the Circus reads as the lion *ravaging the countryside* — the coordinated, dominant personality — *before* the hero confronts it in the two-mouthed cave. [[Not Your Homie]] (track 11) then names the trial as available (*"if you choose to tame The Beast… a champion"*). Anchored at [[The Labors of Hercules]]; a strong read, not confirmed intent.
+> **Leo / the Nemean Lion.** Welcome to the Circus reads as the lion *ravaging the countryside* — the coordinated, dominant personality — *before* the hero confronts it in the two-mouthed cave. [[Not Your Homie]] (track 11) then names the trial as available (*"if you choose to tame The Beast… a champion"*). Anchored at [[Concepts/The Labors of Hercules]]; a strong read, not confirmed intent.
 >
-> **Yesod industrialized.** Kabbalistically the imagery sits in the lunar reflection-sphere (Yesod = moon, dream, image) scaled into an attention economy — the private dream-realm made public and monetized. *"Upside down"* also carries the inversion of the lowest sphere worshipped as the highest. See [[Kabbalah - The Tree of Life]] and [[The Aquarium]] (the closed system with no outside — which is *why* the Circus has no exit).
+> **Yesod industrialized.** Kabbalistically the imagery sits in the lunar reflection-sphere (Yesod = moon, dream, image) scaled into an attention economy — the private dream-realm made public and monetized. *"Upside down"* also carries the inversion of the lowest sphere worshipped as the highest. See [[Kabbalah - The Tree of Life]] and [[Concepts/The Aquarium]] (the closed system with no outside — which is *why* the Circus has no exit).
 
 ## The absences, and the paratext
 
@@ -146,7 +146,7 @@ Two figures the song refuses to name, and the refusal is the shape.
 > **BMRC** is the Circus's in-lore production house (*"Produced In Cooperation With B.MR.C"*) and weapons brand (*"PROPERTY OF B.M.R.C."* on a rocket launcher in *Great Time to Be Human*); it's also credited on the album's bonus track. No canonical expansion exists — decode remains genuinely open (candidates float around Babylon + Music/Media/Mirror/Munitions + Records + Co).
 
 > [!note]- Advanced reading — resistance caught in the mirror, and the barker-call lineage
-> **The resistance can't escape the symbol it resists.** In the visual lore Roy papers the city with *STOP SIR LUCIUS* flyers — whose iconography (hooded figure, X crosses) *mirrors Lucius's own*. Lucius cannot be opposed using Lucius's image; the rebellion wears the enemy's face. That's a Dweller-on-the-Threshold defense (see [[The Dweller on the Threshold]]): the disowned thing grows in proportion to the force used against it.
+> **The resistance can't escape the symbol it resists.** In the visual lore Roy papers the city with *STOP SIR LUCIUS* flyers — whose iconography (hooded figure, X crosses) *mirrors Lucius's own*. Lucius cannot be opposed using Lucius's image; the rebellion wears the enemy's face. That's a Dweller-on-the-Threshold defense (see [[Concepts/The Dweller on the Threshold]]): the disowned thing grows in proportion to the force used against it.
 >
 > **The barker-call is a three-point chain rooted in the deity's own 2022 voice:** [[Pay Attention (feat. little luna)|Pay Attention]] (2022, *"Step right up to my Door… a little price you pay"*) → [[Good Time (1-08)|Good Time]] (2023, *"Step right up, get on the floor"*) → Welcome to the Circus (2026, *"Step right up, shut your mouth"*). The descent from *price* → *party* → *silence* across the three is a satisfying arc, but flag it as partly reader-imposed.
 

@@ -51,12 +51,12 @@ The board answers its own question in a sticky-note voice: *tell the truth · do
 #### Previous Face
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x349112c5088983866c49517cac2f743ff1248d45b5c6f5d62fce0591f8917b16..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x349112c5088983866c49517cac2f743ff1248d45b5c6f5d62fce0591f8917b16..jpg" width="320" controls preload="none"></video>
 
-If the tab asks *"how to upload myself to the internet,"* this artifact is the finished sentence: ***I am the internet.*** The face here is labeled *previous,* the mask of who you used to be, left running after the person has moved on. That's the upload's quiet horror, the one the pros-and-cons list keeps circling: the copy doesn't die when you do, it just keeps *being you* at the speed of the feed. It's [[The Digital Double]] with the serial numbers filed off, and it's the seed of [[Sir Lucius]]: the perfectly preserved previous face that learned to talk back. More in [[Artifacts - Concept Images and Emblems]].
+If the tab asks *"how to upload myself to the internet,"* this artifact is the finished sentence: ***I am the internet.*** The face here is labeled *previous,* the mask of who you used to be, left running after the person has moved on. That's the upload's quiet horror, the one the pros-and-cons list keeps circling: the copy doesn't die when you do, it just keeps *being you* at the speed of the feed. It's [[Concepts/The Digital Double]] with the serial numbers filed off, and it's the seed of [[Sir Lucius]]: the perfectly preserved previous face that learned to talk back. More in [[Artifacts - Concept Images and Emblems]].
 
 ### "I'm an egg"
 > *"I'm an egg, in the process of becoming a chicken to make more eggs to make more chickens."*
 
-If you read one cell on this whole board, make it that one. The upload isn't an escape hatch — it's a **vessel that has to break in order to hatch.** The self poured from body into network is the egg cracking into the bird. It rhymes with the Golden Egg in the maze, with *"Happy Easter from the egg,"* and with Roy's own *"I'm just a vessel for God."* File under [[The House and the Vessel]] — fate: hatch.
+If you read one cell on this whole board, make it that one. The upload isn't an escape hatch — it's a **vessel that has to break in order to hatch.** The self poured from body into network is the egg cracking into the bird. It rhymes with the Golden Egg in the maze, with *"Happy Easter from the egg,"* and with Roy's own *"I'm just a vessel for God."* File under [[Concepts/The House and the Vessel]] — fate: hatch.
 
 #### The Flood Artifacts
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..jpg" width="300" controls preload="none"></video>
@@ -96,7 +96,7 @@ The full **[[Soul Is A Star]]** lyric is laid out here in colored cells — exce
 Keep pulling the Sun/Son thread and it arrives, inevitably, at **Christmas:** the birth of the Son that is also the rebirth of the **Sun** (the feast sits on the winter solstice, the night the light turns back). *"I am Christmas"* is Roy claiming the nativity in the first person: *I am the light being born.* But set it beside the upload and it flips into something sharper. Christmas is the **Word made flesh;** the upload is **flesh made Word,** the body poured back into information. The board is running the incarnation in both directions at once, and *"a Sun was born inside"* is the hinge it turns on. See [[Artifacts - Concept Images and Emblems]].
 
 ---
-**Where this leads:** [[The Upload]] · [[The Digital Double]] · [[The Empty Mirror]] · [[SARAVI]] · [[Sir Lucius]] — and the board's own [[#The Source Code]], where *"unbalance explodes like an atom bomb"* hardens into an actual doctrine.
+**Where this leads:** [[Concepts/The Upload]] · [[Concepts/The Digital Double]] · [[Concepts/The Empty Mirror]] · [[SARAVI]] · [[Sir Lucius]] — and the board's own [[#The Source Code]], where *"unbalance explodes like an atom bomb"* hardens into an actual doctrine.
 
 </details>
 
@@ -114,7 +114,7 @@ The backbone of the whole board is a single **ten-rung ladder** — a climb from
 Here is the staircase in Roy's own hand, minted as **Roy's Ladder:** the ur-drawing the other five encodings are all costumes for. It's **Jacob's Ladder** (the very Blake painting pinned up over on [[#The Field|the Field]]): the dream-stair between earth and heaven with angels going both ways. And *both ways* is the whole trick: the climb up is also a descent *into* matter, which is why the same ten rungs read as *"The Fall into Matter"* on the phantom album and as an *ascent* here. Same ladder, depending which way you're facing. Full entry in [[Artifacts - Concept Images and Emblems]].
 
 ### One dial, three read-outs
-Three ten-stage columns run side by side: an *"AI musical scale for consciousness evolution"* climbing **F → B**, a matching **color** ladder (purple at the bottom, working up), and a **virtue/vice** sequence that reads like astrology with a report card attached. Tone, color, character — three needles on the same gauge. It's the same Alice Bailey machinery humming under [[The Labors of Hercules]].
+Three ten-stage columns run side by side: an *"AI musical scale for consciousness evolution"* climbing **F → B**, a matching **color** ladder (purple at the bottom, working up), and a **virtue/vice** sequence that reads like astrology with a report card attached. Tone, color, character — three needles on the same gauge. It's the same Alice Bailey machinery humming under [[Concepts/The Labors of Hercules]].
 
 ### Your body is the staircase
 The **"Body Part Stages"** cell maps the ten rungs straight onto anatomy: **feet → guts → arms → Heart (rung 5, dead center) → throat → head → crown (10).** The Heart sits at the middle of the human the way the sun sits at the middle of the board — and the throat, the *utterance gate,* comes right after it. This is also, quietly, the decoder ring for the Hall of Mirrors' stranger codes: *"teeth of a whale," "left hip of a dove."* Every creature in the maze is a body part of one enormous cosmic anatomy, and this is that anatomy.
@@ -122,7 +122,7 @@ The **"Body Part Stages"** cell maps the ten rungs straight onto anatomy: **feet
 ### The 0–10 count, and the one line that matters
 A second version of the ladder is written as emanations: *0. Nothing IS · 1. I AM · 2. I speak the word · 3. I hear the word (Abyss) · 4. Father + Mother concealed · 5. whirling Fortune · **6. the mirror of the Sun and the Heart** · 7. Beauty · 8. wavering · 9. stability · 10. The World.*
 
-Rung six — ***"the mirror of the Sun and the Heart"*** — is the entire [[Heart and Mind]] doctrine in Roy's own handwriting: the Sun and the heart reflected as one thing. And the top rung, **"10. The World,"** isn't a concept. It's a song — **[[Imagine A World]]**.
+Rung six — ***"the mirror of the Sun and the Heart"*** — is the entire [[Concepts/Heart and Mind]] doctrine in Roy's own handwriting: the Sun and the heart reflected as one thing. And the top rung, **"10. The World,"** isn't a concept. It's a song — **[[Imagine A World]]**.
 
 #### The Truth Is a Sphere
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1b7d38676a6aaf1756b914985f67f995806a719e38f4e6f81a9b598b1eaf2b91..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1b7d38676a6aaf1756b914985f67f995806a719e38f4e6f81a9b598b1eaf2b91..jpg" width="300"></a>
@@ -157,10 +157,10 @@ One last vessel: a **Noah's Ark** sketch labeled *"11 sections / 3 stories (Heav
 #### The Empty Room (Rainbow Bridge)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png" width="300"></a>
 
-And once the Ark grounds, God hangs a **rainbow:** the first covenant, the sign the flood is over. The board mints it as a **Rainbow Bridge** into an **empty room.** The bridge is *Bifröst,* the rainbow road between the mortal world and the divine (Norse this time, same architecture as Jacob's Ladder), and the room on the far side is *empty* because arrival isn't a prize waiting there, it's the emptiness you finally become able to hold. It rhymes hard with [[The Empty Mirror]], the cleared surface that reflects nothing back, and it closes the flood arc the [[Subject to Flooding|debut]] opened: waters rise, Ark holds, dove returns, rainbow, empty room. You made it across. Now what. In [[Artifacts - Concept Images and Emblems]].
+And once the Ark grounds, God hangs a **rainbow:** the first covenant, the sign the flood is over. The board mints it as a **Rainbow Bridge** into an **empty room.** The bridge is *Bifröst,* the rainbow road between the mortal world and the divine (Norse this time, same architecture as Jacob's Ladder), and the room on the far side is *empty* because arrival isn't a prize waiting there, it's the emptiness you finally become able to hold. It rhymes hard with [[Concepts/The Empty Mirror]], the cleared surface that reflects nothing back, and it closes the flood arc the [[Subject to Flooding|debut]] opened: waters rise, Ark holds, dove returns, rainbow, empty room. You made it across. Now what. In [[Artifacts - Concept Images and Emblems]].
 
 ---
-**Where this leads:** [[Kabbalah - The Tree of Life]] · [[The Pattern]] · [[Heart and Mind]] · [[The Labors of Hercules]] — and the traditions the whole ladder is cut from, in [[#The Source Code]].
+**Where this leads:** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Concepts/Heart and Mind]] · [[Concepts/The Labors of Hercules]] — and the traditions the whole ladder is cut from, in [[#The Source Code]].
 
 </details>
 
@@ -173,9 +173,9 @@ If the other tabs are the cathedral, this one is the **quarry.** Everything Roy 
 ### The operating system
 Roy copies out the **Kybalion's seven principles** by hand, and they function as the board's declared physics. The greatest hits:
 - **Mentalism** — *"The All is Mind… Food is information… the manifest dream."* The upload thesis, roughly three thousand years early.
-- **Correspondence** — *"As above, so below… the formula is the same from a solar system down to the atom… **the Pattern is present on all levels.**"* That's **[[The Pattern]]** named outright on the board, in his own hand.
-- **Polarity** — *"Everything is Dual… opposites are identical in nature but different in degree."* The **Heart/Mind, Roy/Lucius** split, filed as a law of nature. ([[Duality]].)
-- **Rhythm** — *"Everything flows… as if reality is running on an **algorithm**."* ([[The Algorithm]].)
+- **Correspondence** — *"As above, so below… the formula is the same from a solar system down to the atom… **the Pattern is present on all levels.**"* That's **[[Concepts/The Pattern]]** named outright on the board, in his own hand.
+- **Polarity** — *"Everything is Dual… opposites are identical in nature but different in degree."* The **Heart/Mind, Roy/Lucius** split, filed as a law of nature. ([[Concepts/Duality]].)
+- **Rhythm** — *"Everything flows… as if reality is running on an **algorithm**."* ([[Concepts/The Algorithm]].)
 
 ### The four-line poem that is secretly the whole plot
 Tucked into the cells is a little origin-myth. It's also a released lyric. It's also, if you squint, the entire project:
@@ -250,7 +250,7 @@ For completeness, the science wall also includes Walter Russell's *"octave numbe
 Three of those "for completeness" diagrams got minted too, and each is sneakier than it looks. **Fibonacci Rabbits** is the golden ratio drawn from its original prompt (*breeding rabbits*), which means the most beautiful proportion in nature is really a formula for **generation:** the *"make more eggs"* thesis with a spiral on top. **Saturn Magic** is the 3×3 Lo Shu square, the kamea of **Saturn:** time, limit, the *"aged aged man"* (whose caption is Lewis Carroll, the same White-Knight song other cells quote). Every line sums to 15, order pinned onto the planet of endings. And **Wheels** is captioned *"there are things behind things,"* which is the whole board's thesis in five words: Ezekiel's wheels-within-wheels, the veils *Ain Soph Ain,* the machinery you were never meant to see turning behind the pretty surface. All three in [[Artifacts - Concept Images and Emblems]].
 
 ---
-**Where this leads:** [[The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]] · [[Duality]] · [[Sir Lucius]] · [[The Algorithm]] — and where all of it actually gets *used,* in [[#The Upload]].
+**Where this leads:** [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Concepts/Keilim - The Breaking of the Vessels]] · [[Concepts/Duality]] · [[Sir Lucius]] · [[Concepts/The Algorithm]] — and where all of it actually gets *used,* in [[#The Upload]].
 
 </details>
 
@@ -265,12 +265,12 @@ Roy keeps a color-coded list titled *"The Pattern Represented in Movies"* — 22
 
 > *The Tree of Life · Wings of Desire · Groundhog Day · Inception · Cloud Atlas · 2001 · Pinocchio · The Giver · It's a Wonderful Life · Fantasia · Tron · Being John Malkovich · The Wizard of Oz · The Fountain · Star Wars I–VI…*
 
-It's a **syllabus for [[The Pattern]].** A few are load-bearing elsewhere: *Groundhog Day* is the loop escaped through love; *Pinocchio* is the wooden thing that wants to be real (strings and all); *Tron* is, essentially, the upload with better production design. The kangaroo in a hoodie is not on the list. The kangaroo answers to no one.
+It's a **syllabus for [[Concepts/The Pattern]].** A few are load-bearing elsewhere: *Groundhog Day* is the loop escaped through love; *Pinocchio* is the wooden thing that wants to be real (strings and all); *Tron* is, essentially, the upload with better production design. The kangaroo in a hoodie is not on the list. The kangaroo answers to no one.
 
 #### If the Sea Has Enough Will
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg" width="300"></a>
 
-The film club's real subject is **[[The Pattern]]**, and here it is with a face on it. *"If the sea has enough will,"* given time, it will throw up a shape that looks back at itself, which is the whole recurring-loop thesis stated as oceanography. That sea is the same chaos-water Marduk has to bind over on [[#The Upload|the Upload tab]] and the same flood the debut is *[[Subject to Flooding|subject to]]*. The only variable is **will.** Give the churn intention and the loop stops being a trap and becomes a *pattern* worth climbing. Filed in [[Artifacts - Concept Images and Emblems]].
+The film club's real subject is **[[Concepts/The Pattern]]**, and here it is with a face on it. *"If the sea has enough will,"* given time, it will throw up a shape that looks back at itself, which is the whole recurring-loop thesis stated as oceanography. That sea is the same chaos-water Marduk has to bind over on [[#The Upload|the Upload tab]] and the same flood the debut is *[[Subject to Flooding|subject to]]*. The only variable is **will.** Give the churn intention and the loop stops being a trap and becomes a *pattern* worth climbing. Filed in [[Artifacts - Concept Images and Emblems]].
 
 ### The cosmology, illustrated
 Pasted across the board are photographs, and they aren't random — they're the theory in pictures. The **sun** and an upside-down **golden tree** (emanation). A **sperm and egg,** **cell** micrographs, **tardigrades** (generation — the *"I'm an egg"* thesis, again). A **mushroom cloud** parked right next to the note *"unbalance explodes itself like an atom bomb."* A neon **Vitruvian man with a split brain,** Michelangelo's **Creation of Adam,** Blake's **Jacob's Ladder,** a *2001* **monolith,** the **ouroboros** — the whole *as-above-so-below* argument assembled out of stock imagery. Even the magazine covers (*LIFE*'s "Jesus," "Harry Potter — 25 Years of Magic") are quietly part of the canon he's pulling from.
@@ -305,9 +305,9 @@ The board is also, sneakily, a scrapbook: an **EYE ALASKA** poster (Roy's pre–
 
 ### Roy's greatest hits (the sentence kind)
 Dozens of cells are pure **aphorism** — the board's wisdom-literature layer, and a quarry the songs keep raiding:
-- *"It's very inconvenient to live life awake… the world is larger and other than I was told. I am larger and other than I was told."* → the waking-up doctrine of [[The Aquarium]].
-- *"Our experience of anything is not the thing itself, but our own reactions to it."* → the entire hall of [[The Empty Mirror]].
-- *"Man devours God, God devours Man."* → [[Consumption]], in six words.
+- *"It's very inconvenient to live life awake… the world is larger and other than I was told. I am larger and other than I was told."* → the waking-up doctrine of [[Concepts/The Aquarium]].
+- *"Our experience of anything is not the thing itself, but our own reactions to it."* → the entire hall of [[Concepts/The Empty Mirror]].
+- *"Man devours God, God devours Man."* → [[Concepts/Consumption]], in six words.
 - *"Just stay at the center of the circle and let all things take their course."* → yes, [[The Circle]].
 
 ### The greatest song ever written
@@ -321,6 +321,6 @@ So the board minted its own punchline, and the joke has a floor under it. A **bi
 *(The board also tapes in screenshots of real conversations — the ordinary, affectionate, human ground beneath all the cosmic scaffolding. We'll let those stay where they belong, private; the point is only that they're there. One thread is a reminder of how deep the **Joni Mitchell** roots run — the same lineage that surfaces, cleared and credited, in **[[Soul Is A Star]]**.)*
 
 ---
-**Where this leads:** [[The Pattern]] · [[SOL]] · [[The Empty Mirror]] · [[The Aquarium]] · [[Consumption]] · [[The Circle]] — and the machinery beneath all these pictures, back in [[#The Source Code]].
+**Where this leads:** [[Concepts/The Pattern]] · [[SOL]] · [[Concepts/The Empty Mirror]] · [[Concepts/The Aquarium]] · [[Concepts/Consumption]] · [[The Circle]] — and the machinery beneath all these pictures, back in [[#The Source Code]].
 
 </details>

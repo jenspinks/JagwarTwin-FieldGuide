@@ -44,13 +44,13 @@ Five of the finished *33* songs live in the Hall as mint rooms. They are the tro
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0f3d16fa2fc38a75d31d4ba61ab819f6c8c9717084252263a65bbb7b8a8b652c..mp3" controls preload="none"></audio>
 
 Room 1 of the whole maze is a sound. The file is tiny, likely under a minute, so this is a fragment or a sketch rather than a finished piece. The title does the heavy lifting: *Logos* is the creative Word, John's *"in the beginning was the Word,"* and Roy glosses it in his own hand on the board as *"Logos (Ratio),"* word-as-reason. Filed under *"From Darkness,"* it turns the very first door into a creation myth: the Word that speaks light out of the dark at the threshold of everything. The code, *"East is everywhere,"* reads like a compass with no wrong direction: east is where the sun comes up, so an east that is everywhere is dawn made omnipresent, the source pointing every way at once. A fitting first breath for a maze that never stops telling you to wake up.
-**Connects to →** [[Hall of Mirrors]] · [[The Pattern]] · [[Kabbalah - The Tree of Life]]
+**Connects to →** [[Hall of Mirrors]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]]
 
 ### #2 · AN AGED AGED MAN · `ALICE 211`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfabef575374796fb9f99a60f701b55a9e51333406510e6d14aab767c7887b71f..mp3" controls preload="none"></audio>
 
 Room 2's sound sits in the *"Illumination"* realm. The title is the White Knight's punchline in *Through the Looking-Glass*: pressed on what his song is called, he insists *"the name really is 'The Aged Aged Man.'"* The code, `ALICE 211`, points at the exact page where Carroll's dizzying four-level joke about the name of the song, the song, what the song is called, and what the song is, actually sits. Roy seeded the clue in the open: a voice-memo frame on the board captioned *"alice 211 song mirror,"* and Carroll's line *"I saw an aged aged man, a-sitting on a gate"* posted as a marked hint on the *Down to You* SoundCloud. This little room is load-bearing for the whole project, because the White Knight's doctrine, that what a song is called and what it *is* are two different things, is the exact hinge the entire Hall of Mirrors turns on. The title itself comes back later as another room's key.
-**Connects to →** [[Down to You]] · [[Hall of Mirrors]] · [[Source vs Reflection]] · [[Inversion]]
+**Connects to →** [[Down to You]] · [[Hall of Mirrors]] · [[Concepts/Source vs Reflection]] · [[Concepts/Inversion]]
 
 ### #4 · O (444DEMO) · `ENSO`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b505763669a1ce85508ca68153be9a72861db80520993c1bc8be4b46e2040d1..mp3" controls preload="none"></audio>
@@ -62,25 +62,25 @@ An unreleased demo called *O*, filed in the Hall's time realm (*"Time Garden"*).
 *(mint room, no media file)*
 
 The mint room for *Happy Face*, filed, with real nerve, in the realm the Hall calls BURIED. This is the catalogue's biggest song by a mile, tens of millions of streams, Sir Lucius's self-claimed signature product (*"those are me"*), and the Hall lays it in the grave rather than the trophy case. The code, *"World gone mad,"* is a verbatim line from the song (*"Flip the switch, flip the stove / World gone mad, let's start the show"*), the exact moment the toxic-positivity performance kicks off: the world's madness is the cue to put the smile on. Choosing that line as the key instead of the sunny hook drags the dark verse out from under the mantra, which is precisely the *"Trojan Horse"* design Roy has said the song was built on.
-**Connects to →** [[Happy Face]] · [[Sir Lucius]] · [[The Mask]] · [[The Loop and the Circle]]
+**Connects to →** [[Happy Face]] · [[Sir Lucius]] · [[The Mask]] · [[Concepts/The Loop and the Circle]]
 
 ### #17 · DEVIL IN THE MIRROR · `RORRIM EHTNI LIVED`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
 
 An early, unreleased recording, filed under *"Phantoms of the Past,"* the Hall's shelf of old-era material. Its code is its own title spelled backwards: `RORRIM EHTNI LIVED` is *Devil In The Mirror* reversed, and it is the single reversal code in the entire maze, which makes this room the anchor of Roy's long obsession with mirrors and running things backwards (*"how do you reverse a mirror?", "born in reverse"*). The name goes surprisingly deep: *"Rorrim Ehtni"* was a fictional author credited on two Eye Alaska tracks back in 2008–09, one of them literally titled *"The Legion Night (Rorrim Ehtni Lived)."* So the devil-in-the-mirror figure, the proto-Lucius twin, was named by Roy at twenty, and the board later writes the phrase out again in mirror-script. The Hall even rhymes the room with itself: this audio's title is the *title* of a separate video room, one door named for another, the mirror reflecting the mirror.
-**Connects to →** [[Lucius Lullaby]] · [[Long Time Coming]] · [[Sir Lucius]] · [[The Mirror]] · [[Inversion]]
+**Connects to →** [[Lucius Lullaby]] · [[Long Time Coming]] · [[Sir Lucius]] · [[The Mirror]] · [[Concepts/Inversion]]
 
 ### #26 · RORRIM EHTNI LIVED · `H1066`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3e123718af779094b7d526cbd12f754d840b744d6184851e9f2f5912a7b6ca79..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3e123718af779094b7d526cbd12f754d840b744d6184851e9f2f5912a7b6ca79..jpg" width="320" controls preload="none"></video>
 
 Three silent seconds of a burned CD-R hand-labeled *"Genesis"* on top and *"underground"* below, sitting open in a jewel case on weathered pallet slats. Mid-clip the whole image flips left-to-right and flips back, so the video performs its own title, since *RORRIM EHTNI LIVED* is *Devil In The Mirror* in mirror-reverse (Roy has warned that things *"tend to flip when inside the Hall of Mirrors"*). This is the physical disc for the audio two rooms up: its title is that room's key, and the disc's own name, *Genesis underground*, surfaces later as another artifact. The code `H1066` is a spreadsheet cell coordinate, a column-and-row address on the *"I'm 33"* grid, not a puzzle in its own right. Biographically, a Sharpie-labeled CD-R from a ten-pack of jewel cases is a pre-fame demo object: *"Genesis underground"* reads as an origin-era recording, here re-presented as a scanned relic.
-**Connects to →** [[Lucius Lullaby]] · [[Hall of Mirrors]] · [[The Mirror]] · [[Inversion]] · [[Roy]]
+**Connects to →** [[Lucius Lullaby]] · [[Hall of Mirrors]] · [[The Mirror]] · [[Concepts/Inversion]] · [[Roy]]
 
 ### #36 · GRANDMA'S SONG · `THE LIGHTNING FLASH`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x192da9a1b7fd07fb2ada3707ffe4a04c2fab57223b00fbee7689a133d133d32e..mp3" controls preload="none"></audio>
 
 An unreleased demo titled *Grandma's Song*, filed under *"Concealed Generations."* The code, *"The Lightning Flash,"* is the Kabbalistic Flaming Sword, the zigzag path that emanation takes down through the ten Sephiroth of the Tree of Life, a shape Roy diagrams himself elsewhere in the Hall and draws on the board. So a family keepsake gets paired with the Tree's downward transmission of the divine spark, and read against its realm the grandmother becomes a *"concealed generation"* in that descent: lineage as the lightning path, ancestry as how the current comes down through the family. It belongs to Roy's wider matrilineal thread (the Grandma Vi material, the bedside photo, the family cow), his feminine-source vein, though whether this particular demo is about, for, or from that grandmother can't be settled without hearing it.
-**Connects to →** [[Weirdness]] · [[Kabbalah - The Tree of Life]] · [[The Pattern]] · [[Roy]]
+**Connects to →** [[Weirdness]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### #60 · THE FUTURE (2010 DEMO) · `FEARLOVE`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe29b0ba75fde2396e465544d81fe17370de5da048b86c4b312889df2777d6f7c..mp3" controls preload="none"></audio>
@@ -110,43 +110,43 @@ An unreleased recording filed under *"Concealed Generations,"* the drawer of Roy
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x795c4fa46fea4f5ee0765c3433124b1e4dddc4f5340ebdace1d2bcf46f22c7a0..mp3" controls preload="none"></audio>
 
 An unreleased demo, *House of Spells (Cuz_idea)*, filed under *"Concealed Generations"* with the rest of the archival material, and self-keyed like its neighbors: the code is just the title. The parenthetical *"Cuz_idea"* reads as a working-title scrawl, a raw idea, plausibly one made with or sparked by a cousin (*"cuz"*), which marks this as an unpolished sketch rather than a finished track. Its place in the cosmology is simply archival: an unseen, never-released fragment kept safe inside the Hall, one more piece of Roy's concealed drawer surfaced into the maze.
-**Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[The Upload]]
+**Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Upload]]
 
 ### #142 · DOWN TO YOU · `WHAT IS IT THAT YOU SEEK?`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xb76708129c2cce34f6eb3c4e9469a9ca7eb0090e0d64ffc1cdb694ba4f720061..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/138.png" width="320" controls preload="none"></video>
 
 A translucent wireframe human figure sits in a lotus pose at the dead center of a spiral galaxy, a bright light kindling at its core and swelling as it rotates and fills the frame. This is the mint room for the released *33* track *Down to You*, so the tie to the song is simply a fact. The code, *"What is it that you seek?",* is the song's opening question verbatim (*"What is it that you seek? / In your mind, you must be it"*), and the image just draws the lyric: the human dissolved into the same mesh as the cosmos, the light lit from inside rather than handed down, the galaxy staging *"Heaven in the sky to the Earth below"* as one continuous field. The whole thing renders the song's central claim in one picture, that divinity is located in the self, not acquired from outside, the *"you are the one"* placed at the center of everything.
-**Connects to →** [[Down to You]] · [[The Pattern]] · [[Kabbalah - The Tree of Life]] · [[The Circle]] · [[Roy]]
+**Connects to →** [[Down to You]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[The Circle]] · [[Roy]]
 
 ### #143 · ANOTHER WAY II HEAVEN · `GENESIS TREE CODE`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x51f28bfcfda3b51406f62a37563c55c183d19edf4b4bc914535fb7f3f939932c..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/139.png" width="320" controls preload="none"></video>
 
 A photogrammetric scan of a human head-and-shoulders: a triangulated mesh face that materializes against violet, then dissolves to a bare wireframe on black, the person reduced to the lattice underneath. This is the mint room for the released song *Another Way II Heaven*, so the tie is definitional. The code, *"Genesis Tree Code,"* names the song's two engines at once: *Genesis*, its first-person creation myth (*"Back long ago / I was just me… / I spoke the words / 'One, become Two'"*), and *Tree*, the Tree-of-Life emanation the lyric counts through (*"From One and through Eleven"*). The dissolving mesh literalizes the song's core move, a lonely *"I"* that can't know itself alone splitting into a reflected *"You"* and multiplying outward, the single form breaking into a web of points so it can finally see itself. It sits at the very floor of the mythology: the generating rule, unity divides to know itself and promises to reunite, that mirrors, doubles, and the Circle all fall out of.
-**Connects to →** [[Another Way II Heaven]] · [[The Pattern]] · [[Kabbalah - The Tree of Life]] · [[The Circle]]
+**Connects to →** [[Another Way II Heaven]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[The Circle]]
 
 ### #144 · IMAGINE A WORLD · `IMAGINE A WORLD`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf49a9d959a1f5ba49fc8d8f4ee38f459ef0bdd9b67c7117bfbe5b5263fbeda2f..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/140.png" width="320" controls preload="none"></video>
 
 A translucent, membrane-textured form, clear rippling plastic with red edging, churns and hangs over a red desert canyon, the whole frame bordered in the album's signature red. This is the mint room for *Imagine A World*, track 9 of *33*, so the code is just the song's title. The song is the album's capstone before the closer, an *"imagine it, create it"* invitation that lands on Eden relocated inside the self (*"look inside you'll see it… you just gotta conceive it"*), and the title also names the board's final rung, *"10. The World"* (Malkhut, the kingdom-within), so it works as a lyric and as a Tree-of-Life key at the same time. The half-formed membrane over raw desert reads as creation caught in progress: a world being conceived out of formless matter, the picture-version of *"believe, then conceive."*
-**Connects to →** [[Imagine A World]] · [[Kabbalah - The Tree of Life]] · [[The Upload]] · [[Roy]]
+**Connects to →** [[Imagine A World]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Upload]] · [[Roy]]
 
 ### #145 · THE CIRCLE · `THE GREAT JAGWAR`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xac9f2eb2401875e22837d494811b38df27d81045fb7d66466e68768f781ef4d5..mp4" poster="https://plumcreekranch.com/jagwar/artifacts/141.png" width="320" controls preload="none"></video>
 
 A translucent wireframe of the numerals *3* and *3*, the album's logo, built in 3D vector lines and hung over a bleak arctic waste of snow, cracked ice, and flat white horizon. This is the mint room for *The Circle*, the closing track of *33*, so the tie is definitional. The code, *"The Great Jagwar,"* names the song's central mythic figure: the feminine maker, the *"Jagwar with a world tied on a string"* who makes the other Jagwars and teaches them to sing, the same Great Jaguar that recurs in Roy's hand-drawn cosmology. The pattern of the number showing through a frozen, emptied world fits the song's doctrine exactly, a maker who hides the song inside creation and then withdraws, leaving the circle to be remembered and regrown *"from the inside of the inside."*
-**Connects to →** [[The Circle]] · [[The Pattern]] · [[The Thread]] · [[Roy]]
+**Connects to →** [[The Circle]] · [[Concepts/The Pattern]] · [[The Thread]] · [[Roy]]
 
 ### #147 · CAN'T LIE (EARLY ROY) · `CAN'T LIE`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6ed09f7d445d49d30bd1f72b9359685f26bb7e3a2a60c596f4096539c41fa1..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0c6ed09f7d445d49d30bd1f72b9359685f26bb7e3a2a60c596f4096539c41fa1..jpg" width="320" controls preload="none"></video>
 
 About ten seconds of phone footage from the stage, looking out at a packed dark concert hall, the whole crowd holding up phone flashlights in a swaying sea of light while a hard spotlight flares straight into the lens. The parenthetical *"(Early Roy)"* is the key: this is documentary footage from Roy English's performing life before Jagwar Twin, the band era before the solo mythos, and *"Can't Lie"* reads as a title from that earlier catalogue rather than any released Jagwar Twin song. In the Hall it works as a memory-relic, a literal *"video phantom"* of a former self folded into the archive, so the origin performer becomes one more reflected face in the mirror-hall of Roy's history, the raised phone-lights standing in as witnesses to a life the project keeps returning to.
-**Connects to →** [[Hall of Mirrors]] · [[The Pattern]] · [[Roy]]
+**Connects to →** [[Hall of Mirrors]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### #150 · GENESIS UNDERGROUND · `DON'T BE FOOLED BY THE INTERNET`
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29e20f37cec6b1851514ae4870701eb4aa91aa9fff072d0e2866b9991a8cba6d..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29e20f37cec6b1851514ae4870701eb4aa91aa9fff072d0e2866b9991a8cba6d..jpg" width="320" controls preload="none"></video>
 
 Three seconds of a scanned model of Roy's own head and neck floating in pure black, the mesh riddled with holes and torn edges that eat into the face and throat, so the captured self looks like it's disintegrating; a thin pendant and dark neck tattoos are just visible. Paired with the code *"Don't be fooled by the internet,"* it reads as a self-portrait as data: the face acquired by the machine, then rendered as a flawed digital ghost, which is exactly why it lives in the PHANTOMS realm. It stages the mythology's recurring fear, that the algorithm captures your face and then treats the copy as more real than you, the *"artificial reflection"* that replaces instead of reflects, with the code as the caption warning you not to mistake that corrupted double for the self. This is the disc from room 23 (*"Genesis underground"*) surfacing a third time, now as a decaying scan of the man himself.
-**Connects to →** [[The Upload]] · [[The Algorithm]] · [[The Aquarium]] · [[Hall of Mirrors]] · [[Sir Lucius]]
+**Connects to →** [[Concepts/The Upload]] · [[Concepts/The Algorithm]] · [[Concepts/The Aquarium]] · [[Hall of Mirrors]] · [[Sir Lucius]]
 
 ---
 

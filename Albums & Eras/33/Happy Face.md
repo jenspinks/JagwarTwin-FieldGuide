@@ -30,7 +30,7 @@ The backstory is the kind you'd cut from a script for being too on-the-nose. A m
 - **Era / release** — first an independent single (Dec 2020), then track 6 of *33* (2022). The commercial cornerstone of the whole catalogue.
 - **In one line** — put on a happy face *because you are told to,* over music engineered to feel exactly as bad as the words pretend not to.
 - **Who speaks** — [[Roy]]'s sincere wish to create happiness, inverted; in the mythology, [[Sir Lucius]] claims it as his product and calls himself *"the algorithm."* The pressure's source is [[The Crowd]] and the timeline.
-- **Key symbols** — [[The Mask]] (the prototype smile) · [[The Algorithm]] (here, the literal author) · the stove ([[Fire]]) · the timebomb · 🙃 the upside-down smiley · [[Inversion]].
+- **Key symbols** — [[The Mask]] (the prototype smile) · [[Concepts/The Algorithm]] (here, the literal author) · the stove ([[Fire]]) · the timebomb · 🙃 the upside-down smiley · [[Concepts/Inversion]].
 
 ## The song, mapped
 
@@ -73,7 +73,7 @@ A few claims that cut across the whole song.
 
 - [[Sir Lucius]] — in the theatrical canon he claims the song **by name** (*"happy face, bad feeling… hundreds of millions of streams. Those are me. You need me"*) and self-identifies as *"the algorithm, baby."* In EP1 ([[The Interview]]) he delivers the boast as a **smug villain taking a bow** — the flex, not the confession — and the childish laughter under EP3 heightens the gag. *Happy Face* is his signature commercial proof — the algorithm's product. *(A character's on-screen claim, not a statement about the song's real author.)*
 - [[Roy]] — the sincere happiness-wish underneath, inverted into a mask; the legal co-writer, and the first-person narrator of the origin, the experiment, and the method.
-- [[The Algorithm]] — not a metaphor here but the **named author** in the theatrical frame; the predictive machine selling performed happiness.
+- [[Concepts/The Algorithm]] — not a metaphor here but the **named author** in the theatrical frame; the predictive machine selling performed happiness.
 - [[The Crowd]] — the timeline that issues the command (*"telling you… how to be"*); the audience the mask is worn *for.*
 
 ## Artifacts
@@ -98,7 +98,7 @@ A few claims that cut across the whole song.
 ## Symbols
 
 - [[The Mask]] — the **prototype**: a smile that suppresses authentic distress; *persona* = "through-sound," a mask you literally *sound.*
-- 🙃 **the upside-down smiley** / the inverted CRT face — the built-in tell of [[Inversion]]: the grin masking its opposite.
+- 🙃 **the upside-down smiley** / the inverted CRT face — the built-in tell of [[Concepts/Inversion]]: the grin masking its opposite.
 - **the stove** (*"flip the stove"*) — the alchemical brew, the vessel of shadow-work; part of the [[Fire]] cluster and Roy's own cross-track link to [[Bananas]].
 - **the timebomb** (*"ticking like a timebomb"*) — suppression as delayed detonation; darkness with a built-in time-limit.
 - **"ARE YOU CONTENT?"** — the triple pun that is the whole thesis in three words: content *(happy/satisfied)* · content *(media to be consumed)* · content *(complacent, contained).*
@@ -129,9 +129,9 @@ A few claims that cut across the whole song.
 > [!note]- Advanced reading — the esoteric frameworks (Gurdjieff, Jung, Nigredo, Hercules)
 > These are interpretive lenses the material *permits,* not claims Roy asserts — though the first now has an authorial warrant.
 > - **Gurdjieff — "objective art."** Art built as a *functional tool* to induce a calculated internal state rather than to express one: the song *is* the sedation it describes. Roy's own *"Trojan Horse"* account backs this squarely, and Gurdjieff is his single most-named public influence. (The forced-smile / 444 Hz efficacy is *his stated theory,* not endorsed science.)
-> - **Jung — persona / shadow.** The social mask (persona) is weaponized, and the [[The Light-Bearer|Shadow]] uses it for commercial leverage — the mask that began as protection calcifying toward *replacing* the face.
-> - **[[Nigredo]] — the blackening.** The 2020 manifesto card's *"burning the old world down to the ground… out of the fire something new is being birthed. This is the death of my generation"* is the alchemical blackening, later staged again as the *Bad Feeling* fire-close.
-> - **[[The Labors of Hercules|Hercules]].** *Happy Face* maps to the Hydra (the shadow that regenerates when you strike the symptom, not the root) and the Stymphalian Birds (weaponized noise / intrusive thought). Framework-tier, not intent.
+> - **Jung — persona / shadow.** The social mask (persona) is weaponized, and the [[Concepts/The Light-Bearer|Shadow]] uses it for commercial leverage — the mask that began as protection calcifying toward *replacing* the face.
+> - **[[Concepts/Nigredo]] — the blackening.** The 2020 manifesto card's *"burning the old world down to the ground… out of the fire something new is being birthed. This is the death of my generation"* is the alchemical blackening, later staged again as the *Bad Feeling* fire-close.
+> - **[[Concepts/The Labors of Hercules|Hercules]].** *Happy Face* maps to the Hydra (the shadow that regenerates when you strike the symptom, not the root) and the Stymphalian Birds (weaponized noise / intrusive thought). Framework-tier, not intent.
 
 ## Lyrics
 
@@ -190,7 +190,7 @@ Put on a happy face
 
 - **Grounded (Roy's own words, released music, public posts).** The legal writing/production credit (Roy English & Matt Pauling); the 2020-drop-to-independent-release origin and the 100M-plus streams; the *"Trojan Horse"* method and the *deathofmygeneration.fun* forced-smile experiment; the stove-as-*"alchemical brew"* / shadow-work reading; the sincere *"creating happiness is all I want to do"* wish; Lucius claiming the song by name and calling himself *"the algorithm"* in the theatrical series; the Masquerade venue framing (*"hyperactive melodica," "social media inauthenticity"*); the Jeff Bhasker nursery-rhyme lesson behind the *"simple = complex"* melody; the *Circle → Happy Face* listening order Roy recommends to new fans.
 - **Strong readings.** The Loop keystone (*"what you get when the Circle doesn't stream"*); *Happy Face* as the algorithm's product / Roy's wish inverted; the prototype-mask progression; the doubled *"Death of my generation"*; the sibling staircase; the visual claim preceding the verbal one. Grounded in the material, but interpretive.
-- **Framework (esoteric, syncretic — not authorial intent).** Gurdjieff's objective art; Jung's persona/shadow; [[Nigredo]]; the [[The Labors of Hercules|Hercules]] mapping; the album-center / *"I'm 33"* reading.
+- **Framework (esoteric, syncretic — not authorial intent).** Gurdjieff's objective art; Jung's persona/shadow; [[Concepts/Nigredo]]; the [[Concepts/The Labors of Hercules|Hercules]] mapping; the album-center / *"I'm 33"* reading.
 - **Held / flagged.** That forced smiling or a particular tuning frequency *actually* changes brain chemistry is **Roy's stated claim, not fact.** The *":(a):"* notation and any deeper manifesto-card cipher remain open. The original single's label (Strange Theory, 2020) differs from the album's (Big Loud Rock, 2022) — worth a footnote, not a correction.
 
 > [!note]- Beyond the track — the paratext (the experiment, the video, the NFT, the moon)
@@ -202,5 +202,5 @@ Put on a happy face
 - [[Move To You]] — the Circle-song whose failure the whole machine turns on.
 - [[The Mask]] — the prototype smile, traced across the catalogue.
 - [[Welcome to the Circus]] — the same mask at full, painted scale.
-- [[The Algorithm]] — the machine that here becomes the author.
+- [[Concepts/The Algorithm]] — the machine that here becomes the author.
 - [[The Circle]] — the "Genesis story," and *Happy Face*'s recommended listening partner.

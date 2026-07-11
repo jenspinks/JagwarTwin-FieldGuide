@@ -43,7 +43,7 @@ The shape is **inward-to-outward and statement-to-imperative**: the sacred is in
 
 A few claims that cut across the whole 22 seconds:
 
-- **The machine is not the enemy.** *"The power to create machines"* sits directly beside *"the power to create happiness"* — both framed as human creative capacity, gifts of "the people," not fallen forces. This is the album's clearest, most grounded statement of a theme the catalogue chews on for the next eight years, and it's worth stating plainly because so much of the later work *looks* anti-technology: the villain was never the machine. It's the severing — the machine cut loose from the heart and handed to optimization. Here, before any of that severing gets dramatized, the human pole is stated clean. See [[Machine vs Human]].
+- **The machine is not the enemy.** *"The power to create machines"* sits directly beside *"the power to create happiness"* — both framed as human creative capacity, gifts of "the people," not fallen forces. This is the album's clearest, most grounded statement of a theme the catalogue chews on for the next eight years, and it's worth stating plainly because so much of the later work *looks* anti-technology: the villain was never the machine. It's the severing — the machine cut loose from the heart and handed to optimization. Here, before any of that severing gets dramatized, the human pole is stated clean. See [[Concepts/Machine vs Human]].
 
 - **It reads as prophecy by accident.** Chaplin meant *"the power to create machines"* as anti-fascist, anti-industrial-war humanism. In 2018-and-after it can't help colliding with everything the later catalogue fears — algorithms, platforms, database identity, engineered attention, AI. Humanity holds the power both to *free* consciousness and to *build the machinery that traps it*, and the interlude states the hopeful pole first, before the trap is even visible.
 
@@ -60,7 +60,7 @@ A few claims that cut across the whole 22 seconds:
 
 ## Symbols
 
-- **[[The Prop Room#The Machine|The Machine]]** — named here as *human creative capacity*, the album's clearest statement that it is not the antagonist. This is the anchor of the [[Machine vs Human]] arc; the whole thread grows from these two lines.
+- **[[The Prop Room#The Machine|The Machine]]** — named here as *human creative capacity*, the album's clearest statement that it is not the antagonist. This is the anchor of the [[Concepts/Machine vs Human]] arc; the whole thread grows from these two lines.
 - **The clown** (via Chaplin) — inverted: the clown who *wakes* the crowd, the historical inverse of the Ringmaster who herds it for spectacle.
 - **The kingdom within** — interior divinity, distributed across all, concentrated in no one. The counter-image to the surveillance the catalogue later names.
 - **[[The Prop Room#The Flood|The Flood]]** — the interlude is 22 seconds inside an album named for the deluge. Set against that title, *"let us all unite," "make this life free and beautiful"* reads as the human cry against drowning — a brief flash of daylight inside the immersion.
@@ -72,7 +72,7 @@ A few claims that cut across the whole 22 seconds:
 - **[[Precious Time]]** — the album's *third* inherited transmission, a sampled scrap of Sarah Vaughan's spoken banter. Chaplin, Mercer, Vaughan: three borrowed voices on one debut. This isn't a one-off; it's a method.
 - **[[I Like to Party]]** (*33*, 2022) — the crucial cross-era link. Chaplin's *"the kingdom of God is within man"* comes back here **re-voiced as Roy's own lyric** — *"Heaven is within your heart / you're the kingdom"* — not a sample this time, but the borrowed humanism carried forward and dropped into the media-machine. And the bridge's *"we interrupt our program"* plays like the Chaplin counter-broadcast breaking into the feed — only now the awakening gets cut off mid-word.
 - **[[Welcome to the Circus]]** — the clown archetype *captured* by spectacle; the historical inversion of the Chaplin clown who speaks against it.
-- **[[Online]]** — the database, synchronization, and surveillance the interlude's hope predates; the "counterfeit we." Also the [[Machine vs Human]] escalation node.
+- **[[Online]]** — the database, synchronization, and surveillance the interlude's hope predates; the "counterfeit we." Also the [[Concepts/Machine vs Human]] escalation node.
 - **[[Good Day]]** (same album, two tracks earlier) — its throwaway line *"no time for the clown, clowns"* sits in quiet retrospective tension with the reverent Chaplin sample two tracks later. Not a contradiction — different registers (*"clowns"* = sycophant; Chaplin = humanist) — but a wry structural rhyme all the same.
 - **[[The Circle]]** (*33*, 2022) — the "collective face" / "you are it" doctrine that the *"not one man but all men"* clause structurally prefigures.
 
@@ -82,7 +82,7 @@ A few claims that cut across the whole 22 seconds:
 > - **Internal architecture** is everything Roy builds *inside* the mythos — Lucius, El Roi, the Loop and the Circle, the algorithm language, the recursive mirrors, the theatrical duality.
 > - **Inherited transmission** is everything he *selects and relays* from the wider culture — Chaplin, Mercer, Vaughan, humanitarian modernism, anti-fascist speech, jazz-standard emotional vocabulary.
 >
-> The interlude is squarely the second kind. Naming which mode is in play — did Roy *invent* this or *choose* it? — is what keeps the interpretation honest and stops every resemblance from inflating into intent. The catalogue doesn't only build by inventing symbols; it builds by *selecting, relaying, and recontextualizing* inherited ones inside an evolving structure. This interlude is the cleanest case study, which is why it's the most important thing the track teaches. See [[Inherited Substrate]].
+> The interlude is squarely the second kind. Naming which mode is in play — did Roy *invent* this or *choose* it? — is what keeps the interpretation honest and stops every resemblance from inflating into intent. The catalogue doesn't only build by inventing symbols; it builds by *selecting, relaying, and recontextualizing* inherited ones inside an evolving structure. This interlude is the cleanest case study, which is why it's the most important thing the track teaches. See [[Concepts/Inherited Substrate]].
 
 > [!note]- Advanced reading — the decentralized sacred, and "not one man but all men" *(tap to open)*
 > *"The kingdom of God is within man / not in one man / nor a group of men / but in all men / in you"* does two things at once. It locates divinity *inside* — and then explicitly **de-centralizes** it, refusing to seat it in any single figure or hierarchy.
@@ -91,7 +91,7 @@ A few claims that cut across the whole 22 seconds:
 >
 > There's a further resonance here that runs cross-era: that *"not one man but all men"* clause is the exact theological shape of two much later doctrines — **the Circle's "collective face"** (the idea that *"every person has it inside of them,"* the template anyone can instantiate) and **the anti-guru ethic** (*"everyone's a guru"* — no privileged holder of the treasure). Read that way, the debut's one borrowed-voice track already imports, in 1940 language, the precise anti-hierarchical stance the catalogue spends eight years rebuilding in its own myth. The album's "we, not me" was never *only* solidarity — it was already a theology of distribution: the treasure is in everyone, or it's nowhere.
 >
-> One honest flag: reading this as a seed of Roy's *own* later "God who sees me" throat-doctrine risks back-reading a 2026 idea onto a 1940 quote — and the quote is itself Chaplin borrowing from the Gospel (Luke 17:21). So the resemblance is real and worth naming, but it's a resonance between two inherited humanisms, not proof that the interlude *planted* the later doctrine on purpose. See [[Witnessing vs Surveillance]].
+> One honest flag: reading this as a seed of Roy's *own* later "God who sees me" throat-doctrine risks back-reading a 2026 idea onto a 1940 quote — and the quote is itself Chaplin borrowing from the Gospel (Luke 17:21). So the resemblance is real and worth naming, but it's a resonance between two inherited humanisms, not proof that the interlude *planted* the later doctrine on purpose. See [[Concepts/Witnessing vs Surveillance]].
 
 > [!note]- Advanced reading — the human cry against drowning, and "objective art" *(tap to open)*
 > **Inside the Flood.** The album is named for the deluge — the sense of being immersed, overwhelmed, boundaries collapsing. Read against that title, this 22-second speech is the human voice refusing to go under: *"let us all unite," "make this life free and beautiful."* A momentary flash of daylight — an awakening call — inside the immersion. It's the smallest track on the record and, in this frame, the one that most directly names the stakes: not *we are being attacked* but *we are already breathing the water*, and here is the cry against it.
@@ -129,8 +129,8 @@ Let us all unite
 ## Read next
 
 - [[Superhuman]] — the full track this relay opens; the human reaching for divine power by force.
-- [[Machine vs Human]] — the arc this song seeds, followed from 1940 Chaplin through the algorithm to Lucius.
+- [[Concepts/Machine vs Human]] — the arc this song seeds, followed from 1940 Chaplin through the algorithm to Lucius.
 - [[Dream - Dream]] — the album's companion relay (the Mercer interpolation); the curation practice in a second register.
-- [[Inherited Substrate]] — the method itself: how the catalogue builds by selecting and relaying, not only inventing.
+- [[Concepts/Inherited Substrate]] — the method itself: how the catalogue builds by selecting and relaying, not only inventing.
 - [[I Like to Party]] — where the borrowed "kingdom within" comes back as Roy's own words, inside the machine.
 - [[Welcome to the Circus]] — the clown captured by spectacle; the far end of the inversion this interlude sits at the near end of.

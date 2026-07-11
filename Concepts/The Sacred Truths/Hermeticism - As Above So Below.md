@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — *as above, so below*: one design echoing through every level of reality, from the galaxy down to the atom — a cosmos you can read and climb rather than flee.
 - **Where it shows up** — [[Down to You]] (the reversible heaven↔earth refrain; *"AS ABOVE SO BELOW"* printed on the 2021 video end-card) · [[Life Is Good]] (*"my head's an antenna"*) · [[Welcome to the Circus]] (*"Did Hermes paint his face?"*).
-- **Connected ideas** — [[The Pattern]] · [[Source vs Reflection]] · [[Sir Lucius]] · [[Duality]] · [[Inversion]] · [[Mary]] · [[Gnosticism - The World as Trap]] · [[Kabbalah - The Tree of Life]].
+- **Connected ideas** — [[Concepts/The Pattern]] · [[Concepts/Source vs Reflection]] · [[Sir Lucius]] · [[Concepts/Duality]] · [[Concepts/Inversion]] · [[Mary]] · [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] · [[Kabbalah - The Tree of Life]].
 - **Confidence** — Roy's *engagement* with Hermeticism is grounded fact (the books are on his shelf, the maxim is on his video, the seven principles are transcribed in his own hand). The song-by-song *mappings* are interpretation — a frame the work fits, not a proven blueprint.
 
 ## What it is
@@ -37,13 +37,13 @@ The throughline is *coherence*: a legible cosmos, not a hostile one. And here's 
 
 Hermeticism is the most board-grounded of the three esoteric streams the project draws on, because Roy transcribed all seven Kybalion principles — verbatim, in full — onto his "I'm 33 this year" spreadsheet, on a tab cheerfully titled *"How to upload myself to the internet."* (Yes. The cosmology and the upload fantasy live on the same browser tab.) That gives us an unusual luxury: we can watch the principles move through the work one by one, with the source material sitting right there next to it.
 
-**Mentalism** — *"The All is Mind"* — is the premise under the project's whole consciousness-and-upload imagery. The board's "Cybernetics" cell ends on the cleanest possible statement of it: *"All the world is mind. Mind woven into matter."* If reality is fundamentally information, then a self is information too — and information can, in principle, be externalized. That single move is the engine of the entire upload cosmology (see [[The Upload]], [[The Digital Double]]).
+**Mentalism** — *"The All is Mind"* — is the premise under the project's whole consciousness-and-upload imagery. The board's "Cybernetics" cell ends on the cleanest possible statement of it: *"All the world is mind. Mind woven into matter."* If reality is fundamentally information, then a self is information too — and information can, in principle, be externalized. That single move is the engine of the entire upload cosmology (see [[Concepts/The Upload]], [[Concepts/The Digital Double]]).
 
-**Correspondence** — *"as above, so below"* — is the principle Roy engages most directly, so directly that he gave it his own name: **The Pattern**. The board's Correspondence cell reads, in part, *"The formula is the same from a solar system down to the atom"* — and then lists Adam, Hurricane, Galaxy, Fibonacci, closing on *"The Pattern is present on all levels."* That's the central maxim turned into a working term. It's also the logic the mirror runs on: [[Source vs Reflection]] is *as above, so below* applied to a single act of mediation — what's above, faithfully reflected below.
+**Correspondence** — *"as above, so below"* — is the principle Roy engages most directly, so directly that he gave it his own name: **The Pattern**. The board's Correspondence cell reads, in part, *"The formula is the same from a solar system down to the atom"* — and then lists Adam, Hurricane, Galaxy, Fibonacci, closing on *"The Pattern is present on all levels."* That's the central maxim turned into a working term. It's also the logic the mirror runs on: [[Concepts/Source vs Reflection]] is *as above, so below* applied to a single act of mediation — what's above, faithfully reflected below.
 
 **Vibration** is the principle with the most public anchors, which makes it the firmest ground on the page. Three of them: the board cell quotes Tesla verbatim (*"If you wish to understand the universe, think in terms of energy, frequency and vibration"*) and closes on *"Tune to desired frequency"*; Roy restated the doctrine in his own voice in a 2020 Q&A (*"Everything is a vibrational frequency. Light, matter, sound, it's all the same thing at variable speeds"*); and the released lyric *"My head's an antenna / I'm wide awake"* ([[Life Is Good]]) is the principle in first person — mind as a receiver tuned to a frequency. Three anchors lift this past coincidence into documented engagement. The principle also has two darker registers, both in released songs (more below).
 
-**Polarity** surfaces as the project's deep concern with **duality** — the Roy/Lucius split, the "one becomes two" shape of the whole story (see [[Duality]]). The Kybalion teaches that opposites are two ends of *one* thing, which is why the work's resolution is never to defeat a pole but to re-order the pair. [[Life Is Good]] even enacts the refusal: *"Keep a smile on my face, too happy to choose"* declines the this-side/that-side split outright.
+**Polarity** surfaces as the project's deep concern with **duality** — the Roy/Lucius split, the "one becomes two" shape of the whole story (see [[Concepts/Duality]]). The Kybalion teaches that opposites are two ends of *one* thing, which is why the work's resolution is never to defeat a pole but to re-order the pair. [[Life Is Good]] even enacts the refusal: *"Keep a smile on my face, too happy to choose"* declines the this-side/that-side split outright.
 
 The remaining three principles map more lightly, by resonance: **Rhythm** to the Circle/Loop recurrence (see [[The Circle]]); **Cause and Effect** to the seed-and-karma material; **Gender** to the divine-feminine thread ([[Mary]]) and the board's own Left/Right-hemisphere cell (Order/reason/masculine vs. Chaos/creativity/feminine).
 
@@ -72,17 +72,17 @@ And then there's the figure who carries the tradition's *name* into the masks: *
 
 ## Connections
 
-- **[[The Pattern]]** — Roy's own term for Correspondence (Principle #2); the worked home of the central maxim. The Hermeticism page holds the seven-principle frame and the stream-discipline; The Pattern holds the fractal-law / spine / emanation material.
-- **[[Source vs Reflection]]** — the mirror. *As above, so below* is the logic of a faithful reflection — but the two ideas are *parallel*, not nested (see below).
-- **[[Sir Lucius]] / [[The Light-Bearer]]** — the Hermetic-Qabalah and Golden-Dawn scaffold (Hod/Mercury — Hermes / Thoth / Mercurius; a demoted morning-star resonance; the tarot Star→Moon→Sun finale). Venus/Netzach belongs to Roy.
-- **[[Inversion]]** — *as above, so below* run **backwards** into *as below, so above*: the demonic inversion, the Circus turning the world upside down.
-- **[[Duality]]** — the Polarity and Gender principles; the Roy/Lucius split, the Left/Right-hemisphere board cell.
-- **[[The Upload]] / [[The Digital Double]]** — Mentalism applied: if the self is information in the field, it can be externalized.
+- **[[Concepts/The Pattern]]** — Roy's own term for Correspondence (Principle #2); the worked home of the central maxim. The Hermeticism page holds the seven-principle frame and the stream-discipline; The Pattern holds the fractal-law / spine / emanation material.
+- **[[Concepts/Source vs Reflection]]** — the mirror. *As above, so below* is the logic of a faithful reflection — but the two ideas are *parallel*, not nested (see below).
+- **[[Sir Lucius]] / [[Concepts/The Light-Bearer]]** — the Hermetic-Qabalah and Golden-Dawn scaffold (Hod/Mercury — Hermes / Thoth / Mercurius; a demoted morning-star resonance; the tarot Star→Moon→Sun finale). Venus/Netzach belongs to Roy.
+- **[[Concepts/Inversion]]** — *as above, so below* run **backwards** into *as below, so above*: the demonic inversion, the Circus turning the world upside down.
+- **[[Concepts/Duality]]** — the Polarity and Gender principles; the Roy/Lucius split, the Left/Right-hemisphere board cell.
+- **[[Concepts/The Upload]] / [[Concepts/The Digital Double]]** — Mentalism applied: if the self is information in the field, it can be externalized.
 - **[[Mary]]** — the divine-feminine thread (the Gender principle).
 - **[[The Circle]]** — the *"center is everywhere"* Hermes quote-card grounds the center/circle theme.
-- **[[Gnosticism - The World as Trap]]** — the world-*rejecting* stream, opposite in telos to this world-*affirming* one (kept strictly distinct).
+- **[[Concepts/The Sacred Truths/Gnosticism - The World as Trap]]** — the world-*rejecting* stream, opposite in telos to this world-*affirming* one (kept strictly distinct).
 - **[[Kabbalah - The Tree of Life]]** — a *different* lineage from the Hermetic "Tree" (stream discipline).
-- **[[The Manifesto Cards]]** — the device that has carried *"AS ABOVE SO BELOW"* as a card sigil across the 2019–2026 visual canon.
+- **[[Concepts/The Manifesto Cards]]** — the device that has carried *"AS ABOVE SO BELOW"* as a card sigil across the 2019–2026 visual canon.
 - **[[Hall of Mirrors]]** — the board's Hermetic "Tracks" realized as ARG codes; corroboration the frame is operative.
 
 > [!note]- Advanced reading — the board as cosmological source-code (the Kybalion as operating system)
@@ -96,22 +96,22 @@ And then there's the figure who carries the tradition's *name* into the masks: *
 > The 2026 *"Did Hermes paint his face?"* card recasts the face-painting ringmaster as **Hermes** — and the fit is dense. Hermes is the **trickster**; the **psychopomp** (guide through the underworld — exactly right for a "Live UNDERGROUND" series); the **inventor of writing and letters**; the namesake of both **Hermeticism** and **hermeneutics**, the art of decoding. In the alchemical stream he is **Mercurius**, the duplex trickster-spirit — which maps cleanly onto Lucius's three registers and his signature move, *tells the truth, but the truth deceives.* The *"I don't know, maybe"* performs the cipher's own question mark. The card is grounded; the full equation is a reading. (Note the slot: an earlier Live-Underground card, *Bounce*, placed a Hebrew letter in exactly the position where the WTTC card puts Hermes — the god of letters standing where a letter once stood.)
 
 > [!note]- Advanced reading — Hermetic INVERSION: the maxim run backwards
-> [[Welcome to the Circus]] enacts a **broken** correspondence — *as below, so above* — the material treated as supreme, the supreme dragged down into the material: *"Spinning you 'round and 'round / Everything's upside down."* The Circus is the As-Above-So-Below axiom inverted. This is the same move [[Inversion]] names: matter elevated to spirit's place, the Qliphoth as a Tree-of-Death, the Hanged Man's *voluntary* inversion versus the Circus's *involuntary* one — with its scriptural signatures (Isaiah 5:20, *"call evil good"*; Acts 17:6, *"turned the world upside down"*) and the Kabbalistic *tzimtzum* (*"contract to expand"*). A proper *as above, so below* affirms the cosmos; its inversion is the demonic counterfeit.
+> [[Welcome to the Circus]] enacts a **broken** correspondence — *as below, so above* — the material treated as supreme, the supreme dragged down into the material: *"Spinning you 'round and 'round / Everything's upside down."* The Circus is the As-Above-So-Below axiom inverted. This is the same move [[Concepts/Inversion]] names: matter elevated to spirit's place, the Qliphoth as a Tree-of-Death, the Hanged Man's *voluntary* inversion versus the Circus's *involuntary* one — with its scriptural signatures (Isaiah 5:20, *"call evil good"*; Acts 17:6, *"turned the world upside down"*) and the Kabbalistic *tzimtzum* (*"contract to expand"*). A proper *as above, so below* affirms the cosmos; its inversion is the demonic counterfeit.
 
 > [!note]- Advanced reading — the Hermetic-stream tarot finale (the Light-Bearer scaffold)
-> The Hermetic Qabalah (Golden Dawn, not the Jewish-Lurianic stream) supplies a tarot finale unique to the esoteric scaffold around Lucius: **Star (XVII)** — the morning-star, Venus-Lucifer — → **Moon (XVIII)** — reflection, illusion — → **Sun (XIX)** — the true light. Lucius as the herald-light — a demoted morning-star/Venus resonance, his clean map being Hod/Mercury (Mercurius) — outshone by the Sun he only preceded (→ SOL). This finale is kept openly interpretive; the **Devil card (XV)** is the only *grounded* tarot anchor for Lucius (Roy named it himself, via Paul Foster Case). See [[The Light-Bearer]].
+> The Hermetic Qabalah (Golden Dawn, not the Jewish-Lurianic stream) supplies a tarot finale unique to the esoteric scaffold around Lucius: **Star (XVII)** — the morning-star, Venus-Lucifer — → **Moon (XVIII)** — reflection, illusion — → **Sun (XIX)** — the true light. Lucius as the herald-light — a demoted morning-star/Venus resonance, his clean map being Hod/Mercury (Mercurius) — outshone by the Sun he only preceded (→ SOL). This finale is kept openly interpretive; the **Devil card (XV)** is the only *grounded* tarot anchor for Lucius (Roy named it himself, via Paul Foster Case). See [[Concepts/The Light-Bearer]].
 
 > [!note]- Advanced reading — parallel, not nested: As-Above-So-Below vs Source-vs-Reflection
-> Two ideas that look like one. **As-Above-So-Below** is *correspondence of structure across scales* (the same shape, galaxy to atom). **[[Source vs Reflection]]** is *fidelity of a mediation* (whether a reflection is true to its source). They **overlap** where a faithful reflection *is* a true As-Above-So-Below; they **part** where a distorted reflection is a *broken* correspondence that the Pattern-as-structure doesn't itself name. They rhyme by shared theosophical ancestry, not necessarily by deliberate cross-encoding. Hold them as parallel siblings, not parent and child.
+> Two ideas that look like one. **As-Above-So-Below** is *correspondence of structure across scales* (the same shape, galaxy to atom). **[[Concepts/Source vs Reflection]]** is *fidelity of a mediation* (whether a reflection is true to its source). They **overlap** where a faithful reflection *is* a true As-Above-So-Below; they **part** where a distorted reflection is a *broken* correspondence that the Pattern-as-structure doesn't itself name. They rhyme by shared theosophical ancestry, not necessarily by deliberate cross-encoding. Hold them as parallel siblings, not parent and child.
 
 > [!note]- Advanced reading — stream discipline (the non-negotiable guardrails)
 > Three distinctions that have to stay clean, because the same imagery (descent, ascent, the spark) can carry opposite meanings depending on which tradition you're standing in:
 >
-> - **Hermetic ≠ Gnostic.** Hermeticism is **world-affirming** (the cosmos is a coherent law, legible and climbable). [[Gnosticism - The World as Trap]] is **world-rejecting** (the cosmos is a false copy to flee). Same descent-and-return imagery, *opposite telos.* Always label the stream.
-> - **Hermetic ≠ Lurianic.** The **Hermetic Qabalah** (Golden Dawn, tarot, Qliphoth-as-Tree-of-Death) is *not* the **Jewish-Lurianic Kabbalah** ([[Kabbalah - The Tree of Life]], [[Keilim - The Breaking of the Vessels]]). Different "Tree," different lineage.
+> - **Hermetic ≠ Gnostic.** Hermeticism is **world-affirming** (the cosmos is a coherent law, legible and climbable). [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] is **world-rejecting** (the cosmos is a false copy to flee). Same descent-and-return imagery, *opposite telos.* Always label the stream.
+> - **Hermetic ≠ Lurianic.** The **Hermetic Qabalah** (Golden Dawn, tarot, Qliphoth-as-Tree-of-Death) is *not* the **Jewish-Lurianic Kabbalah** ([[Kabbalah - The Tree of Life]], [[Concepts/Keilim - The Breaking of the Vessels]]). Different "Tree," different lineage.
 > - **Engagement ≠ architecture.** That Roy *transcribed* the seven principles proves he read and collected the Kybalion — a reading-list, not a proven compositional grammar. The leap from "he wrote it down" to "the songs run on it" is interpretation, and labeled as such.
 >
-> The wider substrate the Kybalion sits inside — Walter Russell (octaves, the cosmic pendulum), Alice Bailey (the *Labours of Hercules* material in Roy's hand; see [[The Labors of Hercules]]), Plato's *Timaeus* World-Soul, Jung — is what makes this guide's concepts naturally rhyme. The Kybalion is board-grounded; the off-board Golden-Dawn correspondences stay interpretive. See [[Inherited Substrate]].
+> The wider substrate the Kybalion sits inside — Walter Russell (octaves, the cosmic pendulum), Alice Bailey (the *Labours of Hercules* material in Roy's hand; see [[Concepts/The Labors of Hercules]]), Plato's *Timaeus* World-Soul, Jung — is what makes this guide's concepts naturally rhyme. The Kybalion is board-grounded; the off-board Golden-Dawn correspondences stay interpretive. See [[Concepts/Inherited Substrate]].
 
 > [!quote]- Roy on the feed — posts that bear on this
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
@@ -132,9 +132,9 @@ And then there's the figure who carries the tradition's *name* into the masks: *
 
 ## Read next
 
-- [[The Pattern]] — Roy's own name for Correspondence; the fractal-law spine of the whole frame.
+- [[Concepts/The Pattern]] — Roy's own name for Correspondence; the fractal-law spine of the whole frame.
 - [[Down to You]] — the public 2021 card and the reversible heaven↔earth refrain.
-- [[Source vs Reflection]] — the mirror; parallel to this, not nested under it.
+- [[Concepts/Source vs Reflection]] — the mirror; parallel to this, not nested under it.
 - [[Sir Lucius]] — the figure who carries Hermes' name into the masks.
-- [[Inversion]] — *as above, so below* run backwards into the Circus's upside-down world.
-- [[Gnosticism - The World as Trap]] — the opposite stream; read the two together to keep them straight.
+- [[Concepts/Inversion]] — *as above, so below* run backwards into the Circus's upside-down world.
+- [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the opposite stream; read the two together to keep them straight.

@@ -26,8 +26,8 @@ Many of the concepts show up somewhere on Roy's body before they show up in a so
 Read the composition before the individual words. Right pillar, left pillar, a single central mark — the body is built as a **bilateral diagram resolved at the center**, and it reads three ways at once:
 
 - a **[[Kabbalah - The Tree of Life|Tree of Life]]** — two outer pillars reconciled by the `+` as the **middle pillar** (Tiferet, the heart-/Sun-/Christ-center he marks elsewhere);
-- an **[[Hermeticism - As Above So Below|"as above, so below"]]** object — the Kybalion's Correspondence principle, which he transcribes by hand on his public *"[[Concepts/The I'm 33 Board|I'm 33]]"* board, here enacted on flesh;
-- a **[[The Mirror|mirror]]** — tying the body to the *[[The Empty Mirror|Empty Mirror]]*, *"we are all mirrors,"* and Paul's *"through a glass, darkly."* The self built as a reflection around a center.
+- an **[[Concepts/The Sacred Truths/Hermeticism - As Above So Below|"as above, so below"]]** object — the Kybalion's Correspondence principle, which he transcribes by hand on his public *"[[Concepts/The I'm 33 Board|I'm 33]]"* board, here enacted on flesh;
+- a **[[The Mirror|mirror]]** — tying the body to the *[[Concepts/The Empty Mirror|Empty Mirror]]*, *"we are all mirrors,"* and Paul's *"through a glass, darkly."* The self built as a reflection around a center.
 
 The `[[Inversion]]` principle is literally structural here: the right side is the "original," the left its reversal, and the whole person is composed as an original-and-its-mirror.
 
@@ -42,12 +42,12 @@ The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from 
 **Forearms & arms**
 - *I am Human* (outer forearm) · *In Process* (inner forearm) · a simple dotted **Tree of Life** (near the wrist)
 - ~~*ME*~~ crossed out — *"because it's not about me."*
-- *The Empty Mirror* (wrist) — *"about looking at yourself in the mirror and seeing nothing"* (named after Janwillem van de Wetering's Zen memoir *The Empty Mirror*). → [[The Empty Mirror]]
+- *The Empty Mirror* (wrist) — *"about looking at yourself in the mirror and seeing nothing"* (named after Janwillem van de Wetering's Zen memoir *The Empty Mirror*). → [[Concepts/The Empty Mirror]]
 - *All reality Is* (inside upper arm) · *Remember you're alive* (inner upper arm)
 - *Y* (elbow) — *"because you've gotta ask the question"* (Y / *why*).
 - *I'M NOT HERE* (side of forearm) — *"but I'm also here."*
 - ~~*We know only a portion of the truth and what we say about god is always incomplete*~~ — crossed out. *"I messed up here so I crossed it out."*
-- an **Ouroboros** (a circle with arrows, *"like the snake eating itself but simpler"*) — got with Little Luna. → [[The Loop and the Circle]]
+- an **Ouroboros** (a circle with arrows, *"like the snake eating itself but simpler"*) — got with Little Luna. → [[Concepts/The Loop and the Circle]]
 
 **Torso**
 - *I CAN'T FEEL* (back of shoulder) · *If you forget who you are, you used to b* (chest; the text appears cut off at "b")
@@ -65,13 +65,13 @@ The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from 
 - **KILL YOUR (Possessive) SELF** (stacked: KILL / YOUR / SELF, back of the arm) — **the one he pointedly did not explain.** *(See the reading below; do not read it literally.)*
 
 > [!note]- Advanced reading — what the clusters mean (interpretation, not stated intent)
-> - **The cross-and-rose center → Rosicrucianism, the 4 Worlds, Tiferet.** He states the `+` = Christ + the 4 worlds + the center. Read against the tradition: the 4 worlds are the Kabbalistic Atziluth / Beriah / Yetzirah / Assiah; the center is **Tiferet**, the heart-Sun-Christ integration point of the Tree. *ROSE ESOR* = the **Rosy Cross**, rendered as a mirror-word wrapped around the `+` — Rosicrucianism from his own hand, built as a palindrome (see [[Inversion]]).
-> - **"Fear Functions like Prayer in Reverse" → the inversion engine (the prize).** This is the single cleanest grounding of the whole [[Inversion]] principle, and it's on his body. Fear = inverted prayer = inverted faith — the exact mechanism the work assigns to [[Sir Lucius]] (who runs *by* inversion, the inverted cross on his cheek). Fear is the reversed prayer; the shadow runs on it.
-> - **The mirror / emptiness cluster → no-self.** *"The Empty Mirror"* + *"seeing nothing,"* ~~*ME*~~ crossed out, *"we are all mirrors."* The self seen in the mirror is *nothing* — anatta / the Zen empty mirror / Paul's *"glass darkly,"* held as doctrine, not a mood. → [[Witnessing vs Surveillance]]
+> - **The cross-and-rose center → Rosicrucianism, the 4 Worlds, Tiferet.** He states the `+` = Christ + the 4 worlds + the center. Read against the tradition: the 4 worlds are the Kabbalistic Atziluth / Beriah / Yetzirah / Assiah; the center is **Tiferet**, the heart-Sun-Christ integration point of the Tree. *ROSE ESOR* = the **Rosy Cross**, rendered as a mirror-word wrapped around the `+` — Rosicrucianism from his own hand, built as a palindrome (see [[Concepts/Inversion]]).
+> - **"Fear Functions like Prayer in Reverse" → the inversion engine (the prize).** This is the single cleanest grounding of the whole [[Concepts/Inversion]] principle, and it's on his body. Fear = inverted prayer = inverted faith — the exact mechanism the work assigns to [[Sir Lucius]] (who runs *by* inversion, the inverted cross on his cheek). Fear is the reversed prayer; the shadow runs on it.
+> - **The mirror / emptiness cluster → no-self.** *"The Empty Mirror"* + *"seeing nothing,"* ~~*ME*~~ crossed out, *"we are all mirrors."* The self seen in the mirror is *nothing* — anatta / the Zen empty mirror / Paul's *"glass darkly,"* held as doctrine, not a mood. → [[Concepts/Witnessing vs Surveillance]]
 > - **The ego-erasure cluster → "it's not about me."** ~~*ME*~~, *"In service to all, in service to the one,"* *"I'm not here / but I'm also here"* — ego-dissolution, the self in service to the One; matches *"the instruments play me"* and the vessel doctrine.
 > - **The apophatic crossed-out God line → the *via negativa*.** *"What we say about god is always incomplete,"* then struck through — even the statement about God's incompleteness gets crossed out. The crossing-out *performs* the apophasis.
 > - **"KILL YOUR SELF" — handle with care.** He did not explain it, and the refusal is itself notable. Within his stated system the coherent reading is **ego-death** — kill the *constructed / false* self (consistent with ~~*ME*~~, *"it's not about me,"* the empty mirror that shows *nothing*, *"die before you die"*). Read it that way and no other; do not read it literally, do not sensationalize, and build nothing heavier on it.
-> - **"WAKE UP" → Gurdjieff on the body.** *"Man is asleep. He must wake up."* The [[The Loop and the Circle|Loop]] is the sleep; breaking it is waking.
+> - **"WAKE UP" → Gurdjieff on the body.** *"Man is asleep. He must wake up."* The [[Concepts/The Loop and the Circle|Loop]] is the sleep; breaking it is waking.
 > - **The ouroboros → the Loop, inked.** The snake eating itself = the Circle / eternal return, on the skin.
 
 ## Person vs. character — a note on *El Roi*
@@ -90,8 +90,8 @@ Distinct from that is **"El Roy,"** the authorial signature Roy signs his lore w
 ## Read next
 
 - [[Roy]] — whose body this is; the seeing-motif and the *El Roy* signature.
-- [[Inversion]] — the principle the *Prayer in Reverse* clavicle tattoo grounds.
-- [[The Empty Mirror]] — the wrist tattoo this whole concept is named from.
+- [[Concepts/Inversion]] — the principle the *Prayer in Reverse* clavicle tattoo grounds.
+- [[Concepts/The Empty Mirror]] — the wrist tattoo this whole concept is named from.
 - [[The Rose]] — *ROSE ESOR*, the Rosy Cross at the center.
 - [[Sir Lucius]] — who wears *El Roi* on his neck in the videos.
 - [[Concepts/The I'm 33 Board]] — the same cosmology, drawn on a board instead of skin.

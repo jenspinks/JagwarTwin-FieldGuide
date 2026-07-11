@@ -13,7 +13,7 @@ aliases:
 
 > **One-line reading.** At the far end of Roy's own thread stand the artists his myth says *"completed the circle"* — and the honest news is that the four of them lend the work four very different things. One is a signed collaborator. One is a ghost in a borrowed hook. Two are heroes named out loud, which buys a lens and not a decoder ring.
 
-[[The Circle]] closes *33* with a small cosmology and one throwaway roll-call: the ones who remembered the song and sang it back — *"a Jesus, a Bowie, a Prince."* On the album that shares Christ's age, that line is doing quiet theological work, and it tells you exactly who Roy files at the top of his lineage: not a reading list, a **line**. This page keeps the *musicians* — Joni Mitchell, Michael Jackson, David Bowie, Prince — and, more importantly, keeps them honest. Naming a hero licenses a way of hearing; it does not turn a resemblance into a receipt. (For that rule in full, and the affectionate house motto *not all resemblance is reference,* see [[Inherited Substrate]].)
+[[The Circle]] closes *33* with a small cosmology and one throwaway roll-call: the ones who remembered the song and sang it back — *"a Jesus, a Bowie, a Prince."* On the album that shares Christ's age, that line is doing quiet theological work, and it tells you exactly who Roy files at the top of his lineage: not a reading list, a **line**. This page keeps the *musicians* — Joni Mitchell, Michael Jackson, David Bowie, Prince — and, more importantly, keeps them honest. Naming a hero licenses a way of hearing; it does not turn a resemblance into a receipt. (For that rule in full, and the affectionate house motto *not all resemblance is reference,* see [[Concepts/Inherited Substrate]].)
 
 One name from that roll-call is deliberately missing here. Jesus isn't a musician, and the tradition he anchors lives in its own pages rather than in a lineup of records. So four artists, four honest paragraphs, in descending order of how much you can actually prove.
 
@@ -21,7 +21,7 @@ One name from that roll-call is deliberately missing here. Jesus isn't a musicia
 
 - **In one line** — the four musicians at the end of Roy's thread, ranked by how solid the tie really is: Joni (a real credit), Michael Jackson (a real interpolation), Bowie and Prince (named heroes plus a reading).
 - **Where it shows up** — [[Soul Is A Star]] (Joni's co-write) · [[The Watchers]] (the Rockwell / Michael Jackson hook) · [[The Circle]] (the *"a Jesus, a Bowie, a Prince"* line that frames the whole thing) · [[Sir Lucius]] (the Bowie-shaped mask) · [[Moths to the Flame]] (the Prince thread, thinner than it looks).
-- **Connected ideas** — [[Inherited Substrate]] · [[Roy on Influences]] · [[The Circle]].
+- **Connected ideas** — [[Concepts/Inherited Substrate]] · [[Roy on Influences]] · [[The Circle]].
 - **The order of confidence** — Joni is documented. Michael Jackson is documented, once removed. Bowie and Prince are named exemplars wearing an interpretive coat. The page never lets the strong end vouch for the soft end.
 
 ## Joni Mitchell — the one that's actually on the record
@@ -42,7 +42,7 @@ Michael Jackson's presence in the work is real, but it arrives *through* another
 
 It gets better the longer you look, and this is where the pick starts to feel deliberate rather than lucky. Rockwell wrote *"Somebody's Watching Me"* out of genuine paranoia in a famous father's house — Berry Gordy dismissed the demo, then took the credit; the son buried his own surname to be heard as himself and not as a Motown copy. That is uncannily close to the machinery of this project: a buried name (English becoming Jagwar Twin), a self split into a persona to survive being watched, and the question of *whose voice is this* sitting under everything. Michael Jackson's uncredited hook is the neatest possible emblem of it — the other voice inside your own song, the one nobody labels. Roy didn't have to reach for a surveillance record with a buried-son parable and a ghost-voice baked in. He reached for that one.
 
-Two honest calibrations, so the enthusiasm doesn't run off with the facts. The interpolation is documented and load-bearing — that part is solid. But whether the buried-Jackson-voice reading is *the point* or a happy accident is a question the song leaves open, and a genuinely elegant coincidence would look identical from here. And this is fundamentally participation in an older record, the same method that runs through the whole catalogue, sitting alongside Joni, Johnny Mercer, Norman Rockwell's namesake and the rest of the borrowed songbook (see [[Inherited Substrate]]). Michael Jackson is really here. He's just here as a haunting, not a handshake.
+Two honest calibrations, so the enthusiasm doesn't run off with the facts. The interpolation is documented and load-bearing — that part is solid. But whether the buried-Jackson-voice reading is *the point* or a happy accident is a question the song leaves open, and a genuinely elegant coincidence would look identical from here. And this is fundamentally participation in an older record, the same method that runs through the whole catalogue, sitting alongside Joni, Johnny Mercer, Norman Rockwell's namesake and the rest of the borrowed songbook (see [[Concepts/Inherited Substrate]]). Michael Jackson is really here. He's just here as a haunting, not a handshake.
 
 ## David Bowie — the mask-maker
 
@@ -64,7 +64,7 @@ That's genuinely meaningful in Roy's cosmology, where completing the circle is t
 
 ## The honest clause
 
-Here's the throughline, stated once so no reader walks away over-reading it. Roy names his heroes out loud — which is generous, and rare, and the reason this page can exist at all. But a named hero **licenses a lens; it does not decode a song.** Joni is a credit. Michael Jackson is an interpolation. Bowie and Prince are names on a list plus a way of hearing — and hearing a resemblance is not the same as proving a reference. Not everything that rhymes was placed there on purpose, and saying so out loud is the discipline that lets the real ties (Joni, the Rockwell hook) keep their full weight instead of getting diluted by every echo we'd *like* to be true. The brake on all of it, affectionately known in-house as the page that stops the inflation, is [[Inherited Substrate]].
+Here's the throughline, stated once so no reader walks away over-reading it. Roy names his heroes out loud — which is generous, and rare, and the reason this page can exist at all. But a named hero **licenses a lens; it does not decode a song.** Joni is a credit. Michael Jackson is an interpolation. Bowie and Prince are names on a list plus a way of hearing — and hearing a resemblance is not the same as proving a reference. Not everything that rhymes was placed there on purpose, and saying so out loud is the discipline that lets the real ties (Joni, the Rockwell hook) keep their full weight instead of getting diluted by every echo we'd *like* to be true. The brake on all of it, affectionately known in-house as the page that stops the inflation, is [[Concepts/Inherited Substrate]].
 
 Four artists at the end of one thread. One you can sue over, one you can hear the ghost of, and two you can only stand near — and the guide's job is to tell you honestly which is which.
 
@@ -74,4 +74,4 @@ Four artists at the end of one thread. One you can sue over, one you can hear th
 - [[The Circle]] — the *"a Jesus, a Bowie, a Prince"* line, and the completed-circle myth that frames the whole lineage.
 - [[The Watchers]] — the Rockwell interpolation and Michael Jackson's uncredited ghost.
 - [[Roy on Influences]] — the full named roster, thinkers and musicians alike, with the rule against over-reading it.
-- [[Inherited Substrate]] — the discipline under all of it: not all resemblance is reference.
+- [[Concepts/Inherited Substrate]] — the discipline under all of it: not all resemblance is reference.

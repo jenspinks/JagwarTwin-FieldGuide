@@ -21,9 +21,9 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 The song Roy had to fight his own label to release — and the fight became half the meaning. The other half is a piece of wordplay that eats itself: *Dumble-Dumble-Dumbledore* decays into *dumb, dumb, dumb… go dumb,* a wisdom-name flattened into a chant. It's the funniest premise in the catalogue and one of the most serious, and it refuses to pick.
 
-> 🚪 *The fight was real: a label held this song hostage for months while Roy narrated the standoff to his Discord in full wizard-speak, house-elf and all. The blow-by-blow, right down to "Master gave dumbledore a sock," lives in [[Gatekeeper Saga]].*
+> 🚪 *The fight was real: a label held this song hostage for months while Roy narrated the standoff to his Discord in full wizard-speak, house-elf and all. The blow-by-blow, right down to "Master gave dumbledore a sock," lives in [[Concepts/Gatekeeper Saga]].*
 
-> 🚪 *One wizard name on the whole record, and yet the catalogue is full of mirrors, shadows, and alchemy that would look right at home at Hogwarts. Coincidence, or [[Jagwar Twin and Harry Potter|two writers reading from the same very old library]]?*
+> 🚪 *One wizard name on the whole record, and yet the catalogue is full of mirrors, shadows, and alchemy that would look right at home at Hogwarts. Coincidence, or [[Concepts/Jagwar Twin and Harry Potter|two writers reading from the same very old library]]?*
 
 ## At a glance
 
@@ -50,17 +50,17 @@ The overall move: build sincere magician-martyr grandiosity, then bulldoze it wi
 
 A few claims cut across all of it:
 
-- **The name enacts its own degradation.** *Dumble-DORE* → *DUMB* is the central device, and it *performs* what the attention machine does to profundity: it doesn't argue with the wisdom-figure, it memes him into paste. *"Go dumb"* is the sage run through the spectacle-grinder. (See [[The Algorithm]], [[The Circus#What it produces (the Spectacle)|the Spectacle]], [[Consumption]].)
+- **The name enacts its own degradation.** *Dumble-DORE* → *DUMB* is the central device, and it *performs* what the attention machine does to profundity: it doesn't argue with the wisdom-figure, it memes him into paste. *"Go dumb"* is the sage run through the spectacle-grinder. (See [[Concepts/The Algorithm]], [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]], [[Concepts/Consumption]].)
 - **The sincere/ironic tension is the song — don't resolve it.** A massive earnest martyr scaffolding (*"crucified me," "caught thorns"*) gets flattened by *"go dumb."* That's performed cognitive dissonance: the real ache of carrying hidden knowledge colliding with an industry and an audience that want a mindless banger. The collision is the content, not a bug in it.
 - **Modern persecution is meme-ification, not the stake.** Hollywood doesn't *burn* truth-tellers anymore; it *flattens* them into content. *"Go dumb"* is what the witch-burning looks like now — and the form proves the claim, because the track runs its own wisdom-figures through the dumbing-down machine. Delivery = thesis.
-- **The audience is the burning crowd.** Transposing the martyr roll-call *"into Hollywood"* reads the entertainment apparatus, and the crowd feeding it, as the modern witch-burning mob. This is anchored in Roy's own stance on cancel culture (below), where *the burner becomes the witch* — see [[Inversion]].
+- **The audience is the burning crowd.** Transposing the martyr roll-call *"into Hollywood"* reads the entertainment apparatus, and the crowd feeding it, as the modern witch-burning mob. This is anchored in Roy's own stance on cancel culture (below), where *the burner becomes the witch* — see [[Concepts/Inversion]].
 - **"Going dumb" as survival.** Resurrection imagery pressed against party-nihilism suggests the chant is also a coping mechanism: to endure the machine's crucifixion, the speaker checks out — ecstatic ego-death, intoxication, mind numbed so the body can still perform. *"I'm already gone"* is escape and dissociation as much as transcendence.
 
 ## Its place in the mythology
 
 The title is sincerely Harry Potter-coded, and there's a grounded backstory that proves it wasn't a throwaway. *"dumbledore"* was a release Roy fought the label to put out: gatekeepers demanded TikTok virality first, and he publicly reported they called the song *"problematic."* So he did a blockchain end-run via Coop Records, roughly seven weeks before the wide streaming release. Michael Morgan relayed the move to the Discord in Roy's own words: *"dropped it on the blockchain becuase [sic] the label has no rights there!"* Then the standoff broke, and the resolution was narrated, gloriously, as a Harry Potter house-elf being freed: *"Master gave dumbledore a sock, dumbledore is finally free."* Dobby, in a record deal.
 
-Roy publicly framed the title in the mentor/guide register, not as plot: *"Dumbledore, but it's a love song 🧙🏼‍♂️."* In his announcement he called it *"Inspired by the great wizard himself. I hope it serves as a reminder that you are fucking magic!"* So the reference points at hidden knowledge, the long game, sacrificial mentorship, and the act of being *set free* — which ties the song to [[The Realm]] (the world past the gatekeepers, where the blockchain drop is a native move) and [[The Circus]] (the gatekeeping machine itself). Notably, this is the **only documented direct Harry Potter reference** in the entire body of work; every deeper Potter resonance elsewhere is convergence through shared esoteric tradition, not Rowling's influence — the full map is at [[Jagwar Twin and Harry Potter]].
+Roy publicly framed the title in the mentor/guide register, not as plot: *"Dumbledore, but it's a love song 🧙🏼‍♂️."* In his announcement he called it *"Inspired by the great wizard himself. I hope it serves as a reminder that you are fucking magic!"* So the reference points at hidden knowledge, the long game, sacrificial mentorship, and the act of being *set free* — which ties the song to [[Concepts/The Realm]] (the world past the gatekeepers, where the blockchain drop is a native move) and [[Concepts/The Circus]] (the gatekeeping machine itself). Notably, this is the **only documented direct Harry Potter reference** in the entire body of work; every deeper Potter resonance elsewhere is convergence through shared esoteric tradition, not Rowling's influence — the full map is at [[Concepts/Jagwar Twin and Harry Potter]].
 
 Read against Roy's own words, *"go dumb"* lines up with his public stance on cancel culture: *"we've got to stop canceling people… if you're fighting something and lashing out against something, you become that thing without knowing"* — the burner becomes the witch. And in [[The Interview]], the theatrical EP where Roy argues with his shadow across a fruit bowl, [[Sir Lucius]] names this song as evidence Roy stands for nothing: *"One minute your music is a twisted circus, the next it's Dumbledore. You don't stand for anything. The darkness or the light?"* Roy's answer — *"I guess I'm somewhere in the middle"* — is the sincere/ironic split spoken aloud. Which sharpens the open question: is this Roy's genuine wound, or Lucius mocking the martyr-complex by turning a crucifixion into a club banger? The song holds both, and the self-undercutting *"go dumb"* may be the tell that the spectacle-frame is quietly running the whole time.
 
@@ -86,10 +86,10 @@ So the live questions are: **is it a single or an EP track, and what's its relat
 
 - **Magic / "Magik"** — here the power that gets you *burned* — the exact opposite charge to its tender, innate-blessing use in [[MAGIK]]. (The archaic *-k* echoes Crowley.) It rests on the shared word between two songs, so held lightly.
 - **[[Fire]] / "burn the witch"** — the persecution-mob; the audience as the burning crowd.
-- **The grave / resurrection** — *"got out the grave"*; the death-and-rebirth register the song flirts with (see [[Nigredo]]).
+- **The grave / resurrection** — *"got out the grave"*; the death-and-rebirth register the song flirts with (see [[Concepts/Nigredo]]).
 - **The thorns / crucifixion** — Christ-martyr imagery; the sincere scaffolding at full height.
 - **The moon / moonstones** — a *"mouth full of moonstones"* and the era's *leo moon* self-styling: lunar, Leo-coded self-mythologizing that runs alongside the solar *El Roy* / *El Jag* signature. The magician lit by moonlight rather than sun.
-- **The [[The Mask|empty robe]]** — from the *DARK ARTS* visualizer: an ornate priest-king robe with *no one inside it*. The [[The Empty Mirror|hollow pole]] made literal — *"no body, I'm already gone"* — the mask that finally replaced the face.
+- **The [[The Mask|empty robe]]** — from the *DARK ARTS* visualizer: an ornate priest-king robe with *no one inside it*. The [[Concepts/The Empty Mirror|hollow pole]] made literal — *"no body, I'm already gone"* — the mask that finally replaced the face.
 - **The dead-branch wand** — also from the *DARK ARTS* visualizer: a wand of bare, lifeless wood — a robe of power with the sage gone out of it, the instrument as dead as the man wearing the robe.
 - **Eyes wide shut / the blindfold** — forced or self-imposed blindness; the *asleep-while-awake* frame Roy glossed himself (below).
 - **The sock (Dobby)** — the paratextual token of the song's freeing.
@@ -101,7 +101,7 @@ So the live questions are: **is it a single or an EP track, and what's its relat
 - **[[Not Your Homie]]** — the same sweet-surface-over-darkness device, and the prove-yourself, fight-even-at-a-cost ethic the gatekeeper saga acts out.
 - **[[Life Is Good]]** — cited alongside this as the catalogue's self-aware bard singing a nursery rhyme over a burning world.
 - **[[No. 1 Champion (la Conquistadora)]]** — shares the *"caught thorns"* echo and the Fool motif: the same crown-of-thorns wound and the same holy-fool-as-victor stance surface in both, the wisdom-figure who wins by looking like the idiot.
-- **[[The Circus]]** / **[[The Realm]]** — the blockade, and the parallel world built to route around it. The blockchain drop is a Realm move against a Circus wall.
+- **[[Concepts/The Circus]]** / **[[Concepts/The Realm]]** — the blockade, and the parallel world built to route around it. The blockchain drop is a Realm move against a Circus wall.
 
 > [!note]- Advanced reading — "eyes wide shut," the Wise Fool, and the two frequencies *(tap to open)*
 > **"Eyes wide shut" runs on two frequencies, in order.** The *primary* one is the **Gurdjieff** axis this project tracks constantly — asleep, dreaming-while-awake, unaware you're even in the cell — and it's now partly grounded by Roy's own paratext: in a promo caption he equated *"GO DUMB"* to Gurdjieff outright, quoting *"If you wish to get out of prison, the first thing you must do is realize that you are in prison. If you think you are free, you can't escape." — Gurdjieff aka GO DUMB.* That folds the title's punchline into a genuine esoteric thesis: *go dumb* = don't realize you're imprisoned = never escape. The *secondary* frequency is the **Kubrick film** — masked elites, hidden ritual, seeing-yet-not-seeing — which fits the *"Hollywood"* setting cleanly but shouldn't be forced past that.
@@ -109,9 +109,9 @@ So the live questions are: **is it a single or an EP track, and what's its relat
 > **The Wise Fool / Tarot Fool.** Highest wisdom appearing as idiocy to the profane world; truncating *"Dumbledore"* to *"dumb"* rhymes with the holy-fool who plays the idiot to survive the court. The degradation could be *imposed* by the Circus, or *chosen* as the fool's disguise — the song lets you hold both.
 
 > [!note]- Advanced reading — Nigredo, the empty robe, and the sage-turned-dark-magician *(tap to open)*
-> *"Crucified," "thorns," "grave"* map onto the alchemical blackening — **[[Nigredo]]**, the death-before-rebirth — and onto the catalogue's broader Christ-imagery. Whether that's sincere identification or hyperbole is left open (and the exact lyric wording is unverified, so this is held lightly).
+> *"Crucified," "thorns," "grave"* map onto the alchemical blackening — **[[Concepts/Nigredo]]**, the death-before-rebirth — and onto the catalogue's broader Christ-imagery. Whether that's sincere identification or hyperbole is left open (and the exact lyric wording is unverified, so this is held lightly).
 >
-> The *DARK ARTS* visualizer supplies the era's most concrete new image: the **empty priest-king robe** — ornate, ceremonial, and with *no one inside it* — plus a **dead-branch wand** and eyes-wide-shut blindfold-initiation imagery. Read against the wider symbol-set, the empty robe is the [[The Empty Mirror|hollow pole]] made flesh: not a sage wearing a robe of power but a *robe of power with the sage gone out of it* — the [[The Mask|mask]] that finally replaced the face. This is the sage turned dark-magician: the [[Sir Lucius|Lucius]] register of the same figure, where the costume outlives the man.
+> The *DARK ARTS* visualizer supplies the era's most concrete new image: the **empty priest-king robe** — ornate, ceremonial, and with *no one inside it* — plus a **dead-branch wand** and eyes-wide-shut blindfold-initiation imagery. Read against the wider symbol-set, the empty robe is the [[Concepts/The Empty Mirror|hollow pole]] made flesh: not a sage wearing a robe of power but a *robe of power with the sage gone out of it* — the [[The Mask|mask]] that finally replaced the face. This is the sage turned dark-magician: the [[Sir Lucius|Lucius]] register of the same figure, where the costume outlives the man.
 
 > [!note]- Advanced reading — the martyr roll-call, and why it's provisional *(tap to open)*
 > The bridge's persecuted-truth-teller names (Galileo, Joan of Arc, and a *"Constantine"*) power the sharpest cross-cutting read here — Hollywood-as-witch-burning-mob. But that read is *gated*, for an honest reason: the full lyric in circulation is transcription-sourced and **streaming-unverified** (the track has no official lyrics posted), and proper names carry the highest mishear risk. If any of those names is a mishear, the reads resting on them soften. The **grounded** core doesn't depend on them at all — it's the release saga, the *"love song"* framing, and the *Dumble→dumb* wordplay engine, none of which need a single proper noun to stand.
@@ -205,7 +205,7 @@ Dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
 
 - [[MAGIK]] — the same era-word, the opposite charge.
 - [[The Interview]] — where Lucius names this song as Roy's incoherent light-pole.
-- [[The Realm]] — the counter-kingdom the blockchain drop belongs to.
-- [[Jagwar Twin and Harry Potter]] — why this is the *only* direct Potter reference, and every other one isn't.
+- [[Concepts/The Realm]] — the counter-kingdom the blockchain drop belongs to.
+- [[Concepts/Jagwar Twin and Harry Potter]] — why this is the *only* direct Potter reference, and every other one isn't.
 - [[No. 1 Champion (la Conquistadora)]] — the other "caught thorns" song, and the Fool who wins by playing the idiot.
 - [[Sir Lucius]] — the shadow who may be the real voice behind *"go dumb."*

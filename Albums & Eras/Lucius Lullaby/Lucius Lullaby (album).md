@@ -37,7 +37,7 @@ The album measures its own distance by a grim little symmetry. Its darkest line 
 
 And here's the thing it refuses: **triumph, but not resolution.** It's tempting to read the loop back to Lucius at the very end as the shadow simply winning, but that conflates two different things. What resolves is not the integration of Roy and Lucius, which stays open. What resolves is the **survival of the feeling** that was never sacrificed: "SOL" endures even with its words stripped away; the breath outlasts the bargain. The album resolves by *preserving what cannot be metabolized*, not by completing the cure. "Doesn't end in triumph" is not the same as "stays in shadow" — the shadow gets the last *track*, but the feeling gets the last thing the shadow can't consume.
 
-Read across the catalogue, this is where the long machine-versus-human thread lands its endgame. The record stops *diagnosing* the severing and starts being lived inside it: [[City of Angels]] renders Hollywood as the paradise version of being already uploaded — deathless and identical, *"everyone looks just like you"* — the [[The Circle|Circle]]'s communion of distinct voices returning a song, forged into the [[The Circus|Circus]]'s counterfeit of it, sameness, pointedly on a record by a project called Jagwar *Twin.*
+Read across the catalogue, this is where the long machine-versus-human thread lands its endgame. The record stops *diagnosing* the severing and starts being lived inside it: [[City of Angels]] renders Hollywood as the paradise version of being already uploaded — deathless and identical, *"everyone looks just like you"* — the [[The Circle|Circle]]'s communion of distinct voices returning a song, forged into the [[Concepts/The Circus|Circus]]'s counterfeit of it, sameness, pointedly on a record by a project called Jagwar *Twin.*
 
 ## Major songs
 
@@ -112,5 +112,5 @@ The album moves in five movements: an overture and a bargain, a long stretch of 
 - [[The Interview]] — the seven-part theatrical series that is this album's plot and rollout.
 - [[33]] — the cosmology this album's machine finally personifies; the other end of the Circle hinge.
 - [[Subject to Flooding]] — the flood to this album's circus; opposite failure-modes of the same severed self.
-- [[The Circus]] — the keystone inversion the whole record runs on.
+- [[Concepts/The Circus]] — the keystone inversion the whole record runs on.
 - [[SOL]] — the wordless destination, and the one thing the shadow can't metabolize.

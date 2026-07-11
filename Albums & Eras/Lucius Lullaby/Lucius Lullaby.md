@@ -25,7 +25,7 @@ Everything in the Jagwar Twin mythology flows forward from this two-and-a-half-m
 - **Era / release** — Track 2 (the title track) of *Lucius Lullaby*, released March 27, 2026; the album's overture-and-origin, billed jointly to Jagwar Twin *and* Sir Lucius.
 - **In one line** — A man at rock bottom is offered a beautiful dream in exchange for his silence, and the song can't decide — on purpose — whether that's a rescue or a trap.
 - **Who speaks** — [[Roy]] sings the floor (verse 1); [[Sir Lucius]] sings the pitch (verses 2–3, the pre-chorus, the outro); the chorus is a first-person *"I'm dreaming"* whose owner is deliberately undecidable. [[Mary]] is *not* here — the rescue-voice only sounds like her.
-- **Key symbols** — [[The Mirror]] (the *"magic mirror"*) · [[The Circle]] / the loop (*"life is but a dream"*) · [[Source vs Reflection]] · the lullaby form itself, subverted.
+- **Key symbols** — [[The Mirror]] (the *"magic mirror"*) · [[The Circle]] / the loop (*"life is but a dream"*) · [[Concepts/Source vs Reflection]] · the lullaby form itself, subverted.
 
 ## The song, mapped
 
@@ -87,7 +87,7 @@ A few claims that cut across the whole song.
 
 - [[The Mirror]] — the *"magic mirror, tell me what you see"* is Snow White's evil-queen glass (that imperative *"tell me"*) crossed with Lucius's own Empty Mirror; the "freedom" he offers sends Roy *into* a reflection — the optimized, commercial image of himself — rather than back to the source.
 - [[The Circle]] / the loop — the cycle that begins here; *"life is but a dream"* is the last line of "Row, Row, Row Your Boat," a round that loops back on itself forever.
-- [[Source vs Reflection]] — the mirror that traps rather than returns; the reflection offered *over* the sincere song, claiming to be the real thing.
+- [[Concepts/Source vs Reflection]] — the mirror that traps rather than returns; the reflection offered *over* the sincere song, claiming to be the real thing.
 - **The lullaby, subverted** — a sleep-song that sings you *into* a dream instead of comforting you awake; the nursery/music-box texture (*"la-da-da-da"*) is the form worn straight while the content inverts it.
 
 ## Connected songs
@@ -118,7 +118,7 @@ A few claims that cut across the whole song.
 >
 > **The John 8:32 arc.** That one verse recurs across three eras of the catalogue, refracted through progressively more inverted speakers: held sincerely in *It's Your Time* ([[33]], 2022: *"the truth is hard to tell"*) → paradoxed in [[Bad Feeling (Oompa Loompa)]] (2023: *"the truth is a lie that nobody can tell"*) → weaponized here (2026: *"nothing's what it seems"*). Two of the three sit on *this* album (tracks 2 and 5). A caveat worth keeping honest: it *degrades* chronologically, but on the album you *hear* the corrupted endpoint (track 2) before the paradox (track 5) — so on the record it plays as a field of corrupted truth-language, not a tidy stepwise decay. The verse isn't damaged so much as passed through more and more inverted mouths.
 >
-> **A third sense of "nothing."** *"Nothing's what it seems,"* paired with the *"magic mirror, tell me what you see,"* is Lucius's own register — and it's a **distinct** kind of nothing from the two the rest of the catalogue runs on. Where Roy reaches for *hollow* nothing (the empty stare, no one home) and *kenotic* nothing (the emptied vessel, *"I'm no thing,"* the glass that transmits), Lucius's is **epistemic**: not *nothing is there* but *nothing is as it appears* — the Maya/illusion register, the hollow-mirror voice that says the surface can't be trusted precisely so you'll keep staring into it. See [[The Empty Mirror]] for the full split; here it's enough that the tempter's *"nothing"* is the illusion-nothing, not the vessel's.
+> **A third sense of "nothing."** *"Nothing's what it seems,"* paired with the *"magic mirror, tell me what you see,"* is Lucius's own register — and it's a **distinct** kind of nothing from the two the rest of the catalogue runs on. Where Roy reaches for *hollow* nothing (the empty stare, no one home) and *kenotic* nothing (the emptied vessel, *"I'm no thing,"* the glass that transmits), Lucius's is **epistemic**: not *nothing is there* but *nothing is as it appears* — the Maya/illusion register, the hollow-mirror voice that says the surface can't be trusted precisely so you'll keep staring into it. See [[Concepts/The Empty Mirror]] for the full split; here it's enough that the tempter's *"nothing"* is the illusion-nothing, not the vessel's.
 
 > [!note]- Advanced reading — the nursery method, and the Circle inverted
 > **"Twisted takes on adolescent musical themes for hands that rock the cradle."** That's the album's own official tagline, and it's a stated method, not a projection. *"Life is but a dream"* is the closing line of "Row, Row, Row Your Boat" — and a round, so it loops. The nursery substrate is load-bearing: the sweetest, most familiar children's forms are exactly what makes the sedation go down easy.

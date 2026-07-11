@@ -17,7 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Sole home:** [[The Circle]]
 > - **Defining act:** she *"remembered she once held the string"*
 > - **Key symbols:** [[The Thread|the thread]] · the cave · the song hidden inside the wings
-> - **Related:** [[Mary]] · [[Jagwar Twin]] · [[The Jaguar]] · [[Sir Lucius]]
+> - **Related:** [[Mary]] · [[Jagwar Twin]] · [[Concepts/The Jaguar]] · [[Sir Lucius]]
 
 ## Start here
 
@@ -115,11 +115,11 @@ He wins not by convincing anyone the Circle is wrong, but by convincing them the
 
 - **[[Mary]]:** the catalogue's divine-feminine figure, the same Sophia/Shekhinah register the Wise One sits in. The overlap is real and strong, and the source may even be one figure under two names. But the link is archetypal overlap only. The hard guard holds: this is *not* "the Wise One is Mary." Her signature act, remembrance, leans more Sophia/Shekhinah than conventional Marian, and the full identification waits on something the work doesn't yet state outright.
 - **[[The Circle]]:** her sole home, the closing track of *33* and the foundational Jagwar myth. Everything she is happens in two lines of this song.
-- **[[The Loop and the Circle]]:** the keystone doctrine she resolves. No beginning and no end, the sought thing already within, recovery by remembrance, the circle that grows from the inside of the inside.
+- **[[Concepts/The Loop and the Circle]]:** the keystone doctrine she resolves. No beginning and no end, the sought thing already within, recovery by remembrance, the circle that grows from the inside of the inside.
 - **[[The Thread]]:** the *string* she remembers holding; the Thread originates in her line. Remembrance holds the string; control pulls strings.
 - **The Maker Jagwar:** the feminine primordial Jaguar who ties the world on the string and teaches the Jagwars to sing. On the cosmic reading, the Wise One *was* the Maker: seeker and maker, two phases of one being.
 - **[[Jagwar Twin]]:** the project named for the made-and-divided creatures of this myth. *Jagwar Twin* reads as self-identification with the Jagwars who were told they couldn't sing, which makes the Wise One *us,* remembering.
-- **[[The Jaguar]]:** the emblem of seeing *and* singing. The primordial Jaguar *"taught them to sing,"* and the Wise One recovers that field's lost voice. (Open question: whether the seeing-field and the source are distinct orders or one function in two faces. The myth tips toward the latter, but it isn't locked.)
+- **[[Concepts/The Jaguar]]:** the emblem of seeing *and* singing. The primordial Jaguar *"taught them to sing,"* and the Wise One recovers that field's lost voice. (Open question: whether the seeing-field and the source are distinct orders or one function in two faces. The myth tips toward the latter, but it isn't locked.)
 - **The new kings:** the antagonists, the masculine system-of-control who *"told Jagwars they never could sing"* and *"built cages and sold everything."* The exact loss her remembrance reverses.
 - **[[Sir Lucius]]:** the inverse pole. The Loop is return without transformation; the Circle is return with memory restored. In "The Circle (Lucius Version)," he hollows the remembrance-figure out entirely: *"I'm dreaming"* replaces *remembering,* and she simply vanishes.
 - **[[Roy]]:** must hold the thread rather than cut it; the Eye-Alaska *shore = the wise* line links his self-naming to the Wise One at a distance, registers kept apart.
@@ -144,11 +144,11 @@ Everything above stands on its own. What follows is optional: the framework held
 >
 > Two earlier readings only *look* like they fight. (a) She's the awakened self, the recovered self, the listener's own future state. (b) She occupies [[Mary]]'s archetypal territory, the feminine rememberer. They reconcile the moment you notice that *remembrance itself is feminine-coded* in this system: caves, mirrors, intuition, the held thread. The awakened self recovers the song *by* recovering the feminine faculty the kings suppressed. So the Wise One is *whoever re-members the feminine thread,* the listener, Roy, or the feminine principle itself, because at the instant of recovery they are the *same act.*
 >
-> Two hard guards. She is **not** simply Mary (archetypal overlap only; there's no naming evidence, and her defining act, remembrance, is more Sophia/Shekhinah than conventional Mary). And she is **not** a fourth named character standing beside Roy, Lucius, and Mary. That's the over-reading the project warns against elsewhere (cf. [[The Jaguar]]).
+> Two hard guards. She is **not** simply Mary (archetypal overlap only; there's no naming evidence, and her defining act, remembrance, is more Sophia/Shekhinah than conventional Mary). And she is **not** a fourth named character standing beside Roy, Lucius, and Mary. That's the over-reading the project warns against elsewhere (cf. [[Concepts/The Jaguar]]).
 >
 > Zoom out and the whole myth is *bracketed by two feminine figures who hold the same object:* it opens on a feminine Maker with the world on a string and closes on a feminine Wise One who remembers holding it. Read against [[The Thread]] (thread = feeling, the song, the animating principle), the cosmogony resolves into one image: the feminine holds the thread, the *"new kings"* cut it, recovery is re-membering it. The kings are the masculine system-of-control: cages, commodification, "you can't sing," mind divorced from heart at *civilizational* scale, the same severance [[Sir Lucius]] performs at the personal one.
 >
-> So the divine feminine ([[Mary]] / Shekhinah, the Wise One, the primordial [[The Jaguar|Jaguar]]) reads as **one function seen at three phases:** *origin* (the Maker who ties the world on the string and teaches the song), *exile* (the hidden source inside the darkened world, Shekhinah-in-exile), and *return* (the Wise One who re-members). Archetypal *continuity,* not a claim that the three are one named character.
+> So the divine feminine ([[Mary]] / Shekhinah, the Wise One, the primordial [[Concepts/The Jaguar|Jaguar]]) reads as **one function seen at three phases:** *origin* (the Maker who ties the world on the string and teaches the song), *exile* (the hidden source inside the darkened world, Shekhinah-in-exile), and *return* (the Wise One who re-members). Archetypal *continuity,* not a claim that the three are one named character.
 
 > [!note]- The cave, the wings, and the withdrawal
 > **The cave.** She walks into *"a small cave where the Jagwars used to sing,"* the site of the original, now-forgotten song. Read against Plato, it's an *inversion:* here the cave holds the *truth,* the original song, not shadows. She enters to recover an original relation, not to be deceived inside it. Eden remembered, rather than the fall into illusion. Whether the cave is best read as memory, sacred space, the unconscious, or the origin point stays open, but the direction is clear: she goes *in* to find what's *real.*
@@ -191,7 +191,7 @@ Everything above stands on its own. What follows is optional: the framework held
 ## Read next
 
 - [[The Circle]]: her home, the founding myth in full.
-- [[The Loop and the Circle]]: the doctrine she resolves, and its dark twin.
+- [[Concepts/The Loop and the Circle]]: the doctrine she resolves, and its dark twin.
 - [[The Thread]]: the string she remembers holding.
 - [[The Circle (Lucius Version)]]: watch the figure get switched off.
 - [[Mary]]: the divine-feminine figure she overlaps but isn't.

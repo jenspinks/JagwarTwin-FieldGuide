@@ -26,7 +26,7 @@ Roy runs the @JagwarTwin account on X (Twitter) as a near-daily stream of one-li
 - *"I am the shore. I am not the wave."* (with *"I'm the one who stays."*) — X · Apr 10, 2026. The stable self against the transient; the one who stays.
 - *"Nothing is evil in the beginning."* — X · Apr 4, 2026. Innocent origin; evil is acquired, not native — the Lucifer-archetype reading of [[Sir Lucius]].
 - *"A good boy does not make a good man."* — X · Mar 12, 2026. The "good boy" wound; see [[Ballerina Boy]].
-- *"Everyone's a guru. We are now fully in the aquarium."* — X · Apr 14, 2026. Roy's rueful version of the line his shadow spits as contempt (below). See [[The Aquarium]].
+- *"Everyone's a guru. We are now fully in the aquarium."* — X · Apr 14, 2026. Roy's rueful version of the line his shadow spits as contempt (below). See [[Concepts/The Aquarium]].
 - *"The mind is the slayer of the real. We must slay the slayer."* — X · Mar 29, 2026. Quoting Blavatsky; the mind ([[Sir Lucius]]) as the thing to be slain — meaning integrated, not killed.
 
 Roy names his own influences in the same stream — Gurdjieff, Blavatsky, da Vinci, Alice Bailey — which is why the guide treats those frameworks as *read*, not imposed.

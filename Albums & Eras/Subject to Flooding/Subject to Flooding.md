@@ -103,4 +103,4 @@ The single sharpest edge of the split: the very song where Roy *first voices the
 - [[Lucius Lullaby (album)|Lucius Lullaby]] — the calcification: the protector named, billed, and handed the microphone.
 - [[Sir Lucius]] — the survival-self this album catches mid-formation, three years before he has a face.
 - [[The Circle]] — first spoken aloud here, on "Move To You" (2019).
-- [[Source vs Reflection]] — the master frame this album first poses.
+- [[Concepts/Source vs Reflection]] — the master frame this album first poses.

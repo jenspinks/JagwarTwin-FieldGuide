@@ -24,14 +24,14 @@ The name [[Jagwar Twin]] is built on an image, and [[Roy]], the project's sole a
 
 That's the rare bit of artist-name lore that turns out to be the master key rather than the trivia answer. Most musicians' origin stories are a shrug — a misheard lyric, a band-name generator. Roy's is a small theory of consciousness with a cat in it.
 
-> 🚪 *The jaguar is not the only big cat in this story: Roy has shown off a hand-underlined Alice Bailey book where a hero has to face a lion, and the lion reads as his own ego. He never gets to kill it, only tame it, and that whole strange trial is waiting in [[The Labors of Hercules]].*
+> 🚪 *The jaguar is not the only big cat in this story: Roy has shown off a hand-underlined Alice Bailey book where a hero has to face a lion, and the lion reads as his own ego. He never gets to kill it, only tame it, and that whole strange trial is waiting in [[Concepts/The Labors of Hercules]].*
 
 ## At a glance
 
 - **Role** — the project's emblem of seeing; the field, not a character.
 - **Start with** — [[Jagwar Twin]] (the container the name describes), then [[The Circle]] (the myth where the creature actually appears).
 - **Core conflict** — there are two ways to see, and the whole moral universe forks on which one you mean: [[Sir Lucius]] surveils, [[Mary]] witnesses.
-- **Key symbols** — [[The Mirror]] · the eye · the string / [[The Thread]] · light-and-dark / [[Source vs Reflection]].
+- **Key symbols** — [[The Mirror]] · the eye · the string / [[The Thread]] · light-and-dark / [[Concepts/Source vs Reflection]].
 - **Confidence** — grounded fact (the etymology, repeated across five-plus public sources) braided with strong interpretation (the jaguar-as-frame, the seeing fork).
 
 ## Why this figure matters
@@ -54,7 +54,7 @@ A few things keep this from flattening into a single tidy idea:
 
 ## Why it matters: a mirror of consciousness
 
-Here's the lift the etymology makes when you let it. If the jaguar is the *seer* and the twin is the *seen*, then the project's recurring obsession isn't really "identity" in the influencer sense. It's a much older question: a self that is both observer and observed at the same time. The jaguar names the seeing; the twin names the doubling; together they make the work a **mirror of consciousness** — which is exactly the [[Source vs Reflection]] master-frame, stated as a creature rather than a concept. A reflection that returns you to the source instead of trapping you in the image.
+Here's the lift the etymology makes when you let it. If the jaguar is the *seer* and the twin is the *seen*, then the project's recurring obsession isn't really "identity" in the influencer sense. It's a much older question: a self that is both observer and observed at the same time. The jaguar names the seeing; the twin names the doubling; together they make the work a **mirror of consciousness** — which is exactly the [[Concepts/Source vs Reflection]] master-frame, stated as a creature rather than a concept. A reflection that returns you to the source instead of trapping you in the image.
 
 Roy has never let the mirror idea retire. It keeps surfacing in his public posts, restated as plain aphorism: *"Relationships are fundamentally about two people reflecting to each other what they need to know to become more of who they are"* (2026); *"To Love is to meet the hidden part of yourself in someone else"* (2026); *"Compassion is a mirror"* (2026); *"A mirror can be your best friend or your worst enemy but will show you yourself"* (2025). The press has even started handing the doctrine back to him — a 2024 reviewer wrote that *"Jagwar Twin holds up a mirror to reflect humanity."* When the critics are quoting your etymology *at* you, it has stopped being trivia and become a thesis.
 
@@ -76,7 +76,7 @@ If the jaguar is the field of seeing, the project's actual drama is about *how* 
 
 [[Sir Lucius]] is **surveillance** — counterfeit seeing. He is extraction, prediction, the algorithm; the machine that watches everything and witnesses no one. The cosmic joke the work leans on is that Lucius wears **El Roi**, *"the God who sees me,"* tattooed on his **throat** — the exact organ he uses to insist *you don't know me.* He has the name of the divine seer inked onto the part of him that can only watch, never recognize.
 
-[[Mary]] is **witnessing** — true seeing, El Roi fulfilled. Where Lucius ranks and predicts, she restores and dignifies; she is *seen-and-loved* against his *watched-and-ranked.* This is the whole framework of [[Witnessing vs Surveillance]], and it's why the jaguar's seeing can't be neutral. The field is morally loaded the moment someone looks through it.
+[[Mary]] is **witnessing** — true seeing, El Roi fulfilled. Where Lucius ranks and predicts, she restores and dignifies; she is *seen-and-loved* against his *watched-and-ranked.* This is the whole framework of [[Concepts/Witnessing vs Surveillance]], and it's why the jaguar's seeing can't be neutral. The field is morally loaded the moment someone looks through it.
 
 And there's a tell in the *register.* When the seer-creature drops into surveillance mode, it doesn't get more menacing — it gets more *online.* The voice goes full hype-account: *Jagwar Twin sells out stadiums*, the *biggest merch drop ever*, Chaos Club masks for the faithful. That's the joke and the diagnosis at once: counterfeit seeing reduces the mirror-of-consciousness to a brand with a follower count. The cosmic eye, demoted to a content calendar. Surveillance doesn't just watch you — it sells to you, and it thinks that's the same as knowing you.
 
@@ -143,8 +143,8 @@ None of this dilutes the seeing. It's the *same* faculty: a creature that can lo
 - **[[Roy]]** — whose interviews ground the whole thing; *"humans are mirrors for each other."* Grounded.
 - **[[Mary]]** — the feminine source-figure and witnessing-pole (El Roi fulfilled). Her relation to the jaguar is *the* open question — and the *Circle* myth's feminine maker-Jagwar is what makes that question live. Held genuinely open.
 - **[[Sir Lucius]]** — the surveillance-pole; counterfeit seeing inside the field. Wears *El Roi* on the throat and still can't witness. Grounded tattoo, strong reading.
-- **[[Source vs Reflection]]** — the mirror master-frame the jaguar states as an image.
-- **[[Witnessing vs Surveillance]]** — the doctrine of the two modes of seeing *inside* the field.
+- **[[Concepts/Source vs Reflection]]** — the mirror master-frame the jaguar states as an image.
+- **[[Concepts/Witnessing vs Surveillance]]** — the doctrine of the two modes of seeing *inside* the field.
 - **[[The Circle]]** — the founding myth where the jaguar is personified as a feminine maker who teaches the song. The other emblem on the [[Jagwar Twin]] page.
 - **[[The Thread]]** — originates here, in *The Circle*'s *"world tied on a string"* and the wise one who *"once held the string."*
 
@@ -162,7 +162,7 @@ None of this dilutes the seeing. It's the *same* faculty: a creature that can lo
 
 - [[Jagwar Twin]] — the container the name describes; read this first.
 - [[The Circle]] — the founding myth, where the jaguar stops being an etymology and becomes a character who sings.
-- [[Source vs Reflection]] — the master-frame the jaguar embodies.
-- [[Witnessing vs Surveillance]] — the two modes of seeing, and why the field is never neutral.
+- [[Concepts/Source vs Reflection]] — the master-frame the jaguar embodies.
+- [[Concepts/Witnessing vs Surveillance]] — the two modes of seeing, and why the field is never neutral.
 - [[Sir Lucius]] — surveillance: the eye that watches and cannot witness.
 - [[Mary]] — witnessing: the seer who recognizes and restores.

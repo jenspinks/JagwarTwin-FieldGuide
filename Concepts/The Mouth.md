@@ -16,7 +16,7 @@ The mouth is the one organ that does two opposite jobs. Things go in (you eat, y
 
 - **In one line** — the gate between interior and exterior; the project runs two opposite mouths, one that *testifies* and one that *consumes*, and almost every song lives on one side or the other.
 - **Where it shows up** — [[Welcome to the Circus]] (four distinct mouth-failure lines in a single track) · the [[I Like to Party]] video (the force-feeding, the consuming mouth made visual) · [[SOL]] (the mouth integrated — wordless but voiced).
-- **Connected ideas** — [[The Voice]] · [[Consumption]] · [[The Circus]] · [[The Mask]] · [[Letters of Creation|The Angels and the Angles]] · [[Inversion]].
+- **Connected ideas** — [[Concepts/The Voice]] · [[Concepts/Consumption]] · [[Concepts/The Circus]] · [[The Mask]] · [[Letters of Creation|The Angels and the Angles]] · [[Concepts/Inversion]].
 - **Confidence** — the lyric and video anchors are grounded fact; the two-mouths structure is a strong reading; the letter-mysticism layer is the composer's own stated compositional method (see [[Letters of Creation|The Angels and the Angles]]).
 
 ## What it is
@@ -26,7 +26,7 @@ Forget mysticism for a second. The mouth is just where breath becomes word and f
 So the project keeps two mouths running at once, pointed in opposite directions:
 
 - **The mouth that testifies** — Roy's song, [[Ballerina Boy]]'s voice, the Song of Love. The place the true self gets *out*.
-- **The mouth that consumes** — Lucius's *"I'll chew you up, spit you out,"* the force-feeding in [[I Like to Party]], the whole digestive economy of [[The Circus]]. The place the self gets *eaten*.
+- **The mouth that consumes** — Lucius's *"I'll chew you up, spit you out,"* the force-feeding in [[I Like to Party]], the whole digestive economy of [[Concepts/The Circus]]. The place the self gets *eaten*.
 
 Hold those two and almost everything else on this page is a variation on one or the other.
 
@@ -66,25 +66,25 @@ Read together, that's a voice failing from *within* and being suppressed from *w
 
 ## Connections
 
-- **[[The Voice]]** — the same cluster from the other side. The Voice is what the Mouth is *for*; if these pages ever merge, this is why.
-- **[[Consumption]]** — the consuming mouth scaled up to a social and industrial appetite; the digestive economy. (The Jonah distinction lives here too — see below.)
-- **[[The Circus]]** — the Circus *is* the consuming mouth, scaled to society and the industry.
+- **[[Concepts/The Voice]]** — the same cluster from the other side. The Voice is what the Mouth is *for*; if these pages ever merge, this is why.
+- **[[Concepts/Consumption]]** — the consuming mouth scaled up to a social and industrial appetite; the digestive economy. (The Jonah distinction lives here too — see below.)
+- **[[Concepts/The Circus]]** — the Circus *is* the consuming mouth, scaled to society and the industry.
 - **[[The Mask]]** — *"shut your mouth"* and *"paint my face"* are one gesture. The painted face is what's left when the mouth fails.
-- **[[The Algorithm]]** — what decides whose mouth gets amplified: [[Ballerina Boy]] suppressed, WTTC rewarded.
+- **[[Concepts/The Algorithm]]** — what decides whose mouth gets amplified: [[Ballerina Boy]] suppressed, WTTC rewarded.
 - **[[Sir Lucius]]** — the consuming voice; operator of the digestive Circus; the *El Roi* tattoo on his **throat**, the utterance-gate.
 - **[[Roy]]** — the testifying voice; the mouth beneath the mask; the one where *"words flow through"* when the mind switches off.
 - **[[SOL]]** — the mouth in its most integrated state; the song Lucius can't absorb.
 - **[[Ballerina Boy]]** — the unmasked mouth the Circus can't metabolize; *structurally absent* from WTTC, and that absence is his protection.
-- **[[Inversion]]** — the anti-Eucharist; *"step right up"* as anti-*"come unto me."* Same form, reversed vector (below).
-- **[[Witnessing vs Surveillance]]** — *"Did you like the show?"* sits on the consumption/being-eaten side of the seen-vs-consumed axis.
-- **[[The Empty Mirror]]** — where No-Thing turns generative; the Word-that-creates (below).
+- **[[Concepts/Inversion]]** — the anti-Eucharist; *"step right up"* as anti-*"come unto me."* Same form, reversed vector (below).
+- **[[Concepts/Witnessing vs Surveillance]]** — *"Did you like the show?"* sits on the consumption/being-eaten side of the seen-vs-consumed axis.
+- **[[Concepts/The Empty Mirror]]** — where No-Thing turns generative; the Word-that-creates (below).
 - **[[Letters of Creation|The Angels and the Angles]]** — the letter-mysticism substrate: consonants as angles, vowels as angels (below).
 - **[[The Thread]]** — the feeling-line; *the vowel inside the consonant cage, the angel traveling on the angle's rung.*
 - **[[Bananas]] / [[City of Angels]] / [[Not Your Homie]]** — vocable tracks: *"go bananananana,"* the la-la/na-na textures (below).
 - **[[Pay Attention (feat. little luna)]]** — sacred vocabulary *"in the tempter's mouth"*; counterfeit-light borrowing a higher idiom.
 
 > [!note]- Advanced reading — the anti-Eucharist and the Christ-Mirror table
-> *"I'll chew you up, spit you out"* is the Eucharist run backwards. The sacrament says *"this is my body, broken for you"* (Luke 22:19) — the god consumed so that the worshipper is *nourished.* Lucius inverts every term: the predator does the eating, and the swallowed self is *ejected without nourishment.* A predator-Eucharist. It's part of a larger inverted-Christ-speech grammar where Lucius keeps the form and flips the metaphysics: *"Come unto me"* (Matt 11:28) → *"Step right up"*; *"I AM that I AM"* → *"I'm the one they're talking 'bout"*; God answering Job from the whirlwind (*"Where were you?"*) → the ringmaster's *"Did you like the show?"* Same grammatical shape, opposite vector. See [[Inversion]].
+> *"I'll chew you up, spit you out"* is the Eucharist run backwards. The sacrament says *"this is my body, broken for you"* (Luke 22:19) — the god consumed so that the worshipper is *nourished.* Lucius inverts every term: the predator does the eating, and the swallowed self is *ejected without nourishment.* A predator-Eucharist. It's part of a larger inverted-Christ-speech grammar where Lucius keeps the form and flips the metaphysics: *"Come unto me"* (Matt 11:28) → *"Step right up"*; *"I AM that I AM"* → *"I'm the one they're talking 'bout"*; God answering Job from the whirlwind (*"Where were you?"*) → the ringmaster's *"Did you like the show?"* Same grammatical shape, opposite vector. See [[Concepts/Inversion]].
 
 > [!note]- Advanced reading — Jonah vs the Circus (swallowed and returned, or swallowed and disposed)
 > Being eaten isn't automatically the end — scripture has a counter-case. Jonah is swallowed whole and returned *changed* after three days in the dark: darkness, then a prayer from inside the belly, then a transformed return. The Circus uses the same verbs — swallows, spits out — to the opposite end: active mastication, no darkness, no prayer, immediate ejection, and you come back as *waste*, not as someone new. Initiation-in-darkness versus industrial digestion. Which leaves a genuinely open question the work hasn't closed: is being chewed up the *beginning* of an unfinished initiatory process? And is [[SOL]] the Jonah-moment — the prayer from inside the whale's belly, just before the ejection?
@@ -105,13 +105,13 @@ Read together, that's a voice failing from *within* and being suppressed from *w
 > Hear the album's *"la-la / na-na / ba-ba"* textures and [[Bananas]]' *"go bananananana"* through the letter-mysticism frame and they stop being childish filler. They're **pure vowel** — the angels (vowel-spirit) sung through the angles (consonant-structure), the mouth used as the instrument the spirit is *played* through. That reframes the album's "nonsense" as a deliberate move: the mouth gone to pure sound on purpose. ([[City of Angels]] and [[Not Your Homie]] instance the same vowel-over-consonant pattern.) One honesty note: *"it's all nonsense"* is **Lucius's** dismissive line in the visual lore, not Roy stating a writing philosophy — the public receipt for "nonsense" as Roy's own stated technique is still pending, so this stays correspondence rather than authorial claim.
 
 > [!note]- Advanced reading — where No-Thing turns generative (the Word that creates)
-> The mouth is also where emptiness becomes *creation.* The Hebrew *davar* (דָּבָר) means both *the Word* and *the thing that creates* — creation-by-utterance, the engine of *Sefer Yetzirah*, where worlds are spoken into being letter by letter. It routes straight back to the mouth: speech as the act that makes. This closes a loop with Jagwar Twin's own cosmogonic line — *"No thing ever creates another thing"* (@JagwarTwin, Feb 2 2022) — read alongside *davar*: the same doctrine opened from both ends, the *empty* that transmits is also the *empty* that creates. The mouth is the hinge between the two. See [[The Empty Mirror]].
+> The mouth is also where emptiness becomes *creation.* The Hebrew *davar* (דָּבָר) means both *the Word* and *the thing that creates* — creation-by-utterance, the engine of *Sefer Yetzirah*, where worlds are spoken into being letter by letter. It routes straight back to the mouth: speech as the act that makes. This closes a loop with Jagwar Twin's own cosmogonic line — *"No thing ever creates another thing"* (@JagwarTwin, Feb 2 2022) — read alongside *davar*: the same doctrine opened from both ends, the *empty* that transmits is also the *empty* that creates. The mouth is the hinge between the two. See [[Concepts/The Empty Mirror]].
 
 > [!note]- Advanced reading — the cave's two mouths (a second sense of "mouth")
 > There's a second "mouth" hiding in plain sight — not the body's, but the cave's. In the fifth labor of Hercules (the Nemean Lion, Leo), the lion is fought in a cave with **two openings**; the hero seals one and goes in bare-handed through the other. WTTC's *"flashing lights, there's no exit sign in my maze"* reads as that cave *un*-entered — a maze with the second mouth never sealed, no way through. In the Alice Bailey reading the two cave-mouths map to the two lobes of the pituitary (soul governing personality). It's an esoteric thread, flagged as such — but it gives "the Mouth" a second valence: the *opening*, the gateway, the mouth of the cave you either pass through or wander.
 
 > [!note]- Advanced reading — counterfeit witnessing (*"did you like the show?"*)
-> The Circus's signature question — *"But when the curtains close / Did you like the show?"* — is the watched performing for the watchers, with the breakdown itself sold as the product. It belongs to the [[Witnessing vs Surveillance]] split: being **seen** (witnessed, held, transformed) versus being **consumed** (surveilled, ranked, shaped). The mouth-cluster sits squarely on the consumption side — *"they love it when you lose control"*; the harm is the merchandise. The comedy is the cruelty's delivery system: a ringmaster's chipper customer-service line (*did you enjoy your visit?*) asked about a public collapse, devastating precisely *because* it's polite — same register as the jester bragging *"I'm so outrageous, I'm so in style"* while *"they clap and smile."* The painted mouth marketing its own failure.
+> The Circus's signature question — *"But when the curtains close / Did you like the show?"* — is the watched performing for the watchers, with the breakdown itself sold as the product. It belongs to the [[Concepts/Witnessing vs Surveillance]] split: being **seen** (witnessed, held, transformed) versus being **consumed** (surveilled, ranked, shaped). The mouth-cluster sits squarely on the consumption side — *"they love it when you lose control"*; the harm is the merchandise. The comedy is the cruelty's delivery system: a ringmaster's chipper customer-service line (*did you enjoy your visit?*) asked about a public collapse, devastating precisely *because* it's polite — same register as the jester bragging *"I'm so outrageous, I'm so in style"* while *"they clap and smile."* The painted mouth marketing its own failure.
 
 > [!note]- Advanced reading — WTTC is Lucius's product, confessed inside the work
 > One fact reframes the whole mouth-failure cluster: the song that contains it *admits its own authorship.* In [[The Interview]] EP3 (YouTube, Jan 5 2026), Roy proposes releasing a Song of Love; [[Sir Lucius]] overrides him, dismisses the earlier vulnerable songs as low-performing, offers *"another hit,"* and names the source — *"the algorithm, baby."* So WTTC's litany of broken mouths is, by the work's own confession, **Lucius-made algorithmic material** — which is why it can stage every mouth-failure at once with such fluency. It's the consuming mouth describing the damage it does, and calling it a hit. (The deeper open question: Lucius is sure he is the top, but the appetite may run *through* him — the consumer might be Lucius *or* the Algorithm *or* the industry *or* the audience, further upstream than the ringmaster who thinks he is the boss.)
@@ -130,8 +130,8 @@ Read together, that's a voice failing from *within* and being suppressed from *w
 
 ## Read next
 
-- [[The Voice]] — the same cluster from the other side; what the Mouth is *for*.
-- [[Consumption]] — the consuming mouth at social and industrial scale; the Jonah table.
+- [[Concepts/The Voice]] — the same cluster from the other side; what the Mouth is *for*.
+- [[Concepts/Consumption]] — the consuming mouth at social and industrial scale; the Jonah table.
 - [[Welcome to the Circus]] — the densest mouth-failure cluster; four lines, three failure modes.
 - [[Sir Lucius]] — the consuming voice; the *El Roi* throat tattoo at the utterance-gate.
 - [[Letters of Creation|The Angels and the Angles]] — the letter-mysticism substrate; vowels as angels, consonants as angles.

@@ -23,7 +23,7 @@ Across his 2025 feed Roy names the lineage out loud, with **Neville Goddard** as
 The rest of the named roster, for readers who want the sources themselves:
 
 - **[Neville Goddard](https://en.wikipedia.org/wiki/Neville_Goddard)** — imagination as creative act; the lead name in Roy's own telling.
-- **[Rudolf Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner)** — who formalized the Dweller-who-becomes-guide move the project leans on (see [[The Dweller on the Threshold]]).
+- **[Rudolf Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner)** — who formalized the Dweller-who-becomes-guide move the project leans on (see [[Concepts/The Dweller on the Threshold]]).
 - **[Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky)** — Theosophy's founder; *"the mind is the slayer of the real"* is her line, and *slay the slayer* is what Roy does with it.
 - **[Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts)** — the let-go register; his line on faith is the [[SideQuest]] epigraph.
 - **[Éliphas Lévi](https://en.wikipedia.org/wiki/Eliphas_Levi)** — nineteenth-century occult correspondence-craft.
@@ -32,16 +32,16 @@ The rest of the named roster, for readers who want the sources themselves:
 
 ## The board's pillars
 
-The [[Concepts/The I'm 33 Board]] — Roy's own conceptual spreadsheet — grounds a slightly different set: [[Alice Bailey]]'s virtue-and-vice scale, **[Walter Russell](https://en.wikipedia.org/wiki/Walter_Russell)**'s octave cosmology, **[The Kybalion](https://en.wikipedia.org/wiki/The_Kybalion)** (see [[Hermeticism - As Above So Below]]), [[Kabbalah - The Tree of Life]], and Plato. And one quote-card from **[Dion Fortune](https://en.wikipedia.org/wiki/Dion_Fortune)** has become load-bearing for the whole antagonist: *"The shadow is not evil. It is power unrecognized and therefore misused."*
+The [[Concepts/The I'm 33 Board]] — Roy's own conceptual spreadsheet — grounds a slightly different set: [[Alice Bailey]]'s virtue-and-vice scale, **[Walter Russell](https://en.wikipedia.org/wiki/Walter_Russell)**'s octave cosmology, **[The Kybalion](https://en.wikipedia.org/wiki/The_Kybalion)** (see [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]), [[Kabbalah - The Tree of Life]], and Plato. And one quote-card from **[Dion Fortune](https://en.wikipedia.org/wiki/Dion_Fortune)** has become load-bearing for the whole antagonist: *"The shadow is not evil. It is power unrecognized and therefore misused."*
 
 ## The warning label
 
-Roy supplies the anti-overfit rule himself: *"I would map a crow onto Mercury, but that's just personal. I don't recommend you do it."* A named influence licenses a lens — it does not hand anyone a master key, and not everything that resonates was deliberately placed (see [[Inherited Substrate]]). This guide's practice: use the lenses Roy has named, label the readings as readings, and let the songs outrank the bookshelf.
+Roy supplies the anti-overfit rule himself: *"I would map a crow onto Mercury, but that's just personal. I don't recommend you do it."* A named influence licenses a lens — it does not hand anyone a master key, and not everything that resonates was deliberately placed (see [[Concepts/Inherited Substrate]]). This guide's practice: use the lenses Roy has named, label the readings as readings, and let the songs outrank the bookshelf.
 
 ## Read next
 
 - [[Carl Jung]] · [[Gurdjieff]] · [[Alice Bailey]] — the three deep pages.
-- [[The Pattern]] — the single law Roy assembles from this lineage.
+- [[Concepts/The Pattern]] — the single law Roy assembles from this lineage.
 - [[Concepts/The I'm 33 Board]] — the roster in his own hand.
-- [[Inherited Substrate]] — the honesty clause: resonance is not always intent.
+- [[Concepts/Inherited Substrate]] — the honesty clause: resonance is not always intent.
 - [[Source and Interpretation Policy]] — how this guide keeps grounded and read-as apart.

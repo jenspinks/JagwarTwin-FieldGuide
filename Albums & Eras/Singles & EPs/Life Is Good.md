@@ -25,7 +25,7 @@ A nursery rhyme about the end of the world. That's the whole trick of it: a brig
 - **Era / release** — standalone single, early November 2023; Jagwar Twin's collaboration with **angelbaby**, an AI/virtual artist. It arrived first as a limited Web3 drop on **Sound.xyz** (a 0.01-ETH edition), then everywhere on DSPs days later. Toured heavily through 2024 into 2025 (Slovakia, May 2024; Brussels, June 2024; Dubai, December 2024), often with angelbaby credited as the on-screen "sound."
 - **In one line** — the smile you choose *against* the flames, held so deliberately you can't quite tell if it's wisdom or evasion — and the song won't tell you which.
 - **Who speaks** — [[Roy|Jagwar Twin]] as the bright-surfaced bard *and* the one confessing underneath, co-voiced by an AI. Addressed to the crowd — "kids" gathered for a song.
-- **Key symbols** — the [[The Voice|antenna]] (the mind as receiver) · the smile · the [[Fire|flames]] · the circle 'round the sun · the [[The Veil|illusion]] / plastic reality.
+- **Key symbols** — the [[Concepts/The Voice|antenna]] (the mind as receiver) · the smile · the [[Fire|flames]] · the circle 'round the sun · the [[Concepts/The Veil|illusion]] / plastic reality.
 
 ## The song, mapped
 
@@ -64,17 +64,17 @@ The deepest kinship in the catalogue is with **[[tomorrow (ANGLE OF ETERNITY)]]*
 ## Characters
 
 - [[Roy|Jagwar Twin]] — the bard and ringmaster of the bright surface, and the one confessing underneath it; the storyteller who sings you a song while the world's in flames.
-- **angelbaby** *(@angelbaby / angelbaby3045.eth)* — the credited AI/virtual collaborator, publicly billed as co-artist, producer and vocalist. A "metastar" from the Web3 entertainment company Hume (CAA-signed; known for AI-voice work, including a track using Grimes' AI-generated voice), presented as a leopard-patterned rabbit with a septum piercing, styled in lowercase. A real external collaborator — Roy refers to the persona as "he." Chronologically, angelbaby is the **earliest node in Roy's documented AI / digital-double thread**, predating the "made by AI" [[Bounce]]-era visualizer work and everything after. See [[The Digital Double]].
+- **angelbaby** *(@angelbaby / angelbaby3045.eth)* — the credited AI/virtual collaborator, publicly billed as co-artist, producer and vocalist. A "metastar" from the Web3 entertainment company Hume (CAA-signed; known for AI-voice work, including a track using Grimes' AI-generated voice), presented as a leopard-patterned rabbit with a septum piercing, styled in lowercase. A real external collaborator — Roy refers to the persona as "he." Chronologically, angelbaby is the **earliest node in Roy's documented AI / digital-double thread**, predating the "made by AI" [[Bounce]]-era visualizer work and everything after. See [[Concepts/The Digital Double]].
 - **The "kids" / the crowd** — addressed directly (*"Hey kids I'll sing you a song"*): the audience being entertained while the world burns. See [[The Crowd]].
 - **Josh Dun** *(Twenty One Pilots)* — a credited co-writer. Behind the glass rather than a character in the song, but a notable name given how often Jagwar Twin gets compared to Twenty One Pilots.
 
 ## Symbols
 
-- **The [[The Voice|antenna]]** — *"my head's an antenna / I'm wide awake"*; the mind tuned to signal, receiving everything. The posture of being *too* connected to the collective feed.
+- **The [[Concepts/The Voice|antenna]]** — *"my head's an antenna / I'm wide awake"*; the mind tuned to signal, receiving everything. The posture of being *too* connected to the collective feed.
 - **The smile** — joy held as a *chosen* posture against the flames; the load-bearing ambiguity, defiance or evasion, deliberately unresolved.
 - **The [[Fire|flames]]** — *"the world's in flames"*; the burning world the joy is chosen against, the apocalyptic backdrop it shares with [[All My Friends]]. The line became its own social shorthand — Jagwar Twin kept re-posting *"the world's in flames 🐇"* clips (the rabbit emoji tying the chorus into the wider rabbit iconography) long after release.
-- **The circle 'round the sun** — a year turning, cyclical time; the corrected *"Another"* points it at [[The Loop and the Circle|LOOP]]'s mechanical recurrence — another lap, same track.
-- **The [[The Veil|illusion]] / plastic reality** — *"is this real or am I in an illusion" / "living in a lie and we can't see the truth"*; the fake-reality and media cluster, quietly sharpened by *who* is co-singing it.
+- **The circle 'round the sun** — a year turning, cyclical time; the corrected *"Another"* points it at [[Concepts/The Loop and the Circle|LOOP]]'s mechanical recurrence — another lap, same track.
+- **The [[Concepts/The Veil|illusion]] / plastic reality** — *"is this real or am I in an illusion" / "living in a lie and we can't see the truth"*; the fake-reality and media cluster, quietly sharpened by *who* is co-singing it.
 - **The body-that-moves-on-its-own** — *"face down but I can feel my body moving"*; kinetic dissociation, the mind detached from the moving body (the [[Bounce]] image).
 - **The news, turned off** — *"so I turn off the news"*; media-withdrawal as a survival move against the overload.
 
@@ -87,12 +87,12 @@ The deepest kinship in the catalogue is with **[[tomorrow (ANGLE OF ETERNITY)]]*
 - [[Welcome to the Circus]] — the trap the song survives *inside*, or is complicit *with*: the fun-over-truth machine.
 - [[Good Day]] — major-key brightness stretched over instability; the same surface-vs-substrate kinship.
 - [[Bad Feeling (Oompa Loompa)]] — angelbaby's press framing, *"we can't pretend that everything is just perfect,"* rhymes almost exactly with Bad Feeling's *"everything's perfect here"* (and the two singles rolled out weeks apart).
-- [[Duality]] — joy and sadness held as a polarity, both true at once; the song files cleanly as a Duality instance.
-- [[The Digital Double]] — the AI-collaborator lineage that angelbaby opens.
+- [[Concepts/Duality]] — joy and sadness held as a polarity, both true at once; the song files cleanly as a Duality instance.
+- [[Concepts/The Digital Double]] — the AI-collaborator lineage that angelbaby opens.
 - [[Not Your Homie]] · [[dumbledore]] — fellow sweet-surface-over-darkness devices.
 
 > [!note]- Advanced reading — the antenna, the smile, and the Hermetic frame *(tap to open)*
-> Roy's public toolkit includes the Hermetic principles (they're transcribed on his "I'm 33" board — see [[Concepts/The I'm 33 Board]] and [[Hermeticism - As Above So Below]]), and two of them map onto this song's core images with unusual precision.
+> Roy's public toolkit includes the Hermetic principles (they're transcribed on his "I'm 33" board — see [[Concepts/The I'm 33 Board]] and [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]), and two of them map onto this song's core images with unusual precision.
 >
 > **The antenna as the Vibration principle.** *"My head's an antenna / I'm wide awake"* is the posture of the Kybalion's Vibration principle as Roy has framed it — *"tune to desired frequency,"* *"the mind lives within a sea of information"* — and as he put it publicly in 2020: *"everything is a vibrational frequency. Light, matter, sound, it's all the same thing at variable speeds."* Three public anchors (the board cell, the 2020 quote, the lyric) lift this past coincidence into engagement — though the specific line-to-doctrine match is still a reader's mapping, not something Roy stated as intent. It reframes the antenna: the mind isn't just anxious, it's *tuned* — receiving a frequency it can't switch off.
 >
@@ -101,7 +101,7 @@ The deepest kinship in the catalogue is with **[[tomorrow (ANGLE OF ETERNITY)]]*
 > One lighter thread: *"strange but I like living this way"* has a small kinship with the strangeness-as-okay motif that runs through [[Weirdness]] — self-acceptance as its own quiet frequency.
 
 > [!note]- Advanced reading — the AI meta-layer, and one guardrail *(tap to open)*
-> There's a coincidence here that the material almost stages on purpose: a song asking *"is this real or am I in an illusion"* — a song *about* fake, plastic reality — is co-performed by an actual synthetic entity. The universe supplying its own punchline. How far the resonance travels depends on an open question: did Hume/angelbaby *generate* parts of the record, or is it human-written and AI-*performed*? Roy's own account is disarmingly low-key — he heard angelbaby's work while getting into AI and Web3, and his manager at the time (Linus) knew the team and connected them; they *"got in the studio and just had fun,"* no pressure. That framing tilts toward incidental. But the collaboration still sits at the head of the [[The Digital Double]] lineage, and a song about illusion sung partly by an illusion is hard to fully un-hear.
+> There's a coincidence here that the material almost stages on purpose: a song asking *"is this real or am I in an illusion"* — a song *about* fake, plastic reality — is co-performed by an actual synthetic entity. The universe supplying its own punchline. How far the resonance travels depends on an open question: did Hume/angelbaby *generate* parts of the record, or is it human-written and AI-*performed*? Roy's own account is disarmingly low-key — he heard angelbaby's work while getting into AI and Web3, and his manager at the time (Linus) knew the team and connected them; they *"got in the studio and just had fun,"* no pressure. That framing tilts toward incidental. But the collaboration still sits at the head of the [[Concepts/The Digital Double]] lineage, and a song about illusion sung partly by an illusion is hard to fully un-hear.
 >
 > **The guardrail:** angelbaby's name echoes the "angel baby" / divine-feminine imagery elsewhere in the project (as in [[Weirdness]]). Resist the pull to fuse them. angelbaby is a real external collaborator — a name-echo, not the symbolic voice. And angelbaby's Hume avatar happening to be a **leopard-patterned rabbit** — fusing Jagwar Twin's own jaguar/leopard and rabbit-eared motifs a couple of years before the rabbit-eared [[Sir Lucius]] — is a genuine curiosity, but it's *Hume's* design, not Roy's. Note the rhyme; don't fold it into the iconography as intent.
 
@@ -219,6 +219,6 @@ But at least we're having fun
 - [[Happy Face]] — the earlier, less-integrated step in the same thread.
 - [[tomorrow (ANGLE OF ETERNITY)]] — the same question in a spiritual key.
 - [[All My Friends]] — the 2023 world's-end-togetherness sibling.
-- [[The Digital Double]] — the AI-collaborator lineage this song opens.
-- [[Duality]] — joy and sadness held as one polarity.
+- [[Concepts/The Digital Double]] — the AI-collaborator lineage this song opens.
+- [[Concepts/Duality]] — joy and sadness held as one polarity.
 - [[Welcome to the Circus]] — the machine the smile survives inside.

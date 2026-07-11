@@ -23,7 +23,7 @@ The tender one. In a catalogue full of masks, threats, spectacle and figures arg
 - **Era / release** — the *MAGIK* EP, May 16, 2025 (Big Loud Rock); the title track. It ran ahead of the *Lucius Lullaby* album and its whole shadow-arc.
 - **In one line** — *"Everything you do is Magik / living in a world so plastic"* — value located inside the person, before the world can package it.
 - **Who speaks** — [[Roy|Jagwar Twin]] at his most undefended: the witness, the blesser. Not Lucius. The "you" he sings *to* is left deliberately open (see below).
-- **Key symbols** — [[The Labyrinth]] (*"the middle of a maze"*) · [[The Moon]] (*"a lasso round the Moon"*) · the eyes / seeing (*"I see it in your eyes"*) · [[The Circus#What it produces (the Spectacle)|the plastic world]].
+- **Key symbols** — [[Concepts/The Labyrinth]] (*"the middle of a maze"*) · [[The Moon]] (*"a lasso round the Moon"*) · the eyes / seeing (*"I see it in your eyes"*) · [[Concepts/The Circus#What it produces (the Spectacle)|the plastic world]].
 
 ## The song, mapped
 
@@ -46,11 +46,11 @@ MAGIK isn't built like an argument — it's built like a spell. It opens wordles
 
 A few claims that cut across the whole song.
 
-**It's witnessing, not surveillance — the catalogue's clearest case.** Surveillance says *I see you, therefore I can predict you, shape you, sell you.* MAGIK says *I see you, therefore you don't have to disappear.* The addressee isn't exposed; they're returned to themselves. This is the [[Witnessing vs Surveillance]] axis at its plainest — the seer who *restores* the seen rather than consuming them. (Roy's shadow wears *El Roi*, "the God who sees me," on his throat and uses sight to unmake people; MAGIK is the same faculty pointed the other way.)
+**It's witnessing, not surveillance — the catalogue's clearest case.** Surveillance says *I see you, therefore I can predict you, shape you, sell you.* MAGIK says *I see you, therefore you don't have to disappear.* The addressee isn't exposed; they're returned to themselves. This is the [[Concepts/Witnessing vs Surveillance]] axis at its plainest — the seer who *restores* the seen rather than consuming them. (Roy's shadow wears *El Roi*, "the God who sees me," on his throat and uses sight to unmake people; MAGIK is the same faculty pointed the other way.)
 
 **The magic is ordinary, not performative.** *"Everything you do is Magik"* — already present, right now, in whatever you're doing. The problem is *perception, not capability.* That's the exact inverse of [[Sir Lucius|Lucius]]-style spectacle, which manufactures impact and needs a crowd to exist. MAGIK recognizes radiance instead, with no mask, myth or stage-trick anywhere in it. This is why the song is unmistakably Roy-side: **it blesses without recruiting.** Never *follow me / perform for me / become useful to me* — only *you already have it.*
 
-**"A world so plastic" makes it an anti-Circus song.** The plastic world is the artificial, surface-driven, manufactured one — the [[The Circus|Circus]] / [[The Algorithm|Algorithm]] / [[The Circus#What it produces (the Spectacle)|Spectacle]] register compressed into a single adjective. It's a world that trains people to measure themselves by external forms. MAGIK answers by finding the value *inside* the person before the world can package it. It's the tender counter-pole to the whole spectacle machine.
+**"A world so plastic" makes it an anti-Circus song.** The plastic world is the artificial, surface-driven, manufactured one — the [[Concepts/The Circus|Circus]] / [[Concepts/The Algorithm|Algorithm]] / [[Concepts/The Circus#What it produces (the Spectacle)|Spectacle]] register compressed into a single adjective. It's a world that trains people to measure themselves by external forms. MAGIK answers by finding the value *inside* the person before the world can package it. It's the tender counter-pole to the whole spectacle machine.
 
 **The "you" is unstable on purpose — and that's the strength, not a gap.** Lover, fan, child, friend, listener — or Roy addressing a wounded part of himself. Sung outward, it's consolation; sung inward, it's self-rescue; sung to *you*, it's a direct blessing. The song refuses to choose, and the refusal is load-bearing: it's unresolvable *by design*, not a loose end to tie off. Don't collapse it to one person.
 
@@ -72,10 +72,10 @@ A few claims that cut across the whole song.
 
 ## Symbols
 
-- **[[The Labyrinth]]** — *"you're the middle of a maze."* The addressee at the center, not lost outside it; the way through is inward.
+- **[[Concepts/The Labyrinth]]** — *"you're the middle of a maze."* The addressee at the center, not lost outside it; the way through is inward.
 - **[[The Moon]]** — *"a lasso round the Moon."* Reaching for the unreachable as a gesture of love; the lunar register that runs through the project's Mary material.
 - **The eyes / seeing** — *"I see it in your eyes,"* *"if only you could see,"* *"you don't even see it / but you have it."* Sight *is* the song's mechanism: the seer restores the seen.
-- **[[The Circus#What it produces (the Spectacle)|The plastic world]]** — *"a world so plastic."* The manufactured, surface-driven world; the [[The Circus|Circus]]/[[The Algorithm|Algorithm]] register in one word, and MAGIK's tender counter-pole to it.
+- **[[Concepts/The Circus#What it produces (the Spectacle)|The plastic world]]** — *"a world so plastic."* The manufactured, surface-driven world; the [[Concepts/The Circus|Circus]]/[[Concepts/The Algorithm|Algorithm]] register in one word, and MAGIK's tender counter-pole to it.
 - **Magik (the word itself)** — held between two senses: the everyday wonder Roy talks about publicly (*"there is so much magik everywhere… we know it when we're young"*) and the possibility of the esoteric *"Magick"* (see Advanced reading). One word, two charges.
 
 ## Connected songs
@@ -102,7 +102,7 @@ The four passwords, read in order, are a compact theology of the Self:
 So the maze you're in the middle of turns out to have a center made of *you → your heart → the fixed star → the creating Word.* The rescue and the cosmology are the same shape.
 
 > [!note]- Advanced reading — davar, No-Thing, and creation-by-speech
-> The fourth drop, *davar*, doesn't sit alone. It pairs with a Roy aphorism from 2022 — *"No thing ever creates another thing"* — where *lo davar* ("no-thing") is the wildcard: the Word that creates *from* No-Thing. This routes MAGIK's rollout straight into the project's [[The Empty Mirror|empty-mirror]] material and the whole [[The Voice|Voice]] / [[The Mouth|Mouth]] complex — creation as an act of speech out of emptiness. The rollout's endpoint isn't a marketing beat; it's the same origin-by-utterance the mythology keeps circling.
+> The fourth drop, *davar*, doesn't sit alone. It pairs with a Roy aphorism from 2022 — *"No thing ever creates another thing"* — where *lo davar* ("no-thing") is the wildcard: the Word that creates *from* No-Thing. This routes MAGIK's rollout straight into the project's [[Concepts/The Empty Mirror|empty-mirror]] material and the whole [[Concepts/The Voice|Voice]] / [[Concepts/The Mouth|Mouth]] complex — creation as an act of speech out of emptiness. The rollout's endpoint isn't a marketing beat; it's the same origin-by-utterance the mythology keeps circling.
 
 > [!note]- Advanced reading — the paratext (Jung, Snow White, the star and the spider)
 > The hint-posts around the drops are their own small text. A *building/shadow* post quoted Jung — *"the taller the building, the greater the shadow"* — captioned *"When's the last time you watched Snow White tho?"* (the shadow-arc of the whole *Lucius Lullaby* era, previewed). The SideQuest reel named Watts *"a loyal servant of the Realm."* And the MAGIK visualizer (May 16, 2025) carried the caption **"The star conjunct the spider at first breath"** — a natal-chart register that ties back to the *alcyone* (fixed-star) drop and the recurring spider motif elsewhere in the world. Whether the caption encodes an actual birth chart is raised, not resolved.
@@ -115,7 +115,7 @@ So the maze you're in the middle of turns out to have a center made of *you → 
 > [!note]- Advanced reading — the shine-lineage and the kabbalah lens
 > **The shine-thread.** MAGIK is arguably the endpoint of a vocabulary that begins in [[Shine]] (2018): a first-person/communal *"I'm gonna shine"* that the divine-feminine, Mary-class voice later redirects into second-person **blessing** — *"you were born to shine"* ([[Weirdness]]), *"let your light shine"* ([[Ballerina Boy]]), and the pure witnessing-blessing of MAGIK. The claim gets handed from the singer to the listener over eight years.
 >
-> **A held kabbalah reading.** One esoteric sweep floated MAGIK as *birur* — the lifting or sorting of the sparks, seeing the hidden light in the ordinary and raising it. It's a suggestive fit for a song about seeing radiance where others see only the plastic. But it's a *candidate*, anchored in lyric and interview rather than in anything Roy has stated, so it's held rather than folded into canon. (For the frame itself, see [[Kabbalah - The Tree of Life]] and [[Keilim - The Breaking of the Vessels]].)
+> **A held kabbalah reading.** One esoteric sweep floated MAGIK as *birur* — the lifting or sorting of the sparks, seeing the hidden light in the ordinary and raising it. It's a suggestive fit for a song about seeing radiance where others see only the plastic. But it's a *candidate*, anchored in lyric and interview rather than in anything Roy has stated, so it's held rather than folded into canon. (For the frame itself, see [[Kabbalah - The Tree of Life]] and [[Concepts/Keilim - The Breaking of the Vessels]].)
 
 ## Lyrics
 
@@ -259,9 +259,9 @@ Baba bada baba ba
 
 ## Read next
 
-- [[Witnessing vs Surveillance]] — the axis MAGIK demonstrates at its purest.
+- [[Concepts/Witnessing vs Surveillance]] — the axis MAGIK demonstrates at its purest.
 - [[SOL]] — MAGIK's mirror at the far end of the shadow-arc; the light that closes what MAGIK opens.
-- [[The Labyrinth]] — *"the middle of a maze"* and its escalation to *"you are it."*
+- [[Concepts/The Labyrinth]] — *"the middle of a maze"* and its escalation to *"you are it."*
 - [[Weirdness]] / [[Ballerina Boy]] — the rest of the blessing-voice cluster.
 - [[Sir Lucius]] — the spectacle MAGIK is the exact inverse of; the shadow that spends the next album trying to put this light out.
 - [[dumbledore]] — the same word, *"Magik,"* at the opposite charge.

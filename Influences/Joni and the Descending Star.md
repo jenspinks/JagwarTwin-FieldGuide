@@ -18,7 +18,7 @@ The Joni thread is one of the most grounded and most moving things in the catalo
 
 - **In one line** — a confirmed collaboration (Joni co-wrote and blessed a song on *33*) that turns out to be the clearest working model of the project's central engine: the descending soul, the failed and the successful transmission, the loop that becomes a circle by being carried.
 - **Where it shows up** — [[Soul Is A Star]] (the anchor: Joni's co-write, the blessing, the *Woodstock* weld, the genes/jeans lock) · [[Down to You]] (the album's second Joni dialogue) · [[SOL]] (where the grounding deliberately stops).
-- **Connected ideas** — [[Inherited Substrate]] · [[The Thread]] · [[The Circle]] · [[The Loop and the Circle]] · [[The Voice]] · [[The Empty Mirror]] · [[Sir Lucius]] · [[Mary]] · [[Duality]].
+- **Connected ideas** — [[Concepts/Inherited Substrate]] · [[The Thread]] · [[The Circle]] · [[Concepts/The Loop and the Circle]] · [[Concepts/The Voice]] · [[Concepts/The Empty Mirror]] · [[Sir Lucius]] · [[Mary]] · [[Concepts/Duality]].
 - **Confidence** — a firm grounded floor (the co-write and the blessing, both in Roy's own words), a strong interpretive body (the *Woodstock* weld, the genes/jeans echo, the cycle reading), and one genuinely open question at the top — whether Joni's actual voice is on the track — that the page names rather than leans on.
 
 ## The song comes down
@@ -35,7 +35,7 @@ That last part is the tender floor under all the cleverness, and it's in Roy's o
 
 Here the project's own grammar does the heavy lifting, so this isn't a frame imported from outside — it's the one already installed.
 
-A [[The Loop and the Circle|loop]] repeats without arriving. A **circle** returns, transformed, and grows from the inside. The doctrine is that love turns the loop into the circle. *Soul Is A Star* stages both. The son and the girl are loops that terminated: one exited, one got optimized into product (see [[The Circus#What it produces (the Spectacle)|the Spectacle]]). Joni's line refused both — it kept transmitting. When Roy carries it forward with love rather than extraction — a blessing asked, not a sample cleared and forgotten — the loop becomes a circle. The fallen star is lifted by being received. That's return rather than orbit, transmission working instead of failing.
+A [[Concepts/The Loop and the Circle|loop]] repeats without arriving. A **circle** returns, transformed, and grows from the inside. The doctrine is that love turns the loop into the circle. *Soul Is A Star* stages both. The son and the girl are loops that terminated: one exited, one got optimized into product (see [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]]). Joni's line refused both — it kept transmitting. When Roy carries it forward with love rather than extraction — a blessing asked, not a sample cleared and forgotten — the loop becomes a circle. The fallen star is lifted by being received. That's return rather than orbit, transmission working instead of failing.
 
 And the album agrees with itself out loud. *Soul Is A Star* sits at track 5, the literal midpoint, and asks the record's governing question: *"do you know who you are?"* [[The Circle]] at track 10 answers it: the inside of the inside is where you go. You don't have to graft the cycle onto this song — it's the spine of the record the song lives on.
 
@@ -73,7 +73,7 @@ Two details worth banking. First, *"caught in the devil's bargain"* is Joni's ow
 
 We are not crowning anyone. The word *"Prophets"* appears once, in one line, in one song, and this page lets it be a word, not a throne. There's no credit, caption, lyric, or statement in which Roy names himself a prophet, an heir, or the next link in a sacred line, and building that thesis on a single lyric would be the project's own worst failure mode — treating the artist as a guru. Roy doesn't carry himself like a man collecting a crown.
 
-And there's a cheerful irony in it: the artist Roy is borrowing from is the one who most refused to be the subject of her own songs. Joni said her songs were *"a mirror of human nature,"* meant so the listener sees themself, *"not Joni doing something."* That's this project's [[The Empty Mirror|Empty Mirror]] doctrine, stated decades early by a confirmed influence — and the cleanest argument against any coronation: you can't inherit a throne from someone who spent her career declining to sit on one.
+And there's a cheerful irony in it: the artist Roy is borrowing from is the one who most refused to be the subject of her own songs. Joni said her songs were *"a mirror of human nature,"* meant so the listener sees themself, *"not Joni doing something."* That's this project's [[Concepts/The Empty Mirror|Empty Mirror]] doctrine, stated decades early by a confirmed influence — and the cleanest argument against any coronation: you can't inherit a throne from someone who spent her career declining to sit on one.
 
 One guardrail, said warmly. The co-write makes Joni a confirmed *influence*. It doesn't make every overlap in the catalogue travel through her. The girl in *Soul Is A Star* is not Joni. The album-wide *33*-to-*Ladies of the Canyon* dialogue is a strong reading, and *"33 named because of Joni's thirty-third floor"* stays a guess. Keeping those honest isn't hedging — it's what lets the strong claims stay strong.
 
@@ -90,7 +90,7 @@ One guardrail, said warmly. The co-write makes Joni a confirmed *influence*. It 
 > *If* Roy used Joni's real voice for some non-lyrical part, the cycle stops being a metaphor and becomes a thing that happened. A song that failed to transmit — the son's *"songs you never heard"* — healed by one that succeeded, *Woodstock*, audible for fifty years. Joni becomes the Witness who *"came upon the child of God"* in 1969, placed bodily inside the later song, still singing: the fallen star lifted, and the lifting recorded, the whole doctrine leaking quietly into reality. The honest caveat is the one that makes it worth trusting: the co-write is the only hard floor. If the borrowing is purely melodic, this stays a lovely idea rather than a proof.
 
 > [!note]- Advanced reading — Joni's own esoteric shelf
-> Part of why the Joni thread carries weight is that aligning with her isn't aligning with a pop reference. She is a self-avowedly Jungian artist (synchronicity, the four-faculty Medicine Wheel), reads Nietzsche (her *"maker of individuals"* sits beside Roy's *Zarathustra* camel), called herself a *"Buddhist-Gnostic hybrid"* (*"God is within"*), and said she was *"interested in the prophets of all religions, but the religions themselves don't make any sense to me."* That last line — the closest grounded tie between Joni and the literal word *prophet* — is about *her*, not Roy. The substrate Roy draws from already runs on the same Jung / Hermetic / Gnostic furniture the rest of the catalogue does. The shelves match, which is exactly why the inheritance reads as real rather than decorative. See [[Carl Jung]], [[Gnosticism - The World as Trap]].
+> Part of why the Joni thread carries weight is that aligning with her isn't aligning with a pop reference. She is a self-avowedly Jungian artist (synchronicity, the four-faculty Medicine Wheel), reads Nietzsche (her *"maker of individuals"* sits beside Roy's *Zarathustra* camel), called herself a *"Buddhist-Gnostic hybrid"* (*"God is within"*), and said she was *"interested in the prophets of all religions, but the religions themselves don't make any sense to me."* That last line — the closest grounded tie between Joni and the literal word *prophet* — is about *her*, not Roy. The substrate Roy draws from already runs on the same Jung / Hermetic / Gnostic furniture the rest of the catalogue does. The shelves match, which is exactly why the inheritance reads as real rather than decorative. See [[Carl Jung]], [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].
 
 > [!note]- Advanced reading — the mother as the first channel
 > The "song handed down" doctrine has a biographical floor in Roy's mother, on two public anchors: a 2018 Atwood interview (she *"listened to pretty much only weird world music"*) and the Masquerade bio (*"Joni Mitchell and Bob Dylan… his mom played around the house"*). The inherited-substrate method literally originates in her records. Two things stay distinct: the biographical mother is a *channel*, where [[Mary]] is a symbolic *function* — the two shouldn't be collapsed — and there's a separate note that Roy's *dad* sent him *Woodstock*, his favorite Joni song, so the dad-*Woodstock* thread stays its own thing rather than merging into the mom-played-them bio.
@@ -102,16 +102,16 @@ One guardrail, said warmly. The co-write makes Joni a confirmed *influence*. It 
 
 - **[[Soul Is A Star]]** — the grounded anchor: the co-write, the blessing, the *Woodstock* weld, the genes/jeans lock, the question at the center. The whole concept rests here.
 - **[[The Circle]]** — answers the *"do you know who you are"* question *Soul Is A Star* poses, and is the shape the whole cycle resolves into. Joni's *"Circle Game"* sits adjacent in the substrate.
-- **[[The Loop and the Circle]]** — the doctrine the cycle reading runs on: the loop that terminated (son, girl) versus the transmission carried home (Joni, lifted).
-- **[[The Voice]]** — the transmission cluster the song performs inside: light moving through channels, failing in the son, succeeding in Joni.
-- **[[Inherited Substrate]]** — lists Joni as credited substrate alongside Mercer, Chaplin, Rockwell, Vaughan.
+- **[[Concepts/The Loop and the Circle]]** — the doctrine the cycle reading runs on: the loop that terminated (son, girl) versus the transmission carried home (Joni, lifted).
+- **[[Concepts/The Voice]]** — the transmission cluster the song performs inside: light moving through channels, failing in the son, succeeding in Joni.
+- **[[Concepts/Inherited Substrate]]** — lists Joni as credited substrate alongside Mercer, Chaplin, Rockwell, Vaughan.
 - **[[The Thread]]** — ties to Joni's own phrase, *"a mystical thread that runs through my life."*
-- **[[The Empty Mirror]]** — Joni's own doctrine (*"a mirror of human nature… not Joni doing something"*), and the reason the heir frame doesn't hold.
+- **[[Concepts/The Empty Mirror]]** — Joni's own doctrine (*"a mirror of human nature… not Joni doing something"*), and the reason the heir frame doesn't hold.
 - **[[Down to You]]** — the second Joni dialogue on *33*.
 - **[[SOL]]** — the firewall where the grounding stops.
 - **[[Sir Lucius]]** — borrows only the *function* of a performing alter-ego, the mask worn as armor; the connection is to the mechanism, nothing more.
 - **[[Mary]]** — shares the divine-feminine register, held distinct from the biographical mother-as-channel above.
-- **[[Duality]]** — runs through it all: son and girl, escape and return, the one who wouldn't sell and the one who did.
+- **[[Concepts/Duality]]** — runs through it all: son and girl, escape and return, the one who wouldn't sell and the one who did.
 
 ## Source notes
 
@@ -125,7 +125,7 @@ One guardrail, said warmly. The co-write makes Joni a confirmed *influence*. It 
 
 - [[Soul Is A Star]] — the grounded anchor and the full weld.
 - [[The Circle]] — the shape the cycle resolves into.
-- [[The Loop and the Circle]] and [[The Voice]] — the doctrine the reading runs on.
-- [[Inherited Substrate]] — the method Joni belongs to.
+- [[Concepts/The Loop and the Circle]] and [[Concepts/The Voice]] — the doctrine the reading runs on.
+- [[Concepts/Inherited Substrate]] — the method Joni belongs to.
 - [[Down to You]] — the second Joni dialogue.
 - [[SOL]] — where the grounding stops, and why.

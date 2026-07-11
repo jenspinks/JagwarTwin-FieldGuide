@@ -20,7 +20,7 @@ The Fool walks through this catalogue in more costumes than almost any other fig
 
 - **What it does** — holds the paradox of holy emptiness: the zero that contains everything, the idiot who is the only one wise enough to make the leap.
 - **Where it shows up** — [[It's Your Time]] (the self-naming anchor); [[No. 1 Champion (la Conquistadora)]] (the leap turned fatal); [[dumbledore]] (the wise-fool disguise); [[Hell Of A Night]] (the feeling-lucky wager); the Hero's Journey wheel on [[Concepts/The I'm 33 Board]], in Roy's own hand.
-- **Connected ideas** — [[The Rose]] · [[Kabbalah - The Tree of Life]] · [[The Circus]].
+- **Connected ideas** — [[The Rose]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Circus]].
 - **Confidence** — the self-designation, the board station, and the lyrics are grounded; the Tarot readings are strong and labeled; whether the Fool is a symbol or a full-blown *character* is an open question this page deliberately leaves ajar.
 
 ## The self-naming: It's Your Time
@@ -39,7 +39,7 @@ The Rider-Waite Fool steps off a cliff, white rose in hand, trusting the fall. T
 
 ## The two registers: holy fool and imposed fool
 
-From the [[dumbledore]] reading: highest wisdom appearing as idiocy to the profane world — the jester who *plays* the idiot to survive the court, "go dumb" as disguise. Against it, the [[The Circus]] version: the dumbing-down *imposed*, the meme-flattening the machine performs on anything sincere. The degradation could be chosen or inflicted, and the songs let you hold both — that unresolved doubleness is most of what makes the figure interesting.
+From the [[dumbledore]] reading: highest wisdom appearing as idiocy to the profane world — the jester who *plays* the idiot to survive the court, "go dumb" as disguise. Against it, the [[Concepts/The Circus]] version: the dumbing-down *imposed*, the meme-flattening the machine performs on anything sincere. The degradation could be chosen or inflicted, and the songs let you hold both — that unresolved doubleness is most of what makes the figure interesting.
 
 > [!note]- Advanced reading — Key 0 and the Tarot finale
 > The [[Kabbalah - The Tree of Life]] page notes the Major Arcana's closing run — Star (XVII) → Moon (XVIII) → Sun (XIX) — converging with the project's light-map (the demoted morning-star, Roy's Moon-position, SOL as the true Sun). The Fool sits *before* all of it, at zero: the origin-point prior to the whole path of false light, illusion, and return. A song that opens *"I ain't nothing but a Fool"* is, in this frame, starting the deck over. Framework, labeled as such.

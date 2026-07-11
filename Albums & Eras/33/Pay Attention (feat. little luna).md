@@ -23,7 +23,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — *33*, September 30 2022 (the "cosmology album"); track 3, in the digital-age opening cluster (Online → It's Your Time → **Pay Attention** → I Like to Party).
 - **In one line** — a personified Attention runs a carnival-barker con: it offers you your desires, names a "little price," and the price turns out to be you.
 - **Who speaks** — a two-hander. **little luna** is the guide/MC who introduces you to the deity and voices the chorus-terms; **Roy voices Attention itself** — the pitch, the bridge, the naming ritual. (No Crowd, no Mary here; the "crowd" is a production echo built into the chorus.)
-- **Key symbols** — [[The Light-Bearer]] · [[The Circus]] · the Door · the Eye · the Empire / television · the Star · the Name.
+- **Key symbols** — [[Concepts/The Light-Bearer]] · [[Concepts/The Circus]] · the Door · the Eye · the Empire / television · the Star · the Name.
 
 ## The song, mapped
 
@@ -85,8 +85,8 @@ A handful of claims that cut across the whole pitch.
 
 ## Symbols
 
-- **[[The Light-Bearer]]** — *"Stars are Born from Light":* the counterfeit-light move, sacred idiom in an acquisitive mouth.
-- **[[The Circus]]** — *"Step right up"* is the barker's seed; the spectacle Attention runs while hiding behind it. (This line is the origin of a cross-catalogue chain — see Advanced reading.)
+- **[[Concepts/The Light-Bearer]]** — *"Stars are Born from Light":* the counterfeit-light move, sacred idiom in an acquisitive mouth.
+- **[[Concepts/The Circus]]** — *"Step right up"* is the barker's seed; the spectacle Attention runs while hiding behind it. (This line is the origin of a cross-catalogue chain — see Advanced reading.)
 - **The Door** — *"Step right up to my Door":* the threshold/opening; part of the House-and-Vessel container imagery, alongside the *"big BIG house."*
 - **The Eye** — *"eyes all around my head… see anything when you see my view":* claimed omnipresent perception. (An eye emoji also fronts the 2022 cipher tweet — see Source notes.)
 - **The Empire / television** — *"behind the Empires that rise… televise is just my disguise":* media and power as the deity's concealment. Recurs as the man-behind-the-curtain in [[Imagine A World]].
@@ -256,5 +256,5 @@ MaMa
 - [[Soul Is A Star]] — the fame-star corrected into the soul-star.
 - [[Down to You]] — the inward, scriptural refusal of the same false gods.
 - [[Sir Lucius]] — the figure whose persuasion-and-concealment function this song prototypes.
-- [[The Light-Bearer]] — the counterfeit-light move, decoded.
+- [[Concepts/The Light-Bearer]] — the counterfeit-light move, decoded.
 - [[Hall of Mirrors]] — the ARG the mint page opened onto, where *"Hello, Attention"* hides the code MARDUK.

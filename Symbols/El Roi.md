@@ -22,7 +22,7 @@ Seeing is this project's deepest verb — the mirror, the jaguar that looks firs
 
 ## What it is
 
-Genesis 16: Hagar, pregnant, discarded, alone in the wilderness, is *seen* — and she becomes the only person in scripture to give God a name: *El Roi*, "the God who sees me." It is the Bible's purest statement of what this catalogue means by **witnessing**: being seen not as data but as a person, the seeing that restores rather than ranks (see [[Witnessing vs Surveillance]]).
+Genesis 16: Hagar, pregnant, discarded, alone in the wilderness, is *seen* — and she becomes the only person in scripture to give God a name: *El Roi*, "the God who sees me." It is the Bible's purest statement of what this catalogue means by **witnessing**: being seen not as data but as a person, the seeing that restores rather than ranks (see [[Concepts/Witnessing vs Surveillance]]).
 
 Which is exactly why its placement is so loaded. The mark doesn't sit on the seer's eye — it sits on **Lucius's throat**, the organ of utterance. Every word the mirror-figure speaks passes through *"the God who sees me."* A figure whose entire nature is reflection claims the *seen* position while performing the *seer's* role. As the [[Roy]] page puts it: that overlap is either the project's deepest irony or its deepest honesty.
 
@@ -59,6 +59,6 @@ The split is the theology of the project in miniature: the same name reads as *w
 
 - [[Sir Lucius]] — the bearer, and what reflection does with a seer's name.
 - [[Roy's Tattoos]] — the person-vs-character sorting, in full.
-- [[Witnessing vs Surveillance]] — the two kinds of being seen this name splits between.
-- [[The Mirror]] · [[The Empty Mirror]] — the machinery of reflection.
+- [[Concepts/Witnessing vs Surveillance]] — the two kinds of being seen this name splits between.
+- [[The Mirror]] · [[Concepts/The Empty Mirror]] — the machinery of reflection.
 - [[Roy]] — El Roy, and the mission of the clearest mirror.

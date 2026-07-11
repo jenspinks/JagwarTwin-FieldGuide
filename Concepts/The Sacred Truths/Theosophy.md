@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the universe as a Great Breath (out into worlds, back into stillness), and a mind that must be made to *serve* rather than *slay.*
 - **Where it shows up** — [[SOL]] (the wordless breath under the whole catalogue) · the source-and-return shape that closes almost every arc · Roy's own captions, where he quotes Blavatsky by name.
-- **Connected ideas** — [[Kabbalah - The Tree of Life]] (the exile-and-return of the Shekhinah) · [[Gnosticism - The World as Trap]] (the reflected spark) · [[Hermeticism - As Above So Below]] (the one law at every scale) · [[Alice Bailey]] (who carried the current forward) · [[The Pattern]].
+- **Connected ideas** — [[Kabbalah - The Tree of Life]] (the exile-and-return of the Shekhinah) · [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] (the reflected spark) · [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] (the one law at every scale) · [[Alice Bailey]] (who carried the current forward) · [[Concepts/The Pattern]].
 - **The hook** — *"The mind is the slayer of the real. Let the disciple slay the slayer."* Blavatsky wrote it; Roy posted it; the entire heart-and-mind drama runs on it.
 
 ## What it is
@@ -36,7 +36,7 @@ Hold those two. One is a shape (out-and-back, source-and-return). The other is a
 
 **The mind must serve the heart — slay the slayer.** This is the hook, and it is worth being exact about it, because the transmission here is unusually clean. Blavatsky's line is *"the Mind is the great Slayer of the Real. Let the disciple slay the Slayer."* Roy has posted that exact line to his own feed. And the shape of his whole project — the argument a man keeps having with himself across a table — is that same instruction, translated out of Victorian occult prose and into a pop record: the mind (the clever, protective, ceaselessly talking intellect the work personifies as [[Sir Lucius]]) has stopped serving and started ruling, and the cure is not to kill it but to *re-subordinate* it. To slay the slaying. The published version of that cure is four words long — *the mind must serve the heart* — and it is Blavatsky's *slay the slayer* wearing a t-shirt. It is hard to find a cleaner example anywhere in the work of a named influence handing over not just a mood but a working mechanism. She gave him the diagnosis (*the mind slays the real*) and the prescription (*slay the slayer*), and he built a character, an album, and an entire arc on top of it.
 
-**The exile that returns as reflected light.** Theosophy's deep structure — a spark or self that goes out from the source, gets caught in matter, and is drawn back home — is not Theosophy's alone. It is the same figure the other three currents are drawing, from their own angles, which is precisely why they rhyme. Kabbalah calls the exiled, reflected presence the Shekhinah, in exile and awaiting return ([[Kabbalah - The Tree of Life]]). Gnosticism calls it the spark, the pneuma, a fragment of the real caught in a false world and woken by remembrance ([[Gnosticism - The World as Trap]]). Hermeticism supplies the law that makes the whole thing legible — *as above, so below,* the one pattern repeating at every scale ([[Hermeticism - As Above So Below]]). Theosophy's contribution is to be the tradition that explicitly *braids* these together and hands them forward as one system, serial numbers filed off. So when the same descent-and-return keeps surfacing across the catalogue in slightly different costumes, the honest reading is not that Roy secretly encoded four separate esoteric schematics. It is that all four schematics were already reflections of one shape, and the songs found the shape.
+**The exile that returns as reflected light.** Theosophy's deep structure — a spark or self that goes out from the source, gets caught in matter, and is drawn back home — is not Theosophy's alone. It is the same figure the other three currents are drawing, from their own angles, which is precisely why they rhyme. Kabbalah calls the exiled, reflected presence the Shekhinah, in exile and awaiting return ([[Kabbalah - The Tree of Life]]). Gnosticism calls it the spark, the pneuma, a fragment of the real caught in a false world and woken by remembrance ([[Concepts/The Sacred Truths/Gnosticism - The World as Trap]]). Hermeticism supplies the law that makes the whole thing legible — *as above, so below,* the one pattern repeating at every scale ([[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]). Theosophy's contribution is to be the tradition that explicitly *braids* these together and hands them forward as one system, serial numbers filed off. So when the same descent-and-return keeps surfacing across the catalogue in slightly different costumes, the honest reading is not that Roy secretly encoded four separate esoteric schematics. It is that all four schematics were already reflections of one shape, and the songs found the shape.
 
 ## Where it appears
 
@@ -50,12 +50,12 @@ The grounded anchors — the places the tradition is actually in Roy's own mater
 ## Connections
 
 - [[Kabbalah - The Tree of Life]] — the exile-and-return of the Shekhinah; the reflected light awaiting its way home. The same descent Theosophy breathes, mapped onto the sefirot.
-- [[Gnosticism - The World as Trap]] — the reflected spark caught in matter and woken by remembrance; Theosophy's *Maya* is a milder cousin of the Gnostic false world.
-- [[Hermeticism - As Above So Below]] — the one law repeating at every scale; the principle that makes the whole braided correspondence legible in the first place.
+- [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the reflected spark caught in matter and woken by remembrance; Theosophy's *Maya* is a milder cousin of the Gnostic false world.
+- [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the one law repeating at every scale; the principle that makes the whole braided correspondence legible in the first place.
 - [[Alice Bailey]] — the Theosophical current carried into the twentieth century and the single most-named esoteric author on Roy's shelf; the labours of the soul as the in-breath given a curriculum.
 - [[Sir Lucius]] — the mind that slays the real; the whole point of the figure is that the slayer can be re-subordinated rather than killed.
 - [[Roy on Influences]] — where Blavatsky and Bailey sit among the named lineage, with the receipts.
-- [[The Pattern]] — the single law Roy assembles out of all four currents at once; Theosophy is the tradition that most explicitly tries to braid them.
+- [[Concepts/The Pattern]] — the single law Roy assembles out of all four currents at once; Theosophy is the tradition that most explicitly tries to braid them.
 - [[SOL]] — the breath under the words; the Great Breath with the album's last note.
 
 ## Advanced reading
@@ -92,8 +92,8 @@ The denser framework material lives here — the structural mappings, the counte
 ## Read next
 
 - [[Kabbalah - The Tree of Life]] — the exile-and-return of the Shekhinah; the same descent, mapped onto the Tree.
-- [[Gnosticism - The World as Trap]] — the reflected spark caught in matter, woken by remembrance.
-- [[Hermeticism - As Above So Below]] — the one law at every scale that makes the braid legible.
+- [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the reflected spark caught in matter, woken by remembrance.
+- [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the one law at every scale that makes the braid legible.
 - [[Roy on Influences]] — where Blavatsky and Bailey sit in the named lineage, with receipts.
-- [[The Pattern]] — the single law Roy assembles out of all four currents at once.
+- [[Concepts/The Pattern]] — the single law Roy assembles out of all four currents at once.
 - [[SOL]] — the wordless breath under the whole catalogue; the Great Breath with the last note.

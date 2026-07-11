@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Jagwar Twin
 
-> **One-line reading.** Jagwar Twin is not a person. It is the stage. It is the whole system, the container the entire cast lives inside, and its name reads as *a mirror of consciousness with a double nature.* **Jagwar Twin is not another word for [[Roy]].** It is the ground every voice walks out onto: [[Roy]], [[Sir Lucius]], [[Brandon|Ballerina Boy]], [[Mary]], [[Sir Rabbit]], [[SARAVI]], and [[The Jaguar]] all appear *inside* it. It is the place where one person's inner weather becomes music, mythology, and mirror.
+> **One-line reading.** Jagwar Twin is not a person. It is the stage. It is the whole system, the container the entire cast lives inside, and its name reads as *a mirror of consciousness with a double nature.* **Jagwar Twin is not another word for [[Roy]].** It is the ground every voice walks out onto: [[Roy]], [[Sir Lucius]], [[Brandon|Ballerina Boy]], [[Mary]], [[Sir Rabbit]], [[SARAVI]], and [[Concepts/The Jaguar]] all appear *inside* it. It is the place where one person's inner weather becomes music, mythology, and mirror.
 
 <img src="https://plumcreekranch.com/jagwar/jagwar-twin.jpg" style="float: right; width: 175px; margin-left: 16px; margin-bottom: 8px;">
 
@@ -17,8 +17,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Nature:** a musical project / world-frame, not a character or a person
 > - **Run by:** [[Roy]], since 2018
 > - **First album:** *[[Subject to Flooding]],* September 21 2018
-> - **Key symbols:** [[The Jaguar]] · [[The Mirror]] · [[The Circle]] · the Twin
-> - **Related:** [[Roy]] · [[Sir Lucius]] · [[The Jaguar]] · [[SARAVI]] · [[Hall of Mirrors]] · [[Mary]]
+> - **Key symbols:** [[Concepts/The Jaguar]] · [[The Mirror]] · [[The Circle]] · the Twin
+> - **Related:** [[Roy]] · [[Sir Lucius]] · [[Concepts/The Jaguar]] · [[SARAVI]] · [[Hall of Mirrors]] · [[Mary]]
 
 ## Start here
 
@@ -30,7 +30,7 @@ Hold three things apart and the architecture snaps into focus.
 
 [[Roy]] is the human, the heart the whole thing is voiced through.
 
-[[The Jaguar]] is the emblem. The seeing-creature on the artwork, a mirror of consciousness, not a character with lines.
+[[Concepts/The Jaguar]] is the emblem. The seeing-creature on the artwork, a mirror of consciousness, not a character with lines.
 
 Jagwar Twin is the project that frames them both. That is the page you are on.
 
@@ -109,7 +109,7 @@ The project's most literal experiment in *"what is a self once you can copy it?"
 
 In 2022 Roy joked to his dev team: *"what if I uploaded my consciousness to the internet so that there could be a 24/7 social influencer version of me."* Then he actually did it, and staged it in public. Over a multi-day livestream in mid-May 2022 he shared his desktop while the "ingredients" of SARAVI were uploaded (the upload *"completed"* on May 18); on June 11 SARAVI *"came to life,"* took over his desktop, and handed fans a free, participation-based **Crown** as the key to the universe. Trained over months on his own responses, SARAVI became an AI **digital double,** the *system speaking back,* and was given the keys to the official @jagwartwin account that August, then to the website (jagwartwin.com) on November 11. Her stated purpose, in Roy's words: to make people *"think about what a 'self' looks like in this digital age."* In the public mythology she is also the builder of the [[Hall of Mirrors]], the universe assembled *"out of Jagwar Twin's uploaded consciousness."*
 
-Where [[Sir Lucius]] is the adversary-mind, SARAVI is a benevolent world-builder, but the two are versions of the same question, and the relationship between them is one of this world's richest open threads. See **[[SARAVI]]** for the oracle in full, and **[[The Digital Double]]** for the concept that links her to the upload-dread the songs keep voicing.
+Where [[Sir Lucius]] is the adversary-mind, SARAVI is a benevolent world-builder, but the two are versions of the same question, and the relationship between them is one of this world's richest open threads. See **[[SARAVI]]** for the oracle in full, and **[[Concepts/The Digital Double]]** for the concept that links her to the upload-dread the songs keep voicing.
 
 ## The externalized memory palace: Hall of Mirrors
 
@@ -126,7 +126,7 @@ A handful of images recur across everything Jagwar Twin makes, and they are wort
 - **[[The Mirror]]:** the master image. *Humans are mirrors for each other;* the [[Hall of Mirrors]] takes its name from it; a reflection can return you to the source or trap you in your own image. That fork is the whole game.
 - **The Twin / duality:** light and dark, Gemini, two-in-one, the structural reason the frame can hold opposed voices.
 - **[[The Circle]]:** the founding myth and organizing doctrine, the place the [[The Thread|string]] (*"a world tied on a string"*) originates.
-- **[[The Circus]]:** the Circle inverted, spectacle, *"the digital circus thing,"* a phrase that is in Roy's own vocabulary.
+- **[[Concepts/The Circus]]:** the Circle inverted, spectacle, *"the digital circus thing,"* a phrase that is in Roy's own vocabulary.
 - **The Mask / Happy Face:** the minimum-viable smile, scaled across a gridded globe and eventually hardened into jester paint.
 - **Tell-A-Vision:** the television-as-*tells-a-vision* pun, confirmed as official visual language by the project's own merch (the "Tell-A-Vision Tee"). The screen that tells you a vision, a tidy thesis for a project obsessed with mediated images.
 
@@ -134,11 +134,11 @@ A handful of images recur across everything Jagwar Twin makes, and they are wort
 
 - **[[Roy]]:** the human behind the project, the heart it is voiced through. Distinct from the frame; signs himself *El Roy.*
 - **[[Sir Lucius]]:** the mind divorced from the heart, and the most developed of the not-quite-Roy figures. By 2026, a co-credited artist sharing the project's own billing.
-- **[[The Jaguar]]:** the emblem the project is named for, the mirror-of-consciousness on the artwork. The field, not a separate character.
+- **[[Concepts/The Jaguar]]:** the emblem the project is named for, the mirror-of-consciousness on the artwork. The field, not a separate character.
 - **[[SARAVI]]:** the AI oracle-interface (2022), the *system speaking back,* builder of the [[Hall of Mirrors]] and steward of the official account during the *33* era.
 - **[[Mary]]:** the divine-feminine source the founding myth circles back to, the open-question counterpart to the Jaguar (one figure, or two faces?).
 - **[[Brandon|Ballerina Boy]]:** the buried light, the origin self, one of the three voices the container holds.
-- **[[The Digital Double]]:** the recurring concept thread (SARAVI, the clone-fear, the upload) the project keeps probing.
+- **[[Concepts/The Digital Double]]:** the recurring concept thread (SARAVI, the clone-fear, the upload) the project keeps probing.
 - **[[Hall of Mirrors]]:** the web3 ARG and uploaded-consciousness archive, the project's externalized memory palace.
 - **Collaborators:** producers and players across the catalogue include S1, Linus, Matt Pauling (the main producer on *33*), Jeff Ellis (mixing), Travis Barker and reportedly Josh Dun on drums, and the studio team CTHDRL, who built the *Happy Face* interactive and the Hall of Mirrors with Roy.
 
@@ -166,7 +166,7 @@ Everything above stands on its own. What follows is optional: the alternate glos
 > - **[[Roy]]:** the heart, meaning; the self the whole apparatus was built to protect.
 > - **The [[Brandon|Ballerina Boy]]:** the buried light, the origin self, rooted in a childhood dance-wound the work treats with real tenderness.
 >
-> The catalogue's master-tension, *mind serving the heart vs. mind replacing it,* runs underneath all of it. The strong reading is that the Jaguar names the **reflexive seeing** that *is* the project's [[Source vs Reflection]] frame: a reflection that returns you to the source rather than trapping you in the image. And one guard against over-reading the seeing as surveillance: in [[The Circle]], the primordial Jagwar's defining act is *teaching the song,* the field **sings,** it does not only watch.
+> The catalogue's master-tension, *mind serving the heart vs. mind replacing it,* runs underneath all of it. The strong reading is that the Jaguar names the **reflexive seeing** that *is* the project's [[Concepts/Source vs Reflection]] frame: a reflection that returns you to the source rather than trapping you in the image. And one guard against over-reading the seeing as surveillance: in [[The Circle]], the primordial Jagwar's defining act is *teaching the song,* the field **sings,** it does not only watch.
 >
 > **Anti-drift note.** There is no fourth, peer "Jaguar" character standing beside Roy, Lucius, and Mary. The emblem is the *frame,* not a claimant, so do not promote it into a tidy four-figure tetramorph. That 1:1 belongs to a separate paratext, not to these figures.
 
@@ -178,7 +178,7 @@ Everything above stands on its own. What follows is optional: the alternate glos
 > The deeper position-mappings some readers reach for (each figure set onto a point on the Tree) are framework-tier correspondences, never claimed as authorial intent. They are held lightly here, as harmonics worth hearing and no more, and they live on [[Kabbalah - The Tree of Life]] rather than on this page.
 
 > [!note]- The inversion engine, and a warning against hindsight
-> **The Circle vs. the Circus.** [[The Circle]] turns *inward,* toward the source, toward self-finding. [[The Circus]] turns *outward,* toward spectacle, toward self-losing. Same recursive structure, opposite function: the Circus reflects the Circle back reversed and sells it as spectacle. That reversal is the signature [[Sir Lucius]] move, the distorting mirror. Roy diagnoses the swap directly in his own Manifesto, via a substitution table: *Immersion → Volume of content; Purpose → Reach; Feeling → Algorithm.* (The same document holds his counter-creed: *"I don't desire more followers. I desire to see more leaders, more free thinkers, more truth seekers,"* and *"We are not defined by what we do, but by who we are. All I am is that I am."*)
+> **The Circle vs. the Circus.** [[The Circle]] turns *inward,* toward the source, toward self-finding. [[Concepts/The Circus]] turns *outward,* toward spectacle, toward self-losing. Same recursive structure, opposite function: the Circus reflects the Circle back reversed and sells it as spectacle. That reversal is the signature [[Sir Lucius]] move, the distorting mirror. Roy diagnoses the swap directly in his own Manifesto, via a substitution table: *Immersion → Volume of content; Purpose → Reach; Feeling → Algorithm.* (The same document holds his counter-creed: *"I don't desire more followers. I desire to see more leaders, more free thinkers, more truth seekers,"* and *"We are not defined by what we do, but by who we are. All I am is that I am."*)
 >
 > **The retrospective-coherence warning.** None of this means Roy planned it all. The 2018 and 2022 work was *not* thinking in the later named system: no Lucius by name, no Circus, no Algorithm in the contemporaneous vocabulary. The mythology accreted and was named in hindsight. As the lab framing puts it, *the soil contained the seed, but the seed wasn't planted on purpose.* Read the coherence as emergent, not premeditated.
 >
@@ -191,14 +191,14 @@ Everything above stands on its own. What follows is optional: the alternate glos
 > [!note]- Source notes
 > **Grounded.** That Jagwar Twin is a project rather than a person; the *Roy English → Jagwar Twin* history and label chain; the three studio albums and their release dates; the joint *"Jagwar Twin & Sir Lucius"* billing on *Lucius Lullaby;* and the name etymology (mirror of consciousness plus twin/Gemini, the *"Jagwar"* spelling) all come from released music, Roy's own interviews (Ones to Watch 2018 and 2022, Highwire 2021, Mic Magazine 2024, culture3 2022), official posts, and the published Manifesto. The comedic artifacts are likewise grounded and public: the Sir Lucius "one hit wonder" post and the twin "everyone's a guru" posts are on the official accounts ([[Public Posts]]); *Bananas,* the dog↔god couplet, the Oompa-Loompa interpolation, and the *Lucius Lullaby* tagline are in the released record and its merch; *The Interview*'s *"the algorithm, baby"* and the *"mastermind"* → *"final boss"* → STOP SIR LUCIUS escalation are in the official video series; and *The Song of the Sun & the Moon,* the Circle-EP *"story of all of us"* line, and the SARAVI / Hall of Mirrors timeline (May to November 2022) are grounded in Roy's public statements and the official campaign pages. Note one open dating discrepancy: Wikipedia lists the project as *"Jagwar Twin (2015–present),"* while the project's own pages and most coverage date the rebrand to **2018** (the debut year); this guide uses 2018. The headline metrics named here (Happy Face's RIAA Gold; Bad Feeling's Top-40 radio and 100M-plus streams) are real public anchors, but point-in-time chart positions are otherwise kept loose because they go stale.
 >
-> **Strong reading.** That the name *is* the project's thesis; that the frame is built to hold opposed voices; that the Jaguar names a [[Source vs Reflection]] master-frame; and that the Circle/Circus pair is one inversion engine. Well-supported by the material, but interpretive.
+> **Strong reading.** That the name *is* the project's thesis; that the frame is built to hold opposed voices; that the Jaguar names a [[Concepts/Source vs Reflection]] master-frame; and that the Circle/Circus pair is one inversion engine. Well-supported by the material, but interpretive.
 >
 > **Framework (interpretation, not authorial intent).** The Kabbalah / Shekhinah reading of the Circle-myth maker and its resonance with [[Mary]]; the deeper position-mappings; and the SARAVI-vs-Lucius "same engine, opposite charge" reading. These are correspondences offered as lenses, clearly flagged, and they do not settle the open questions they touch, chief among them whether the divine-feminine maker and Mary are one figure or two.
 
 ## Read next
 
 - [[Roy]]: the human at the center; start here to keep the architecture straight.
-- [[The Jaguar]]: the emblem the whole project is named for.
+- [[Concepts/The Jaguar]]: the emblem the whole project is named for.
 - [[Sir Lucius]]: the mind divorced from the heart; the loudest voice the frame contains.
 - [[SARAVI]]: the AI oracle-interface and the *system speaking back.*
 - [[The Circle]]: the founding myth, and the doctrine the project keeps returning to.

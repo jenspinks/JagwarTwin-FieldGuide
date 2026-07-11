@@ -64,7 +64,7 @@ The wheel arrives with a long inheritance, and the project draws on most of it b
 - **The hamster wheel** — the deadpan modern downgrade of all this cosmic machinery: running to generate power for a system that isn't yours, motion without progress. The bathos is the point — Boethius's *Rota Fortunae* collapsing into a rodent on a treadmill — and *I Like to Party*'s *"in circles, they go"* is its lyric sibling.
 
 > [!note]- Advanced reading — Campbell's Hero's Journey as a wheel
-> A seventh tradition arrives straight from Roy's own desk. The *I'm 33* board includes a typed Hero's-Journey diagram drawn as a literal **wheel** — Ordinary World, Rabbit Hole, The Fool, Guardian at the Gate, on around to Master of Twin Worlds and *"New Cycle Begins"* — set beside the note *"Review cycles of human consciousness throughout history."* Campbell's monomyth is one of the standard ways to redeem the wheel: the spin that *returns you changed* rather than merely returning you. That Roy renders the return-cycle as a wheel, in his own cosmology, is the cleanest grounding that the wheel-of-return is a figure he's working with deliberately, not one imposed on him. See [[The Pattern]].
+> A seventh tradition arrives straight from Roy's own desk. The *I'm 33* board includes a typed Hero's-Journey diagram drawn as a literal **wheel** — Ordinary World, Rabbit Hole, The Fool, Guardian at the Gate, on around to Master of Twin Worlds and *"New Cycle Begins"* — set beside the note *"Review cycles of human consciousness throughout history."* Campbell's monomyth is one of the standard ways to redeem the wheel: the spin that *returns you changed* rather than merely returning you. That Roy renders the return-cycle as a wheel, in his own cosmology, is the cleanest grounding that the wheel-of-return is a figure he's working with deliberately, not one imposed on him. See [[Concepts/The Pattern]].
 
 ## The driving-wheel sense — *Good Time*
 
@@ -79,12 +79,12 @@ The redeemed reading of the wheel has a quiet companion in a public post. On X i
 ## Related pages
 
 - [[The Circle]] — the wheel and the circle are the *same shape*; the Circle is the wheel redeemed, what the wheel looks like when you're conscious inside it. The core paired opposite.
-- [[The Circus]] — the wheel at social and operational scale; the audience spun like a top. Run by [[Sir Lucius]].
-- [[Inversion]] — the spinning is what produces the upside-down world; *"everything's upside down"* rides directly on *"spinning you 'round."*
+- [[Concepts/The Circus]] — the wheel at social and operational scale; the audience spun like a top. Run by [[Sir Lucius]].
+- [[Concepts/Inversion]] — the spinning is what produces the upside-down world; *"everything's upside down"* rides directly on *"spinning you 'round."*
 - [[Fire]] — the Merkavah's wheels are wheels of fire; the ring of fire is the wheel's burning edge; *Lear*'s *"wheel of fire."* The load-bearing bridge between the two symbol pages.
-- [[The Algorithm]] — spins the content-and-attention cycle, producing the wheel's vertigo in the attention economy; the Circus's *"algorithm baby"* grounds it, and the wheel inherits.
+- [[Concepts/The Algorithm]] — spins the content-and-attention cycle, producing the wheel's vertigo in the attention economy; the Circus's *"algorithm baby"* grounds it, and the wheel inherits.
 - [[The Thread]] — what you'd hold to find the way out of the spin; also where *"there isn't anywhere to get"* lands.
-- [[The Labyrinth]] — *"no exit sign in my maze"* sits in the same *Welcome to the Circus* chorus; the maze and the wheel are sibling trap-structures (Theseus without Ariadne).
+- [[Concepts/The Labyrinth]] — *"no exit sign in my maze"* sits in the same *Welcome to the Circus* chorus; the maze and the wheel are sibling trap-structures (Theseus without Ariadne).
 
 > [!note]- Advanced reading — three open questions
 > The lab keeps three questions live, and they're worth holding open rather than forcing shut:
@@ -98,14 +98,14 @@ The redeemed reading of the wheel has a quiet companion in a public post. On X i
 ## Source notes
 
 - **Grounded — released music and Roy's own artifacts.** The *Welcome to the Circus* lyrics (*"Spinning you 'round and 'round,"* *"everything's upside down,"* *"They love it when you lose control"*). *I Like to Party*'s *"in circles, they go."* The *Good Time* driving-wheel handoff and the *"I don't know what I'm looking for"* admission, from Roy's own narrated dream. The X post *"There isn't anywhere to get"* (July 2023). The Jung *"wheel and the cross"* page Roy photographed to his verified Story and scored to *The Watchers*. The *I'm 33* board's *"whirling energy = Fortune"* (handwritten) and its typed Hero's-Journey wheel ending *"New Cycle Begins"* ([[Public Posts]]).
-- **Strong readings.** The wheel as the [[The Circle]] mechanized; the dervish-vs-Circus distinction (*vertigo instead of prayer*); the Circus as the wheel at social scale; the spin-produces-inversion link; the Wheel↔[[Fire]] Merkavah bridge; the Wheel↔[[The Algorithm]] inheritance; the driving-wheel reading of *Good Time*. Built on grounded anchors, but interpretive.
+- **Strong readings.** The wheel as the [[The Circle]] mechanized; the dervish-vs-Circus distinction (*vertigo instead of prayer*); the Circus as the wheel at social scale; the spin-produces-inversion link; the Wheel↔[[Fire]] Merkavah bridge; the Wheel↔[[Concepts/The Algorithm]] inheritance; the driving-wheel reading of *Good Time*. Built on grounded anchors, but interpretive.
 - **Framework — esoteric, syncretic, never asserted as authorial intent.** The Merkavah/tetramorph cluster; the Wheel→Circle redemption as "entering the center willingly"; the Wheel-as-Hercules-in-the-cave reading; the *Lucius Lullaby*→*SOL* arc as a Merkavah journey. The traditions are named because the resonance is real; the system *permits* these correspondences, it doesn't claim Roy intends them.
 - This page draws only on released music, public interviews and posts, and official videos.
 
 ## Read next
 
 - [[The Circle]] — the wheel redeemed; the same shape with the center restored.
-- [[The Circus]] — the wheel at social scale, run by [[Sir Lucius]].
+- [[Concepts/The Circus]] — the wheel at social scale, run by [[Sir Lucius]].
 - [[Welcome to the Circus]] — where the spin and the inversion arrive as one line.
 - [[Fire]] — the wheels of fire; the Merkavah and *Lear*'s torment-wheel.
 - [[Good Time (1-08)|Good Time]] — the driving-wheel sense, and the moment the shadow arrives.

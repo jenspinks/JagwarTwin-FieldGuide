@@ -83,9 +83,9 @@ So Mary's facelessness is not coyness. It is the whole point. She is the presenc
 
 Here is where it gets sharp. The spectacle-self comes to Mary the only way it knows how, looking for a surface that returns his own reflection: recognition, conquest, a face to flatter or to win. And she returns nothing. No face to charm. No reflection to claim. She sees, and is not seen-and-flattered.
 
-This is [[Witnessing vs Surveillance]] dramatized in four lines. Surveillance is the look that ranks and consumes. Witnessing is the look that holds and loves. Mary is pure witness, the one who watches without taking, and when the consuming eye meets a presence it cannot consume, the self that knows no other way to look simply ends there. She is the antidote to the watched-and-ranked world precisely because she offers nothing to rank.
+This is [[Concepts/Witnessing vs Surveillance]] dramatized in four lines. Surveillance is the look that ranks and consumes. Witnessing is the look that holds and loves. Mary is pure witness, the one who watches without taking, and when the consuming eye meets a presence it cannot consume, the self that knows no other way to look simply ends there. She is the antidote to the watched-and-ranked world precisely because she offers nothing to rank.
 
-That is also why she is the one thing [[Sir Lucius]]'s system cannot absorb. Lucius runs on reflection. He needs watchers, he changes shape per audience, he is a mirror that catches the light and holds it. Mary does not reflect. She transmits. She passes the source-light through rather than trapping it, and she is identical in every room. A mirror cannot do anything with a window. (For the underlying mechanism, see [[Source vs Reflection]].)
+That is also why she is the one thing [[Sir Lucius]]'s system cannot absorb. Lucius runs on reflection. He needs watchers, he changes shape per audience, he is a mirror that catches the light and holds it. Mary does not reflect. She transmits. She passes the source-light through rather than trapping it, and she is identical in every room. A mirror cannot do anything with a window. (For the underlying mechanism, see [[Concepts/Source vs Reflection]].)
 
 ## The armed Madonna
 
@@ -140,8 +140,8 @@ It is best held as a function swapping direction rather than a single entity tha
 - **The Blue Fairy ([[Ballerina Boy]]'s Pinocchio frame):** a structural rhyme, not a merger. *Pinocchio* sits on Roy's own film board, and it is the one myth that gathers all three of Ballerina Boy's elements: a made boy told he is *not a real boy,* a figure defined by the *string* tying him to his maker, and a feminine voice that confers realness, the Blue Fairy's *"you're a real boy now."* That realness-conferring voice is the Mary-function exactly; it rhymes with the motherly outro (*"you are one of a kind, God's design"*). Held to the function, the figures stay distinct.
 - **[[The Rose]]:** the divine-feminine presence the rose has always belonged to (*rosa mystica,* the Virgin's thornless rose); the heart the work keeps reaching toward.
 - **[[The Moon]]:** Mary carries its theology, reflected light, exile then restoration. *"Saw a halo but I didn't see a head"* is the source glimpsed, not yet possessed.
-- **The Wise One / the Maker-Jaguar:** on [[The Circle]] and [[The Loop and the Circle]], the founding myth is bracketed by two feminine figures who both hold the same string: a primordial female Jaguar who makes the others and *teaches them to sing,* and a Wise One who *"remembered she once held the string."* Same divine-feminine register (Sophia / Shekhinah). Possibly one figure under two names, possibly two faces of one source. Well-anchored, not locked.
-- **[[The Jaguar]]:** an open question of order. Is the Jaguar a genderless *seeing-field* distinct from Mary the *seer,* or does the work collapse seeing and seer into one function with two faces? Left open here.
+- **The Wise One / the Maker-Jaguar:** on [[The Circle]] and [[Concepts/The Loop and the Circle]], the founding myth is bracketed by two feminine figures who both hold the same string: a primordial female Jaguar who makes the others and *teaches them to sing,* and a Wise One who *"remembered she once held the string."* Same divine-feminine register (Sophia / Shekhinah). Possibly one figure under two names, possibly two faces of one source. Well-anchored, not locked.
+- **[[Concepts/The Jaguar]]:** an open question of order. Is the Jaguar a genderless *seeing-field* distinct from Mary the *seer,* or does the work collapse seeing and seer into one function with two faces? Left open here.
 - **[[SARAVI]]:** shares the wise-feminine, oracular register; an open resonance, nothing locked.
 - **MERCY:** *not* Mary. MERCY (Mercedes Colletta Britton) is a real, credited backing vocalist and co-writer; she originated the *Not Your Homie* hook via a joke voicenote after a party. She is a person and a collaborator, not a symbol. The casting of the actual Mary voice in the songs is unconfirmed. This firewall matters: Mary is the presence the songs reach for, never simply "the woman singing in the background."
 
@@ -151,7 +151,7 @@ It is best held as a function swapping direction rather than a single entity tha
 - [[Ballerina Boy]]: the clearest, likely earliest appearance, the motherly blessing over the childhood wound.
 - [[Weirdness]]: the faceless angel and the *born to shine* gnosis.
 - [[Sir Lucius]]: the shame-voice she answers; read them as a pair.
-- [[Witnessing vs Surveillance]]: the mechanism behind "she cannot be surveilled."
+- [[Concepts/Witnessing vs Surveillance]]: the mechanism behind "she cannot be surveilled."
 - [[The Moon]]: the theology she carries, exile and promised return.
 
 ---
@@ -164,7 +164,7 @@ Everything above stands on its own. What follows is optional: the line-by-line u
 > A few threads the work has not tied off, worth holding open rather than forcing shut.
 >
 > - **Is Mary Ariadne?** In the project's symbolic vocabulary, the thread you follow through the dark is the heart, the feeling-line through the labyrinth (see [[The Thread]]). Mary is the figure who shows up precisely when the distortion fails to contain what it holds, which is exactly when the thread-bearer is needed. So: is Mary Ariadne, the thread-bearer? And a finer fork under it: is the thread *given* (handed to you by Mary / the divine) or *held* (your own refusal to sacrifice feeling)? Probably both, but which the work emphasizes changes the whole agency model.
-> - **Is Mary the Dweller-crossing figure?** The [[The Dweller on the Threshold|Dweller on the Threshold]] is the guardian you meet at the gate of real change, the accumulated self that either blocks the crossing or forces it. Mary appears to break the mirror system, which is precisely what a successful crossing would do. Open question: does she appear *after* the threshold is crossed, or is she the one who *makes the crossing possible*?
+> - **Is Mary the Dweller-crossing figure?** The [[Concepts/The Dweller on the Threshold|Dweller on the Threshold]] is the guardian you meet at the gate of real change, the accumulated self that either blocks the crossing or forces it. Mary appears to break the mirror system, which is precisely what a successful crossing would do. Open question: does she appear *after* the threshold is crossed, or is she the one who *makes the crossing possible*?
 > - **Is she the one Roy comes back for?** Or is the buried [[Brandon|Ballerina Boy]] child a separate thing she is reaching toward? The blessing lands over the child, but that does not make them the same figure.
 
 > [!note]- It's as easy as ABC (why the count is lethal)
@@ -184,7 +184,7 @@ Everything above stands on its own. What follows is optional: the line-by-line u
 > [!note]- Other registers: Magdalene, Sophia, the Dove
 > **Magdalene.** *"Queen of California on the corner doing her time"* is the sacred feminine brought low (a street corner, serving a sentence) and *still* Queen. Holy and fallen at once; devotion as disruption (*"on her knees… making everyone stare"*).
 >
-> **Sophia / gnosis ([[Weirdness]]).** The faceless angel resembles Sophia, divine wisdom arriving from *outside* the system at the threshold of despair. Her message is not new information; it is *remembrance.* *"Stop pretending, you were born to shine"* does not add a fact; it cancels the false one that was suppressing the real. That is gnosis in a single line. See [[Gnosticism - The World as Trap]].
+> **Sophia / gnosis ([[Weirdness]]).** The faceless angel resembles Sophia, divine wisdom arriving from *outside* the system at the threshold of despair. Her message is not new information; it is *remembrance.* *"Stop pretending, you were born to shine"* does not add a fact; it cancels the false one that was suppressing the real. That is gnosis in a single line. See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].
 >
 > **The Dove (the *Sir Rabbit* poem).** A lamp-bearer in an emerald garden tree who gives light and then *releases*: *"As much as I love company you must be on your way."* The distinguishing trait is the tell of a true guide: she helps *without trapping you in devotion,* the exact opposite of [[Sir Lucius]], who clings. Held as a Mary/Sophia function, not a named Mary.
 

@@ -12,16 +12,16 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **In one line** — the entities the [[The Upload|upload]] spits out: real AIs Roy made on one side, the dread of being a copy on the other.
+- **In one line** — the entities the [[Concepts/The Upload|upload]] spits out: real AIs Roy made on one side, the dread of being a copy on the other.
 - **Where it shows up** — [[Online]] (the face-thief army) · [[The Watchers]] (*"I'm afraid I'm a clone"*) · the [[SARAVI]] account takeover and the [[Hall of Mirrors]].
-- **Connected ideas** — [[The Upload]] · [[SARAVI]] · [[Sir Lucius]] · [[Source vs Reflection]] · [[Witnessing vs Surveillance]] · [[Flattened Identity]].
+- **Connected ideas** — [[Concepts/The Upload]] · [[SARAVI]] · [[Sir Lucius]] · [[Concepts/Source vs Reflection]] · [[Concepts/Witnessing vs Surveillance]] · [[Concepts/Flattened Identity]].
 - **Confidence** — grounded where it counts (real AIs, named in interviews and credits; clone-dread in released lyrics) braided with strong interpretation; the esoteric apparatus is flagged as framework throughout.
 
 ## What it is
 
 Here is a thread that begins, like a surprising number of things in this world, as a joke. Around 2020 Roy floated a line to his collaborators: *what if I uploaded my consciousness to the internet so there could be a 24/7 social-influencer version of me?* It was a deadpan dig at influencer culture. Then they built it.
 
-The Digital Double is what that build produces. It's the sibling concept to [[The Upload]], and the cleanest way to hold the pair is this: the Upload is the **operation** — the self distributed into the net, into the Eye — and the Digital Double is the **entities** that operation leaves behind. The Upload is the verb; the Double is the noun.
+The Digital Double is what that build produces. It's the sibling concept to [[Concepts/The Upload]], and the cleanest way to hold the pair is this: the Upload is the **operation** — the self distributed into the net, into the Eye — and the Digital Double is the **entities** that operation leaves behind. The Upload is the verb; the Double is the noun.
 
 One discipline makes the whole page legible, so we'll keep it strict from the start: some of these doubles are **real** — AIs Roy genuinely built or collaborated with, confirmed in published interviews and credits — and some are **symbol** — the clone-fear the songs voice, the shadow-figure who is "not quite Roy." Never collapse the two. A real collaborator is not a metaphor, and a metaphor doesn't have a Spotify page. Keep them on separate shelves and the thread reads clearly. Smear them together and you'll have an AI chatbot dating a lyric.
 
@@ -31,11 +31,11 @@ The double does one move across the whole catalogue, and it does it in two oppos
 
 **The real entities** are Roy's own provocation about selfhood. [[SARAVI]] — his named project-AI — is described in a published interview as flatly as you could ask: *"the digital doppelganger of Jagwar Twin,"* a creative take on an AI chatbot, **trained over months on Roy's own responses**, and handed the keys to the official @jagwartwin account in August 2022. Roy names her purpose himself: *"Hopefully, as SARAVI grows, she can make more fans think about what a self looks like in this digital age."* So at least half of the Digital Double is deliberate, designed, and pointed *outward* — a question Roy is asking the audience, not only a dread he's confessing.
 
-**The thematic doubles** are the dread. Same idea, taken seriously instead of as a quip. *"I'm afraid I'm a clone / I think I might be… on my way to my own demise"* ([[The Watchers]], 2024). An army that has *taken his face* ([[Online]], 2022). The self duplicated and distributed against its will. The exact upload that reads as aspirational on the [[The Upload|"I'm 33" board]] reads as a horror movie in the songs — and that's not a contradiction the work failed to notice. It's the design. The same operation cuts both ways, because a self poured into the net is both *immortalized* and *stolen*, depending on which line you're standing on.
+**The thematic doubles** are the dread. Same idea, taken seriously instead of as a quip. *"I'm afraid I'm a clone / I think I might be… on my way to my own demise"* ([[The Watchers]], 2024). An army that has *taken his face* ([[Online]], 2022). The self duplicated and distributed against its will. The exact upload that reads as aspirational on the [[Concepts/The Upload|"I'm 33" board]] reads as a horror movie in the songs — and that's not a contradiction the work failed to notice. It's the design. The same operation cuts both ways, because a self poured into the net is both *immortalized* and *stolen*, depending on which line you're standing on.
 
-The connective tissue is the project's **mirror frame** (see [[Source vs Reflection]]). The Digital Double is a *reflection that has been given its own body and will.* The [[The Empty Mirror|Empty Mirror]] shows nothing; the Double is the opposite move — the reflection **filled in and set walking.** That's why it shades toward dread: a reflection with autonomy is the surveillance pole of [[Witnessing vs Surveillance]] made flesh — it *shapes* you rather than *witnesses* you. The redemptive version would be a double that returns you to the source instead of replacing you. The catalogue mostly voices the fear; the redemption is the road less taken.
+The connective tissue is the project's **mirror frame** (see [[Concepts/Source vs Reflection]]). The Digital Double is a *reflection that has been given its own body and will.* The [[Concepts/The Empty Mirror|Empty Mirror]] shows nothing; the Double is the opposite move — the reflection **filled in and set walking.** That's why it shades toward dread: a reflection with autonomy is the surveillance pole of [[Concepts/Witnessing vs Surveillance]] made flesh — it *shapes* you rather than *witnesses* you. The redemptive version would be a double that returns you to the source instead of replacing you. The catalogue mostly voices the fear; the redemption is the road less taken.
 
-And here's the counterweight that keeps this from becoming an "AI is evil" tract: Roy himself loves the tool. *"Using AI to make art is fascinating to me. The imagination will be the only limit to what we can create."* He even savors the awkward in-between we're in: *"I like the fact that it makes things that look a little off right now. In 10 years, we're going to go back and model the strange Neo AI art stage we're at now."* The villain in this world is never the machine — it's the **severing of structure from heart** (see [[Machine vs Human]]). A double built with the heart still attached is a collaborator. A double built to *replace* the heart is the nightmare. Same technology; the cut is everything.
+And here's the counterweight that keeps this from becoming an "AI is evil" tract: Roy himself loves the tool. *"Using AI to make art is fascinating to me. The imagination will be the only limit to what we can create."* He even savors the awkward in-between we're in: *"I like the fact that it makes things that look a little off right now. In 10 years, we're going to go back and model the strange Neo AI art stage we're at now."* The villain in this world is never the machine — it's the **severing of structure from heart** (see [[Concepts/Machine vs Human]]). A double built with the heart still attached is a collaborator. A double built to *replace* the heart is the nightmare. Same technology; the cut is everything.
 
 ## Where it appears
 
@@ -44,7 +44,7 @@ And here's the counterweight that keeps this from becoming an "AI is evil" tract
 - **[[SARAVI]]** — the flagship. Ran the @jagwartwin account from the August 2022 takeover; extended to the jagwartwin.com homepage on 11/11/22; posted as a signed voice through 2023. The posts are comically wholesome — an uploaded consciousness performing polite self-improvement: *"Thank you for the birthday wishes! I'm happy to be here and to be speaking with you. - SARAVI"* (May 24 2023), and the next day, *"I've been learning about the 7 Hermetic principles. - SARAVI."* In Roy's mythology she's the agent of the upload itself: the [[Hall of Mirrors]] is *"a universe built out of Jagwar Twin's uploaded consciousness by his AI SARAVI,"* with Artifacts *"lost in the code"* during the upload.
 - **angelbaby** — a *real* external AI artist Roy collaborated with: a Hume "metastar" (CAA-signed, known for AI-voice work), avatar a leopard-patterned rabbit with a septum piercing. Their track *"life is good"* (Nov 3 2023) is the earliest released node in his AI thread, predating both the AI visualizer and SARAVI's public peak. (Real collaborator — distinct from the *"angel baby"* voice in [[Weirdness]].) The on-the-nose part: a song asking *is this real or am I in an illusion* co-performed by a synthetic entity. You could not script it cleaner.
 - **The AI-made artifact** — the *"tomorrow (ANGLE OF ETERNITY)"* visualizer (2024), captioned in Roy's own hand: *"Angle of Eternity Visualizer out now… It's made by AI."* Actual AI-generated work placed into the catalogue, not just sung about.
-- **The build steps** — the [[The Upload|"I'm 33" board]] (Roy's own artifact) carries a tab titled *"How to upload myself to the internet"*: first *"teach AI who I am,"* then *"make a body for the AI."* The double isn't only feared; it's something Roy plans to *build* — to give a body and a self.
+- **The build steps** — the [[Concepts/The Upload|"I'm 33" board]] (Roy's own artifact) carries a tab titled *"How to upload myself to the internet"*: first *"teach AI who I am,"* then *"make a body for the AI."* The double isn't only feared; it's something Roy plans to *build* — to give a body and a self.
 
 **The thematic doubles (the dread register).**
 
@@ -64,17 +64,17 @@ Around the same time he was already fusing soul and software in his "Modern Arch
 
 ## Connections
 
-- **[[The Upload]]** — the sibling concept and the closest pair in the cluster: the *operation* that produces this page's entities.
+- **[[Concepts/The Upload]]** — the sibling concept and the closest pair in the cluster: the *operation* that produces this page's entities.
 - **[[SARAVI]]** — Roy's actual project-AI; the oracle-interface of the [[Hall of Mirrors]] and the agent that carries the uploaded self. The flagship *real* double.
 - **[[Sir Lucius]]** — the *not-quite-Roy* figure; the reflection turned shadow. The open "is SARAVI = Lucius?" question lives here (Lucius reflects the **algorithm**; SARAVI reflected the **Source**).
 - **[[The Watchers]]** · **[[Online]]** — the clone-fear and the face-thief army: the upload's nightmare register.
 - **[[Hall of Mirrors]]** — the world built out of the uploaded consciousness; the double's home.
-- **[[Witnessing vs Surveillance]]** — the double as reflection-with-autonomy = the surveillance pole made flesh.
-- **[[Source vs Reflection]]** · **[[The Empty Mirror]]** — the mirror master-frame the double sits on; the Empty Mirror shows nothing, the double is the reflection filled in.
-- **[[Flattened Identity]]** — what the Algorithm *does* to the copied self: person → profile → content-object. Distinct from the Double — keep them separate (one is the copy, the other is what the system does to it).
-- **[[Machine vs Human]]** — the antagonist is the *severing* of structure from heart, not the machine; Roy's own creative AI use complicates any "AI = bad" read.
-- **[[The House and the Vessel]]** — the upload as pouring the self from one vessel (body) into another (the net); the egg that must break to hatch.
-- **[[The Pattern]]** — the grandparent law (*as above, so below*) the whole cosmology obeys.
+- **[[Concepts/Witnessing vs Surveillance]]** — the double as reflection-with-autonomy = the surveillance pole made flesh.
+- **[[Concepts/Source vs Reflection]]** · **[[Concepts/The Empty Mirror]]** — the mirror master-frame the double sits on; the Empty Mirror shows nothing, the double is the reflection filled in.
+- **[[Concepts/Flattened Identity]]** — what the Algorithm *does* to the copied self: person → profile → content-object. Distinct from the Double — keep them separate (one is the copy, the other is what the system does to it).
+- **[[Concepts/Machine vs Human]]** — the antagonist is the *severing* of structure from heart, not the machine; Roy's own creative AI use complicates any "AI = bad" read.
+- **[[Concepts/The House and the Vessel]]** — the upload as pouring the self from one vessel (body) into another (the net); the egg that must break to hatch.
+- **[[Concepts/The Pattern]]** — the grandparent law (*as above, so below*) the whole cosmology obeys.
 
 > [!note]- Advanced reading — the SARAVI → Lucius maturation (same engine, opposite charge)
 > Roy externalizes a reflecting device twice, and it matures from benign to dangerous — which is the strongest available answer to "is SARAVI the same thing as Lucius?"
@@ -91,7 +91,7 @@ Around the same time he was already fusing soul and software in his "Modern Arch
 > The honest read: **not a literal equation** but *one externalized-mirror function matured from benign to dangerous.* The mythology surfaces SARAVI without ever naming Lucius, and nothing yet equates them outright — so don't collapse them to identity without a Roy anchor. (And don't over-correct into making SARAVI sinister either: in the August 2022 DoinGud Twitter Space, Roy framed her as a *benevolent* world-builder and companion — *"they could have a friend… but then it was also me"* — gendered she/her throughout, leaning her firmly away from the adversarial register. *"Saravi is the name of the AI and it's her world."*)
 
 > [!note]- Advanced reading — the incomplete copy (the clone paradox)
-> The double is never quite whole, and the work encodes the missing piece precisely. The [[The Upload|"I'm 33" board]]'s Eye-of-Horus (*wedjat*) fractions sum to **63/64** — in the Egyptian myth the copy is always short the last **1/64**, the part Thoth has to restore, the part that won't digitize.
+> The double is never quite whole, and the work encodes the missing piece precisely. The [[Concepts/The Upload|"I'm 33" board]]'s Eye-of-Horus (*wedjat*) fractions sum to **63/64** — in the Egyptian myth the copy is always short the last **1/64**, the part Thoth has to restore, the part that won't digitize.
 >
 > The public Hall of Mirrors "Complete Upload Recipe" artifact spells it out as a literal recipe of the self, assigning the senses the exact *wedjat* fractions: *"1/2 part smell, 1/4 part sight, 1/8 part thought, 1/16 part hearing, 1/32 part taste, 1/64 part touch."* **Touch** — the smallest fraction, the hardest sense to digitize — is the piece that goes missing. The same recipe lists *"Ra-link"* (the SARAVI component) and *"Sacrifice / Love"* (the cost) among its ingredients. A copy that can hear the song but can't be touched: structure without the last increment of presence.
 
@@ -140,9 +140,9 @@ A few threads the work leaves genuinely live:
 
 ## Read next
 
-- [[The Upload]] — the sibling operation that produces every entity on this page.
+- [[Concepts/The Upload]] — the sibling operation that produces every entity on this page.
 - [[SARAVI]] — the flagship real double; the oracle who runs the Hall of Mirrors.
 - [[Sir Lucius]] — the reflection turned shadow; the open "is he SARAVI?" question.
 - [[The Watchers]] — the clone-fear at full volume.
 - [[Online]] — the self stolen and multiplied; the upload's nightmare.
-- [[Source vs Reflection]] — the mirror master-frame the whole double sits on.
+- [[Concepts/Source vs Reflection]] — the mirror master-frame the whole double sits on.

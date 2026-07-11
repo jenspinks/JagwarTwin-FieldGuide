@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — the integration thesis told as narrative: a single self divided into two, each holding half a blessing, working not toward conquest but toward embrace.
 - **Where it shows up** — [[Move To You]] (*"it moves to me, I move to you"* — the reconciliation as mutual motion) · [[It's Your Time]] (*"a man is like an in-between"* — one blessing, two halves, as ontology) · the *"Half the Man"* post on Roy's public Instagram (the divided blessing in his own 2026 voice).
-- **Connected ideas** — [[Roy]] · [[Sir Lucius]] · [[Duality]] · [[Inversion]] · [[The Loop and the Circle]] · [[El Roi]]
+- **Connected ideas** — [[Roy]] · [[Sir Lucius]] · [[Concepts/Duality]] · [[Concepts/Inversion]] · [[Concepts/The Loop and the Circle]] · [[El Roi]]
 - **Confidence** — interpretation, and a strong one. The Genesis text is universal public fact; the mapping onto the Jagwar Twin world is a reading. It claims no author or tradition as Roy's source — it stands on Genesis and on the work.
 
 ## What it is
@@ -55,10 +55,10 @@ The concept reads as pure idea, but it isn't only idea — the work carries it a
 ## Connections
 
 - [[Roy]] and [[Sir Lucius]] — the two poles the divided blessing is split across: Jacob (the heart) and Esau (the worldly). The concept sits *between* them, not inside either.
-- [[Duality]] — the root split; Jacob and Esau is its scriptural-narrative instance.
-- [[Inversion]] — *the elder shall serve the younger:* the natural order overturned as birthright law, the survival-self subordinated rather than ruling.
-- [[The Loop and the Circle]] — the Loop is the brothers as rivals, fleeing each other across years; the Circle is the field where they meet again (Genesis 33:4).
-- [[The Protector]] — *the elder shall serve the younger* is the Protector subordinated, not destroyed. The S1 voice memo is the threshold-fear *before* the Protector forms.
+- [[Concepts/Duality]] — the root split; Jacob and Esau is its scriptural-narrative instance.
+- [[Concepts/Inversion]] — *the elder shall serve the younger:* the natural order overturned as birthright law, the survival-self subordinated rather than ruling.
+- [[Concepts/The Loop and the Circle]] — the Loop is the brothers as rivals, fleeing each other across years; the Circle is the field where they meet again (Genesis 33:4).
+- [[Concepts/The Protector]] — *the elder shall serve the younger* is the Protector subordinated, not destroyed. The S1 voice memo is the threshold-fear *before* the Protector forms.
 - [[El Roi]] — *the God who sees me,* tattooed on Sir Lucius's throat; the seeing-the-face rhyme with Peniel (*the face of God*).
 - Cain and Abel — the un-reconciled twin-pair; the same divided-blessing pattern with the embrace withheld (the mark, the exile). Lucius-as-Cain is the shadow prognosis to Lucius-as-Esau's hopeful one (see below).
 
@@ -83,7 +83,7 @@ The concept reads as pure idea, but it isn't only idea — the work carries it a
 > [!note]- Advanced reading — how it locks with the rest of the world at four scales
 > The reading is load-bearing precisely *because* it holds four other integration-readings together, all of which agree:
 > 1. **Tattoo scale — El Roi.** *The God who sees me* says the shadow is *seen and held* by the seeing-God, not condemned — which lands at Peniel, the face seen and the life preserved.
-> 2. **Symbolic scale — the lion's skin** (the Leo labor in [[The Labors of Hercules]]). The beast is not killed and discarded; its power is *worn,* repurposed under the soul — which is the elder serving the younger, survival-strength subordinated rather than destroyed.
+> 2. **Symbolic scale — the lion's skin** (the Leo labor in [[Concepts/The Labors of Hercules]]). The beast is not killed and discarded; its power is *worn,* repurposed under the soul — which is the elder serving the younger, survival-strength subordinated rather than destroyed.
 > 3. **Labors-arc scale — Soul vs. Identification.** The apparent Roy/Lucius duel is itself the illusion to see through: *the enemy was never the twin but the mistaking of a half for the whole* — the divided blessing made one.
 > 4. **Character scale — Jacob and Esau itself.**
 >
@@ -95,7 +95,7 @@ The concept reads as pure idea, but it isn't only idea — the work carries it a
 > Roy's later character-key sharpens the geometry into something almost too on-the-nose. Seat **Roy (Jacob) at Netzach** and **Lucius (Esau) at Hod,** and those are the two sefirot *at the same height* — the twin hips flanking the middle pillar, neither above the other ([[Kabbalah - The Tree of Life]] §the lateral twins). That's a startlingly literal fit for *"two nations in one womb":* not a high self over a low one, but two equals born of one body, both reaching up the central column toward the heart-Sun (Tiferet) that neither has yet become. It even names the project — *Jagwar **Twin*** is that same-height pair. (No contradiction with the line above: Jacob's *seat* is Netzach, his *orientation* is Tiferet — the heart he moves toward but hasn't occupied.)
 
 > [!note]- Advanced reading — Jacob's Ladder in Roy's own hand
-> The Bethel ladder (Gen 28) isn't only textual substrate — it's the closest the motif comes to *grounded authorial use.* On Roy's *"I'm 33 this year"* cosmology board, **"Jacob's Ladder / hopscotch Earth→Heaven"** appears as a container-figure for a ten-stage ascent, drawn alongside the Tree of Life and Noah's Ark — and marked **NChSh** (Nachash, serpent). The same hopscotch-ladder Earth→1–9→Heaven recurs in Roy's **"How to Live Forever"** cosmology drawing, again marked NChSh: a motif Roy repeats across two of his own pages. The *"I'm 33"* board also pins **Blake's painting "Jacob's Ladder,"** a Jung Persona/Ego/Shadow/Anima/Self map, and the cosmogonic poem **"One become Two… A Darkness and a Light"** — the Roy/Lucius split written out as cosmology. (On the serpent label: in Kabbalistic gematria NChSh / Nachash = 358 = Mashiach / Messiah — the serpent and the Messiah sharing a number. That's the tradition Roy is gesturing at; cite the tradition, not Roy's stated meaning.) See [[The Pattern]] and the *"How to Live Forever?"* drawing.
+> The Bethel ladder (Gen 28) isn't only textual substrate — it's the closest the motif comes to *grounded authorial use.* On Roy's *"I'm 33 this year"* cosmology board, **"Jacob's Ladder / hopscotch Earth→Heaven"** appears as a container-figure for a ten-stage ascent, drawn alongside the Tree of Life and Noah's Ark — and marked **NChSh** (Nachash, serpent). The same hopscotch-ladder Earth→1–9→Heaven recurs in Roy's **"How to Live Forever"** cosmology drawing, again marked NChSh: a motif Roy repeats across two of his own pages. The *"I'm 33"* board also pins **Blake's painting "Jacob's Ladder,"** a Jung Persona/Ego/Shadow/Anima/Self map, and the cosmogonic poem **"One become Two… A Darkness and a Light"** — the Roy/Lucius split written out as cosmology. (On the serpent label: in Kabbalistic gematria NChSh / Nachash = 358 = Mashiach / Messiah — the serpent and the Messiah sharing a number. That's the tradition Roy is gesturing at; cite the tradition, not Roy's stated meaning.) See [[Concepts/The Pattern]] and the *"How to Live Forever?"* drawing.
 
 > [!note]- Advanced reading — the El Roi ↔ Peniel rhyme, and the mirror-twin echoes
 > Two names of seeing sit one verse and one tattoo apart. **Peniel** = *the face of God; I have seen God face to face.* **El Roi** (on Lucius's throat) = *the God who sees me* (Hagar's name for God, Gen 16). Read together, the integration crisis and the mark Lucius already carries become the same event named twice — the moment of *mutual seeing* between the self and what it wrestles. The shadow isn't condemned at the threshold; it's *seen* there. (Held as a reading, not a claim that Roy intends the Genesis cross-reference. The open question: does anything in the visual or lyric canon touch *face* or *seeing* directly enough to firm this past resonance?)
@@ -117,7 +117,7 @@ The concept reads as pure idea, but it isn't only idea — the work carries it a
 
 - [[Roy]] — the heart-half; Jacob to Lucius's Esau.
 - [[Sir Lucius]] — the worldly half; the aggrieved twin with the real grievance.
-- [[Inversion]] — *the elder shall serve the younger,* the law the whole reading turns on.
-- [[The Loop and the Circle]] — the brothers as rivals versus the field where they meet.
+- [[Concepts/Inversion]] — *the elder shall serve the younger,* the law the whole reading turns on.
+- [[Concepts/The Loop and the Circle]] — the brothers as rivals versus the field where they meet.
 - [[It's Your Time]] — *"a man is like an in-between"*: one blessing, two halves, as ontology.
-- [[Duality]] — the root split this story dramatizes.
+- [[Concepts/Duality]] — the root split this story dramatizes.

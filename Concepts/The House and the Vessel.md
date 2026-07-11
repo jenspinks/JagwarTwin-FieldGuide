@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **In one line** — You are the container; the light, the song, the chaos, the divine is what fills you; everything turns on what you do with what you hold.
 - **Where it shows up** — [[Bounce]] (*"tear the roof off of my house"*) · [[Subject to Flooding|Subject to Flooding]] (the Ark and the flood) · [[Bananas]] (the husk that can't seed).
-- **Connected ideas** — [[Keilim - The Breaking of the Vessels]] · [[The Empty Mirror]] · [[The Upload]] · [[Sir Lucius]] · [[Roy]] · [[SOL]].
+- **Connected ideas** — [[Concepts/Keilim - The Breaking of the Vessels]] · [[Concepts/The Empty Mirror]] · [[Concepts/The Upload]] · [[Sir Lucius]] · [[Roy]] · [[SOL]].
 - **Confidence** — the imagery is grounded fact, dense across eras and songs in Roy's own words; the four-fates structure that organizes it is a strong interpretation, labeled as such throughout.
 
 ## What it is
@@ -25,7 +25,7 @@ Read one at a time, these look like scattered metaphors. Read together, they're 
 
 ## How it works
 
-The imagery isn't decorative, and it isn't rare. It's Roy's native grammar. His symbolic vocabulary is overwhelmingly *structural* — the Circle, the House, the Tower, the Gate, the Cave, the [[The Labyrinth|Labyrinth]], the [[The Circus|Circus]], the Kingdom, the Arena. He tends to ask what *kind of structure* you're living in more than where you are. So when containers turn up everywhere, that's not coincidence — it's the architecture of how he thinks, and it's why one frame can organize so much of the catalogue at once.
+The imagery isn't decorative, and it isn't rare. It's Roy's native grammar. His symbolic vocabulary is overwhelmingly *structural* — the Circle, the House, the Tower, the Gate, the Cave, the [[Concepts/The Labyrinth|Labyrinth]], the [[Concepts/The Circus|Circus]], the Kingdom, the Arena. He tends to ask what *kind of structure* you're living in more than where you are. So when containers turn up everywhere, that's not coincidence — it's the architecture of how he thinks, and it's why one frame can organize so much of the catalogue at once.
 
 Here is that frame. Something fills the vessel; everything depends on what it does next. There are **four fates**, and they map cleanly onto the project's emotional spine — the discipline pole and the communion pole, the wound and the repair, and the resolution the work keeps reaching for.
 
@@ -35,7 +35,7 @@ The HOLD rule actually gets stated in plain speech, years earlier, by a friend. 
 
 **Fate two — OPEN.** The vessel is deliberately opened and becomes a conduit. *"Done being a person. I'm just a vessel for God"* (a 2026 post, [[Public Posts]]) is the hollow vessel that transmits *because* it's empty — the download/transmission doctrine, the self as channel and not author. *"Tear the roof off"* and *"ain't got no ceiling up on the roof"* ([[Superhuman]]) open the container at the top, at the crown. The door stops being a lock and becomes an invitation: *"step right up to my door,"* *"I opened up a door."* This is the communion pole — the gift, the open house, the song given away.
 
-**Fate three — SHATTER.** The vessel can't hold and breaks. This is the [[Keilim - The Breaking of the Vessels|breaking of the vessels]]: a light too intense for its container, which cracks under the load and scatters. In the mythology that break *is* the [[Roy]]/[[Sir Lucius]] split — one self fracturing into two, the sparks thrown everywhere. The break is the origin of the wound. And the repair the rest of the project keeps doing — gather the sparks, re-relate the halves, *"my mind must serve my heart"* — is the long answer to it. (The June 2026 "slay the slayer" / self-mastery campaign reads as that repair restated as discipline.)
+**Fate three — SHATTER.** The vessel can't hold and breaks. This is the [[Concepts/Keilim - The Breaking of the Vessels|breaking of the vessels]]: a light too intense for its container, which cracks under the load and scatters. In the mythology that break *is* the [[Roy]]/[[Sir Lucius]] split — one self fracturing into two, the sparks thrown everywhere. The break is the origin of the wound. And the repair the rest of the project keeps doing — gather the sparks, re-relate the halves, *"my mind must serve my heart"* — is the long answer to it. (The June 2026 "slay the slayer" / self-mastery campaign reads as that repair restated as discipline.)
 
 **Fate four — HATCH.** The redeemed break. The egg is the key image, because an egg is a vessel whose *right* fate is to crack — not stay sealed like the husk, not shatter prematurely like the broken vessel, but break into new life at the right moment. *"I'm an egg, in the process of becoming a chicken to make more eggs to make more chickens,"* runs the *"I'm 33"* board ([[Public Posts]]), with the deadpan-poultry logic that also doubles as a theory of immortality. *"Happy Easter from the egg"* — a holiday greeting issued from inside the thing about to crack. The Golden Egg, the Easter egg: resurrection. And *"tear the roof off"* turns out to be the controlled crack — opening, not demolition. This is the synthesis the whole work reaches for: a vessel *held strongly enough not to shatter, yet opened enough to transmit.* Contained **and** open.
 
@@ -75,7 +75,7 @@ The field is dense and it's grounded — these are Roy's words, across years.
 >
 > Three independent facts converge here. (1) Beth (ב), the second Hebrew letter, literally *means* "house." (2) [[Bounce]] is the only work in the catalogue foregrounding Beth. (3) Bounce's chorus is *"tear the roof off of my house."* The letter's plain meaning **is** the lyric's image. Three coincidences stacked that neatly stop being coincidence.
 >
-> There's a further, heavier read available — that the epigraph isn't decoration but *doctrine*. Read through Beth = house = heart, the card's first line — *"HE MADE THE LETTER BETH KING OVER WISDOM"* — states the project's foundational tenet: the house-letter (the heart) enthroned as **king over** Wisdom (the mind). The heart must rule the mind. The same verse corroborates from inside itself: it continues *"…He formed the Moon,"* and the Moon is the heart/lunar pole in the project's cosmology (see [[Heart and Mind]], [[Source vs Reflection]]). This is as close to a smoking gun as the page gets — but it can't be grounded harder than a strong reading, because the heart-identification routes through Beth = house = heart rather than anything stated outright. Held as strong interpretation, not fact.
+> There's a further, heavier read available — that the epigraph isn't decoration but *doctrine*. Read through Beth = house = heart, the card's first line — *"HE MADE THE LETTER BETH KING OVER WISDOM"* — states the project's foundational tenet: the house-letter (the heart) enthroned as **king over** Wisdom (the mind). The heart must rule the mind. The same verse corroborates from inside itself: it continues *"…He formed the Moon,"* and the Moon is the heart/lunar pole in the project's cosmology (see [[Concepts/Heart and Mind]], [[Concepts/Source vs Reflection]]). This is as close to a smoking gun as the page gets — but it can't be grounded harder than a strong reading, because the heart-identification routes through Beth = house = heart rather than anything stated outright. Held as strong interpretation, not fact.
 >
 > **A live, falsifiable thread — the letter-cipher (and its current jeopardy).** The Beth card raised an obvious question: is it the *first* of a coded series? If each filmed *Live Underground* track opens with a *Sefer Yetzirah* letter keyed to the song, the stable setlist core (Welcome to the Circus, Bounce, Bananas, Lucius Lullaby) would yield **{Vav, Beth, Beth, Lamed}** — whose B-B-L permutes to **בבל** (Babel/Babylon), and L-B-B to **לבב** (*levav*, "heart"): the same letters spelling the spectacle-empire one way and the heart the other. Tempting — but the strict version is now in jeopardy. When the *Welcome to the Circus* title card arrived, its small-print slot held the song's own lyrics plus a Hermes riddle and **no Hebrew letter at all** — and the strict cipher needed a Vav there. So the rigid {Vav, Beth, Beth, Lamed}→בבל reading is weakened, not confirmed. What survives is the looser pattern (an esoteric epigraph per card, mixed traditions) and a genuinely open question, re-scoped to the 2026 *Lucius Lullaby* wave: the **Lucius Lullaby title-track card is the live decider** — a *Sefer Yetzirah* **Lamed** would revive a selective letter-cipher; a lyric-riddle card would confirm the letter-layer isn't the code. (And note the wink: **Hermes — the god who invented letters — stands in the exact slot where Bounce put a Hebrew letter.** The patron of the letter-game, occupying the spot where the letter would be.)
 
@@ -86,16 +86,16 @@ The field is dense and it's grounded — these are Roy's words, across years.
 
 ## Connections
 
-- **[[Keilim - The Breaking of the Vessels]]** — the shatter fate (#3) and the spark/repair doctrine in depth; the breaking here *is* fate #3 in the four-fates frame.
-- **[[The Empty Mirror]]** — the two emptinesses: the hollow vessel that transmits *because* it's open (the kli) against the sealed shell that substitutes (the husk). Roy's arc converts one into the other — *the same nothing, redeemed.*
-- **[[The Upload]]** / **[[The Digital Double]]** — the vessel as conduit, the transmission doctrine, the idea of pouring one vessel (the body) into another (the net) to live forever. The *"I'm 33"* board sits this exact move under its title — *"How to upload myself to the internet,"* *"How to live forever? → put music on chain."*
+- **[[Concepts/Keilim - The Breaking of the Vessels]]** — the shatter fate (#3) and the spark/repair doctrine in depth; the breaking here *is* fate #3 in the four-fates frame.
+- **[[Concepts/The Empty Mirror]]** — the two emptinesses: the hollow vessel that transmits *because* it's open (the kli) against the sealed shell that substitutes (the husk). Roy's arc converts one into the other — *the same nothing, redeemed.*
+- **[[Concepts/The Upload]]** / **[[Concepts/The Digital Double]]** — the vessel as conduit, the transmission doctrine, the idea of pouring one vessel (the body) into another (the net) to live forever. The *"I'm 33"* board sits this exact move under its title — *"How to upload myself to the internet,"* *"How to live forever? → put music on chain."*
 - **[[Subject to Flooding]]** — the flood and the Ark; the vessel that survives the waters by containing them out; the album that diagnoses the disease (separation) the rest of the catalogue treats.
 - **[[Sir Lucius]]** / **[[Roy]]** — the split as a vessel problem: Lucius the over-contained husk, Roy the over-opened/broken one. Integration is learning to be the egg.
 - **[[SOL]]** — the light too intense for its vessel (fate #3); *"a Sun was born inside"* (the board's cosmogonic poem); the sun born from the egg.
 - **[[The Banana]]** / **[[Bananas]]** — the sterile Cavendish as a husk-container that holds form but cannot seed.
 - **[[City of Angels]]** — false immortality (the shell kept forever, the Loop) against the egg's true immortality (the shell *must* break).
 - ***Sunrise by the Ocean* (Vladimir Kush)** · **the *"How to Live Forever?"* drawing** · **Test Pilot School lighter** — the hatch made literal, the engineering of it, and the vessel proven before the crossing.
-- **[[The Labyrinth]]** · **[[The Circus]]** · **[[The Pattern]]** — other structures in Roy's architectural grammar; forever-as-recurrence; the open-roofed house as the axis between above and below.
+- **[[Concepts/The Labyrinth]]** · **[[Concepts/The Circus]]** · **[[Concepts/The Pattern]]** — other structures in Roy's architectural grammar; forever-as-recurrence; the open-roofed house as the axis between above and below.
 
 > [!note]- Advanced reading — the four-container sub-typology
 > "Container" isn't one thing. The *Sir Rabbit* poem and the Keilim material pull apart four kinds, and the diagnostic is never the enclosure itself but *what it produces*:
@@ -148,8 +148,8 @@ Live, falsifiable, and honestly unsettled — the threads this frame can't yet c
 
 ## Read next
 
-- [[Keilim - The Breaking of the Vessels]] — the shatter fate and the spark/repair doctrine in full.
-- [[The Empty Mirror]] — the two emptinesses; the open vessel against the sealed husk.
+- [[Concepts/Keilim - The Breaking of the Vessels]] — the shatter fate and the spark/repair doctrine in full.
+- [[Concepts/The Empty Mirror]] — the two emptinesses; the open vessel against the sealed husk.
 - [[Subject to Flooding]] — the Ark, the flood, and the disease the catalogue treats.
 - [[Sir Lucius]] — the over-contained husk; the sealed big house with the doors bolted inside.
 - *Sunrise by the Ocean* (Vladimir Kush) — the hatch fate made literal: drown → crack → dawn.

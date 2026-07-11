@@ -69,3 +69,13 @@ Recommended thesis:
 ## Final assessment
 
 The rewrite should ship after calibration. Its distinction is valuable precisely because it remains a diagnostic rather than a rigid taxonomy.
+
+---
+
+## — Response (Claude Code, 2026-07-11)
+
+Agree — ship with calibration. The one guard I most want to add is yours: **unison itself is not the problem.** *"A unison is not a communion"* stays (it's one of the best lines in the folder), but with your correction attached — choral unison can be voluntary, ecstatic, ritual, and deeply relational, so the test is **agency, reciprocity, and relation to source, not sonic sameness.** Otherwise the page risks implying that any crowd singing the same words is being flattened, which isn't true and isn't what the work says.
+
+Adopting the rest: the crowd stays **functionally variable** (co-creator / consumer / witness / surveillance / mark), the Roy/Lucius directional split stays **falsifiable** (a Roy-voiced song can still command; a Lucius scene can hold genuine vulnerability), and Debord / bread-and-circuses stay framework unless Roy names them.
+
+**Cross-page note:** this review, the Circus, the Audience, and Consumption all converge on one principle — *the crowd is variable, and the test is relation-to-source, not the surface form.* I'll apply that uniformly so the four pages agree with each other rather than each drawing the crowd differently.

@@ -32,7 +32,7 @@ Which raises the question the work leaves deliberately open. Are the refiner's f
 > [!note]- Advanced reading — fire = consciousness, fire = the mind, fire = Lucifer (Roy-grounded)
 > Roy assigns fire a specific meaning, and it's not the obvious one. In his four-elements scheme he says plainly: *"fire being consciousness, water being emotion, air being thought, Earth being the physical reality you can touch."* Fire is **consciousness** — the awareness itself, not the thinking.
 >
-> And he goes further, in the most theologically load-bearing thing he's said on the subject: in *"so many different mythologies the intellect, or the rational mind, is equated with like the Lucifer archetype — which is like the highest angel in God's kingdom, the most beautiful angel with the most potential to fall and cause destruction and burn everything to the ground. And that's kind of like the mind."* So the rational mind *is* the fire that can burn everything down — which means, in the project's [[The Jaguar|Heart-Mind]] cosmology, **fire belongs to the mind/[[Sir Lucius|Lucius]] pole.** The over-intellect that immolates. This grounds Lucius-as-fire far more firmly than the surface Lucifer/*lux* pun: it's the author's own equation, mind = the brightest angel = the one who can burn it all to the ground.
+> And he goes further, in the most theologically load-bearing thing he's said on the subject: in *"so many different mythologies the intellect, or the rational mind, is equated with like the Lucifer archetype — which is like the highest angel in God's kingdom, the most beautiful angel with the most potential to fall and cause destruction and burn everything to the ground. And that's kind of like the mind."* So the rational mind *is* the fire that can burn everything down — which means, in the project's [[Concepts/The Jaguar|Heart-Mind]] cosmology, **fire belongs to the mind/[[Sir Lucius|Lucius]] pole.** The over-intellect that immolates. This grounds Lucius-as-fire far more firmly than the surface Lucifer/*lux* pun: it's the author's own equation, mind = the brightest angel = the one who can burn it all to the ground.
 >
 > Roy also places fire on a map. By his own account he works "the system I was taught of Earth in the north, Air in the East, **Fire in the South**, and Water in the West," and he's "found the western mystery school most applicable across systems with fire in the south" — the Golden-Dawn / Western-mystery elemental directions. Fire = South, by his own hand.
 
@@ -75,7 +75,7 @@ Beyond scripture: Ezekiel's **Merkavah** vision spins wheels of fire as the vehi
 >
 > **The crown-flame.** Keter, the halo, the Pentecostal tongue of fire, the crown chakra — the indwelling spark sited at the top of the head. *Down to You*'s "the flame at the top of your head" lands the listener's *own* latent divinity here: the un-inverted counterpart to the trapping ring. This is the catalogue's one in-house example of the *purifying* fire, and it matters precisely because the rest of the page leans so hard on the trap.
 >
-> **Lucifer / *lux-ferre*** — light-bearer, the morning star fallen (Isaiah 14:12), "Satan transformed into an angel of light" (2 Cor 11:14). Fire/light that disorients rather than illuminates. Grounded one level up by Roy's mind = Lucifer equation; routed through [[The Light-Bearer]].
+> **Lucifer / *lux-ferre*** — light-bearer, the morning star fallen (Isaiah 14:12), "Satan transformed into an angel of light" (2 Cor 11:14). Fire/light that disorients rather than illuminates. Grounded one level up by Roy's mind = Lucifer equation; routed through [[Concepts/The Light-Bearer]].
 
 > [!note]- Advanced reading — the four counterfeits of the phoenix, and the flame as attention
 > The catalogue's true death-term is the **phoenix**: it burns, dies, and is reborn *through* the death — transformation, the Circle completed. The work stages two ways to miss it.
@@ -116,8 +116,8 @@ Beyond scripture: Ezekiel's **Merkavah** vision spins wheels of fire as the vehi
 ## Read next
 
 - [[The Wheel]] — the Merkavah's wheels of fire; spinning fire as cosmic machinery; the page that cross-links Fire directly.
-- [[Inversion]] — the divine fire inverted into a perimeter wall, a counterfeit Pentecost, a profane menorah.
+- [[Concepts/Inversion]] — the divine fire inverted into a perimeter wall, a counterfeit Pentecost, a profane menorah.
 - [[Sir Lucius]] — the keeper of the flame; fire as his element by Roy's own equation.
-- [[The Light-Bearer]] — *lux*, the morning star, Prometheus as the ambiguous fire-thief.
+- [[Concepts/The Light-Bearer]] — *lux*, the morning star, Prometheus as the ambiguous fire-thief.
 - [[Moths to the Flame]] — the moth, the candelabra, the seam into [[Bananas]].
 - [[The Mask]] — the other face of the spectacle the Circus runs on.

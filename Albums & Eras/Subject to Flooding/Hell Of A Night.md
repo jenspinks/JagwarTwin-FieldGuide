@@ -45,7 +45,7 @@ The plainest misreading is that this is a mantra of denial — happy noise to dr
 
 The pivot is *"my superstitions gone away,"* and it's easy to mistake for a healthy line. Superstition is caution disguised as magic — the ritual mind controlling uncertainty with signs and omens. But dropping it here isn't becoming rational. It's a **new recklessness**: *I don't need omens, I don't need guarantees, I'm going.* That's the whole reason this is the perfect lead-in to its sequel. **Pt. 1 drops the guardrails; Pt. 2 drives through the wall.**
 
-The most complicated line is, oddly, the healthiest one. *"You're never gonna win if you play to lose"* is a real survival correction — stop pre-surrendering, stop rehearsing failure — and on its own it's wisdom. The trouble is what happens to it across the song. It **mutates**: refusing defeat slides into refusing limits; refusing fear slides into courting danger; choosing momentum slides into *needing* it. That drift — **confidence detached from wisdom** — is the album's [[The Protector]] energy at its most forward-leaning.
+The most complicated line is, oddly, the healthiest one. *"You're never gonna win if you play to lose"* is a real survival correction — stop pre-surrendering, stop rehearsing failure — and on its own it's wisdom. The trouble is what happens to it across the song. It **mutates**: refusing defeat slides into refusing limits; refusing fear slides into courting danger; choosing momentum slides into *needing* it. That drift — **confidence detached from wisdom** — is the album's [[Concepts/The Protector]] energy at its most forward-leaning.
 
 And the party was never innocent. The whole scene is laced with crime language — bail, locked up, trouble, hands up — and one line gives the game away: *"if I get locked up, promise you'll bail me out"* arranges the getaway paperwork **before any crime has happened.** That's premeditation, not panic. The good time functions as a **ritual of permission**: it licenses what comes next. Pt. 1 says *we'll be alright, let's go.* Pt. 2 says *give us what we ask for.*
 
@@ -54,7 +54,7 @@ Which is why the raised hands carry so much weight (see [[The Prop Room#Hands Up
 ## Characters
 
 - **[[Roy]]** — the voice, **pre-persona**. This is a fourth face of the debut-era Protector cluster, alongside [[Loser]], [[Good Day]], and [[No Fake Friends]]. The other faces defend by preempting shame; this one defends by **momentum**. No fictional persona is operating — that matters for the Lucius question below.
-- **[[The Protector]]** — the album's adaptive-defense architecture, and here it's caught in its most forward-leaning mode: momentum-as-armor. This song is an instance of that mechanism, not a portrait of it.
+- **[[Concepts/The Protector]]** — the album's adaptive-defense architecture, and here it's caught in its most forward-leaning mode: momentum-as-armor. This song is an instance of that mechanism, not a portrait of it.
 - **The "you"** — deliberately unresolved. Romantic partner? A complicit audience pulled into the scheme? An internal interlocutor? *"I don't really know what you're tryna do… promise you'll bail me out"* supports all three, and the analysis pointedly refuses to force it into a 2018 shadow-self reading the song doesn't earn.
 
 ## Artifacts
@@ -161,5 +161,5 @@ It's gonna be a hell of a night
 - [[Hell of a Night Pt. 2 (The Hallelujah Stickup)]] — the crash-through; the good time becomes a praise-scored heist.
 - [[Subject to Flooding]] — the album and the flood-doctrine this song enacts.
 - [[Shine]] — the answer to the same flood: rise, don't outrun.
-- [[The Protector]] — the defense-architecture this song wears as momentum.
+- [[Concepts/The Protector]] — the defense-architecture this song wears as momentum.
 - [[Good Day]] — the sibling: the same brightness over the same instability.

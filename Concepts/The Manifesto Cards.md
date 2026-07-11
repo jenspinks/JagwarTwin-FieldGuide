@@ -17,13 +17,13 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Two waves** — ~2019–2021 (consumerist/Hermetic), pause ~5 years, returns 2026 (*Live Underground*, now with Hebrew letters)
 > - **First card** — *Long Time Coming* remixes (~2019), hamsa sigil
 > - **Recurring slogans** — *are you content?* · *what is it that you seek?* · *as above, so below* · *who are you without the mask?*
-> - **Connected** — [[The Circus]] · [[The Pattern]] · [[Source vs Reflection]] · [[Sir Lucius]] · [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[The Visual Canon Throughline]]
+> - **Connected** — [[Concepts/The Circus]] · [[Concepts/The Pattern]] · [[Concepts/Source vs Reflection]] · [[Sir Lucius]] · [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Concepts/The Visual Canon Throughline]]
 
 ## At a glance
 
 - **In one line** — a recurring fake-advertisement title card that smuggles the project's actual creed into print too small to read on the scroll.
 - **Where it shows up** — [[Happy Face]] (the inverted-face CRT card) · [[Down to You]] (*"what is it that you seek?"*) · [[Bounce]] and [[Welcome to the Circus]] (the 2026 *Live Underground* cards).
-- **Connected ideas** — [[The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Consumption]] · [[Source vs Reflection]] · [[The Pattern]] · [[Sir Lucius]] · [[The Mask]] · [[The Labyrinth]] · [[Nigredo]].
+- **Connected ideas** — [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Concepts/Consumption]] · [[Concepts/Source vs Reflection]] · [[Concepts/The Pattern]] · [[Sir Lucius]] · [[The Mask]] · [[Concepts/The Labyrinth]] · [[Concepts/Nigredo]].
 - **Confidence** — the cards themselves (template, text, sigils, dates) are grounded public fact; the doctrinal through-reading is strong interpretation; the letter-mysticism is openly framework-tier.
 
 ## What it is
@@ -49,11 +49,11 @@ What the device *does* across the work is more interesting than the kit. Read in
 
 - **The kingdom within.** *"you're the Kingdom, you're the King"* (*I Like to Party*, 2021) is the same move as *Welcome to the Circus*'s *"you are the maze"* (2026) — the self as sovereign, the self as the structure you're navigating. It rhymes with [[Superhuman]]'s sampled Chaplin line, *"the kingdom of God is within man."*
 - **The Devil / Lucius, before the name.** *"Devil waking up to claim the kingdom"* sits on a 2021 card — roughly two years before [[Sir Lucius]] arrives by name in the 2023 dream-origin. Consistent with the project's habit: a figure accumulates in public long before it's credited.
-- **As above, so below.** The Hermetic axiom (see [[The Pattern]]) is a *Down to You* card sigil in 2021 — the five-year-old root of *Welcome to the Circus*'s 2026 *"Did Hermes paint his face?"* The Hermetic thread isn't new to the *Lucius Lullaby* era; it was printed in the fine print all along.
-- **Change the concept of self.** The *Down to You* manifesto — *"to change the world one must first change the concept of one's self"* — is the mirror doctrine of [[Source vs Reflection]] in plain language.
-- **Burn it down, then rebirth.** *Happy Face*'s *"burning the old world down… out of the fire something new is being birthed. This is the death of my generation"* is the alchemical blackening (see [[Nigredo]]), later *staged* as the fire-close of the *Bad Feeling* video.
+- **As above, so below.** The Hermetic axiom (see [[Concepts/The Pattern]]) is a *Down to You* card sigil in 2021 — the five-year-old root of *Welcome to the Circus*'s 2026 *"Did Hermes paint his face?"* The Hermetic thread isn't new to the *Lucius Lullaby* era; it was printed in the fine print all along.
+- **Change the concept of self.** The *Down to You* manifesto — *"to change the world one must first change the concept of one's self"* — is the mirror doctrine of [[Concepts/Source vs Reflection]] in plain language.
+- **Burn it down, then rebirth.** *Happy Face*'s *"burning the old world down… out of the fire something new is being birthed. This is the death of my generation"* is the alchemical blackening (see [[Concepts/Nigredo]]), later *staged* as the fire-close of the *Bad Feeling* video.
 
-> 🚪 *The fine print knew the story years before the songs did. Line the videos up, 2019 to 2026, and the eras seem to dissolve into [[The Visual Canon Throughline|one long work, slowly taking its disguise off]].*
+> 🚪 *The fine print knew the story years before the songs did. Line the videos up, 2019 to 2026, and the eras seem to dissolve into [[Concepts/The Visual Canon Throughline|one long work, slowly taking its disguise off]].*
 
 The cards also connect the work *outward* into its alternate-reality games. The same *"are you content?"* device that runs across the cards also ran on a 2020 Jagwar Twin microsite and, later, surfaced as a working code inside the [[The Hall of Mirrors|Hall of Mirrors]] ARG — the gag had a back-end (see *Advanced reading — the are-you-content easter egg*, below).
 
@@ -63,7 +63,7 @@ The sharpest single line on any card is *Happy Face*'s **"are you content?"**, a
 
 *Content* (adjective) — happy, satisfied. The literal Happy-Face question. *Content* (noun) — media to be consumed: *are you THE content?*, the attention-economy product, pairing exactly with that card's *"brought to you buy."* And *content* (adjective again) — complacent, contained, settled inside the system: the precise opposite of the other cards' *"what is it that you seek?"*
 
-One infomercial throwaway holds the entire consumerism-versus-seeker argument. It points straight at [[The Circus#What it produces (the Spectacle)|the Spectacle]], [[Consumption]], and [[The Algorithm]]. And — this is the part that's almost too neat — the pun isn't an interpreter's invention. It's grounded in Roy's own Instagram diary from around 2020, written after watching *"a documentary on A.I. merging with humans"*: *"I am holding a device currently transmitting 1's and 0's that you are reading and something labeled content. Are you content?"* ([[Public Posts]]) The card is Roy's own joke, formalized.
+One infomercial throwaway holds the entire consumerism-versus-seeker argument. It points straight at [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]], [[Concepts/Consumption]], and [[Concepts/The Algorithm]]. And — this is the part that's almost too neat — the pun isn't an interpreter's invention. It's grounded in Roy's own Instagram diary from around 2020, written after watching *"a documentary on A.I. merging with humans"*: *"I am holding a device currently transmitting 1's and 0's that you are reading and something labeled content. Are you content?"* ([[Public Posts]]) The card is Roy's own joke, formalized.
 
 ## Where it appears
 
@@ -91,23 +91,23 @@ Short excerpts, in order:
 
 ## Connections
 
-- **[[The Circus]]** — the *"brought to you by"* / *"Produced In Cooperation With BMRC"* broadcast-frame is the Circus-as-product: spectacle staged as a sponsored industry production.
-- **[[The Pattern]]** — *"as above, so below"* has been a card sigil since 2021; the Hermetic root.
-- **[[Source vs Reflection]]** — the *"change the concept of self"* manifesto is the mirror doctrine (and a possible Neville Goddard lead; see *Advanced reading — the named-influence map*).
+- **[[Concepts/The Circus]]** — the *"brought to you by"* / *"Produced In Cooperation With BMRC"* broadcast-frame is the Circus-as-product: spectacle staged as a sponsored industry production.
+- **[[Concepts/The Pattern]]** — *"as above, so below"* has been a card sigil since 2021; the Hermetic root.
+- **[[Concepts/Source vs Reflection]]** — the *"change the concept of self"* manifesto is the mirror doctrine (and a possible Neville Goddard lead; see *Advanced reading — the named-influence map*).
 - **[[Sir Lucius]]** — the Devil *"claiming the kingdom"* on a 2021 card, pre-name; and the *Welcome to the Circus* card's recasting of Lucius as Hermes / Thoth.
-- **[[The Circus#What it produces (the Spectacle)|the Spectacle]]** · **[[Consumption]]** · **[[The Algorithm]]** — the *"are you content?"* triple pun and the whole consume-satire register point here.
-- **[[The Empty Mirror]]** — *"NONE"* as the no-thing answer to *"what do you seek?"*
+- **[[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]]** · **[[Concepts/Consumption]]** · **[[Concepts/The Algorithm]]** — the *"are you content?"* triple pun and the whole consume-satire register point here.
+- **[[Concepts/The Empty Mirror]]** — *"NONE"* as the no-thing answer to *"what do you seek?"*
 - **[[The Mask]]** — *"who are you without the mask?"*, turned on the viewer (Jung's persona = mask).
-- **[[The Labyrinth]]** — *"you are the maze"*: the self *is* the structure navigated.
-- **[[Nigredo]]** — *"death of my generation"* / burn-it-down→rebirth, later staged in the *Bad Feeling* fire-close.
+- **[[Concepts/The Labyrinth]]** — *"you are the maze"*: the self *is* the structure navigated.
+- **[[Concepts/Nigredo]]** — *"death of my generation"* / burn-it-down→rebirth, later staged in the *Bad Feeling* fire-close.
 - **[[The Hall of Mirrors]]** — the cracked *"are you content?"* phone code; the recovered microsites are proto-ARG predecessors.
 - **[[BMRC]]** — the in-lore production house / weapons brand on the *Welcome to the Circus* end-card; decode still open.
-- **[[The Visual Canon Throughline]]** — the parent essay: the cards as one of three recurring visual devices.
+- **[[Concepts/The Visual Canon Throughline]]** — the parent essay: the cards as one of three recurring visual devices.
 
 > [!note]- Advanced reading — Beth, the house, and the roof (the load-bearing 2026 card)
 > The *Bounce* card is the one place the device prints an actual Hebrew letter, and three independent facts land on a single symbol. **Beth (ב) literally means "house."** The card epigraphs the *Sefer Yetzirah* passage on Beth. And *Bounce*'s own chorus is *"Let's tear the roof off of my house, my house."* The letter's meaning *is* the lyric's image — strong evidence the choice is deliberate, not decorative. Read together, the song reactivates Beth: the house turns from container into opening, closed to open, shelter to communion.
 >
-> Push one step further and the card's first line states the project's foundational tenet. Through Beth = house = heart, *"HE MADE THE LETTER BETH KING OVER WISDOM"* reads as *the heart enthroned as king over the mind* — the [[Heart and Mind|heart-over-mind]] doctrine, printed as scripture. The same verse's *"…He formed the Moon"* corroborates it (the Moon is the heart/lunar pole in the cosmology). This is a strong reading rather than a documented gloss — it routes through Beth = house = heart — but the intent reads as unmistakable.
+> Push one step further and the card's first line states the project's foundational tenet. Through Beth = house = heart, *"HE MADE THE LETTER BETH KING OVER WISDOM"* reads as *the heart enthroned as king over the mind* — the [[Concepts/Heart and Mind|heart-over-mind]] doctrine, printed as scripture. The same verse's *"…He formed the Moon"* corroborates it (the Moon is the heart/lunar pole in the cosmology). This is a strong reading rather than a documented gloss — it routes through Beth = house = heart — but the intent reads as unmistakable.
 
 > [!note]- Advanced reading — Hermes in the letter-slot
 > On the *Welcome to the Circus* card, the small-print slot that held *Bounce*'s Hebrew letter now holds a Hermes riddle: *"Did Hermes paint his face? I don't know, maybe."* Hermes — the god who *invented letters and writing* — occupies the exact position where the previous card printed a letter. The move recasts the face-painting ringmaster ([[Sir Lucius]]) as Hermes / Thoth: trickster, inventor of writing, and psychopomp — the guide through the underworld, which lands pointedly given the *"Live **Underground**"* setting. He's the namesake of Hermeticism *and* hermeneutics (decoding itself), and alchemy's Mercurius, the duplex trickster — a tidy fit for a figure who *"tells the truth, but the truth deceives."* The shrugging *"I don't know, maybe"* performs the cipher's own open-question status; the card declines to confirm its own riddle, which is the joke and the honesty at once.
@@ -116,7 +116,7 @@ Short excerpts, in order:
 > Two doctrines printed on the cards deserve their lineage spelled out. **You-are-it / kingdom-within:** *"you're the Kingdom, you're the King"* (2021) = *"you are the maze"* (2026) = *"you must be IT"* (thechaosorder.academy, 2021) = Alan Watts's *"you are it"* = Chaplin's *"the kingdom of God is within man"* (sampled in [[Superhuman]]) / Luke 17:21. The self-is-sovereign axiom was on a public card in 2021. **The Devil:** *"Devil waking up to claim the kingdom"* (2021) puts the Devil/Lucius figure on a public card by function-name roughly two years before [[Sir Lucius]]'s 2023 named dream-origin — consistent with the project's principle that origins *accumulate*, they don't *begin*. The card is where the figure first becomes visible.
 
 > [!note]- Advanced reading — "NONE," the Saturn-cake, and the No-Thing
-> The *Down to You* card answers *"WHAT IS IT THAT YOU SEEK?"* with the sigil *"NONE"* — the no-thing of [[The Empty Mirror]], alongside the project's later *"no thing ever creates"* line. And the *I Like to Party* cover repays a close look: a cake plated as **Saturn / Cronus the devourer** — the god who eats his children — *plus cake* = [[Consumption]], ringed by skulls = *memento mori.* A birthday platter that eats you. Esoteric doctrine smuggled inside a dessert, which is the device's whole personality.
+> The *Down to You* card answers *"WHAT IS IT THAT YOU SEEK?"* with the sigil *"NONE"* — the no-thing of [[Concepts/The Empty Mirror]], alongside the project's later *"no thing ever creates"* line. And the *I Like to Party* cover repays a close look: a cake plated as **Saturn / Cronus the devourer** — the god who eats his children — *plus cake* = [[Concepts/Consumption]], ringed by skulls = *memento mori.* A birthday platter that eats you. Esoteric doctrine smuggled inside a dessert, which is the device's whole personality.
 
 > [!note]- Advanced reading — the named-influence map (and one open lead)
 > The cards are a clean index of the project's stated and resonant sources. **Hermeticism / the Emerald Tablet** — *"as above, so below"* (2021), *"Did Hermes paint his face?"* (2026). **Kabbalah / Sefer Yetzirah** — the Beth passage on *Bounce* (likely via Aryeh Kaplan's translation); Beth = "house," the second letter (creation begins after Aleph's unity). **Alchemy** — Nigredo, the blackening (*Happy Face*); Mercurius the trickster-spirit (Hermes/Lucius). **Christian scripture** — Luke 17:21, the kingdom within. **Chaplin** — *The Great Dictator* speech, sampled in [[Superhuman]]. **Jung** — the persona = mask. **Alan Watts** — *"you are it."* **Roman myth** — Saturn / Cronus the devourer. **TV-infomercial advertising** — the *®*, *CALL NOW*, *PRESENTED BY* register, parodied throughout.
@@ -124,7 +124,7 @@ Short excerpts, in order:
 > One lead stays a lead, not a fact: the *Down to You* concept-of-self manifesto is near-verbatim **Neville Goddard** — *"change your conception of yourself and you change your world."* The thechaosorder.academy recovery firms it to a 2021 primary, but a Goddard attribution should be verified against a Goddard primary before it's stated as influence rather than resemblance.
 
 > [!note]- Advanced reading — the visual-canon thesis, and why the cipher question is open
-> The strongest synthesis — guarded as synthesis, not fact — is that the Manifesto Cards are one of three recurring visual-canon devices (with the Realized Circus and the silent-Lucius end-tag) that argue the Jagwar Twin project is one continuous, pre-architected work: the 2026 *Lucius Lullaby* material is the *unveiling* of a mythology already fully present by 2020–2021, not its birth. See [[The Visual Canon Throughline]].
+> The strongest synthesis — guarded as synthesis, not fact — is that the Manifesto Cards are one of three recurring visual-canon devices (with the Realized Circus and the silent-Lucius end-tag) that argue the Jagwar Twin project is one continuous, pre-architected work: the 2026 *Lucius Lullaby* material is the *unveiling* of a mythology already fully present by 2020–2021, not its birth. See [[Concepts/The Visual Canon Throughline]].
 >
 > A real caution rides alongside it. The cards' content genuinely *varies*, and not every release carries one — which is itself the argument against any rigid hidden cipher. The early wave (2019–2021) used **no** Hebrew letters; the 2026 wave introduced one (Beth) but the *Welcome to the Circus* card carried a Hermes riddle in the letter-slot instead of a letter. So a strict letter-by-letter code across the *Live Underground* cards is currently weakened, not confirmed. The decider has now arrived. The *Lucius Lullaby* title-track card (2026-07-10) carried **no** Hebrew letter — a scripture-and-lullaby manifesto in the epigraph-slot (the serpent, *"serve somebody,"* *"life is but a dream, wake up"*). So the strict letter-by-letter code is **retired**, and the confirmed pattern is the softer one: *an esoteric epigraph per song, mixed traditions* (Hebrew Beth on Bounce, Greek Hermes on Welcome to the Circus, scripture-Dylan-nursery here). A recurring statement of values, not a locked code — and [[Beth]] stays the one real Hebrew letter the series ever printed.
 
@@ -139,7 +139,7 @@ Short excerpts, in order:
 
 - [[Happy Face]] — the inverted-face CRT card and the *"are you content?"* origin.
 - [[Welcome to the Circus]] — the 2026 card that puts Hermes in the letter-slot.
-- [[The Visual Canon Throughline]] — the parent essay; the cards as one of three devices.
-- [[Source vs Reflection]] — the *"change the concept of self"* mirror doctrine, in full.
+- [[Concepts/The Visual Canon Throughline]] — the parent essay; the cards as one of three devices.
+- [[Concepts/Source vs Reflection]] — the *"change the concept of self"* mirror doctrine, in full.
 - [[Sir Lucius]] — the Devil named on a 2021 card, years before the figure.
 - [[The Hall of Mirrors]] — where the *"are you content?"* phone gag turned out to be a working code.

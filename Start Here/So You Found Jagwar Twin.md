@@ -41,7 +41,7 @@ Roy is the other pole: heart, sword, song, the part still trying to choose. His 
 
 And then there is Mary, the third voice. She is harder to explain without immediately stepping right out of philosophy and into the spiritual realm, so let's keep it simple: Mary is the presence that calls the hidden self back into the light. Her message is the one Lucius cannot metabolize: you were born to shine. ✨
 
-All of this happens inside what we can call [[The Circus]]. It is the attention machine, the show that never closes, the place where they love it when you lose control. It looks like the music industry, Hollywood. It looks like your feed. It looks like a stage. It also looks suspiciously like the inside of a human head at 2:17 a.m.
+All of this happens inside what we can call [[Concepts/The Circus]]. It is the attention machine, the show that never closes, the place where they love it when you lose control. It looks like the music industry, Hollywood. It looks like your feed. It looks like a stage. It also looks suspiciously like the inside of a human head at 2:17 a.m.
 
 The story so far comes in three big movements. 
 

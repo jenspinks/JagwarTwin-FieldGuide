@@ -16,14 +16,14 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Full lyrics:** [Genius](https://genius.com) · streaming
 > **▶ Listen:** [YouTube](https://www.youtube.com/watch?v=MMGmDsjlC_g)
 
-This is the song Roy calls *"my favorite song that has ever come through me"* — note *come through me*, not *that I wrote* — and, separately, the first thing a new listener should hear: *"The Circle is Jagwar Twin's Genesis story."* It closes *33*, it is the origin story the whole catalogue is told from, and it is where two of the project's load-bearing symbols — the world on a string and the song hidden in the wings — are both born. It's distinct from the doctrine [[The Loop and the Circle]] (the worldview) and from the 2026 reworking [[The Circle (Lucius Version)]] (same name, no myth left in it). It links to both. It is its own page.
+This is the song Roy calls *"my favorite song that has ever come through me"* — note *come through me*, not *that I wrote* — and, separately, the first thing a new listener should hear: *"The Circle is Jagwar Twin's Genesis story."* It closes *33*, it is the origin story the whole catalogue is told from, and it is where two of the project's load-bearing symbols — the world on a string and the song hidden in the wings — are both born. It's distinct from the doctrine [[Concepts/The Loop and the Circle]] (the worldview) and from the 2026 reworking [[The Circle (Lucius Version)]] (same name, no myth left in it). It links to both. It is its own page.
 
 ## At a glance
 
 - **Era / release** — closer of *33* (2022); doctrine named publicly three years earlier (2019); re-sung, hollowed out, as the opener of *Lucius Lullaby* (2026).
 - **In one line** — a creation myth where the thing everyone's looking for was sealed inside them the whole time, and the cure is remembering, not acquiring.
 - **Who speaks** — nobody in the cast, quite. It's told in **third-person myth** — no "I," no "you," just *"long ago, there was a Jagwar…"* The narrator is the myth-voice itself; the figures inside it are [[The Wise One]], the Maker, the Jagwars, and the new kings. ([[Sir Lucius]] appears only as the kings and empires; [[Roy]] is the namesake who files himself among the made creatures.)
-- **Key symbols** — [[The Thread]] (the string) · the song / singing · the wings · the inside of the inside · [[The Jaguar]] (the Jagwars) · the cave · the cages · [[Fire]] (by its absence — see below).
+- **Key symbols** — [[The Thread]] (the string) · the song / singing · the wings · the inside of the inside · [[Concepts/The Jaguar]] (the Jagwars) · the cave · the cages · [[Fire]] (by its absence — see below).
 
 ## The song, mapped
 
@@ -58,7 +58,7 @@ A few claims that cut across the whole myth.
 
 - [[The Wise One]] — the figure the myth resolves on: two lines, total, and then it's over. She finds the cave, remembers she once held the string, and turns the whole story from loss back toward light. Read as **a faculty more than a person** — feminine-coded remembrance — and as holding two faces at once (she *was* the Maker; she's also the template any of us can instantiate). The deep version is under *Advanced reading* below.
 - **The Maker** — the feminine primordial Jagwar who ties the world on the string, teaches the song, walks with the Jagwars, then hides the song in their wings and withdraws. *"She."* On the cosmic reading she and the Wise One are two phases of one being.
-- [[The Jaguar]] — the Jagwars themselves: the made creatures who share the project's name, taught to sing, told they couldn't, carrying the song in their wings.
+- [[Concepts/The Jaguar]] — the Jagwars themselves: the made creatures who share the project's name, taught to sing, told they couldn't, carrying the song in their wings.
 - **The new kings** — the antagonists, present across *"many cycles"*: the masculine system-of-control who *"told Jagwars they never could sing"* and *"built cages and sold everything."* The mechanism of forgetting.
 - [[Mary]] — the catalogue's divine-feminine figure; archetypal overlap with the Maker/Wise-One (the Sophia/Shekhinah register), **not** a naming — the Wise One is not "Mary," and the myth doesn't say she is.
 - [[Roy]] — the namesake who identifies with the made creatures; sole writer of the song.
@@ -95,7 +95,7 @@ A few claims that cut across the whole myth.
 - **The wings** — where the song is kept: the interior, the self, *"on the inside of the inside."*
 - **The inside of the inside** — the recursive deepest interior; the only route back; the reversed attention-vector. The album's closing instruction.
 - **The cave** (*"a small cave where the Jagwars used to sing"*) — memory, sacred space, the origin point; and, read against Plato, an *inversion* — here the cave holds the **truth**, not the shadows.
-- **The cages** (*"the empires built cages and sold everything"*) — capture and commodification; the caged performer, the same tent as the [[The Circus|Circus]].
+- **The cages** (*"the empires built cages and sold everything"*) — capture and commodification; the caged performer, the same tent as the [[Concepts/The Circus|Circus]].
 - [[Fire]] — present **by its absence.** The maker descends to *"the Earth, Wind, and the Sea"* — three elements, no fire — which is essentially *Earth, Wind & Fire* (a named childhood influence of Roy's) with Fire swapped for Sea. Tempting; also negative evidence, i.e. the cheapest kind. Held as a curio, not built on (see below).
 
 ## Connected songs
@@ -148,7 +148,7 @@ Roy has said more about this song, and more emphatically, than almost anything e
 > [!note]- Advanced reading — "there's only one song," and the crowd that sings it back
 > Roy's Manifesto FAQ states the spine: *"The world needs music, but the world doesn't need more songs. There's only one song. I'm still learning how to write it."* Read through the Circle, the *one song* is the primordial song the Maker hid in the wings and the kings suppressed — and the catalogue is successive attempts to re-transmit it. The Wise One's remembrance is *how* it's recovered: not writing a new song, **re-membering the only one.** His public line *"Music is how the world remembers who it is"* is that mechanism in his own words.
 >
-> And it has an audible, communal form: when a crowd sings the song back at a show, *that is the Jagwars singing again* — the suppressed song recovered in real time, by people who turn out to have known it all along (it was *"inside their wings,"* inside them). The Wise One's private cave-moment scaled to a room: **anamnesis with a chorus.** It's the Circle's signature gesture and its cleanest line against the Loop — communion you can't stream-count. Its exact mirror is the [[The Circus|Circus]], the same crowd energy pointed outward and harvested; and the dark pole is literalized in the Lucius Version, where voices are *engineered* to sound like one — unison passed off as communion. (One honest note: the precise 2019 sentence pairing the Circle with *"the crowd singing it back"* is still pending a clean full-text; the gesture itself stands on the released material independently.)
+> And it has an audible, communal form: when a crowd sings the song back at a show, *that is the Jagwars singing again* — the suppressed song recovered in real time, by people who turn out to have known it all along (it was *"inside their wings,"* inside them). The Wise One's private cave-moment scaled to a room: **anamnesis with a chorus.** It's the Circle's signature gesture and its cleanest line against the Loop — communion you can't stream-count. Its exact mirror is the [[Concepts/The Circus|Circus]], the same crowd energy pointed outward and harvested; and the dark pole is literalized in the Lucius Version, where voices are *engineered* to sound like one — unison passed off as communion. (One honest note: the precise 2019 sentence pairing the Circle with *"the crowd singing it back"* is still pending a clean full-text; the gesture itself stands on the released material independently.)
 
 > [!note]- Advanced reading — the Lucius Version: appropriation, not deletion (the savage joke)
 > *Lucius Lullaby* (2026) opens on a Track 1 titled **"The Circle (Lucius Version)"** — same sacred name, the genesis myth's front door — except the myth isn't in it. Not one line of it. The track wears the title and carries a single looped phrase from a music box: *"It's a beautiful life, it's a beautiful life, I'm dreaming"* — which isn't from *33* at all; it's the refrain of the *next* track. The name of The Circle, filled with the Lullaby's words. A bait-and-switch, not a cover.
@@ -231,7 +231,7 @@ But the inside of the inside must be where you go
 ## Read next
 
 - [[The Wise One]] — the two lines the whole cosmology resolves on.
-- [[The Loop and the Circle]] — the doctrine this song is the fullest statement of, and its dark twin.
+- [[Concepts/The Loop and the Circle]] — the doctrine this song is the fullest statement of, and its dark twin.
 - [[The Thread]] — the string the Maker tied the world to, and the Wise One remembered holding.
 - [[The Circle (Lucius Version)]] — same name, no myth left; watch the song get switched off.
 - [[Another Way II Heaven]] — the companion creation myth on *33.*

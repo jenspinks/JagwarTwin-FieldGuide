@@ -20,7 +20,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Signs himself:** El Roy *("the God who sees me")*
 > - **Key symbols:** [[The Dove|dove]] (Cygnus) · [[The Sword|sword]] · heart · El Roy · [[The Rose|the rose]] · the cross · [[The Mirror]]
 > - **Links to:** Netzach / Venus: heart, love, beauty, devotion
-> - **Related:** [[Sir Lucius]] · [[Mary]] · [[The Jaguar]]
+> - **Related:** [[Sir Lucius]] · [[Mary]] · [[Concepts/The Jaguar]]
 
 ## Start here
 
@@ -39,7 +39,7 @@ New here and want songs, not a syllabus? Start with [[Lucius Lullaby]], [[Baller
 
 ## Where he sits
 
-Every other character here is really a position relative to Roy. [[Sir Lucius]] is the protector-mind that broke off from him. [[Mary]] is the blessing-voice reaching back toward him. [[Brandon|The Ballerina Boy]] is the buried child he is reaching *for.* [[The Jaguar]] is the lens he sees through. <img src="https://plumcreekranch.com/jagwar/trio.png" style="float: right; width: 150px; margin-left: 16px; margin-bottom: 8px;">Pull Roy out of the middle and the whole cast collapses into abstractions. Lucius becomes a costume. Mary becomes a symbol. Brandon becomes a wound with no body attached. The Jaguar becomes a logo. Roy is the one with a body, a birthday, a voice, and a bruise.
+Every other character here is really a position relative to Roy. [[Sir Lucius]] is the protector-mind that broke off from him. [[Mary]] is the blessing-voice reaching back toward him. [[Brandon|The Ballerina Boy]] is the buried child he is reaching *for.* [[Concepts/The Jaguar]] is the lens he sees through. <img src="https://plumcreekranch.com/jagwar/trio.png" style="float: right; width: 150px; margin-left: 16px; margin-bottom: 8px;">Pull Roy out of the middle and the whole cast collapses into abstractions. Lucius becomes a costume. Mary becomes a symbol. Brandon becomes a wound with no body attached. The Jaguar becomes a logo. Roy is the one with a body, a birthday, a voice, and a bruise.
 
 And the bruise is the engine.
 
@@ -87,7 +87,7 @@ Whether he actually gets there is the open question of the entire mythology.
 
 > 🚪 *There is a reason “my mind must serve my heart” sounds less like a mood and more like a diagram. The songs keep pointing toward an old vertical map: mind, heart, mirror, body, shadow, light. If you want the version with Hebrew names, colored spheres, and a sun at the center, start with [[Kabbalah - The Tree of Life|the Tree of Life]].*
 
-> 🚪 *There is also an older sibling-drama hiding under the clown makeup: two twins, one blessing, a costume trick, a midnight wrestling match, and an ending where nobody really wins because the brothers embrace. Long before the circus, [[Jacob and Esau]] had already drawn part of the Roy/Lucius shape.*
+> 🚪 *There is also an older sibling-drama hiding under the clown makeup: two twins, one blessing, a costume trick, a midnight wrestling match, and an ending where nobody really wins because the brothers embrace. Long before the circus, [[Concepts/Jacob and Esau]] had already drawn part of the Roy/Lucius shape.*
 
 ## The mind as the beautiful danger
 
@@ -103,11 +103,11 @@ The mind is never simply *bad* in his telling. It is *"potentially this beautifu
 
 Roy rejects the word *fan.* He calls listeners **co-creators of the world,** and during COVID he ran a free weekly guided-meditation space that he credits as the seed of *Happy Face* and the lineage that becomes the [[Hall of Mirrors]]. The relationship is supposed to be mutual.
 
-The machine has other plans. The [[The Circus|Circus]] and [[The Algorithm]] collapse the co-creator back into a spectator: *take your seat, scream and shout.* And the open secret is that his most vulnerable, most honest song, [[Ballerina Boy]], is publicly his *lowest-streaming* one. The theatrical rollout frames that as Lucius's proof that *vulnerability loses.*
+The machine has other plans. The [[Concepts/The Circus|Circus]] and [[Concepts/The Algorithm]] collapse the co-creator back into a spectator: *take your seat, scream and shout.* And the open secret is that his most vulnerable, most honest song, [[Ballerina Boy]], is publicly his *lowest-streaming* one. The theatrical rollout frames that as Lucius's proof that *vulnerability loses.*
 
-This is why Roy's openness is a real risk and not a pose: he offers the tender thing to [[The Audience]] inside a [[The Circus#What it produces (the Spectacle)|system]] engineered to reward the armored thing. His own shadow ranks the field by streams and tour sales, the exact metric the music refuses. (See [[The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] for the bread-and-circuses machinery behind it.)
+This is why Roy's openness is a real risk and not a pose: he offers the tender thing to [[Concepts/The Audience]] inside a [[Concepts/The Circus#What it produces (the Spectacle)|system]] engineered to reward the armored thing. His own shadow ranks the field by streams and tour sales, the exact metric the music refuses. (See [[Concepts/The Circus#Where it comes from (bread and circuses)|Panem et Circenses]] for the bread-and-circuses machinery behind it.)
 
-And [[The Algorithm]] is not a label this guide pasted over his work after the fact. It is his own word. His Manifesto lays out a substitution table for how the internet quietly swapped the values that used to drive art: *"Immersion"* becomes *"Volume of content,"* *"Purpose"* becomes *"Reach,"* and the one that names the whole disease, *"Feeling"* becomes *"Algorithm."* That is the attention-economy critique stated as authorial intent, in his own hand: the algorithm is what you get when feeling is evicted and a metric moves in.
+And [[Concepts/The Algorithm]] is not a label this guide pasted over his work after the fact. It is his own word. His Manifesto lays out a substitution table for how the internet quietly swapped the values that used to drive art: *"Immersion"* becomes *"Volume of content,"* *"Purpose"* becomes *"Reach,"* and the one that names the whole disease, *"Feeling"* becomes *"Algorithm."* That is the attention-economy critique stated as authorial intent, in his own hand: the algorithm is what you get when feeling is evicted and a metric moves in.
 
 ## El Roy
 
@@ -181,10 +181,10 @@ There is a clean way to hold the three figures closest to the wound: **[[Sir Luc
 
 - **[[Sir Lucius]]:** the protector-mind divorced from the heart, formed from Roy's own interior life. *"I made you."* Lucius pulled Roy off the bottom, and the deal may have been worth it. Their tension, mind serving the heart versus mind replacing it, *is* the project. Jacob at Peniel is the older picture: creator and created wrestling until they are impossible to separate, the struggle itself becoming the thing that binds.
 - **[[Mary]]:** the divine-feminine blessing voice, the *"you were born to shine"* that answers the childhood *"you're not a real boy."* She does **not** appear in [[Lucius Lullaby]]; the savior-voice there is Lucius counterfeiting the rescue. Her grounded appearances are [[No. 1 Champion (la Conquistadora)]], [[Ballerina Boy]], and [[Weirdness]].
-- **[[The Jaguar]]:** the project's emblem of seeing, the cat that looks first into itself and only then into others (*"humans are mirrors for each other"*). The frame around everything, not a separate peer.
+- **[[Concepts/The Jaguar]]:** the project's emblem of seeing, the cat that looks first into itself and only then into others (*"humans are mirrors for each other"*). The frame around everything, not a separate peer.
 - **The Father:** public via the *Half the Man* post (*"I reached for my Father's hand / He said you're half the man that you know,"* Roy pictured in a jester's ruff) and via *"there's nothing wrong with you, my son"* in [[Ballerina Boy]]. An aviation thread runs alongside him: a grandfather's WWII plane scanned into the [[Hall of Mirrors]], a Test Pilot School lighter.
 - **The Mother:** the folk and Celtic records she played around the house; her saying *"He who plants a seed believes in God"*; she sent him Joni Mitchell's *Woodstock.* The gentler channel of his influence.
-- **[[The Audience]] / [[The Circus]] / [[The Algorithm]]:** the consuming collective. Roy reframes it as co-creation; the system keeps collapsing it back into spectatorship. His vulnerability matters because this machine can distort it.
+- **[[Concepts/The Audience]] / [[Concepts/The Circus]] / [[Concepts/The Algorithm]]:** the consuming collective. Roy reframes it as co-creation; the system keeps collapsing it back into spectatorship. His vulnerability matters because this machine can distort it.
 - **SARAVI:** his named AI character and digital double, handed the @jagwartwin Twitter in 2022 for the *33* campaign, trained over months on his own responses. A benevolent companion and world-builder in his framing (she/her), distinct from the adversarial Lucius. The origin was a literal joke to the dev team: *"what if I uploaded my consciousness to the internet so there could be a 24/7 social influencer version of me."*
 - **Collaborators:** Linus and S1 (*Subject to Flooding* production); Joshua, his manager and a fifteen-year friend; MERCY (co-wrote and sang *Not Your Homie*); Little Luna (the ouroboros tattoo, a *Pay Attention* feature); Matt Wallace and Bhasker among the producers; Michael Morgan named as social manager. His current label is Atlantic, which, he says, *"let me go with my vision"* on *Lullaby.*
 
@@ -255,7 +255,7 @@ Everything above stands on its own. What follows is optional: the long inventori
 >
 > **Framework-tier (esoteric, syncretic, a lens, never authorial intent).** The Netzach/Venus character-map, the sixteen-year water-line self-naming arc, and the LOOP cosmology read as *authored mythology* rather than literal fact. Named historical or religious identifications drawn from the work (a Marian reading of *La Conquistadora,* the SARAVI material's deeper questions) are interpretation, held openly, unless a public source states them outright.
 >
-> **Open questions.** Does Roy *reach* the heart or only *serve* it? Does he escape the [[The Loop and the Circle|Circle]], or learn to move differently inside it? Is *"authentic Roy"* itself an authored persona? And the keystone the page is still waiting on: does Roy ever name Sir Lucius as "the mind" in his own voice?
+> **Open questions.** Does Roy *reach* the heart or only *serve* it? Does he escape the [[Concepts/The Loop and the Circle|Circle]], or learn to move differently inside it? Is *"authentic Roy"* itself an authored persona? And the keystone the page is still waiting on: does Roy ever name Sir Lucius as "the mind" in his own voice?
 
 ## Read next
 
@@ -264,5 +264,5 @@ Everything above stands on its own. What follows is optional: the long inventori
 - [[Ballerina Boy]]: the song where the wound is sung.
 - [[Lucius Lullaby]]: the floor-of-the-bedroom song, and the album named for the shadow.
 - [[SOL]]: another good place to begin listening.
-- [[The Jaguar]]: the lens he sees through.
+- [[Concepts/The Jaguar]]: the lens he sees through.
 - [[The Mirror]]: his mission, his measure, and the platform built from it.
