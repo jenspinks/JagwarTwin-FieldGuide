@@ -6,7 +6,7 @@ review_method: expanded-context
 ---
 # Independent Concepts Review Index
 
-This index reviews the Opus concept lifts without replacing or altering the proposed drafts. Detailed companion reviews exist for the pages that required the deepest correction. The remaining pages are covered in one consolidated review so the full set can be assessed without scattering forty-plus short files through the folder.
+This index reviews the Opus concept lifts without replacing or altering the proposed drafts. Every proposed concept now has its own companion independent review in this folder.
 
 ## Review standard
 
@@ -28,23 +28,57 @@ The test is not “Can this be proven?” The test is “Does the prose tell the
 - **Substantial revision:** the organizing synthesis needs rebuilding, though good material may remain.
 - **Hold:** unresolved evidence could materially change the page.
 
-## Detailed companion reviews
+## Complete companion review set
 
-| Page | Status | Primary issue | Review |
-|---|---|---|---|
-| [[Heart and Mind]] | Ship with calibration | Strong central doctrine; several character and framework equations need tiering | [[Heart and Mind — Independent Review]] |
-| [[Gnosticism - The World as Trap]] | Targeted revision | Historical overstatement and local correspondences hardened into project architecture | [[Gnosticism - The World as Trap — Independent Review]] |
-| [[The Divide]] | Targeted revision | Missing Roy samples and Dove/Cygnus identification materially change the synthesis | [[The Divide — Independent Review]] |
-| [[Duality]] | Ship with calibration | Strong grounded core; broader universalization needs tiering. Roy = Netzach/Venus and Lucius = Hod/Mercury is direct project guidance and is grounded. | [[Duality — Independent Review]] |
-| [[The Loop and the Circle]] | Targeted revision | Persuasive diagnostic model occasionally presented as the project's completed metaphysics | [[The Loop and the Circle — Independent Review]] |
-
-## Consolidated review of the remaining pages
-
-All other proposed lifts are reviewed here:
-
-- [[__REMAINING PAGES — INDEPENDENT REVIEW]]
-
-That review includes a verdict and correction guidance for every remaining page, including The Circus, Source vs Reflection, Communion vs Spectacle, Consumption, Flattened Identity, Gatekeeper Saga, Hermeticism, Inherited Substrate, Inversion, Jacob and Esau, Jagwar Twin and Harry Potter, Keilim, Machine vs Human, Music as Pattern and Identity, Nigredo, Pronoun Audit, The Algorithm, The Aquarium, The Audience, The Digital Double, The Dweller on the Threshold, The Empty Mirror, The Flip and the Distorting Mirror, The House and the Vessel, The Jaguar, The Labors of Hercules, The Labyrinth, The Light-Bearer, The Manifesto Cards, The Mouth, The Pattern, The Protector, The Realm, The Relational Mirror, The Sacred Truths, The Speaker Problem, The Upload, The Veil, The Visual Canon Throughline, The Voice, Theosophy, and Witnessing vs Surveillance.
+| Page | Status | Review |
+|---|---|---|
+| [[Heart and Mind]] | Ship with calibration | [[Heart and Mind — Independent Review]] |
+| [[Gnosticism - The World as Trap]] | Targeted revision | [[Gnosticism - The World as Trap — Independent Review]] |
+| [[The Divide]] | Targeted revision | [[The Divide — Independent Review]] |
+| [[Duality]] | Ship with calibration | [[Duality — Independent Review]] |
+| [[The Loop and the Circle]] | Targeted revision | [[The Loop and the Circle — Independent Review]] |
+| [[The Circus]] | Ship with calibration | [[The Circus — Independent Review]] |
+| [[Source vs Reflection]] | Ship with calibration | [[Source vs Reflection — Independent Review]] |
+| [[Communion vs Spectacle]] | Ship with calibration | [[Communion vs Spectacle — Independent Review]] |
+| [[Consumption]] | Ship with calibration | [[Consumption — Independent Review]] |
+| [[Flattened Identity]] | Ship | [[Flattened Identity — Independent Review]] |
+| [[Gatekeeper Saga]] | Targeted revision | [[Gatekeeper Saga — Independent Review]] |
+| [[Machine vs Human]] | Targeted revision | [[Machine vs Human — Independent Review]] |
+| [[The Algorithm]] | Ship with calibration | [[The Algorithm — Independent Review]] |
+| [[The Aquarium]] | Ship with calibration | [[The Aquarium — Independent Review]] |
+| [[The Audience]] | Ship with calibration | [[The Audience — Independent Review]] |
+| [[Witnessing vs Surveillance]] | Ship | [[Witnessing vs Surveillance — Independent Review]] |
+| [[The Digital Double]] | Ship with calibration | [[The Digital Double — Independent Review]] |
+| [[The Dweller on the Threshold]] | Targeted revision | [[The Dweller on the Threshold — Independent Review]] |
+| [[The Empty Mirror]] | Ship with calibration | [[The Empty Mirror — Independent Review]] |
+| [[The Flip and the Distorting Mirror]] | Ship | [[The Flip and the Distorting Mirror — Independent Review]] |
+| [[The Light-Bearer]] | Ship with calibration | [[The Light-Bearer — Independent Review]] |
+| [[The Protector]] | Targeted revision | [[The Protector — Independent Review]] |
+| [[The Relational Mirror]] | Ship with calibration | [[The Relational Mirror — Independent Review]] |
+| [[The Speaker Problem]] | Ship | [[The Speaker Problem — Independent Review]] |
+| [[The Voice]] | Ship with calibration | [[The Voice — Independent Review]] |
+| [[Hermeticism - As Above So Below]] | Ship with calibration | [[Hermeticism - As Above So Below — Independent Review]] |
+| [[Inherited Substrate]] | Ship | [[Inherited Substrate — Independent Review]] |
+| [[Inversion]] | Targeted revision | [[Inversion — Independent Review]] |
+| [[Jacob and Esau]] | Targeted revision | [[Jacob and Esau — Independent Review]] |
+| [[Jagwar Twin and Harry Potter]] | Ship with calibration | [[Jagwar Twin and Harry Potter — Independent Review]] |
+| [[Keilim - The Breaking of the Vessels]] | Ship with calibration | [[Keilim - The Breaking of the Vessels — Independent Review]] |
+| [[Nigredo]] | Targeted revision | [[Nigredo — Independent Review]] |
+| [[The House and the Vessel]] | Ship with calibration | [[The House and the Vessel — Independent Review]] |
+| [[The Labors of Hercules]] | Targeted revision | [[The Labors of Hercules — Independent Review]] |
+| [[The Labyrinth]] | Targeted revision | [[The Labyrinth — Independent Review]] |
+| [[The Manifesto Cards]] | Ship with calibration | [[The Manifesto Cards — Independent Review]] |
+| [[The Mouth]] | Targeted revision | [[The Mouth — Independent Review]] |
+| [[The Pattern]] | Ship with calibration | [[The Pattern — Independent Review]] |
+| [[The Realm]] | Ship with calibration | [[The Realm — Independent Review]] |
+| [[The Sacred Truths]] | Ship with calibration | [[The Sacred Truths — Independent Review]] |
+| [[The Veil]] | Ship with calibration | [[The Veil — Independent Review]] |
+| [[The Visual Canon Throughline]] | Ship | [[The Visual Canon Throughline — Independent Review]] |
+| [[The Jaguar]] | Ship with calibration | [[The Jaguar — Independent Review]] |
+| [[Music as Pattern and Identity]] | Ship | [[Music as Pattern and Identity — Independent Review]] |
+| [[Theosophy]] | Ship with calibration | [[Theosophy — Independent Review]] |
+| [[Pronoun Audit (I-You)]] | Targeted revision | [[Pronoun Audit (I-You) — Independent Review]] |
+| [[The Upload]] | Ship with calibration | [[The Upload — Independent Review]] |
 
 ## Cross-page grounding note
 
