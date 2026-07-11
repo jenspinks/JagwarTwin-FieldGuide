@@ -35,8 +35,8 @@ The test is not “Can this be proven?” The test is “Does the prose tell the
 | [[Heart and Mind]] | Ship with calibration | Strong central doctrine; several character and Kabbalistic equations need interpretation labels | [[Heart and Mind — Independent Review]] |
 | [[Gnosticism - The World as Trap]] | Targeted revision | Historical overstatement and local correspondences hardened into project architecture | [[Gnosticism - The World as Trap — Independent Review]] |
 | [[The Divide]] | Targeted revision | Missing Roy samples and Dove/Cygnus identification materially change the synthesis | [[The Divide — Independent Review]] |
-| [[Duality]] | In review | Core architecture batch | |
-| [[The Loop and the Circle]] | In review | Core architecture batch | |
+| [[Duality]] | Ship with calibration | Strong grounded core; heart/mind ordering should not become the universal law of every polarity | [[Duality — Independent Review]] |
+| [[The Loop and the Circle]] | Targeted revision | Persuasive diagnostic model occasionally presented as the project's completed metaphysics | [[The Loop and the Circle — Independent Review]] |
 | [[The Circus]] | In review | Core architecture batch | |
 | [[Source vs Reflection]] | In review | Core architecture batch | |
 
