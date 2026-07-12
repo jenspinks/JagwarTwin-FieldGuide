@@ -41,15 +41,10 @@ Prefer:
 
 > The dyad can be placed as Roy at Netzach/Venus and Lucius at Hod/Mercury.
 
-Tiferet should remain the source-center or integration horizon, not a character seat Roy has already attained.
+Tiferet should remain the source-center or integration horizon, not a character seat Roy has already attained, soften slightly.
 
-### 3. `Two co-credited authors` may confuse artist billing with composition authorship
 
-The gist says the work “wears it as the two co-credited authors, Roy and Sir Lucius.” The public material supports co-billing, co-crediting, and distributed theatrical voice, but songwriter or author credit is a distinct metadata claim.
-
-Use **co-credited artists**, **co-billed voices**, or **the two named poles** unless the composition credits specifically list both entities as authors.
-
-### 4. Several song statements need an immediate reading verb
+### 3. Several song statements need an immediate reading verb
 
 The receipts classify these as strong readings, but the body often states them as plain song operations:
 
@@ -71,7 +66,7 @@ The page correctly attributes “The mind is the slayer of the real” to Blavat
 
 Prefer:
 
-> Read beside Roy's repeated insistence that mind is a useful tool, the post need not mean abolishing intellect; in this project it reads as ending the mind's sovereignty.
+> Read beside Roy's repeated insistence that mind is a useful tool, the post need not mean abolishing intellect; in this project it reads as ending the mind's sovereignty. 
 
 ## B. Framework stated too close to plot-fact
 
