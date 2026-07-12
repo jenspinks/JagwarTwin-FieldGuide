@@ -93,7 +93,7 @@ Revise the opening distinction to:
 
 Separate the layers:
 
-> In the Lurianic account, vessels shatter and sparks become dispersed or trapped among shells. Read psychologically through this project, the broken vessels can resemble faculties isolated from relation, each treating its partial light as the whole.
+> In the Lurianic account, the vessels shatter and the sparks of light become scattered or trapped inside shells. Read psychologically through this project, the image suggests parts of the self that have become cut off from one another. Because they no longer exist in relationship, each part becomes a closed system, mistaking the small piece of light it carries for the whole.
 
 ### 4. The solar-system sentence is too broad
 
