@@ -1,10 +1,16 @@
 ---
 title: Machine vs Human
 type: concept
-cssclasses: ["type-concept"]
+cssclasses:
+  - type-concept
 status: draft
 confidence: mixed
-source_basis: ["released music", "public interviews", "public posts", "official videos", "public artifacts"]
+source_basis:
+  - released music
+  - public interviews
+  - public posts
+  - official videos
+  - public artifacts
 ---
 # Machine vs Human
 
