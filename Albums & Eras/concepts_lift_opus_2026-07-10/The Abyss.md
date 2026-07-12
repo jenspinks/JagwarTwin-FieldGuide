@@ -85,6 +85,8 @@ That is the surface. Open a drawer below only for the deeper readings.
 > "You're half the man that you know" names that division. The seeker has mistaken a partial self for the whole.
 >
 > This is where [[Sir Lucius]] becomes necessary. He is not merely an enemy waiting at the bottom of the chasm. He is part of the divided self that must be seen, understood, and placed into right relation.
+> 
+> Lucius is dangerous precisely because he is not wholly external: the false bridge is built from capacities the seeker genuinely needs, but in a form ruled by fear and control.
 >
 > In Crowley's language, passage beyond the Abyss requires the surrender of the separate ego. In the language of [[The Circle]], the seeker must go to "the inside of the inside." The traditions are not identical, but both describe a self that cannot be remade without passing through what it has hidden.
 
