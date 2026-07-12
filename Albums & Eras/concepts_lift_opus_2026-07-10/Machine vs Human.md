@@ -28,7 +28,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > [!map]- Roy hands you the vocabulary
 > The split under this thread arrives already named. In the LOOP-era theatrical lore, Lucius is "the mind divorced from the heart," and the law is that "the mind must be subservient to the heart." Roy gives us the split and the cure in the same breath: not *destroy the mind* but *put it back in service*.
 >
-> "The Algorithm" has a paper trail too. The I'm 33 board transcribes the Kybalion's principle of Rhythm and lands on this: everything repeats in rhythmic cycles "as if the code of reality is operating on an algorithm." The word was pointed at reality's cycles before the catalogue turned it on the platform economy; how directly one led to the other stays a reading.
+> "The Algorithm" is Roy's own word, and its trail runs two ways. On his public Manifesto he names the platform substitution outright, *feeling → algorithm*: feeling replaced by the metric, the severing in two words. And on the I'm 33 board he reaches for it cosmically too, transcribing the Kybalion's principle of Rhythm, cycles that repeat "as if the code of reality is operating on an algorithm." He points the word at reality's cycles before the catalogue turns it on the feed; both senses are his.
 >
 > And the machine scaled to society gets its authorship confessed inside the work: in [[The Interview]] EP3, Lucius confirms [[Welcome to the Circus]] is his, "the algorithm baby."
 >
@@ -69,7 +69,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > The heavier scaffolding, the full Hermetic key, the escalation staged out, the surveillance theology, the Demiurge, the Flood reading, the kingdom-within substrate, lives one floor down, dense on purpose: [[Machine vs Human — The Deep End]].
 
 > [!receipts]- Sources and confidence
-> Grounded in public acts: the Chaplin sample on [[Superhuman (Interlude)]] is verbatim, and Apple Music's composer field credits Charles Chaplin; "the mind divorced from the heart" is published LOOP-era phrasing; "the algorithm baby" is on camera in [[The Interview]] EP3; the *El Roy* signature and the *El Roi* throat tattoo are public; "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* card and the Kybalion is transcribed on the I'm 33 board; the spider-web framing of [[Online]] is public commentary; the Gurdjieff quote-card and the Jung page are public posts.
+> Grounded in public acts: the Chaplin sample on [[Superhuman (Interlude)]] is verbatim, and Apple Music's composer field credits Charles Chaplin; "the mind divorced from the heart" is published LOOP-era phrasing; "the algorithm baby" is on camera in [[The Interview]] EP3; "the Algorithm" is Roy's own diagnostic term (his Manifesto's *feeling → algorithm* substitution, echoed by the board's Kybalion Rhythm line); the *El Roy* signature and the *El Roi* throat tattoo are public; "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* card and the Kybalion is transcribed on the I'm 33 board; the spider-web framing of [[Online]] is public commentary; the Gurdjieff quote-card and the Jung page are public posts.
 >
 > Strong readings: the severing, not the machine, as the antagonist; the single continuous escalation from Chaplin to Lucius; the as-above-so-below reading of machine-vs-human as heart-and-mind one scale up; surveillance as the counterfeit of El Roi; Lucius as the machine's best student rather than the machine.
 >
