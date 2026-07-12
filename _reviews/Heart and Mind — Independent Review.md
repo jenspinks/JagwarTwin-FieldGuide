@@ -157,6 +157,9 @@ Stop stating that the guide is not placing frames.
 "The split is not a frame this guide places over the work;" 
 If you provide the evidence then that statement should be implied and is taking up valuable main page space.  
 
+Where it Enters
+I think this should also include 
+
 This is an honest field guide but it is not a thesis paper.  
 
 Values:
