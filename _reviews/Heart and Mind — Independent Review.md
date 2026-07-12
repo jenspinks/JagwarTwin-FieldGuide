@@ -44,7 +44,8 @@ Prefer:
 Tiferet should remain the source-center or integration horizon, not a character seat Roy has already attained, soften slightly.
 
 
-### 3. Several song statements need an immediate reading verb
+
+### 4. Several song statements need an immediate reading verb
 
 The receipts classify these as strong readings, but the body often states them as plain song operations:
 
@@ -66,7 +67,7 @@ The page correctly attributes “The mind is the slayer of the real” to Blavat
 
 Prefer:
 
-> Read beside Roy's repeated insistence that mind is a useful tool, the post need not mean abolishing intellect; in this project it reads as ending the mind's sovereignty. 
+> Read beside Roy's repeated insistence that mind is a useful tool, the post need not mean abolishing intellect; in this project it reads as ending the mind's sovereignty.
 
 ## B. Framework stated too close to plot-fact
 
