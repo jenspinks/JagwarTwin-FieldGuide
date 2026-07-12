@@ -26,9 +26,7 @@ The remaining issues concern tier visibility. The opening presents the machine a
 
 The public `El Roy` signature is grounded. The `El Roi` throat tattoo and its Genesis meaning are grounded. The claim that one is deliberately a play on the other is a compelling word-field reading, but the brain does not carry a public statement from Roy confirming the relationship.
 
-The main page currently places this in `Where it enters` as though the play itself were public fact. Revise to:
-
-> Roy publicly signs `El Roy`, while Lucius bears `El Roi`, “the God who sees me,” on his throat. This guide reads the near-pair as central to the difference between witnessing and surveillance.
+Note from Jen:  I disagree. I thinks its well grounded and there is not a path to him using that signature that would make it not a play on the other. we can hedge the meaning a bit but its pretty clear.  
 
 ### 2. `The catalogue's deepest through-line` needs to remain a guide thesis
 
@@ -170,3 +168,8 @@ A few slogans are excellent but should not stack too tightly. “The antagonist 
 ## Final assessment
 
 This rewrite has the correct conceptual guardrails and fixes the most damaging older error, the fusion of Lucius with the impersonal machine. It does not need a new thesis. It needs the analytical arc announced as analysis at the moment it first appears, and a clearer division between the public doorway and the framework basement. With those changes, the pair will be both credible and easy to enter.
+
+
+--------------
+Jen's notes
+Add hermeticisim to the page to help explain this.  in JT when you don't know how to read something you can often look up or down for a clearer example/metaphor - as above so below.  This is that to the heart mind, imo and helps to understand - don't destroy, make serve. 
