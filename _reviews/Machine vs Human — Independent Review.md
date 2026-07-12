@@ -46,23 +46,8 @@ Prefer:
 
 > In this guide's arc, the machine stops being weather and takes a passenger seat in `Good Time (1:08)`.
 
-### 4. `Nothing about the figure changed but the billing` is too categorical
 
-The brain uses this phrase as shorthand for continuity of the core figure, but the 2026 theatrical role, explicit ownership claims, co-billing, and narrative authority are genuine developments. The costume and central persona were already present in 2023; more than billing changed in how the work deploys him.
-
-Prefer:
-
-> The core figure was already present in 2023; what changes in 2026 is the explicit billing, narrative authority, and ownership claim.
-
-### 5. Lucius as best student and would-be usurper is a strong reading
-
-This distinction is one of the rewrite's best corrections. Keep it. But “the System kept Roy one step from the door for twenty years,” “Lucius is its best student,” and “would-be usurper” are synthesis-level claims, not plain theatrical facts.
-
-Use a reading verb:
-
-> This guide reads Lucius as the System's best student and would-be replacement.
-
-### 6. Gurdjieff and Jung are grounded as public engagements; their local applications are readings
+### 4. Gurdjieff and Jung are grounded as public engagements; their local applications are readings
 
 Roy's engagement with Gurdjieff, his posting of `Man is a machine`, and the Jung page paired with `The Watchers` are grounded public acts.
 
@@ -92,7 +77,7 @@ The Deep End clearly calls the Tiferet and Yesod axis framework correspondence a
 
 The phrase “witnessing is El Roi, Tiferet-recognition” combines a grounded Hebrew name with a Kabbalistic extension. Keep the layers visible:
 
-> Within this framework, surveillance can be read as Yesod severed from Tiferet, while El Roi supplies the separate witnessing image that the guide associates with heart-centered recognition.
+> Within this framework, surveillance can be read as Yesod severed from Tiferet, while El Roi supplies the separate witnessing image that the guide associates with heart-centered recognition.    --- but maybe make it more approachableand less esoteric
 
 ### 3. The Gnostic and Lurianic contrast is too clean
 
@@ -173,3 +158,5 @@ This rewrite has the correct conceptual guardrails and fixes the most damaging o
 --------------
 Jen's notes
 Add hermeticisim to the page to help explain this.  in JT when you don't know how to read something you can often look up or down for a clearer example/metaphor - as above so below.  This is that to the heart mind, imo and helps to understand - don't destroy, make serve. 
+
+Second, I feel like this topic flattens quickly from this is not an attack on technology to - just substitute the work mind for machine and heart for man and lets do that page again.  The online, the attention economy, the social media, the modern distractions of the archons are just flattened to (see the Mind)
