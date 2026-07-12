@@ -937,3 +937,73 @@ body.theme-dark, body.theme-light, .published-container {
 .callout[data-callout="herald"]{   --callout-icon: lucide-megaphone; }         /* announcements, false heralds */
 .callout[data-callout="flame"]{    --callout-icon: lucide-flame; }             /* the false flame, fire material */
 .callout[data-callout="feed"]{     --callout-icon: lucide-message-square-quote; } /* posts & feed quotes */
+
+/* ============================================================= *
+ * DOORWAY TEMPLATE ELEMENTS (Jen 2026-07-11: cleaner, more      *
+ * polished pages) — a gist lead-card, a "go deeper" ribbon,     *
+ * a captions epigraph, and the deep-end door button.           *
+ * ============================================================= */
+
+/* — GIST: the one card everyone reads. Clean lead panel, no title bar. */
+.callout[data-callout="gist"]{
+  --callout-blend-mode: normal;
+  background: rgba(236, 228, 208, 0.05);
+  border: 1px solid rgba(212, 166, 58, 0.28);
+  border-left: 3px solid rgba(212, 166, 58, 0.85);
+  border-radius: 10px;
+  padding: 0.9em 1.2em;
+  margin: 0.3em 0 1.3em;
+  font-size: 1.05em;
+  line-height: 1.75;
+}
+.callout[data-callout="gist"] > .callout-title{ font-style: italic; font-weight: 600; opacity: 0.92; }
+.callout[data-callout="gist"] .callout-icon{ display: none; }   /* Jen uses the title slot for a flourish; show it, drop the icon */
+.callout[data-callout="gist"] .callout-content > :first-child{ margin-top: 0; }
+.callout[data-callout="gist"] .callout-content > :last-child{ margin-bottom: 0; }
+
+/* — DEEPER: a slim centered ribbon between the surface and the drawers. */
+.callout[data-callout="deeper"]{
+  --callout-blend-mode: normal;
+  background: transparent; border: none; box-shadow: none;
+  padding: 0; margin: 1.9em 0 0.7em;
+}
+.callout[data-callout="deeper"] > .callout-title{
+  justify-content: center; gap: 0.7em;
+  font-style: italic; letter-spacing: 0.02em;
+  font-size: 0.9em; font-weight: 500;
+  opacity: 0.62; color: rgb(212, 166, 58);
+}
+.callout[data-callout="deeper"] .callout-icon,
+.callout[data-callout="deeper"] .callout-fold{ display: none; }
+.callout[data-callout="deeper"] > .callout-title::before,
+.callout[data-callout="deeper"] > .callout-title::after{
+  content: ""; flex: 1 1 auto; height: 1px;
+  background: rgba(212, 166, 58, 0.28);
+}
+
+/* — EPIGRAPH: raw captions/quotes get room to breathe (italic, no title bar). */
+.callout[data-callout="epigraph"]{
+  --callout-blend-mode: normal;
+  background: transparent; box-shadow: none;
+  border: none; border-left: 2px solid rgba(212, 166, 58, 0.45);
+  border-radius: 0; padding: 0.1em 0 0.1em 1.1em;
+  margin: 0.5em 0 1.2em;
+  font-style: italic; color: var(--text-muted);
+}
+.callout[data-callout="epigraph"] > .callout-title{ display: none; }
+
+/* — DESCEND: the deep-end door, a button-like descent card (giant pages only). */
+.callout[data-callout="descend"]{
+  --callout-color: 155, 40, 55;
+  --callout-icon: lucide-door-open;
+  --callout-blend-mode: normal;
+  text-align: center;
+  background: rgba(155, 40, 55, 0.08);
+  border: 1px solid rgba(155, 40, 55, 0.45);
+  border-radius: 10px;
+  padding: 0.7em 1em; margin: 1.9em 0 0.4em;
+}
+.callout[data-callout="descend"] > .callout-title{
+  justify-content: center; font-variant: small-caps; letter-spacing: 0.05em;
+}
+.callout[data-callout="descend"] .callout-fold{ display: none; }

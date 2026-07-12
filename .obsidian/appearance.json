@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "field-guide"
+    "field-guide",
+    "field-guide-callouts-mirror"
   ],
   "theme": "moonstone",
   "cssTheme": "Shiba Inu"
