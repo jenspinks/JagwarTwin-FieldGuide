@@ -38,8 +38,6 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > Here is a key that unlocks readings across the catalogue. "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* end-card, and the Kybalion's seven Hermetic principles are transcribed in full on the I'm 33 board — public years before anyone decoded it.
 >
 > Used as a method, it says: when a pattern is hard to read at one scale, look one scale up or down for a clearer copy. And the machine-vs-human split reads as exactly that: the [[Heart and Mind|heart-and-mind]] split one scale up, played out on society and the feed instead of inside one person. Same structure, and, crucially, the same cure. You do not destroy the mind; you make it serve the heart. You do not smash the machine; you re-subordinate it. As above, so below.
->
-> One caution travels with the key, and it comes from the board's own author: on correspondences, the advice on record is essentially *I would map a crow onto Mercury but that's just personal, I don't recommend you do it*. So hold the scale-jump as a way of reading, not a decoder ring. The full Hermetic scaffolding is in the Deep End.
 
 > [!reading]- The feed is its own country
 > The digital-scale material is not a costume on the heart-and-mind story; it is its own grounded terrain, and *33* (2022) names it right on the tracklist: [[Online]], [[Pay Attention (feat. little luna)|Pay Attention]], [[Happy Face]], [[I Like to Party]], with *Imagine A World* and *It's Your Time* as the residual human appeal.
