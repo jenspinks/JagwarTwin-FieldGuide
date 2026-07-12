@@ -45,7 +45,7 @@ Tiferet should remain the source-center or integration horizon, not a character 
 
 
 
-### 4. Several song statements need an immediate reading verb
+### 3. Several song statements need an immediate reading verb
 
 The receipts classify these as strong readings, but the body often states them as plain song operations:
 
@@ -144,3 +144,28 @@ The ordinary-day paragraph about being efficient at work or in a store drifts br
 ## Final assessment
 
 The rewrite has the right center and the right unresolved ending. It does not need a conceptual rebuild. It needs clearer separation among direct public doctrine, song-level interpretation, and esoteric framework, plus a better distribution of material between the doorway and the Deep End. Once those tiers are visible in the prose itself, this can become one of the Field Guide's strongest entry pages.
+
+
+---------------------------
+
+Jen's Notes
+
+"Roy's own line, published in the LOOP..." " author's own voice:", "Roy's own sentence"
+I do not like this phrasing and its used very often. All of the lines above are right at the top of the page. I almost never say that, so I don't know where it is coming from.  Of course its Roy's own line.  Most of the are except when he happens to be quoting.  Talk like a human and be familiar.  this is a guy I speak to daily, not thomas jefferson.  Roy gives us..., Roy points us at, Roy offers this on the subject of, roy often equates, Roy is often, Roy seems to... 
+
+Stop stating that the guide is not placing frames. 
+"The split is not a frame this guide places over the work;" 
+If you provide the evidence then that statement should be implied and is taking up valuable main page space.  
+
+This is an honest field guide but it is not a thesis paper.  
+
+Values:
+1. Be honest to the work and its spirit to the best of our ability.
+2. make the work approachable and appealing, not intimidating and acedemic (at least until the deep end)
+3. While keeping it approachable try to demonstrate the extremely intricate web the concepts weave, how they blend in and out of various traditions and philosophies seamlessly, existing as multiple things at once without conflict, pulling threads together from every direction.  Show the complexity without overwhelming the reader. 
+4. Don't leak the private stuff
+5. follow the other rules when they don't interefere with the first 4.  
+
+
+Mention the Leo Labour on the main page briefly and make sure the 12 labours are part of the deep dive.  This is leo though I think. 
+
