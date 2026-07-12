@@ -158,7 +158,13 @@ Stop stating that the guide is not placing frames.
 If you provide the evidence then that statement should be implied and is taking up valuable main page space.  
 
 Where it Enters
-I think this should also include 
+I think this should also include NYH (and the leo labour):
+Now you're on the dark side (Sucker)  
+But if you choose to tame the beast  
+You got to prove yourself to be  
+A champion, a champion, a champion, a champion  
+A champion, a champion, a champion, a champion
+
 
 This is an honest field guide but it is not a thesis paper.  
 
