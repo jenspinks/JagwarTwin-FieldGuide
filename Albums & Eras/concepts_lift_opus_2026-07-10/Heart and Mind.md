@@ -2,7 +2,7 @@
 title: Heart and Mind
 type: concept
 cssclasses: ["type-concept"]
-status: published
+status: draft
 confidence: mixed
 source_basis: ["released music", "public interviews", "public posts", "official videos"]
 aliases:
@@ -11,84 +11,89 @@ aliases:
 ---
 # Heart and Mind
 
-> **One-line reading.** The whole project serves one sentence, and Roy says it in his own voice: **"My mind must serve my heart."** Not mind *or* heart, mind **under** heart. The entire cast, cosmology, and catalogue are that one hierarchy either holding, breaking, or being put back together.
+> [!gist] My mind must serve my heart
+> Roy's own line, published in the LOOP-era lore: repeated, the story says, as he stepped through the gate.
+>
+> The heart-mind split is the root duality of the work, and it arrives in the author's own voice: the feeling center and the thinking center, and the question that never stops being asked, which of them gets the throne. The answer the work keeps giving is ordering, not war. Not mind *or* heart, mind **under** heart: a magnificent servant, a catastrophic king, one hierarchy either holding, breaking, or being put back together. Learn to hear that argument and the catalogue starts to rhyme.
+>
+> It is a doctrine, not a plot event. The work states it outright, wears it as the two co-credited authors, [[Roy]] and [[Sir Lucius]], and runs it through the songs. It is also honest about where things stand: the reordering is stated in the lore and survived on the record, never staged as a victory. Approaching, not arrived.
 
-If you learn a single doctrine before going deep here, learn this one. Everything else (the Loop and the Circle, the mirror, the shadow, the Circus) is downstream of one split: the feeling center against the thinking center, and the question that never stops being asked, which of them gets the throne. Learn to hear that one argument and the whole catalogue starts to rhyme.
+**Where it enters**
 
-## At a glance
+* "My mind must serve my heart": published as Roy's own sentence in the LOOP-era lore, and echoed in a 2024 interview, where the mind is "a useful tool" that "needs to be subservient to one's own heart." The whole doctrine in one grounded line.
+* Roy's definition of [[Sir Lucius]]: "the mind divorced from the heart." The doctrine wearing a face you can follow.
+* Posted to X in March 2026: "The mind is the slayer of the real. We must slay the slayer." The doctrine with its knife out.
 
-- **In one line:** the mind is a magnificent servant and a catastrophic king, and the arc of the whole project is the long work of re-seating it.
-- **Where it shows up:** everywhere, but most nakedly in [[Roy]] (the heart-voice), [[Sir Lucius]] (Roy's own definition, *"the mind divorced from the heart"*), [[Brandon]] (what got buried when the mind took the house), [[LOOP]] (where the resolution-line is published as lore), and [[SOL]] (the heart-source the mind can't absorb).
-- **Connected ideas:** [[Duality]] · [[The Dweller on the Threshold]] · [[The Voice]] · [[Source vs Reflection]].
-- **Confidence:** the doctrine itself is as grounded as anything in the catalogue (Roy's own repeated words); the esoteric formulations below are strong readings and framework, labeled.
+That is the surface, and it stands on its own. Open a drawer below only for the deeper rooms.
 
-## The one sentence (in Roy's own voice)
+---
 
-Before the Kabbalah and the rest of the machinery, here is the plain version, and it comes with receipts. The placebo effect is real. We have watched the mind alone change the material body, measured it, named it. So "the mind is powerful" isn't a mystic's claim, it's a lab result, and it's a good door into the harder idea: a power that real is a magnificent servant and a catastrophic king. The whole project is about which one you let it be.
+> [!map]- Say it again for the people in the back
+> The split is not a frame this guide places over the work; it is stated creative practice, on the record for years.
+>
+> The earliest version is a wound-report. In a 2021 interview Roy traces the lost years to writing from the head: "I was creating music from my mind, thinking about what would be successful and what other people would like. I really lost my way for a long time... I think evil works a lot more subversively than we think, and it creeps in very slowly."
+>
+> By a 2024 interview it is plain doctrine: "The heart is the key... The mind is a useful tool, of course, but it needs to be subservient to one's own heart and inner guidance system."
+>
+> In the LOOP-era lore it becomes the story's own resolution-line: "My mind must serve my heart," Roy repeated, as he stepped through the gate. Published lore, not a lyric; [[LOOP]] is where the sentence lives.
+>
+> And the March 2026 post on X gives it an edge: "The mind is the slayer of the real. We must slay the slayer" is near-verbatim Blavatsky, from *The Voice of the Silence*. The sentence is hers; the posting of it is his. Read the second half slowly, because it forecloses the obvious misreading. You slay the *slayer*, not the mind. You don't kill the mind, you ask it to serve.
 
-**"My mind must serve my heart."** This is the load-bearing sentence, the one the entire structure hangs off. Roy published it as his own line in the LOOP-era lore, the @jagwartwin narrative spine posted in the run-up to the single, where *"My mind must serve my heart, Roy repeated… as he stepped through the gate."* Press interviews carry the same idea in looser clothes (*"the mind… needs to be subservient to one's own heart"*). Not mind versus heart. Mind kneeling to heart.
+> [!lore]- A map, not the map
+> In the basic symbol map the two poles take seats on the Tree of Life: [[Roy]] at Netzach (Venus: love, feeling, art, devotion) across from [[Sir Lucius]] at Hod (Mercury: analysis, speech, framing, cleverness), with Tiferet, the Sun's station, as the heart-center both of them flank. [[SOL]] reads at home there. The full map lives on [[Kabbalah - The Tree of Life]].
+>
+> The Tree also carries the doctrine's native grammar. In the Kabbalistic frame the two side-pillars are never eliminated; they are held in right order from the middle. Correct ordering, not erasure, is not this catalogue's invention.
+>
+> Hold the seats as a map, not the map: a confident starting placement, left open to deepen page by page.
 
-**"The mind is the slayer of the real. We must slay the slayer."** Posted March 2026, near-verbatim Blavatsky (*The Voice of the Silence*), and the doctrine with its knife out. But read the second sentence slowly: you slay the *slayer*, not the mind. The discipline stays a discipline of ordering. You don't kill the mind, you ask it to serve.
+> [!descend] The Deep End
+> The heavier apparatus behind this page, the Sun at the center, the shattered vessels and their repair, Beth crowned king over Wisdom, the third voice in full, the Dweller at the gate, lives in [[Heart and Mind — The Deep End]]. Dense by design. The page you are on stands without it.
 
-> 🚪 *That sentence comes from a slim Victorian book of aphorisms, written by a woman who taught that the whole universe breathes. Roy seems to have taken more than the one line from her: follow the breath into [[Theosophy]].*
+> [!reading]- Where the songs run it
+> The doctrine keeps body-coordinates: a feeling in the hollow of the chest, somewhere between the heart and the throat. Here is where you can hear it played.
+>
+> * **[[Welcome to the Circus]]** is the mind at full external power, enthroned and ravenous.
+> * **[[SOL]]** is the heart-pole itself: voiced but wordless, the one thing in the catalogue Lucius can suppress but never metabolize. When it plays in the theatrical series he has Roy removed, then sits alone and lets it finish, unsettled. To this guide's eye the moment reads less like rage than like grief, like someone remembering something old. A reading, not a verdict.
+> * **[[Weirdness]]** is the buried light under new management. The lyric carries the blessing, "your weirdness is the sunshine," and late in the song the pronoun flips, *your* to *my*: the blessing finally taken personally. The mind kept filing it as a defect. The heart files it as the light source.
+> * **[[Another Way II Heaven]]** runs it at the largest scale: the split written as creation myth.
 
-**The mind is high, necessary, and dangerous precisely because of its height.** Here is Roy's own gloss on why the antagonist is the mind *enthroned* and not the mind as such: *"in so many different mythologies the intellect, or the rational mind, is equated with... the Lucifer archetype... the most beautiful angel with the most potential to fall."* The mind is not the villain. The mind on the throne is.
+> [!mask]- One quarrel, four masks
+> The characters are this doctrine wearing faces, and the two halves of the polarity do not carry equal weight, so read the labels as you go.
+>
+> **[[Sir Lucius]]** is the grounded half: Roy's own definition, "the mind divorced from the heart," the thinking faculty cut loose from the thing that was supposed to steer it. In a public Mirror Sessions episode Roy adds the gloss that keeps the character from flattening into a devil: "in so many different mythologies the intellect, or the rational mind, is equated with... the Lucifer archetype... the most beautiful angel with the most potential to fall." The mind is not the villain. The mind on the throne is. The full portrait lives on [[Sir Lucius]].
+>
+> **[[Roy]]** holds the heart's corner, and here is the honest asymmetry: the Lucius half of the pairing is Roy-defined; the Roy-as-heart half is this guide's synthesis of the character, one notch softer. It fits everything on his page, the mirror-mission, the long recovery of the buried child, but it is a reading, worn openly.
+>
+> **[[Brandon]]** is, in this reading, what the mind buried to protect: the feeling, stage-joyful child. He used to be a human child, and somebody had to bury him, which is what happens when vulnerability gets locked away for long enough. Sir Lucius, the reading goes, is what grew up around the grave. Hold that as the poetry it is: the wound is in the songs; the mechanism is interpretation.
+>
+> **[[Mary]]** is the least-secure member of this cast, so take the caveat before the reading: she does not appear by name in the *Lucius Lullaby* title-track lyric, and canon holds her less as a named lyric fact than as the working pattern she fits. The pattern itself is precise: the blessing that arrives from outside the argument entirely, "you were born to shine," from a figure whose "face was out of sight." Lucius can out-talk numbers, fear, mockery, even truth. He has no counter for a blessing that isn't a claim. And when a rescuing voice does surface in the title track, the stronger read is that it is Lucius counterfeiting exactly this function, which tells you what the function is worth.
+>
+> For what the divorced mind becomes when repair never comes, the shadow accumulating at the gate until it has a name, a wardrobe, and a co-writing credit, see [[The Dweller on the Threshold]].
 
-**The third voice.** In the same public teaching, the Labors of Hercules livestream, Roy sketches a three-part shape: *"the synthesis between the instinct and the intellect… the intuition… super consciousness, the god voice thing in here."* Hold this one at arm's length from the page's dyad. It's the same three-part *shape* in a different register, instinct below, intellect above it, intuition as the synthesis that outranks both, and it is not a second name for Roy-and-Lucius. Notice, too, how the teaching actually ends, because it refuses to let even the synthesis keep its prize. Hercules captures the doe he loves most; the shadow of that gift, Roy says, is to *"hold too tight and won't let go,"* so the labor completes only in the release. He is commanded to let the doe go, laid on the altar of Apollo the sun-god, where it is *"born again over and over again forever."* Even intuition's catch gets surrendered to the Sun, which is exactly the heart-center this page's cosmology keeps circling. `[~]` the Sun/heart tie is a linking read.
-
-## The cast is the doctrine, with faces
-
-The characters are this doctrine wearing faces. One quarrel, four masks.
-
-- **[[Roy]]** is the heart-voice: Netzach, Venus in the basic symbol map (see [[Kabbalah - The Tree of Life]]), love and feeling and art and devotion, trying to recover the buried child and coax the protector-mind back into service.
-- **[[Sir Lucius]]** is Roy's definition made flesh: *"the mind divorced from the heart."* Hod, Mercury: analysis, speech, framing, cleverness. Here is the whole trap in Roy's own words, from the public Discord lore, that Lucius is *"only telling the truth, at least from his perspective,"* and that truth *"can drag you to hell... because it is only the perspective of the mind."* That's the engine: a mind seeing clearly from a place cut off from the heart, so that even accuracy comes out lethal. (Call the technique selection and emphasis if you like, but the deeper mechanism is Roy's own, the mind's-eye-only truth.) And crucially Roy says *"I made you"*: the divorced mind is self-generated protective material, not an invading demon.
-- **[[Brandon]]** is what the mind buried to protect: the feeling, stage-joyful child who went underground at seven. He used to be a human child, and somebody had to bury him, which is what happens when vulnerability gets locked away for long enough. Sir Lucius is what grew up around the grave.
-- **[[Mary]]** is the blessing the mind can't argue with, arriving from outside the argument entirely: *"you were born to shine."* In the song the figure is a faceless angel (*"her face was out of sight"*), and canon holds Mary less as a named lyric fact than as the working *pattern* she fits. Lucius can out-talk numbers, fear, mockery, even truth. He has no counter for a blessing that isn't a claim.
-
-## The verb is *serve*
-
-Listen to the grammar of the war, because the whole fight turns on a single verb. The bargain runs on a Dylan echo, *"you gotta serve somebody,"* and it is sung in the title track [[Lucius Lullaby]] (*"but you gotta serve somebody, so stop talking and listen"*). Roy flagged the borrowing himself, captioning the song's YouTube Short with the Dylan line. The theatrical Roy v Lucius series stages the same bargain as comedy: in EP2 Lucius shuts down the tender song and works every lever until Roy concedes, *"Fine, I'll give you this one."*
-
-Roy's resolution-line answers with the **same verb**: *"my mind must serve my heart."* The re-ordering here isn't a refusal of servitude, it answers the bargain in its own grammar and reassigns the master. The servant is redirected from the external lords (the metric, the money, the fear, and Lucius himself) toward the internal source. One verb, turned a hundred and eighty degrees.
-
-You can feel the two settings in an ordinary day. Mind leading, at work, even at the store, intellect without heart, and you're great, efficient, armored. Heart first, without the mask, and you're clumsier, more exposed, somehow less great and somehow more real. The doctrine isn't asking you to become the first one. It's asking the first one to serve the second.
-
-And this is the arc of the whole Lucius-era story, not a tidy album ending. It runs from Roy's concession in the theatrical series (*"Fine, I'll give you this one"*), through the album's bargain-verb (*"you gotta serve somebody"*), to the resolution-verb Roy published off-album in the LOOP lore. Say plainly what the record itself does, because it refuses the triumphant version: *Lucius Lullaby* ends not on a victory but on the wordless [[SOL]], the one thing the shadow can't metabolize, and then loops back to Lucius's voice. The re-seating of the mind under the heart is *stated* in the lore, *survived* on the record, and never once staged as a conquest. That's the honest shape of it. Not a funeral for the mind, an embrace: mind and heart held in right relation, the tension kept in order rather than one pole beating the other. Harmony comes from adjusting the degree, not from eliminating a side.
-
-> [!map]- Everything Revolves Around You
-> The doctrine has a cosmological face, and Roy's socials keep circling it: the heart at the center, the way the Sun sits at the center of the solar system. Based on his social-media engagement he seems drawn to the old correspondence, *"as the Sun is the centre of the solar system around which all planets revolve, so the heart is the centre of the human being; around it all the powers of life should be ordered,"* and to its Kabbalistic form, where **the Sun corresponds to Tiphareth, the heart at the center of the Tree of Life** (see [[Kabbalah - The Tree of Life]]; and [[The Colors]], where gold = the Sun = the heart = Tiphareth is the grounded read). It is *"my mind must serve my heart"* enlarged to a cosmology: order everything around the heart-center, then spend the whole work clearing away whatever displaced it. And there's a version of this you can feel without any of the diagram: even if the stars are out of place, even if you're lost along the way, what orients you isn't the external light anymore, it's the heartbeat. `[S]` engagement; the articulation is a third party's, not Roy's own words.
-
-## Where the songs run it
-
-The doctrine isn't only an idea, it keeps body-coordinates: a feeling in the hollow of the chest, somewhere between the heart and the throat. Here is where you can hear it played.
-
-- **[[Welcome to the Circus]]** is the mind at full external power, enthroned and ravenous. Its voice-failure cluster is three different collapses of speech, not one: the teeth *"falling out my mouth"* (the apparatus), *"I'm screaming, but no words come out"* (the voice), and the house rule that silences you outright, *"step right up, shut your mouth."*
-- **[[SOL]]** is the heart-pole itself: voiced but wordless, the one thing in the catalogue Lucius can suppress but never metabolize. When it plays in the theatrical series he has Roy removed, then sits alone and lets it finish, unsettled. Watch him in that moment, though: it reads less like rage than like grief, like someone remembering something old. `[~]`
-- **[[Weirdness]]** is the same light under the wrong management. Roy asks the buried thing what it even is (*"What even ARE you?"*), it answers *"I'm your weirdness,"* and Roy blesses it: *"your weirdness is the sunshine."* The mind kept filing it as a defect. The heart files it as the light source.
-- **[[LOOP]]** is where the resolution-line lives, not as a lyric but as published lore: in the narrative spine Roy fights the loop and steps through a gate repeating *"my mind must serve my heart,"* inside the publicly named chain, LOOP → [[Not Your Homie]] → [[Welcome to the Circus]], with LOOP as its light-side path out.
-- **[[Another Way II Heaven]]** is the split written as creation myth: *"One, become Two,"* and the lyric's lone moment of threatened self-loss, *"I had to remind myself / That 'I' was still 'I'."* It lands exactly at Nine, the deepest point of the descent (*"Split into Five… But when it came to Nine"*), the one beat where the many almost swallow the one.
-
-> [!map]- The House Always Wins (Beth Over Wisdom)
-> The strongest esoteric corroboration arrived printed on the work itself. The *bounce* (Live Underground) title card carries a *Sefer Yetzirah* passage: **"HE MADE THE LETTER BETH KING OVER WISDOM… AND WITH THEM HE FORMED THE MOON."** Read through Beth = house = heart (see [[The House and the Vessel]]), the line states the doctrine as scripture: the heart-letter crowned *king over Wisdom*, which is to say over the mind. Beth is made king over wisdom, so the heart must rule the mind. That's the foundational tenet in one printed verse. The same verse forms *the Moon*, the receptive, vessel-side of the house in this cosmology (see [[The Moon]]), reflected light reaching back toward its source. It can't be grounded harder than a strong reading, the heart-identification routes through the letter-symbolism, but as strong readings go it's the page's smoking gun.
-
-> [!map]- Some Assembly Required (the Tree, the Break, the Repair)
-> In the [[Kabbalah - The Tree of Life]] frame the dyad sits as **Netzach** (Roy, Venus, heart) across from **Hod** (Lucius, Mercury, mind), with **Tiferet / SOL**, the only body that makes its own light, as the source both flank. The [[Keilim - The Breaking of the Vessels|Breaking of the Vessels]] myth gives the doctrine its backstory: the faculties shattered into isolation, each shard hoarding a little light, and *"my mind must serve my heart"* becomes the **tikkun**, the repair-as-ethic, reflected light re-subordinated to its source. This isn't a frame borrowed from outside the work, either, because Roy wrote his own version of it into the art. Hall of Mirrors artifact #84, *David Star — Where The World Was Crossed* (solved code TWISTED LADDER), is a bedtime-story cosmogony of exactly this: kings and queens of time scattered as sparks under the shells, the twisted ladder, the sparks climbing to become constellations. `[~]` that linking read is the guide's. And [[The Dweller on the Threshold]] shows what stands in for repair when repair doesn't happen: the divorced mind piling up at the gate until it has a name, a wardrobe, and a co-writing credit. All framework, all labeled. The correspondence belongs to the traditions Roy demonstrably works in, not to any stated method.
+> [!warning]- The verb is *serve*
+> Listen to the grammar of the war, because the whole fight turns on a single verb.
+>
+> The bargain runs on a Dylan echo, "you gotta serve somebody," sung in the title track of *Lucius Lullaby*; Roy flagged the borrowing himself by captioning the song's YouTube Short with the Dylan line. The resolution answers with the same verb: "my mind must serve my heart." The reordering is not a refusal of the bargain; it answers the bargain in its own grammar and reassigns the master. Service stays constant, only its object moves: away from the external lords (the metric, the money, the fear, and Lucius himself), toward the internal source. One verb, turned a hundred and eighty degrees. The grammar even reaches the skin: "in service to all, in service to the one," inked on Roy's body.
+>
+> You can feel the two settings in an ordinary day. Mind leading, at work, even at the store, and you're great, efficient, armored. Heart first, without the mask, and you're clumsier, more exposed, somehow less great and somehow more real. The doctrine isn't asking you to become the first one. It's asking the first one to serve the second.
+>
+> And say plainly what the record itself does, because it refuses the triumphant version: *Lucius Lullaby* is a sustained descent that ends not on a victory but on the wordless [[SOL]], then loops back to Lucius's voice. That is the honest shape: the ending stays open, and the aim was never a funeral for the mind anyway. Right relation, the tension held in order, neither pole beating the other.
 
 > [!question]- Is Two Even the Whole Map?
-> One open question this guide keeps in its back pocket: a two-pole map might not be the whole geometry. The heart/mind polarity can read as faintly unbalanced, as if a third, light-bearing pole were missing from the pair, and the argument only ever resolves into "order" because we never let the missing piece into the room. One way of seeing it, no more, and it probably belongs on [[Duality]] as much as here.
+> Roy's own public teaching complicates the pair. On an IG Live walking through the Labours of Hercules, he sketches three faculties, not two: "there's a third voice... the synthesis between the instinct and the intellect... the intuition," the god-voice. Hold it at arm's length from this page's dyad: it is the same three-part shape in a different register, instinct is not Roy, intellect is not Lucius, and a hidden third should not quietly become the answer to every scene the two of them play. But it keeps a real question open: the heart/mind polarity can read as faintly unbalanced, as if a third, light-bearing pole were missing from the pair. That one probably belongs on [[Duality]] as much as here, along with the parallel pairings this page leaves alone.
+>
+> The bigger question is the one the whole era runs on: does the arc actually resolve, the mind re-seated and the loop opening into a circle, or does it end with Lucius still the final boss? The lore declares the reordering; the record ends unresolved. This page will not pick for you.
+>
+> Smaller doors left open: does the era's material ever name the character Lucius as the mind outright, in Roy's own voice? The public sessions give the archetype; the explicit link to the character is the missing keystone. Is the split generative or pathological, would the project even exist without it? And is Lucius being redeemed, his distorted light reclaimed, or retired, the construct dissolved once the ordering holds?
 
-## Source notes (what's grounded, what's a guess)
+> [!receipts]- Sources and confidence
+> Grounded in public language: "My mind must serve my heart" (Roy's own line in the LOOP-era lore, echoed in a 2024 interview); the 2021 interview tracing the lost years to writing from the mind; the definition of [[Sir Lucius]] as "the mind divorced from the heart"; the slay-the-slayer post (the sentence is Blavatsky's, the posting is Roy's); the Lucifer-archetype and third-voice teachings, both from public sessions; "you gotta serve somebody" in the title track and the Dylan caption on its YouTube Short; the service tattoo; "your weirdness is the sunshine" in the released lyric.
+>
+> Strong readings, labeled where they stand: Roy as the heart-pole (the guide's synthesis, softer than the Roy-defined Lucius half); the serve-grammar hinge; Brandon as the buried child and Lucius as what grew around the grave; Mary as pattern rather than named fact; the grief-read of Lucius at SOL.
+>
+> Framework, held loosely and attributed to its traditions: the Tree seating, the pillar grammar, the vessels and their repair, the Dweller, the letter crowned king over Wisdom. The dense versions live in [[Heart and Mind — The Deep End]].
+>
+> The usual brake: if the plain reading, mind must serve heart, already carries the figure, the esoteric scaffolding is enrichment, not proof. If any of this starts sounding certain, distrust it a little: certainty is a tone, not a truth. None of this is the answer; it is one way of seeing it.
 
-- **Grounded.** *"My mind must serve my heart"* (repeated, and published as Roy's own line in the LOOP-era lore; its cousin *"In service to all, in service to the one"* is the one actually inked on his body); the slay-the-slayer post (X, March 2026); the Lucifer-archetype quote; the third-voice livestream teaching and the Cancer-doe labor from the same public Live; Roy's Discord gloss on Lucius's truth (*"only the perspective of the mind"*); his definition of Lucius as *"the mind divorced from the heart"*; *"I made you."*
-- **Strong readings.** The Beth / heart-enthroned reading of the *bounce* card; the serve-grammar reading of the bargain and its reversal; the character-map as doctrine-with-faces; the grief read of Lucius at *SOL*.
-- **Framework.** Netzach / Hod / Tiferet, the vessels and the *David Star* cosmogony, the Dweller architecture, named as lenses throughout, never as Roy's stated method.
-- **The usual brake.** If the plain reading (mind must serve heart) already carries the figure, the esoteric scaffolding is enrichment, not proof. And if any of this ever starts sounding certain, distrust it a little: certainty is a tone, not a truth. None of this is the answer, it's one way of seeing it.
-
-## Read next
-
-- [[Roy]] and [[Sir Lucius]]: the two poles, in full.
-- [[Duality]]: the root structure this dyad is the sharpest case of.
-- [[The Voice]]: the third voice, and what silencing does.
-- [[SOL]]: the heart-source, wordless on purpose.
-- [[The Dweller on the Threshold]]: the mind divorced from heart, given a face.
-- [[Kabbalah - The Tree of Life]]: the full map the poles sit on.
+> [!feed]- Read next
+> [[Roy]] · [[Sir Lucius]] · [[Duality]] · [[SOL]] · [[The Dweller on the Threshold]] · [[Kabbalah - The Tree of Life]]
