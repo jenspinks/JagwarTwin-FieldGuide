@@ -16,7 +16,7 @@ verdict: targeted-revision
 
 ## Verdict
 
-**Ship after targeted calibration.** The central doctrine is correct and unusually well grounded. Roy repeatedly describes the mind as useful but dangerous when enthroned, states that it must be subservient to the heart, links rational intellect to the Lucifer archetype, and teaches a larger instinct, intellect, intuition structure. The rewrite also correctly refuses to claim that the record has completed the repair.
+**Ship after targeted calibration.** The central doctrine is correct and unusually well grounded. Roy repeatedly describes the mind as useful but dangerous when enthroned, states that it must be subservient to the heart, links rational intellect to the Lucifer archetype, and teaches a larger instinct, intellect, intuition structure. The rewrite also correctly refuses to claim that the album has completed the repair.
 
 The remaining problems are mostly provenance and tier problems. The page treats a relayed, explicitly non-verbatim character map as a direct quotation; it simultaneously understates Roy's heart assignment; and several song-level and Tree-level readings become declarative before the receipts restore their proper tier.
 
