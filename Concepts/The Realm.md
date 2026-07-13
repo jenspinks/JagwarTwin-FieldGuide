@@ -52,7 +52,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > A strong read of the mechanics, built on the grounded anchors above: each piece of the Realm bypasses a *different* gate. Faire headlining is his own stage, no gatekeeper at the door. The blockchain release sits on-chain, where the label has no rights at all. The owned community, including a direct fan tier whose existence is public, is artist-to-listener with no algorithm in between. Three gates, three doors around them.
 
 > [!warning]- The weather doesn't stop at the border
-> The escape is never perfectly clean, because nothing in this project ever is. The Realm still has to win attention to exist, streams, campaigns, rollouts, so the route around the blockade still runs on the algorithm it was built to escape. A LOOP-era caption says the quiet part out loud: "God brought you here. Well God and the algorithm."
+> The escape is never perfectly clean, because nothing in this project ever is. The Realm still has to win attention to exist, streams, campaigns, rollouts, so the route around the blockade still runs on the algorithm it was built to escape.
 >
 > Read that as a polarity held, not a contradiction caught. The work does not claim to have stepped out of the weather; the arc here is approaching, building, defending, never arrived. The Realm's wager is smaller and better than escape: not a world without weather, but a door the weather does not control.
 
