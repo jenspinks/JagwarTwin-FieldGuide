@@ -10,7 +10,19 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!gist] Heaven in the sky to the Earth below
 > Heaven in your eye from the Earth below.
->
+> 
+> Hermeticism is a foundational Western esoteric and philosophical tradition based on teachings attributed to the mythical figure Hermes Trismegistus. Within the Jagwar Twin project, it serves as a primary cosmological framework used to understand reality, consciousness, and the architecture of the self.  
+> 
+> **Core Axioms and The Kybalion**
+> Roy English has explicitly grounded Hermetic philosophy in the project's lore, listing books like the Hermetica and The Kybalion on his curated reading lists. On his "I'm 33 this year" conceptual board, he transcribed the seven core principles of The Kybalion:  
+> Mentalism: The foundational premise that "The All is Mind… Mind woven into matter".  
+> Correspondence: The famous axiom "as above, so below," which dictates that the structures and laws of reality repeat across all scales, from the cosmic to the personal.  
+> Vibration  
+> Polarity  
+> Rhythm  
+> Cause-and-Effect  
+> Gender  
+> 
 > Hermeticism is the opposite of treating the world as a trap. It holds the cosmos as one coherent, legible law, the same pattern repeating at every scale, galaxy to atom, cosmos to body to mind, a world you can read and climb instead of flee. Its most famous line, out of the Emerald Tablet, is *as above, so below*.
 >
 > Roy didn't just read up on it. He printed the maxim on a music video in 2021, and he transcribed all seven of the Kybalion's principles, verbatim and in full, onto his own board. The song-by-song mappings below are a lens the work fits, not a blueprint, and Roy runs the correspondence-method and disclaims it in the same breath, so if we ever sound sure we are doing it wrong!
