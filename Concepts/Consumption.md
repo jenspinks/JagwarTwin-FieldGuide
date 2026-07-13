@@ -41,7 +41,7 @@ That is the surface, and it stands on its own. The drawers below go one mouth at
 > * **The swallowed pitch.** [[City of Angels]] rotates the pronouns, your dream, my dream, your dream, as the city's sales pitch is aimed at him, swallowed, and re-aimed at the next walker.
 > * **The parasocial bite.** [[Not Your Homie]], and the [[Bounce]] line that lands as *"you just love me for my lore"*, a word still being verified by ear (lore against lure, even Lord; a different song depending on the vowel you trust). The audience devours the mythology and never meets the person.
 >
-> All of this is pattern-reading built on grounded lines, and the contrast pole keeps it honest: the Circus does not own the only mouth in the catalogue. There is also the mouth that testifies (see [[The Mouth]]). *Welcome to the Circus* is brutal precisely because the body that should sing is the body being eaten.
+> All of this is pattern-reading built on grounded lines, and the contrast pole keeps it honest: the Circus does not own the only mouth in the catalogue. There is also the mouth that testifies (see [[The Voice]]). *Welcome to the Circus* is brutal precisely because the body that should sing is the body being eaten.
 
 > [!map]- Jonah Came Back Different
 > This is the page's interpretive spine, and it works as a comparison the songs invite, not something they assert. Scripture is full of being swallowed: Jonah (Jonah 1–2), taken down into the dark for three days and returned changed, and the Eucharist (*"this is my body,"* Luke 22:19), a consumption that is voluntary and nourishing. Those are descent-and-return structures. The Circus uses the same verbs and reverses the outcome: *"I'll chew you up, spit you out"* reads as the anti-Eucharist, the shape of Christ-speech loaded with predatory content.
@@ -82,4 +82,4 @@ That is the surface, and it stands on its own. The drawers below go one mouth at
 > Still open: the [[Bounce]] *"lore"* word, pending the ear; the *Pay Attention* vocal roles (Roy voicing Attention, little luna the guide) read that way but held as a reading until the credits settle it. None of this is the answer; it is one way of seeing it.
 
 > [!feed]- Read next
-> [[The Circus]] · [[The Algorithm]] · [[The Mouth]] · [[Machine vs Human]] · [[Welcome to the Circus]] · [[I Like to Party]]
+> [[The Circus]] · [[The Algorithm]] · [[The Voice]] · [[Machine vs Human]] · [[Welcome to the Circus]] · [[I Like to Party]]

@@ -52,7 +52,7 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 > [!reading]- The Flip and the Funhouse
 > A mirror isn't only an image; it's a *mechanism*, and two operators drive it. The **flip** (One→Two inversion: the self looks into the mirror, flips, and the reflection separates into a twin, Roy→Lucius). And the **distortion** (a *hall* of mirrors is a funhouse, not one honest pane; it stretches, multiplies, inverts). The work is to see *through* the distortions and flip back to the one true face. And the distortion teaches: a caricature exaggerates the truth, which is why the funhouse is a tool and not only a trap.
 >
-> The catalogue carries an evidence-cluster of reversal-codes for exactly this: "think backwards," "born in reverse," "how do you reverse a mirror?", *Rorrim Ehtni* itself ("In the Mirror" spelled backward, traceable to a 2008 Eye Alaska track, the figure's earliest surviving trace), and the בבל⇄לבב (Babel↔heart) letter-flip this guide reads into the same family. The mirror-as-operation is the mechanism layer beneath the clean source/reflection pane. See [[The Flip and the Distorting Mirror]].
+> The catalogue carries an evidence-cluster of reversal-codes for exactly this: "think backwards," "born in reverse," "how do you reverse a mirror?", *Rorrim Ehtni* itself ("In the Mirror" spelled backward, traceable to a 2008 Eye Alaska track, the figure's earliest surviving trace), and the בבל⇄לבב (Babel↔heart) letter-flip this guide reads into the same family. The mirror-as-operation is the mechanism layer beneath the clean source/reflection pane. See [[The Mirror]].
 
 > [!mask]- The Reflection Gets Up and Walks
 > The Empty Mirror shows nothing. The **digital double** is the opposite move, the reflection filled in and given its own body and will. A reflection with autonomy is the surveillance pole made flesh: it *shapes* rather than *witnesses*. The catalogue mostly voices the **fear** of this (clone-dread, the face-thieves of *Online*), not its redemption.
@@ -83,4 +83,4 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 > Everything architectural, the Tree placements, the vessels, the cave, the mirror stage, the letter-mysticism glosses, is framework: attributed to its traditions, permitted by the material, never asserted as stated intent. If the plain "mind severed from heart" doctrine accounts for every Lucius song as well as this apparatus does, the apparatus is decoration. That test stays on the table.
 
 > [!feed]- Read next
-> [[Source vs Reflection]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]] · [[The Empty Mirror]] · [[The Flip and the Distorting Mirror]] · [[The Digital Double]]
+> [[Source vs Reflection]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]] · [[The Empty Mirror]] · [[The Mirror]] · [[The Digital Double]]

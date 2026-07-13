@@ -49,15 +49,12 @@ The reflective machinery, and what it does to whoever stands in front of it. Roy
 - [[Concepts/Witnessing vs Surveillance]]: two ways of being seen: one recognizes you and hands you back to yourself, the other watches, ranks, and quietly reshapes you.
 - [[Concepts/The Digital Double]]: the not-quite-Roy the internet keeps producing: sometimes a real collaborator, sometimes the clone the songs are afraid of becoming.
 - [[Concepts/The Upload]]: Roy's plan to pour his consciousness into the internet, pitched as a joke and then taken seriously enough to get scary.
-- [[Concepts/The Flip and the Distorting Mirror]]: the mirror as a machine with two moving parts: a flip that splits the self, and a warp that multiplies it into masks.
-- [[Concepts/The Veil]]: the curtain between the performance and whatever stands behind it. It closes, and then a voice asks: did you like the show?
 
 ## Voice, body, and territory
 
 The body parts and inner places where the drama actually stages itself.
 
 - [[Concepts/The Voice]]: the real self trying to get a word in past everything that silences, censors, or co-opts it.
-- [[Concepts/The Mouth]]: the single small doorway where song, speech, testimony, eating, and silence all fight for the same real estate.
 - [[Concepts/The Realm]]: the medieval counter-kingdom Roy built to route around the industry's gatekeepers. A castle, but with the drawbridge down on purpose.
 - [[Concepts/The Labyrinth]]: the maze with no exit sign, built so its inhabitant can't think a way out. Thinking, after all, is how you got in.
 - [[Concepts/The Divide]]: the named edge where the leap is chosen; the threshold a seeker crosses on purpose to make the return.

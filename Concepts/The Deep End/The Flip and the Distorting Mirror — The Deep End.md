@@ -9,7 +9,7 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 # The Flip and the Distorting Mirror — The Deep End
 
 > [!gist] The heavy machinery behind [[The Flip and the Distorting Mirror]]
-> This is the dense floor: the confidence audit, the Lurianic overlay, the Tree-of-Life seats, the letter permutations, the retired cipher, and the full shelf of mirror traditions. Dense and speculative by design; everything here is a strong reading or a framework correspondence unless marked otherwise. Start at [[The Flip and the Distorting Mirror]] if you have not.
+> This is the dense floor: the confidence audit, the Lurianic overlay, the Tree-of-Life seats, the letter permutations, the retired cipher, and the full shelf of mirror traditions. Dense and speculative by design; everything here is a strong reading or a framework correspondence unless marked otherwise. Start at [[The Mirror]] if you have not.
 
 ---
 

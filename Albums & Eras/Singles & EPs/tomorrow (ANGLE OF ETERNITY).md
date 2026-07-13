@@ -23,7 +23,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Era / release** — Standalone single, 2024, on Big Loud Records. Not attached to any album; billed as a **Jagwar Twin × lovelytheband** collaboration. (Roy and lovelytheband have real history — he toured with them back in 2019, so this is a reunion, not a cold studio pairing.) Its official visual is a July 2024 *Angle of Eternity* visualizer that Roy captioned as **made by AI** — which quietly makes the song a node in his ongoing digital-double thread.
 - **In one line** — Death recast as a doorway, life recast as remembrance, reality recast as a hologram — and presence as the one floor that never drops out.
 - **Who speaks** — [[Roy|Jagwar Twin]] as the **guide** who takes your hand and walks you through the doorway, in duet with **lovelytheband**. Hold the attribution *lightly*: with six credited writers, the spiritual frame is co-authored, not pure-Roy. The song's real foil, [[Sir Lucius]], never appears in it — he's the contrast the *"I AM"* is measured against, off-page.
-- **Key symbols** — the doorway · the hologram (→ [[Concepts/The Veil]]) · the angle · *"I AM"* · the outstretched hand.
+- **Key symbols** — the doorway · the hologram (→ [[The Veil — The Deep End]]) · the angle · *"I AM"* · the outstretched hand.
 
 ## The song, mapped
 
@@ -63,7 +63,7 @@ One line the song throws off and doesn't unpack — *"in a war that I lost and w
 ## Symbols
 
 - **The doorway** — death as threshold, not terminus: *"if death is just a doorway… where you goin'?"* The door doesn't move; your angle onto it does.
-- **The hologram** — form as the *projection* of deeper information, not the sum of the real. Less "fake" than "expressed." Ties to [[Concepts/The Veil]] (the world as holographic illusion).
+- **The hologram** — form as the *projection* of deeper information, not the sum of the real. Less "fake" than "expressed." Ties to [[The Veil — The Deep End]] (the world as holographic illusion).
 - **The angle** — perspective, orientation: whether you're looking from fear/separation or from eternity/remembrance.
 - **"I AM"** — the divine name (Exodus 3:14); the audience-independent, self-existent identity. The song's terminal symbol — presence itself, with nothing behind it.
 - **The hand** — *"take my hand, I'll help you remember."* The guide's gesture; the psychopomp's grip that leads you through.
@@ -75,7 +75,7 @@ One line the song throws off and doesn't unpack — *"in a war that I lost and w
 - [[LOOP]] · [[Bounce]] — the **contrast**: where these *dread* the simulation, tomorrow *accepts* the hologram and transcends it by remembering.
 - [[Welcome to the Circus]] — the **identity** contrast: source-self (*"I AM"*) versus audience-self (*"I'm the one they're talking 'bout"*).
 - [[Concepts/Duality]] — uncertainty held as a **polarity**, not eliminated.
-- [[Concepts/The Veil]] — holographic illusion; form as projection.
+- [[The Veil — The Deep End]] — holographic illusion; form as projection.
 - [[Life Is Good]] — the **deepest cross-link**: both songs refuse certainty and ideological possession and choose presence instead — tomorrow spiritually (*"and that's fine with me"*), Life Is Good playfully (*"too happy to choose"*). Same underlying question: how do you stay human when the world is too much?
 - [[Good Time (1-08)]] — the **uncertainty kinship**: *"I don't know what I'm looking for,"* held *without* grabbing a false answer, sits Good Time closer to tomorrow than to a party anthem. (Lucius is the psyche-part that *can't tolerate* not knowing; both songs are the anti-Lucius confession.)
 - [[Concepts/The Digital Double]] — via the AI-made *Angle of Eternity* visualizer (July 2024), tomorrow joins Roy's documented AI / digital-double thread.
@@ -188,4 +188,4 @@ I AM
 - [[The Circle]] — the companion remembrance-cosmology; *"she once held the string."*
 - [[Welcome to the Circus]] — Lucius's audience-identity, the photo-negative of *"I AM."*
 - [[Life Is Good]] — the deepest cross-link: refusing certainty and choosing presence, in a lighter key.
-- [[Concepts/The Veil]] — the hologram, the projection, the world as screen.
+- [[The Veil — The Deep End]] — the hologram, the projection, the world as screen.

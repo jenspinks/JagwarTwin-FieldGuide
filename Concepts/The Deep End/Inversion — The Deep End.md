@@ -97,4 +97,4 @@ This is the deep water behind [[Inversion]]: the full esoteric and scriptural ap
 > The grounded floor for this whole page lives on the main [[Inversion]] receipts. What this companion adds is framework: Qliphoth and Thaumiel, *imitatio diaboli*, tzimtzum, the Light-Bearer's tarot stream, the Hanged Man's cousins, the three-stream correction, Beth and Hermes. Every one is a correspondence attributed to a named tradition, a rhyme rather than a receipt; the work permits these resonances and states none of them. Where scripture is quoted, it is the tradition speaking, not the songwriter. None of this is the answer; it is one way of seeing it.
 
 > [!feed]- Read next
-> [[Inversion]] · [[Sir Lucius]] · [[The Light-Bearer]] · [[Source vs Reflection]] · [[The Flip and the Distorting Mirror]] · [[Duality]]
+> [[Inversion]] · [[Sir Lucius]] · [[The Light-Bearer]] · [[Source vs Reflection]] · [[The Mirror]] · [[Duality]]

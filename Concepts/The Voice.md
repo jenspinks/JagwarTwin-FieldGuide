@@ -77,4 +77,4 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > None of this is the answer; it is one way of seeing it.
 
 > [!feed]- Read next
-> [[The Mouth]] · [[Mary]] · [[Sir Lucius]] · [[The Algorithm]] · [[SOL]] · [[Welcome to the Circus]]
+> [[Consumption]] · [[Mary]] · [[Sir Lucius]] · [[The Algorithm]] · [[SOL]] · [[Welcome to the Circus]]

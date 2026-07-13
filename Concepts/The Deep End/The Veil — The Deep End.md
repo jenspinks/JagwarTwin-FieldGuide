@@ -9,7 +9,7 @@ source_basis: ["released music", "public posts", "official videos"]
 # The Veil — The Deep End
 
 > [!gist] The heavy machinery behind [[The Veil]]
-> This is the dense floor: the temple veil read in full, the cave and the mystery schools, the second Kabbalistic veil, the trickster in the face paint, the curtain-god, the faceless feminine, and the unveiling reading. Dense and speculative by design; everything here is framework or strong reading unless marked otherwise, and none of it is required to walk through the main page. Start at [[The Veil]] if you have not.
+> This is the dense floor: the temple veil read in full, the cave and the mystery schools, the second Kabbalistic veil, the trickster in the face paint, the curtain-god, the faceless feminine, and the unveiling reading. Dense and speculative by design; everything here is framework or strong reading unless marked otherwise, and none of it is required to walk through the main page. Start at [[The Mask]] if you have not.
 
 ---
 

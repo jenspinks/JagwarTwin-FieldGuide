@@ -23,7 +23,7 @@ The album's capstone before the closer. *33* spends nine tracks diagnosing a wor
 - **Era / release** — *33* (2022, Big Loud Rock), track 9 of 10, the penultimate track. Runtime 4:44.
 - **In one line** — imagination as authorship of your own world, running wonder → false gods → media conditioning → the Eden within.
 - **Who speaks** — Roy, as the inviting voice, addressing **the listener** the whole way through — *you* ×35, *I* ×0. The most other-directed song on the album. (Sir Lucius is *in* it, disguised — see OZ.)
-- **Key symbols** — the Garden of Eden (relocated inward) · [[The Mirror|the Mirror]] (parents as reflections) · [[Concepts/The Veil|OZ / the man behind the curtain]] · "Those Thoughts" (the conditioning force).
+- **Key symbols** — the Garden of Eden (relocated inward) · [[The Mirror|the Mirror]] (parents as reflections) · [[The Veil — The Deep End|OZ / the man behind the curtain]] · "Those Thoughts" (the conditioning force).
 
 ## The song, mapped
 
@@ -79,7 +79,7 @@ A few claims that cut across the whole thing:
 
 - **The Garden of Eden** — relocated from lost history to interior consciousness; paradise as a state you conceive, not a place you return to.
 - [[The Mirror|The Mirror]] — parents named as *"reflections of who you are,"* folding the catalogue's mirror motif into the family itself.
-- [[Concepts/The Veil|OZ / the man behind the curtain]] — the fabricated god; the disguise stretched over the machinery. The "designed God" made concrete, and the closest thing the song has to a villain.
+- [[The Veil — The Deep End|OZ / the man behind the curtain]] — the fabricated god; the disguise stretched over the machinery. The "designed God" made concrete, and the closest thing the song has to a villain.
 - **"Those Thoughts"** *(capitalized in the lyric)* — the conditioning/programming force: cable news plus labeling, personified as an intruding agent that "takes ahold of you." The attention-economy critique given a proper noun.
 
 ## Connected songs

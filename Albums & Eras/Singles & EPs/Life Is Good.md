@@ -25,7 +25,7 @@ A nursery rhyme about the end of the world. That's the whole trick of it: a brig
 - **Era / release** — standalone single, early November 2023; Jagwar Twin's collaboration with **angelbaby**, an AI/virtual artist. It arrived first as a limited Web3 drop on **Sound.xyz** (a 0.01-ETH edition), then everywhere on DSPs days later. Toured heavily through 2024 into 2025 (Slovakia, May 2024; Brussels, June 2024; Dubai, December 2024), often with angelbaby credited as the on-screen "sound."
 - **In one line** — the smile you choose *against* the flames, held so deliberately you can't quite tell if it's wisdom or evasion — and the song won't tell you which.
 - **Who speaks** — [[Roy|Jagwar Twin]] as the bright-surfaced bard *and* the one confessing underneath, co-voiced by an AI. Addressed to the crowd — "kids" gathered for a song.
-- **Key symbols** — the [[Concepts/The Voice|antenna]] (the mind as receiver) · the smile · the [[Fire|flames]] · the circle 'round the sun · the [[Concepts/The Veil|illusion]] / plastic reality.
+- **Key symbols** — the [[Concepts/The Voice|antenna]] (the mind as receiver) · the smile · the [[Fire|flames]] · the circle 'round the sun · the [[The Veil — The Deep End|illusion]] / plastic reality.
 
 ## The song, mapped
 
@@ -74,7 +74,7 @@ The deepest kinship in the catalogue is with **[[tomorrow (ANGLE OF ETERNITY)]]*
 - **The smile** — joy held as a *chosen* posture against the flames; the load-bearing ambiguity, defiance or evasion, deliberately unresolved.
 - **The [[Fire|flames]]** — *"the world's in flames"*; the burning world the joy is chosen against, the apocalyptic backdrop it shares with [[All My Friends]]. The line became its own social shorthand — Jagwar Twin kept re-posting *"the world's in flames 🐇"* clips (the rabbit emoji tying the chorus into the wider rabbit iconography) long after release.
 - **The circle 'round the sun** — a year turning, cyclical time; the corrected *"Another"* points it at [[Concepts/The Loop and the Circle|LOOP]]'s mechanical recurrence — another lap, same track.
-- **The [[Concepts/The Veil|illusion]] / plastic reality** — *"is this real or am I in an illusion" / "living in a lie and we can't see the truth"*; the fake-reality and media cluster, quietly sharpened by *who* is co-singing it.
+- **The [[The Veil — The Deep End|illusion]] / plastic reality** — *"is this real or am I in an illusion" / "living in a lie and we can't see the truth"*; the fake-reality and media cluster, quietly sharpened by *who* is co-singing it.
 - **The body-that-moves-on-its-own** — *"face down but I can feel my body moving"*; kinetic dissociation, the mind detached from the moving body (the [[Bounce]] image).
 - **The news, turned off** — *"so I turn off the news"*; media-withdrawal as a survival move against the overload.
 

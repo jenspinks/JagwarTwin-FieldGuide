@@ -8,7 +8,7 @@ source_basis: ["released music", "public posts", "official videos"]
 ---
 # The Mouth — The Deep End
 
-This is the deep water under [[The Mouth]]: the throat in the Kabbalistic body-map, the letter-mysticism braid, the King James mouth-texts, and the more speculative threads. Dense and speculative by design; everything here is correspondence read *against* the work, attributed to its traditions, not architecture Roy has stated. The main page stands without any of it.
+This is the deep water under the mouth pages ([[The Voice]] and [[Consumption]]): the throat in the Kabbalistic body-map, the letter-mysticism braid, the King James mouth-texts, and the more speculative threads. Dense and speculative by design; everything here is correspondence read *against* the work, attributed to its traditions, not architecture Roy has stated. The main page stands without any of it.
 
 > [!map]- Mind the gap (Da'at and the throat)
 > In the Kabbalistic body-map the throat sits at **Da'at**, the hidden non-sephirah, the gate where interior knowing crosses the abyss and comes out as utterance. The throat is where breath becomes voice, where the inner thing meets the world, and Da'at is the name for how narrow that crossing is. Read through that frame, it lands as no accident that [[Sir Lucius]] wears his *El Roi* marking (אל ראי, "the God who sees me," Genesis 16:13) precisely there, at the utterance-gate, the organ of the very line *"you don't know me."*
@@ -40,4 +40,4 @@ This is the deep water under [[The Mouth]]: the throat in the Kabbalistic body-m
 > If the plain reading, the mouth as the doorway between inside and outside, accounts for every mouth-line as well as the apparatus above does, the apparatus is decorative. If the nonsense receipt never surfaces in Roy's voice, the vocable-as-technique reading stays interpretive forever. Both falsifiers stay on the table, and there is no shame in it: not everything here has to mean, and if any of this ever sounds too sure, that is the tell that it is being pushed too hard.
 
 > [!feed]- Back up
-> [[The Mouth]] · [[Letters of Creation|The Angels and the Angles]] · [[Sir Lucius]] · [[Inversion]]
+> [[The Voice]] · [[Letters of Creation|The Angels and the Angles]] · [[Sir Lucius]] · [[Inversion]]

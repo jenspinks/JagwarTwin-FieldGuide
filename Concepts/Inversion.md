@@ -87,4 +87,4 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > This page draws only on released music, public interviews and posts, official videos, and public artifacts. None of this is the answer; it is one way of seeing it.
 
 > [!feed]- Read next
-> [[Sir Lucius]] · [[The Flip and the Distorting Mirror]] · [[The Mirror]] · [[The Light-Bearer]] · [[Welcome to the Circus]] · [[Source vs Reflection]]
+> [[Sir Lucius]] · [[The Mirror]] · [[The Light-Bearer]] · [[Welcome to the Circus]] · [[Source vs Reflection]]
