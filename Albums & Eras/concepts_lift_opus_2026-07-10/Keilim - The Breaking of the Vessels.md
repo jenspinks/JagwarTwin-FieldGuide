@@ -12,12 +12,12 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > I'm in pieces, looking for pieces of one piece.
 >
 > Developed by the 16th-century mystic Isaac Luria, this doctrine posits that at the beginning of creation, the divine light (Ein Sof) was poured into vessels (Keilim) designed to hold it. These vessels were not strong enough to contain the infinite light, causing them to shatter (Shevirat HaKelim).  
-> The Sparks: As the vessels broke, fragments of divine light (sparks or nitzotzot) were scattered and became trapped within the shards of the broken vessels, which transformed into darkened husks (Kelipot).  
-> Tikkun: The work of the soul is Tikkun Olam (repairing the world) by gathering these scattered sparks and returning them to their source, thereby reuniting the divided divine presence (Shekhinah).  
+> **The Sparks**: As the vessels broke, fragments of divine light (sparks or nitzotzot) were scattered and became trapped within the shards of the broken vessels, which transformed into darkened husks (Kelipot).  
+> **Tikkun:** The work of the soul is Tikkun Olam (repairing the world) by gathering these scattered sparks and returning them to their source, thereby reuniting the divided divine presence (Shekhinah).  
 > 
-   The Vessel in the Vault 
+   **The Vessel in the Vault** 
    This is an interpretive lens for the artist’s own narrative and psychological arc.
-     **The Wounding as Shattering:** The biographical and theatrical "wounding" of the protagonist (e.g., the childhood burial of the "ballerina boy" or the collapse at age 35) is read as the Shevirat HaKelim—the point where the self shattered under pressure.  ``
+     **The Wounding as Shattering:** The biographical and theatrical "wounding" of the protagonist (e.g., the childhood burial of the "ballerina boy" or the collapse at age 35) is read as the Shevirat HaKelim—the point where the self shattered under pressure.  `********`
      **Lucius as the Kelipot:** The Kelipot (husks) are the shells that trap the light. Within the project, [[Sir Lucius]] functions as the protective shell formed around Roy’s unintegrated material. He is "real light in a sterile vessel" (e.g., the symbolism of the sterile Cavendish banana). He preserves the light, but he also prevents it from fully circulating or evolving.  The Song as the Spark: The project treats "the song" (the authentic voice / [[Brain/Concepts/The Thread|The Thread]]) as the spark that must be recovered. The recurring motif of "songs hidden inside wings" or "songs you never heard" points to this latent divinity that is trapped but not extinguished. 
 > 
 
