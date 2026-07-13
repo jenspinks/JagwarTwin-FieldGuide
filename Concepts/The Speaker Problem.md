@@ -62,7 +62,7 @@ This is why the layered "I" never resolves into a confession and the drifting "y
 ## Connections
 
 - [[Concepts/Source vs Reflection]] — the **genus**. The Speaker Problem is its pronoun-level enactment: the "I" facing "you" *is* the source-and-reflection relation.
-- [[The Mirror]] — the **parent device**. The Speaker Problem is one of its four children — the device *at the level of grammar* — alongside Source vs Reflection (the ethical test), [[Concepts/The Empty Mirror]] (the failure state), and [[Concepts/The Flip and the Distorting Mirror]] (the operation).
+- [[The Mirror]] — the **parent device**. The Speaker Problem is one of its four children — the device *at the level of grammar* — alongside Source vs Reflection (the ethical test), [[Concepts/The Empty Mirror]] (the failure state), and the flip-and-distortion operation, now folded into [[The Mirror]] itself.
 - [[Concepts/Pronoun Audit (I-You)]] — the **companion data page**: the I-to-you machine measured across [[33]] and [[Lucius Lullaby (album)|Lucius Lullaby]].
 - [[Roy]] / [[Sir Lucius]] / [[Concepts/The Protector]] — the **layered selves** behind "who is speaking?" Lucius is the Protector crystallized — the reflection that gained autonomy and started speaking as if it were the source.
 - [[Concepts/Witnessing vs Surveillance]] — being *seen*, and by whom, is the flip side of who *speaks*; the 2015 "mystery man" era lives here.

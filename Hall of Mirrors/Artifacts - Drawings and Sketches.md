@@ -100,7 +100,7 @@ The Eye of Horus taken apart into its six pieces, each one labelled with its sen
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd722c486ba8a39b19cd81b4f5b5cac3b977934026d04ec6515e0f8d5ea6af4d9..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd722c486ba8a39b19cd81b4f5b5cac3b977934026d04ec6515e0f8d5ea6af4d9..png" width="300"></a>
 
 A number pyramid of Plato's World-Soul (from the *Timaeus*): apex 1, then 2 and 3, then 4, 6, 9, then 8, 12, 18, 27, powers of two running down one leg and powers of three down the other. Chart the interval-ratios on this grid and you get the Lambdoma, where the ratios (the octave, the fifth, the fourth) are literally the raw material of the musical scale: a cosmos tuned by number. The code *"REALITY IS THE CHILD OF ILLUSION"* gives it a Gnostic spin, the manifest world generated out of ratio and appearance, one becoming many by rule.
-**Connects to →** [[Another Way II Heaven]] · [[Concepts/The Pattern]] · [[Concepts/The Veil]] · [[Kabbalah - The Tree of Life]]
+**Connects to →** [[Another Way II Heaven]] · [[Concepts/The Pattern]] · [[The Veil — The Deep End]] · [[Kabbalah - The Tree of Life]]
 
 ### #129 · Flaming Sword (the Lightning Flash) · `FLAMING SWORD`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1ad56b416247b87eb875a0d780ee8e20deb6382df9d12e3487e8585317641671..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1ad56b416247b87eb875a0d780ee8e20deb6382df9d12e3487e8585317641671..jpg" width="300"></a>

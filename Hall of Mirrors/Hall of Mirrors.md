@@ -75,7 +75,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 - [[Concepts/The Upload]] — the cosmology the maze externalizes; the "uploaded consciousness" premise the whole thing runs on.
 - [[Concepts/The Pattern]] — the symbolic operating system the artifacts catalogue; the "How to Live Forever?" page is it in worksheet form.
 - [[The Mirror]] · [[Concepts/Source vs Reflection]] — the *hall of mirrors* namesake: the self seen as someone else.
-- [[Concepts/The Flip and the Distorting Mirror]] — why it's a *Hall* and not a single pane (the funhouse reading, below).
+- [[The Mirror]] — why it's a *Hall* and not a single pane (the funhouse reading, below).
 - [[SARAVI]] — the AI oracle-interface said to have "built" the maze out of the upload.
 - [[Sir Lucius]] · [[Sir Rabbit]] — the figure whose mirror-nature gives the maze its name, and the proto-origin poem hidden inside it (Room 51).
 - [[The Watchers]] — the song where reflection escalates into surveillance: "the moment the Hall of Mirrors grows eyes."
@@ -87,7 +87,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 ## Advanced reading
 
 > [!note]- Advanced reading — why it's a *Hall* and not a single Mirror
-> The name does specific work. A mirror returns one true reflection; a **hall of mirrors** is a funhouse — it stretches, multiplies, and inverts. Read as a lived structure, the sequence is: **mirror → flip** (One becomes Two; Roy becomes [[Sir Lucius]]) **→ distortion** (the funhouse multiplies the reflection into masks) **→ the work** of seeing through the distortions and flipping back to the one true face. The artifacts are fragments and distorted reflections of the maker's psyche; the journey is self-recognition *amid the warping*. That's precisely why it's a maze you walk rather than a mirror you glance into — and Roy's own launch-week warning, *"things tend to flip when inside the Hall of Mirrors,"* is the reversal mechanic stated outright (some codes are answers spelled backwards: RORRIM = mirror, reversed). See [[Concepts/The Flip and the Distorting Mirror]].
+> The name does specific work. A mirror returns one true reflection; a **hall of mirrors** is a funhouse — it stretches, multiplies, and inverts. Read as a lived structure, the sequence is: **mirror → flip** (One becomes Two; Roy becomes [[Sir Lucius]]) **→ distortion** (the funhouse multiplies the reflection into masks) **→ the work** of seeing through the distortions and flipping back to the one true face. The artifacts are fragments and distorted reflections of the maker's psyche; the journey is self-recognition *amid the warping*. That's precisely why it's a maze you walk rather than a mirror you glance into — and Roy's own launch-week warning, *"things tend to flip when inside the Hall of Mirrors,"* is the reversal mechanic stated outright (some codes are answers spelled backwards: RORRIM = mirror, reversed). See [[The Mirror]].
 
 > [!note]- Advanced reading — the maze as memory palace, and its surveillance shadow
 > Grounded: the Hall is the project's **externalized memory palace.** It takes private archive material — drawings, diary pages, family objects, old tweets, board labels — and turns it into a *public* concordance of one artist's symbolic vocabulary. That is the load-bearing point: the artifacts are building blocks of the universe, not bonus trivia.
