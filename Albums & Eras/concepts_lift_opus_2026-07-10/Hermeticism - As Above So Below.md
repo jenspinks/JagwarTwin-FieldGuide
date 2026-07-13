@@ -13,7 +13,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 >
 > Hermeticism is the opposite of treating the world as a trap. It holds the cosmos as one coherent, legible law, the same pattern repeating at every scale, galaxy to atom, cosmos to body to mind, a world you can read and climb instead of flee. Its most famous line, out of the Emerald Tablet, is *as above, so below*.
 >
-> Roy didn't just read up on it. He printed the maxim on a music video in 2021, years before anyone worked out where he got it, and he transcribed all seven of the Kybalion's principles, verbatim and in full, onto his own board. That engagement is grounded fact. The song-by-song mappings below are a lens the work fits, not a blueprint, and Roy runs the correspondence-method and disclaims it in the same breath. If this page ever sounds sure, it's doing it wrong.
+> Roy didn't just read up on it. He printed the maxim on a music video in 2021, and he transcribed all seven of the Kybalion's principles, verbatim and in full, onto his own board. That engagement is grounded fact. The song-by-song mappings below are a lens the work fits, not a blueprint, and Roy runs the correspondence-method and disclaims it in the same breath. If this page ever sounds sure, it's doing it wrong.
 
 **Where it enters**
 
