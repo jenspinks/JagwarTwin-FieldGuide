@@ -25,6 +25,7 @@ Rather listen first? Play **[[The Circle]]**, then **[[Happy Face]]**.
 - **[[Songs]]** — readings of individual songs, era by era.
 - **[[Albums & Eras]]** — the larger arcs: *Subject to Flooding*, *33*, *Lucius Lullaby*.
 - **[[Reading Paths]]** — guided routes through the material if you'd rather follow a thread than browse.
+- **[[The Map]]** — the map of the whole cosmos: every page in the guide, in one place, for when you already know what you are hunting for.
 
 ---
 
