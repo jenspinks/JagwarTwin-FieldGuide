@@ -82,6 +82,8 @@ Jen- but they mostly were.
 
 Roman public execution and martyrdom occurred within the wider culture of spectacle, but “the circus” was not one single standardized martyr-site, and amphitheaters, arenas, and circuses should not be treated as interchangeable.
 
+Jen - but they all tended to be circles of spectacle.  I don't think this is too far for "the deep end" section.  We are speculating here in the deep in.  
+
 Revise toward:
 
 > Roman spectacle culture included public punishment and execution in arenas and related venues, allowing the song’s language of spectatorship and consumption to acquire a darker historical resonance.
@@ -89,6 +91,8 @@ Revise toward:
 The 1 Corinthians connection is framework, not evidence that this lyric invokes martyrdom.
 
 ### 6. The Eucharist and Jonah inversions are highly speculative
+
+Jen - Maybe make sure to include a mild speculation notice in the intro but this is absolutly the kind of exploration I want in deep end. No, it should not be framed as truth or actual intent, but it belongs .
 
 “Step right up” as an inversion of “come unto me,” and “chew you up, spit you out” as Eucharist or Jonah reversed, are clever but very weakly anchored. They risk making ordinary carnival/digestion idioms look like deliberate scriptural inversion.
 
@@ -98,11 +102,15 @@ Either remove them or mark them as exploratory resonances with explicit falsifie
 
 “Malkhut worshipped as Keter” and “Yesod industrialized” are useful advanced readings, but the full Tree map belongs on the Tree page. Keep a brief link rather than restating the architecture here.
 
+This was brief and it does belong to that lyric.  This shouldn't sound so much llike a correction because its good as it is.  It should not develop the idea, and recommending linking to the tree page is a good suggestion but don't discourage this. 
+
 ### 8. The Nemean Lion mapping remains per-song speculation
 
-Roy’s active engagement with Bailey is grounded. The claim that `Welcome to the Circus` is specifically the Nemean Lion before the cave is not grounded by that engagement alone. `Not Your Homie` mentioning taming the Beast supports a wider beast/lion cluster, not this exact labor assignment.
+Roy’s active engagement with Bailey is grounded. The claim that `Welcome to the Circus` is specifically the Nemean Lion before the cave is not grounded by that engagement alone. `Not Your Homie` mentioning taming the Beast supports a wider beast/lion cluster, not this exact labor assignment. 
 
-Keep at resonance or position level, not as an interpretive layer equal to the Circus’s directly grounded social-media and spectacle readings.
+Keep at resonance or position level, not as an interpretive layer equal to the Circus’s directly grounded social-media and spectacle readings. 
+
+Jen - It is an interpretive layer as Roy has brought the catalogue back to the 12 labours more than anything else.  NYM is the 
 
 ### 9. Verify attribution status of posted Gurdjieff and Bailey quotations
 
