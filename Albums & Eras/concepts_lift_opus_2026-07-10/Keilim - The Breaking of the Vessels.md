@@ -11,9 +11,15 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > [!gist] I am at peace, in peace, in pieces
 > I'm in pieces, looking for pieces of one piece.
 >
-> Keilim is the myth where creation begins with a break: a divine light too strong for the cups it was poured into, so the vessels shatter, the light scatters into sparks that lodge inside broken shells, and the work left to everyone after is *tikkun*, the patient gathering-back. The myth belongs to one specific tradition, the Kabbalah taught by Isaac Luria in sixteenth-century Safed, and this guide holds it as its governing lens for the catalogue's central fracture: a strong reading laid over a genuinely grounded floor, never a claim about what Roy intends.
->
-> The floor is real, though. Roy gives us the word *vessel* himself, in a 2026 post: *"Done being a person. I'm just a vessel for God,"* devotional on its face before it is anything technical. His I'm 33 board names the Tree of Life the vessels belong to, and the seating he has given directly puts Roy at Netzach (Venus, the heart) and [[Sir Lucius]] at Hod (Mercury, the mind). And one solved Hall of Mirrors poem writes the whole myth out, shape and all, in his own hand as a bedtime story. Within this lens the Roy/Lucius split reads as the broken vessel and *"my mind must serve my heart"* as the repair, with repair understood as restored relation, never a finished merger. The break is everywhere in the work; the gathering is still underway.
+> Developed by the 16th-century mystic Isaac Luria, this doctrine posits that at the beginning of creation, the divine light (Ein Sof) was poured into vessels (Keilim) designed to hold it. These vessels were not strong enough to contain the infinite light, causing them to shatter (Shevirat HaKelim).  
+> The Sparks: As the vessels broke, fragments of divine light (sparks or nitzotzot) were scattered and became trapped within the shards of the broken vessels, which transformed into darkened husks (Kelipot).  
+> Tikkun: The work of the soul is Tikkun Olam (repairing the world) by gathering these scattered sparks and returning them to their source, thereby reuniting the divided divine presence (Shekhinah).  
+> 
+   The Vessel in the Vault 
+   This is an interpretive lens for the artist’s own narrative and psychological arc.
+     **The Wounding as Shattering:** The biographical and theatrical "wounding" of the protagonist (e.g., the childhood burial of the "ballerina boy" or the collapse at age 35) is read as the Shevirat HaKelim—the point where the self shattered under pressure.  ``
+     **Lucius as the Kelipot:** The Kelipot (husks) are the shells that trap the light. Within the project, [[Sir Lucius]] functions as the protective shell formed around Roy’s unintegrated material. He is "real light in a sterile vessel" (e.g., the symbolism of the sterile Cavendish banana). He preserves the light, but he also prevents it from fully circulating or evolving.  The Song as the Spark: The project treats "the song" (the authentic voice / [[Brain/Concepts/The Thread|The Thread]]) as the spark that must be recovered. The recurring motif of "songs hidden inside wings" or "songs you never heard" points to this latent divinity that is trapped but not extinguished. 
+> 
 
 **Where it enters**
 
