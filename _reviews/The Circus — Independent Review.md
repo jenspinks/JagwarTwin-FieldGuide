@@ -110,11 +110,13 @@ Roy’s active engagement with Bailey is grounded. The claim that `Welcome to th
 
 Keep at resonance or position level, not as an interpretive layer equal to the Circus’s directly grounded social-media and spectacle readings. 
 
-Jen - It is an interpretive layer as Roy has brought the catalogue back to the 12 labours more than anything else.  NYM is the 
+Jen - I am all for mapping wttc to bailey because roy brings it back to this book more often then any other.  I do also question whether WTTC is also leo.  NYH is leo, i have heard him say it and then tie it to the tarot card where the woman is almost comforting the lion in the picture.  
 
 ### 9. Verify attribution status of posted Gurdjieff and Bailey quotations
 
 If Roy posted a quote-card, the grounded fact is that **Roy posted words attributed to Gurdjieff or Bailey**. Unless the underlying primary text has been checked, do not state the line as an authenticated quotation from that author. This is especially important for “you can never awaken using the same system that put you to sleep,” a sentence that circulates widely online in paraphrased form.
+
+Jen - i believe he provided the attrubution so we should honor it.  
 
 ### 10. `Hermes = Mercury = Beth` should be removed
 
@@ -122,9 +124,9 @@ Hermes and Mercury are Greek/Roman equivalents. Beth is a Hebrew letter and does
 
 The sentence currently collapses deity, planet, and Hebrew letter into one object. Remove it unless the Letters of Creation page supplies a precise, historically sourced correspondence.
 
-### 11. BMRC metadata is public production-layer evidence, not spoken canon
+Jen - proceed as we discussed earlier 
 
-The page correctly notes that `Black Magic Rainbow Circus` comes from site metadata rather than Roy’s spoken line. Keep that distinction prominent. The parsing of Black/Magic/Rainbow/Circus into captured Roy symbols is interpretation.
+
 
 ## Themes and connections worth preserving
 
