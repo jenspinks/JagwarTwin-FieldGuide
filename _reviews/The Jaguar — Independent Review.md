@@ -16,135 +16,161 @@ verdict: targeted-revision
 
 ## Verdict
 
-**Ship after targeted revision.** The page correctly centers Roy’s repeatedly stated jaguar etymology: reciprocal seeing, humans as mirrors, and the Twin as dual nature. It also does valuable work by refusing to turn the jaguar into a fifth peer-character and by preserving the open relationship among the Jaguar, Mary, the feminine Maker, and the Wise One.
+**Ship after targeted revision.** The page has a strong entertainment-site premise: the name is not trivia, it is an entry point into the whole project. Roy’s public etymology gives the jaguar reciprocal sight, the Twin gives it duality, and `The Circle` adds song, memory, and feminine creation. The page is most alive when it lets those registers talk to one another.
 
-One serious correction is required: the page resurrects the **retracted “jaguar skull” interpretation.** The current Brain explicitly says the drawn jaguar is not a skull and warns against flattening a gendered/polarized multiple into a death-mask. The page also overstates the intentionality of the `Jagwar` spelling and occasionally treats a secondary bio gloss as if it weakened Roy’s much better-grounded primary etymology.
+The needed revisions are specific. Remove the retracted jaguar-skull claim, stop pretending the altered spelling has a confirmed explanation, and keep the Jaguar/Mary relationship open. The Egyptian, Kabbalistic, serpent, and seer material can stay as connected interpretation. It does not need to be stripped away merely because it is speculative.
 
 ## Quote and source audit
 
-### The name origin is fully grounded
-
-The 2018 Ones to Watch transcript gives the clearest primary-source wording:
+The 2018 Ones to Watch transcript securely grounds the core etymology:
 
 > “the jaguar is the creature who looks into the souls of other people and then, in turn, can look back into itself. Humans are just mirrors for each other…”
 
-The same interview grounds Twin as “the dual nature — the light and the dark, the yin and the yang” and the Gemini connection. Later public interviews repeat the reciprocal-seeing story and add the movement from darkness toward light.
+The same interview grounds Twin as “the dual nature — the light and the dark, the yin and the yang,” plus the Gemini connection. Later interviews repeat the reciprocal-seeing story and add the movement from darkness toward light.
 
-The page is therefore justified in treating reciprocal seeing as the core etymology. “Mirror of consciousness,” however, is a journalistic paraphrase in the Highwire profile, not Roy’s exact phrase. The rewrite already notes that distinction and should keep it.
+“Mirror of consciousness” is a useful Highwire paraphrase, not Roy’s exact phrase. The page already knows that and should keep the distinction.
 
-### The Circle lyric is a separate but compatible register
+`The Circle` grounds a feminine Jagwar who makes other Jagwars and teaches them to sing, followed by a feminine Wise One who remembers she once held the string. The conclusion that the Jaguar sings as much as it sees is a strong and valuable reading.
 
-`The Circle` grounds a feminine Jagwar who makes other Jagwars and teaches them to sing, followed by a feminine Wise One who remembers she once held the string. The claim that the Jaguar “sings as much as it sees” is a strong reading built from released lyrics and belongs on the page.
+## Hard corrections
 
-## Claims that need correction or clearer tiering
+### 1. Remove `jaguar-skull`
 
-### 1. Remove `jaguar-skull` immediately
+The page says “a jaguar-skull sits on the 2026 Bounce manifesto card.” The current Brain explicitly retracts that interpretation:
 
-The page says “a jaguar-skull sits on the 2026 Bounce manifesto card.” The Brain’s current image-decode correction explicitly retracts that reading:
-
-- the drawn jaguar is **not** a cat skull;
+- the drawn jaguar is not a cat skull;
 - only the performer’s face paint is skull-like;
 - the jaguar appears as a multiple, including a white feminine jaguar bearing an ankh;
 - the ankh-bearing figure remains unplaced.
 
-Replace with:
+Use:
 
 > A stylized jaguar figure appears on the 2026 `Bounce` manifesto card.
 
 Do not call it a skull or death-mask.
 
-### 2. The deliberate misspelling is not yet explained by Roy
+### 2. The altered spelling is chosen, but its meaning is undocumented
 
-The page says the `w` is deliberate and “the typo is the point.” The spelling is obviously a chosen artist-name spelling, but the Brain does not contain a public Roy statement explaining why the `w` was chosen or what it encodes.
-
-Use:
-
-> The project consistently spells the name `Jagwar` with a w, marking it as the project’s own proper name rather than the ordinary animal name. Roy’s public etymology explains the jaguar and the Twin, but the specific reason for the altered spelling remains undocumented.
-
-### 3. `Master key, not trivia answer` is a guide thesis
-
-The name origin is unusually central and repeated, but calling it the master key is interpretation. Frame it as:
-
-> This guide treats the name origin as one of the project’s strongest entry points.
-
-### 4. The jaguar as field, not character, is strong reading
-
-The anti-drift guard is right: there is no supported fifth peer-character called Jaguar. The claim that the jaguar is the field of seeing in which Roy, Lucius, and Mary operate remains the guide’s structural reading. Keep the distinction visible.
-
-### 5. `Jagwar will always throw off the wrong rider` does not ground the false-self interpretation by itself
-
-The post is grounded. “The mirror cannot be ridden by the false self” is interpretive. Use a reading verb and leave room for simpler meanings such as wrong alignment, false authority, or incompatible control.
-
-### 6. Great Cat of Ra is a second register, not the hidden true meaning
-
-The exposed board grounds the Great Cat of Ra image. Reading the JT jaguar through that image is a strong secondary correspondence. The page handles this reasonably well, but the phrase “one cat, five currents” makes the registers feel equally primary. Keep Roy’s mirror-of-consciousness etymology clearly first.
-
-### 7. The Jaguar/Mary relation should stay open, but the current weighting can be clearer
-
-The Brain now gives the feminine-Maker reading more weight than a simple co-equal fork because `The Circle` personifies both Maker and Wise One as “she.” Still, Roy has not publicly equated Mary with the Jaguar, Maker, or Wise One by name.
-
-A clearer formulation:
-
-> The myth substantially strengthens the possibility that the Jaguar’s seeing-field and the feminine source-function overlap. It does not yet establish that Mary, the Maker, the Wise One, and the Jaguar are one named figure.
-
-### 8. `The same eye plus or minus the heart` is a strong model
-
-Lucius as surveillance and Mary as witnessing is a load-bearing vault reading. Calling them the same faculty with or without heart is the guide’s model, not Roy’s explicit doctrine. Keep that attribution.
-
-### 9. Secondary bio glosses do not make the primary etymology uncertain
-
-The page says the “travels between worlds” and “speed of the jaguar” glosses prove no single telling is definitive. That conclusion is too broad. Those secondary descriptions are not equal to Roy’s repeated first-person etymology and may be label or profile embellishment.
+The project consistently spells the name `Jagwar` with a w. That clearly marks it as a proper project-name rather than the ordinary animal word. What is not yet grounded is the claim that “the typo is the point” in some specific encoded sense.
 
 Use:
 
-> Secondary bios introduce additional glosses, but they should not override the repeated primary-source mirror-of-consciousness account unless Roy adopts them directly.
+> The project consistently spells the name `Jagwar` with a w, marking it as its own made name. Roy explains the jaguar and the Twin publicly; the reason for the altered spelling remains undocumented.
 
-### 10. The biography inversion is an evocative reading, not evidence of prior mythic design
+## Interpretive calibration
 
-Roy’s 2015 “mystery man” presentation is a real career fact. Reading it as the later seer/seen inversion already enacted is a retrospective rhyme. Keep it as such.
+### 3. Keep “master key,” but own it as the guide’s claim
+
+Calling the name origin a master key is exactly the kind of strong editorial thesis an entertainment site should make. The page does not need to retreat to dry language.
+
+A small frame is enough:
+
+> This guide treats the name origin as one of the project’s strongest master keys.
+
+That preserves the force while keeping authorship of the claim clear.
+
+### 4. The jaguar-as-field reading should stay
+
+There is no supported fifth peer-character named Jaguar. The page’s solution, that the Jaguar is the field of seeing in which Roy, Lucius, Mary, and the larger project operate, is imaginative and useful.
+
+Keep it as a guide-level model:
+
+> This guide reads the Jaguar less as another face in the cast than as the field of seeing the cast moves through.
+
+That is not a weakness. It is the page’s central interpretive contribution.
+
+### 5. Keep the wrong-rider reading, with one reading verb
+
+“Jagwar will always throw off the wrong rider” is grounded public language. The false-self interpretation is a strong extension and belongs.
+
+Use:
+
+> The guide reads the line as the mirror refusing a false rider, though wrong alignment, false authority, or incompatible control remain possible meanings.
+
+### 6. Great Cat of Ra belongs as a second register
+
+The exposed board grounds the Great Cat of Ra image. Reading the JT Jaguar through it is not random; Roy placed that image inside the same symbolic ecosystem.
+
+Keep the connection, but let Roy’s repeated mirror-of-consciousness etymology remain the primary meaning. The Egyptian cat adds a second job: not only seeing into souls, but defending solar order against chaos.
+
+That is exactly the sort of Deep End enrichment worth preserving.
+
+### 7. The Jaguar/Mary question should remain open but weighted
+
+`The Circle` materially strengthens the possibility that the Jaguar’s seeing-field overlaps with the feminine source-function. Both Maker and Wise One are “she,” and both are tied to song, memory, and the string.
+
+The strongest honest wording is:
+
+> The myth strengthens the possibility that the Jaguar’s seeing-field and the feminine source-function overlap. It does not yet establish that Mary, the Maker, the Wise One, and the Jaguar are one named figure.
+
+This keeps the live mystery alive instead of flattening it into either certainty or agnosticism.
+
+### 8. “Same eye, opposite hearts” is a good model
+
+Lucius as surveillance and Mary as witnessing is one of the vault’s strongest cross-concept readings. The Jaguar page is a natural home for it because the emblem is already about seeing.
+
+Keep the line, but frame it once:
+
+> The guide’s working model is that surveillance and witnessing are the same faculty oriented by different hearts.
+
+That is vivid, clear, and appropriate for the site.
+
+### 9. Secondary bios can widen the field without weakening the primary account
+
+The “travels between worlds” and “speed of the jaguar” glosses should not be treated as equal counterweights to Roy’s repeated first-person etymology. But they can remain as secondary lore around the name.
+
+Use:
+
+> Secondary bios add travel, speed, and cultural movement to the emblem, while Roy’s repeated mirror-of-consciousness explanation remains the clearest primary account.
+
+### 10. Keep the 2015 biography inversion as a retrospective rhyme
+
+Roy’s mystery-man presentation in 2015 is a real and fun precursor to the later seen/unseen system. It does not prove prior design. It does not need to.
+
+Call it what it is:
+
+> In retrospect, the 2015 mystery-man rollout rhymes uncannily with the later seer/seen inversion.
 
 ## Themes and connections worth preserving
 
-The page’s strongest contribution is that it refuses to reduce the Jaguar to watching. `The Circle` makes the primordial Jagwar a singer and teacher. That connects:
+The page’s strongest move is refusing to reduce the Jaguar to an eye. `The Circle` makes the primordial Jagwar a maker, singer, and teacher. That connects:
 
 - seeing into others and self;
 - voice as world-making;
 - the hidden song inside the wings;
-- recovery by remembrance rather than acquisition;
+- recovery by remembrance;
 - the collective claim that everyone carries the song.
 
-The reciprocal sequence across interviews also matters. One telling begins with looking into others and returning to self; another begins with self and moves toward others. The sequence changing does not undermine the doctrine because reciprocity is the stable element.
+The reciprocal sequence across interviews also matters. One telling starts with others and returns to self; another begins with self and moves toward others. The changing sequence strengthens the mirror-loop rather than weakening it.
 
-The jaguar-as-field reading belongs beside `Witnessing vs Surveillance`, but avoid allowing surveillance to dominate the emblem. The grounded origin is relational understanding, not threat detection.
+The Egyptian cat, double serpent, ankh-bearing feminine figure, Mary/Wise One question, pronoun mirror, and humor all belong if they remain clearly arranged around the grounded etymology. The page should feel like a widening spiral, not a filing cabinet.
 
-The humor section is charming but long. Its best function is to keep the symbol from becoming over-solemn. One or two examples are enough.
+The humor section is worth keeping. It prevents the mythology from becoming falsely solemn. One or two of the strongest examples may be enough on the doorway page, with the rest available below.
 
 ## Public/private boundary
 
 No prohibited private material was found. The public interviews, exposed board, released lyrics, public posts, visualizers, profile captures, tattoos, and artifact cards are within bounds.
 
-The Jaguar/Mary relationship remains interpretive and should not be upgraded using any private conversation or uncaptured artist exchange.
+The Jaguar/Mary relationship remains interpretive and should not be upgraded using private or uncaptured artist comments.
 
 ## Voice and density
 
-The voice is excellent: playful, clear, and willing to mark uncertainty. “The lens, not a face in the frame” is a strong public-facing guardrail.
+The voice is excellent. “The lens, not a face in the frame” is exactly the kind of clear, memorable guardrail the site needs.
 
-The page is still overfull for a doorway concept. It carries five interview tellings, Mayan attribution, Great Cat of Ra, Tree of Life, Sophia, Shekhinah, Gemini, serpent polarity, The Circle’s full myth, Mary/Lucius seeing modes, pronoun arithmetic, Steiner, Watts, 2015 biography, several comedy examples, and five open problems.
-
-Consider a Deep End companion. Keep upstairs: the grounded etymology, the Twin half, the Circle’s singing Jaguar, the no-fifth-character guard, and the open Mary/Wise One question. Move the Egyptian, Kabbalistic, serpent, pronoun, biography, and extended humor material downstairs.
+A Deep End companion would help the page breathe, but the goal should be organization rather than pruning. Keep the Egyptian, Kabbalistic, serpent, biography, and humor threads. Move them downstairs if needed so the public entry remains easy to follow.
 
 ## Priority fixes
 
 1. Remove the retracted `jaguar-skull` claim.
 2. Stop saying “the typo is the point” unless Roy’s explanation of the `w` is found.
-3. Keep “master key” and “field” visibly guide-level readings.
-4. Mark the wrong-rider interpretation as a reading.
-5. Keep the Great Cat of Ra secondary to the repeated public etymology.
-6. Clarify that the myth strengthens Jaguar/Mary overlap without identifying all feminine figures as one character.
-7. Keep surveillance/witnessing as a model, not an explicit Roy equation.
-8. Do not treat secondary label bios as equal counterweights to Roy’s repeated primary statements.
-9. Shorten the humor and advanced-framework sections or move them to a Deep End.
+3. Keep “master key” and jaguar-as-field as confident guide-level readings.
+4. Mark the wrong-rider interpretation with one reading verb.
+5. Preserve Great Cat of Ra as a second register beneath the primary etymology.
+6. Keep the Jaguar/Mary overlap live without identifying all feminine figures as one character.
+7. Preserve surveillance/witnessing as the guide’s working model.
+8. Treat secondary bios as additions, not equal challenges to Roy’s primary account.
+9. Keep the advanced connections and humor, reorganizing rather than flattening them.
 
 ## Final assessment
 
-This is a strong page with one resurrected struck claim and several smaller confidence problems. Correcting the skull error and restoring the hierarchy of evidence—Roy’s own etymology first, released myth second, esoteric correspondences third—will make the page both more trustworthy and easier to enter.
+This page should remain strange, playful, and ambitious. Its job is to show that the Jaguar is simultaneously a name-origin, mirror, singer, seeing-field, solar cat, and open feminine mystery. Correct the one struck image claim and the undocumented spelling explanation, then let the connected interpretation do its work.
