@@ -17,7 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 **Where it enters**
 
-* [[Not Your Homie]]: *"But if you choose to tame The Beast / you've got to prove yourself to be / a champion."* Roy has connected this song to the Leo labor himself, the Nemean Lion, and to the Strength card, the woman gently closing a lion's jaws.
+* [[Not Your Homie]]: *"But if you choose to tame The Beast / you've got to prove yourself to be / a champion."* This guide reads the song as the Leo labor, the Nemean Lion, its emblem the Strength card, the woman gently closing a lion's jaws, the tightest labour-anchor in the catalogue.
 * The IG Live: Roy names the book and teaches all twelve labors as an internal initiation, *"we all have these inside of us… in different aspects of our life,"* then walks the Cancer labor in full.
 * Bailey in Roy's own hand, twice more: a hand-underlined page of the Libra labor posted to his Story, captioned "Alice Bailey," and Bailey transcribed onto the "I'm 33 this year" board.
 
@@ -26,7 +26,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 ---
 
 > [!map]- He tells you where he bought the furniture
-> Roy installed this framework himself, on four independent public surfaces, and that is what makes the page unusual: no reverse-engineering required.
+> Roy installed the framework itself on four independent public surfaces, so the lens is his, even where the song-by-song mapping below is this guide's.
 >
 > On the Live he describes *"a book by Alice Bailey called The Twelve Labours of Hercules, and Hercules, which is the soul, which is us, the initiate, goes through all twelve signs of the zodiac essentially, but we all have these inside of us."* Not adventure stories: twelve faculties inside one person.
 >
@@ -40,7 +40,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > Three working rules from Bailey's reading, kept explicit because they differ from the schoolbook myths. First, the order is **zodiacal**, Aries I through Pisces XII, so the Lion is Labor V (Leo), and this guide numbers the labors Bailey's way because that is the way Roy does. Second, the soul must **choose** the trial; election comes first, and the whole cycle runs *against the tide* of material instinct. Hold the word *choose*; it comes back load-bearing in the lyrics. Third, a labor is a change in *capacity*, not a trophy: the seeker often fails, repeats, or learns a new relation to the thing (the doe of Cancer must be released, not clutched). Capturing the symbol is not the same as integrating its lesson.
 
 > [!reading]- Three lines, one lion
-> The clearest anchor in the catalogue is the [[Not Your Homie]] chorus turn, and it is the one place the mapping does not rest on our pattern-finding: Roy has tied this song to the Leo labor and the Strength card himself.
+> The clearest anchor in the catalogue is the [[Not Your Homie]] chorus turn, and it barely feels like pattern-finding at all: "tame The Beast," "prove yourself... a champion," the Nemean Lion in three lines. It is the guide's strongest labour-read, the tightest in the catalogue, though still a read.
 >
 > With that pin in place, watch how much the three lines carry. ***The Beast***, capitalized and definite-articled: a specific, named entity. ***Tame***, not *fight*, not *slay*: taming through direct contact is the operative move of both Bailey's Leo and the Strength card, mastery through gentleness rather than combat at a distance. (Swap in *slay* and the reading collapses; *tame* is the load-bearing word.) And ***champion***: in a body of work built on ordeal, descent, and return, it reads as the technical term for one who has completed the trials, not gym-floor motivation. *"Choose to"* is Bailey's election requirement hiding in plain sight; the trial is one you volunteer for.
 >
@@ -77,7 +77,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > The heavy machinery lives in [[The Labors of Hercules — The Deep End]]: the full twelve-song speculative wheel, the Leo cave walked step by step, Cancer's doe three ways, the Libra underlines and Inversion, the far labors and the gates, the Crosses, the Dweller, a sky full of crows and cups, and Lucis, Lucifer, Lucius. Dense and speculative by design. The page you are on stands without it.
 
 > [!receipts]- Sources and confidence
-> Grounded in Roy's public artifacts: the IG Live (naming the book, teaching all-twelve-as-internal, the Cancer labor in full, his Gemini Sun, Libra Rising, and Venus in Cancer); the underlined Libra Story page; Bailey in his own hand on the "I'm 33" board; the three curated illusion quotes; the [[Not Your Homie]] lyric (Spotify-verified, stable) and Roy's own connection of the song to the Leo labor and the Strength card; the June 2026 and Blavatsky feed posts.
+> Grounded in Roy's public artifacts: the IG Live (naming the book, teaching all-twelve-as-internal, the Cancer labor in full, his Gemini Sun, Libra Rising, and Venus in Cancer); the underlined Libra Story page; Bailey in his own hand on the "I'm 33" board; the three curated illusion quotes; the [[Not Your Homie]] lyric (Spotify-verified, stable); the Leo-labor and Strength-card mapping is the guide's strongest labour-read, not a Roy-stated pin; the June 2026 and Blavatsky feed posts.
 >
 > Strong readings, labeled where they stand: Sir Lucius as the Nemean Lion; Welcome to the Circus and Superhuman as the lion before, and instead of, the taming; the demotion-not-execution reading of the martial posts.
 >
