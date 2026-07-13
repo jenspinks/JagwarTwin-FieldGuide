@@ -18,8 +18,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * The opening line of [[Welcome to the Circus]]: *"every day is a circus all in my brain."* Not a place you buy a ticket to; an installation already inside the head.
-* [[The Interview]] EP3 (January 5, 2026): Roy wants to release a tender Song of Love; [[Sir Lucius]] overrides him, presses a browning banana like a play button, drops the hit instead, and names the author in three words: *"the algorithm, baby."* The only moment in the public catalogue where the song's true writer is stated out loud, and it points at a mechanism, not a person.
-* The lyric trio: *"It's a spectacle, I'm the final boss"* · *"they love it when you lose control"* · *"did you like the show?"* The operator narrates his own machine as a boast, and in doing so names the system, its operator, and its victim in one breath, all three the same man.
+* [[The Interview]] EP3 (January 5, 2026): Roy wants to release a tender Song of Love; [[Sir Lucius]] overrides him, presses a browning banana like a play button, drops the hit instead, and names the force behind it in three words: *"the algorithm, baby."* Inside the theatrical story that is the song's governing mechanism named out loud, a mechanism rather than a person (the released track has its own human songwriters).
+* The lyric trio: *"It's a spectacle, I'm the final boss"* · *"they love it when you lose control"* · *"did you like the show?"* The operator narrates his own machine as a boast, and the guide hears system, operator, and victim collapse into one figure, though the song's *"they"* keeps an audience in the frame too.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
 

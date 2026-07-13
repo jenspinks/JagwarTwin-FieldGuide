@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 * Roy's etymology, told across roughly five public interviews (2018 to 2024): the jaguar "looks into the souls of other people and then, in turn, can look back into itself."
 * [[The Circle]] (*33*, 2022), the founding myth: "Long ago, there was a Jagwar with a world tied on a string / And she made other Jagwars, then taught them to sing."
-* The deliberate misspelling: *Jagwar* with a **w**, not *Jaguar*. The typo is the point: a specific made thing, not the animal in the zoo, and the namesake of the myth's created creatures.
+* The deliberate spelling: *Jagwar* with a **w**, not *Jaguar* — marking it a made name rather than the animal in the zoo, and the namesake of the myth's created creatures. Roy explains the jaguar and the Twin publicly; the reason for the altered spelling he has left unsaid.
 
 That is the surface, and it stands on its own. The drawers below go one reading deeper at a time.
 
@@ -34,7 +34,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 >
 > There is a tell that the origin story became the thesis: the Highwire profile (2021) recites it back at him, "a creature who looks within others as within itself. A mirror of consciousness." That last phrase is the journalist's, not a Roy verbatim, which is exactly what makes it useful. When the write-ups start reciting your etymology at you, it has stopped being trivia.
 >
-> And the cat steps out of the name into pictures: Roy signs "El Roy 🪄🐆," the jaguar glyph set against Lucius's green apple 🍏; a jaguar-skull sits on the 2026 *Bounce* manifesto card; his personal Instagram wears a panther avatar, and his X profile opens with 🐆 and "There's two sides to every story." One 2026 post even lets the creature act: "Jagwar will always throw off the wrong rider 🐎." Read straight, a real claim: the mirror cannot be ridden by the false self.
+> And the cat steps out of the name into pictures: Roy signs "El Roy 🪄🐆," the jaguar glyph set against Lucius's green apple 🍏; a stylized jaguar figure appears on the 2026 *Bounce* manifesto card; his personal Instagram wears a panther avatar, and his X profile opens with 🐆 and "There's two sides to every story." One 2026 post even lets the creature act: "Jagwar will always throw off the wrong rider 🐎." Read straight, a real claim: the mirror cannot be ridden by the false self.
 
 > [!lore]- One cat, five currents
 > The emblem holds several traditions at once, without strain, as long as each stays labeled. The Mayan rooting is Roy's telling, a story he attributes, not a scholarly claim about Maya tradition. The Egyptian register arrives on the I'm 33 board, which carries the Book of the Dead's Spell 17: the Great Cat of Ra slaying the chaos-serpent Apophis at the foot of the sacred tree. Set beside the mirror-jaguar and the cat holds two jobs, looking into souls and holding the line of solar order; the board is public, and reading the JT jaguar as Ra's cat is this guide's enrichment, a complement to the mirror, never a replacement. ([[The I'm 33 Board]] has the fuller picture.) In the Kabbalistic reading, "Jagwar Twin" can be heard as the name of the [[Heart and Mind|heart-and-mind]] pair itself, Roy's heart facing Lucius's mind, the two-that-are-one; and the Circle's feminine Maker keeps company with Sophia and the Shekhinah, a family resemblance, not an equation. The Gemini is astrology, co-signed by Roy himself.
