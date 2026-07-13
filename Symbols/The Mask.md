@@ -71,6 +71,18 @@ And there's a third reading of what Lucius's mask *is*, the most unsettling one:
 
 **The Manifesto Cards** *(public IG release 2026-06-26)* — the [[Welcome to the Circus]] "Live Underground" card that carries *"who are you without the mask?"* and *"Did Hermes paint his face? I don't know, maybe."* See [[Concepts/The Manifesto Cards]] and [[Concepts/The Visual Canon Throughline]].
 
+## The curtain
+
+The mask has a twin drawn at a larger scale: the **curtain**. Where the mask is the surface between a face and the room, the curtain is the surface between the show and whatever stands behind it, the same boundary stretched across a stage instead of a face. The work presses on the seam where they meet.
+
+The tell is which way the curtain moves. In the oldest version of the image a veil *tears* and the sacred spills out: the Jerusalem temple veil screened the Holy of Holies, and in Matthew 27:51 it is *"rent in twain from the top to the bottom,"* torn from above to reveal God. *Welcome to the Circus* runs that exact moment in reverse. The curtain *closes*, staged and performer-driven, and a man in face paint asks for a review: *"but when the curtains close / did you like the show?"* A reveal traded for a review solicitation. That is [[Concepts/Inversion]] in its strict sense, the form kept and the direction flipped, and the bathos does real work: the holy of holies opens and nobody's home, just the ringmaster asking if you had a nice time. (The full temple-veil apparatus, Plato's cave, the mystery schools, and a second Kabbalistic veil Roy posted in 2020, is framework, held in [[The Veil — The Deep End]].)
+
+The curtain is not a fixed image; it has a **closed-or-torn state that moves across the album**. [[City of Angels]] stays behind it, ending inside the show in the recruiter's voice, no waking and no confession. The title track is the tear, *"it's all just a lie,"* confessed by a self still standing outside the spell. Read as a pair they make the veil a moving variable, closed in one song and ripped open in the other.
+
+And the same card that closes the curtain turns the question around on you. The "Live Underground" card quotes the chorus and then asks, in plain capitals, *"but who are you without the mask?"*, the un-masking handed to the viewer. What actually waits behind the cloth stays a live question: [[Roy]], the face that was never performed; nothing at all, Lucius back there too; or Roy as one more mask, no bare face at any depth. All three doors stay open on purpose.
+
+One guard against flattening: not every veil is a lie. It can be deception, and it can also be protection, costume, threshold, mercy: the right not to be fully seen, a picture a person gets to decide for themselves. That folds the curtain into [[Concepts/Witnessing vs Surveillance]]: to be seen *behind* the curtain is to be witnessed, held, known; to be watched *in front of* it is to be surveilled, ranked, sold. Which is why *"who are you without the mask?"* lands as a genuine threshold question and not a taunt.
+
 ## Related traditions
 
 In Greek theatre the mask is the *prosopon*, the actor's mask the character speaks *through*; the Latin *persona* means literally **"through-sound."** **Jung** borrowed *persona* for the social mask — useful, dangerous when mistaken for the Self — and Roy curated the whole schema himself: a 2020 IG post (captioned *"Soul Calibrator,"* tagged #modernarcheology) reproduces the classic **Persona / Ego / Self / Shadow / Anima** diagram. In this world's mapping, the Persona is the mask, the Shadow is [[Sir Lucius]], the Anima is [[Mary]], and the Self at center is integration. That the artist posted the diagram himself is what keeps "Persona = the mask" grounded rather than imposed.
