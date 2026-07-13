@@ -64,7 +64,7 @@ That is the surface, and it holds on its own. The drawers go one reading deeper 
 > A word on how to use any of this: don't push for meaning. Put on an audiobook about Hermeticism, or Kabbalah, or both, then just play the albums and let the meaning happen on its own. That's the honest way in, and it's how most of this page got found in the first place.
 
 > [!reading]- Everything everywhere all at once
-> Down in Sources there's an honesty test waiting for this page: a principle-reading only earns its keep if it would *fail* on some songs. So here is the strongest reply the page can make, and it's a single song. [[Down to You]] is the one that wore *"AS ABOVE SO BELOW"* on its 2021 end-card, and read through the board it doesn't run one Kybalion principle. It runs a fistful at once.
+> Down in Sources there's an honesty test waiting for this page: a principle-reading only earns its keep if it would *fail* on some songs. So here is the strongest reply the page can make, and it's a single song. [[Down to You]] is the one that wore *"AS ABOVE SO BELOW"* on its 2021 title-card, and read through the board it doesn't run one Kybalion principle. It runs a fistful at once.
 >
 > * **Mentalism** and **Correspondence** live in the title itself. *"It all comes down to you"* reads two ways at once: the divine descending *to you*, and *you* as the level where the whole pattern finally lands. Above answered below. It's an I-and-You machine, mirror made grammar.
 > * **Polarity** is the refrain refusing to pick a direction: *"Heaven in the sky to the Earth below / Heaven in your eye from the Earth below,"* with the ad-lib *"up from below."* Descent and ascent are the same string, pulled from both ends. The circuit completed, not a one-way drop.
