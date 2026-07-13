@@ -57,7 +57,7 @@ The body parts and inner places where the drama actually stages itself.
 - [[Concepts/The Voice]]: the real self trying to get a word in past everything that silences, censors, or co-opts it.
 - [[Concepts/The Realm]]: the medieval counter-kingdom Roy built to route around the industry's gatekeepers. A castle, but with the drawbridge down on purpose.
 - [[Concepts/The Labyrinth]]: the maze with no exit sign, built so its inhabitant can't think a way out. Thinking, after all, is how you got in.
-- [[Concepts/The Divide]]: the named edge where the leap is chosen; the threshold a seeker crosses on purpose to make the return.
+- [[The Abyss]]: the great threshold the whole arc keeps approaching. The crossing a seeker faces on purpose, and the deep on the far side of the leap.
 
 ## The wider world
 
@@ -86,6 +86,7 @@ And the old stories put to work on this world's own trials and figures:
 - [[Concepts/The Labors of Hercules]]: the Twelve Labors read as a map of the soul: each faculty tested, then returned to the heart's rule.
 - [[Concepts/The Dweller on the Threshold]]: the guardian at the edge of your inner world, assembled from everything you've refused to face. Sir Lucius reads as exactly that.
 - [[Concepts/Jacob and Esau]]: the original two-brothers problem: the smooth twin, the rough twin, and what gets taken between them.
+- [[The Divided Self]]: every brother-and-double story the culture ever told, laid side by side. Cain and Abel, Jacob and Esau, Amadeus, the Gemini twins, Fight Club, all mapped onto Roy and Lucius to show every way the split can end.
 - [[Letters of Creation|The Angels and the Angles]]: a letter-mysticism lens that hears the la-la and na-na syllables as technique: consonants as angles, vowels as angels.
 - [[Concepts/The Light-Bearer]]: the figure who carries light that disorients instead of illuminating. His emblem is the strobe, never the steady flame.
 
