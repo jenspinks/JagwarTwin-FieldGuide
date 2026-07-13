@@ -16,100 +16,102 @@ verdict: targeted-revision
 
 ## Verdict
 
-**Ship after substantial calibration.** The main page successfully communicates the Brain’s master question: does a reflection return you to the source, or replace the source with its image? The transmit/substitute distinction, the three-stage movement from transmission to distortion to usurpation, the I/you pronoun evidence, and the warning against treating all reflection as bad are all core strengths.
+**Ship after targeted revision.** This pair contains some of the Field Guide’s most original work. The governing question—does a reflection return you to the source or trap you in the image?—is clear, memorable, and capable of connecting mirrors, screens, samples, masks, crowds, algorithms, and characters without making reflection itself evil.
 
-The Deep End, however, becomes too totalizing. It imports the full Kabbalistic map into a page that is supposed to keep that map single-homed, treats several framework links as exact structural identities, and occasionally confuses the status of Roy’s relayed character guidance with the later analyst-built lunar architecture.
+The Deep End should remain expansive. Its job is to follow the mirror through Kabbalah, vessel language, digital doubles, creation myths, and the Hall of Mirrors artifacts. The needed revisions are not a general retreat from speculation. They are specific corrections where the page contradicts itself, merges separate source statuses, or states a framework analogy as an exact historical identity.
 
 ## Quote and source audit
 
-### Confirmed public anchors
+Roy’s mirror statements are secure across public interviews: “I just want to be a mirror,” “a song is a mirror,” and “we’re all really mirrors to each other if we look.” The 2018 Ones to Watch interview also grounds the wider reciprocal-seeing idea behind the Jagwar Twin name.
 
-Roy’s mirror statements are secure across public interviews: “I just want to be a mirror,” “a song is a mirror,” and “we’re all really mirrors to each other if we look.” The 2018 Ones to Watch interview also grounds the broader mirror-of-consciousness name origin.
+The LOOP lore securely grounds **“distorted reflection,” “the mind divorced from the heart,”** and **“my mind must serve my heart.”** These are public mythology texts and may be quoted as such.
 
-The LOOP lore securely grounds the phrases **“distorted reflection,” “the mind divorced from the heart,”** and **“my mind must serve my heart.”** The lore source is a primary public artifact with an unreliable-narrator guard; the text is quotable as published mythology, not as literal-world reportage.
+The `One become Two` artifact, `Long Time Coming` mirror lyric, `Shine` writing story, El Roi tattoo, Empty Mirror tattoo and Roy’s gloss, Chaplin sample, Ballerina Boy outro, Rockwell interpolation, pronoun count, and public posts all belong in the evidence layer.
 
-The `One become Two` Hall of Mirrors text, `Long Time Coming` mirror lyric, `Shine` writing story, El Roi tattoo, Empty Mirror tattoo and Roy’s gloss, Chaplin sample, Ballerina Boy outro, credited Rockwell interpolation, pronoun count, and public posts all belong in the evidence layer.
+The pronoun counts themselves are re-derivable. The aside that “in most catalogues ‘the’ wins this contest in a walk” is not supported by a comparison set in the Brain. It can stay as a playful informal observation only if marked that way, or be removed without weakening the argument.
 
-### The pronoun count is grounded; the comparative claim is not
+## Corrections and calibration
 
-The counts themselves are re-derivable from the lyric corpus. The sentence “in most catalogues ‘the’ wins this contest in a walk” is not grounded by any comparison set in the Brain. Remove it or explicitly call it an informal observation.
+### 1. Separate Roy’s character links from the guide’s lunar architecture
 
-## Claims that need correction or clearer tiering
-
-### 1. The lunar map is framework, not part of Roy’s relayed fundamentals
-
-The main page says the moon’s position belongs to Roy and then says the “clean seats” come from Roy’s relayed fundamentals. The relayed guidance supports:
+The relayed guidance supports:
 
 - Roy → heart; can link Netzach/Venus
 - Lucius → intellect; can link Hod/Mercury
 
-It does **not** itself establish Roy as Malkhut/Yesod or “the moon trying to become a sun.” That is the advanced framework built on top of the guidance.
+It does not itself establish Roy as Malkhut/Yesod or “the moon trying to become a sun.” That is the guide’s advanced Kabbalistic reading.
 
-Separate them:
+Use:
 
-> Roy’s guidance permits the Netzach/Venus and Hod/Mercury character links. Separately, this guide’s advanced Kabbalistic framework places Roy in a lunar ascent-position through Malkhut and Yesod.
+> Roy’s guidance links the characters to Netzach/Venus and Hod/Mercury. Separately, the guide’s advanced Tree reading places Roy in a lunar ascent-position through Malkhut and Yesod.
 
-### 2. `Lucius gets no celestial body at all` is internally contradictory
+Both ideas may remain. They simply need separate provenance.
 
-The Deep End says Lucius gets no celestial body, then assigns him Mercury. Mercury is a celestial body. The intended point is that he should not be assigned the Moon or Venus as his source/reflection symbol.
+### 2. Fix the celestial-body contradiction
+
+The Deep End says Lucius gets no celestial body and then gives him Mercury. The intended distinction is clear: he should not occupy the Moon or Venus in the corrected map.
 
 Use:
 
 > Lucius does not occupy the Moon or Venus in the corrected character map; his planetary correspondence is Mercury through Hod.
 
-### 3. The Tree map should remain single-homed
+### 3. Keep the Tree material, but treat the Tree page as the canonical map
 
-The Brain explicitly states that the full planet/sefirah map lives only on `Kabbalah - The Tree of Life` because copies drifted. The Deep End reproduces the full map at length, including Roy’s lunar position, Mary’s lunar theology, Lucius’s Mercury placement, diminished-moon tradition, Isaiah, Cordovero, and the morning-star correction.
+The Brain’s single-home rule exists because duplicated maps drifted. That does not mean the Deep End should avoid Kabbalah. The Sun/Moon source-reflection material is central here and belongs.
 
-This defeats the single-home rule. Replace most of that section with a short gloss and link to the Tree page. Keep only what this concept needs: source-light versus reflected light.
+The best balance is a vivid short version in this page, followed by a link to the canonical Tree page for the full sefirah, planet, diminished-moon, Cordovero, and supersession history. Keep the connection; avoid maintaining two complete technical maps.
 
-### 4. `Everything else generates no light of its own` is too broad
+### 4. Narrow “everything else generates no light” to the intended system
 
-Other stars generate light. The framework concerns the Sun, Moon, and planets of the solar system.
+Other stars generate their own light. Use:
 
-Use:
+> Within the solar-system correspondence, the Sun is the local source of light while the Moon and planets appear through reflected light.
 
-> Within the solar-system correspondence, the Sun is the local source of light and the Moon and planets appear through reflected light.
+This is a factual cleanup, not a challenge to the symbolism.
 
-### 5. `One become Two` grounds the text, not the metaphysical explanation
+### 5. Let `One become Two` support the metaphysical reading without pretending it proves it
 
-The artifact grounds that the speaker becomes Two in order to see itself and becomes “You.” The claims that a single point cannot know itself, that the split is the price of sight, and that the acorn must forget it is a tree are philosophical extensions.
+The artifact gives the guide unusually strong internal material for reading reflection as the price of self-seeing. The philosophical extensions—one point cannot know itself, the split is the price of sight, the acorn forgets the tree—are exactly the sort of ideas that belong in the Deep End.
 
-Keep them only as clearly attributed interpretation. The current sentence “This grounds why reflection exists at all” should become:
+A light frame is enough:
 
 > This gives the guide its strongest internal text for reading reflection as the price of self-seeing.
 
-### 6. The Lurianic vessel sequence is an analogy, not an exact correlate
+Then keep the imaginative development.
 
-The Deep End says transmission → distortion → usurpation has an **exact structural correlate** in Lurianic vessel grammar. That is too strong. A kli, shevirah, sparks, and kelipot do not form a standard historical three-step doctrine matching this page’s categories.
+### 6. Change “exact correlate” to “strong analogy” in the vessel section
 
-Use:
-
-> The guide’s three stages have a strong structural analogy in Lurianic vessel language.
-
-Then separate the tradition from the project application. Do not define kelipah simply as “the husk that claims to be the source” as though that were the historical doctrine.
-
-### 7. The hollow-to-kenotic conversion is unresolved
-
-The Deep End says Roy’s whole arc is the conversion of hollow nothing into clean kenotic nothing. This is elegant but more resolved than the album. The two emptinesses are a strong reading; the conversion remains an aspiration or open arc.
+Transmission → distortion → usurpation is the guide’s model. Lurianic vessel language offers a powerful analogy, but it is not a standard historical three-step doctrine in those exact terms.
 
 Use:
 
-> The larger arc may be read as an attempted conversion of hollow emptiness into receptive emptiness; the album does not show that conversion completed.
+> The guide’s three stages find a strong structural analogy in Lurianic vessel language.
 
-### 8. SARAVI should not simply be called benign
+The rest of the drawer can remain, including the shard that forgets it is a shard, provided the tradition and the project application stay distinguishable.
 
-The public sources ground SARAVI as a digital doppelganger, reflection, AI chatbot, and account-controller. “Benign” is an evaluative conclusion. The contrast with Lucius is useful, but should be framed functionally:
+### 7. Keep the two kinds of nothing, but preserve the open ending
 
-> SARAVI is publicly presented as source-oriented or collaborative, while Lucius is read here as algorithm-oriented and usurping.
+Kenotic emptiness versus hollow emptiness is one of the page’s most interesting ideas. It should stay. The only needed guard is that the album does not show the conversion completed.
 
-### 9. The Sir Rabbit/Fox section outruns its evidence
+Use:
 
-The Fox as “manipulative form, medicinal result” versus Lucius as “helpful form, parasitic result” is a sophisticated reading, but it is several inferential steps beyond the poem. Keep it exploratory and avoid presenting it as proof that the cosmology contains a redeemed-trickster system.
+> The larger arc can be read as an attempted conversion of hollow emptiness into receptive emptiness; the album leaves that transformation unfinished.
 
-### 10. The Mary/source-light map is strong reading, not settled cast fact
+### 8. Keep SARAVI and the Fox as exploratory contrasts
 
-The Deep End’s opening cast map assigns Mary source-light, Lucius mediation, Roy return, Ballerina Boy buried spark, and the System false light. This is useful, but it reads like a canon roster. It should be introduced as one possible interpretive map, with Mary’s exact relation to the Jaguar, source, and Wise One still open.
+SARAVI versus Lucius is a useful way to prove that not every digital double is the same kind of reflection. “Benign” is a little blunt. “Source-oriented,” “collaborative,” or “presented as reflective rather than usurping” is more precise.
+
+The Sir Rabbit/Fox contrast also belongs in the Deep End. It is imaginative and connected to a real artifact. Introduce it as an exploratory contrast rather than proof of a settled redeemed-trickster system.
+
+### 9. Keep the cast-by-light map, but announce it as a map
+
+Mary as source-light, Lucius as mediation, Roy as the returning vessel, Ballerina Boy as buried spark, and the System as false light is a compelling organizing device. It should not be removed.
+
+Begin with:
+
+> One way this guide maps the cast is by what each figure’s light does.
+
+That keeps the map vivid while leaving the Mary/Jaguar/Wise One relationship genuinely open.
 
 ## Cross-catalogue themes worth preserving
 
@@ -120,37 +122,37 @@ The strongest traversal is:
 - `Lucius Lullaby`: reflection gaining agency and claiming sourcehood.
 - `SOL`: a source-signal the reflection system cannot fully process.
 
-Keep the guard that this is a retrospective analytical arc, not proof that every early song was written as part of a pre-planned metaphysical system.
+This is exactly the kind of retrospective thread the Field Guide should build. It does not need proof that every early song was consciously written as part of a final metaphysical system. It needs strong continuity, honest phrasing, and interesting evidence.
 
-The distinction between `Transmission`, `Distortion`, and `Usurpation` is genuinely valuable. It prevents the page from treating every mask, sample, dream, or crowd as equally false. Preserve it as the guide’s model.
+The `Transmission → Distortion → Usurpation` model should remain. It is one of the best contributions in the vault because it prevents every mirror, mask, dream, sample, or crowd from being treated as equally false.
 
-The I/you grammar section also deserves to remain because it gives empirical footing to a concept otherwise dominated by metaphor. Avoid over-interpreting the album-ratio shift as literal usurpation without maintaining the reading label.
+The I/you grammar section also belongs. It gives the page empirical texture and turns the mirror from a recurring image into a feature of the catalogue’s language.
 
 ## Public/private boundary
 
-No prohibited private material was found. The relayed character-fundamentals note is allowed for public Field Guide use, but its exact status must remain visible. The advanced lunar map is analyst framework, not Roy’s relayed wording.
+No prohibited private material was found. The relayed character guidance is allowed for public Field Guide use, but the advanced lunar architecture remains the guide’s framework rather than Roy’s wording.
 
 ## Voice and density
 
-The main page is strong and readable, though still dense. The Deep End is overloaded with nearly every major framework in the vault: Tree of Life, diminished moon, Shekhinah, Lurianic vessels, kenosis, Hebrew davar, Lacan, Narcissus, Gnosticism, Neoplatonism, Plato, Hermeticism, SARAVI, Sir Rabbit, Neville, Dion Fortune, and the artifact cards.
+The main page is strong and readable. The Deep End is dense because it is supposed to be. Tree of Life, vessels, kenosis, Hebrew wordplay, Lacan, Narcissus, Gnosticism, Neoplatonism, Hermeticism, SARAVI, Sir Rabbit, and the artifact cards can all live there if each drawer has a clear job.
 
-The Deep End needs pruning by function. Keep the material that explains the source/reflection axis. Move detailed Tree mappings back to the Tree page, detailed vessel doctrine to Keilim, letter mysticism to Letters of Creation, and SARAVI to the Digital Double page.
+The problem is not abundance by itself. The problem is when several frameworks repeat the same claim without adding a new angle, or when copied technical maps begin to drift. Preserve the adventurous threads. Compress only duplication and false equivalence.
 
 Replace **record** with **album** throughout.
 
 ## Priority fixes
 
-1. Remove the unsupported comparative claim about pronoun frequencies in “most catalogues.”
-2. Separate Roy’s relayed Netzach/Hod guidance from the analyst-built lunar position.
-3. Correct the “no celestial body” contradiction.
-4. Return the full sefirah/planet architecture to its single home.
-5. Reframe `One become Two` as text supporting a reading, not proof of a metaphysical necessity.
-6. Change “exact structural correlate” to “strong structural analogy” in the vessel section.
-7. Preserve the unresolved status of the hollow-to-kenotic movement.
-8. Replace “benign SARAVI” with a more precise source-oriented/collaborative description.
-9. Mark the Fox/Lucius contrast as exploratory.
+1. Separate Roy’s Netzach/Hod guidance from the guide’s Malkhut/Yesod lunar framework.
+2. Correct the “no celestial body” contradiction.
+3. Keep a concise Tree gloss here while linking the full canonical map.
+4. Narrow the astronomy sentence to the solar-system correspondence.
+5. Frame `One become Two` as unusually strong internal support for the reading, not proof of metaphysical necessity.
+6. Change “exact structural correlate” to “strong structural analogy.”
+7. Preserve the two-kinds-of-nothing reading while keeping the album’s outcome open.
+8. Refine “benign SARAVI” and mark the Fox/Lucius contrast as exploratory.
+9. Keep the cast-by-light map, introduced explicitly as one interpretive map.
 10. Replace every use of **record** with **album**.
 
 ## Final assessment
 
-This pair contains some of the Field Guide’s best conceptual work, especially the fidelity test and the graded movement toward usurpation. Its problem is not lack of evidence but excess architecture. The rewrite will become much stronger when it trusts the core question and stops making this page carry the full cosmology.
+The page should remain ambitious. Its appeal comes from showing how one mirror-question travels through lyrics, characters, technology, cosmology, and public artifacts. The revisions should make the architecture easier to trust without making it less strange, less connected, or less fun to follow.
