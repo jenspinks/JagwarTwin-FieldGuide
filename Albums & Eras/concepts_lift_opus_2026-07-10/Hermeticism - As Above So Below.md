@@ -14,18 +14,32 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > Hermeticism is a foundational Western esoteric and philosophical tradition based on teachings attributed to the mythical figure Hermes Trismegistus. Within the Jagwar Twin project, it serves as a primary cosmological framework used to understand reality, consciousness, and the architecture of the self.  
 > 
 > **Core Axioms and The Kybalion**
-> Roy English has explicitly grounded Hermetic philosophy in the project's lore, listing books like the Hermetica and The Kybalion on his curated reading lists. On his "I'm 33 this year" conceptual board, he transcribed the seven core principles of The Kybalion:  
-> Mentalism: The foundational premise that "The All is Mind… Mind woven into matter".  
-> Correspondence: The famous axiom "as above, so below," which dictates that the structures and laws of reality repeat across all scales, from the cosmic to the personal.  
-> Vibration  
-> Polarity  
-> Rhythm  
-> Cause-and-Effect  
-> Gender  
+> Roy has explicitly grounded Hermetic philosophy in the project's lore, listing books like the Hermetica and The Kybalion on his curated reading lists. 
+> On his "I'm 33 this year" conceptual board, he transcribed the seven core principles of The Kybalion:  
 > 
-> Hermeticism is the opposite of treating the world as a trap. It holds the cosmos as one coherent, legible law, the same pattern repeating at every scale, galaxy to atom, cosmos to body to mind, a world you can read and climb instead of flee. Its most famous line, out of the Emerald Tablet, is *as above, so below*.
->
-> Roy didn't just read up on it. He printed the maxim on a music video in 2021, and he transcribed all seven of the Kybalion's principles, verbatim and in full, onto his own board. The song-by-song mappings below are a lens the work fits, not a blueprint, and Roy runs the correspondence-method and disclaims it in the same breath, so if we ever sound sure we are doing it wrong!
+> **The 7 Hermetic Principles**
+> 1. The Principle of Mentalism
+>    *The Law: "The All is Mind… Mind woven into matter".*  In the Vault: This is the foundational premise that consciousness precedes and shapes physical reality. It underpins the project's view of the universe as a mental construct where the self can be "uploaded" or read as information in a field.  
+> 2. The Principle of Correspondence
+>    *The Law: "As above, so below."*
+>    In the Vault: This dictates that the structures and laws of reality repeat fractally across all scales, from the macrocosm of the solar system down to the microcosm of the atom or the individual psyche. The vault uses this to map personal, internal psychological splits onto larger, cosmic-scale narratives.  
+> 3. The Principle of Vibration
+>    *The Law: Everything is in constant motion; nothing rests.*
+>    In the Vault: Roy explicitly grounds this principle in his own 2020 commentary: "Everything is a vibrational frequency. Light, matter, sound, it's all the same thing at variable speeds".  
+> 4. The Principle of Polarity
+>    *The Law: Everything has an opposite, and opposites are merely two extremes of the exact same thing.*
+>    In the Vault: This is the root architecture of Duality within the project. It dictates that conflicting forces—like the heart and the mind, Roy and Sir Lucius, or light and dark—are not meant to destroy one another. The goal of the initiate is not elimination of the shadow, but the correct ordering and integration of these polarized forces.  
+> 5. The Principle of Rhythm
+>    *The Law: The universe moves in cycles, tides, and pendulums; the measure of the swing to the right is the measure of the swing to the left.*
+>    In the Vault: Roy illustrates this law by curating Walter Russell's "The Cosmic Pendulum," noting that creation is a continuous swing of expansion and contraction. This principle underwrites the cyclical nature of the catalogue, from the recursions of the Loop to the returning orbit of the Circle.  
+> 6. The Principle of Cause and Effect
+>    *The Law: Every cause has an effect, and every effect has a cause; nothing happens by chance.*
+>    In the Vault: This principle speaks directly to the themes of self-authorship and the consequences of perception. It is mirrored in the lyrics of Imagine A World, which frames reality as a direct response to individual action: "Depending on how you acted / You were the cause and reaction".  
+> 7. The Principle of Gender
+>    *The Law: Gender is in everything; everything has its masculine and feminine principles.*
+>    In the Vault: The project explores this extensively through the Left/Right brain hemisphere split (Order/reason/masculine vs. Chaos/creativity/feminine). It also manifests in the tension between the masculine structuring "angles" (consonants) and the feminine, animating "angels" (vowels/spirit/Sophia).  > 
+> 
+> Roy didn't just read up on it. He printed the maxim on a music video in 2021, and he transcribed all seven of the Kybalion's principles, verbatim and in full, onto his own board. The song-by-song mappings are a lens the work fits, not a blueprint, and Roy runs the correspondence-method and disclaims it in the same breath, so if we ever sound sure we are doing it wrong!
 
 **Where it enters**
 
