@@ -45,7 +45,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 * The 2021 [[Down to You]] official-video-title: **"AS ABOVE SO BELOW"** printed as a sigil, flanking the seeker-question *"WHAT IS IT THAT YOU SEEK?"*
 * The "I'm 33" board: all seven Kybalion principles in Roy's own hand, on a tab titled *"How to upload myself to the internet."* (Yes. The cosmology and the upload fantasy share a browser tab.) The board is also where the term [[The Pattern]] comes from.
-* The 2026 *welcome to the circus (Live Underground)* card, five years after the end-card: *"DID HERMES PAINT HIS FACE? I DON'T KNOW, MAYBE."*
+* The 2026 *welcome to the circus (Live Underground)* card, five years after the title card: *"DID HERMES PAINT HIS FACE? I DON'T KNOW, MAYBE."*
 
 That is the surface, and it holds on its own. The drawers go one reading deeper at a time.
 
@@ -117,7 +117,7 @@ That is the surface, and it holds on its own. The drawers go one reading deeper 
 > The heavier apparatus behind this page, the board read as a syncretic operating system, the six-fold ten-stage ladder and its productive disagreements, the Gurdjieff and Walter Russell octave readings, the Star-Moon-Sun card map, the Down to You alchemical overlays, the clause-by-clause dark-Vibration readings, the inherited substrate, and the feed posts, lives in [[Hermeticism - As Above So Below — The Deep End]]. Dense and speculative by design. The page you are on stands without it.
 
 > [!receipts]- Sources and confidence
-> Grounded in Roy's own materials and public record: *"AS ABOVE SO BELOW"* on the 2021 *Down to You* end-card; the *Hermetica* and *The Kybalion* on the public Instagram Book Club; the Hermes Trismegistus quote-card; the full seven-principle transcription on the "I'm 33" board, with its Correspondence, Mentalism, and Vibration cells and the *"Undefined Map"* sketch; the 2020 Vibration statement; the Mirror Sessions Mercury-as-higher-self moment; the 2026 *"Did Hermes paint his face?"* card; and the crow-onto-Mercury disclaimer. Together these establish Hermeticism as a named, documented influence with a public lineage floor of 2020.
+> Grounded in Roy's own materials and public record: *"AS ABOVE SO BELOW"* on the 2021 *Down to You* title card; the *Hermetica* and *The Kybalion* on the public Instagram Book Club; the Hermes Trismegistus quote-card; the full seven-principle transcription on the "I'm 33" board, with its Correspondence, Mentalism, and Vibration cells and the *"Undefined Map"* sketch; the 2020 Vibration statement; the Mirror Sessions Mercury-as-higher-self moment; the 2026 *"Did Hermes paint his face?"* card; and the crow-onto-Mercury disclaimer. Together these establish Hermeticism as a named, documented influence with a public lineage floor of 2020.
 >
 > Grounded lyrics, interpretive mappings: *"My head's an antenna"* and *"too happy to choose"*; *"they infiltrate my brain"*; *"Jericho fell like a wave"*; the reversible heaven-and-earth refrain; *"everything's upside down."* The lyrics are on the albums; reading them as specific Hermetic principles is interpretation, built on the board as a key.
 >

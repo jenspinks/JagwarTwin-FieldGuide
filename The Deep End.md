@@ -25,7 +25,7 @@ The catalogue drinks from some very old wells. These pages name the wells. Four 
 
 - [[Kabbalah - The Tree of Life]]: one sun and a row of mirrors hung below it. The diagram the songs keep drawing, with a seat on it for Roy, Lucius, and Mary. (6,400 words. Bring water.)
 - [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]]: the oldest version of the project's most public idea. The world is a beautiful trap, and the way out is remembering, not escaping. (5,900 words. Bring snacks too.)
-- [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]: the maxim was printed on a Jagwar Twin end-card in 2021, five years before anyone thought to ask whether Hermes painted his face.
+- [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]: the maxim was printed on a Jagwar Twin title card in 2021, five years before anyone thought to ask whether Hermes painted his face.
 - [[Concepts/The Sacred Truths/Theosophy]]: Blavatsky wrote one ruthless sentence, *"the mind is the slayer of the real,"* and Roy quotes it like a man who took it personally.
 
 And the old stories put to work on this world's own figures:

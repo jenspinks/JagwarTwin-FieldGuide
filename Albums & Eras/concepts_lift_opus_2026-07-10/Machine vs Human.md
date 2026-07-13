@@ -41,7 +41,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > Two of the thread's traditions are also on the record as public acts: Roy posted Gurdjieff's "Man is a machine" quote-card (Gurdjieff is his most-named influence on X), and set a page of Jung's *Collected Works* Vol. 18 to [[The Watchers]] on his Instagram story. He posted the books; what this guide does with them lives in the Deep End.
 
 > [!lore]- As above, so below
-> Here is a key that unlocks readings across the catalogue. "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* end-card, and the Kybalion's seven Hermetic principles are transcribed in full on the I'm 33 board — public years before anyone decoded it.
+> Here is a key that unlocks readings across the catalogue. "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* title card, and the Kybalion's seven Hermetic principles are transcribed in full on the I'm 33 board — public years before anyone decoded it.
 >
 > Used as a method, it says: when a pattern is hard to read at one scale, look one scale up or down for a clearer copy. And the machine-vs-human split reads as exactly that: the [[Heart and Mind|heart-and-mind]] split one scale up, played out on society and the feed instead of inside one person. Same structure, and, crucially, the same cure. You do not destroy the mind; you make it serve the heart. You do not smash the machine; you re-subordinate it. As above, so below.
 

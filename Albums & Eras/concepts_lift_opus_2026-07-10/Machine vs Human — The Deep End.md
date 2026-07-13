@@ -12,7 +12,7 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 ## As above, so below: the reading engine
 
-The core page names the key; here is the whole mechanism. "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* end-card, and the I'm 33 board carries the Kybalion's seven Hermetic principles transcribed in full, "The All is Mind... Mind woven into matter." Both are public objects. What they establish is engagement, a reading-list in plain sight, not a proven compositional grammar; the difference matters and this guide keeps it.
+The core page names the key; here is the whole mechanism. "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* title card, and the I'm 33 board carries the Kybalion's seven Hermetic principles transcribed in full, "The All is Mind... Mind woven into matter." Both are public objects. What they establish is engagement, a reading-list in plain sight, not a proven compositional grammar; the difference matters and this guide keeps it.
 
 Used as the Hermeticists use it, correspondence is a method: reality rhymes across scales, so when a pattern is illegible at one scale, look one scale up or down for a clearer copy of the same shape. Apply it here and the largest opposition in the catalogue snaps into focus. Machine vs human at the social and digital scale *is* the heart-and-mind split at the individual scale: the same severing, the same wrong king on the throne, the same cure. The mind is not destroyed but re-subordinated; the machine is not smashed but restored to service. One disease drawn twice, once inside a person and once across a civilization, and the correspondence is what lets each drawing explain the other.
 
