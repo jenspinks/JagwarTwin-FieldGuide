@@ -61,6 +61,8 @@ The Brain already carries this guard. The `Bad Feeling` ending places Lucius wit
 
 Keep “Lucius holding a candle while the performers’ heads burn.” In the Deep End, change “the Light-Bearer who sets the show alight” to “a juxtaposition that lets the guide read him as the Light-Bearer setting the show alight.”
 
+Jen Note - he is also shown with a burning apple and many images of things blowing up behind him.  I think there is a purposeful placement of lucius and things blowing up.  also bananas chorus - burn it down burn it down burn it down. but on bad feelings its his one and only appearance and then the faceless red leather performers are on fire, then the rest of the circus is burning.  Its not subtle.
+
 ### 3. The Circus as `Lucius scaled to society` is strong reading
 
 This is one of the vault’s load-bearing readings and belongs on the page. It should not become identity. The rewrite mostly handles that well. Keep the explicit distinction among:
@@ -73,6 +75,8 @@ This is one of the vault’s load-bearing readings and belongs on the page. It s
 ### 4. The gatekeeper war is public grounding, not proof of every Circus layer
 
 The Warner/Atlantic drops, virality pressure, blockchain end-run, and public comments make the industry/algorithm reading biographically real. They do not prove that every carnival image or lyric line was intentionally designed as a direct retelling of those events. Keep the biography as grounding for pressure, not as a one-to-one decoder.
+
+Jen- but they mostly were. 
 
 ### 5. The Roman martyr section needs historical precision
 
