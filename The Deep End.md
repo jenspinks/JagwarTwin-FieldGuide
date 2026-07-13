@@ -33,6 +33,7 @@ And the old stories put to work on this world's own figures:
 - [[Concepts/The Labors of Hercules]]: If you have ever heard Roy talk for more than five minutes then you have very likely heard him mention the Twelve Labors as one soul's inner journey, and the lion getting tamed reads as his own ego. (5,600 words. The lion takes time.)
 - [[Concepts/The Dweller on the Threshold]]: there's an old name for the guardian you build out of everything you refused to face, and Lucius fits it uncannily well.
 - [[Concepts/Jacob and Esau]]: two twins, one blessing, a costume con, a midnight wrestling match, and an ending where nobody wins because they hug instead.
+- [[Concepts/The Divided Self]]: every brother-and-double story the culture ever told, laid side by side, from Cain and Abel to Amadeus to Fight Club, mapped onto Roy and Lucius to chart every way the split could end.
 - [[Concepts/Keilim - The Breaking of the Vessels]]: before anything else in this story, something broke. The oldest telling says the light was too strong for its container, and the whole job since is picking up sparks. This is one of Roy's favorite and he tells it many ways. 
 - [[Concepts/Nigredo]]: alchemy says you go black before you go gold. The Circus's whole trick is keeping you in the dark stage forever.
 

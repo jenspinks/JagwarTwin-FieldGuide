@@ -82,3 +82,6 @@ Start with [[The Green Apple]], [[The Crow]], [[The Dove]], [[The Sword]], and [
 
 ### Go too deep
 Enter [[The Deep End]] if you enjoy old maps, weird symbols, long essays, and the feeling that the banana was somehow important.
+
+### Or find one specific thing
+[[The Map]] is the full index: every page in the guide, in one place, for when you already know what you are hunting for.

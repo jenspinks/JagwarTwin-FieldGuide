@@ -52,7 +52,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!warning]- The one that doesn't end in a hug
 > Genesis gives the divided self *two* brother stories, and they end opposite ways. Jacob and Esau reconcile. **Cain and Abel** do not: the offering rejected, the brother killed, the mark set, the exile east of Eden. Same pattern, the passed-over one's grievance, but the embrace withheld.
 >
-> So the two pairs read as **two prognoses for the same arc**: the aggrieved twin who can still be run to and held, or the separation that hardens into a mark and a wandering (the Loop as the land of Nod, with no field at the end). Sibling myths as alternative scripts the work may move among, not one fixed genealogy. The catalogue's one Cain gesture so far is the boy-fable in [[Great Time to Be Human]], flagged tentatively; no public statement of Roy's invokes Cain, so this is structural parallel only.
+> So the two pairs read as **two prognoses for the same arc**: the aggrieved twin who can still be run to and held, or the separation that hardens into a mark and a wandering (the Loop as the land of Nod, with no field at the end). Sibling myths as alternative scripts the work may move among, not one fixed genealogy. The catalogue's one Cain gesture so far is the boy-fable in [[Great Time to Be Human]], flagged tentatively; no public statement of Roy's invokes Cain, so this is structural parallel only. The full array of these sibling and double scripts, Cain and Abel, Amadeus, Joseph, the Gemini twins, Fight Club, and the rest, laid side by side to chart every ending the split could reach, lives at [[The Divided Self]].
 
 > [!reading]- The limp is the light
 > Right relation does not happen by winning. Jacob wrestles all night, refuses to let go without a blessing, and limps out of it **wounded and renamed**. The hip never comes right again. You do not defeat the shadow cleanly and stroll away whole; you come out marked, and the wound is not the toll you pay on the way to the light, on this reading it *is* the light. Healing does not erase the evidence of the conflict.
@@ -75,4 +75,4 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > Fenced off: a "Jacob/Esau reading from Alice Bailey" is sometimes claimed; treat any such quote as unverified until it is pulled from a named Bailey volume with a page. This reading makes no such claim. It stands on Genesis and on the work, and names no author or tradition as Roy's source. If this page ever sounds certain, it is doing the job wrong: this is one way of seeing it, not the answer.
 
 > [!feed]- Read next
-> [[Roy]] · [[Sir Lucius]] · [[Duality]] · [[Inversion]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]]
+> [[Roy]] · [[Sir Lucius]] · [[The Divided Self]] · [[Duality]] · [[Inversion]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]]

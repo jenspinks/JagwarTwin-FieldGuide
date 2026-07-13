@@ -25,6 +25,7 @@ Not a reading list — a lineage. The artists Roy names as having *"completed th
 
 - [[Musical Lineage]] — *"a Jesus, a Bowie, a Prince"*: Michael Jackson, Prince, David Bowie, and Joni Mitchell, and what each one actually lends the work.
 - [[Joni and the Descending Star]] — the deep dive: the confirmed co-write and blessing on *Soul Is A Star*, and why Joni is the clearest working model of the whole descending-star cycle.
+- [[Mozart]] — the composer Roy admires for his *math* (*"the way he does his math… it's geometric"*), and, through the film *Amadeus*, the clearest mirror the outside world ever made of the Roy-and-Lucius split.
 
 ## Read next
 
