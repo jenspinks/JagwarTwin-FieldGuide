@@ -2,5 +2,8 @@
   "siteId": "612d3d71d80c7c2386f82236e6ac654c",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "_internal",
+    "_internal/Templates"
+  ]
 }
