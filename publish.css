@@ -584,8 +584,8 @@ body.theme-dark, body.theme-light, .published-container {
   border-image:linear-gradient(180deg,#ecc861,#8b1e2d) 1;}
 
 /* ====== NAV: hide the exhaustive Canon Index from the sidebar (page stays published + is linked from Public Posts) ====== */
-.site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Start Here/Roy's Posts"]),
-.site-body-left-column .tree-item-self[data-path^="Start Here/Roy's Posts"]{ display:none !important; }
+.site-body-left-column .tree-item:has(> .tree-item-self[data-path*="Roy's Posts"]),
+.site-body-left-column .tree-item-self[data-path*="Roy's Posts"]{ display:none !important; }
 
 /* ====== NAV: hide the "Inside of the Inside" speculation wing from the sidebar
    (pages stay published + are reachable only via the link at the bottom of each character page) ====== */
