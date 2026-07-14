@@ -589,8 +589,8 @@ body.theme-dark, body.theme-light, .published-container {
 
 /* ====== NAV: hide the "Inside of the Inside" speculation wing from the sidebar
    (pages stay published + are reachable only via the link at the bottom of each character page) ====== */
-.site-body-left-column .tree-item:has(> .tree-item-self[data-path^="Characters/The Inside of the Inside"]),
-.site-body-left-column .tree-item-self[data-path^="Characters/The Inside of the Inside"]{ display:none !important; }
+.site-body-left-column .tree-item:has(> .tree-item-self[data-path*="The Inside of the Inside"]),
+.site-body-left-column .tree-item-self[data-path*="The Inside of the Inside"]{ display:none !important; }
 
 /* ====== NAV EYEBROW: בא ⇄ אב  (Ba/Av — "enter" reversed is "source") over the Act list ======
    Hebrew has no glyphs in Rye/Fraunces, so use a Hebrew-capable serif; force LTR + isolate
