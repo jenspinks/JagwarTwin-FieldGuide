@@ -1,23 +1,25 @@
 /* publish.js — The Jagwar Twin Field Guide
  *
  * Make clicking a NAV FOLDER open its "folder note": a page named the same as the
- * folder (e.g. clicking "Characters" opens Characters/Characters; clicking
- * "Albums & Eras" opens Albums & Eras/Albums & Eras). Folders that have no such
- * page (Stars, Supporting Cast, Source & Structure, Reading Paths, …) are left to
- * behave normally — they just expand/collapse.
+ * folder (clicking "Characters" opens Characters/Characters; "Albums & Eras" opens
+ * Albums & Eras/Albums & Eras, etc.). Folders with no such page (Stars, Supporting
+ * Cast, Source & Structure, Reading Paths, …) just expand/collapse as normal.
  *
- * How it works: Obsidian Publish expands a folder on click. We wait a beat for the
- * folder's children to render, find the child note whose path equals folder/foldername,
- * and trigger Publish's own navigation by clicking it (no URL guessing, so names with
- * spaces or "&" like "Albums & Eras" are handled correctly).
+ * Verified live on 2026-07-13 against publish.obsidian.md/jagwar-twin: notes carry a
+ * ".md" suffix in data-path, folders do not; clicking the folder-note tree item
+ * triggers Publish's own router (so "&" and spaces in names are handled correctly).
+ *
+ * NOTE: for this to run, custom JavaScript must be enabled in the Obsidian Publish
+ * site settings, and this file must be published.
  */
 (function () {
   "use strict";
+  if (window.__jtFolderNav) return;
+  window.__jtFolderNav = true;
 
-  function openFolderNote(folderPath) {
-    if (!folderPath) return;
+  function openFolderNote(folderPath, attempt) {
     var name = folderPath.split("/").pop();
-    var notePath = folderPath + "/" + name; // e.g. "Characters" -> "Characters/Characters"
+    var notePath = folderPath + "/" + name + ".md"; // "Characters" -> "Characters/Characters.md"
     var items = document.querySelectorAll(
       ".site-body-left-column .tree-item-self[data-path]"
     );
@@ -27,7 +29,12 @@
         return;
       }
     }
-    // No folder note for this folder — leave the normal expand/collapse alone.
+    // The folder's children render asynchronously after it expands; retry briefly.
+    if ((attempt || 0) < 6) {
+      setTimeout(function () {
+        openFolderNote(folderPath, (attempt || 0) + 1);
+      }, 40);
+    }
   }
 
   document.addEventListener(
@@ -39,14 +46,13 @@
       if (!folderSelf) return;
       var folderPath = folderSelf.getAttribute("data-path");
       if (!folderPath) return;
-      // Let the folder expand + render its children, then open its page.
       setTimeout(function () {
         try {
-          openFolderNote(folderPath);
+          openFolderNote(folderPath, 0);
         } catch (e) {
-          /* fail safe: never break the nav */
+          /* never break the nav */
         }
-      }, 50);
+      }, 0);
     },
     true
   );
