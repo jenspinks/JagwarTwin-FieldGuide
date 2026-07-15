@@ -50,7 +50,7 @@ The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from 
 - an **Ouroboros** (a circle with arrows, *"like the snake eating itself but simpler"*) — got with Little Luna. → [[Concepts/The Loop and the Circle]]
 
 **Torso**
-- *I CAN'T FEEL* (back of shoulder) · *If you forget who you are, you used to b* (chest; the text appears cut off at "b")
+- *I CAN'T FEEL* (back of shoulder) · *If you forget who you are, you used to b* (chest) — **the line is complete; it ends at "b," read exactly as it ends** (not a photo cutoff). Within the work it reads as self-enacting: a sentence about forgetting who you are that never reaches its own last word, *be*.
 - *In service to all, in service to the one* (up the side of the abdomen) · *Lessons learned* (near a scar) · *Trust your guts* (lower abdomen) · *Spaceship Eden* (shoulder)
 - *Be* (front of shoulder) — *"to remind me to be."*
 
