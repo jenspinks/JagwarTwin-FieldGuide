@@ -13,7 +13,7 @@ source_basis: ["public posts"]
 > [!info] How to read this
 > Each entry is the post's **verbatim text**, its date, and the guide pages it connects to, drawn from verified captures of the public **[@JagwarTwin](https://x.com/JagwarTwin)** feed (and the **[@royenglish](https://www.instagram.com/royenglish/)** Instagram). Posts span the 2023 *Hall of Mirrors* / web3 era and the 2025–26 *Lucius Lullaby* era. Individual permalinks aren't all preserved — posts are listed by date and exact wording so any survivor is findable on the feed. Excerpts are short by design; the originals are the source of record.
 
-*342 canon-relevant posts, grouped by theme.*
+*346 canon-relevant posts, grouped by theme.*
 
 ## The heart and the mind
 
@@ -306,12 +306,16 @@ source_basis: ["public posts"]
 
 *The daily one-liners that carry the philosophy without naming a single page — the ambient weather of the whole project.*
 
+- *"Love is water"* — **2026-07-08** — [[Water]] · [[SOL]]
+- *"Revolution must originate within our minds… we take the first step towards remaking the world."* — **2026-07-05**
+- *"Myths are undisclosed thoughts of the soul."* — **2026-07-01**
 - *"I need to become bilingual."* — **2026-06-27**
 - *"Life is an act of death."* — **2026-06-26** — [[SOL]]
 - *"Chaos club"* — **2026-06-25**
 - *"Astrology is a blueprint of where your souls limitations are and a plan to work those out. It's very accurate for the involved soul but becomes completely useless and false for the evolved soul. We must master our stars."* — **2026-06-25** — [[SOL]] · [[Soul Is A Star]]
 - *"What a goose you are."* — **2026-06-10** — [[Soul Is A Star]]
 - *"Love is the highest paying work there is."* — **2026-06-09**
+- *"Love requires tremendous courage."* — **2026-06-04**
 - *"I'm here to serve Jesus."* — **2026-05-25**
 - *"Put it in the lore cannon"* — **2026-05-11**
 - *"You gotta survive invisibility."* — **2026-05-08**

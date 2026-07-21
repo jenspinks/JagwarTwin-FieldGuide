@@ -32,7 +32,7 @@ The ideas the world stands on, grouped the way [[Concepts/Concepts|the Concepts 
 
 Every object on the payroll. Introduced on [[Symbols/Symbols|the Symbols page]].
 
-[[The Crow]] · [[The Dove]] · [[The Sword]] · [[The Green Apple]] · [[The Rose]] · [[El Roi]] · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · [[Fire]] · [[The Banana]] · [[The Thread]] · [[The Moon]] · [[Roy's Tattoos]] · [[The Colors]] · [[Beth]] · [[The Fool]] · [[The Wheel]] · [[The Prop Room]]
+[[The Crow]] · [[The Dove]] · [[The Sword]] · [[The Green Apple]] · [[The Rose]] · [[El Roi]] · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · [[Fire]] · [[Water]] · [[The Banana]] · [[The Thread]] · [[The Moon]] · [[Roy's Tattoos]] · [[The Colors]] · [[Beth]] · [[The Fool]] · [[The Wheel]] · [[The Prop Room]]
 
 ## The influences
 

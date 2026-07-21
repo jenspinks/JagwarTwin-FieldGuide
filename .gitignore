@@ -4,3 +4,9 @@
 .trash/
 _internal/
 Media/
+
+# Machine-local Obsidian plugin state. The REST API data.json holds the API key AND an
+# RSA private key, and this repo is PUBLIC — never commit it. (Was only in .git/info/exclude,
+# which does not travel between machines.)
+.obsidian/plugins/obsidian-local-rest-api/
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
