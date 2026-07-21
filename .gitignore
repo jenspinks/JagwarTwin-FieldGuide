@@ -10,3 +10,6 @@ Media/
 # which does not travel between machines.)
 .obsidian/plugins/obsidian-local-rest-api/
 .obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Machine-local Claudian plugin state (chat settings), differs per machine
+.claudian/
