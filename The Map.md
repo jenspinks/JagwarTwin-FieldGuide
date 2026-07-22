@@ -48,7 +48,7 @@ The whole catalogue, told by era, lives at [[Albums & Eras]], and every song is 
 
 ## Deeper, and behind the scenes
 
-- [[The Deep End]] — the full basement: every long essay and every deep companion, catalogued in one place.
+- [[The Deep End]] — the full basement: every long essay and every deep companion, catalogued in one place (including [[Water — The Deep End]], the comparative floor under [[Water]]).
 - [[Hall of Mirrors]] — the web3 puzzle-archive and its artifacts.
 - [[Roy's Posts — Canon Index]] — the public posts, dated and sorted · [[Public Posts]] — the key ones, in full.
 - [[Open Questions]] — what we honestly don't know yet · [[Source and Interpretation Policy]] — the rules this guide reads by · [[How to Read This Site]] — the field manual.
