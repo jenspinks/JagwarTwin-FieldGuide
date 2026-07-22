@@ -46,6 +46,33 @@ The equation has roots in his own record. In a 2021 interview Roy cited **Masaru
 
 The reason this page gets to exist at all: Roy states the assignment himself — *"fire being consciousness, **water being emotion**, air being thought, Earth being the physical reality you can touch"* — and places water in the West in his stated elemental directions (see [[Fire]] for the full quote and sourcing). So *"Love is water"* is not an imported correspondence; it is an equation inside his own published system. Love = the emotion-element. The heart's medium, as fire is the mind's.
 
+## The shoreline, 2010 to 2026
+
+Roy's water language has a long spine, and its earliest point is a band name. Before Jagwar Twin he fronted **Eye Alaska** (roughly 2006 to 2011), and *Alaska* descends from the Aleut *alaxsxaq*, glossed in the standard reference as "the mainland," and more literally as **the object toward which the action of the sea is directed**. In a 2010 interview Roy read the name that way himself, as looking toward that which the sea breaks against, adding that the people others follow are usually the ones who have been through enough to make them wiser.
+
+Set the three self-namings in a row and the relation inverts:
+
+| Year | The naming | The relation to the water |
+|---|---|---|
+| 2010 | **Eye Alaska** | **Looking toward** the shore |
+| 2018 | ***Subject to Flooding*** | **Being flooded**, the sea overwhelming the self |
+| 2026 | ***"I am the shore. I am not the wave"*** | **Being the shore**, the thing the sea breaks against |
+
+Look toward the shore, be flooded, become the shore. Read that way the 2026 aphorism is the 2010 band name's own meaning finally claimed in the first person, sixteen years later. The three statements are grounded; **the arc that connects them is this guide's reading**, and it is exactly the sort of figure that is easy to build from three points selected after the fact. It is offered as a reading and not as a documented intention.
+
+Two findings from a July 2026 provenance check bear on it, and they pull in opposite directions, which is why both are kept.
+
+**The phrasing appears to be Roy's own.** A search for *"I am the shore. I am not the wave"* and its near variants across quote archives, poetry, lyrics and social platforms surfaced no pre-2026 source. Every famous formulation in this family turned out to be *ocean* versus wave rather than *shore* versus wave. That matters, because it means the line is not a borrowed aphorism, and the "claimed in the first person" reading survives.
+
+**But the image is not the mystics'.** The ocean-and-wave teachings (Thich Nhat Hanh, Nisargadatta, Watts, the Rumi tradition) all exist to *dissolve* the boundary: the wave was never separate from the water. Roy's shore **keeps** that boundary. The shore is not the sea; it is the other term, the fixed thing the sea breaks against. Whatever he is doing, it is not the standard dissolution move. The nearest attested pre-2026 use of shore in Roy's sense is not mystical at all but clinical, the Acceptance and Commitment Therapy "waves on the shore" visualisation, in which the beach is you and the waves are passing thoughts, with the sand remaining. That vocabulary circulates widely and without citation in wellness discourse, which makes it **inherited substrate** rather than a source: a current the line may be participating in, not a text it quotes. Held there, at resonance.
+
+A third note keeps the section honest. *"I'm the one who stays,"* the clause that completes the post, belongs to the register of relational fidelity rather than metaphysics, and no wisdom tradition carries it. The post reads as a fusion of two unrelated registers, which is itself a small argument for original composition.
+
+> [!warning]- Two citation flags on this section
+> **The Aleut gloss is looser in circulation than in the reference.** "The object against which the sea breaks" is a common paraphrase; the attested gloss is "the mainland," literally *the object toward which the action of the sea is directed*. The sense carries, the wording does not, so quote the attested form.
+>
+> **The 2010 interview needs a retrievable citation.** The band-name gloss is attributed to a 2010 Eye Alaska interview, and an independent July 2026 search could not surface that interview or any published explanation of the name. That is weak negative evidence for a small band's press from sixteen years ago, not a refutation, but until a link is pinned the gloss should be cited to the vault's own capture rather than presented as freely verifiable. Absent it, the Alaska etymology on its own is **resonance and not intent**: it is a fact about the word, not evidence about why the name was chosen.
+
 ## The two birds and the two waters
 
 The [[The Crow|crow]]/[[The Dove|dove]] split runs straight through this element. Corvus, the crow constellation, is fixed in the sky beside Crater, the cup, eternally within sight of the water it was sent to fetch and can never drink: the mind's unquenchable thirst. The Hall of Mirrors' white **dove on the chalice** is the exact counter-image, the heart reaching the very cup the crow is denied. And Genesis 8 splits the same way over the flood itself, the raven that goes to and fro and never lands, the dove that returns with the olive leaf. The two birds are the two possible relations to this element: thirst and drink, orbit and return.
@@ -78,7 +105,8 @@ The bird-to-character assignment is Roy's own, and the frame it comes with matte
 ## Source notes
 
 - **Grounded (Roy's own words, released music, public posts, public artifacts).** The four-element key (*"water being emotion"*) and the West placement (sourced on [[Fire]]); the dated 2026 posts, including *"Love is water"* (July 8, 2026, post ID 2074924634466857428, Wayback-verified); the Emoto citation (2021 Highwire interview) — with the pseudoscience flag kept attached; *"A single drop of rain can be the start of a flood"* (2020); the *Subject to Flooding* title-gloss (2018); the board's *"bottomless well"* line and the wheel's "Water" station; the teal staging; [[SOL]] released wordless, with *"Love. Love is a question"* as its one recovered line; *"We are drops of light"* (2023).
-- **Strong readings.** The three-registers split (flood / tank / cycle); cycle-as-Circle and tank-as-Loop; *"Love is water"* as SOL's answer; the two birds as the two water-relations. Grounded anchors, interpretive assembly — labeled as such.
+- **Strong readings.** The three-registers split (flood / tank / cycle); cycle-as-Circle and tank-as-Loop; *"Love is water"* as SOL's answer; the two birds as the two water-relations; and the 2010-to-2026 shoreline arc, whose three statements are grounded while the figure joining them is this guide's. Grounded anchors, interpretive assembly, labeled as such.
+- **Provenance checked, July 2026.** *"I am the shore. I am not the wave"* returned no pre-2026 source in a targeted search across quote archives, poetry, lyrics and social platforms, so it is recorded as **apparently original phrasing, no source found**. The nearest attested structural antecedent is the ACT waves-on-the-shore visualisation, logged as inherited substrate rather than as a source. The Aleut etymology is logged as resonance and explicitly not as evidence of naming intent.
 - **Framework (named traditions, never authorial intent).** The whole comparative apparatus, with its verified translations and its misattribution guards, now lives one floor down in [[Water — The Deep End]]. Nothing in it is claimed as Roy's intent, and the honest limit is stated there: the traditions establish *"Love is water"* as a statable, long-standing position, and nothing more than that.
 - **Resonance.** The refraction reading and The Crow (1994) drawer — a physical figure and a reader's catalogued synchronicity, never source-claims.
 - **How we'd be wrong.** An aphorism is not a system: *"Love is water"* may be a beautiful mood and nothing more, and if the plain reading accounts for the post as well as this apparatus does, the apparatus is decorative. What keeps the page honest is that the element-key, the year of water-posts, and SOL's open question all *precede* the post. Held, not settled. None of this is the answer; it is one way of seeing it.
