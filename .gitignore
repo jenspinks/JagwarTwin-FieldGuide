@@ -2,5 +2,15 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .trash/
+# _internal/ stays OUT: holds the Roy IG "Exclusive" capture (uncitable per Boundaries),
+# the Voice Bank, and internal audits. This repo is PUBLIC. Do not un-ignore this.
 _internal/
-Media/
+
+# Machine-local Obsidian plugin state. The REST API data.json holds the API key AND an
+# RSA private key, and this repo is PUBLIC — never commit it. (Was only in .git/info/exclude,
+# which does not travel between machines.)
+.obsidian/plugins/obsidian-local-rest-api/
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Machine-local Claudian plugin state (chat settings), differs per machine
+.claudian/
