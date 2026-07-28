@@ -56,6 +56,15 @@ That is the surface, and it stands on its own. The drawers below go one mouth at
 >
 > The two rows people skip are the load-bearing ones: the prayer in the belly and the obedience after. Jonah's descent works because something happens *in* the dark and changes him on the way out. The Circus offers neither. That is the difference between an initiation and a meal.
 
+> [!props]- The third case: the snake that eats itself
+> Two outcomes sit in that table, swallowed and changed, or chewed and discarded. The catalogue carries a third, and it is where this page joins [[The Loop and the Circle]]: swallowed and *recirculated*. Nothing leaves the system, because there is no outside for it to leave to.
+>
+> Roy comes at the old ouroboros symbol three ways. There is one tattooed among the forearm pieces, which he glosses as "a circle with arrows, like the snake eating itself but simpler," inked near the **WAKE UP** that carries the Gurdjieff line. On his *Mirror Sessions* podcast, talking with Paris Berelc about animals eating animals, he runs "life begets life begets life" outward until it takes in everything: "we're all eating each other… it's like that ouroboros snake, we're just eating everything," then closes it, "we're eating ourselves, that's what it is." And the aphorism cells of [[The I'm 33 Board]] carry the same figure in prose: "Man devours God, God devours Man. One Life feeding another end of its Self."
+>
+> Read next to the Jonah table, the ouroboros is the case where the appetite becomes the architecture. The Circus at least ejects you; a closed ring keeps you circulating as its own fuel, which is why it reads as the Loop's engine rather than a separate idea. What keeps a loop turning is that it is feeding on itself. That also sharpens the open question two drawers down: the Circus and the ouroboros both fail to transform, but for opposite reasons, one ejects too early and the other never ejects at all.
+>
+> Worth saying plainly, since his tone matters: in that conversation Roy is not indicting anything. He says it as oneness, everything folded into a single self-feeding life, closer to wonder than to warning. He never calls it a loop. Hearing it as one is this guide's reading, and the fact that the same ring can sound like communion or like a trap is the point rather than a problem.
+
 > [!reading]- It's Not a Poster About Your Phone
 > The guardrail that keeps this concept from flattening: the whole drama runs on one fault line, the heart versus the machine that was supposed to serve it. A machine kept under the heart is creation. The same machine cut loose becomes [[The Algorithm]], optimization severed from feeling, now optimizing *you* into fuel. So the project is not against eating, or attention, or the internet, and plenty of incorporation in this world is the good kind: the meal that nourishes, the song taken to heart, the communion where what is received becomes part of you and gives something back. The adversary is the severing, the loss of reciprocity, not the appetite as such.
 >
@@ -82,4 +91,4 @@ That is the surface, and it stands on its own. The drawers below go one mouth at
 > Still open: the [[Bounce]] *"lore"* word, pending the ear; the *Pay Attention* vocal roles (Roy voicing Attention, little luna the guide) read that way but held as a reading until the credits settle it. None of this is the answer; it is one way of seeing it.
 
 > [!feed]- Read next
-> [[The Circus]] · [[The Algorithm]] · [[The Voice]] · [[Machine vs Human]] · [[Welcome to the Circus]] · [[I Like to Party]]
+> [[The Circus]] · [[The Algorithm]] · [[The Voice]] · [[Machine vs Human]] · [[Welcome to the Circus]] · [[I Like to Party]] · [[The Loop and the Circle]]
