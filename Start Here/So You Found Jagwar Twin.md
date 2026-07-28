@@ -19,10 +19,11 @@ Good! However you got here, that song was a door.
 Jagwar Twin is the project of Roy English: singer, songwriter, mirror holder, connection-maker, occasional ringmaster of meaningful nonsense.<img src="https://plumcreekranch.com/jagwar/roy_port.jpeg" style="float: left; width: 120px; margin-right: 16px; margin-bottom: 8px;"> On the surface, these are catchy pop songs with big hooks, creepy smiles, circus lights, and swirling melodies. The canon gets tangled fast. One minute you are listening to a pop song. The next, the Dude, Jesus, Jung, and a Kabbalist are arguing over an Egyptian statue in a bowling-alley parking lot at 3 a.m.
 
 
-But underneath, the songs seem to tell one long story. 
+But underneath, the songs seem to tell one long and familiar story. 
 
 
-There is Roy, the heart of the project. And there is Sir Lucius, <img src="https://plumcreekranch.com/jagwar/lucius_apple.png" style="float: left; width: 120px; margin-right: 16px; margin-bottom: 8px;">the sharp voice in the white face paint, the green apple, the cigarette, the grin that knows exactly where to poke the wound. Here is the basic engine: in the story, Roy and Lucius are not two parallel characters; they are two sides of one person. Most of the catalogue is the two of them arguing, bargaining, masking, performing, and trying to break the loop. Lucius believes he knows the only way out. Roy has to decide whether the way out is really a way home. 
+There is Roy, the heart of the project. And there is Sir Lucius, <img src="https://plumcreekranch.com/jagwar/lucius_apple.png" style="float: left; width: 120px; margin-right: 16px; margin-bottom: 8px;">the sharp voice in the white face paint, the green apple, the cigarette, the grin that knows exactly where to poke the wound. 
+The Engine: in the story, Roy and Lucius are not two parallel characters; they are two sides of one person. Most of the catalogue is the two of them arguing, bargaining, masking, performing, and trying to break the loop. Lucius believes he knows the only way out. Roy has to decide whether the way out is really a way home. 
 
 
 🎠<strong>That is the part to hold onto. Everything else is furniture. Beautiful furniture, haunted furniture, possibly cursed furniture, but still sofas all the way down.</strong>

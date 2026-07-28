@@ -57,6 +57,7 @@ One seam of the work, taken apart stitch by stitch.
 
 - [[The Fool]]: *"I ain't nothing but a Fool"* is a confession, a Tarot card, and quite possibly the smartest position in the whole catalogue.
 - [[The Prop Room]]: the well, the halo, the gun, the crown, the raised hands. Every smaller prop in the show, shelved and labeled for the truly curious.
+- [[Water — The Deep End]]: water has been a model of the soul for about three thousand years, and a few traditions meant it literally. The whole comparative floor, from the Upanishads to Bruce Lee, with the misattributions caught and the disagreements left standing.
 
 ## Also down here
 

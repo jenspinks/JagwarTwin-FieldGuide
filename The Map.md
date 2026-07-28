@@ -32,7 +32,7 @@ The ideas the world stands on, grouped the way [[Concepts/Concepts|the Concepts 
 
 Every object on the payroll. Introduced on [[Symbols/Symbols|the Symbols page]].
 
-[[The Crow]] · [[The Dove]] · [[The Sword]] · [[The Green Apple]] · [[The Rose]] · [[El Roi]] · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · [[Fire]] · [[The Banana]] · [[The Thread]] · [[The Moon]] · [[Roy's Tattoos]] · [[The Colors]] · [[Beth]] · [[The Fool]] · [[The Wheel]] · [[The Prop Room]]
+[[The Crow]] · [[The Dove]] · [[The Sword]] · [[The Green Apple]] · [[The Rose]] · [[El Roi]] · [[The Mirror]] · [[The Mask]] · [[The Rabbit]] · [[Fire]] · [[Water]] · [[The Banana]] · [[The Thread]] · [[The Moon]] · [[Roy's Tattoos]] · [[The Colors]] · [[Beth]] · [[The Fool]] · [[The Wheel]] · [[The Prop Room]]
 
 ## The influences
 
@@ -48,7 +48,7 @@ The whole catalogue, told by era, lives at [[Albums & Eras]], and every song is 
 
 ## Deeper, and behind the scenes
 
-- [[The Deep End]] — the full basement: every long essay and every deep companion, catalogued in one place.
+- [[The Deep End]] — the full basement: every long essay and every deep companion, catalogued in one place (including [[Water — The Deep End]], the comparative floor under [[Water]]).
 - [[Hall of Mirrors]] — the web3 puzzle-archive and its artifacts.
 - [[Roy's Posts — Canon Index]] — the public posts, dated and sorted · [[Public Posts]] — the key ones, in full.
 - [[Open Questions]] — what we honestly don't know yet · [[Source and Interpretation Policy]] — the rules this guide reads by · [[How to Read This Site]] — the field manual.

@@ -55,6 +55,9 @@ It's the same move as [[The Green Apple]] (mind grasping) against [[The Rose]] (
 >
 > **Roy's own hedge, kept in view:** when he mapped the crow to Mercury, he added *"but that's just personal. I don't recommend you do it."* So the crow is real and it's *his* mapping — but he flagged it as personal rather than a rule for readers. His later putting it forward as a Lucius fundamental is what elevates it to the public starter-key; the hedge is why we cite it as a named correspondence, not a decoded law.
 
+> [!note]- Advanced reading — the other Crow: the 1994 film (resonance, not authorial intent)
+> No Jagwar Twin source references the film *The Crow*; this drawer records a structural resonance catalogued in July 2026, the week of the *"Love is water"* post, and it lives in the hedged register on purpose. The film is the impossible image of this page's bird: **a crow performing the dove's office.** A murdered man is carried back across the threshold by a crow — the psychopomp — powered entirely by love, through a city of perpetual rain, and when the work completes he lets go: [[The Dove|the dove]]'s release, performed by the mind's bird. Alchemy has a name for that double role: **Mercurius** is both the *caput corvi*, the raven's head of the nigredo, and the *aqua permanens*, the divine water that reunites what was separated (Jung, CW 12 ¶404; CW 14) — crow and water, one spirit, two phases. Which reads directly onto the feed's two 2026 correspondences: *"I would map a crow onto Mercury"* (April 7) and *"Love is water"* (July 8). The film's star was Brandon Lee — see [[Brandon]] for the name-thread and its guardrails — son of Bruce Lee, whose one teaching was *be water*. The mind-bird flying the heart's errand is *"my mind must serve my heart,"* with wings and rain. The other half of the formula lives on [[Water]].
+
 ## Source notes
 
 - **Grounded (Roy's own words, released material).** Roy's *"I'd map a crow onto Mercury"* post (with the *"that's just personal"* hedge); his signing to **Mercury** Records; the crow-call scored into [[Sir Lucius|Lucius]]'s scene in *[[The Interview]];* the *"midnight crows above"* and *"that was a real crow. no AI!"* posts. That Roy assigns [[Sir Lucius]] the crow, opposite [[Roy]]'s [[The Dove|dove]], is his own stated character-symbol key.
@@ -68,3 +71,4 @@ It's the same move as [[The Green Apple]] (mind grasping) against [[The Rose]] (
 - [[The Green Apple]] — Lucius's other mark; the mind grasping what it hasn't earned.
 - [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the Hermes / Mercurius thread the crow rides on.
 - [[The Interview]] — where the crow-call is scored into Lucius's scene.
+- [[Water]] — the element the crow is denied and the heart drinks; the other half of the Mercurius formula.
