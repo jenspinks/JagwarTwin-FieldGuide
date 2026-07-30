@@ -16,12 +16,12 @@ Think of this section as the evidence room, except the evidence sometimes sings.
 
 ## The full gallery — all 149, by number
 
-Every unlocked artifact as a scannable card, in the order the maze gave them up. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the whole collection reads at a glance. Each card's title opens its room, and **More →** jumps to the full reading.
+Every unlocked artifact as a scannable card, in Hall of Mirrors room order. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the whole collection reads at a glance. Each card's title opens its room, and **More →** jumps to the full reading.
 
-- **[[Artifacts - Gallery 1 (1-37)|Gallery 1 · #1–37]]**
-- **[[Artifacts - Gallery 2 (38-74)|Gallery 2 · #38–74]]**
-- **[[Artifacts - Gallery 3 (75-112)|Gallery 3 · #75–112]]**
-- **[[Artifacts - Gallery 4 (113-149)|Gallery 4 · #113–149]]**
+- **[[Artifacts - Gallery 1 (1-37)|Gallery 1 · #1–40]]**
+- **[[Artifacts - Gallery 2 (38-74)|Gallery 2 · #41–78]]**
+- **[[Artifacts - Gallery 3 (75-112)|Gallery 3 · #79–116]]**
+- **[[Artifacts - Gallery 4 (113-149)|Gallery 4 · #117–153]]**
 
 Prefer to read by *kind* rather than by number? The type deep-dives are below.
 

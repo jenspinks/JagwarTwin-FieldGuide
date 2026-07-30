@@ -9,9 +9,9 @@ status: published
 publish: true
 ---
 
-# Artifacts — Gallery 1 (#1–37)
+# Artifacts — Gallery 1 (#1–40)
 
-The Hall of Mirrors artifacts #1–37, in the order they were unlocked in the maze. Card color marks the artifact's type (see the key); the title opens its room, and **More →** jumps to the full reading below. *(Room deep-links are pending a live browser check.)*
+The Hall of Mirrors artifacts #1–40, in room order. Card color marks the artifact's type (see the key); the title opens its room, and **More →** jumps to the full reading below.
 
 <div class="legend"><b>Type</b><span><i style="background:#1f6f78"></i>Ciphers &amp; Code</span><span><i style="background:#d4a63a"></i>Concept Images</span><span><i style="background:#8b1e2d"></i>Family &amp; Friends</span><span><i style="background:#f2e3c6"></i>Drawings</span><span><i style="background:#fff"></i>Poems &amp; Texts</span><span><i style="background:#1b1b1e;border-color:#d4a63a"></i>Songs &amp; Demos</span></div>
 
@@ -144,7 +144,7 @@ A notebook self-portrait labelled *"ME,"* with a small cross-mark on the forehea
 
 ### 21 · Religious Organism (rejected album art)
 
-The same cat-organism from #99, now enshrined at the center of a hand-coloured chakra-rainbow ring on a black starfield: rejected album art. The code *"HOW TO STEER THE SOUL"* turns the bestiary's anatomy into an instruction. If the other drawings define the parts of a soul, this one asks how you pilot one through the ring of colours. It is the operational verb of the Upload cosmology, a small mandala of the self with a steering wheel implied.
+The same cat-organism from #103, now enshrined at the center of a hand-coloured chakra-rainbow ring on a black starfield: rejected album art. The code *"HOW TO STEER THE SOUL"* turns the bestiary's anatomy into an instruction. If the other drawings define the parts of a soul, this one asks how you pilot one through the ring of colours. It is the operational verb of the Upload cosmology, a small mandala of the self with a steering wheel implied.
 **Connects to →** [[Soul Is A Star]] · [[Concepts/The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[Concepts/The Pattern]]
 
 ### 22 · COACHELLA SEA
@@ -164,12 +164,12 @@ A candid of a writing session in a dim, red-lamped studio: a man in flannel and 
 
 ### 25 · Venus is a Dove
 
-A high-contrast photograph of a single white dove mid-flight on black, the photographic realization of the *"Venus the Dove"* sketch (#75). The code is a spreadsheet cell coordinate.
+A high-contrast photograph of a single white dove mid-flight on black, the photographic realization of the *"Venus the Dove"* sketch (#79). The code is a spreadsheet cell coordinate.
 **Connects to →** [[Concepts/The Pattern]] · [[Mary]]
 
 ### 26 · RORRIM EHTNI LIVED
 
-Three silent seconds of a burned CD-R hand-labeled *"Genesis"* on top and *"underground"* below, sitting open in a jewel case on weathered pallet slats. Mid-clip the whole image flips left-to-right and flips back, so the video performs its own title, since *RORRIM EHTNI LIVED* is *Devil In The Mirror* in mirror-reverse (Roy has warned that things *"tend to flip when inside the Hall of Mirrors"*). This is the physical disc for the audio two rooms up: its title is that room's key, and the disc's own name, *Genesis underground*, surfaces later as another artifact. The code `H1066` is a spreadsheet cell coordinate, a column-and-row address on the *"I'm 33"* grid, not a puzzle in its own right. Biographically, a Sharpie-labeled CD-R from a ten-pack of jewel cases is a pre-fame demo object: *"Genesis underground"* reads as an origin-era recording, here re-presented as a scanned relic.
+Three silent seconds of a burned CD-R hand-labeled *"Genesis"* on top and *"underground"* below, sitting open in a jewel case on weathered pallet slats. Mid-clip the whole image flips left-to-right and flips back, so the video performs its own title, since *RORRIM EHTNI LIVED* is *Devil In The Mirror* in mirror-reverse (Roy has warned that things *"tend to flip when inside the Hall of Mirrors"*). This is the physical disc for the audio in room 17: its title is that room's key, and the disc's own name, *Genesis underground*, surfaces later as another artifact. The code `H1066` is a spreadsheet cell coordinate, a column-and-row address on the *"I'm 33"* grid, not a puzzle in its own right. Biographically, a Sharpie-labeled CD-R from a ten-pack of jewel cases is a pre-fame demo object: *"Genesis underground"* reads as an origin-era recording, here re-presented as a scanned relic.
 **Connects to →** [[Lucius Lullaby]] · [[Hall of Mirrors]] · [[The Mirror]] · [[Concepts/Inversion]] · [[Roy]]
 
 ### 27 · Home at Sea

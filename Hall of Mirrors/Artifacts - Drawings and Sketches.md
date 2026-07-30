@@ -71,13 +71,13 @@ A bird drawn as an angel: a haloed head, upswept V-wings, a forked tail, a three
 ### #103 · "Aubrey's Angle" — the white organism · `KAMARI`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9e75cba4dbfa45410a809db94da9a0c0974a6d1d19abe9e8829a151c292f6678..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9e75cba4dbfa45410a809db94da9a0c0974a6d1d19abe9e8829a151c292f6678..jpeg" width="300"></a>
 
-A small, childlike cat-eared humanoid with mismatched eyes and twig limbs, floating on blank paper. *"Aubrey's Angle"* leans on Roy's private angle-equals-angel pun, so this reads as a soul-icon rather than a portrait of anyone (the name turns up nowhere in the songs or essays). What confirms it matters is reuse: the same little creature is enshrined at the center of the chakra-rainbow ring in *"Religious Organism"* (below), which marks it as a soul-vessel, a recurring upload-icon in the drawings.
+A small, childlike cat-eared humanoid with mismatched eyes and twig limbs, floating on blank paper. *"Aubrey's Angle"* leans on Roy's private angle-equals-angel pun, so this reads as a soul-icon rather than a portrait of anyone (the name turns up nowhere in the songs or essays). What confirms it matters is reuse: the same little creature is enshrined at the center of the chakra-rainbow ring in *"Religious Organism"* (#21), which marks it as a soul-vessel, a recurring upload-icon in the drawings.
 **Connects to →** [[Concepts/The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[Concepts/The Digital Double]] · [[Concepts/The Pattern]]
 
 ### #21 · Religious Organism (rejected album art) · `HOW TO STEER THE SOUL`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84f9ea3e9a05b88f67564f83b59868af069a49f4476d9c51652dfa9fe95052a9..jpg" width="300"></a>
 
-The same cat-organism from #99, now enshrined at the center of a hand-coloured chakra-rainbow ring on a black starfield: rejected album art. The code *"HOW TO STEER THE SOUL"* turns the bestiary's anatomy into an instruction. If the other drawings define the parts of a soul, this one asks how you pilot one through the ring of colours. It is the operational verb of the Upload cosmology, a small mandala of the self with a steering wheel implied.
+The same cat-organism from #103, now enshrined at the center of a hand-coloured chakra-rainbow ring on a black starfield: rejected album art. The code *"HOW TO STEER THE SOUL"* turns the bestiary's anatomy into an instruction. If the other drawings define the parts of a soul, this one asks how you pilot one through the ring of colours. It is the operational verb of the Upload cosmology, a small mandala of the self with a steering wheel implied.
 **Connects to →** [[Soul Is A Star]] · [[Concepts/The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[Concepts/The Pattern]]
 
 ## Cosmology & diagram drawings
@@ -180,8 +180,8 @@ A handwritten aphorism rather than a drawing: *"Thought-Forms / It is Man that a
 
 Two photographs belong to the drawing set by their codes, even though they live in the Photos group: they are members of the bestiary's cosmic-anatomy cipher.
 
-- **#22 · Venus is a Dove** · `F316` — a high-contrast photograph of a single white dove mid-flight on black, the photographic realization of the *"Venus the Dove"* sketch (#75). The code is a spreadsheet cell coordinate. → [[Concepts/The Pattern]] · [[Mary]]
-- **#24 · Home at Sea** · `LEFT SHOULDER OF A DOLPHIN` — a childhood photograph of young Roy on a boat, the dolphin's-shoulder member of the body-part cipher. → [[Concepts/The Pattern]] · [[Subject to Flooding]]
+- **#25 · Venus is a Dove** · `F316` — a high-contrast photograph of a single white dove mid-flight on black, the photographic realization of the *"Venus the Dove"* sketch (#79). The code is a spreadsheet cell coordinate. → [[Concepts/The Pattern]] · [[Mary]]
+- **#27 · Home at Sea** · `LEFT SHOULDER OF A DOLPHIN` — a childhood photograph of young Roy on a boat, the dolphin's-shoulder member of the body-part cipher. → [[Concepts/The Pattern]] · [[Subject to Flooding]]
 
 ## Read next
 

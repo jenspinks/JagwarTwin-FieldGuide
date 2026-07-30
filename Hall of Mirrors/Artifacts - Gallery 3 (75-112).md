@@ -9,9 +9,9 @@ status: published
 publish: true
 ---
 
-# Artifacts — Gallery 3 (#75–112)
+# Artifacts — Gallery 3 (#79–116)
 
-The Hall of Mirrors artifacts #75–112, in the order they were unlocked in the maze. Card color marks the artifact's type (see the key); the title opens its room, and **More →** jumps to the full reading below. *(Room deep-links are pending a live browser check.)*
+The Hall of Mirrors artifacts #79–116, in room order. Card color marks the artifact's type (see the key); the title opens its room, and **More →** jumps to the full reading below.
 
 <div class="legend"><b>Type</b><span><i style="background:#1f6f78"></i>Ciphers &amp; Code</span><span><i style="background:#d4a63a"></i>Concept Images</span><span><i style="background:#8b1e2d"></i>Family &amp; Friends</span><span><i style="background:#f2e3c6"></i>Drawings</span><span><i style="background:#fff"></i>Poems &amp; Texts</span><span><i style="background:#1b1b1e;border-color:#d4a63a"></i>Songs &amp; Demos</span></div>
 
@@ -180,7 +180,7 @@ A pencil sketch: a small cube labeled *"EDEN"* hangs at the top of the page, and
 
 ### 103 · "Aubrey's Angle" — the white organism
 
-A small, childlike cat-eared humanoid with mismatched eyes and twig limbs, floating on blank paper. *"Aubrey's Angle"* leans on Roy's private angle-equals-angel pun, so this reads as a soul-icon rather than a portrait of anyone (the name turns up nowhere in the songs or essays). What confirms it matters is reuse: the same little creature is enshrined at the center of the chakra-rainbow ring in *"Religious Organism"* (below), which marks it as a soul-vessel, a recurring upload-icon in the drawings.
+A small, childlike cat-eared humanoid with mismatched eyes and twig limbs, floating on blank paper. *"Aubrey's Angle"* leans on Roy's private angle-equals-angel pun, so this reads as a soul-icon rather than a portrait of anyone (the name turns up nowhere in the songs or essays). What confirms it matters is reuse: the same little creature is enshrined at the center of the chakra-rainbow ring in *"Religious Organism"* (#21), which marks it as a soul-vessel, a recurring upload-icon in the drawings.
 **Connects to →** [[Concepts/The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[Concepts/The Digital Double]] · [[Concepts/The Pattern]]
 
 ### 104 · HAMMY VI
@@ -190,7 +190,7 @@ A cartoon cat standing upright, split down the vertical midline into a black hal
 
 ### 105 · VI-LINK
 
-Another phone Notes screenshot of the *"Online"* draft, verse 2 and the outro this time, with nearly every line rendered as an emoji rebus: a battery for *"Spider's food,"* a DNA/ladder for *"they know my every step,"* a brain for *"infiltrate my brain,"* a caduceus-elf-alien for the *"we come from space"* line, a dolphin for the Jupiter joke, skull-skull-coffin for *"Bye! Bye! Bye!"* (confirming the Buy/Bye death-pun), a spiderweb for *"get it online,"* and a red heart standing in for *"loves"* in *"Everyone loves the internet."* The draft enacts the song's own thesis: language dissolving into platform-native pictograms, a lyric about the internet written in the internet's compressed tongue. Its name and code make it the closing third of the SARAVI loop, the *"Vi"* vertebra in the maze's spine, threaded through the very song whose hook titles a neighboring room.
+Another phone Notes screenshot of the *"Online"* draft, verse 2 and the outro this time, with nearly every line rendered as an emoji rebus: a battery for *"Spider's food,"* a DNA/ladder for *"they know my every step,"* a brain for *"infiltrate my brain,"* a caduceus-elf-alien for the *"we come from space"* line, a dolphin for the Jupiter joke, skull-skull-coffin for *"Bye! Bye! Bye!"* (confirming the Buy/Bye death-pun), a spiderweb for *"get it online,"* and a red heart standing in for *"loves"* in *"Everyone loves the internet."* The draft enacts the song's own thesis: language dissolving into platform-native pictograms, a lyric about the internet written in the internet's compressed tongue. Its name and code make it the closing third of the SARAVI loop, the *"Vi"* vertebra in the maze's spine, threaded through the very song whose hook titles room #113.
 **Connects to →** [[Online]] · [[SARAVI]] · [[Concepts/The Aquarium]] · [[Roy]]
 
 ### 106 · ROY @ MSG

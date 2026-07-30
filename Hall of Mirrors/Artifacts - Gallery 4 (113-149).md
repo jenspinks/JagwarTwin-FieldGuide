@@ -9,9 +9,9 @@ status: published
 publish: true
 ---
 
-# Artifacts — Gallery 4 (#113–149)
+# Artifacts — Gallery 4 (#117–153)
 
-The Hall of Mirrors artifacts #113–149, in the order they were unlocked in the maze. Card color marks the artifact's type (see the key); the title opens its room, and **More →** jumps to the full reading below. *(Room deep-links are pending a live browser check.)*
+The Hall of Mirrors artifacts #117–153, in room order. Card color marks the artifact's type (see the key); the title opens its room, and **More →** jumps to the full reading below.
 
 <div class="legend"><b>Type</b><span><i style="background:#1f6f78"></i>Ciphers &amp; Code</span><span><i style="background:#d4a63a"></i>Concept Images</span><span><i style="background:#8b1e2d"></i>Family &amp; Friends</span><span><i style="background:#f2e3c6"></i>Drawings</span><span><i style="background:#fff"></i>Poems &amp; Texts</span><span><i style="background:#1b1b1e;border-color:#d4a63a"></i>Songs &amp; Demos</span></div>
 
@@ -164,7 +164,7 @@ A ~14-second grainy vintage-film montage: badly degraded 8mm/16mm-style footage 
 
 ### 138 · FLOOD ARTIFACT (∆∑†)
 
-A ~13-second vertical phantom: it opens on a flat, watery pale-blue field, dissolves through blurred hand-held imagery in warm red/pink flesh-and-fire tones (a figure or face in bright light, then a dark grainy passage), and resolves onto a hand-drawn ink glyph on the same blue paper, a circle around a slotted *"eye"* with a divided iris, ringed by dots and teardrops, like a schematic sun, a weeping eye, or a radiant seed. The title *"∆∑†"* (delta / summation-sigma / cross) and the code aren't words but Mac Option-key glyph strings: one link in the backward-threaded chain, where each code is the *next* artifact's encoded name. The *"cipher,"* in other words, is a keyring, not a message. The whole series is the behind-the-scenes phantom layer of *Subject to Flooding,* where *"the flood"* is everything competing to direct consciousness (culture, time, inherited dreams, raw human weather), and the blue-to-flesh-to-eye progression stages exactly that submersion-and-orientation drama.
+A ~13-second vertical phantom: it opens on a flat, watery pale-blue field, dissolves through blurred hand-held imagery in warm red/pink flesh-and-fire tones (a figure or face in bright light, then a dark grainy passage), and resolves onto a hand-drawn ink glyph on the same blue paper, a circle around a slotted *"eye"* with a divided iris, ringed by dots and teardrops, like a schematic sun, a weeping eye, or a radiant seed. The title *"∆∑†"* (delta / summation-sigma / cross) and the code aren't words but Mac Option-key glyph strings: one link in the backward-threaded chain, where each code is the *previous* artifact's encoded name. The *"cipher,"* in other words, is a keyring, not a message. The whole series is the behind-the-scenes phantom layer of *Subject to Flooding,* where *"the flood"* is everything competing to direct consciousness (culture, time, inherited dreams, raw human weather), and the blue-to-flesh-to-eye progression stages exactly that submersion-and-orientation drama.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Upload]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 139 · FLOOD ARTIFACT (H101)
@@ -224,7 +224,7 @@ A ten-second, shaky phone clip filmed from the stage looking out at a massive ni
 
 ### 150 · GENESIS UNDERGROUND
 
-Three seconds of a scanned model of Roy's own head and neck floating in pure black, the mesh riddled with holes and torn edges that eat into the face and throat, so the captured self looks like it's disintegrating; a thin pendant and dark neck tattoos are just visible. Paired with the code *"Don't be fooled by the internet,"* it reads as a self-portrait as data: the face acquired by the machine, then rendered as a flawed digital ghost, which is exactly why it lives in the PHANTOMS realm. It stages the mythology's recurring fear, that the algorithm captures your face and then treats the copy as more real than you, the *"artificial reflection"* that replaces instead of reflects, with the code as the caption warning you not to mistake that corrupted double for the self. This is the disc from room 23 (*"Genesis underground"*) surfacing a third time, now as a decaying scan of the man himself.
+Three seconds of a scanned model of Roy's own head and neck floating in pure black, the mesh riddled with holes and torn edges that eat into the face and throat, so the captured self looks like it's disintegrating; a thin pendant and dark neck tattoos are just visible. Paired with the code *"Don't be fooled by the internet,"* it reads as a self-portrait as data: the face acquired by the machine, then rendered as a flawed digital ghost, which is exactly why it lives in the PHANTOMS realm. It stages the mythology's recurring fear, that the algorithm captures your face and then treats the copy as more real than you, the *"artificial reflection"* that replaces instead of reflects, with the code as the caption warning you not to mistake that corrupted double for the self. This is the disc from room 26 (*"Genesis underground"*) surfacing a third time, now as a decaying scan of the man himself.
 **Connects to →** [[Concepts/The Upload]] · [[Concepts/The Algorithm]] · [[Concepts/The Aquarium]] · [[Hall of Mirrors]] · [[Sir Lucius]]
 
 ### 151 · GRANDFATHER'S PLANE
