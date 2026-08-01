@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * In a 2020 interview, said plainly: *"I just want to be a mirror... a song is a mirror."* The person-as-mirror idea runs back through the Jagwar Twin name itself, *"we're all really mirrors to each other if we look,"* and forward into his June 2026 posts on X, where relationships are two people reflecting each other.
-* Roy's own "I'm 33" board, sixth rung of its ladder, in his own hand: *"The mirror of the Soul and the heart."*
+* Roy's own "I'm 33" board, sixth rung of its ladder, in his own hand: *"The mirror of the Sun and the Heart."* *(Corrected July 2026: this guide previously read the handwriting as "the Soul and the heart." The true wording is stronger for this page — rung six is the solar heart-center, so the board names the healthy mirror as the one where light and heart meet.)*
 * The grammar of the songs themselves: tally every sung word across the catalogue and *"I"* (about 492) runs nearly dead even with *"you"* (about 478), first person facing second, one pronoun at a time.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
@@ -28,7 +28,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!map]- He has been saying it for years
 > The mirror is the project's own frame. Across interviews years apart, Roy keeps handing us the same idea: in 2020, *"I just want to be a mirror... I hope that people see themselves,"* and *"more and more I realize that a song is a mirror."* Back in 2018, explaining the band name itself: *"we're all really mirrors to each other if we look."* In June 2026 he was still at it on X: *"Relationships are fundamentally about two people reflecting to each other,"* and *"To Love is to meet the hidden part of yourself in someone else."*
 >
-> The whole web3 world is named the *Hall of Mirrors.* And the "I'm 33" board carries a rung that names the healthy pole in his own hand: *"The mirror of the Soul and the heart."* The board lists the rung; it does not editorialize. Reading it positionally, as the open pole this page builds on, is a reading, and it is flagged as one below.
+> The whole web3 world is named the *Hall of Mirrors.* And the "I'm 33" board carries a rung that names the healthy pole in his own hand: *"The mirror of the Sun and the Heart."* The board lists the rung; it does not editorialize. Reading it positionally, as the open pole this page builds on, is a reading, and it is flagged as one below.
 >
 > Taken together: if people are mirrors for each other, the mirror is not an object you look *at,* it is a relation you stand *inside.* And a relation can be held open or sealed shut.
 
@@ -39,7 +39,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > The move that closes a mirror is always the one named on [[The Mirror]]: it stops pointing back to what it reflects and starts claiming to *be* the source. A faithful mirror knows it is a mirror. It turns treacherous the second it forgets.
 >
-> One placement worth seeing, held carefully: [[Happy Face]] is track 6 of 10 on *33,* and the board's rung 6 is *"the mirror of the Soul and the heart."* The track number is a fact; reading the album as running the board's ladder downward, so that *Happy Face* sits at that rung as its inversion, the counterfeit smile with the bad feeling underneath, is a strong read this guide holds, not a numerical fact the work states.
+> One placement worth seeing, held carefully: [[Happy Face]] is track 6 of 10 on *33,* and the board's rung 6 is *"the mirror of the Sun and the Heart."* The track number is a fact; reading the album as running the board's ladder downward, so that *Happy Face* sits at that rung as its inversion, the counterfeit smile with the bad feeling underneath, is a strong read this guide holds, not a numerical fact the work states.
 
 > [!mask]- Three at the glass
 > * **[[Sir Lucius]] closes the mirror.** He has real mirror-power, nobody is arguing that, but his mirror is recursive: he becomes whatever gets a reaction, reflects whatever the system rewards, and loops. He reflects whoever is watching, which is why he reads so differently from room to room, and why he is not the same thing as the machine he serves: he reflects what it *rewards,* he is not *it.* He says, in effect, *"look what you are,"* and freezes you there. The encounter that looks like seeing and isn't (on [[The Empty Mirror]] he is the hollow mirror personified).
@@ -75,7 +75,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > And the cure, wherever the arc lands, is already stated as a rule: not smashing the glass, not merging into one blank shared face, just the right order held steady, an embrace and not a funeral. *My mind must serve my heart.* Reflection stays in service of the thing it reflects, because the whole trick of a good mirror is that it tries SO hard to point beyond itself.
 
 > [!receipts]- Sources and confidence
-> Grounded in public words and artifacts: the mirror-doctrine across years of interviews (*"I just want to be a mirror," "a song is a mirror,"* 2020; *"we're all really mirrors to each other,"* 2018, tied to the band name; the June 2026 X posts on relationships as mutual reflection); the project's literal *Hall of Mirrors* name; the "I'm 33" board's sixth rung, *"The mirror of the Soul and the heart"*; [[Happy Face]] as track 6 of 10 on *33*; the sung pronoun count ("I" about 492, "you" about 478); the *#1 Champion* chorus being entirely Mary's voice; and SOL as the one song Lucius suppresses but never gets through in the theatrical series.
+> Grounded in public words and artifacts: the mirror-doctrine across years of interviews (*"I just want to be a mirror," "a song is a mirror,"* 2020; *"we're all really mirrors to each other,"* 2018, tied to the band name; the June 2026 X posts on relationships as mutual reflection); the project's literal *Hall of Mirrors* name; the "I'm 33" board's sixth rung, *"The mirror of the Sun and the Heart"*; [[Happy Face]] as track 6 of 10 on *33*; the sung pronoun count ("I" about 492, "you" about 478); the *#1 Champion* chorus being entirely Mary's voice; and SOL as the one song Lucius suppresses but never gets through in the theatrical series.
 >
 > Strong readings, labeled where they stand: the open-versus-closed architecture itself; reading the board's rung as the healthy pole; the mirror as a relation rather than a surface; Lucius as the closed recursive mirror; Mary as the open window (the thinnest seam here, held as a strong guess); the album-runs-the-ladder-downward placement of *Happy Face*; and mirror-made-grammar, the pronoun count read as the thesis in miniature.
 >
