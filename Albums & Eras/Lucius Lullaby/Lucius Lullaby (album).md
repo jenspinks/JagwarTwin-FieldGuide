@@ -110,7 +110,7 @@ The album moves in five movements: an overture and a bargain, a long stretch of 
 
 - [[Sir Lucius]] — the shadow who authors and narrates the album; why the comedy is the tell.
 - [[The Interview]] — the seven-part theatrical series that is this album's plot and rollout.
-- [[33]] — the cosmology this album's machine finally personifies; the other end of the Circle hinge.
+- [[33]] — the cosmology whose machine this album's would-be boss finally fronts (its best student, never the machine itself); the other end of the Circle hinge.
 - [[Subject to Flooding]] — the flood to this album's circus; opposite failure-modes of the same severed self.
 - [[Concepts/The Circus]] — the keystone inversion the whole record runs on.
 - [[SOL]] — the wordless destination, and the one thing the shadow can't metabolize.
