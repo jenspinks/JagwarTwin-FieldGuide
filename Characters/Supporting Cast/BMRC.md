@@ -19,7 +19,7 @@ BMRC is the production-house-slash-weapons-brand whose initials are stamped acro
 
 - **Role** — the in-lore industry entity of the *Lucius Lullaby* era, part studio, part munitions label, part social club: the corporate signature of Lucius's own Circus.
 - **First stamped** — *"welcome to the BMRC 🎪"* (Roy's feed, January 5, 2026); then across merch drops, the album's bonus track, the video title cards, and a real Los Angeles event.
-- **Personnel** — [[Sir Lucius]] (the boss, the visible operator) · **Leif** (the muscle; the one who calls Lucius *"Boss"*).
+- **Personnel** — [[Sir Lucius]] (the boss, the visible operator) · **Leif** (the enforcer; the one who calls Lucius *"Boss"*).
 - **Related** — [[Concepts/The Circus]] · [[The System]] · [[Concepts/Consumption]] · [[Concepts/The Algorithm]] · [[The Interview]].
 - **Confidence** — every appearance is a grounded public artifact; everything about what BMRC *means* is held as an open question, on purpose.
 
@@ -43,9 +43,9 @@ That May 17 **Live Underground** event happened — [[Bounce]] was performed the
 
 ## Leif
 
-Every shadowy mega-corp needs muscle, and BMRC's is a disaster. **Leif** is Lucius's goofy enforcer-bodyguard — first seen planted up front as security when Lucius hijacks the album premiere ([[The Interview]], EP5), then doing the practical part of the kidnapping in EP6, all eager-puppy menace: *"Boss, look. Look, boss. I got — I got this."* Lucius waves him off with the line of a man who's already won: *"Stop. Stop. Leave them… I can't be stopped. My lullaby is everywhere as we speak."*
+Every shadowy mega-corp needs an enforcer, and BMRC's is named **Leif**, Lucius's bodyguard and the only other named member of the operation. He's first seen planted up front as security when Lucius hijacks the album premiere ([[The Interview]], EP5). In EP6, as the campaign against Lucius turns physical, he presses to handle it himself — *"Boss, look. Look, boss. I got — I got this"* — and Lucius waves him off with the line of a man who's already won: *"Stop. Stop. Leave them… I can't be stopped. My lullaby is everywhere as we speak."* Moments later Roy is grabbed off the street, a bag over his head.
 
-The comedy is structural, not decoration. Lucius runs as a constellation of selves with no integrated center, and Leif is the foil that lets the clown-mode cohere — *no audience, no Lucius*. His incompetence is also where the rollout keeps its dark comedy while the songs play the same material straight. And listen to who calls whom *"Boss."* It is **Leif** who says it, to **Lucius** (*"Boss, look. I got this"*), and Lucius answers with a boast, not a report up any chain: *"my lullaby is everywhere as we speak."* Lucius is the boss here, and he acknowledges no one above him.
+The comedy of that exchange is structural, not decoration: it lives in the collision of registers, Leif's eagerness against Lucius's cold certainty. Lucius runs as a constellation of selves with no integrated center, and Leif is the foil his Sidekick mode plays against: *no audience, no Lucius*. These scenes are also where the rollout keeps its dark comedy while the songs play the same material straight. And listen to who calls whom *"Boss."* It is **Leif** who says it, to **Lucius** (*"Boss, look. I got this"*), and Lucius answers with a boast, not a report up any chain: *"my lullaby is everywhere as we speak."* Lucius is the boss here, and he answers to no one he will admit.
 
 The [[Open Questions]] page keeps the honest version on the table: is Leif a separate figure, or just Lucius's comic register with a body? Does Lucius require a witness to function?
 
@@ -66,4 +66,4 @@ BMRC exists to hold one question open: **is the disruptor pose opposition, or as
 - [[Sir Lucius]] — the visible operator, three modes deep.
 - [[Concepts/The Circus]] — the show BMRC produces.
 - [[Concepts/Consumption]] — the eating that may run upstream.
-- [[The Interview]] — where Leif earns his keep.
+- [[The Interview]] — where Leif appears in person (EP5–6).

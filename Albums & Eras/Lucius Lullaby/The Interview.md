@@ -50,7 +50,7 @@ Lucius hijacks the album's industry listening party — [[BMRC#Leif|Leif]]'s fir
 ▶ https://www.youtube.com/watch?v=aCftmfU_YpA
 
 **EP6 — The Kidnapping** · released March 2026
-The rollout turns to open warfare. Roy, having lost the wheel, tries to take the project back by taping up **STOP SIR LUCIUS** flyers around the city (a campaign that was real — the same flyers and a freeway banner went up across Los Angeles at release). Lucius has him grabbed off the street, bag over the head. His henchman Leif does the dirty work — *"Boss, look. I got — I got this"* — while Lucius waves him off, unbothered: *"I can't be stopped. My lullaby is everywhere as we speak."*
+The rollout turns to open warfare. Roy, having lost the wheel, tries to take the project back by taping up **STOP SIR LUCIUS** flyers around the city (a campaign that was real — the same flyers and a freeway banner went up across Los Angeles at release). Lucius has him grabbed off the street, bag over the head. His enforcer Leif presses to handle it himself — *"Boss, look. I got — I got this"* — while Lucius waves him off, unbothered: *"I can't be stopped. My lullaby is everywhere as we speak."*
 ▶ https://www.youtube.com/watch?v=eHuttX-p7Ic
 
 **EP7 — Lucius Lullaby: Roy's Listening Party** · released March 30, 2026
@@ -61,7 +61,7 @@ Lucius ties Roy to a chair, covers his eyes, and forces him to sit through the w
 
 - [[Sir Lucius]] — the shadow on the other side of the table; the series is the clearest portrait of him there is.
 - [[Roy]] — the heart Lucius was built to protect, and the one who keeps conceding the bargain.
-- [[BMRC#Leif|Leif]] — Lucius's goofy enforcer-bodyguard; first appears in EP5, does the kidnapping in EP6.
+- [[BMRC#Leif|Leif]] — Lucius's enforcer-bodyguard, the one who calls him *"Boss"*; first appears in EP5, at the center of the kidnapping in EP6.
 - [[Welcome to the Circus]] — the algorithmic hit Lucius bananas up in EP3.
 - [[Lucius Lullaby (album)]] — the album this whole series exists to roll out.
 - [[SOL]] — *The Song of Love*; the tender song Lucius refuses, again and again, and the one he can't metabolize.
