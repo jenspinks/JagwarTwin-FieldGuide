@@ -87,7 +87,7 @@ And the old stories put to work on this world's own trials and figures:
 - [[Concepts/The Dweller on the Threshold]]: the guardian at the edge of your inner world, assembled from everything you've refused to face. Sir Lucius reads as exactly that.
 - [[Concepts/Jacob and Esau]]: the original two-brothers problem: the smooth twin, the rough twin, and what gets taken between them.
 - [[The Divided Self]]: every brother-and-double story the culture ever told, laid side by side. Cain and Abel, Jacob and Esau, Amadeus, the Gemini twins, Fight Club, all mapped onto Roy and Lucius to show every way the split can end.
-- [[Letters of Creation|The Angels and the Angles]]: a letter-mysticism lens that hears the la-la and na-na syllables as technique: consonants as angles, vowels as angels.
+- [[Letters of Creation|The Angels and the Angles]]: Roy's letter-mysticism method, consonants as angles and vowels as angels, with the guide's song-level applications tiered separately.
 - [[Concepts/The Light-Bearer]]: the figure who carries light that disorients instead of illuminating. His emblem is the strobe, never the steady flame.
 
 The *people* behind these currents have their own home: see [[Influences]] for Carl Jung, Gurdjieff, Alice Bailey, Manly P. Hall, the [[Roy on Influences|full annotated roster]], and the [[Musical Lineage]].
