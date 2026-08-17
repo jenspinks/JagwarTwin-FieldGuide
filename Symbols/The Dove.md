@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Dove
 
-> **One-line reading.** The dove is [[Roy]]'s bird — the descending spirit of love, the guide who gives light and then lets you go. Roy named his own *Cygnus,* after the Swan that flies the Milky Way.
+> **One-line reading.** The dove is [[Roy]]'s bird — the descending spirit of love, the guide who gives light and then lets you go. Roy named his own *Cygnus* — a name that could also reach toward the Swan that flies the Milky Way, held as a question, not a certainty.
 
 ![[dove.jpg|340]]
 
@@ -25,7 +25,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 The dove does one thing everywhere it lands: it carries light *toward* you and asks nothing back. That's the whole difference between it and the [[The Crow|crow]]. The crow is Mercury's bird — clever, scavenging, taking; the dove is Venus's — gentle, giving, descending. Set them side by side and you have the project's heart/mind split rendered in two birds: [[Roy]]'s dove against [[Sir Lucius]]'s crow.
 
-It sits squarely in Roy's Netzach / **Venus** register — love, beauty, devotion, the spirit that comes *down* to meet you. In the older painting the dove is the Holy Spirit descending; in the older-still one it's the bird sacred to the goddess of love. Roy's version keeps both charges and adds a name: he calls his dove **Cygnus,** the constellation of the Swan — the Northern Cross, the great bird that flies the length of the Milky Way. A dove named for a swan named for a cross: love, flight, and sacrifice folded into one bird.
+It sits squarely in Roy's Netzach / **Venus** register — love, beauty, devotion, the spirit that comes *down* to meet you. In the older painting the dove is the Holy Spirit descending; in the older-still one it's the bird sacred to the goddess of love. Roy's version keeps both charges and adds a name: he calls his dove **Cygnus.** That word is also the constellation of the Swan — the Northern Cross, the great bird flying the length of the Milky Way — and reading the two together is this guide's own read, held as a question: a dove named for a swan named for a cross, love and flight and sacrifice folded into one bird, *if* the sky-reading holds.
 
 ## Where it appears
 
@@ -35,7 +35,7 @@ It sits squarely in Roy's Netzach / **Venus** register — love, beauty, devotio
 
 **The uploaded body (Hall of Mirrors codes).** In the mint-your-own-anatomy layer of the [[Hall of Mirrors]], the body-part codes name the pieces of the "uploaded self" — and two of them are this bird: *"left hip of a dove"* and *"cranium of a swan."* The dove and the swan (Cygnus) are literally built into the anatomy of the digital self, alongside the horse and the whale.
 
-**Cygnus, the name.** Roy's naming of the bird ties the whole cluster to the sky. Cygnus is the Swan / the Northern Cross, the constellation flying down the Milky Way — and the swan is the bird that, in myth, sings most beautifully at the moment of death (the "swan song"). Love that flies the long river of stars and sings hardest at the end: a fitting bird for the heart-pole of a catalogue this preoccupied with descent, sacrifice, and return.
+**Cygnus, the name.** Roy's naming of the bird is what opens this cluster toward the sky — the tie itself is this guide's own read, held as a question. Cygnus is also the Swan / the Northern Cross, the constellation flying down the Milky Way, and the swan is the bird that, in myth, sings most beautifully at the moment of death (the "swan song"). If the sky-reading holds: love that flies the long river of stars and sings hardest at the end, a fitting bird for the heart-pole of a catalogue this preoccupied with descent, sacrifice, and return.
 
 ## The dove and the crow
 
@@ -51,7 +51,7 @@ Same shape as [[The Rose]] (heart revealed) against [[The Green Apple]] (mind gr
 > - **The Holy Spirit.** At Christ's baptism the Spirit descends *"like a dove"* (Luke 3:22) — the spirit that *comes down.* This is the dove's core grammar in the project: love as descent, not ascent.
 > - **The flood dove.** In Genesis the dove is sent out over the drowned world and returns with an olive leaf — the first sign the waters are receding, hope after catastrophe. It's hard not to hear that against Roy's debut, *[[Subject to Flooding]]:* the bird that finds land after the flood. Held as resonance, not a claim. And she has a **twin** in that same story: the Ark also loosed a **raven,** which *"went to and fro"* and never came back. Set the two birds side by side and they split on the project's own core axis — the raven *orbits* (never lands, [[Concepts/The Protector|the Protector]]'s outrunning velocity), the dove *returns* (homecoming). Roy's crow-and-dove pair, already drawn in Genesis 8. See [[The Crow]].
 > - **Venus's bird.** Doves draw the chariot of Aphrodite / Venus and are her sacred animal — which is *why* the dove lands on the Venus/Netzach pole rather than anywhere else. The symbol and the sephira agree.
-> - **Cygnus / the Swan / the Northern Cross.** The constellation Roy names — the swan flying the Milky Way, the Northern Cross, the swan-song singer. Love, flight, cross, and beautiful death in one figure.
+> - **Cygnus / the Swan / the Northern Cross.** The constellation behind the name Roy gives his dove — the swan flying the Milky Way, the Northern Cross, the swan-song singer. Love, flight, cross, and beautiful death in one figure, if the sky-reading holds.
 >
 > None of these are asserted as Roy's intent beyond the parts he's stated (the bird, the name *Cygnus,* the poem's Dove). The tradition is real and the symbol embodies it; the scholarly braid is the reading.
 
