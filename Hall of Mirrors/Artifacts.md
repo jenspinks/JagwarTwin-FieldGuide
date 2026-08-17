@@ -25,6 +25,8 @@ Every unlocked artifact as a scannable card, in Hall of Mirrors room order. **Ca
 
 Prefer to read by *kind* rather than by number? The type deep-dives are below.
 
+And if you want to see how the rooms talk to *each other*: some artifacts are literally named for other artifacts, the title of one being the unlock code of another. Followed all the way, those matches resolve into four closed loops, six chains, and a dozen rooms that key themselves. The whole circuit is drawn on **[[Artifacts - The Wiring Diagram]]**.
+
 ## What counts as an artifact?
 
 An artifact is a discovered Hall of Mirrors item with a code, title, media file, or gallery entry attached to it. These aren't ordinary screenshots or random reference images. They're pieces that were *placed* inside the Hall of Mirrors system and unlocked by people moving through it.
