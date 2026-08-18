@@ -176,7 +176,7 @@ The core is above. Everything below is optional depth, folded into collapsible d
 > - **[[Sir Rabbit]]** — the seeker-pole *before* the split, not a proto-Lucius. In the dream, Roy is the rabbit seeking; Lucius is the second rabbit who intercepts.
 > - **[[The Attention Economy and the Circus|Leif]]** — Lucius's enforcer-bodyguard, the one who calls *Lucius* *"Boss."* The foil who lets Lucius cohere: without an audience to play off, he does not hold together.
 > - **[[The Attention Economy and the Circus|BMRC]]** — the Black Magic Rainbow Circus, glimpsed as a corporate signature on the props (*"PROPERTY OF B.M.R.C."*). Read it as Lucius's *own* company logo, not a master above him. Lucius crowns himself the final boss and answers to no one he will admit; the true higher power is the *champion* he denies, [[Mary]] or [[Roy]]. It stages the open question: is the disruptor pose opposition, or unwitting assignment to the pattern he thinks he escaped?
-> - **[[Michael Morgan]]** — a real Jagwar Twin producer and video collaborator (the *MM* in the credits), whom Lucius folds into the fiction by sneering at *"his social media manager, Michael MM."* A real person pulled onstage, not a new character.
+> - **[Michael Morgan](https://www.instagram.com/themichaelmorgan/)** — a real Jagwar Twin producer and video collaborator (the *MM* in the credits), whom Lucius folds into the fiction by sneering at *"his social media manager, Michael MM."* A real person pulled onstage, not a new character.
 > - **[[The Jaguar]]** — the larger seeing-field. Lucius reads as a distortion *within* that seeing, not its equal.
 
 > [!reading]- Strong Guesses

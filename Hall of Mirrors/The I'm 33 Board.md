@@ -6,6 +6,8 @@ cssclasses: [cards, cards-cols-2]
 ---
 # The "I'm 33" Board
 
+> *This page is the artifact tour. For the audited concept key to the same board, see [[Concepts/The I'm 33 Board|The I'm 33 Board (concept key)]].*
+
 Somewhere in Roy English's Google Drive lives a spreadsheet called **"I'm 33 this year."** Open it, and the working tab is titled — with no punchline — *"How to upload myself to the internet."*
 
 You expect a to-do list. You get a **wall.** Hundreds of cells: gematria tables, hand-drawn angels, the Kybalion copied out by hand, a telescope photo of the sun, a museum placard, Plato's number-pyramids, brain scans, a mushroom cloud, and — for reasons that eventually make sense — a kangaroo in a hoodie. A man has sat down to reverse-engineer his own soul in Google Sheets so that, in theory, he can back it up to the cloud.
@@ -303,7 +305,7 @@ He found his own name attached to an ancient **sun-priest of Ra** — and simply
 The placard became artifacts, three of them, and they chain into a closed loop: **Roma Called Roy → True Voice → R1045 → back to Roma.** The point is made structurally: the priest of Ra *is* Roy *is* his **True Voice,** and chasing the thread only returns you to where you began, one lap around the ring. There's a buried pun in it, too: **ROMA** read backward is **AMOR,** *love*: the eternal city and love are the same word held up to a mirror, which is precisely the *"in reverse"* move from the [[#The Source Code|One-become-Two]] poem. Finding your true voice, the loop says, means recognizing a self that arrived a few thousand years ahead of you. All three in [[Artifacts - Ciphers and Code-Series]].
 
 ### The receipts on the artist
-The board is also, sneakily, a scrapbook: an **EYE ALASKA** poster (Roy's pre–Jagwar Twin band), live and studio shots, a TV segment or two, a Polaroid dated *"Ashwood 2/18/14,"* a childhood address tagged *"3233."* And two lines that explain more than the gematria does: his mom's *"He who plants a seed believes in God,"* and a flat little note about getting **dropped by the label.** The seed-faith and the wound, in the same handwriting as the cosmos.
+The board is also, sneakily, a scrapbook: an **EYE ALASKA** poster (Roy's pre–Jagwar Twin band), live and studio shots, a TV segment or two, a Polaroid dated *"Ashwood 2/18/14,"* an ancestral family address tagged *"3233."* And two lines that explain more than the gematria does: his mom's *"He who plants a seed believes in God,"* and a flat little note about getting **dropped by the label.** The seed-faith and the wound, in the same handwriting as the cosmos.
 
 ### Roy's greatest hits (the sentence kind)
 Dozens of cells are pure **aphorism** — the board's wisdom-literature layer, and a quarry the songs keep raiding:

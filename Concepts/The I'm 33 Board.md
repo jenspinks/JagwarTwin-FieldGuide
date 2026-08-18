@@ -8,6 +8,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The I'm 33 Board
 
+> *This page is the concept key. For the room-by-room artifact tour of the same board, see [[Hall of Mirrors/The I'm 33 Board|the board inside the Hall of Mirrors]].*
+
 > **One-line reading.** Provided as a key to the Hall of Mirrors, The "I'm 33" board is Roy's working notebook for a single mad ambition — uploading his consciousness to the internet — and because you can't upload a self until you've mapped what a self *is*, the to-do list quietly became a cosmology. It's the closest thing this world has to source code.
 
 > [!infobox] The I'm 33 Board
@@ -228,6 +230,7 @@ One of those is sneakier than the rest. The **Eye-of-Horus fractions** — ½, �
 ## Read next
 
 - [[Concepts/The Upload]] — the project the whole board is the seed of.
+- [[Albums & Eras/33/33|33]] — the album the board is the concept-document of, released one year after its self-dated 2021 origin.
 - [[Another Way II Heaven]] — the board's origin poem, composed a second time as a song.
 - [[Concepts/The Pattern]] — *"as above, so below,"* the law the board runs on.
 - [[Hall of Mirrors]] — the maze quarried from the board's vocabulary.

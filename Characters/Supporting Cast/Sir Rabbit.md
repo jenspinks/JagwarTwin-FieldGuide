@@ -1,13 +1,13 @@
 ---
-title: Brandon & Sir Rabbit
+title: Sir Rabbit
 type: character
 cssclasses: ["type-character"]
 status: draft
 confidence: mixed
 source_basis: ["released music", "public interviews", "public posts", "official videos"]
-aliases: ["Sir Rabbit", "Brandon"]
+aliases: ["Brandon & Sir Rabbit"]
 ---
-# Brandon & Sir Rabbit: the original self
+# Sir Rabbit: the searching self
 
 <img src="https://plumcreekranch.com/jagwar/boyroy.png" style="float: right; width: 175px; margin-left: 16px; margin-bottom: 8px;">
 

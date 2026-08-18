@@ -65,7 +65,7 @@ The things built around the music: puzzles, cards, notebooks, and one label figh
 
 - [[Hall of Mirrors]]: the project's playable archive: a web3 puzzle-world where fans decode clues and carry hidden pieces back into the light.
 - [[Concepts/The Manifesto Cards]]: the recurring title-card that hides a tiny esoteric manifesto in its fine print, for anyone who thinks to hit pause.
-- [[The I'm 33 Board]]: the working notebook behind the upload fantasy; the closest thing this world has to source code.
+- [[Concepts/The I'm 33 Board|The I'm 33 Board]]: the working notebook behind the upload fantasy; the closest thing this world has to source code.
 - [[Concepts/Gatekeeper Saga]]: the real label fight Roy narrated to his Discord as a Harry Potter serial, right up to *"Master gave dumbledore a sock."*
 
 ## Wading deeper

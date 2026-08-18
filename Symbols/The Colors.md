@@ -12,9 +12,9 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 > [!infobox] The Colors
 > - **What it is** — a small, repeated color code across the art, videos, and wardrobe
-> - **The source** — Roy's own ten-color ladder on [[The I'm 33 Board]]
+> - **The source** — Roy's own ten-color ladder on [[Concepts/The I'm 33 Board|The I'm 33 Board]]
 > - **The one rule** — color means the most inside the ladder; elsewhere, treat it as mood
-> - **Related** — [[The I'm 33 Board]] · [[Sir Lucius]] · [[Roy]] · [[BMRC]] · [[The Green Apple]] · [[The Moon]]
+> - **Related** — [[Concepts/The I'm 33 Board|The I'm 33 Board]] · [[Sir Lucius]] · [[Roy]] · [[BMRC]] · [[The Green Apple]] · [[The Moon]]
 
 ## At a glance
 
@@ -27,7 +27,7 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 ## The ladder underneath it all
 
-Everything starts on [[The I'm 33 Board]], where Roy draws a ten-rung ladder of color from matter at the bottom to spirit at the top. The bottom rung is dark and earthy, the top rung is pure white, and the heart sits in gold-yellow in the middle. That ladder is the dictionary the rest of the project keeps quoting: white for the crown, gold for the heart, black for the shadow.
+Everything starts on [[Concepts/The I'm 33 Board|The I'm 33 Board]], where Roy draws a ten-rung ladder of color from matter at the bottom to spirit at the top. The bottom rung is dark and earthy, the top rung is pure white, and the heart sits in gold-yellow in the middle. That ladder is the dictionary the rest of the project keeps quoting: white for the crown, gold for the heart, black for the shadow.
 
 ## Two teams, one line down the middle
 
@@ -47,13 +47,13 @@ On Roy's side the rainbow is whole: a halo, an arc, the full spectrum of a perso
 
 ## Source notes
 
-- **Grounded.** The two-hearts posts, the wardrobe, the video lighting, and the ten-color ladder on [[The I'm 33 Board]] are from public posts, official videos, and a public artifact.
+- **Grounded.** The two-hearts posts, the wardrobe, the video lighting, and the ten-color ladder on [[Concepts/The I'm 33 Board|The I'm 33 Board]] are from public posts, official videos, and a public artifact.
 - **Framework, not artist-stated.** Naming the ladder the Golden Dawn "Queen scale" of the Tree of Life is a correspondence the board *fits*, not a label Roy uses. This page is a basic symbol map for readers, not a claimed master key.
 - **The honest limit.** Color means the most inside the ladder and the team-hearts. In the busy flow of a lyric sheet or a crowded collage, a colored thing is often just mood. Do not force every color to mean something.
 
 ## Read next
 
-- [[The I'm 33 Board]] — the ladder the whole code comes from.
+- [[Concepts/The I'm 33 Board|The I'm 33 Board]] — the ladder the whole code comes from.
 - [[BMRC]] — the Black Magic Rainbow Circus, the rainbow taken apart.
 - [[Sir Lucius]] · [[Roy]] — the black-and-white teams.
 - [[The Green Apple]] · [[The Moon]] — two colors that have their own pages.

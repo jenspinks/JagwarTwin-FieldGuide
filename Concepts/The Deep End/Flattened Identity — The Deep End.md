@@ -55,7 +55,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > The early catalogue diagnoses a cage and points outward: the *STF*-era material (*"keep us in line"*) assumes the oppression is external. The later Lucius material destabilizes exactly that; by 2026 the oppressor is partly internal, and the work discovers Roy helped build the cage. That shift, outward blame to inward reckoning, reads as the spine of the whole arc, and it is why flattening cannot be pinned to one mechanism: imposed, adopted, invited, and co-produced all at different moments. The arc *approaches* the reckoning; nothing released resolves it.
 
 > [!feed]- Straight from the feed
-> More from the public feed (see [[Roy's Posts - Canon Index]] for the full set):
+> More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
 > * *"You are not yourself"* (04-21 '23): identity inversion stated plain.
 > * *"It's confusing not to commit to one reality"* (06-06 '23): the cost of refusing a single legible self.
 > * *"Every day is Halloween"* (05-02 '23): the mask as daily performance, not exception.
