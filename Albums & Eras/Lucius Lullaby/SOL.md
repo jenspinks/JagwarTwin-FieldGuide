@@ -23,7 +23,7 @@ The album named for the shadow gives its last word to the one song the shadow sp
 
 - **Era / release** — *Lucius Lullaby*, 2026; track 14 of 15, the album's structural ending. At 1:18 it's one of the three shortest cuts on the record.
 - **In one line** — the Song of Love, reduced past language to a wordless human voice — everything removable removed, and the song still there.
-- **Who speaks** — [[Roy]], the voice and the source. [[Sir Lucius]] appears only as the boundary of his own power: the one song he can't metabolize. [[Mary]] is present faintly, in the feminine breath under the paternal frame, not as a named figure.
+- **Who speaks** — [[Roy]], the voice and the source. [[Sir Lucius]] appears in the story only as the boundary of his own power: the one song he can't metabolize. Worth holding alongside that, though: Roy credited sir lucius on this track himself (see below). [[Mary]] is present faintly, in the feminine breath under the paternal frame, not as a named figure.
 - **Key symbols** — [[The Thread]] · [[Concepts/The Loop and the Circle]] · [[The Moon]] (the foil) · [[Concepts/The Mouth]] · [[Concepts/The Voice]]
 
 ## The song, mapped
@@ -80,7 +80,7 @@ A few claims that cut across everything above.
 
 **[[Roy]]** — the voice and the source. This is the thing in him that was never sacrificed; by his own account in the premiere, his favorite song he's ever written. Note the credit distinction the album keeps: **ROY** sings it (vocals + background), while the human author **Roy English** wrote, produced, and played it. The character and the man, listed separately on the same track.
 
-**[[Sir Lucius]]** — present only as the boundary of his own power, the song he can't get through (EP7). *Odd wrinkle:* the credits list **sir lucius as a vocalist** on SOL, even though the whole premiere narrative is that he can't absorb it. Draw your own conclusion — the shadow's voice is in the room even for the song that undoes him.
+**[[Sir Lucius]]** — present only as the boundary of his own power, the song he can't get through (EP7). *Odd wrinkle:* the credits list **sir lucius as a vocalist** on SOL, even though the whole premiere narrative is that he can't absorb it. The thing to notice is **who did the crediting.** Roy and sir lucius are one voice — you cannot hear them apart, and a credit was never a claim that a second person sang. What a credit *is* is an authorial act: Roy decided the shadow's name belongs on the Song of Love. The story can go on saying Lucius can't bear this song while its author quietly writes him into it, and those two things aren't in conflict — they're doing different jobs. *(Corrected 2026-08-19: this page previously read the credit as the shadow's voice being audibly present. It isn't evidence of that.)*
 
 **[[Mary]]** — light here, mostly by implication. She surfaces as the feminine breath under an explicit paternal frame (the Hebrew word for breath, *ruach*, is grammatically feminine) rather than as a named presence. Weakly grounded for SOL specifically; a resonance, not a claim.
 
