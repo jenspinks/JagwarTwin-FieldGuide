@@ -62,7 +62,7 @@ Lucius holds 🍏 the green apple, 🐦‍⬛ the crow, 🚬 the cigarette, 🗡
  
 
 
-Roy has 🩷 the heart, ⚔  the sword, 🕊️ the dove (but not some simple dove of peace, he's called 🦢 Cygnus and he holds to that name's tradition), and 🎶 the song that he arrived with...the one that keeps trying to get free.   
+Roy has 🩷 the heart, ⚔  the sword, 🕊️ the dove (but not some simple dove of peace, he's called 🦢 Cygnus), and 🎶 the song that he arrived with...the one that keeps trying to get free.   
 
 Mary carries 🩸🧬 the wound and 🌹the blessing: the part that fell, and the part that still remembers how to rise.
 

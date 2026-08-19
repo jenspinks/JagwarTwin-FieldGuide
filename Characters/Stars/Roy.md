@@ -151,7 +151,7 @@ If you met him at the grocery store here is what he would be holding. A quick ma
 
 <img src="https://plumcreekranch.com/jagwar/dove.jpg" style="float: left; width: 110px; margin-right: 16px; margin-bottom: 8px;">
 
-- 🕊️ **[[The Dove|the dove]]:** not the tame dove of peace. This is **Cygnus** — a name that could also reach toward the Swan that flies the Milky Way, the Northern Cross, held as a question — the descending spirit of love regardless.
+- 🕊️ **[[The Dove|the dove]]:** not the tame dove of peace. This is **Cygnus**, the descending spirit of love regardless. *(The name's possible star-lore echo lives as a question on [[The Dove]]; it is not core identity.)*
 - ⚔️ **[[The Sword|the sword]]:** discernment, the clean cut of chosen action. The heart in this story has a blade.
 - 🩷 **the heart:** the pole he is trying to keep on the throne.
 - 🌹✝️ **[[The Rose|the rose]] and the cross:** the Rosy Cross, *"the heart revealed, the union of opposites."*
@@ -227,7 +227,7 @@ Everything above stands on its own. What follows is optional: the long inventori
 > [!map]- You Are Here (Probably)
 > *(A lens, never his stated intent. The page works without it.)*
 >
-> **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, he is **Netzach, Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it: the [[The Dove|dove]] (named **Cygnus** — a name that could also reach toward the Swan that flies the Milky Way, the Northern Cross, held as a question — the descending spirit of love regardless), the [[The Sword|sword]] (discernment, the clean cut of chosen action), and the heart itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury. Lucius does not share these seats; he has no Venus and no Moon, that is the point of the opposition. The deeper Tree-of-Life readings are held even more loosely and live on [[Kabbalah - The Tree of Life]]; this page keeps only the simple association.
+> **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, he is **Netzach, Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it: the [[The Dove|dove]] (named **Cygnus**, the descending spirit of love), the [[The Sword|sword]] (discernment, the clean cut of chosen action), and the heart itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury. Lucius does not share these seats; he has no Venus and no Moon, that is the point of the opposition. The deeper Tree-of-Life readings are held even more loosely and live on [[Kabbalah - The Tree of Life]]; this page keeps only the simple association.
 >
 > **The lunar position (held loosely).** One framework reading places Roy on the lunar sefirot, the reflected vessel reaching toward the Sun (Tiferet / SOL) but never seated in it. Keep the direction of travel and drop the certainty: he reaches toward the Sun, he does not sit in it. *"The moon mistaking itself for the sun"* names the exact inflation-trap the whole arc is trying not to fall into. This is syncretic correspondence, never his stated intent, and it stays subordinate to the Netzach/Venus key above.
 >
