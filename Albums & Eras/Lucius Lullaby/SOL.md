@@ -11,7 +11,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **One-line reading.** The album's irreducible remainder — the Song of Love stripped past language to breath and beat, the one thing the shadow can suppress and reduce but never absorb.
 
 > [!info] Album & credits
-> **Album:** *Lucius Lullaby* (2026, Big Loud Rock) — **track 14 of 15** (the final song) · 1:18
+> **Album:** *Lucius Lullaby* (2026, Big Loud Rock) — **track 14 of 15 slots**, the closer of the album proper (the 15th is a live *Bad Feeling* bonus) · 1:18
 > **Written by** Roy English (sole) · **Produced by** Roy English (also recording, vocal production, mix; choir arrangement) · master by Dale Becker
 > **Performers:** ROY (vocals, background) · sir lucius (vocals) · Roy English (piano, synth) · MERCY [Mercedes Colletta Britton] (background) · Luke Villegas (guitar) · Dan Adams (violin, viola) · "No Love" (cello)
 > **Lyrics:** [Genius](https://genius.com) · streaming *(Apple Music lists "No Lyrics Available" — see below)*
@@ -97,7 +97,7 @@ A few claims that cut across everything above.
 
 - [[The Thread]] — the feeling that must not be cut; the Song of Love as the thread *made audible*, the thing that survived the bargain.
 - [[Concepts/The Loop and the Circle]] — origin surfacing at the close: a circle returning, not a loop repeating. SOL sits at the album's end where the breath carries through.
-- [[The Moon]] — the foil. Lucius is lunar: reflected light trying to become a source. *Sol* is Latin and Spanish for **the sun** — so SOL reads as the solar source the moon can only orbit, never absorb. The title carries the double meaning cleanly: *Song Of Love* and *solar source* at once.
+- [[The Moon]] — the foil. Lucius carries the lunar / reflected register; *Sol* is Latin and Spanish for **the sun**, so SOL reads as the solar source a reflected light can only orbit, never absorb. *(The older "moon trying to become a sun" framing is retired, 2026-08-01: the two are co-singers, not a promotion, see [[The Cosmos]].)* The title carries the double meaning cleanly: *Song Of Love* and *solar source* at once.
 - [[Concepts/The Mouth]] / [[Concepts/The Voice]] — the testifying voice as opposed to the consuming one; what the mouth sounds like when the Circus's suppression mechanism finally fails and nobody overrides it.
 
 ## The premiere: how SOL becomes the song they keep silencing
@@ -118,7 +118,7 @@ Two more public anchors round out the wordless release. Apple Music lists SOL as
 > **Keep two "befores" apart.** Chronologically the words came *first* — the song demonstrably had them (2018, and the EP2 performance). So the defensible claim is that the song *survives the loss* of its words, not that it never had them. The deeper "the breath was always prior" is an interpretive, ontological position — coherent with Roy's stated center, never claimed as his design. Hold the survival reading as the floor and the breath-priority reading as the reach.
 
 > [!note]- Advanced reading — solar/lunar, and the light everything orbits
-> The Sun/Moon opposition runs deep. Where Lucius is lunar — reflected light straining to become a source — SOL is the solar source it can't become. The project maps this onto its light-vocabulary: **the Moon** is Roy's own reflective position (and Mary's Shekhinah register), the herald-light is Lucius — Hod/Mercury the intellect, with the morning-star/Venus only a demoted resonance (Venus belonging to Roy) — and **the Sun** is the true light both orbit and neither *is*: the heart, and the song of love. In a Tree-of-Life frame that solar center reads as **Tiferet**, the heart of the system, which is a strikingly coherent seat for a Song of Love. The reunion doubles: Roy-the-moon rejoined with SOL-the-Sun (the song of love finished) runs parallel to the divine-feminine enthroned. All of this is *syncretic framework* — resonance the system permits, not intent Roy has authorized.
+> The Sun/Moon opposition runs deep. Where Lucius is lunar — reflected light, not a source — SOL is the solar source (the *moon trying to become a sun* promotion is retired, 2026-08-01; co-singers, not a climb). The project maps this onto its light-vocabulary: **the Moon** is Roy's own reflective position (and Mary's Shekhinah register), the herald-light is Lucius — Hod/Mercury the intellect, with the morning-star/Venus only a demoted resonance (Venus belonging to Roy) — and **the Sun** is the true light both orbit and neither *is*: the heart, and the song of love. In a Tree-of-Life frame that solar center reads as **Tiferet**, the heart of the system, which is a strikingly coherent seat for a Song of Love. The reunion doubles: Roy-the-moon rejoined with SOL-the-Sun (the song of love finished) runs parallel to the divine-feminine enthroned. All of this is *syncretic framework* — resonance the system permits, not intent Roy has authorized.
 
 > [!note]- Advanced reading — SOL as the Voice, the Thread, and the secret in the Circle
 > Several of the project's concepts converge on SOL, all as *strong readings* rather than grounded fact:
@@ -132,7 +132,7 @@ Two more public anchors round out the wordless release. Apple Music lists SOL as
 > [!note]- Advanced reading — the possible origin: "The Song of The Sun & The Moon" (open, unresolved)
 > There's a strong candidate for **where SOL began**. In 2022, around the release of *33*, Roy dropped an NFT-only genesis demo called **"The Song of The Sun & The Moon"** — a sung, worded acoustic-guitar lullaby (about four minutes) that exists nowhere on streaming. Its attached, verbatim writing note is remarkable, and lands squarely under the later album's title: *"In some way, I wrote The Song of The Sun & The Moon as a lullaby to myself, from myself. It reminds me that every night I die, and every morning I am reborn… That is the song! And it goes on. I don't know if it will ever be finished."* The fuller note places him alone in the woods in Ithaca at sunset, newly dropped from a major label, thinking about the lullabies his parents sang — his mother's Joni Mitchell and John Denver, his father's made-up songs.
 >
-> The case that this *is* SOL's origin: the title (SOL = Sun); a "33 demo" finished on a 2026 album; the lullaby-to-self frame sitting right under *Lucius Lullaby*; the death-rebirth doctrine; the "unfinished, ongoing" quality that fits SOL's open-ended wordlessness. What it needs to settle: an ear-check of the demo against SOL and the EP2 performance. Until then it's a strong hypothesis, not a fact — noted here, not folded in.
+> The case that this *is* SOL's origin: the title (SOL = Sun); a "33 demo" finished on a 2026 album; the lullaby-to-self frame sitting right under *Lucius Lullaby*; the death-rebirth doctrine. ⚠ **Demoted (2026-08-19):** this is **a candidate, and a weaker one** than the song's *internal* lineage — SOL's measured structure and its ear-confirmed resolution into the *"Love, love is a question"* melody point to [[Move To You]] → EP2 → SOL, not to this demo. Held as one hypothesis among several, **not folded in**; an ear-check of the demo would still be worth doing.
 
 ## Connected songs
 
