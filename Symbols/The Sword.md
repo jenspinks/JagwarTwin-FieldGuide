@@ -14,8 +14,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **What it is** — the blade of **discernment** (telling truth from its counterfeit) and **chosen action** (the decisive cut, commitment). It belongs to the heart-pole: not the mind's clever slicing, but the heart's clean, committed one.
 - **Carried by** — [[Roy]], in his simple character-symbol key (alongside the [[The Dove|dove]], the heart, [[The Rose|the rose]], the cross).
-- **Appears in** — Roy's own stated symbol-key; and, as a grounded blade *in the world,* the *Hall of Mirrors* **"Flaming Sword"** artifact (the Kabbalistic Lightning-Flash).
-- **Confidence** — an honest **reading.** The clearest anchor is Roy naming the sword as his own; the deeper sword-material is universal symbolism and one HoM artifact, held as such. Thinner than the [[The Dove|dove]] or the [[The Crow|crow]].
+- **Appears in** — Roy's own stated symbol-key; the *Hall of Mirrors* **"Flaming Sword"** artifact (the Kabbalistic Lightning-Flash); and, in his own hands, the **desert photograph of 6 January 2025** (*"2025 energy"*), which opens the year the crossed-swords emoji then runs through.
+- **Confidence** — an honest **reading**, on a firmer footing than before. The anchors are Roy naming the sword as his own, the 2025 desert photograph, and the year-long run of the crossed-swords emoji; the deeper sword-material is universal symbolism and one HoM artifact, held as such. Still thinner than the [[The Dove|dove]] or the [[The Crow|crow]], because none of it is yet a lyric.
 
 ## What it is
 
@@ -41,7 +41,7 @@ That second job matters in a catalogue where so much is reflection, deferral, an
 - **Grounded (Roy's own words, public artifacts).** That Roy names the sword — glossed as *discernment / chosen action* — as one of his own character-symbols. The **"Flaming Sword"** artifact exists as an unlocked [[Hall of Mirrors]] piece (the Kabbalistic Lightning-Flash / Eden-gate blade).
 - **Strong readings.** The sword as the *heart's* discerning-and-deciding blade (versus the crow/mind's cutting-to-win); the sword as the faculty of *commitment* in a catalogue otherwise full of deferral; the *"my mind must serve my heart"* arc as "the blade returned to the right hand."
 - **Framework (universal symbolism — a lens).** Michael's sword, the sword of the Spirit, the tarot Suit of Swords, and the Genesis Eden-gate / Lightning-Flash traditions. Real and consistent, but the artist states only the bare symbol and its gloss.
-- **How thin it is (kept honest).** Of Roy's symbols, the sword has the least catalogue material behind it — no verified sword lyric, tattoo, or recurring image is pinned here yet. It rests on Roy's own naming plus the Flaming Sword artifact. Treat it as a **placeholder that names a real faculty** (discernment, chosen action), to be thickened if and when a grounded sword-image surfaces.
+- **How thin it is (kept honest, and less thin than it was).** Of Roy's symbols the sword still has the least *catalogue* material behind it — **no verified sword lyric or tattoo is pinned here.** But the recurring-image gap is now closed. On **6 January 2025** Roy posted a photograph of himself seated in the desert holding a very large sword, the sun beside and behind the blade, captioned simply *"2025 energy"*; his shirt in the picture reads *"ANY LAST WORDS?"*. A *"dumbledore core"* video went up on his channel about an hour later. From February to July that year the crossed-swords emoji runs through his captions as the era's signature. So the sword is no longer only a name in a key: he has put it in his own hands, in public, at the head of the year the sword-era belongs to. What the picture does **not** settle is whether the sun-behind-the-blade and the shirt were arranged to say something together; that reads as composed, and it is held as a question.
 
 ## Read next
 
