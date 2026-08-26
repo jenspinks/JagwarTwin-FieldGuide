@@ -123,7 +123,8 @@ Every chain begins with a key that is *not* any room's name, and those keys are 
 
 - **Into the board.** H1066, B1035, L737 are cell coordinates on Roy's *"I'm 33"* spreadsheet, the same coordinate family as J403 and its kin, so three chains hang directly off [[Hall of Mirrors/The I'm 33 Board|the board]].
 - **Into the books.** ALICE 211 is a page number: *Through the Looking-Glass*, page 211, the White Knight's name-of-the-song riddle. One wire in this maze starts inside a Victorian novel.
-- **Into the doctrine.** EAST IS EVERYWHERE, LET GO, HIGHER RESOLVE, SURFACE PERCEPTIONS: bare aphorisms from the project's own vocabulary.
+- **Into the doctrine.** EAST IS EVERYWHERE, LET GO, HIGHER RESOLVE: bare aphorisms from the project's own vocabulary.
+- **Into another artifact's face.** SURFACE PERCEPTIONS, the key that opens the skeptic's-map chain, turns out to be typed on the *Complete Upload Recipe* itself ([[Artifacts - Gallery 3 (75-112)#88 · Complete Upload Recipe|#88]]), whose ingredient lines keep doubling as keys elsewhere (RA-LINK, *ways of growing*, the cell-code C884, Fear and Love blending into #60's FEARLOVE). One room's text is another room's key, written on the face of the object.
 
 A strong read, offered as such: followed backward, the maze's internal wiring is fed by its own sources, the board, the books, and the sayings. The circuit is not closed for decoration; it is grounded, in the electrical sense, to the material the whole mythology is built from.
 

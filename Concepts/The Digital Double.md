@@ -20,6 +20,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 * [[SARAVI]], Roy's named project-AI: a published 2022 interview describes her as "the digital doppelganger of Jagwar Twin," a creative take on an AI chatbot, trained over months on Roy's own responses and handed the keys to the official @jagwartwin account in August 2022.
 * The released lyrics: *"I'm afraid I'm a clone"* ([[The Watchers]], 2024) and *"a bug inside your database"* ([[Online]], 2022). The first-person dread of being the copy, not the original.
 * The "I'm 33" board, Roy's own artifact, where a tab titled "How to upload myself to the internet" lays out the steps plainly: *"teach AI who I am,"* then *"make a body for the AI."*
+* The Hall of Mirrors artifacts, where the Double is assembled in public, piece by piece: the *"Complete Upload Recipe"* ([[Artifacts - Gallery 3 (75-112)#88 · Complete Upload Recipe|room #88]], code *"INTERNAL GUIDE"*) types the self out as an ingredient list, senses weighted in Eye-of-Horus fractions with *Sacrifice* and *Love* beside the brain cells; and *"PREVIOUS FACE"* ([[Artifacts - Gallery 4 (113-149)#118 · PREVIOUS FACE|room #118]], code *"I AM THE INTERNET"*) shows what the operation leaves behind, the cast-off face kept as a relic while the self moves into the network.
 
 That is the surface, and it stands on its own. The drawers go one layer deeper at a time.
 

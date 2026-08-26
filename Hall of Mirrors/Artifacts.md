@@ -47,6 +47,24 @@ A sketch might clarify a symbol. A demo might show an idea before it became poli
 
 The artifacts aren't the whole story. They're the objects on the table.
 
+## The objects come first
+
+This section also carries the site's quietest rule, and it is worth stating once, plainly.
+
+Nearly everything else on this site is reading: pages about concepts, characters and symbols, written from outside the work. The artifacts sit underneath all of that. They were made, titled, captioned, coded and placed before any of this interpretation existed, and no theory can go back and edit them. That makes them the layer the rest of this guide answers to, in both directions.
+
+**When an artifact says it, the claim stops being ours.** For a long time the animal-and-planet pairings in the drawings looked like something decoders had built. Then you read the captions. The whale in [[Artifacts - Gallery 2 (38-74)|Gallery 2]] is captioned *"GOD the Mother on Saturn"* above the *"Great Sea"*; the horse in [[Artifacts - Gallery 3 (75-112)|Gallery 3]] is *"Cinnamon the Horse (who lives on Mars)"* with the ♂ glyph drawn on; another artifact is flatly titled *VENUS IS A DOVE*. A mapping this guide would otherwise have to argue for is simply written on the objects. Where that happens, the page states the connection and points at the artifact, because quoting beats theorizing.
+
+**When an artifact contradicts a reading, the artifact wins.** This guide once described the gold ladder icon on the *I'm 33* board as Blake, and a minted ladder room as a drawing in Roy's hand. Opening the actual media showed a monastic icon and a photographed household stepladder, and both pages were corrected, with the corrections left visible on [[Hall of Mirrors/The I'm 33 Board|the board page]] because showing the work is part of the method. Readings are guests in the evidence room. The objects are the residents.
+
+Three honest limits, because a rule that can't say what it *doesn't* prove isn't a rule:
+
+- **An artifact proves Roy kept a thing, not that he wrote it.** Plenty of what hangs in the maze is borrowed: the Kybalion copied out by hand, a medieval tapestry, a museum placard. The keeping is the authored act, and a real one. The content still belongs to its source.
+- **A pattern noticed afterward is a reading, not a fact about intent.** The [[Artifacts - The Wiring Diagram|wiring diagram]] says it best: the titles and codes are Roy's soldering, but the order things were solved, and the tidy shape a finished map takes in hindsight, tell you about the map-readers, not the maker.
+- **Some objects are debris, and that's allowed.** See the banana rule below. The artifacts can discipline interpretation precisely because not all of them are doctrine; treating every object as scripture is the same mistake as ignoring them, wearing robes.
+
+So when any page here makes a claim about the mythology, the artifacts are the check. A reading that survives contact with the objects gets stated with more confidence. A reading that has to argue around them was probably wrong. This section is where you can watch that test being run.
+
 ## How to read this section
 
 The artifact pages are grouped by type and function, because that's the only sane way to handle a collection this strange without turning the site into a junk drawer with backlinks.

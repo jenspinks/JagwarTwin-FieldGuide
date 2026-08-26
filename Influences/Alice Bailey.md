@@ -41,6 +41,11 @@ Bailey is the rare influence where nothing needs inferring. Roy keeps three of h
 > [!note]- Advanced reading — license the lens, not a master key
 > Since Roy named the book, the question is never "is Bailey here?" — she is. The question is whether a given song actually maps to a given labor, or whether a stated interest is being back-fitted onto unrelated material. Roy supplies the warning himself: *"I would map a crow onto Mercury, but that's just personal. I don't recommend you do it."* One further caution from [[Concepts/Jacob and Esau]]: a "Jacob/Esau reading from Alice Bailey" is sometimes claimed in fan spaces — treat any such quote as unverified until it's pulled from a named Bailey volume with a page number.
 
+## Artifacts
+
+**GREY IN A#** · `PITUITARY GLAND OF AN OWL` — A taxidermied barn owl whose unlock code names the organ her Leo labour calls the esoteric *"cave in the head":* Bailey's vocabulary authored into the [[Hall of Mirrors]] as a working key, so the shelf engagement above has a minted receipt. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+<a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9821059859ee4afcbb77119fcc02798d90db2b4d6486ad6339a34f5287deb07..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9821059859ee4afcbb77119fcc02798d90db2b4d6486ad6339a34f5287deb07..jpeg" width="200"></a>
+
 ## Source notes
 
 - **Grounded — Roy's own engagement.** The livestream teaching (~May 2026: names the book, teaches the Cancer labor, gives his placements); the Instagram Story of the hand-underlined Labor VII page, captioned *"Alice Bailey ⚔"* (the densest underline: *"the perversity that upholds the opposite of what is said"*); the three curated quotes; the board's Bailey-derived scale in Roy's hand; the June 2026 feed in her martial register (*"the time has come to slay the lion,"* *"We must master our stars"*).

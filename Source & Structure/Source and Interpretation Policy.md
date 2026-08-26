@@ -17,6 +17,7 @@ This guide tries to be honest about two different things: **what the work actual
 - the theatrical episodes (*The Interview* / Sir Lucius series)
 - public interviews, livestreams, and press
 - public social-media posts from the artist's official accounts
+- the Hall of Mirrors artifacts: the minted objects themselves, their titles, unlock codes, and on-object captions ([[Artifacts]], see that page's note on how the objects check the readings)
 
 It does **not** use private conversations, unreleased material, or non-public fan exchanges as the basis for any claim. Full lyrics and full credits appear here with the artist's permission.
 
