@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **What it is** — the emblem of the mind-pole: intellect, cleverness, cunning, the scavenger that takes. The crow (constellation **Corvus**) to Roy's [[The Dove|dove]] — Mercury against Venus, mind against heart.
 - **Carried by** — [[Sir Lucius]] (Hod / **Mercury**, the analytic intellect), in the simple character-symbol key.
-- **Appears in** — Roy's *"I'd map a crow onto Mercury"* post · his signing to **Mercury** Records · the crow-call cued into [[Sir Lucius|Lucius]]'s scene in the theatrical *[[The Interview]]* · Roy's *"midnight crows above"* and *"that was a real crow. no AI!"* posts.
+- **Appears in** — Roy's *"I'd map a crow onto Mercury"* post · his signing to **Mercury** Records · the crow-call cued into [[Sir Lucius|Lucius]]'s scene in the theatrical *[[The Interview]]* · Roy's *"that was a real crow. no AI!"* post.
 - **Confidence** — grounded fact (Roy's own crow-to-Mercury mapping, the crow-call in the lore) braided with the universal crow-tradition, labeled as such. Note Roy's own hedge (below).
 
 ## What it is
@@ -33,7 +33,9 @@ It lands where it does because of **Mercury.** Mercury / Hermes is the god of th
 
 **The crow-call in *[[The Interview]]*.** In the theatrical series, as [[Sir Lucius|Lucius]] runs his manipulation — reminding Roy of the ballad that *"doesn't stream,"* steering him back toward the hit — the audio cues a **crow calling** in the background. The bird is scored *into* Lucius's scenes: the sound of the clever, circling mind.
 
-**"Midnight crows" and "a real crow."** Crows recur across Roy's public posts — *"midnight crows above"* on one artifact-tied post, and, tellingly, *"that was a real crow. no AI!"* on another. The bird is real to him and around him, not just a decode.
+**"A real crow."** Roy posts about crows as things that actually happen around him, not only as a decode — *"that was a real crow. no AI!"* is him insisting on the bird itself.
+
+> **A correction, and it matters for reading this page.** An earlier version of this guide also counted the haiku line *"midnight crows above"* here. It should not have. That post carries a **rooster** emoji (🐓), which makes *crows* the verb, not the bird — something rooster-like crows in or as midnight. The rooster is a different symbol doing a different job (it announces a turn before the light arrives), and it belongs with the cockcrow material, not here. Removing it also halves what looked like two independent witnesses down to the one that is real.
 
 ## The crow and the dove
 
@@ -60,7 +62,7 @@ It's the same move as [[The Green Apple]] (mind grasping) against [[The Rose]] (
 
 ## Source notes
 
-- **Grounded (Roy's own words, released material).** Roy's *"I'd map a crow onto Mercury"* post (with the *"that's just personal"* hedge); his signing to **Mercury** Records; the crow-call scored into [[Sir Lucius|Lucius]]'s scene in *[[The Interview]];* the *"midnight crows above"* and *"that was a real crow. no AI!"* posts. That Roy assigns [[Sir Lucius]] the crow, opposite [[Roy]]'s [[The Dove|dove]], is his own stated character-symbol key.
+- **Grounded (Roy's own words, released material).** Roy's *"I'd map a crow onto Mercury"* post (with the *"that's just personal"* hedge); his signing to **Mercury** Records; the crow-call scored into [[Sir Lucius|Lucius]]'s scene in *[[The Interview]];* the *"that was a real crow. no AI!"* post (the *"midnight crows above"* haiku is **not** crow evidence — its 🐓 makes *crows* a verb; see the correction above). That Roy assigns [[Sir Lucius]] the crow, opposite [[Roy]]'s [[The Dove|dove]], is his own stated character-symbol key.
 - **Strong readings.** The crow as the emblem of the Hod / Mercury intellect-pole; the crow-takes vs dove-releases contrast; the scavenger/carrion edge rhyming with the project's sterile-copy imagery; the crow/dove pairing as the heart/mind split with wings.
 - **Framework (universal symbolism — a lens).** The Mercury/Hermes, Apollo's-crow, Odin's-ravens (Thought/Memory), and omen/carrion traditions. Real and well-fitting; the artist states the Mercury mapping, not the wider scholarship.
 
