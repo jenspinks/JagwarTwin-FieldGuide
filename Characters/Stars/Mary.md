@@ -20,6 +20,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > - **Key symbols:** the hidden face · [[The Moon]] · the halo · the gun · [[The Rose|the white rose]]
 > - **Counter-pole she answers:** [[Sir Lucius]]: the verdict she cancels
 > - **Related:** [[Roy]] · [[Sir Lucius]] · [[The Rose]] · [[The Moon]] · [[Concepts/Witnessing vs Surveillance]]
+> - **Resonance (canon, not identification):** Marilyn Monroe — see below
 > - **Appears in:** [[Ballerina Boy]] · [[No. 1 Champion (la Conquistadora)]] · [[Weirdness]]
 
 ## Start here
@@ -162,6 +163,19 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 > **Strong readings** (interpretation built on grounded anchors). That the faceless-feminine voices are the *same figure* as named Mary is the working assumption, not proven. The witnessing-vs-surveillance and source-vs-reflection dynamics, the count-as-creation-grammar, the champion-as-Fool read, the two-blessings distinction, the counterfeit stranger, and the dedication-to-benediction inversion are all reads on grounded material, not stated intent.
 > **Framework** (esoteric, syncretic, never authorial intent). The Shekhinah identification, the Malkhut-to-Binah ascent, the Furtmeyr one-tree counter-symbol, and the Magdalene / Sophia registers are frames licensed by Roy's open Kabbalah engagement (the *I'm 33* board, *El Roi,* the *Queen Binah* artifact). They fit the recurring shape, but the work never states them, and you do not need any of them to read this page.
 > **Discipline.** Any sefirotic placement of Mary is analyst-framework: in the 2026 character fundamentals Roy placed [[Roy]] (Netzach/Venus) and [[Sir Lucius]] (Hod/Mercury) and left Mary unplaced.
+
+
+## Marilyn, and what a manufactured woman has to do with Mary
+
+Marilyn Monroe is part of the canon of this work. That is worth stating flatly, because it would be easy to mistake for a fan's pattern-match. Roy named her outright in August 2026 — *"I was talking to a tree at Marilyn Monroe's house and she said I just need to be receptive"* — and she was in the visual material years before that: one panel of the 2021 *I'm 33* board is a photograph taken looking out of a window of a building she lived in, in West Hollywood. She is also, on the reading this guide sets out on [[Great Time to Be Human]], the girl of that song's second fable.
+
+She belongs on **Mary's** page rather than only in a footnote about a lyric, because the two figures are the same problem viewed from opposite ends.
+
+Mary is **a source, not a reflection**: a face-hidden presence who sees without consuming, and whose whole function is to cancel a verdict rather than confirm it. Monroe is the historical case of the exact inverse — a woman turned entirely into reflection. She said it herself, in her last major interview: *"I've never fooled anyone. I've let people fool themselves… they would invent a character for me."* And elsewhere, on being made into a thing: *"a sex symbol becomes a thing. I hate to be a thing."* That is [[Concepts/Witnessing vs Surveillance]] stated by someone who lived on the wrong side of it, decades before this catalogue put a name to the distinction.
+
+Which is why the [[Great Time to Be Human]] couplet cuts the way it does. **She asked to be loved, and what she got was worship.** Worship is not a bigger love; it is a different substance, and it is the one thing that cannot travel back to the person it is aimed at. Mary is what it looks like when the seeing *does* travel back. Monroe is what it costs when it doesn't.
+
+Hold the boundary, though. Roy has never equated Mary with Monroe, and this guide does not either — Mary is not Marilyn wearing a halo. What is grounded is that Monroe is a real reference in the work. What is a reading — this guide's, not his — is every specific pairing above: the mirror-complaint, the manufactured name, the halo without a head. They are offered as illumination, not identification.
 
 ## Read next
 
