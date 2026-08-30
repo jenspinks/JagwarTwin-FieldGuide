@@ -25,7 +25,7 @@ Every card carries a status mark, and four of them carry a second one. The diffe
 <span><i class="jt-c-second"></i><b>Second key</b> · 4 — added to the mark above where the key opens a picture the galleries already show. A different door, the same object behind it.</span>
 </div>
 
-A few conventions. `Like this` is an exact key, and **exact** means exact — one wrong apostrophe and the door does not open. Where you see <span class="jt-space">␠</span> on the end of a key, that is a single trailing space, and it is load-bearing; the maze's own input box trims it, so those rooms could not be opened by typing at all. **Filed under** is Roy's own shelf label for the room, attached per artifact in the maze's records; there are thirteen shelves and every room is on one.
+A few conventions. `Like this` is an exact key, and **exact** means exact — one wrong apostrophe and the door does not open. Where you see <span class="jt-space">␠</span> on the end of a key, that is a single trailing space, and it is load-bearing; the maze's own input box trims it, so those rooms could not be opened by typing at all. **Filed under** is Roy's own shelf label for the room, attached per artifact in the maze's records; there are thirteen shelves, and almost every room carries one.
 
 Card titles open the room in the maze — those pages want a connected wallet. Images open at full size. **Read the discovery →** jumps to the full write-up further down this page.
 
@@ -100,7 +100,7 @@ Card titles open the room in the maze — those pages want a connected wallet. I
 
 ### 155 · Grandma Vi
 
-> Solved  ·  **Key** `A bridge between worlds`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `A bridge between worlds`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Image</span>
 
 A hospital photograph of Roy's grandmother Vi, filed under **Life Changing Connections (VI Link)** — the shelf that carries her initials.
 
@@ -112,7 +112,7 @@ Read against the shelf, the picture argues for itself. A grandmother in a hospit
 
 ### 156 · Young Roy Painting for Mom
 
-> Solved  ·  **Key** `Were you raised in a barn?`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Were you raised in a barn?`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Video</span>
 
 The maze calls this one *young roy painting for mom*. In the working notes it was known for months by its picture instead: a barn beneath a mountain.
 
@@ -124,7 +124,7 @@ Filed under **Unseen Things / Concealed Generations**, with the rest of the fami
 
 ### 157 · VI Link
 
-> Solved  ·  **Key** `I want to be a bridge between worlds`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `I want to be a bridge between worlds`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Image</span>
 
 A 2022 post carrying `I.H.S.`, the line **VI – Love – Sacrifice**, the words *there must be a Link*, and a concentric 1-2-3 target.
 
@@ -136,7 +136,7 @@ One fact from the site's own records that no page had stated: **there are two ro
 
 ### 158 · Genesis Tree Code
 
-> Solved  ·  **Key** `Know how to spell the name of the song`  ·  **Filed under** Window Of Appearance  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Know how to spell the name of the song`  ·  **Filed under** Window Of Appearance  ·  Image</span>
 
 A drawing of the Tree of Life as an emanation ladder.
 
@@ -148,7 +148,7 @@ The room closes a loop of its own. Its **name**, `genesis tree code`, is itself 
 
 ### 159 · Gnothi Seauton
 
-> Solved  ·  **Key** `Gnothi Seauton`  ·  **Filed under** Instructional Information  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Gnothi Seauton`  ·  **Filed under** Instructional Information  ·  Image</span>
 
 A page from the *I'm 33* cosmology notebook.
 
@@ -162,7 +162,7 @@ Filed under **Instructional Information**, which is the shelf for the pages that
 
 ### 160 · Ryan & Roy, Albuquerque 2016
 
-> Solved  ·  **Key** `Ryan Flemming_early archives`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Ryan Flemming_early archives`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Image</span>
 
 Two men photographed in Albuquerque in 2016, from what the maze calls the early archives.
 
@@ -174,7 +174,7 @@ There is a small correction inside this room worth keeping. Working from the pic
 
 ### 161 · Gabriel the Cat
 
-> Solved  ·  **Key** `Stomach of a cat + 9 lives`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Stomach of a cat + 9 lives`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
 A cat beneath a crescent moon, drawn among gears and machinery.
 
@@ -186,7 +186,7 @@ The arithmetic behind it is the maze's neatest closed system. The animals are nu
 
 ### 162 · Everybody's Going to Space Now
 
-> Solved · Second key  ·  **Key** `In my Father's Shoes`  ·  **Filed under** From Darkness  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span><span class="jt-chip jt-second">Second key</span>  ·  **Key** `In my Father's Shoes`  ·  **Filed under** From Darkness  ·  Image</span>
 
 This room's picture is already in the Gallery. It was unlocked in August 2022 with `In My Fathers Shoes`, no apostrophe.
 
@@ -198,7 +198,7 @@ It is on this page because of what it taught, which outlived the room by two mon
 
 ### 163 · Current-Sea
 
-> Solved  ·  **Key** `no thing creates another thing`  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `no thing creates another thing`  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
 The *Man devours God* page from the notebook.
 
@@ -210,7 +210,7 @@ The room's name does the same trick out loud. **Current-Sea** is currency and a 
 
 ### 164 · A Commonplace Pathway
 
-> Solved  ·  **Key** `The Way To Heaven`  ·  **Filed under** Time Garden (22:1)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `The Way To Heaven`  ·  **Filed under** Time Garden (22:1)  ·  Image</span>
 
 The *Matter — electrical qualities* page.
 
@@ -224,7 +224,7 @@ Filed under **Time Garden (22:1)**, one of only eight rooms on that shelf.
 
 ### 165 · Soul Is A Star, Unreleased Adlibs
 
-> Solved  ·  **Key** `A Bullet In Her Genes`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Audio**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `A Bullet In Her Genes`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Audio</span>
 
 About a minute of mono audio: unreleased adlibs for *Soul Is A Star*.
 
@@ -238,7 +238,7 @@ This room was also the reason the working ledger exists at all. An automated swe
 
 ### 166 · I'm the Spider
 
-> Solved  ·  **Key** `The Answers In A Name`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `The Answers In A Name`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 A two-column poem laid over a moon and ocean field.
 
@@ -252,7 +252,7 @@ The limiting factor turned out to be transcription, not insight. One wrong apost
 
 ### 167 · A Secret Order
 
-> Solved  ·  **Key** `A secret order everywhere`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `A secret order everywhere`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
 A *Coronation of the Virgin* image paired with a poem about Rome.
 
@@ -264,7 +264,7 @@ That is the discipline the whole page rests on: when a room's art is a text, the
 
 ### 168 · Content of the Earth
 
-> Solved  ·  **Key** `3132514932`  ·  **Filed under** Seen Things/Illumination  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `3132514932`  ·  **Filed under** Seen Things/Illumination  ·  Video</span>
 
 The key is `3132514932` — the phone number from the **ARE YOU CONTENT?** poster, digits only, every bracket and dash removed.
 
@@ -276,7 +276,7 @@ That campaign was real and it worked — people called, and their recorded answe
 
 ### 169 · Rabbit=Man
 
-> Solved  ·  **Key** `Standing at the gate of the world`  ·  **Filed under** From Darkness  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Standing at the gate of the world`  ·  **Filed under** From Darkness  ·  Image</span>
 
 A grey rabbit.
 
@@ -290,7 +290,7 @@ And then the room's own **name** turned out to be a key as well, which is where 
 
 ### 170 · Reverse Test Pilot School
 
-> Solved  ·  **Key** `W125`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `W125`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Video</span>
 
 A United States Air Force Test Pilot School lighter, from Edwards Air Force Base — the aviation-father material.
 
@@ -302,13 +302,13 @@ That is the whole lesson of this room. **Enumerate a finite register before deci
 
 ### 171 · Informational Tweet
 
-> Solved  ·  **Key** `Information` <span class="jt-space">␠</span>  ·  **Filed under** Personified Inner Monologue  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Information` <span class="jt-space">␠</span>  ·  **Filed under** Personified Inner Monologue  ·  Image</span>
 
 A post from September 2021: *"My favorite color is information."*
 
 The key is `Information` **with one trailing space**, and that space is the reason this room stayed shut. The maze's own code box trims whitespace off whatever you type, so the correct answer, typed correctly, is rejected. It had to be opened by handing the maze the untrimmed string underneath its own input field.
 
-Four keys in this maze end in a single space. Before this one, no sweep had ever tested for whitespace at all, because whitespace is the first thing every text tool throws away. The working notes had already given up on this room and filed it as *reveal-art, uncrackable*.
+Several keys in this maze end in a single space. Before this one, no sweep had ever tested for whitespace at all, because whitespace is the first thing every text tool throws away. The working notes had already given up on this room and filed it as *reveal-art, uncrackable*.
 
 Filed under **Personified Inner Monologue**, a shelf with only six rooms on it.
 
@@ -316,7 +316,7 @@ Filed under **Personified Inner Monologue**, a shelf with only six rooms on it.
 
 ### 172 · B.W. Original Master
 
-> Solved  ·  **Key** `original master`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `original master`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 A photograph of a small child in knight's armour, sitting on a pony.
 
@@ -328,7 +328,7 @@ Filed under **Seeds of Infinity / Childhood**. The armour is a costume, the pony
 
 ### 173 · Perspective Is a Water Droplet
 
-> Solved  ·  **Key** `Perspective Is A Water Droplet` <span class="jt-space">␠</span>  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Audio**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Perspective Is A Water Droplet` <span class="jt-space">␠</span>  ·  **Filed under** Unseen Things/Concealed Generations  ·  Audio</span>
 
 For a long time this was the audio room nobody could open: a sung setting of a Hannah Hurnard quatrain.
 
@@ -342,13 +342,13 @@ Twelve of the maze's stored room names carry a leading or trailing space. Two of
 
 ### 174 · Original Master
 
-> Solved  ·  **Key** `Grey in A#`  ·  **Filed under** Buried Things  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Grey in A#`  ·  **Filed under** Buried Things  ·  Image</span>
 
 A dove standing on a chalice.
 
 The key is `Grey in A#`, and the `#` is the problem. In a web address a hash mark ends the query, so when the maze passed the typed key to its own validator the string was cut at *"Grey in A"* and checked against the wrong thing. The key was valid the entire time; the door was broken. It opened by going straight to the room's address and bypassing the box.
 
-This is Jen's only find on the **Buried** shelf, which the maze's leaderboard counts separately — so a punctuation bug in a text field had been holding one whole board hostage.
+It is also what put her on the maze's **Buried** board, which the leaderboard counts separately — so a punctuation bug in a text field had been holding a whole board hostage.
 
 The room's title is also a working key elsewhere. It opens the child-knight photograph two rooms above.
 
@@ -356,7 +356,7 @@ The room's title is also a working key elsewhere. It opens the child-knight phot
 
 ### 175 · Dreaming on a Golden Couch
 
-> Solved  ·  **Key** `None can tell how life began`  ·  **Filed under** Buried Things  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `None can tell how life began`  ·  **Filed under** Buried Things  ·  Image</span>
 
 Rejected album art: a white cat-eared figure with a `+` marked on the forehead, a rainbow halo, and a gold star medallion at the chest.
 
@@ -368,7 +368,7 @@ The figure is not alone. It belongs to a small family of drawings that share a h
 
 ### 176 · Are You Content?
 
-> Solved  ·  **Key** `I am content`  ·  **Filed under** Seen Things/Illumination  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `I am content`  ·  **Filed under** Seen Things/Illumination  ·  Video</span>
 
 The **ARE YOU CONTENT?** poster — the sibling of the one carrying the phone number.
 
@@ -380,7 +380,7 @@ Two rooms, one campaign, and the keys cross over. The poster with the number see
 
 ### 177 · 167 Octa
 
-> Solved  ·  **Key** `K616`  ·  **Filed under** Phantoms of the Past  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `K616`  ·  **Filed under** Phantoms of the Past  ·  Video</span>
 
 The *Dead Letter Diaries* CD — Roy's first high-school band — nailed to fence boards.
 
@@ -392,7 +392,7 @@ The key is `K616`, found in the same exhaustive run through the letter-and-digit
 
 ### 178 · 13th Leaf
 
-> Solved  ·  **Key** `Out of Sequence` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Out of Sequence` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
 One of the master cosmology pages, titled **How to Live Forever?**
 
@@ -404,7 +404,7 @@ The page title matters beyond this room. The **hopscotch court** further down th
 
 ### 179 · Ancestor Codes
 
-> Solved  ·  **Key** `Coding Consciousness` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Coding Consciousness` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
 The **Coding Consciousness** notes page — another of the master cosmology sheets.
 
@@ -416,7 +416,7 @@ Filed under **Ways of growing (Keys to Kingdom)**, and the shelf label is doing 
 
 ### 180 · Fox=Mind
 
-> Solved  ·  **Key** `Cat=Moon`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Cat=Moon`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 > **This room is one link in a chain of eight.** Each room's *name* is the next room's *key*, running `Rabbit=Man` → `Cat=Moon` → `Fox=Mind` → `Dove=Heart` → `Spider=Sun` → `Sun=6` → `About the constellations` → *Sir Rabbit & The Lightning Flash*. Nothing in the maze announces the chain. You find it by noticing that a room you just opened is called something that looks like a key.
 
@@ -430,7 +430,7 @@ It was derived rather than read. The animals on the numbered ladder are the proj
 
 ### 181 · Dove=Heart
 
-> Read  ·  **Key** `Fox=Mind`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Fox=Mind`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 Named `Dove=Heart` and opened by `Fox=Mind` — the next link in the relay.
 
@@ -442,7 +442,7 @@ That distinction is kept everywhere on this page. A key read out of the site's r
 
 ### 182 · Spider=Sun
 
-> Read  ·  **Key** `Dove=Heart`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Dove=Heart`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 Named `Spider=Sun`, opened by `Dove=Heart`.
 
@@ -454,7 +454,7 @@ What the pass proved is worth more than the two keys. The maze's remaining rooms
 
 ### 183 · Sun=6
 
-> Solved  ·  **Key** `Spider=Sun`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Spider=Sun`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 Named `Sun=6`, opened by `Spider=Sun`.
 
@@ -466,7 +466,7 @@ The spider sits at station six on the ladder, which is the sun's station, and th
 
 ### 184 · About the Constellations
 
-> Solved  ·  **Key** `Sun=6`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Sun=6`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 Named `About the constellations`, opened by `Sun=6`.
 
@@ -478,7 +478,7 @@ There is a rule in that. A negative result only closes what it actually tested, 
 
 ### 185 · Roy YHVH
 
-> Read  ·  **Key** `Roy 26`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Roy 26`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 The key is `Roy 26` — and the arithmetic is **written on the artifact itself**. It had been transcribed into the working notes and never entered into the code box.
 
@@ -490,7 +490,7 @@ Twenty-six is the number the tradition attaches to the divine name, which is wha
 
 ### 186 · Test Pilot School
 
-> Read  ·  **Key** `Edwards Airforce Base`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Edwards Airforce Base`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Video</span>
 
 The second of the two Test Pilot School rooms.
 
@@ -502,7 +502,7 @@ Another read rather than a solve, and another failure that names its own registe
 
 ### 187 · Roma Called Roy
 
-> Read  ·  **Key** `The subtle difference between a name and what something or someone is called`  ·  **Filed under** Window Of Appearance  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `The subtle difference between a name and what something or someone is called`  ·  **Filed under** Window Of Appearance  ·  Image</span>
 
 The room holds the page from *Through the Looking-Glass* where the White Knight distinguishes a song, the song's name, what the song is called, and what the name of the song is called.
 
@@ -516,7 +516,7 @@ Related, and grounded: this is also where the naming instruction on *Genesis Tre
 
 ### 188 · Egg Tweet
 
-> Read  ·  **Key** `"what comes first, the chicken or the egg?"`  ·  **Filed under** From Darkness  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `"what comes first, the chicken or the egg?"`  ·  **Filed under** From Darkness  ·  Image</span>
 
 The key is `"what comes first, the chicken or the egg?"` — **including the literal double quotes.** Without them it fails.
 
@@ -528,7 +528,7 @@ Both posts had been in the archive the whole time. What was missing was the quot
 
 ### 189 · Where There Is Truth, There Is No-Self
 
-> Solved  ·  **Key** `"Where there is Self, there is No-Truth"`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `"Where there is Self, there is No-Truth"`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Video</span>
 
 Documentary footage from the *Subject to Flooding* sessions.
 
@@ -540,7 +540,7 @@ This is the room that proved the method rather than the theory. The standing ass
 
 ### 190 · Internal Guide
 
-> Read  ·  **Key** `Stars are letters in wisdom's alphabet`  ·  **Filed under** Phantoms of the Past  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Stars are letters in wisdom's alphabet`  ·  **Filed under** Phantoms of the Past  ·  Image</span>
 
 A class photograph.
 
@@ -552,7 +552,7 @@ Read rather than solved, and another named register: article-drop. It sounds tri
 
 ### 191 · Unidentified Angle (with pants)
 
-> Solved  ·  **Key** `Catabolic system` <span class="jt-space">␠</span>  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Catabolic system` <span class="jt-space">␠</span>  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
 A pencil figure drawn on drywall: cat ears, large dark eyes, a **faceted star at the chest**, eyebrows, three lines above the head, and — unlike its pair — legs, pants with a bow, and broad bare feet.
 
@@ -560,13 +560,13 @@ The chest mark is a faceted star-solid and the geometry favours six-fold, not fi
 
 The key is `Catabolic system` **plus one trailing space** — line thirteen of the Complete Upload Recipe, Roy's own typed ingredient list. Without the space it is dead. `Anabolic system` is dead with or without.
 
-What this one did to the hunt is larger than the room. Its address had not been in any map anyone held: **this was a room nobody knew existed.** Opening it exposed a hidden neighbour, and harvesting outward from that neighbour surfaced three more rooms. The maze's tree turned out to be bigger than the frontier everyone had been searching.
+What this one did to the hunt is larger than the room. Its address had not been in any map anyone held: **this was a room nobody knew existed.** Opening it exposed a hidden neighbour, and harvesting outward from the new addresses surfaced two more after that — three new doors from one key. The maze's tree turned out to be bigger than the frontier everyone had been searching.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x1ccd3ad1945f60f159e122daf8e0785bc1d11a28d335e997c96d5566100382f3) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1ccd3ad1945f60f159e122daf8e0785bc1d11a28d335e997c96d5566100382f3..jpeg)<br>Maze name <b>Roy "Unidentified  Angle (with pants)" Sketch</b> · token 191 · opened 2026-08-26 · leaf <code>0x1ccd3ad1…0382f3</code></span>
 
 ### 192 · Zodiac Ark
 
-> Read  ·  **Key** `Noah 33`  ·  **Filed under** Window Of Appearance  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Noah 33`  ·  **Filed under** Window Of Appearance  ·  Image</span>
 
 The Ark page — one of the eight rooms that had been open since 2022 and that nobody, in four years, ever solved.
 
@@ -578,7 +578,7 @@ It was nearly in hand for months. The artifact plainly names Noah's Ark, the pro
 
 ### 193 · Flood Artifact (∆ƒ˚)
 
-> Read  ·  **Key** `JKF`  ·  **Filed under** Phantoms of the Past  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `JKF`  ·  **Filed under** Phantoms of the Past  ·  Video</span>
 
 The glyph title decodes through the Mac Option-key positions to **JFK**.
 
@@ -590,7 +590,7 @@ The rule that comes out of this is one of the most useful on the page: **the exa
 
 ### 194 · Pay Me! (˙ø®¨ß$)
 
-> Read  ·  **Key** `Horus4`  ·  **Filed under** Seen Things/Illumination  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Horus4`  ·  **Filed under** Seen Things/Illumination  ·  Video</span>
 
 Another of the eight, and the strangest of them.
 
@@ -602,7 +602,7 @@ That is a physical keyboard layer, and nothing in the model had it. A glyph, the
 
 ### 195 · Intentional Binding (Memory Garden)
 
-> Read  ·  **Key** `Memory Garden`  ·  **Filed under** Instructional Information  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Memory Garden`  ·  **Filed under** Instructional Information  ·  Image</span>
 
 `Memory Garden` opens this room.
 
@@ -614,7 +614,7 @@ That pairing broke a working assumption. Second keys were thought to be typograp
 
 ### 196 · Worldstop
 
-> Read  ·  **Key** `I can't get into Heaven. Why don't you take my money?`  ·  **Filed under** Phantoms of the Past  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `I can't get into Heaven. Why don't you take my money?`  ·  **Filed under** Phantoms of the Past  ·  Image</span>
 
 The key is the full sentence, exactly as written: `I can't get into Heaven. Why don't you take my money?`
 
@@ -626,7 +626,7 @@ Separating **candidate quality** from **target visibility** is the correction. A
 
 ### 197 · Knowlegde of Good and Evil
 
-> Read  ·  **Key** `Genesis 3:6`  ·  **Filed under** From Darkness  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Genesis 3:6`  ·  **Filed under** From Darkness  ·  Image</span>
 
 The room's title carries its own misspelling; that is how the maze stores it.
 
@@ -638,7 +638,7 @@ A small bounded register would have covered it: for an unmistakable scriptural s
 
 ### 198 · Roy's Rooster
 
-> Read  ·  **Key** `Early Bird Gets The Worm`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Early Bird Gets The Worm`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Video</span>
 
 The key is `Early Bird Gets The Worm`.
 
@@ -650,7 +650,7 @@ The correction Jen had already made, confirmed here: **a key can simply restate 
 
 ### 199 · I Am Drugs
 
-> Read  ·  **Key** `I Don't Do Drugs`  ·  **Filed under** Phantoms of the Past  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `I Don't Do Drugs`  ·  **Filed under** Phantoms of the Past  ·  Video</span>
 
 Studio session footage.
 
@@ -662,7 +662,7 @@ This room was surfaced by the *Catabolic system* crack: it was the hidden neighb
 
 ### 200 · God NFT
 
-> Read  ·  **Key** `You're IT`  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `You're IT`  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
 Two panels. Above: a circle labelled **GOD**, with a centre dot and an axis. Below: two circles overlapping in a vesica, with a dotted **rhombus** across them — two triangles sharing a base, not one triangle.
 
@@ -674,7 +674,7 @@ The picture is the more interesting half. **One becomes two** appears in a relea
 
 ### 201 · You're the Illuminati
 
-> Read  ·  **Key** `Caution Roy`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Caution Roy`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
 The Met's unicorn tapestry, carrying the full *You're the Illuminati* lyric.
 
@@ -688,7 +688,7 @@ A sibling card on the same board decodes to *I LOVE YOU GUYS SO MUCH*. That mess
 
 ### 202 · Intentional Binding (ai code 19)
 
-> Read  ·  **Key** `ai code 19`  ·  **Filed under** Instructional Information  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `ai code 19`  ·  **Filed under** Instructional Information  ·  Image</span>
 
 The same artifact as *Memory Garden* above, opened by `ai code 19`.
 
@@ -698,7 +698,7 @@ An opaque numbered label — and unlike almost everything else on this page, **i
 
 ### 203 · Mom's Grasshopper Song
 
-> Read  ·  **Key** `Stop trying to be cool and be you`  ·  **Filed under** Seen Things/Illumination  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Stop trying to be cool and be you`  ·  **Filed under** Seen Things/Illumination  ·  Video</span>
 
 Two minutes and twenty-one seconds of video: Roy's mother in a garden.
 
@@ -712,7 +712,7 @@ The reason it stayed dark is structural rather than clever. The archive captured
 
 ### 204 · Lost Darkness Poem, Ascending
 
-> Read  ·  **Key** `Think Like A Tree Growing Up`  ·  **Filed under** Buried Things  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `Think Like A Tree Growing Up`  ·  **Filed under** Buried Things  ·  Image</span>
 
 > **A deliberate pair.** This sheet and the one below share ten animals, the numbers one to ten, a shelf, matched titles and matched keys. Neither appears in the maze's own room registry. Both are live.
 
@@ -733,7 +733,7 @@ And rung eight is worth stopping on. *Its* thoughts, not *my* thoughts — the m
 
 ### 205 · Lost Darkness Poem, Descending
 
-> Solved  ·  **Key** `Think Like A Tree Growing Down`  ·  **Filed under** Buried Things  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Think Like A Tree Growing Down`  ·  **Filed under** Buried Things  ·  Image</span>
 
 `Think Like A Tree Growing Down` opens the descending sheet.
 
@@ -754,7 +754,7 @@ This sheet also carries the line *"I spoke the words 'One become Two'"*, which i
 
 ### 206 · Unidentified Angle
 
-> Read  ·  **Key** `invisible light spectrum`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span>  ·  **Key** `invisible light spectrum`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
 The pair-mate of the drawing near the top of this section. Same head, same large eyes, same star at the chest — and then it diverges: **no legs**, a flaring hatched lower body, no eyebrows, no lines above the head.
 
@@ -768,7 +768,7 @@ One more join, grounded in the records: the maze holds a room called **Identifie
 
 ### 207 · The Game Is to Reveal the Game
 
-> Solved  ·  **Key** `Hopscotch` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Hopscotch` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
 A hand-drawn hopscotch court, captioned **"How to Live Forever?  ∞"**.
 
@@ -782,7 +782,7 @@ The key is `Hopscotch` plus one trailing space — and the way it was missed is 
 
 ### 208 · Peter XIV
 
-> Solved  ·  **Key** `self doubt`  ·  **Filed under** Unseen Things/Concealed Generations  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `self doubt`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
 A full page of pencil character sketches — a **second bestiary**, and every name on it is new:
 
@@ -805,7 +805,7 @@ This sheet is the left page of a notebook spread. Its cut-off right margin is th
 
 ### 209 · I Feel So Happy
 
-> Solved  ·  **Key** `I feel so happy`  ·  **Filed under** From Darkness  ·  **Audio**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `I feel so happy`  ·  **Filed under** From Darkness  ·  Audio</span>
 
 Sixty seconds of mono audio: a voice diary.
 
@@ -821,7 +821,7 @@ And it is worth being exact about which half of the work was decisive. The trans
 
 ### 210 · Cat=Moon
 
-> Solved  ·  **Key** `Rabbit=Man`  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Rabbit=Man`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 Named `Cat=Moon`, opened by `Rabbit=Man`.
 
@@ -833,7 +833,7 @@ The register that had already been declared closed — the animal equations — 
 
 ### 211 · Sir Rabbit & the Lightning Flash
 
-> Solved  ·  **Key** `About the constellations` <span class="jt-space">␠</span>  ·  **Filed under** Seeds of Infinity/Childhood  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `About the constellations` <span class="jt-space">␠</span>  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
 Named for Sir Rabbit and the Lightning Flash, opened by `About the constellations` **plus a trailing space** — the end of the chain of eight that starts near the top of this page.
 
@@ -845,11 +845,11 @@ Two registers that had been marked closed were reopened on the same day by this 
 
 ### 212 · Jesus Death
 
-> Solved  ·  **Key** `Jesus Death 33`  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Jesus Death 33`  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
 A handwritten page headed **CANON / 3, 7 and 11** — a compressed transcription of two pages of Miranda Lundy's *Quadrivium*, on the canon and on squaring the circle.
 
-Also on the sheet: Gerum Church, 33 warriors, the sun's thirty-three-year sunrise repeat, Ramadan's thirty-three-year return (the lunar year runs about eleven days short), *halfway between 3 and 11 = 7*, and 11/7 = π/2. And a **die** is drawn — opposite faces of a die sum to seven.
+Also on the sheet: Gerum Church, 33 warriors, the sun's thirty-three-year sunrise repeat, Ramadan's thirty-three-year return (the lunar year runs about eleven days short), *halfway between 3 and 11 = 7*, and **11/7 = π/2** written out as an identity. And a **die** is drawn — opposite faces of a die sum to seven.
 
 The page reads **"Jesus death @ 33"**. The key is `Jesus Death 33`: the `@` is dropped and the two spaces around it collapse to one. A symbol-drop register, and a new one.
 
@@ -859,7 +859,7 @@ Solved offline, against an address exposed by the room above it. Nearby forms we
 
 ### 213 · Window of Appearances
 
-> Read · Second key  ·  **Key** `A194`  ·  **Filed under** Buried Things  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-read">Read</span><span class="jt-chip jt-second">Second key</span>  ·  **Key** `A194`  ·  **Filed under** Buried Things  ·  Image</span>
 
 Rejected album art: a rainbow circle over a turntable. A white figure carries a **smaller identical three-pointed figure** where the drywall version of the same figure had three dots — nested, not substituted.
 
@@ -871,7 +871,7 @@ Being clear about that is the point. Membership in the maze, assignment to a roo
 
 ### 214 · Grandfather's Plane
 
-> Solved · Second key  ·  **Key** `hemidall`  ·  **Filed under** Life Changing Connections (VI Link)  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span><span class="jt-chip jt-second">Second key</span>  ·  **Key** `hemidall`  ·  **Filed under** Life Changing Connections (VI Link)  ·  Video</span>
 
 `hemidall` — a misspelling of **Heimdall**, the Norse watchman of the Bifröst, who guards the rainbow bridge between worlds.
 
@@ -885,7 +885,7 @@ Marked as a second key, honestly. The video is a re-encode of the Gallery's Gran
 
 ### 215 · How to Steer the Soul
 
-> Solved · Second key  ·  **Key** `Jagwar Twin’s ”trojan horse” program_`  ·  **Filed under** From Darkness  ·  **Image**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span><span class="jt-chip jt-second">Second key</span>  ·  **Key** `Jagwar Twin’s ”trojan horse” program_`  ·  **Filed under** From Darkness  ·  Image</span>
 
 The key is `Jagwar Twin's "trojan horse" program_` — curly quotation marks, trailing underscore, exactly as stored. It is the **name of another room**, whose own key is something else entirely.
 
@@ -899,7 +899,7 @@ Its real importance is what sat next to it. This address's **neighbour** was the
 
 ### 216 · G Owl
 
-> Solved  ·  **Key** `Q373`  ·  **Filed under** From Darkness  ·  **Video**
+<span class="jt-facts"><span class="jt-chip jt-solved">Solved</span>  ·  **Key** `Q373`  ·  **Filed under** From Darkness  ·  Video</span>
 
 A figurine, as a still and as a three-second video.
 
@@ -917,7 +917,7 @@ This was the last of the sixty-two to open, on 30 August 2026. It also broke the
 
 Three things, stated plainly.
 
-**The maze was never as searched as it looked.** Four separate registers had been recorded as closed and dry before rooms on this page reopened them: the animal equations, the phrase *About the constellations*, the room-name field, and whitespace. Each of those zeroes was real and correctly reported. Each one had been scored against a list of addresses that could not contain the answer, so the answer was generated, hashed, checked, and thrown away. **The generators were never the bottleneck. The target list was, every single time.**
+**The maze was never as searched as it looked.** Two registers had been recorded as closed and dry before rooms on this page reopened them — the animal equations, and the phrase *About the constellations* — and two more had never been searched at all: trailing whitespace, and the maze's own stored room-name field. The recorded zeroes were real and correctly reported. They had been scored against a list of addresses that could not contain the answer, so in at least one case the answer was generated, hashed, checked, and thrown away. **The generators were never the bottleneck. The target list was, every single time.**
 
 **The plainest form wins.** Four keys in one session came out of the same typed sheet under the smallest possible operations: a word with one space on the end, a hyphen changed to a space, a word removed, an `@` dropped. They had all been skipped in favour of more interesting transformations. Run the bare, unmodified source string before running anything clever with it.
 

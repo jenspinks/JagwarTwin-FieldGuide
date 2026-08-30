@@ -1147,12 +1147,14 @@ body:has(.jt-legend) .markdown-preview-sizer{ max-width: none !important; }
   margin-top: 2.4em; padding-top: .9em;
   border-top: 1px solid var(--background-modifier-border);
 }
-.markdown-preview-view:has(.jt-legend) h3 + blockquote{
-  margin: .6em 0 1.1em; padding: .35em 0 .35em 1em;
-  border-left: 2px solid var(--text-accent);
-  background: transparent; font-size: var(--font-smaller);
-  color: var(--text-muted);
+.markdown-preview-view:has(.jt-legend) .jt-facts{
+  display: block; margin: .1em 0 .2em; padding: .3em 0 .55em;
+  border-bottom: 1px solid var(--background-modifier-border);
+  font-size: var(--font-smaller); color: var(--text-muted);
 }
+.markdown-preview-view:has(.jt-legend) .jt-facts .jt-chip{ margin-left: 0; margin-right: .35em; }
+.markdown-preview-view:has(.jt-legend) .jt-facts b,
+.markdown-preview-view:has(.jt-legend) .jt-facts strong{ color: var(--text-faint); font-weight: 600; }
 
 @media (max-width: 1000px){
   .markdown-preview-view:has(.jt-legend) tbody{ grid-template-columns: repeat(2, minmax(0,1fr)); }
