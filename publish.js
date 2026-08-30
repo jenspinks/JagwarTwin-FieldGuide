@@ -57,3 +57,55 @@
     true
   );
 })();
+
+/* Rooms Behind the Gallery — stand-alone page.
+ *
+ * That page is meant to open with no navigation in or out. CSS can't see the
+ * route, and keying off an element inside the note proved unreliable, so this
+ * stamps `jt-standalone` on <body> whenever that route is showing and strips
+ * it everywhere else. Publish is a single-page app, so the check re-runs on
+ * navigation as well as on load.
+ *
+ * To make another page stand alone, add its path (lowercase, no extension) to
+ * PAGES and give it the same treatment in publish.css.
+ */
+(function () {
+  "use strict";
+  if (window.__jtStandalone) return;
+  window.__jtStandalone = true;
+
+  var PAGES = ["/rooms behind the gallery"];
+
+  function currentPath() {
+    var p = window.location.pathname || "";
+    p = p.replace(/\+/g, " ");
+    try {
+      p = decodeURIComponent(p);
+    } catch (e) {
+      /* a malformed escape must never break the nav */
+    }
+    return p.toLowerCase().replace(/\.md$/, "").replace(/\/+$/, "");
+  }
+
+  function sync() {
+    if (!document.body) return;
+    var standalone = PAGES.indexOf(currentPath()) !== -1;
+    document.body.classList.toggle("jt-standalone", standalone);
+  }
+
+  sync();
+  window.addEventListener("popstate", sync);
+
+  ["pushState", "replaceState"].forEach(function (name) {
+    var original = history[name];
+    if (typeof original !== "function") return;
+    history[name] = function () {
+      var result = original.apply(this, arguments);
+      setTimeout(sync, 0);
+      return result;
+    };
+  });
+
+  // Publish can swap the rendered note without touching history; poll cheaply.
+  setInterval(sync, 500);
+})();

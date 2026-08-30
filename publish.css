@@ -1024,15 +1024,24 @@ body.theme-dark, body.theme-light, .published-container {
 
 /* --- free-floating: no navigation in, none out --- */
 body:has(.jt-legend) .site-body-left-column,
+body.jt-standalone .site-body-left-column,
 body:has(.jt-legend) .site-body-right-column,
+body.jt-standalone .site-body-right-column,
 body:has(.jt-legend) .site-header,
-body:has(.jt-legend) .nav-backdrop{ display: none !important; }
+body.jt-standalone .site-header,
+body:has(.jt-legend) .nav-backdrop,
+body.jt-standalone .nav-backdrop{ display: none !important; }
 
-body:has(.jt-legend) .site-body-center-column{
+body:has(.jt-legend) .site-body-center-column,
+body.jt-standalone .site-body-center-column{
   margin: 0 auto; max-width: 1240px; padding-left: 1.2rem; padding-right: 1.2rem;
 }
-body:has(.jt-legend) .published-container{ padding-left: 0 !important; }
-body:has(.jt-legend) .markdown-preview-sizer{ max-width: none !important; }
+
+body:has(.jt-legend) .published-container,
+body.jt-standalone .published-container{ padding-left: 0 !important; }
+
+body:has(.jt-legend) .markdown-preview-sizer,
+body.jt-standalone .markdown-preview-sizer{ max-width: none !important; }
 
 /* --- the legend strip --- */
 .jt-legend{
@@ -1078,96 +1087,133 @@ body:has(.jt-legend) .markdown-preview-sizer{ max-width: none !important; }
 .jt-meta code{ font-size: .95em; }
 
 /* --- the card grid (the page's single table) --- */
-.markdown-preview-view:has(.jt-legend) table{
+.markdown-preview-view:has(.jt-legend) table,
+body.jt-standalone .markdown-preview-view table{
   display: block; width: 100%; border: none; margin: 1.4em 0 2.2em;
 }
-.markdown-preview-view:has(.jt-legend) thead{ display: none; }
-.markdown-preview-view:has(.jt-legend) tbody{
+
+.markdown-preview-view:has(.jt-legend) thead,
+body.jt-standalone .markdown-preview-view thead{ display: none; }
+
+.markdown-preview-view:has(.jt-legend) tbody,
+body.jt-standalone .markdown-preview-view tbody{
   display: grid; gap: 1rem;
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr,
+body.jt-standalone .markdown-preview-view tbody > tr{
   display: flex; flex-direction: column; margin: 0; padding: 0 0 .75rem;
   border: 1px solid var(--background-modifier-border); border-radius: 8px;
   background: var(--background-primary); overflow: hidden;
   transition: border-color .15s linear, box-shadow .15s linear;
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr:hover{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr:hover,
+body.jt-standalone .markdown-preview-view tbody > tr:hover{
   border-color: var(--background-modifier-border-hover);
   box-shadow: 0 4px 10px rgba(0,0,0,.06);
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr > td{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr > td,
+body.jt-standalone .markdown-preview-view tbody > tr > td{
   display: block; border: none; padding: .35rem .8rem; width: auto;
   font-size: var(--font-smaller); color: var(--text-muted); white-space: normal;
 }
 /* 2 = the image cell, lifted to the top of the card */
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(2){
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(2),
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(2){
   order: -1; padding: 0; margin: 0; background: var(--background-secondary);
   line-height: 0;
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(2) img{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(2) img,
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(2) img{
   width: 100%; max-height: 300px; object-fit: contain; border-radius: 0;
   background: var(--background-secondary); vertical-align: bottom;
 }
 /* 1 = the title */
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(1){
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(1),
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(1){
   padding-top: .7rem; font-size: var(--font-small); color: var(--text-normal);
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(1) a{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(1) a,
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(1) a{
   text-decoration: none;
 }
 /* 3 = the key */
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(3){
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(3),
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(3){
   padding-bottom: .5rem;
   border-bottom: 1px solid var(--background-modifier-border);
   margin: 0 .8rem .35rem; padding-left: 0; padding-right: 0;
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(3) code{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(3) code,
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(3) code{
   font-size: .82em; word-break: break-word;
 }
 /* 4 = the shelf */
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(4){
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(4),
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(4){
   font-size: var(--font-smallest); text-transform: uppercase;
   letter-spacing: .05em; color: var(--text-faint);
 }
 /* 5 = the hook */
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(5){
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(5),
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(5){
   color: var(--text-normal); line-height: 1.4; flex: 1 1 auto;
 }
 /* 6 = read the discovery */
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(6){
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(6),
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(6){
   margin-top: auto; padding-top: .5rem; font-weight: 600;
 }
-.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(6) a{
+
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(6) a,
+body.jt-standalone .markdown-preview-view tbody > tr > td:nth-child(6) a{
   text-decoration: none;
 }
 
 /* --- the readings --- */
-.markdown-preview-view:has(.jt-legend) h3{
+.markdown-preview-view:has(.jt-legend) h3,
+body.jt-standalone .markdown-preview-view h3{
   margin-top: 2.4em; padding-top: .9em;
   border-top: 1px solid var(--background-modifier-border);
 }
-.markdown-preview-view:has(.jt-legend) .jt-facts{
+
+.markdown-preview-view:has(.jt-legend) .jt-facts,
+body.jt-standalone .markdown-preview-view .jt-facts{
   display: block; margin: .1em 0 .2em; padding: .3em 0 .55em;
   border-bottom: 1px solid var(--background-modifier-border);
   font-size: var(--font-smaller); color: var(--text-muted);
 }
-.markdown-preview-view:has(.jt-legend) .jt-facts .jt-chip{ margin-left: 0; margin-right: .35em; }
-.markdown-preview-view:has(.jt-legend) .jt-facts b,
-.markdown-preview-view:has(.jt-legend) .jt-facts strong{ color: var(--text-faint); font-weight: 600; }
 
-@media (max-width: 1000px){
-  .markdown-preview-view:has(.jt-legend) tbody{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+.markdown-preview-view:has(.jt-legend) .jt-facts .jt-chip,
+body.jt-standalone .markdown-preview-view .jt-facts .jt-chip{ margin-left: 0; margin-right: .35em; }
+
+.markdown-preview-view:has(.jt-legend) .jt-facts b,
+body.jt-standalone .markdown-preview-view .jt-facts b,
+.markdown-preview-view:has(.jt-legend) .jt-facts strong,
+body.jt-standalone .markdown-preview-view .jt-facts strong{ color: var(--text-faint); font-weight: 600; }
+
+@media (max-width: 1000px){.markdown-preview-view:has(.jt-legend) tbody,
+body.jt-standalone .markdown-preview-view tbody{ grid-template-columns: repeat(2, minmax(0,1fr)); }
 }
-@media (max-width: 640px){
-  .markdown-preview-view:has(.jt-legend) tbody{ grid-template-columns: 1fr; }
+@media (max-width: 640px){.markdown-preview-view:has(.jt-legend) tbody,
+body.jt-standalone .markdown-preview-view tbody{ grid-template-columns: 1fr; }
 }
 
 /* --- readable measure for the prose; the card grid stays full width --- */
-.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > *{
+.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > *,
+body.jt-standalone .markdown-preview-view .markdown-preview-sizer > *{
   max-width: 47rem; margin-left: auto; margin-right: auto;
 }
+
 .markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > *:has(table),
-.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > table{
+body.jt-standalone .markdown-preview-view .markdown-preview-sizer > *:has(table),
+.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > table,
+body.jt-standalone .markdown-preview-view .markdown-preview-sizer > table{
   max-width: none;
 }
