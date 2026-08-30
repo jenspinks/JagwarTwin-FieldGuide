@@ -1007,3 +1007,156 @@ body.theme-dark, body.theme-light, .published-container {
   justify-content: center; font-variant: small-caps; letter-spacing: 0.05em;
 }
 .callout[data-callout="descend"] .callout-fold{ display: none; }
+
+/* ============================================================================
+   THE ROOMS BEHIND THE GALLERY — free-floating artifact page (added 2026-08-30)
+
+   Every rule below is scoped by :has(.jt-legend). That element only exists on
+   that one page, so nothing here can reach any other page on the site.
+   The one exception is the tree-item rule, which hides that single note from
+   the sidebar and is matched on its exact data-path.
+   ========================================================================== */
+
+/* --- keep the page out of the sidebar tree, sitewide --- */
+.site-body-left-column .tree-item-self[data-path="The Rooms Behind the Gallery.md"]{
+  display: none !important;
+}
+
+/* --- free-floating: no navigation in, none out --- */
+body:has(.jt-legend) .site-body-left-column,
+body:has(.jt-legend) .site-body-right-column,
+body:has(.jt-legend) .site-header,
+body:has(.jt-legend) .nav-backdrop{ display: none !important; }
+
+body:has(.jt-legend) .site-body-center-column{
+  margin: 0 auto; max-width: 1240px; padding-left: 1.2rem; padding-right: 1.2rem;
+}
+body:has(.jt-legend) .published-container{ padding-left: 0 !important; }
+body:has(.jt-legend) .markdown-preview-sizer{ max-width: none !important; }
+
+/* --- the legend strip --- */
+.jt-legend{
+  display: flex; flex-direction: column; gap: .45em;
+  margin: 1.1em 0 1.6em; padding: .95em 1.1em;
+  border: 1px solid var(--background-modifier-border); border-radius: 8px;
+  background: var(--background-secondary);
+  font-size: var(--font-smaller); line-height: 1.45; color: var(--text-muted);
+}
+.jt-legend b{ color: var(--text-normal); }
+.jt-legend i{
+  display: inline-block; width: .72em; height: .72em; margin-right: .55em;
+  border-radius: 2px; vertical-align: baseline; border: 1px solid rgba(0,0,0,.25);
+}
+.jt-c-solved{ background: #1f6f78; }
+.jt-c-read  { background: #d4a63a; }
+.jt-c-second{ background: #8b1e2d; }
+
+/* --- status chips --- */
+.jt-chip{
+  display: inline-block; margin-left: .5em; padding: .08em .5em .12em;
+  border-radius: 999px; font-size: .68em; font-weight: 600;
+  letter-spacing: .04em; text-transform: uppercase; white-space: nowrap;
+  vertical-align: 2px; color: #fff;
+}
+.jt-solved{ background: #1f6f78; }
+.jt-read  { background: #d4a63a; color: #241c05; }
+.jt-second{ background: #8b1e2d; }
+
+/* --- the visible trailing-space marker --- */
+.jt-space{
+  font-family: var(--font-monospace); color: var(--text-accent);
+  opacity: .85; padding-left: .1em;
+}
+
+/* --- per-reading link + provenance bar --- */
+.jt-meta{
+  display: block; margin-top: .9em; padding-top: .6em;
+  border-top: 1px solid var(--background-modifier-border);
+  font-size: var(--font-smallest); line-height: 1.7; color: var(--text-faint);
+}
+.jt-meta b{ color: var(--text-muted); font-weight: 600; }
+.jt-meta code{ font-size: .95em; }
+
+/* --- the card grid (the page's single table) --- */
+.markdown-preview-view:has(.jt-legend) table{
+  display: block; width: 100%; border: none; margin: 1.4em 0 2.2em;
+}
+.markdown-preview-view:has(.jt-legend) thead{ display: none; }
+.markdown-preview-view:has(.jt-legend) tbody{
+  display: grid; gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr{
+  display: flex; flex-direction: column; margin: 0; padding: 0 0 .75rem;
+  border: 1px solid var(--background-modifier-border); border-radius: 8px;
+  background: var(--background-primary); overflow: hidden;
+  transition: border-color .15s linear, box-shadow .15s linear;
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr:hover{
+  border-color: var(--background-modifier-border-hover);
+  box-shadow: 0 4px 10px rgba(0,0,0,.06);
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr > td{
+  display: block; border: none; padding: .35rem .8rem; width: auto;
+  font-size: var(--font-smaller); color: var(--text-muted); white-space: normal;
+}
+/* 2 = the image cell, lifted to the top of the card */
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(2){
+  order: -1; padding: 0; margin: 0; background: var(--background-secondary);
+  line-height: 0;
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(2) img{
+  width: 100%; max-height: 300px; object-fit: contain; border-radius: 0;
+  background: var(--background-secondary); vertical-align: bottom;
+}
+/* 1 = the title */
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(1){
+  padding-top: .7rem; font-size: var(--font-small); color: var(--text-normal);
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(1) a{
+  text-decoration: none;
+}
+/* 3 = the key */
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(3){
+  padding-bottom: .5rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  margin: 0 .8rem .35rem; padding-left: 0; padding-right: 0;
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(3) code{
+  font-size: .82em; word-break: break-word;
+}
+/* 4 = the shelf */
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(4){
+  font-size: var(--font-smallest); text-transform: uppercase;
+  letter-spacing: .05em; color: var(--text-faint);
+}
+/* 5 = the hook */
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(5){
+  color: var(--text-normal); line-height: 1.4; flex: 1 1 auto;
+}
+/* 6 = read the discovery */
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(6){
+  margin-top: auto; padding-top: .5rem; font-weight: 600;
+}
+.markdown-preview-view:has(.jt-legend) tbody > tr > td:nth-child(6) a{
+  text-decoration: none;
+}
+
+/* --- the readings --- */
+.markdown-preview-view:has(.jt-legend) h3{
+  margin-top: 2.4em; padding-top: .9em;
+  border-top: 1px solid var(--background-modifier-border);
+}
+.markdown-preview-view:has(.jt-legend) h3 + blockquote{
+  margin: .6em 0 1.1em; padding: .35em 0 .35em 1em;
+  border-left: 2px solid var(--text-accent);
+  background: transparent; font-size: var(--font-smaller);
+  color: var(--text-muted);
+}
+
+@media (max-width: 1000px){
+  .markdown-preview-view:has(.jt-legend) tbody{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 640px){
+  .markdown-preview-view:has(.jt-legend) tbody{ grid-template-columns: 1fr; }
+}
