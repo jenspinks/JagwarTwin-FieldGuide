@@ -7,7 +7,7 @@ status: published
 publish: true
 ---
 
-# The Rooms Behind the Gallery
+# Hidden Things
 
 Sixty-two Hall of Mirrors rooms that are **not** in the public galleries.
 
@@ -18,12 +18,6 @@ They are laid out **in the order they opened**, which is also the order they wer
 ## How to read this
 
 Every card carries a status mark, and four of them carry a second one. The difference between the first two matters more than it looks.
-
-<div class="jt-legend">
-<span><i class="jt-c-solved"></i><b>Solved</b> · 40 — the key was worked out. Derived, brute-forced, read off the artwork, or found in a post.</span>
-<span><i class="jt-c-read"></i><b>Read</b> · 22 — the key was recovered by reading the maze's own public records, not by solving. It is never counted as a solve, however satisfying the answer turns out to be.</span>
-<span><i class="jt-c-second"></i><b>Second key</b> · 4 — added to the mark above where the key opens a picture the galleries already show. A different door, the same object behind it.</span>
-</div>
 
 A few conventions. `Like this` is an exact key, and **exact** means exact — one wrong apostrophe and the door does not open. Where you see <span class="jt-space">␠</span> on the end of a key, that is a single trailing space, and it is load-bearing; the maze's own input box trims it, so those rooms could not be opened by typing at all. **Filed under** is Roy's own shelf label for the room, attached per artifact in the maze's records; there are thirteen shelves, and almost every room carries one.
 
