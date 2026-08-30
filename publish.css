@@ -1160,3 +1160,12 @@ body:has(.jt-legend) .markdown-preview-sizer{ max-width: none !important; }
 @media (max-width: 640px){
   .markdown-preview-view:has(.jt-legend) tbody{ grid-template-columns: 1fr; }
 }
+
+/* --- readable measure for the prose; the card grid stays full width --- */
+.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > *{
+  max-width: 47rem; margin-left: auto; margin-right: auto;
+}
+.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > *:has(table),
+.markdown-preview-view:has(.jt-legend) .markdown-preview-sizer > table{
+  max-width: none;
+}
