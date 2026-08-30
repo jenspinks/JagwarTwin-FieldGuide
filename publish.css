@@ -1018,7 +1018,7 @@ body.theme-dark, body.theme-light, .published-container {
    ========================================================================== */
 
 /* --- keep the page out of the sidebar tree, sitewide --- */
-.site-body-left-column .tree-item-self[data-path="The Rooms Behind the Gallery.md"]{
+.site-body-left-column .tree-item-self[data-path="Rooms Behind the Gallery.md"]{
   display: none !important;
 }
 
