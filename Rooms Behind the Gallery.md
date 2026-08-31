@@ -36,7 +36,7 @@ Card titles open the room in the maze itself, which will want a wallet connected
 | **[161 · Gabriel the Cat](https://mirrors.jagwartwin.com/rooms/0xe0c8f894133abd1ec0383346e5ca54ae9fb1f6834bebbd140e1f8aa554af7c1f)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe0c8f894133abd1ec0383346e5ca54ae9fb1f6834bebbd140e1f8aa554af7c1f..png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe0c8f894133abd1ec0383346e5ca54ae9fb1f6834bebbd140e1f8aa554af7c1f..png) | `Stomach of a cat + 9 lives` | Unseen Things/Concealed Generations | A cat under a crescent moon, and the ninth rung of the ladder. | [[#161 · Gabriel the Cat\|Read the discovery →]] |
 | **[162 · Everybody's Going to Space Now](https://mirrors.jagwartwin.com/rooms/0x08ef97bc8fcaf1c4acaa0e53c2a34c3d3adfa133cd961a9af1cb27fb6ca16544)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x08ef97bc8fcaf1c4acaa0e53c2a34c3d3adfa133cd961a9af1cb27fb6ca16544..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x08ef97bc8fcaf1c4acaa0e53c2a34c3d3adfa133cd961a9af1cb27fb6ca16544..jpg) | `In my Father's Shoes` | From Darkness | One apostrophe. The mistake that reorganised everything after it. | [[#162 · Everybody's Going to Space Now\|Read the discovery →]] |
 | **[163 · Current-Sea](https://mirrors.jagwartwin.com/rooms/0x0f738f8476afaa7e7e30287f5dbc513b5faa27ae87ed35e6fc2e4e74c4dc3495)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0f738f8476afaa7e7e30287f5dbc513b5faa27ae87ed35e6fc2e4e74c4dc3495..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0f738f8476afaa7e7e30287f5dbc513b5faa27ae87ed35e6fc2e4e74c4dc3495..jpg) | `no thing creates another thing` | Ways of growing (Keys to Kingdom) | Man devours God, opened by a clue nobody had solved since 2023. | [[#163 · Current-Sea\|Read the discovery →]] |
-| **[164 · A Commonplace Pathway](https://mirrors.jagwartwin.com/rooms/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d..jpg) | `The Way To Heaven` | Time Garden (22:1) | Written on the page in full, and split between the key and the title. | [[#164 · A Commonplace Pathway\|Read the discovery →]] |
+| **[164 · A Commonplace Pathway](https://mirrors.jagwartwin.com/rooms/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d..jpg) | `The Way To Heaven` | Time Garden (22:1) | A sentence copied out of a book, split between the key and the title. | [[#164 · A Commonplace Pathway\|Read the discovery →]] |
 | **[165 · Soul Is A Star, Unreleased Adlibs](https://mirrors.jagwartwin.com/rooms/0x442795f9f776aa7cc558db168eab94beaadf5b731f5fbdc21c184825302993c8)** | [![](https://plumcreekranch.com/jagwar/musicbox.png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x442795f9f776aa7cc558db168eab94beaadf5b731f5fbdc21c184825302993c8..mp3) | `A Bullet In Her Genes` | Unseen Things/Concealed Generations | Unreleased vocal takes, keyed by a pun on inheritance. | [[#165 · Soul Is A Star, Unreleased Adlibs\|Read the discovery →]] |
 | **[166 · I'm the Spider](https://mirrors.jagwartwin.com/rooms/0x0d83fc8ad339c56a172c49eb32ae0300cb79669a9adad4163afd4fec31e8f6b3)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0d83fc8ad339c56a172c49eb32ae0300cb79669a9adad4163afd4fec31e8f6b3..png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0d83fc8ad339c56a172c49eb32ae0300cb79669a9adad4163afd4fec31e8f6b3..png) | `The Answers In A Name` | Seeds of Infinity/Childhood | The first room read straight off its own picture. | [[#166 · I'm the Spider\|Read the discovery →]] |
 | **[167 · A Secret Order](https://mirrors.jagwartwin.com/rooms/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d..png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d..png) | `A secret order everywhere` | Unseen Things/Concealed Generations | A Coronation of the Virgin, a Rome poem, and a key from the second stanza. | [[#167 · A Secret Order\|Read the discovery →]] |
@@ -44,7 +44,7 @@ Card titles open the room in the maze itself, which will want a wallet connected
 | **[169 · Rabbit=Man](https://mirrors.jagwartwin.com/rooms/0x0da54f73a42dae5dc1942f7856d6ca7dbcb5927afbab5e4c48edb938d3dc7d97)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0da54f73a42dae5dc1942f7856d6ca7dbcb5927afbab5e4c48edb938d3dc7d97..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0da54f73a42dae5dc1942f7856d6ca7dbcb5927afbab5e4c48edb938d3dc7d97..jpg) | `Standing at the gate of the world` | From Darkness | The tenth rung of the ladder, and the start of a chain of eight rooms. | [[#169 · Rabbit=Man\|Read the discovery →]] |
 | **[170 · Reverse Test Pilot School](https://mirrors.jagwartwin.com/rooms/0x4b240a5ed39beed56c834c6004a6768a665511d226144682f8a55d0fcda7bcd1)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4b240a5ed39beed56c834c6004a6768a665511d226144682f8a55d0fcda7bcd1..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4b240a5ed39beed56c834c6004a6768a665511d226144682f8a55d0fcda7bcd1..jpg) | `W125` | Life Changing Connections (VI Link) | A USAF lighter from Edwards, opened by simply trying every short letter-and-number combination there is. | [[#170 · Reverse Test Pilot School\|Read the discovery →]] |
 | **[171 · Informational Tweet](https://mirrors.jagwartwin.com/rooms/0x1fd015c49b6ed9cca56425279813c458badab5ca37c7587de8d19c58538a7954)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fd015c49b6ed9cca56425279813c458badab5ca37c7587de8d19c58538a7954..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fd015c49b6ed9cca56425279813c458badab5ca37c7587de8d19c58538a7954..jpg) | `Information` <span class="jt-space">␠</span> | Personified Inner Monologue | My favorite color is information. Plus one space you cannot type. | [[#171 · Informational Tweet\|Read the discovery →]] |
-| **[172 · B.W. Original Master](https://mirrors.jagwartwin.com/rooms/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4..jpeg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4..jpeg) | `original master` | Seeds of Infinity/Childhood | A child in knight's armour on a pony, opened by another room's title. | [[#172 · B.W. Original Master\|Read the discovery →]] |
+| **[172 · B.W. Original Master](https://mirrors.jagwartwin.com/rooms/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4..jpeg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4..jpeg) | `original master` | Seeds of Infinity/Childhood | A child in armour on a horse, and the end of a chain that starts with a dove. | [[#172 · B.W. Original Master\|Read the discovery →]] |
 | **[173 · Perspective Is a Water Droplet](https://mirrors.jagwartwin.com/rooms/0xe163466b4452ac1ef0ede8ddf1e2d0f1b3586c338781430def634c8ee73ec567)** | [![](https://plumcreekranch.com/jagwar/musicbox.png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe163466b4452ac1ef0ede8ddf1e2d0f1b3586c338781430def634c8ee73ec567..mp3) | `Perspective Is A Water Droplet` <span class="jt-space">␠</span> | Unseen Things/Concealed Generations | The maze's uncracked song room. Self-keyed, with a space on the end. | [[#173 · Perspective Is a Water Droplet\|Read the discovery →]] |
 | **[174 · Original Master](https://mirrors.jagwartwin.com/rooms/0xd47582489cfe6dec4b6cb5999e67c561f58f3873d47b891427915325ddb13510)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd47582489cfe6dec4b6cb5999e67c561f58f3873d47b891427915325ddb13510..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd47582489cfe6dec4b6cb5999e67c561f58f3873d47b891427915325ddb13510..jpg) | `Grey in A#` | Buried Things | A dove on a chalice. The sharp sign broke the maze's own front door. | [[#174 · Original Master\|Read the discovery →]] |
 | **[175 · Dreaming on a Golden Couch](https://mirrors.jagwartwin.com/rooms/0x3252cfd9b25b3689a77b666e1398635a0ccabf445c235acd94c0620a88eb28e5)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3252cfd9b25b3689a77b666e1398635a0ccabf445c235acd94c0620a88eb28e5..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3252cfd9b25b3689a77b666e1398635a0ccabf445c235acd94c0620a88eb28e5..jpg) | `None can tell how life began` | Buried Things | A haloed figure with a cross on its forehead, keyed by a 2022 post. | [[#175 · Dreaming on a Golden Couch\|Read the discovery →]] |
@@ -78,7 +78,7 @@ Card titles open the room in the maze itself, which will want a wallet connected
 | **[203 · Mom's Grasshopper Song](https://mirrors.jagwartwin.com/rooms/0x8cbe4d1de5623190bfa5b4a7fc80b9594835ea9b42d9e33ed6acc9010e8205d8)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8cbe4d1de5623190bfa5b4a7fc80b9594835ea9b42d9e33ed6acc9010e8205d8..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8cbe4d1de5623190bfa5b4a7fc80b9594835ea9b42d9e33ed6acc9010e8205d8..jpg) | `Stop trying to be cool and be you` | Seen Things/Illumination | A key that is in no song, no video and no post. It is a reshaping of a reply. | [[#203 · Mom's Grasshopper Song\|Read the discovery →]] |
 | **[204 · Lost Darkness Poem, Ascending](https://mirrors.jagwartwin.com/rooms/0x4d3780341d67bc3068de11983cb1ab8a2de2c5fdcd18cca5a4e69464bc75d2fc)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4d3780341d67bc3068de11983cb1ab8a2de2c5fdcd18cca5a4e69464bc75d2fc..png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4d3780341d67bc3068de11983cb1ab8a2de2c5fdcd18cca5a4e69464bc75d2fc..png) | `Think Like A Tree Growing Up` | Buried Things | Ten animals, ten lines, read upward. | [[#204 · Lost Darkness Poem, Ascending\|Read the discovery →]] |
 | **[205 · Lost Darkness Poem, Descending](https://mirrors.jagwartwin.com/rooms/0x14a59d492b4072cb147ff4ef85cd2413a467d2f0e0452856ff4be2c138041477)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x14a59d492b4072cb147ff4ef85cd2413a467d2f0e0452856ff4be2c138041477..png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x14a59d492b4072cb147ff4ef85cd2413a467d2f0e0452856ff4be2c138041477..png) | `Think Like A Tree Growing Down` | Buried Things | The same ten rungs, coming down. Every line different. | [[#205 · Lost Darkness Poem, Descending\|Read the discovery →]] |
-| **[206 · Unidentified Angle](https://mirrors.jagwartwin.com/rooms/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6..jpeg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6..jpeg) | `invisible light spectrum` | Unseen Things/Concealed Generations | The same head and the same star. No legs. | [[#206 · Unidentified Angle\|Read the discovery →]] |
+| **[206 · Unidentified Angle](https://mirrors.jagwartwin.com/rooms/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6..jpeg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6..jpeg) | `invisible light spectrum` | Unseen Things/Concealed Generations | The same head and the same star. No legs — and a key that says why. | [[#206 · Unidentified Angle\|Read the discovery →]] |
 | **[207 · The Game Is to Reveal the Game](https://mirrors.jagwartwin.com/rooms/0x8efadf9496c43ae502adcddd03ad3e2d8d101486697b2d05d8f62ca8de7fd426)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8efadf9496c43ae502adcddd03ad3e2d8d101486697b2d05d8f62ca8de7fd426..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8efadf9496c43ae502adcddd03ad3e2d8d101486697b2d05d8f62ca8de7fd426..jpg) | `Hopscotch` <span class="jt-space">␠</span> | Ways of growing (Keys to Kingdom) | A hopscotch court from Earth to Heaven, with the serpent written down the margin. | [[#207 · The Game Is to Reveal the Game\|Read the discovery →]] |
 | **[208 · Peter XIV](https://mirrors.jagwartwin.com/rooms/0x8fa00984d44e6015b387baeffad4fc5bcb3520e4d00669f4ce0ef6cf88248f6c)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8fa00984d44e6015b387baeffad4fc5bcb3520e4d00669f4ce0ef6cf88248f6c..jpeg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8fa00984d44e6015b387baeffad4fc5bcb3520e4d00669f4ce0ef6cf88248f6c..jpeg) | `self doubt` | Unseen Things/Concealed Generations | A second bestiary, with names that appear nowhere else in the work. | [[#208 · Peter XIV\|Read the discovery →]] |
 | **[209 · I Feel So Happy](https://mirrors.jagwartwin.com/rooms/0x45aabfea6964c6d9bedd78dbe2980b24628509540c39fffa66fda4d332f25bb3)** | [![](https://plumcreekranch.com/jagwar/musicbox.png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x45aabfea6964c6d9bedd78dbe2980b24628509540c39fffa66fda4d332f25bb3..mp3) | `I feel so happy` | From Darkness | The first room ever opened without asking the maze anything at all. | [[#209 · I Feel So Happy\|Read the discovery →]] |
@@ -154,7 +154,9 @@ This one was solved by reading somebody else's failure. Back in 2023 the communi
 
 That produced a method rather than just a room. **Mine the unsolved community leads, and retry the form they got wrong** — the other language, the exact quotation, the spelling nobody thought mattered. A dropped guess is evidence that somebody was standing in the right place.
 
-Filed under **Instructional Information**, which is the shelf for the pages that tell you how to do something.
+The page itself is a **reading list**, not a single idea: *Ashim* · *Consciousness of an Atom* · *Thought Forms* · a boxed *road to EDEN* · *Solar Logos* · *Being × knowing / time = life* · and, at the centre, **tree thinking in the head, through the senses**. That last line is the room next door drawn out — another artifact shows a face with its features wired into a segmented triangle inside the skull, numbered one to ten. Two pages, one curriculum: the tree grows *inside the head*, fed by the senses.
+
+Filed under **Instructional Information**, which is the shelf for pages that tell you how to do something. This one is the syllabus.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xfd0a87e2946d7403e799886f9e6b94b06773af0fda30ea2ba7858593f41add55) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfd0a87e2946d7403e799886f9e6b94b06773af0fda30ea2ba7858593f41add55..jpg)<br>The maze calls this one <b>Gnothi Seauton</b> · opened 28 June 2026</span>
 
@@ -164,9 +166,11 @@ Filed under **Instructional Information**, which is the shelf for the pages that
 
 Two men photographed in Albuquerque in 2016, from what the maze calls the early archives.
 
-The key is `Ryan Flemming_early archives`, underscore and all. Separators are real here — this maze also holds `FATHER_MIRROR` and `RA-LINK` — and a code that looks like a filename usually is one.
+The key is `Ryan Flemming_early archives`, underscore and all. Separators are real here — this maze also holds `FATHER_MIRROR` and `RA-LINK` — and a key that looks like a filename usually is one.
 
 There is a small correction inside this room worth keeping. Working from the picture alone, the companion had been guessed as somebody else entirely. The key names him. **The object corrected the reading**, which is the direction that correction is supposed to run.
+
+Details still unresolved on close inspection: a **071** tag visible in the frame, the jewellery both men are wearing, and the fact that **only left hands** appear. None of those resolve to anything yet. They are logged rather than explained.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xaebcbd2723d39be5453db0ca7f986d98e669988c5c8ee91af90fde182a8aef8c) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xaebcbd2723d39be5453db0ca7f986d98e669988c5c8ee91af90fde182a8aef8c..jpg)<br>The maze calls this one <b>Ryan & Roy (Albuquerque 2016)</b> · opened 28 June 2026</span>
 
@@ -174,11 +178,13 @@ There is a small correction inside this room worth keeping. Working from the pic
 
 <span class="jt-facts">**Key** `Stomach of a cat + 9 lives`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
-A cat beneath a crescent moon, drawn among gears and machinery.
+A cat beneath a crescent moon — gears in its right hand, sandals on its feet, standing on the moon itself.
 
 The key is `Stomach of a cat + 9 lives`, with a literal `+` in the middle of it. It was found by testing an old master list of clues line by line against the rooms that were known to exist but had never been opened.
 
 The arithmetic behind it is the tidiest thing in the maze. The animals are numbered down the ladder, **swan 1 to rabbit 10**. The body parts are numbered the other way, **feet 1 to crown 10**. So an animal and a body part name the same rung from opposite ends, and every solved pair adds up to eleven. Cat is nine, the stomach is two. The key contains both halves of its own address.
+
+And the drawing is more specific than it looks. **Gabriel, the moon, machinery, sandals** — that exact bundle sits together in Dion Fortune's chapter on this rung of the tree. Jen's note on the artwork was *"the moon is a machine"*; the gears in its hand say so, and so does the source.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xe0c8f894133abd1ec0383346e5ca54ae9fb1f6834bebbd140e1f8aa554af7c1f) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe0c8f894133abd1ec0383346e5ca54ae9fb1f6834bebbd140e1f8aa554af7c1f..png)<br>The maze calls this one <b>Gabriel The Cat</b> · opened 28 June 2026</span>
 
@@ -214,7 +220,9 @@ The *Matter — electrical qualities* page.
 
 The whole sentence is written on the artifact: *"the way to Heaven lies through Hell, but it is a commonplace pathway."* The maze takes the first half as the key — `The Way To Heaven` — and the second half as the room's name.
 
-That is a design decision, not an accident, and it is a good one to hold on to when you are staring at a page of handwriting wondering which phrase to type. **A single sentence can be split into a key and a title.** Finding the sentence is not the same as finding the key.
+That is a design decision, not an accident, and a good one to hold on to when you are staring at a page of handwriting wondering which phrase to type. **A single sentence can be split into a key and a title.** Finding the sentence is not the same as finding the key.
+
+★ And the sentence is not Roy's. It is **William G. Gray, *The Ladder of Lights*, chapter 8** — the chapter on resistance and conduction, where Gray calls the way to Heaven through Hell exactly that, *a commonplace pathway*. Roy copied it into the notebook, then split it in two and hung a room on each half. That makes this the firmest source identification in the maze: the name, the key and the page contents all point at one book and one chapter.
 
 Filed under **Time Garden (22:1)**, one of only eight rooms on that shelf.
 
@@ -254,9 +262,11 @@ What limits the method is copying, not cleverness. One wrong apostrophe and the 
 
 A *Coronation of the Virgin* image paired with a poem about Rome.
 
-The key is `A secret order everywhere` — a line from **stanza two**, not the title, not the first line, and not anything a summary of the page would produce. It was found at the reading bench, where every still-unopened room's picture was pulled down and read line by line.
+The key is `A secret order everywhere` — a line from **stanza two**, not the title, not the first line, and not anything a summary of the page would produce. It was found by pulling down the picture of every still-unopened room and reading each one line by line.
 
 That is the discipline the whole page rests on: when a room's art is a text, the answer is usually written on it somewhere, and the work is deciding **which** phrase. Theory is allowed to choose between the phrases that are actually printed. It is not allowed to invent one.
+
+The rest of the poem is only partly legible at the resolution the maze serves — trees, a breeze, frogs, and the line ***"What is it that you seek?"***, which is a question this project asks in three separate places. Two further phrases read like *"You're Rome"* and *"Bethlam home"*, and both are held rather than quoted: at this resolution they could be something else, and a poem is exactly the kind of object where a wrong word becomes canon by repetition.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d..png)<br>The maze calls this one <b>Roy Poem "A Secret Order</b> · opened 29 June 2026</span>
 
@@ -316,11 +326,13 @@ Filed under **Personified Inner Monologue**, a shelf with only six rooms on it.
 
 <span class="jt-facts">**Key** `original master`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Image</span>
 
-A photograph of a small child in knight's armour, sitting on a pony.
+A photograph of a small child, six or seven, on a brown horse — in **plastic armour with a gold dragon on it**, caught by a red-eye flash, with his own **shadow thrown on the wall behind him**.
 
 The key is `original master`, which is the **name** of a completely different artifact: the dove-and-chalice picture two rooms below. Chain-link again, and this pair is the clean demonstration of it, because neither picture explains the other. The only thing joining them is that one is titled what the other is opened by.
 
-Filed under **Seeds of Infinity / Childhood**. The armour is a costume, the pony is a pony, and the room is called *original master*.
+★ Follow it all the way and it goes somewhere. `Grey in A#` opens the dove on the chalice, which is *named* Original Master; `original master` opens this photograph. **The chain ends here, on an armoured child on a horse with his shadow on the wall** — the knight and the shadow that the records spend whole albums on, arrived at accidentally by a camera in somebody's living room.
+
+Whether the shadow was noticed at the time is unknowable and beside the point. **Choosing this photograph, out of everything, and putting it at the end of that chain — that is the authored act.**
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99996623416ad886ae8c3930b5846346aec5d6190cf746d2def1292d0a8523e4..jpeg)<br>The maze calls this one <b>B.W._original master</b> · opened 21 August 2026</span>
 
@@ -356,11 +368,13 @@ The room's title is a working key in its own right, too. It opens the child-knig
 
 <span class="jt-facts">**Key** `None can tell how life began`  ·  **Filed under** Buried Things  ·  Image</span>
 
-Rejected album art: a white cat-eared figure with a `+` marked on the forehead, a rainbow halo, and a gold star medallion at the chest.
+Rejected album art: a white cat-eared figure with a `+` marked on the forehead, a rainbow halo, and a gold star medallion at the chest, meditating inside a ring with the cosmos held **inside** it.
 
 The key is verbatim from a post of 23 May 2022: *"It's literally and precisely true that none can tell how life began"* → `None can tell how life began`.
 
-The figure is not alone. It belongs to a small family of drawings that share a head shape and a mark at the chest, two of which are further down this page as a matched pair. Where this one carries a rainbow, they carry a faceted star. Reading them as one set is more useful than reading any of them by itself, and it is a set nobody had assembled while the drawings were in different rooms.
+★ It has a mirror. Another rejected album cover — the cat-organism in its chakra ring, opened by `how to steer the soul` — is the **same composition inverted**: this one holds the cosmos inside the ring, that one puts the tan body inside and the cosmos outside. Two rejected covers, one image, turned inside out. One asks where life came from; the other says what to do about it.
+
+The figure is not alone either. It belongs to a small family of drawings that share a head shape and a mark at the chest, two of which are further down this page as a matched pair.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x3252cfd9b25b3689a77b666e1398635a0ccabf445c235acd94c0620a88eb28e5) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x3252cfd9b25b3689a77b666e1398635a0ccabf445c235acd94c0620a88eb28e5..jpg)<br>The maze calls this one <b>Roy Drawing "Dreaming on a Golden Couch" (rejected album art)</b> · opened 22 August 2026</span>
 
@@ -368,11 +382,13 @@ The figure is not alone. It belongs to a small family of drawings that share a h
 
 <span class="jt-facts">**Key** `I am content`  ·  **Filed under** Seen Things/Illumination  ·  Video</span>
 
-The **ARE YOU CONTENT?** poster — the sibling of the one carrying the phone number.
+The **ARE YOU CONTENT?** poster — a clown advertisement for Keds, the sibling of the one carrying the phone number.
 
 The key is `I am content`: the room is opened by answering its own question in the first person. The exact phrasing comes from a diary caption of November 2020.
 
-Two rooms, one campaign, and the keys cross over. The poster with the number seeds the *other* room's key, and this poster is opened by the reply it is fishing for. It is a small thing, but it shows the maze thinking in pairs rather than in single objects — which is what makes the two Angle sketches and the two Lost Darkness poems further down this page readable at all.
+★ And the question is a pun doing real work. **Content** is what you are when you're satisfied, and **content** is what you are when you're the product. The key holds both at once — *I am content* as contentment, and *I am content* as a statement about what you have become online. A clown selling shoes is a reasonable place to put that.
+
+Two rooms, one campaign, and the keys cross over. The poster with the number seeds the *other* room's key, and this poster is opened by the reply it is fishing for.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x854e7070544f339eed639d61ad53c8f7dda8c94d5542d150f0e72b65cdf8c32b) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x854e7070544f339eed639d61ad53c8f7dda8c94d5542d150f0e72b65cdf8c32b..jpg) · [Video ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x854e7070544f339eed639d61ad53c8f7dda8c94d5542d150f0e72b65cdf8c32b..mp4)<br>The maze calls this one <b>Are You Content?</b> · opened 22 August 2026</span>
 
@@ -404,11 +420,13 @@ The page title matters beyond this room. The **hopscotch court** further down th
 
 <span class="jt-facts">**Key** `Coding Consciousness` <span class="jt-space">␠</span>  ·  **Filed under** Ways of growing (Keys to Kingdom)  ·  Image</span>
 
-The **Coding Consciousness** notes page — another of the master cosmology sheets.
+The **Coding Consciousness** notes page.
 
-The key is `Coding Consciousness` plus one trailing space. Self-keyed: the page is opened by its own heading, and the only thing standing between the heading and the door was a character you cannot see.
+The key is the page's own title, plus one space. Self-keyed: the page is opened by its own heading, and the only thing standing between the heading and the door was a character you cannot see.
 
-Filed under **Ways of growing (Keys to Kingdom)**, and the shelf label is doing some work here. A page of notes on coding consciousness, filed under the keys to the kingdom, is a fairly direct statement about what the notebook thinks it is for.
+What is actually written on it is the reason it matters. In Roy's hand, close to Alice Bailey's wording: ***"Patterns of right Living are Formed in the unconscious mind of a race so that it becomes easier to follow for generations after."*** Then, larger, the heading: **Coding Consciousness**.
+
+So the room's name states the function of the sentence above it — **inheritance as code**, habits written into a family or a people so the next ones don't have to work them out. Filed under **Ways of growing (Keys to Kingdom)**, which is where a page about what gets passed down belongs.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xde26172bd48b6d7d6ba9b52019f1ed7b21c2240c77d8d5d615dcaa6b63e63340) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xde26172bd48b6d7d6ba9b52019f1ed7b21c2240c77d8d5d615dcaa6b63e63340..jpg)<br>The maze calls this one <b>Ancestor Codes</b> · opened 22 August 2026</span>
 
@@ -738,7 +756,7 @@ The reason it stayed dark is dull rather than clever. The archive had captured R
 
 <span class="jt-facts">**Key** `Think Like A Tree Growing Up`  ·  **Filed under** Buried Things  ·  Image</span>
 
-> **A deliberate pair.** This sheet and the one below share ten animals, the numbers one to ten, a shelf, matched titles and matched keys. Neither appears in the maze's own room registry. Both are live.
+> **A deliberate pair.** This sheet and the one below share ten animals, the numbers one to ten, a shelf, matched titles and matched keys. Neither is listed in the maze's own records. Both are live.
 
 `Think Like A Tree Growing Up` opens the ascending sheet.
 
@@ -782,15 +800,15 @@ This sheet also carries the line *"I spoke the words 'One become Two'"*, which i
 
 <span class="jt-facts">**Key** `invisible light spectrum`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
-The pair-mate of the drawing near the top of this section. Same head, same large eyes, same star at the chest — and then it diverges: **no legs**, a flaring hatched lower body, no eyebrows, no lines above the head.
+The pair-mate of the drawing near the top of this section. Same head, same large eyes, same star at the chest — and then it diverges: **no legs**, a flaring hatched lower body, no eyebrows, no lines above the head. It wears a dress, and it is **ascending out of a circle, with three more figures rising alongside it.**
 
-The key is `invisible light spectrum`. Set against `Catabolic system` on its twin, the two keys split cleanly: one names the part of the spectrum you cannot see, the other names a process in a body. **Only one of the two figures has feet on the ground.**
+The key is `invisible light spectrum`. Set against `Catabolic system` on its twin, the two split cleanly: one names the part of the spectrum you cannot see, the other names a process in a body. **Only one of the two figures has feet on the ground.**
 
-Held open rather than settled: whether the legless figure reads female or male, and whether the pair is about incarnate and discarnate states at all. Both are questions the drawings raise and do not answer.
+★ And the key does something the drawing alone cannot. The archive keeps turning up feminine material the songs never mention — this is a *rising, dress-wearing, footless* figure, and the maze files her under the name for **the light that cannot be seen**. Read that against **The Empty Room** in the public galleries, whose rainbow is drawn with **no colour in it at all**, and the two objects agree: the arch is drawn in the spectrum this key calls invisible.
 
-One more join, grounded in the records: the maze holds a room called **Identified Angle**, on the same shelf. Identified and Unidentified, a matched pair, filed together.
+Held open rather than settled: whether the figure reads female or male, and whether the pair is about incarnate and discarnate states at all.
 
-*This answer was not worked out. It was read straight out of the maze's own records, which quietly publish more about themselves than they mean to.*
+One more join: the maze holds a room called **Identified Angle**, on the same shelf, whose body *is* a star. Identified and Unidentified, the same creature, one drawn standing and one drawn dissolving.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9b785fc05ef6de1d6a959f8f3858fde00b5497691e2ce5c4fb15a2a2eec170c6..jpeg)<br>The maze calls this one <b>Roy "Unidentified Angle" Sketch</b> · opened 27 August 2026</span>
 
@@ -804,6 +822,8 @@ Read from the bottom: a box marked **Earth** → 1 → 2 → 3 → 4|5 → 6 →
 
 NChSh is the standard way of writing נחש, *Nachash*, serpent, without its vowels. Held as a reading rather than a verdict: a hopscotch court is a *winding* route from the ground to Heaven, and the nearest thing to it in the tradition is the Serpent of Wisdom that winds up the Tree, as against the lightning bolt that goes straight down. The same nine stations appear as a planetary table on the facing page of the notebook. Here they are drawn as **a game you walk.**
 
+★ And it is not an isolated joke. The songs are full of nursery material used seriously — the counting games, the playground rhymes, the row-your-boat logic. **This is that habit inside the maze:** the ascent of the soul, drawn as the game children play on a pavement. The room's name says the doctrine out loud — *the game is to reveal the game*.
+
 The key is `Hopscotch` plus one space on the end — and how it was missed is worth more than the room. The maze's own records literally name a room `Hopscotch`. Roy's ingredient list carries a line reading *Hopscotch code*. Jen's own notes on the artwork describe Roy standing on hopscotch number seven. Twenty-three versions of the word had been tried, and **every single one of them kept the word "code" attached** — nobody had a way of taking a word *off*. Four different places said the same word, and nothing ever put them together.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x8efadf9496c43ae502adcddd03ad3e2d8d101486697b2d05d8f62ca8de7fd426) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8efadf9496c43ae502adcddd03ad3e2d8d101486697b2d05d8f62ca8de7fd426..jpg)<br>The maze calls this one <b>The Game Is To Reveal The Game</b> · opened 27 August 2026</span>
@@ -816,18 +836,18 @@ A full page of pencil character sketches — a **second bestiary**, and every na
 
 - **KiRi-Kama (the Phox)** — teacher and barber. Note the spelling, against the maze's own `Fox=Mind`.
 - **Peter XIV**, leader of the Zakanlian **Kat** Clan. Roy spells cat with a K.
-- **Rainflower** — annotated *seed of life, Jaguarships*.
-- **Sunki T** — a named place, drawn as a small city on a platform.
+- **Rainflower** — annotated *seed of life, Jaguarships*, drawn as a meteor with two witness-poles beside it.
+- **Sunki T** — a named place, drawn as a small city skyline on a platform.
 
-And two pillars, labelled in Roy's own hand: **Jachim** on the left, **Boas** on the right — Jachin and Boaz — both topped with globes, the left one checkerboarded, joined by an arch. A ladder rises from the right pillar to a domed bell annotated **7 stars**, **one Becomes 2**, **dual-twin**.
+And two pillars, labelled in Roy's own hand: **Jachim** on the left, **Boas** on the right — Jachin and Boaz — both topped with globes, the left one checkerboarded, joined by an arch, with **seven steps** rising to it. A ladder climbs from the right pillar to a domed bell annotated **7 stars**, **one Becomes 2**, **dual-twin**. Elsewhere on the sheet: a checkered walk counted **twelve and twelve, in threes**, an **inverted ten-point crown**, and a solar system running off the edge of the photograph.
 
-That left-to-right order is the detail that matters. The Gallery's **Empty Room** was identified as an emptied Steiner seal precisely because it uses that rare arrangement — and here Roy writes the two names out himself, in the same order, on a different object entirely. Nobody had joined the two, because every note ever written about the Empty Room used the initials and not one of them spelled *Jachin*.
+That left-to-right pillar order is the load-bearing detail. The Gallery's **Empty Room** was identified as an emptied Steiner seal precisely because it uses that rare arrangement — and here Roy writes the two names out himself, in the same order, on a different object entirely. Nobody had joined the two, because every note about the Empty Room used the initials and not one of them spelled *Jachin*.
 
 Counted rather than described: the crescent carries **exactly seven stars**, so the annotation is a count of what is drawn. The crested object at right carries **exactly ten pendants**. The ladder rungs cannot be counted cleanly at this resolution, and are left uncounted rather than guessed.
 
-The key is the ingredient list's line `Self-doubt`, hyphen changed to a single space. This room and the hopscotch court sit immediately beside each other in the maze — a pair where **neither** answer was known, and both fell in one session.
+The key is the ingredient list's line `Self-doubt`, hyphen changed to a single space — a sheet full of paired opposites, opened by the name for a divided mind.
 
-This sheet is the left page of a notebook spread. Its cut-off right margin is the left column of another room's page, matched line for line.
+★ And its other half is fenced the same way. This is the left page of a notebook spread; the right page is another room, and **that one is called *Superficial Conclusions* and opened by `Surface perceptions`**. Both halves of one physical sheet carry a warning about reading too quickly. Whatever is on this spread, Roy put a fence across the whole of it.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x8fa00984d44e6015b387baeffad4fc5bcb3520e4d00669f4ce0ef6cf88248f6c) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8fa00984d44e6015b387baeffad4fc5bcb3520e4d00669f4ce0ef6cf88248f6c..jpeg)<br>The maze calls this one <b>Roy "Peter XIV" Sketch</b> · opened 27 August 2026</span>
 
