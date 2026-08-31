@@ -109,3 +109,82 @@
   // Publish can swap the rendered note without touching history; poll cheaply.
   setInterval(sync, 500);
 })();
+
+/* Complete Hall of Mirrors — card filter + image loading.
+ *
+ * The page carries every artifact in the maze on one very long note, so two
+ * things are done to it here that a note cannot do for itself:
+ *
+ *   1. Images are switched to lazy loading. There are 200-odd of them, some
+ *      several megabytes, and without this the page tries to fetch all of them
+ *      at once.
+ *   2. A filter bar is inserted above the cards. Rows carrying a `.jt-u`
+ *      marker are the artifacts with no NFT generated yet.
+ *
+ * Both are confined to the stand-alone page, which the block above marks with
+ * `jt-standalone` on <body>.
+ */
+(function () {
+  "use strict";
+  if (window.__jtCards) return;
+  window.__jtCards = true;
+
+  var FILTERS = [
+    { id: "all", label: "All", match: function () { return true; } },
+    { id: "unresolved", label: "No NFT yet",
+      match: function (row) { return !!row.querySelector(".jt-u"); } }
+  ];
+
+  function lazyLoad(table) {
+    var imgs = table.querySelectorAll("img:not([loading])");
+    for (var i = 0; i < imgs.length; i++) {
+      imgs[i].setAttribute("loading", "lazy");
+      imgs[i].setAttribute("decoding", "async");
+    }
+  }
+
+  function apply(table, id) {
+    var f = FILTERS.filter(function (x) { return x.id === id; })[0] || FILTERS[0];
+    var rows = table.querySelectorAll("tbody > tr");
+    for (var i = 0; i < rows.length; i++) {
+      rows[i].style.display = f.match(rows[i]) ? "" : "none";
+    }
+  }
+
+  function build(table) {
+    var bar = document.createElement("div");
+    bar.className = "jt-filterbar";
+    var rows = table.querySelectorAll("tbody > tr");
+    FILTERS.forEach(function (f, n) {
+      var count = 0;
+      for (var i = 0; i < rows.length; i++) if (f.match(rows[i])) count++;
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "jt-filterbtn" + (n === 0 ? " is-on" : "");
+      b.textContent = f.label + " (" + count + ")";
+      b.addEventListener("click", function () {
+        var all = bar.querySelectorAll(".jt-filterbtn");
+        for (var i = 0; i < all.length; i++) all[i].classList.remove("is-on");
+        b.classList.add("is-on");
+        apply(table, f.id);
+      });
+      bar.appendChild(b);
+    });
+    table.parentNode.insertBefore(bar, table);
+  }
+
+  function sync() {
+    if (!document.body.classList.contains("jt-standalone")) return;
+    var table = document.querySelector(".markdown-preview-view table");
+    if (!table || !table.querySelector("tbody > tr")) return;
+    lazyLoad(table);
+    if (!table.__jtFiltered) {
+      table.__jtFiltered = true;
+      build(table);
+    }
+  }
+
+  setInterval(sync, 600);
+  document.addEventListener("DOMContentLoaded", sync);
+  sync();
+})();

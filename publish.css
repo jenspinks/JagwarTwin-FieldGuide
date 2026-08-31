@@ -1009,7 +1009,7 @@ body.theme-dark, body.theme-light, .published-container {
 .callout[data-callout="descend"] .callout-fold{ display: none; }
 
 /* ============================================================================
-   THE ROOMS BEHIND THE GALLERY — free-floating artifact page (added 2026-08-30)
+   THE COMPLETE HALL OF MIRRORS — free-floating artifact page (added 2026-08-30)
 
    Every rule below is scoped by :has(.jt-standalone-marker). That element only exists on
    that one page, so nothing here can reach any other page on the site.
@@ -1190,3 +1190,26 @@ body.jt-standalone .markdown-preview-view .markdown-preview-sizer > *:has(table)
 body.jt-standalone .markdown-preview-view .markdown-preview-sizer > table{
   max-width: none;
 }
+
+/* --- filter bar (inserted by publish.js above the cards) --- */
+.jt-filterbar{
+  display: flex; flex-wrap: wrap; gap: .5rem;
+  margin: 1.6em 0 .2em;
+}
+.jt-filterbtn{
+  font: inherit; font-size: var(--font-smaller); font-weight: 600;
+  padding: .38em .95em; cursor: pointer;
+  color: var(--text-muted);
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  transition: border-color .15s linear, color .15s linear;
+}
+.jt-filterbtn:hover{ color: var(--text-normal); border-color: var(--background-modifier-border-hover); }
+.jt-filterbtn.is-on{
+  color: var(--text-on-accent, #fff);
+  background: #8b1e2d; border-color: #8b1e2d;
+}
+
+/* the per-row marker the filter reads; never shown */
+.jt-u{ display: none; }
