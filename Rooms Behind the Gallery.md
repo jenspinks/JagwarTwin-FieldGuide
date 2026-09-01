@@ -9,7 +9,7 @@ publish: true
 
 # The Rooms Behind the Gallery
 
-Sixty-two Hall of Mirrors rooms that are **not** in the public galleries.
+Sixty-four Hall of Mirrors rooms that are **not** in the public galleries.
 
 The galleries hold what the community unlocked in 2022 and 2023 — roughly a hundred and fifty rooms, most of them solved in a rush over a single August, then a long quiet tail. This page holds what came after: every room opened since, all of them this year. Each is a real door in the same maze, with its own artwork and its own key. None of them are in the galleries, because the galleries stop where the community stopped.
 
@@ -91,6 +91,8 @@ Card titles open the room in the maze itself, which will want a wallet connected
 | **[214 · Grandfather's Plane](https://mirrors.jagwartwin.com/rooms/0x99f4ee192b44838a02686bb58026294105924787cdfb143891cfb025197e4064)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99f4ee192b44838a02686bb58026294105924787cdfb143891cfb025197e4064..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x99f4ee192b44838a02686bb58026294105924787cdfb143891cfb025197e4064..jpg) | `hemidall` | Life Changing Connections (VI Link) | Heimdall, watchman of the rainbow bridge — and a crossing machine. | [[#214 · Grandfather's Plane\|Read the discovery →]] |
 | **[215 · How to Steer the Soul](https://mirrors.jagwartwin.com/rooms/0x45967cfd180258a4af354a1df50256ff087627de16c5c49ef599cecc313acdb4)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x45967cfd180258a4af354a1df50256ff087627de16c5c49ef599cecc313acdb4..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x45967cfd180258a4af354a1df50256ff087627de16c5c49ef599cecc313acdb4..jpg) | `Jagwar Twin’s ”trojan horse” program_` | From Darkness | The name of one room, used as the key to another. | [[#215 · How to Steer the Soul\|Read the discovery →]] |
 | **[216 · G Owl](https://mirrors.jagwartwin.com/rooms/0x9567430c30179e1de2489790feeca5122db96bab6f25539891efa15e4da43c05)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9567430c30179e1de2489790feeca5122db96bab6f25539891efa15e4da43c05..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9567430c30179e1de2489790feeca5122db96bab6f25539891efa15e4da43c05..jpg) | `Q373` | From Darkness | A figurine, keyed by a square on a spreadsheet. | [[#216 · G Owl\|Read the discovery →]] |
+| **[217 · Yellow & Elephant 1](https://mirrors.jagwartwin.com/rooms/0x05c7c36d666751f2873c7d3104d6d31dff8f284f898c61444bbeb3adb3cfef00)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x05c7c36d666751f2873c7d3104d6d31dff8f284f898c61444bbeb3adb3cfef00..jpeg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x05c7c36d666751f2873c7d3104d6d31dff8f284f898c61444bbeb3adb3cfef00..jpeg) | `Yellow & Elephant` | Time Garden (22:1) | The cover of the record Roy made before Jagwar Twin. | [[#217 · Yellow & Elephant 1\|Read the discovery →]] |
+| **[218 · Song Of The Sun & The Moon](https://mirrors.jagwartwin.com/rooms/0x07d96a3922652b733af5f69671a932c1db724d683e81d531778e655f1abcc612)** | [![](https://plumcreekranch.com/jagwar/musicbox.png)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x07d96a3922652b733af5f69671a932c1db724d683e81d531778e655f1abcc612..mp3) | `H675` | Seeds of Infinity/Childhood | A working version of a song almost nobody has heard. | [[#218 · Song Of The Sun & The Moon\|Read the discovery →]] |
 
 ---
 
@@ -248,6 +250,8 @@ Its key is `A Bullet In Her Genes` — **genes**, not jeans. The homophone is do
 
 The songs on the record are one version of that idea. This is the take that didn't make it, filed under the thing it's about.
 
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x442795f9f776aa7cc558db168eab94beaadf5b731f5fbdc21c184825302993c8..mp3" controls preload="none"></audio>
+
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x442795f9f776aa7cc558db168eab94beaadf5b731f5fbdc21c184825302993c8) · [Audio ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x442795f9f776aa7cc558db168eab94beaadf5b731f5fbdc21c184825302993c8..mp3)<br>The maze calls this one <b>Soul Is A Star Unreleased Adlibs</b> · opened 28 June 2026</span>
 
 ### 166 · I'm the Spider
@@ -357,6 +361,8 @@ Its key is the room's own name with one space on the end — self-keyed, the art
 What makes the room matter is that it's **music that exists nowhere else**. The maze holds a small number of these: recordings that were never released, never streamed, and are only reachable through a door. This is one of the deepest of them.
 
 ⚠ The singing voice has never been identified, and this page won't guess. That one waits on someone who can say for certain, not on an argument.
+
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe163466b4452ac1ef0ede8ddf1e2d0f1b3586c338781430def634c8ee73ec567..mp3" controls preload="none"></audio>
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xe163466b4452ac1ef0ede8ddf1e2d0f1b3586c338781430def634c8ee73ec567) · [Audio ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xe163466b4452ac1ef0ede8ddf1e2d0f1b3586c338781430def634c8ee73ec567..mp3)<br>The maze calls this one <b>Perspective Is A Water Droplet</b> · opened 21 August 2026</span>
 
@@ -877,6 +883,8 @@ The maze holds three of these audio-only rooms, and they are the artifacts that 
 
 Filed under **From Darkness**.
 
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x45aabfea6964c6d9bedd78dbe2980b24628509540c39fffa66fda4d332f25bb3..mp3" controls preload="none"></audio>
+
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x45aabfea6964c6d9bedd78dbe2980b24628509540c39fffa66fda4d332f25bb3) · [Audio ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x45aabfea6964c6d9bedd78dbe2980b24628509540c39fffa66fda4d332f25bb3..mp3)<br>The maze calls this one <b>I feel so happy (roy voice diary)</b> · opened 27 August 2026</span>
 
 ### 210 · Cat=Moon
@@ -972,6 +980,36 @@ Jen's reading of the name, economical and unproven: **G OWL becomes GLOW** if th
 The owl turns up elsewhere as *RAtziel the Beech Owl*, an archangel with three stars and three whirling wheels. This is the same bird as an object on a shelf.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x9567430c30179e1de2489790feeca5122db96bab6f25539891efa15e4da43c05) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9567430c30179e1de2489790feeca5122db96bab6f25539891efa15e4da43c05..jpg) · [Video ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x9567430c30179e1de2489790feeca5122db96bab6f25539891efa15e4da43c05..mp4)<br>The maze calls this one <b>G Owl</b> · opened 30 August 2026</span>
+
+### 217 · Yellow & Elephant 1
+
+<span class="jt-facts">**Key** `Yellow & Elephant`  ·  **Filed under** Time Garden (22:1)  ·  Image</span>
+
+The cover art of **Yellow & Elephant** — the 2010 Fearless Records album by **Eye Alaska**, Roy's Orange County band before any of this. A many-trunked black elephant on a yellow field, the band's name set beneath it.
+
+★ **The maze holds this record twice, and files the two halves apart.** Its sibling, *Yellow & Elephant 2*, has been in the public galleries all along: a slow turntable scan of the still-shrink-wrapped retail CD, barcode and Fearless price sticker and all, rotating on weathered crate slats. That one is shelved under **Phantoms of the Past**. This one — the artwork itself, with no object around it — is shelved under **Time Garden**.
+
+The same record, split: the *thing* filed with the phantoms, the *image* filed with time.
+
+That is how the early bands sit in here generally. They are not backstory parked outside the work; they are load-bearing. The album title is a key. The high-school band before it, **Dead Letter Diaries**, has its own room under its own name. And a room called **Venus** opens on `DLD` — the older band's initials, used as a password years later.
+
+<span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x05c7c36d666751f2873c7d3104d6d31dff8f284f898c61444bbeb3adb3cfef00) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x05c7c36d666751f2873c7d3104d6d31dff8f284f898c61444bbeb3adb3cfef00..jpeg)<br>The maze calls this one <b>Yellow & Elephant 1</b> · opened 1 September 2026</span>
+
+### 218 · Song Of The Sun & The Moon
+
+<span class="jt-facts">**Key** `H675`  ·  **Filed under** Seeds of Infinity/Childhood  ·  Audio</span>
+
+Three minutes and forty-five seconds of audio, made in Logic, the file still carrying its working title: **"Song Of the Sun And The Moon idea."**
+
+★ **A finished version of this song exists, and this is not it.** *The Song of the Sun and the Moon (33 Demo)* came out in October 2022 as a collector's-only release that never reached Spotify or Apple Music — a real Jagwar Twin track that is invisible to anyone working from the catalogue. The maze's copy is a different file: 4.5 MB against the released 5.9 MB, and its own metadata calls it an *idea*. The room holds a working version of a song whose only other release was already almost unfindable.
+
+★ **Look at where it is shelved.** It sits on *Seeds of Infinity / Childhood* — the same shelf as `Cat=Moon`, `Spider=Sun`, `Sun=6`, `Fox=Mind` and `Dove=Heart`, the little run of rooms that assign the sun and the moon their meanings in this system. The song named after both of them was filed with the rooms that define them. The sun and the moon run everywhere in the work — the moon as a machine keeping time in one of the ladder poems, eclipsed in the other — and this is the shelf where that vocabulary is set.
+
+⚠ **Nobody has listened to it yet.** It opened this morning and no one has yet given it an ear. There is nothing here about how it sounds, who is singing, or what it says, because none of that has been established — and on this project a voice is never attributed to anyone until a person has actually heard it.
+
+<audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x07d96a3922652b733af5f69671a932c1db724d683e81d531778e655f1abcc612..mp3" controls preload="none"></audio>
+
+<span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x07d96a3922652b733af5f69671a932c1db724d683e81d531778e655f1abcc612) · [Audio ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x07d96a3922652b733af5f69671a932c1db724d683e81d531778e655f1abcc612..mp3)<br>The maze calls this one <b>Song Of The Sun & The Moon</b> · opened 1 September 2026</span>
 
 ---
 
