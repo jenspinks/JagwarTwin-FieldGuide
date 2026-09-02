@@ -75,3 +75,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[Witnessing vs Surveillance]] · [[The Watchers]] · [[SARAVI]] · [[Kabbalah - The Tree of Life]] · [[The Speaker Problem]] · [[The Digital Double]]
+
+> [!ascend] The way back up
+> One floor up is [[Witnessing vs Surveillance]], the page this one sits under. The rest of the basement is through [[The Deep End]].

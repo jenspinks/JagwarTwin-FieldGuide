@@ -90,3 +90,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[Nigredo]] · [[Sir Lucius]] · [[The Circus — The Deep End]] · [[Keilim - The Breaking of the Vessels]] · [[Subject to Flooding]] · [[Bananas]]
+
+> [!ascend] The way back up
+> One floor up is [[Nigredo]], the page this one sits under. The rest of the basement is through [[The Deep End]].

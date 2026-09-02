@@ -51,3 +51,6 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 > [!feed]- Read next
 > [[The Flip and the Distorting Mirror]] · [[The Mirror]] · [[Kabbalah - The Tree of Life]] · [[Letters of Creation]] · [[The Speaker Problem]] · [[Hall of Mirrors]]
+
+> [!ascend] The way back up
+> One floor up is [[The Mirror]], the page this one sits under. The rest of the basement is through [[The Deep End]].

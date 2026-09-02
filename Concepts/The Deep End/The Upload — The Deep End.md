@@ -51,3 +51,6 @@ This is the deep end of [[The Upload]]: the full esoteric and historical apparat
 > The Marduk identification rests largely on one answer-cell plus a cipher. The Law of One is a documented influence, not a decoder ring. The ∞-drawing's "answer" is inferred from arrangement, never written. The Coding-Consciousness sentence's exact source is unpinned. The one-machine and surveillance syntheses are readings built on grounded anchors, not statements. Everything above is attributed to its tradition or flagged as interpretation; the density is the traditions', not proof of encoding. None of this is the answer; it is one way of seeing it.
 >
 > Back to the doorway: [[The Upload]].
+
+> [!ascend] The way back up
+> One floor up is [[The Upload]], the page this one sits under. The rest of the basement is through [[The Deep End]].

@@ -109,3 +109,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Labors of Hercules]] · [[Not Your Homie]] · [[Sir Lucius]] · [[Kabbalah - The Tree of Life]] · [[The Dweller on the Threshold]] · [[Inversion]]
+
+> [!ascend] The way back up
+> One floor up is [[The Labors of Hercules]], the page this one sits under. The rest of the basement is through [[The Deep End]].

@@ -51,3 +51,6 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 > [!feed]- Read next
 > [[Consumption]] · [[Nigredo]] · [[Inversion]] · [[Keilim - The Breaking of the Vessels]] · [[Moths to the Flame]] · [[The Circus — The Deep End]]
+
+> [!ascend] The way back up
+> One floor up is [[Consumption]], the page this one sits under. The rest of the basement is through [[The Deep End]].

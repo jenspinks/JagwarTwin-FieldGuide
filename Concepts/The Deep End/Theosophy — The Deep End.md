@@ -42,3 +42,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[Theosophy]] (back upstairs) · [[The Dweller on the Threshold]] · [[Alice Bailey]] · [[The Labors of Hercules]] · [[The Abyss]] · [[The Circle]]
+
+> [!ascend] The way back up
+> One floor up is [[Theosophy]], the page this one sits under. The rest of the basement is through [[The Deep End]].

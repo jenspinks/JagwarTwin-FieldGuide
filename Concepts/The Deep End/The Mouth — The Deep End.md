@@ -41,3 +41,6 @@ This is the deep water under the mouth pages ([[The Voice]] and [[Consumption]])
 
 > [!feed]- Back up
 > [[The Voice]] · [[Letters of Creation|The Angels and the Angles]] · [[Sir Lucius]] · [[Inversion]]
+
+> [!ascend] The way back up
+> One floor up is [[The Voice]], the page this one sits under. The rest of the basement is through [[The Deep End]].

@@ -34,3 +34,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Back up for air
 > [[The Aquarium]] · [[The Dweller on the Threshold]] · [[Gnosticism - The World as Trap]] · [[The Circus — The Deep End]]
+
+> [!ascend] The way back up
+> One floor up is [[The Aquarium]], the page this one sits under. The rest of the basement is through [[The Deep End]].

@@ -99,3 +99,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > * *"Life is just putting things in things"* (08-29 '23): vessel as a model of existence, in one deadpan line.
 >
 > Back to the doorway: [[Keilim - The Breaking of the Vessels]].
+
+> [!ascend] The way back up
+> One floor up is [[Keilim - The Breaking of the Vessels]], the page this one sits under. The rest of the basement is through [[The Deep End]].

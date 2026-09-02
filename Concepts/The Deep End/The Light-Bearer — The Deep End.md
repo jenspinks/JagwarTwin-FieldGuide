@@ -76,3 +76,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Light-Bearer]] · [[Sir Lucius]] · [[Kabbalah - The Tree of Life]] · [[Source vs Reflection]] · [[Keilim - The Breaking of the Vessels]] · [[SOL]]
+
+> [!ascend] The way back up
+> One floor up is [[The Light-Bearer]], the page this one sits under. The rest of the basement is through [[The Deep End]].

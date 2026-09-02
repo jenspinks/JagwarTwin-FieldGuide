@@ -69,3 +69,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Back up for air
 > [[Inherited Substrate]] · [[The Pattern]] · [[Source vs Reflection]] · [[Hall of Mirrors]] · [[The Watchers]]
+
+> [!ascend] The way back up
+> One floor up is [[Inherited Substrate]], the page this one sits under. The rest of the basement is through [[The Deep End]].

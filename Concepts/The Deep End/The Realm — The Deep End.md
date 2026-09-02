@@ -50,3 +50,6 @@ This is the deep water behind [[The Realm]]: the full court reading, the signatu
 
 > [!feed]- Read next
 > [[The Realm]] · [[The Circus]] · [[LOOP]] · [[Sir Lucius]] · [[Hall of Mirrors]] · [[dumbledore]]
+
+> [!ascend] The way back up
+> One floor up is [[The Realm]], the page this one sits under. The rest of the basement is through [[The Deep End]].

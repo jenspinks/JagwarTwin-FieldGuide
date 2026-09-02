@@ -54,3 +54,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Back up
 > [[The Protector]] · [[Sir Lucius]] · [[Kabbalah - The Tree of Life]] · [[Sir Rabbit]] · [[Inherited Substrate]] · [[Superhuman]]
+
+> [!ascend] The way back up
+> One floor up is [[The Protector]], the page this one sits under. The rest of the basement is through [[The Deep End]].

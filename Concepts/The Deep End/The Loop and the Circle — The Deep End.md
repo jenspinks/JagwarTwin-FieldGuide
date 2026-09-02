@@ -93,3 +93,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Back upstairs
 > [[The Loop and the Circle]] · [[Source vs Reflection]] · [[Kabbalah - The Tree of Life]] · [[The Thread]] · [[Communion vs Spectacle]] · [[The Wheel]]
+
+> [!ascend] The way back up
+> One floor up is [[The Loop and the Circle]], the page this one sits under. The rest of the basement is through [[The Deep End]].

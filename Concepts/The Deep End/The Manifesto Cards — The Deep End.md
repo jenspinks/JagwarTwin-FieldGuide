@@ -53,3 +53,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Manifesto Cards]] · [[Beth]] · [[Letters of Creation]] · [[Sir Lucius]] · [[The Hall of Mirrors]]
+
+> [!ascend] The way back up
+> One floor up is [[The Manifesto Cards]], the page this one sits under. The rest of the basement is through [[The Deep End]].

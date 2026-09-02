@@ -68,3 +68,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Circus]] · [[Welcome to the Circus]] · [[BMRC]] · [[Communion vs Spectacle]] · [[Kabbalah - The Tree of Life]] · [[The Labors of Hercules]]
+
+> [!ascend] The way back up
+> One floor up is [[The Circus]], the page this one sits under. The rest of the basement is through [[The Deep End]].

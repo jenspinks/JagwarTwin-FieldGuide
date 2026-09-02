@@ -66,4 +66,6 @@ One seam of the work, taken apart stitch by stitch.
 - [[Open Questions]]: the things we genuinely do not know yet, kept in one honest pile instead of quietly forgotten.
 - One more thing. Each of the main character pages keeps a small door at the very bottom. We are not going to tell you what's behind them. That's the point of a door.
 
+Looking for something specific rather than a wander? [[A–Z]] lists every page in the guide, and at the bottom it catalogues all thirty-six drawers with the page each one belongs to.
+
 Rather be guided than wander? The [[Reading Paths|Trails]] walk you through all of this a step at a time. And whenever the water gets too deep, the way back up is always the same: [[So You Found Jagwar Twin]].

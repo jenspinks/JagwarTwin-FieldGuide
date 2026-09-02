@@ -59,3 +59,6 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 > [!feed]- Read next
 > [[The Labyrinth]] · [[Welcome to the Circus]] · [[The Labors of Hercules]] · [[Keilim - The Breaking of the Vessels]] · [[The Pattern]] · [[Mary]]
+
+> [!ascend] The way back up
+> One floor up is [[The Labyrinth]], the page this one sits under. The rest of the basement is through [[The Deep End]].

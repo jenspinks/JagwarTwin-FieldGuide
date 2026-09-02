@@ -46,3 +46,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Empty Mirror]] · [[Source vs Reflection]] · [[Keilim - The Breaking of the Vessels|Keilim]] · [[Sir Lucius]] · [[Witnessing vs Surveillance]]
+
+> [!ascend] The way back up
+> One floor up is [[The Empty Mirror]], the page this one sits under. The rest of the basement is through [[The Deep End]].

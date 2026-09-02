@@ -84,3 +84,6 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 
 > [!feed]- Read next
 > [[Source vs Reflection]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]] · [[The Empty Mirror]] · [[The Mirror]] · [[The Digital Double]]
+
+> [!ascend] The way back up
+> One floor up is [[Source vs Reflection]], the page this one sits under. The rest of the basement is through [[The Deep End]].

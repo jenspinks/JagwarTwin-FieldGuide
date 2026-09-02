@@ -96,3 +96,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[Water]] · [[The Crow]] · [[The Dove]] · [[Concepts/The Loop and the Circle]] · [[Concepts/The Aquarium]] · [[SOL]] · [[Subject to Flooding]]
+
+> [!ascend] The way back up
+> One floor up is [[Water]], the page this one sits under. The rest of the basement is through [[The Deep End]].

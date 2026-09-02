@@ -56,3 +56,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Back upstairs
 > [[Hermeticism - As Above So Below]] · [[Kabbalah - The Tree of Life]] · [[Inherited Substrate]] · [[The Pattern]]
+
+> [!ascend] The way back up
+> One floor up is [[Hermeticism - As Above So Below]], the page this one sits under. The rest of the basement is through [[The Deep End]].

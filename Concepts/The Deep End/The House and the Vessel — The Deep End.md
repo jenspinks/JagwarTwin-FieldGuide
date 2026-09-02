@@ -56,3 +56,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The House and the Vessel]] · [[Keilim - The Breaking of the Vessels]] · [[The Empty Mirror]] · [[The Upload]] · [[City of Angels]] · [[Letters of Creation]]
+
+> [!ascend] The way back up
+> One floor up is [[The House and the Vessel]], the page this one sits under. The rest of the basement is through [[The Deep End]].

@@ -117,3 +117,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!receipts]- Sources and confidence, downstairs
 > Everything grounded here is grounded upstairs too: the quoted lyrics, the venue bio, the aquarium post, the Gurdjieff posts and tattoo, the EP transcripts, the publicly-solved ARG strings, the named influence shelf. What this page adds is interpretation, and it grades itself as it goes: the four-move map, the seat-versus-order reading, and the remembrance chain are strong readings; the hinge, the Sophia resemblance, the frozen Nigredo, the vowel principle, the tzimtzum and acorn reads, and the wordplay cosmology of Online are speculative resonances, kept because they are where the web shows, and flagged so nobody mistakes the adventure for the floor. Back upstairs: [[Gnosticism - The World as Trap]]. None of this is the answer; it is one way of seeing it.
+
+> [!ascend] The way back up
+> One floor up is [[Gnosticism - The World as Trap]], the page this one sits under. The rest of the basement is through [[The Deep End]].

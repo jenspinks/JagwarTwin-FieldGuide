@@ -57,3 +57,6 @@ source_basis: ["released music", "public posts", "official videos"]
 
 > [!receipts]- Sources and confidence
 > Grounded on this page: the "Purpose = Form" post (public, May 2, 2020); the card text and seal; the two *Bad Feeling* videos; the EP 5 and EP 7 scenes; the quoted lyrics. Everything else is strong reading or named framework: the cave and the Mysterium, the Three-Veils structure, the psychopomp recast, the persona, the faceless-feminine braid, the unveiling frame. Speculative by design, hedged on purpose, and the main page stands without any of it. Back to [[The Veil]].
+
+> [!ascend] The way back up
+> One floor up is [[The Mask]], the page this one sits under. The rest of the basement is through [[The Deep End]].

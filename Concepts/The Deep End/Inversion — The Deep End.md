@@ -98,3 +98,6 @@ This is the deep water behind [[Inversion]]: the full esoteric and scriptural ap
 
 > [!feed]- Read next
 > [[Inversion]] · [[Sir Lucius]] · [[The Light-Bearer]] · [[Source vs Reflection]] · [[The Mirror]] · [[Duality]]
+
+> [!ascend] The way back up
+> One floor up is [[Inversion]], the page this one sits under. The rest of the basement is through [[The Deep End]].

@@ -47,3 +47,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Voice]] · [[The Speaker Problem]] · [[Letters of Creation]] · [[The Crowd|The Crowd Sings It Back]] · [[The Empty Mirror]] · [[SOL]]
+
+> [!ascend] The way back up
+> One floor up is [[The Voice]], the page this one sits under. The rest of the basement is through [[The Deep End]].

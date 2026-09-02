@@ -66,3 +66,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > * *"My 4 year old nephew said everything is made of triangles… he's not wrong"* (04-10 '23): sacred geometry as innate truth.
 >
 > None of this is the answer; it is one way of seeing it. Back to [[The Pattern]].
+
+> [!ascend] The way back up
+> One floor up is [[The Pattern]], the page this one sits under. The rest of the basement is through [[The Deep End]].

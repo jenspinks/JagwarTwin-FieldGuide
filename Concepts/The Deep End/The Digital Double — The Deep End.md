@@ -46,3 +46,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > * *"I am they"* (June 16, 2023): plural, dissolved identity, posted from the account that was by then nominally SARAVI's own, which is arguably the point.
 >
 > Back to the doorway: [[The Digital Double]].
+
+> [!ascend] The way back up
+> One floor up is [[The Digital Double]], the page this one sits under. The rest of the basement is through [[The Deep End]].

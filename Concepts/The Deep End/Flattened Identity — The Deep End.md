@@ -67,3 +67,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > How we'd be wrong: some per-song flattening reads risk depth-by-enumeration, finding the concept everywhere because we brought it with us. Anti-TV and real-vs-fake-friends lines are pop staples before they are cosmology. The "33 as recursive machine-awareness" pivot may be archival smoothing of a loose pop artifact into more coherence than it was built with; hold the chance it is too elegant. Chronology across the eras is convergence and retrospective rhyme, not proof of design. Certainty is a tone, not a truth.
 >
 > Back to the doorway: [[Flattened Identity]].
+
+> [!ascend] The way back up
+> One floor up is [[Flattened Identity]], the page this one sits under. The rest of the basement is through [[The Deep End]].

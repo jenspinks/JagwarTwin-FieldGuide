@@ -77,3 +77,6 @@ First, it is the same three-part shape in a different register, not a second nam
 ---
 
 *Back upstairs: [[Heart and Mind]].*
+
+> [!ascend] The way back up
+> One floor up is [[Heart and Mind]], the page this one sits under. The rest of the basement is through [[The Deep End]].

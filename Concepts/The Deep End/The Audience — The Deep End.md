@@ -42,3 +42,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[The Audience]] · [[Witnessing vs Surveillance]] · [[Communion vs Spectacle]] · [[The Crowd]] · [[Bad Feeling (Oompa Loompa)]] · [[Sir Lucius]]
+
+> [!ascend] The way back up
+> One floor up is [[The Audience]], the page this one sits under. The rest of the basement is through [[The Deep End]].

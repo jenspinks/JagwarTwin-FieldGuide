@@ -87,3 +87,6 @@ This guide leans **product-become-master**: the machine's best student, its woul
 ## Back up the stairs
 
 If any of this starts to feel like the answer, it is not; it is scaffolding. The grounded floor is the core page: [[Machine vs Human]].
+
+> [!ascend] The way back up
+> One floor up is [[Machine vs Human]], the page this one sits under. The rest of the basement is through [[The Deep End]].

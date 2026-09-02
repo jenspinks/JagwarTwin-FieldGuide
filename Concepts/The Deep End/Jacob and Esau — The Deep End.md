@@ -63,3 +63,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Read next
 > [[Jacob and Esau]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]] · [[The Labors of Hercules]] · [[The Speaker Problem]] · [[Duality]]
+
+> [!ascend] The way back up
+> One floor up is [[Jacob and Esau]], the page this one sits under. The rest of the basement is through [[The Deep End]].
