@@ -6,7 +6,7 @@ status: draft
 confidence: mixed
 source_basis: ["released music", "public interviews", "public posts", "official videos", "public artifacts"]
 ---
-# The Upload
+	# The Upload
 
 > [!gist] I'm going to figure out how to upload my consciousness to the internet
 > Who's coming with me?
