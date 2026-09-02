@@ -136,8 +136,8 @@ Pages marked **↓** are deep-end drawers. Each one sits underneath a main page 
 ## I
 
 - [[I Like to Party]]
-- [[Concepts/The I'm 33 Board|The I'm 33 Board (Concepts)]]
-- [[Hall of Mirrors/The I'm 33 Board|The I'm 33 Board (Hall of Mirrors)]]
+- [[Concepts/The I'm 33 Board|The I'm 33 Board (concept key)]]
+- [[Hall of Mirrors/The I'm 33 Board|The "I'm 33" Board (artifact tour)]]
 - [[Imagine A World]]
 - [[Influences]]
 - [[Inherited Substrate]]
