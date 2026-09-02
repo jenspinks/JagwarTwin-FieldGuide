@@ -6,7 +6,7 @@ status: draft
 confidence: mixed
 source_basis: ["released music", "public interviews", "public posts", "official videos"]
 ---
-# The Light-Bearer
+x`# The Light-Bearer
 
 > [!gist] Flashing lights, there's no exit sign in my maze
 > The Light-Bearer is a way of reading [[Sir Lucius]]: the figure who carries light that disorients instead of illuminating. An earlier version of this page made "steady light versus flashing light" the governing distinction; Roy's own aphorism retired that — *"The moon is a flashing woman"* — because the living Moon itself waxes, wanes, disappears and returns, and its song continues *"even when the stars in the sky are out of view."* What actually separates the lights is *where they stand and what they do to you*: a distant, living sky you can navigate by, versus a **near, artificial source standing where the sky should be** — the strobe, the stage, the screens, the endless drip of notifications — which fragments attention and makes the exit impossible to locate. Fidelity of relation, not constancy of light. He brings light, technically. It just captures rather than guides. *(Corrected August 2026.)*
