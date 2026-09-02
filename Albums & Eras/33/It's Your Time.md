@@ -143,9 +143,9 @@ They say the Truth will set you free
 But the Truth is hard to tell
 If you don't know who you are to be
 You still don't know you fell
-One you get to Earth you forget where you come from
+Once you get to Earth you forget where you come from
 Gotta find your Way back
-One you get to Earth you forget where you come from
+Once you get to Earth you forget where you come from
 Gotta find your Way back
 It's your Time
 All my life I've been waiting for this moment
@@ -171,9 +171,9 @@ You can follow where it leads
 If you don't know Who You Are to "me"
 You still don't know your Self
 (Cause I ain't nothing but a Fool)
-One you get to Earth you forget where you come from
+Once you get to Earth you forget where you come from
 Gotta find your Way back
-One you get to Earth you forget where you come from
+Once you get to Earth you forget where you come from
 Gotta find your Way back
 It's your Time
 All my life I've been waiting for this moment
