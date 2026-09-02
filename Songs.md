@@ -13,6 +13,8 @@ Readings of individual Jagwar Twin songs, grouped by the album or era each belon
 
 The debut — a personal wound turned into a *we-not-me* humanism, seeded with everything that comes later.
 
+The album page: [[Subject to Flooding]].
+
 - [[Long Time Coming]] — the album opener.
 - [[Dream - Dream]] — built on a borrowed 1944 standard; the dream as a recurring device.
 - [[Loser]] — the breakthrough single, and the lens Roy named for viewing the whole world.
@@ -31,6 +33,8 @@ The debut — a personal wound turned into a *we-not-me* humanism, seeded with e
 
 The cosmology album — the personal wound turned outward into a diagnosis of the attention age.
 
+The album page: [[33]].
+
 - [[Online]] — the opener; the diagnosis at its most fun and ridiculous.
 - [[Another Way II Heaven]] — an alternate route out.
 - [[Down to You]] — track from the cosmology set.
@@ -45,6 +49,8 @@ The cosmology album — the personal wound turned outward into a diagnosis of th
 ## Lucius Lullaby (2026)
 
 The shadow album — a sustained descent where Sir Lucius gets the microphone, credited jointly to Jagwar Twin and Lucius.
+
+The album page: [[Lucius Lullaby (album)]]. And [[The Interview]], the in-world conversation that frames it.
 
 - [[The Circle (Lucius Version)]] — the music-box overture that runs straight into the title track.
 - [[Lucius Lullaby]] — track 2; the counterfeit rescue-voice (not to be confused with the album of the same name).
@@ -65,6 +71,8 @@ The shadow album — a sustained descent where Sir Lucius gets the microphone, c
 
 The standalone releases between the albums — where, more than once, the most important developments happened off-album.
 
+The section page: [[Singles & EPs]].
+
 - [[All My Friends]] — standalone single, 2023.
 - [[Good Time (1-08)]] — the single whose video assembles the full Lucius visual vocabulary years before the name.
 - [[Life Is Good]] — a collaboration with the Hume AI artist angelbaby.
@@ -75,3 +83,7 @@ The standalone releases between the albums — where, more than once, the most i
 - [[Ballerina Boy]] — the buried-light figure given a song.
 - [[dumbledore]] — a *MAGIK*-era release with a "Dark Arts Version."
 - [[tomorrow (ANGLE OF ETERNITY)]] — a collaboration with lovelytheband.
+
+---
+
+Prefer the story to the list? [[Albums & Eras]] reads the whole catalogue as three acts, in order.
