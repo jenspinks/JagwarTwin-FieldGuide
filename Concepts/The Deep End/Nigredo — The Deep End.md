@@ -73,8 +73,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!map]- The setlist for the abyss
 > The "I'm 33" board lists a distinct (likely unreleased) concept-album tracklist whose order is an explicit Hermetic descent-and-return, in Roy's hand: **Fall into Matter → Marduk → Let Them Eat Cake → Sun of God → Dissolution → As Above So Below → Genesis → The All Is Mind → O.** Fall, dissolve, as above so below, genesis, the all is mind, and back to **O:** the descent into matter and the return to unity, sequenced like a map. The main page cites only the board's two solve/coagula aphorisms; this tracklist is the deeper cut, and the clearest single artifact of Roy structuring a *whole work* as a descent. The board also carries the money note, *"Energy and intelligence/knowledge can be transmuted by appropriate alchemy into money,"* the same vocabulary in a workaday register.
->
-> A footnote, kept as a texture-reading: the Bad Feeling / Happy Face register runs on unresolving chromatic sighs, a spiral that keeps circling and refuses to land, the way a restless minor-key classical line sighs and never quite resolves. The blackening that won't turn, scored. Not a claim about intent.
 
 > [!feed]- The feed, read in the dark
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):

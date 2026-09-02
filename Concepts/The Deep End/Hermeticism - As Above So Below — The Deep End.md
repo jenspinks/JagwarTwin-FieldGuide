@@ -27,11 +27,6 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 >
 > [[Loser]] takes the destructive register. *"Jericho fell like a wave"* is frequency turned to collapse, the wall that comes down to a trumpet blast. The grammar is plain: voices break walls, vibration dismantles containment. The board names the principle; the line lets it ring on the wall.
 
-> [!reading]- The alchemist's ladder under Down to You
-> Two overlays sit on top of the main page's [[Down to You]] reading, and they are the loosest threads in the whole frame, held as speculation and nothing firmer. First, a base-to-gold transmutation register: base needs-metal climbing to the gold of divine connection, the alchemist's ladder, read into the song's ascent. Second, a descent-of-Nous overlay: spirit-mind falling into matter, where the merely logical mind can't grasp it and only contemplation can. Whether Roy reached for either is exactly the kind of thing worth not being sure about, and neither has an anchor beyond the song fitting the shape.
->
-> But that's the whole point of parking them here: if one lens can catch this many of the seven moving through a single three-minute pop song, it's doing more than decorating. And if the same lens catches nothing on the next song over, that tells you something too. Both results are data.
-
 > [!map]- Star, Moon, Sun
 > A speculative card-map, laid alongside the work rather than found in it. The Major Arcana closes on a light-sequence: **The Star (XVII)**, the morning-star before dawn, then **The Moon (XVIII)**, reflection and illusion, then **The Sun (XIX)**, the true light at last. It's tempting to hand the whole three-card run to [[Sir Lucius]], and that's the mistake worth not making, because on this reading the cards don't all belong to one figure.
 >

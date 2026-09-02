@@ -7,8 +7,8 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Abyss
 
-> [!gist] Clowns to the left of me, jokers to the right—here I am
-> In the center there are only fools.
+> [!gist] At the moment I am in the dark. At the edge of The Abyss.
+> Roy wrote it himself, Good Friday 2022, to mark the moment in history.
 >
 > The Abyss is the threshold where the old self can no longer carry the seeker forward, but the new self has not yet formed. Crossing requires surrendering control, facing the divided self, and allowing knowledge to become lived understanding. Refusing that transformation leaves the seeker caught between worlds and returned to the Loop.
 >
