@@ -9,7 +9,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 # Hermeticism - As Above So Below — The Deep End
 
 > [!gist] The heavy machinery behind [[Hermeticism - As Above So Below]]
-> This is the dense floor: the board read as a syncretic operating system, the ladders that disagree with each other, the octave readings, the tarot light-sequence, the alchemical overlays, the inherited substrate, and the ways all of it could be wrong. Dense and speculative by design. Nothing here is required to walk through the main page, and everything here is a strong reading or a framework correspondence unless marked otherwise. Start at [[Hermeticism - As Above So Below]] if you have not.
+> This is the dense floor: the board read as a syncretic operating system, the ladders that disagree with each other, the octave readings, the tarot light-sequence, the inherited substrate, and the ways all of it could be wrong. Dense and speculative by design. Nothing here is required to walk through the main page, and everything here is a strong reading or a framework correspondence unless marked otherwise. Start at [[Hermeticism - As Above So Below]] if you have not.
 
 ---
 
