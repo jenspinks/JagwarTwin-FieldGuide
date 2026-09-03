@@ -31,4 +31,4 @@ The whole catalogue is one story. Here it is in three acts, in order: the flood,
 
 ---
 
-Rather wander than follow the plot? [[Songs]] is the full song-by-song index. And if you want the five-minute version of the story first, [[So You Found Jagwar Twin]] is the front door.
+Rather wander than follow the plot? Every album above opens into its own songs, read one at a time. And if you want the five-minute version of the story first, [[So You Found Jagwar Twin]] is the front door.

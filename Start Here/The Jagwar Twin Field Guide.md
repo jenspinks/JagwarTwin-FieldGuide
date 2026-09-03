@@ -22,8 +22,7 @@ Rather listen first? Play **[[The Circle]]**, then **[[Happy Face]]**.
 - **[[Characters]]** — the recurring figures: Roy, Sir Lucius, Mary, the Jaguar, and more.
 - **[[Concepts]]** — the ideas the work is built on: the Loop and the Circle, the mind/heart split, the mirror, the circus.
 - **[[Symbols]]** — the recurring images: the green apple, the rose, the mirror, the rabbit.
-- **[[Songs]]** — readings of individual songs, era by era.
-- **[[Albums & Eras]]** — the larger arcs: *Subject to Flooding*, *33*, *Lucius Lullaby*.
+- **[[Albums & Eras]]** — the larger arcs: *Subject to Flooding*, *33*, *Lucius Lullaby* — each opening into readings of its own songs.
 - **[[Reading Paths]]** — guided routes through the material if you'd rather follow a thread than browse.
 - **[[The Map]]** — the map of the whole cosmos: every page in the guide, in one place, for when you already know what you are hunting for.
 
