@@ -44,7 +44,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > Roy's caption for the song itself is four words: "It's a love song."
 >
-> One guard travels with this drawer: dumbledore is the single documented direct Harry Potter reference in the catalogue (the release and its "DARK ARTS VERSION"). Every deeper Potter parallel in the work reads as convergence through shared tradition, not Rowling influence, and this guide holds that line.
+> One guard travels with this drawer: dumbledore is the single documented direct Harry Potter reference **in the released music** (the release and its "DARK ARTS VERSION"). ⚠ Roy's own public posts name Potter on several dated occasions from 2021 on, so the guard scopes the songs, not his stated reading. Every deeper Potter parallel in the work reads as convergence through shared tradition, not Rowling influence, and this guide holds that line.
 
 > [!mask]- The Circus, the defining opposite
 > The fastest way to grasp what the Realm is for is to read it against [[The Circus]]. Circus: the algorithmic gate, the attention machine, the thing that decides what gets through. Realm: what you build when the gate won't open. Blockade and escape route, always read as a pair.
