@@ -463,6 +463,15 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-center-column .markdown-preview-view:not(.circus-home) td { border-color: rgba(212,166,58,.12); }
 
 
+/* ACT BILL numerals + story order REMOVED 2026-09-02 (P0-3).
+   They hard-coded the retired seven-row nav (I=Start Here, II=Albums &
+   Eras, III=Characters, VI=Hall of Mirrors, VII=The Deep End). Under the
+   six-row nav (Hall of Mirrors, Characters, Concepts, Influences,
+   Symbols, Songs) 'fixing' the broken .mod-collapsible selectors would
+   have rendered VI, III, V, -, IV, - in that order, with no chip for
+   Influences or Songs. Ordering now lives in Publish's own
+   navigationOrdering. Act COLOURS and the flourishes are untouched.
+   Recoverable: git show 8224676:publish.css  */
 /* ====== ACT BILL (workflow-designed: per-folder color + circus flourishes) ====== */
 /* ============================================================= *
  * TWISTED DARK CIRCUS - ACT BILL (per-folder semantic color)    *
@@ -482,35 +491,7 @@ body.theme-dark, body.theme-light, .published-container {
   --act-sym-br:#ecc861;   --act-alb-br:#c23a48; --act-path-br:#3ba7af; --act-art-br:#ecc861;
 }
 
-/* act counter: numerals follow the nav's DISPLAY order automatically */
-.published-container .site-body-left-column .nav-view{counter-reset:act;}
-.published-container .site-body-left-column .tree-item.mod-collapsible > .tree-item-self[data-path]{counter-increment:act;}
 
-/* 1) THE ACT CHIP - one mark per folder row, doing double duty as
-      Roman act-number AND colored ticket-chip. The bill is a real
-      sequence (keystone-first), so the numeral encodes true order.
-      Painted on ::before of the INNER label (never .tree-item-self),
-      in the circus-poster Rye face. Beats line-398 via [data-path]. */
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path] > .tree-item-inner::before{
-  display:inline-flex; align-items:center; justify-content:center;
-  min-width:2.1em; height:1.45em; margin-right:.55em; padding:0 .3em;
-  font-family:"Rye","Fraunces",serif; font-size:.62em; line-height:1;
-  letter-spacing:.02em; vertical-align:.12em;
-  color:var(--chip,#d4a63a);
-  border:1px solid color-mix(in srgb, var(--chip,#d4a63a) 55%, transparent);
-  border-radius:2px 5px 5px 2px;                 /* torn-stub asymmetry */
-  background:color-mix(in srgb, var(--chip,#d4a63a) 13%, transparent);
-  content: counter(act, upper-roman);   /* auto-sequences in DISPLAY order (reorder-proof) */
-}
-/* per-folder numeral + accent (data-path holds the bare folder name) */
-.published-container .site-body-left-column .tree-item-self[data-path="Start Here"]    > .tree-item-inner::before{--chip:var(--act-start-br);}
-.published-container .site-body-left-column .tree-item-self[data-path="Characters"]     > .tree-item-inner::before{--chip:var(--act-char-br);}
-.published-container .site-body-left-column .tree-item-self[data-path="Concepts"]       > .tree-item-inner::before{--chip:var(--act-conc-br);}
-.published-container .site-body-left-column .tree-item-self[data-path="Symbols"]        > .tree-item-inner::before{--chip:var(--act-sym-br);}
-.published-container .site-body-left-column .tree-item-self[data-path="Albums & Eras"]  > .tree-item-inner::before{--chip:var(--act-alb-br);}
-.published-container .site-body-left-column .tree-item-self[data-path="Reading Paths"]  > .tree-item-inner::before{--chip:var(--act-path-br);}
-.published-container .site-body-left-column .tree-item-self[data-path="Artifacts"]      > .tree-item-inner::before{--chip:var(--act-art-br);}
 
 /* 2) ACT-COLORED FOLDER LABELS - the folder's own text carries its
       accent (files nested below stay cream via --nav-item-color).
@@ -708,62 +689,8 @@ body.theme-dark, body.theme-light, .published-container {
  * :has(), order reverts to alphabetical; nothing else breaks.   *
  * ============================================================= */
 
-/* 1) STORY ORDER - flex the root list. Negative order = pinned
-      sequence; anything new published later (order:0) lands after
-      The Deep End instead of scrambling the bill. */
-.published-container .site-body-left-column .nav-view > .tree-item-children{
-  display:flex; flex-direction:column;
-}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path="Start Here"]){order:-70;}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path="Albums & Eras"]){order:-60;}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path="Characters"]){order:-50;}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path="Symbols"]){order:-40;}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path="Concepts"]){order:-30;}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path="Hall of Mirrors"]){order:-20;}
-.published-container .site-body-left-column .nav-view > .tree-item-children
-  > .tree-item:has(> .tree-item-self[data-path^="The Deep End"]){order:-10;}
 
-/* 2) ACT NUMERALS, PINNED - CSS counters follow DOM order, not flex
-      order, so after the reorder the auto-roman chips would lie.
-      Same selector shape as the counter rule (line ~494), later in
-      source, so these win. */
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path="Start Here"] > .tree-item-inner::before{content:"I";}
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path="Albums & Eras"] > .tree-item-inner::before{content:"II";}
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path="Characters"] > .tree-item-inner::before{content:"III";}
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path="Symbols"] > .tree-item-inner::before{content:"IV";}
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path="Concepts"] > .tree-item-inner::before{content:"V";}
-.published-container .site-body-left-column .tree-item.mod-collapsible
-  > .tree-item-self[data-path="Hall of Mirrors"] > .tree-item-inner::before{content:"VI";}
 
-/* 3) THE DEEP END - a root FILE (not .mod-collapsible), so the base
-      chip/bold rules skip it; give the basement door its own ticket
-      stub (teal, act VII) and the uniform label treatment. */
-.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]
-  > .tree-item-inner::before{
-  content:"VII"; display:inline-flex; align-items:center; justify-content:center;
-  min-width:2.1em; height:1.45em; margin-right:.55em; padding:0 .3em;
-  font-family:"Rye","Fraunces",serif; font-size:.62em; line-height:1;
-  letter-spacing:.02em; vertical-align:.12em;
-  color:var(--act-conc-br);
-  border:1px solid color-mix(in srgb, var(--act-conc-br) 55%, transparent);
-  border-radius:2px 5px 5px 2px;
-  background:color-mix(in srgb, var(--act-conc-br) 13%, transparent);
-}
-.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]
-  > .tree-item-inner{ font-weight:700; }
-.published-container .site-body-left-column .tree-item-self[data-path^="The Deep End"]:not(.mod-active):not(.is-active)
-  > .tree-item-inner{ color:var(--text-muted) !important; }
 
 /* 4) THE SHELVES - hidden from the sidebar, alive everywhere else.
       Prefix match mirrors the proven Roy's-Posts / Inside-of-the-
