@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: Characters
 type: meta
@@ -49,5 +48,3 @@ The impersonal weather every figure performs inside — gathered voices, and the
 - [[The Crowd]] — the echo that can rise into communion or curdle into spectacle, depending entirely on how it's sung. A unison is not a communion.
 - [[The System]] — the attention economy that turns reflection into machinery; it doesn't hate you, it processes you — and it is not embarrassed about it.
 - [[BMRC]] — the Circus's corporate signature: the company that produces the show *and* brands the weapons. On the artifacts it stays four sealed initials; the artist's own sites name it the **Black Magic Rainbow Circus**. Also home of Leif, Lucius's enforcer, the one who calls him *"Boss."*
-=======
->>>>>>> origin/main
