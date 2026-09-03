@@ -71,7 +71,7 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 > [!feed]- Fresh From the Feed
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
 > * "Is the world I see not a reflection of my own inner world?" · **10-19 '23** · world-as-self-reflection
-> * "Notice the moon / Becoming the sun" · **05-05 '23** · lunar-to-solar arc
+> * "Notice the moon / Becoming the sun" · **05-05 '23** · reflected light and its source
 > * "Do not be deceived by forms" · **02-01 '23** · appearances vs hidden reality
 > * "We are drops of light" · **04-13 '23** · light as fundamental identity
 > * "Getting out of the way for new stuff to come through, excited to share it with you soon!" · **03-27 '23** · artist as vessel

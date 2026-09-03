@@ -94,7 +94,7 @@ A handful of claims that cut across all seven sections.
 - [[Concepts/Inversion]] — the upside-down smile; the bridge's mirror-flip from *love my life* to *end your life,* one word swapped.
 - [[The Green Apple]] — Lucius's mark: *"knowledge that hasn't been earned; intelligence divorced from spirit; power access before spiritual maturity"* (Roy's own decode, [[Public Posts]]). In the surrounding lore he eats it loudly — a child performing sovereignty.
 - [[The Banana]] — his stable trigger-prop: he plays his hits off a browning banana lifted from the set's altar fruit-bowl (this song in EP2; *[[Welcome to the Circus]]* in EP3). Read as a sacred offering rerouted to broadcast *his* voice — real light in a sterile vessel that can't pass it on.
-- [[The Moon]] — Lucius's lunar pole here: reflection, spectacle, *"the moon trying to become a sun."*
+- [[The Moon]] — Lucius's lunar pole here: reflection, spectacle, *"the moon trying to become a sun"* — carrying the same caveat as the reading above, that a later re-mapping gives the moon to [[Roy]] and reads Lucius as the analytic mind.
 - [[The Thread]] — the feeling that must not be cut; what this bargain trades away.
 
 ## Its place in the mythology

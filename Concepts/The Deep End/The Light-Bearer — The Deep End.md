@@ -64,7 +64,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > * *"We are drops of light"*: light as fundamental identity.
 > * *"We are stars for ants"*: scale inversion, the human as cosmic.
 > * *"As more Light (consciousness, awareness) comes in we see things that were always there, hidden, but are now being illuminated"*: the light-through-shadow paradox in his own theological voice.
-> * *"Notice the moon / Becoming the sun"*: Roy's own arc, the reflected light aspiring to source; kept here because it is the arc the morning star is outshone *by*, not Lucius's arc.
+> * *"Notice the moon / Becoming the sun"*: a dated post of Roy's (05-05 '23), and the reason it belongs here is negative, whatever it names it is not the morning star's. ⚠ As a project-wide image the moon-becoming-sun was **retired in August 2026**; it holds only inside the labeled diminished-moon tradition. The replacement image is the Moon learning to sing *with* the Sun: restoration is relationship, not promotion.
 > * The dream-post of watching the sun die and the earth go dark, ending on the last of the kimchi: solar death and descent, delivered deadpan.
 
 > [!receipts]- Sources, confidence, and how we'd be wrong

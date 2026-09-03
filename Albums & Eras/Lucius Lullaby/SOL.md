@@ -97,7 +97,7 @@ A few claims that cut across everything above.
 
 - [[The Thread]] — the feeling that must not be cut; the Song of Love as the thread *made audible*, the thing that survived the bargain.
 - [[Concepts/The Loop and the Circle]] — origin surfacing at the close: a circle returning, not a loop repeating. SOL sits at the album's end where the breath carries through.
-- [[The Moon]] — the foil. Lucius carries the lunar / reflected register; *Sol* is Latin and Spanish for **the sun**, so SOL reads as the solar source a reflected light can only orbit, never absorb. *(The older "moon trying to become a sun" framing is retired, 2026-08-01: the two are co-singers, not a promotion, see [[The Cosmos]].)* The title carries the double meaning cleanly: *Song Of Love* and *solar source* at once.
+- [[The Moon]] — the foil. Lucius carries the lunar / reflected register; *Sol* is Latin and Spanish for **the sun**, so SOL reads as the solar source a reflected light can only orbit, never absorb. *(The older "moon trying to become a sun" framing is retired, 2026-08-01: the two are co-singers, not a promotion, see the brain vault's Cosmos essay.)* The title carries the double meaning cleanly: *Song Of Love* and *solar source* at once.
 - [[Concepts/The Mouth]] / [[Concepts/The Voice]] — the testifying voice as opposed to the consuming one; what the mouth sounds like when the Circus's suppression mechanism finally fails and nobody overrides it.
 
 ## The premiere: how SOL becomes the song they keep silencing
