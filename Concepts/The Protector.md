@@ -32,7 +32,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > And the moral floor under everything: the shadow is not the enemy. Roy posted Dion Fortune's line as a quote-card, "The shadow is not evil. It is power unrecognized and therefore misused," and gives us his own aphorism on X: "Nothing is evil in the beginning."
 >
-> One honesty note before the drawers below run with it: Roy publicly defines Lucius as mind-divorced-from-heart, a tool, a force that must serve. He does not publicly define him as a trauma-protector. The survival-self reading that titles this page is this guide's synthesis, built on grounded material and labeled where it stands.
+> One honesty note before the drawers below run with it: Roy publicly defines Lucius as mind-divorced-from-heart, a tool, a force that must serve — and he publicly supplies the **protective motive** in his own words: *"the mind is only trying to be logical and protect you,"* because *"you've been hurt before"* (2025-02-18). He also teaches protection curdling into possession, as the Cancer shadow that *"holds too tight and won't let go."* ⚠ What he does **not** do is attach that motive to the Ballerina Boy wound, or name the character a trauma-protector. So the **mechanism is his**; the survival-self reading that titles this page is this guide's synthesis built on top of it, labeled where it stands.
 
 > [!reading]- Catch it in the act (2018)
 > The clearest way to watch the Protector work is to catch it running before it has a name. *Subject to Flooding* (2018) is its operating manual: each defense a real solution to a real danger that then forgets to clock out.

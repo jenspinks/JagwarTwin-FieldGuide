@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * *"The crooks and believers all sing the same song"* ([[Great Time to Be Human]]): moral opposites absorbed into one synchronized crowd, the spectacle pole stated in a released lyric.
-* A 2019 interview where Roy locates the Circle in the feeling of being live with a crowd singing the song back: the communion-gesture, grounded at its earliest point.
+* A 2019 interview (Digital Journal, **2019-09-23**) where Roy locates the Circle in the feeling of being live with a crowd singing the song back — *"there is no beginning and no end, it's just a circle"* — the communion-gesture, grounded at its earliest point and three years before the Circle is named on a record.
 * [[Not Your Homie]] hands *ring-around-the-rosie*, the most communal of children's circle-games, to the plague-voice and marches it into *"ashes, ashes, we all fall down."* The Circle's own gesture, inverted.
 
 That is the surface, and it stands on its own. Each drawer below goes one reading deeper.
@@ -39,7 +39,7 @@ That is the surface, and it stands on its own. Each drawer below goes one readin
 >
 > Three honesty-brakes travel with this. First, it is a reading, and deliberately falsifiable: a Roy-voiced song can still command, and a Lucius scene can hold genuine reciprocity. Second, on the 2022 songs *Lucius-coded* is the truer word than *Lucius-voiced*, since the persona is not yet named or credited there; mixed-voice tracks ([[Long Time Coming]], [[Bananas]]) are sorted by which persona runs the crowd-move, not by a clean solo vocal. Third, the tidy chronology fails on purpose: [[Imagine A World]] is a Roy-voiced echo sitting inside the *33* era, so *33* already carries both voices at once. This was never a story of communion decaying into command, era by era.
 >
-> One hopeful note inside the machinery: there is evidence within the work that a voice can take up a broken transmission, one that began pure and was warped by time and circumstance, and by transmitting it help elevate the lost signal.
+> One hopeful note inside the machinery, and it is worth being exact about what carries it. The idea that a voice can take up a transmission that began pure, was warped by time and circumstance, and is lifted again by being passed on is a **reading of this guide's, not a sourced claim** — ⚠ an earlier version asserted *"there is evidence within the work"* for it and cited none, and no source in either vault matches. What *is* public and does the same work is the counter-image below: Hall of Mirrors artifact #84, *"Where The World Was Crossed,"* retelling the broken vessels as a bedtime story.
 
 > [!reading]- Applause on cue
 > The spectacle pole's sharpest exhibits. [[Great Time to Be Human]] runs a reaction-button engine in its ad-libs, *"Oops! / yay! / boo hoo / Woof!"*: children's-show emotional cues fired at exactly the wrong moments. A brother is smothered and the track says *oops*. On this reading the synchronized cheer *is* the violence, horror processed into content, and content needing applause; the cruelty is not hiding under the laugh track, it is in it.
