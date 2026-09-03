@@ -157,9 +157,9 @@ Everything above stands on its own. What follows is optional: the alternate glos
 >
 > 1. **2018 (Ones to Watch):** looks into others, then back into the self.
 > 2. **2019:** a telling that *reverses* the sequence, self first, then others. The mirror-loop has no fixed starting point.
-> 3. **Big Loud bio:** adds *"the speed of the jaguar… moving through technological and cultural dynamics."*
+> 3. **2024 (Mic Magazine):** a redemptive edge — the jaguar *"looks into the darkness of itself and others but then is able to pull people out of that into the light."*
 >
-> A 2024 telling (Mic Magazine) adds a redemptive edge: the jaguar *"looks into the darkness of itself and others but then is able to pull people out of that into the light."* And Wikipedia supplies an editorial gloss, *not* Roy's words, tying the name to *"the ancient Mayan belief that jaguars possessed mythical powers to see into all living beings."* Roy's own 2018 framing is gentler and first-person: on naming the project, *"I felt like I was given new eyes and I started to see myself, others, and the world differently."*
+> ⚠ Two further glosses circulate that are **not Roy's tellings**, and the difference is the point: the **Big Loud label bio** (*"the speed of the jaguar… moving through technological and cultural dynamics"*) and Wikipedia's editorial line tying the name to *"the ancient Mayan belief that jaguars possessed mythical powers to see into all living beings."* Neither appears in any of Roy's tellings; both stay flagged, not built on. A label bio is a public gloss, not a telling. Roy's own 2018 framing is gentler and first-person: on naming the project, *"I felt like I was given new eyes and I started to see myself, others, and the world differently."*
 >
 > One older gloss has been **struck:** the claim that the jaguar *"sees into all living beings / travels between worlds / is an inter-world traveler."* That is not in Roy's etymology quotes and does not survive scrutiny. The grounded meaning is *mirror of consciousness,* full stop.
 
