@@ -697,7 +697,7 @@ body.theme-dark, body.theme-light, .published-container {
       Inside rules; a folder prefix hides the folder row AND its
       children in one line. */
 /* wings (whole folders) */
-.site-body-left-column .tree-item-self[data-path^="Influences"]{ display:none !important; }
+.site-body-left-column .tree-item-self[data-path^="Influences/"]{ display:none !important; }
 .site-body-left-column .tree-item-self[data-path^="Reading Paths"]{ display:none !important; }
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Sacred Truths"]{ display:none !important; }
 /* Concepts: the shelf keeps 9 rows (hub + Heart and Mind, Duality,
