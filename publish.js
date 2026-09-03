@@ -58,6 +58,87 @@
   );
 })();
 
+/* Six main sections, six hub links (2026-09-03).
+ * Keep the underlying folders and URLs. Native rows remain as a fallback;
+ * only the six replaced rows are hidden after the real links exist.
+ * Source & Structure and A–Z keep their native navigation and visibility.
+ */
+(function () {
+  "use strict";
+  if (window.__jtHubDoors) return;
+  window.__jtHubDoors = true;
+
+  var DOORS = [
+    ["Hall of Mirrors", "Hall of Mirrors/Hall of Mirrors"],
+    ["Characters", "Characters/Characters"],
+    ["Concepts", "Concepts/Concepts"],
+    ["Influences", "Influences/Influences"],
+    ["Symbols", "Symbols/Symbols"],
+    ["Songs", "Songs"]
+  ];
+
+  function pathOf(path) {
+    try { path = decodeURIComponent(path.replace(/\+/g, " ")); }
+    catch (e) { /* preserve a malformed path without breaking navigation */ }
+    return path.replace(/^\/+|\/+$/g, "").replace(/\.md$/, "");
+  }
+
+  function sync() {
+    var side = document.querySelector(".site-body-left-column");
+    if (!side) return;
+    var rootRow = side.querySelector('.tree-item-self[data-path="Characters"]');
+    if (!rootRow || !rootRow.parentElement || !rootRow.parentElement.parentElement) return;
+    var list = rootRow.parentElement.parentElement;
+    var host = list.parentElement;
+    if (!host) return;
+    var nav = host.querySelector(".jt-hub-doors");
+    if (!nav) {
+      nav = document.createElement("nav");
+      nav.className = "jt-hub-doors";
+      nav.setAttribute("aria-label", "Main sections");
+      DOORS.forEach(function (door) {
+        var link = document.createElement("a");
+        link.textContent = door[0];
+        // Publish's <base> points at publish.obsidian.md, not our custom host.
+        link.href = window.location.origin + "/" + door[1].split("/").map(encodeURIComponent).join("/");
+        link.setAttribute("data-jt-hub", door[1]);
+        nav.appendChild(link);
+      });
+      host.insertBefore(nav, list);
+    }
+    // Do not depend on a child row being rendered, expanded, or unhidden.
+    DOORS.forEach(function (door) {
+      var path = door[0] === "Songs" ? "Songs.md" : door[0];
+      var row = side.querySelector('.tree-item-self[data-path="' + path + '"]');
+      if (row && row.parentElement) row.parentElement.classList.add("jt-hub-door-source");
+    });
+    var current = pathOf(window.location.pathname);
+    nav.querySelectorAll("a[data-jt-hub]").forEach(function (link) {
+      var selected = current === link.getAttribute("data-jt-hub");
+      if (selected && link.getAttribute("aria-current") !== "page") link.setAttribute("aria-current", "page");
+      if (!selected && link.hasAttribute("aria-current")) link.removeAttribute("aria-current");
+    });
+  }
+
+  // Publish replaces parts of the sidebar on navigation. Reinstall once per
+  // replacement, and update the current-page marker on SPA/back navigation.
+  var pending = false;
+  function schedule() {
+    if (pending) return;
+    pending = true;
+    window.requestAnimationFrame(function () { pending = false; sync(); });
+  }
+  function start() {
+    if (!document.body) return;
+    sync();
+    new MutationObserver(schedule).observe(document.body, { childList: true, subtree: true });
+  }
+  if (document.body) start();
+  else document.addEventListener("DOMContentLoaded", start, { once: true });
+  window.addEventListener("popstate", schedule);
+  window.addEventListener("hashchange", schedule);
+})();
+
 /* Rooms Behind the Gallery — stand-alone page.
  *
  * That page is meant to open with no navigation in or out. CSS can't see the
