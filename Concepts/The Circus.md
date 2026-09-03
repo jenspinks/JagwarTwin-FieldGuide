@@ -32,6 +32,8 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > A short census runs through all of it: the *"step right up"* barker call recurs at three fixed points, [[Pay Attention (feat. little luna)|Pay Attention]] (2022) → [[Good Time (1-08)|Good Time (1:08)]] (2023) → *Welcome to the Circus* (2026). And *"I'm a mastermind"* in *Good Time* becomes *"I'm the final boss"* in 2026; Roy dates the Lucius figure to that video, which makes the escalation a timeline he gave us, not an iconographic guess.
 
+## What it produces (the Spectacle)
+
 > [!reading]- Every brag is a confession
 > The music is deceptive on purpose: bright words set against a dark sound, and the actual message building underneath the two of them. Read that way, almost every line is an admission wearing a swagger:
 >
@@ -42,6 +44,8 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > * *"Did you like the show?"*: the fourth wall drops and the audience is asked to affirm its own consumption. Harm delivered as a customer-satisfaction survey.
 >
 > One structural fact worth knowing: *"welcome to the circus"* repeats a dozen-plus times across a two-and-a-half-minute song, and the outro is nothing but it. The Circus mostly says its own name, the way a closed system has nothing outside itself to point at. (One guard travels with the thesis: it does not follow that every public expression of pain in the catalogue is produced by this machine.)
+
+## Where it comes from (bread and circuses)
 
 > [!lore]- Same trap, new tent
 > The oldest blueprint is Roman. The satirist Juvenal coined *panem et circenses*, "bread and circuses," around 100 CE (*Satires* 10) to mock a public that once held real power and now *"eagerly yearns for just two things — bread and circuses."* The insight that gave the joke a 2,000-year shelf life: the crowd is not enslaved by force, it is sedated by entertainment. The chains are pleasurable.
