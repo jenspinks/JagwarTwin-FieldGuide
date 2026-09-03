@@ -3,7 +3,7 @@ title: Synchronicity and Found Meaning
 type: concept
 cssclasses: ["type-concept"]
 status: draft
-confidence: high
+confidence: mixed
 source_basis: ["public posts", "released music", "public interviews", "public artifacts"]
 ---
 # Synchronicity and Found Meaning

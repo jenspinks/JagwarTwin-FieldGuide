@@ -36,6 +36,7 @@ The kit gets you started, but the world keeps more images than two characters ca
 - [[The Banana]]: Lucius's favorite prop. The offering turned into a microphone; a sterile clone that carries light but can't pass it on.
 - [[The Thread]]: the line that makes the maze survivable. Most likely feeling itself, the one thing you're not allowed to trade away.
 - [[The Moon]]: borrowed light for the dark. Mary's symbol, the wound and the blessing held at once.
+- [[Water]]: the oldest model of the soul there is, and a catalogue that keeps flooding. The comparative floor, from the Upanishads to Bruce Lee, is downstairs at [[Water — The Deep End]].
 - [[Roy's Tattoos]]: the whole man written on the body, inked twice and resolved by a single cross, with the rose running forwards and backwards around it.
 - [[The Colors]]: the palette is on the payroll too. The ladder of colors the board climbs, and who in this world wears what.
 
