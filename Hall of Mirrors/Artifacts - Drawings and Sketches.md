@@ -174,7 +174,9 @@ A hidden Roy poem (never a released song), typeset over a medieval millefleurs t
 ### #59 · Thought Forms · `THOUGHT FORMS`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8a936464fa52919815c00076e8546d7155141ee192aeb2f2b3d2078e334090ea..jpg" width="300"></a>
 
-A handwritten aphorism rather than a drawing: *"Thought-Forms / It is Man that anthropomorphises his gods. Images formed in mind."* The title borrows the old Theosophical doctrine that mental activity throws off literal shaped forms, but Roy bends it toward a sharper claim: man projects a human face onto the divine and then mistakes the mental image for a god. It is the reflexive mirror at the heart of the whole project, stated in one line.
+A handwritten aphorism rather than a drawing: *"Thought-Forms / It is Man that anthropomorphises his gods. Images formed in mind."* The wording follows Gareth Knight's *A Practical Guide to Qabalistic Symbolism* closely enough to be a compression of it: in Knight's account Netzach supplies force and Hod gives that force its picture-form, and the card keeps the distinction in its short move from *anthropomorphises* to *formed in mind*.
+
+So the subject is not simply that gods are invented. It is mediation — the process by which a force nobody can picture becomes an image a person can perceive, name and pass on. Read beside Roy's heart-and-mind material, form is what makes feeling transmissible; the trouble starts only when the representation claims to be its own source. *Imagine A World* performs both halves, inviting you to imagine and then showing how an imposed thought takes hold. Besant and Leadbeater's similarly titled book is a resonance in the title, not the source of these sentences.
 **Connects to →** [[Imagine A World]] · [[Great Time to Be Human]] · [[Concepts/The Pattern]] · [[Concepts/The Upload]]
 
 ## Photos (keyed here by their code)
