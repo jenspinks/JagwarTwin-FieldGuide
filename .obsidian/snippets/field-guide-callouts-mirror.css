@@ -773,8 +773,6 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-left-column .tree-item-self[data-path^="Influences"]{ display:none !important; }
 .site-body-left-column .tree-item-self[data-path^="Reading Paths"]{ display:none !important; }
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Sacred Truths"]{ display:none !important; }
-/* stray root file */
-.site-body-left-column .tree-item-self[data-path^="Untitled"]{ display:none !important; }
 /* Concepts: the shelf keeps 9 rows (hub + Heart and Mind, Duality,
    The Loop and the Circle, The Circus, Source vs Reflection,
    The Pattern, The Jaguar, Machine vs Human) */
@@ -795,7 +793,7 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Aquarium"],
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Audience"],
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Digital Double"],
-.site-body-left-column .tree-item-self[data-path^="Concepts/The Divide"],
+.site-body-left-column .tree-item-self[data-path^="Concepts/The Divide.md"],
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Dweller on the Threshold"],
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Empty Mirror"],
 .site-body-left-column .tree-item-self[data-path^="Concepts/The Flip and the Distorting Mirror"],
