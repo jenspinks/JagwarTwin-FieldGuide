@@ -104,7 +104,6 @@ Single-thread studies and close-reading tools, for the day you want to take one 
 - [[Concepts/The Speaker Problem]]: who is the "I," and who is the "you"? The catalogue never settles it, and that refusal is the mirror doctrine written into the grammar.
 - [[Concepts/Pronoun Audit (I-You)]]: the same question run with a highlighter: count every I and you across two albums, and it turns out it's the "you" that quietly drains away.
 - [[Concepts/Inherited Substrate]]: the honest footnote: not everything that resonates was placed on purpose; the work also swims in currents older than any plan.
-- [[Concepts/Synchronicity and Found Meaning]]: meaningful coincidences, kept separate from claims of deliberate design.
 - [[Concepts/Jagwar Twin and Harry Potter]]: the Potter vocabulary threaded through the later work, read for what it's actually doing there.
 - [[Concepts/The Visual Canon Throughline]]: the images that refuse to retire: the recurring visuals that carry across every era's artwork and video.
 

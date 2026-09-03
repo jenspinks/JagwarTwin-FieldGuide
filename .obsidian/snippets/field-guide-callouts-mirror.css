@@ -752,38 +752,6 @@ body.theme-dark, body.theme-light, .published-container {
 .site-body-left-column .tree-item-self[data-path^="Symbols/The Thread"],
 .site-body-left-column .tree-item-self[data-path^="Symbols/The Wheel"]{ display:none !important; }
 
-/* Six hub doors, installed by publish.js. No content folders move.
-   If JavaScript fails, the native navigation remains available. */
-.site-body-left-column .jt-hub-doors {
-  display: flex;
-  flex-direction: column;
-  margin: 0 0 8px;
-}
-.site-body-left-column .jt-hub-doors > a {
-  display: block;
-  padding: 5px 12px;
-  border-radius: 4px;
-  color: var(--text-normal);
-  font-size: 17px;
-  line-height: 1.35;
-  text-decoration: none;
-}
-.site-body-left-column .jt-hub-doors > a:hover,
-.site-body-left-column .jt-hub-doors > a[aria-current="page"] {
-  color: #ecc861;
-  background: rgba(143, 28, 39, 0.12);
-}
-.site-body-left-column .jt-hub-doors > a:focus-visible {
-  outline: 2px solid #d4a63a;
-  outline-offset: 1px;
-}
-.site-body-left-column .jt-hub-door-source { display: none !important; }
-
-/* Defense in depth only: draft URLs still require actual unpublication. */
-.site-body-left-column .tree-item:has(> .tree-item-self[data-path="_internal"]) {
-  display: none !important;
-}
-
 /* ============================================================= *
  * ONE-COLOR MENU (Roy relay via Jen, 2026-07-07)                *
  * "Keep the menu items one color; colors have meaning."         *
