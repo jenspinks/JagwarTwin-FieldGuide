@@ -18,7 +18,7 @@ Two characters, two kits. Same five slots, opposite jobs.
 | **The bird** | [[The Crow]]: Mercury's clever, scavenging mind | [[The Dove]], named Cygnus: love descending, the kind that gives you light and then lets you go |
 | **The blade** | a dagger, the close-in cut | [[The Sword]]: the clean cut the heart chooses |
 | **The mark** | [[The Green Apple]]: knowledge picked before it's ripe | [[The Rose]]: the heart revealed |
-| **The ink** | [[El Roi]] on the throat: *"the God who sees me"* | [[El Roi\|El Roy]]: his signature, the same ink pointing the other way |
+| **The marking** | [[El Roi]] on the throat: *"the God who sees me"* | [[El Roi\|El Roy]]: his signature, the same name pointing the other way |
 | **The breath** | a cigarette | the song he arrived with |
 
 And one line for [[Mary]] 🌙: she carries [[The Moon]], borrowed light for the dark, and she is the wound and the blessing at once, which is a lot, and she holds it.

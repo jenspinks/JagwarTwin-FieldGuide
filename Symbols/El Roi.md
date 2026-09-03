@@ -11,7 +11,7 @@ aliases: ["El Roy", "El Roi / El Roy"]
 
 > **One-line reading.** *El Roi* — Hebrew, אל ראי, *"the God who sees me"* — is the name Hagar gives God in Genesis 16, worn on the **throat of Sir Lucius**: the figure made entirely of reflection, wearing the divine seer's name on the organ of speech.
 
-Seeing is this project's deepest verb — the mirror, the jaguar that looks first into itself, witnessing against surveillance — and *El Roi* is where the whole motif condenses into two words of ink. In the theatrical [[The Interview]] videos, [[Sir Lucius]] wears the Hebrew on his neck, alongside the white face paint and the black X's under the eyes. And Roy signs his lore *"I love you — El Roy"*: his own name folded into the same scripture (Roy / Roi / *the one who sees*). One phrase, two bearers, pointing in opposite directions.
+Seeing is this project's deepest verb — the mirror, the jaguar that looks first into itself, witnessing against surveillance — and *El Roi* is where the whole motif condenses into two words worn at the throat. In the theatrical [[The Interview]] videos, [[Sir Lucius]] wears the Hebrew on his neck, alongside the white face paint and the black X's under the eyes. And Roy signs his lore *"I love you — El Roy"*: his own name folded into the same scripture (Roy / Roi / *the one who sees*). One phrase, two bearers, pointing in opposite directions.
 
 ## At a glance
 

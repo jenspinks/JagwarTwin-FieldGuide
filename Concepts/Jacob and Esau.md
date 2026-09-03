@@ -16,7 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * The *"Half the Man"* post (Roy's public Instagram, April 2026): *"I reached for my Father's hand / He said you're half the man that you know."* A father, and half a man: the divided-blessing motif in his own voice, dated and public.
-* **El Roi** on Sir Lucius's throat: *"the God who sees me,"* Hagar's name for God (Genesis 16). A grounded 2026 tattoo, and the door into the seeing-the-face thread that rhymes with Peniel.
+* **El Roi** on Sir Lucius's throat: *"the God who sees me,"* Hagar's name for God (Genesis 16). A grounded 2026 character marking, and the door into the seeing-the-face thread that rhymes with Peniel.
 * The Bargain beat of [[The Interview]]: Roy brings the tender [[SOL|Song of Love]], Lucius works every lever, and the deep thing gets traded down for the hit. *"Fine, I'll give you this one."* The Genesis pottage staged inside the work, with the heart itself signing for it.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
@@ -68,7 +68,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!receipts]- Sources and confidence
 > Public and universal: the Genesis text itself (chapters 25–33, plus Genesis 4 and 16), including the parting that keeps the brothers two. Anyone can check it.
 >
-> Grounded in Roy's public words and hand: the *"Half the Man"* post (April 2026, verified); the Instagram Live *"pieces of one piece"* line (citable, but our transcript is a draft pending a listen-through); the Gemini Sun self-ID; the separate Blake *Jacob's Dream* and Climacus *Ladder of Divine Ascent* images, the Jung map, and the NChSh hopscotch-ladder on the *"I'm 33"* board; the El Roi throat tattoo (verified 2026, confirmed absent in 2018, so never back-dated); the public Interview beats, the Bargain and the finale Lucius cannot metabolize.
+> Grounded in Roy's public words and hand: the *"Half the Man"* post (April 2026, verified); the Instagram Live *"pieces of one piece"* line (citable, but our transcript is a draft pending a listen-through); the Gemini Sun self-ID; the separate Blake *Jacob's Dream* and Climacus *Ladder of Divine Ascent* images, the Jung map, and the NChSh hopscotch-ladder on the *"I'm 33"* board; the El Roi throat marking (verified 2026, confirmed absent in 2018, so never back-dated); the public Interview beats, the Bargain and the finale Lucius cannot metabolize.
 >
 > Strong readings, labeled as readings: the divided blessing, the elder serving the younger, trickster-Jacob and aggrieved-Esau, the pottage as the Bargain, the wound that stays, the embrace-then-parting endpoint. Grounded in the material, interpretive all the same, and the roles stay resonances, never fixed casting.
 >

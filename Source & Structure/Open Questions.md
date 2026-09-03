@@ -27,7 +27,7 @@ The questions whose answers would reshape everything else.
 
 ## On Lucius and the shadow
 - Why is [[SOL]] the one song Lucius can't absorb? I mean we know why but also why... 
-- The **El Roi** tattoo — *"the God who sees me"* — is on Lucius, not Roy. Why does the figure made of reflection wear the name of the divine seer? Confession, claim, or irony?...or did it just look cool?
+- The **El Roi** throat marking — *"the God who sees me"* — is on Lucius, not Roy. Why does the figure made of reflection wear the name of the divine seer? Confession, claim, or irony?...or did it just look cool?
 - Who is **Leif** — a separate figure, or just Lucius's comic register? Does Lucius require a witness to function?
 - Does the 2026 co-credit mean Lucius *won*, or that he's finally visible enough to be integrated? Again we probably can say whats going on in general here but what changed between Happy Face and now? 
 

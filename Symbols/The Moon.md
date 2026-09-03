@@ -70,7 +70,7 @@ A standing guardrail, because the symbol is easy to flatten: the moon is reflect
 
 The moon's roots are named, and several are licensed by Roy's own documented engagement rather than imposed from outside.
 
-- **Kabbalah / Hermetic Qabalah** — the moon as the lunar vessel on the [[Kabbalah - The Tree of Life|Tree of Life]] that *"receives entirely"* from the sun; the diminished-moon myth and its restoration arc (detailed below). Held framework-tier, never as authorial intent — but Roy's Kabbalah engagement is public (the *I'm 33* board, the *El Roi* tattoo).
+- **Kabbalah / Hermetic Qabalah** — the moon as the lunar vessel on the [[Kabbalah - The Tree of Life|Tree of Life]] that *"receives entirely"* from the sun; the diminished-moon myth and its restoration arc (detailed below). Held framework-tier, never as authorial intent — but Roy's Kabbalah engagement is public (the *I'm 33* board, the *El Roi* marking).
 - **Sefer Yetzirah** — Roy reproduced its **Beth passage** verbatim on a public manifesto card: *"He made the letter Beth king over wisdom… and with them He formed the Moon in the universe, Sunday in the year, and the right eye in the soul, male and female."* The card itself says *Moon.* (Reads as Aryeh Kaplan's translation.) This ties the moon to the heart-letter — Beth = house = heart.
 - **Marian theology** — the Assumption and Coronation of the Virgin (the Daughter, become the Bride, enthroned as the Mother); *La Conquistadora* / Queen of Heaven, repurposed in [[No. 1 Champion (la Conquistadora)]].
 - **Hermetic / Golden-Dawn Tarot** — the light-finale **Star → Moon → Sun** (XVII reflection's herald → XVIII reflection/illusion, the last deception → XIX true light). Kept stream-separate from the Jewish-Lurianic material.

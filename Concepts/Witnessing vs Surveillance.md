@@ -17,7 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 **Where it enters**
 
-* The Hebrew אל ראי (El Roi, "the God who sees me") is inked on [[Sir Lucius]]'s throat, visible in the video stills, while the [[Not Your Homie]] lyric insists *"you don't know me."*
+* The Hebrew אל ראי (El Roi, "the God who sees me") is marked on [[Sir Lucius]]'s throat, visible in the video stills, while the [[Not Your Homie]] lyric insists *"you don't know me."*
 * [[Online]] (2022, on *33*) names it outright, *"they know my every step / they infiltrate my brain,"* wrapped in a grinning consumer earworm.
 * The *Online* browser gate asks you to enable your camera, then cover the lens with your finger ("turn off the lights") to proceed. Be watched, then blind the watcher.
 
@@ -28,7 +28,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!lore]- The God who sees me
 > The witnessing pole has a scriptural anchor, and it is public scripture: Genesis 16:13, where Hagar, seen in the wilderness at her lowest, gives God the name *El Roi*, "the God who sees me." The mirror is already inside the scene: as she names him, she says she has now seen the one who sees her. The gaze that finds her does not gather data on her. It changes her. That is the whole doctrine in one verse: witnessing transforms the witnessed.
 >
-> And the work stakes a public claim on the name. Roy signs himself **"El Roy,"** on the *#1 Champion* visualizer caption and in other public posts, taking up the seeing position as a signature. Then the same name, in Hebrew, turns up inked on the throat of the character built out of watching. What that irony does is its own drawer, below.
+> And the work stakes a public claim on the name. Roy signs himself **"El Roy,"** on the *#1 Champion* visualizer caption and in other public posts, taking up the seeing position as a signature. Then the same name, in Hebrew, turns up marked on the throat of the character built out of watching. What that irony does is its own drawer, below.
 
 > [!reading]- The purest surveillance song
 > [[The Watchers]] (2024) interpolates Rockwell's 1984 "Somebody's Watching Me" (credited in the song's own paperwork) and twists the paranoia one notch further into clone-fear: *"I'm afraid I'm a clone,"* over a refrain that keeps gasping *"wake up."* The clone is the exact *output* of surveillance, a self shaped into a copy instead of witnessed into itself, and it is sung by the figure whose name (*El Roi*) promises the opposite gaze.
@@ -41,7 +41,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > Then the browser experience turns the doctrine into a rite you perform on yourself: the "Darkness_site" gate declares *"THE WHOLE WORLD IS WATCHING YOU BEHIND YOUR SCREEN,"* asks you to enable your camera, then to cover the lens with your finger to pass through. Both modes in one gesture: submit to being watched, then withdraw yourself from the watcher to proceed. The companion page, *pay-attention.jagwartwin.com*, deadpans the whole upload premise as satire, a failed influencer uploading his consciousness so a digital version can work the feed 24/7. By Roy's public account the surveillance-and-upload cosmology began as a joke with the dev team, which is exactly why it lands. Half solemn, half prank.
 
 > [!mask]- The watcher who cannot witness
-> [[Sir Lucius]] fuses both poles in one body: *El Roi* inked on the throat, *"you don't know me"* in the mouth. The name of true seeing worn on the very organ that insists no one sees him. **The machine that watches everything cannot witness anyone.** And the apparatus confesses itself: [[Welcome to the Circus]] stages the audience as the show's product (*"did you like the show?"*), and in the theatrical [[The Interview]] series (EP3) Lucius names the force behind it in three words, *"the algorithm, baby."* That is the story's canon, not autobiography.
+> [[Sir Lucius]] fuses both poles in one body: *El Roi* marked on the throat, *"you don't know me"* in the mouth. The name of true seeing worn on the very organ that insists no one sees him. **The machine that watches everything cannot witness anyone.** And the apparatus confesses itself: [[Welcome to the Circus]] stages the audience as the show's product (*"did you like the show?"*), and in the theatrical [[The Interview]] series (EP3) Lucius names the force behind it in three words, *"the algorithm, baby."* That is the story's canon, not autobiography.
 >
 > One reading goes deeper, and it is held as one way of seeing it: the eye is not the villain. Seeing is the *contested faculty*. With the heart in it, seeing becomes witnessing (Mary). Severed from the heart, it can only watch (Lucius). On this reading the Protector grew the eye in the first place: the child who was not seen ([[Brandon|Ballerina Boy]]) built an internal watcher to do the seeing no one did for him, and a watcher cut off from the heart can only ever watch. One eye, split by the heart.
 >

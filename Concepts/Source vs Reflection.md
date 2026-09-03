@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 * Roy's mirror statements, public since 2018: "I just want to be a mirror," "a song is a mirror," "we're all really mirrors to each other if we look." The premise, stated as practice.
 * The word count: tally every sung lyric and "I" (492) narrowly beats "the" (485), with "you" (478) right behind. In most catalogues "the" wins this contest in a walk; here the mirror is the grammar of the songs, not just an image in them.
-* El Roi (אל ראי, "the God who sees me," Genesis 16:13), tattooed on Sir Lucius's throat: the reflection-figure wearing the name of the divine seer on the very throat that keeps insisting "you don't know me."
+* El Roi (אל ראי, "the God who sees me," Genesis 16:13), marked on Sir Lucius's throat: the reflection-figure wearing the name of the divine seer on the very throat that keeps insisting "you don't know me."
 
 That is the surface, and it stands on its own. The drawers below go one reading deeper at a time.
 
@@ -28,7 +28,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > [!map]- The quiet part, said out loud
 > The project is, almost on the nose, a hall of mirrors. The band name, Jagwar Twin, the paired self facing itself, is one. The web3 ARG at mirrors.jagwartwin.com is another. And the mirror statements are not stray poetry; Roy repeats them across years and formats, alongside "Jagwar Twin is a collective consciousness."
 >
-> Two tattoos carry the frame on skin. Sir Lucius wears El Roi at the throat. Roy wears The Empty Mirror at the wrist, and glosses it as "about looking at yourself in the mirror and seeing nothing."
+> Two markings carry the frame, and they are not the same kind of thing. Sir Lucius wears El Roi at the throat as part of the mask (the balance of the evidence reads it as makeup, not ink on Roy's body). Roy wears The Empty Mirror at the wrist as an actual tattoo, and glosses it as "about looking at yourself in the mirror and seeing nothing."
 >
 > The feed keeps circling the same shape: "no thing ever creates another thing" (February 2022, later meeting a "no-thing" solve inside the ARG); "Nothing is evil in the beginning"; "the brightest lights cast the deepest shadows"; and a Dion Fortune quote-card Roy posted, "the shadow is not evil. It is power unrecognized and therefore misused." Whatever the reflection becomes, its origin is kept not-evil, on the record.
 
@@ -86,7 +86,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > The heavy scaffolding, the sun-and-moon map on the Tree, the vessel-grammar and the shard that forgot it was a shard, the two kinds of nothing, the mirror as mechanism, the doubles benign and dangerous, the creation myth, the cards, lives one floor down, dense on purpose: [[Source vs Reflection — The Deep End]]. The page you are on stands without it.
 
 > [!receipts]- Sources and confidence
-> Grounded in public acts: the mirror statements (2018 interviews); the Jagwar Twin name and the Hall of Mirrors ARG; the [[Long Time Coming]] mirror lyric and the [[Shine]] writing-story; the credited Chaplin interlude; the El Roi and Empty Mirror tattoos, with Roy's gloss on the latter; the pronoun counts (a hand tally of every sung lyric, re-derivable from the released records); the *Jagwar Twin & Sir Lucius* album co-credit; the Ballerina Boy spoken outro and its standalone June 2025 release; the credited "Somebody's Watching Me" interpolation; "no thing ever creates another thing"; the Dion Fortune card and the X aphorisms; Roy at the heart and Lucius at the mind, from his relayed character fundamentals.
+> Grounded in public acts: the mirror statements (2018 interviews); the Jagwar Twin name and the Hall of Mirrors ARG; the [[Long Time Coming]] mirror lyric and the [[Shine]] writing-story; the credited Chaplin interlude; Lucius's El Roi character marking and Roy's Empty Mirror tattoo, with Roy's gloss on the latter; the pronoun counts (a hand tally of every sung lyric, re-derivable from the released records); the *Jagwar Twin & Sir Lucius* album co-credit; the Ballerina Boy spoken outro and its standalone June 2025 release; the credited "Somebody's Watching Me" interpolation; "no thing ever creates another thing"; the Dion Fortune card and the X aphorisms; Roy at the heart and Lucius at the mind, from his relayed character fundamentals.
 >
 > Strong readings, labeled where they stand: calling this the catalogue's master key; transmit-versus-substitute and the three gears (the guide's synthesis of the mirror material, not a code Roy supplied); reflection-to-radiance on the debut; the two brightnesses; the you-draining read of the late record; SOL as the signal the image-machine cannot absorb; the crowned-mirror-still-mirrors read of Lucius's inconsistency.
 >

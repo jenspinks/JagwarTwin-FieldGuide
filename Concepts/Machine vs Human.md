@@ -25,7 +25,7 @@ source_basis:
 
 * [[Superhuman (Interlude)]] (2018): a 22-second interlude that samples, verbatim and credited, the closing speech of Chaplin's *The Great Dictator* (1940), setting "the power to create machines" right beside "the power to create happiness," both named as gifts of the people.
 * [[The Interview]] EP3: Lucius claims [[Welcome to the Circus]] on camera, "the algorithm baby," the only moment the Circus's authorship is confessed on camera.
-* Roy signs himself "El Roy," and the Hebrew name it plays on, *El Roi*, "the God who sees me" (Genesis 16:13), is tattooed on Lucius's throat.
+* Roy signs himself "El Roy," and the Hebrew name it plays on, *El Roi*, "the God who sees me" (Genesis 16:13), is marked on Lucius's throat.
 
 That is the surface, and it stands on its own. The drawers below go one reading deeper at a time.
 
@@ -53,7 +53,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > Across the catalogue the machine keeps moving closer: Chaplin's machine is a dictator with a loudspeaker, external and visible; the *33* machine is the feed that adapts to you, ambient and invisible; and in this guide's arc, the machine stops being weather and takes a passenger seat in [[Good Time (1-08)|Good Time (1:08)]], then carries full album billing on [[Lucius Lullaby (album)|Lucius Lullaby]]. That single continuous escalation is this guide's synthesis, not settled history; only the Chaplin seed is on paper. The staged version, with the horror it ends on, is in the Deep End.
 
 > [!mask]- Watched is not seen
-> Roy signs himself **El Roy** on the #1 Champion visualizer, and Lucius wears *El Roi* (אל ראי) tattooed on his throat: "the God who sees me," the name Hagar gives God in the wilderness (Genesis 16:13). There is no plausible road to that signature that does not run through that name; what the play *means* is the part held a shade more loosely.
+> Roy signs himself **El Roy** on the #1 Champion visualizer, and Lucius wears *El Roi* (אל ראי) marked on his throat: "the God who sees me," the name Hagar gives God in the wilderness (Genesis 16:13). There is no plausible road to that signature that does not run through that name; what the play *means* is the part held a shade more loosely.
 >
 > Here is this guide's working model of the difference the pair points at: **surveillance gathers data; witnessing transforms the witnessed.** Being watched-and-ranked is the machine's counterfeit of being seen-and-loved, and a counterfeit is more dangerous than an absence, because it answers the real hunger with a fake. The algorithm does not know you. It knows how to shape you. And the irony is inked onto the antagonist: the God who sees, carried on the very throat the machine's face speaks through. The full pairing gets its own page at [[Witnessing vs Surveillance]].
 
@@ -73,7 +73,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > The heavier scaffolding, the full Hermetic key, the escalation staged out, the surveillance theology, the Demiurge, the Flood reading, the kingdom-within substrate, lives one floor down, dense on purpose: [[Machine vs Human — The Deep End]].
 
 > [!receipts]- Sources and confidence
-> Grounded in public acts: the Chaplin sample on [[Superhuman (Interlude)]] is verbatim, and Apple Music's composer field credits Charles Chaplin; "the mind divorced from the heart" is published LOOP-era phrasing; "the algorithm baby" is on camera in [[The Interview]] EP3; "the Algorithm" is Roy's own diagnostic term (his Manifesto's *feeling → algorithm* substitution, echoed by the board's Kybalion Rhythm line); the *El Roy* signature and the *El Roi* throat tattoo are public; "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* card and the Kybalion is transcribed on the I'm 33 board; the spider-web framing of [[Online]] is public commentary; the Gurdjieff quote-card and the Jung page are public posts.
+> Grounded in public acts: the Chaplin sample on [[Superhuman (Interlude)]] is verbatim, and Apple Music's composer field credits Charles Chaplin; "the mind divorced from the heart" is published LOOP-era phrasing; "the algorithm baby" is on camera in [[The Interview]] EP3; "the Algorithm" is Roy's own diagnostic term (his Manifesto's *feeling → algorithm* substitution, echoed by the board's Kybalion Rhythm line); the *El Roy* signature and the *El Roi* throat marking are public; "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* card and the Kybalion is transcribed on the I'm 33 board; the spider-web framing of [[Online]] is public commentary; the Gurdjieff quote-card and the Jung page are public posts.
 >
 > Strong readings: the severing, not the machine, as the antagonist; the single continuous escalation from Chaplin to Lucius; the as-above-so-below reading of machine-vs-human as heart-and-mind one scale up; surveillance as the counterfeit of El Roi; Lucius as the machine's best student rather than the machine.
 >

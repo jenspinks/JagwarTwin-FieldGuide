@@ -20,7 +20,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 Played straight, it's a custody battle over a catalog. *"You mean OUR music?"* Lucius asks in EP1, and from there the two of them fight — episode after episode — over authorship, over money, and over one song Roy keeps trying to release that Lucius keeps shutting down. The comedy is real (Lucius cues up chart-toppers by pressing a browning banana like a play button) and so is the menace (by EP6 he simply has Roy kidnapped). It is the closest thing the project has to a narrative, and dozens of songs land differently once you've watched it.
 
-The set never changes much: an underground garage in greenish light, a small altar-table between two chairs, a fruit bowl of green apples and bananas, two red candles, an Egyptian statue tucked underneath, Tree-of-Life pillars, and a moon-like light hung over each shoulder. Lucius wears white clown makeup, a rabbit-eared hat, and the Hebrew tattoo *El Roi* on his neck. He is almost always smoking. The DJ is only ever a voice.
+The set never changes much: an underground garage in greenish light, a small altar-table between two chairs, a fruit bowl of green apples and bananas, two red candles, an Egyptian statue tucked underneath, Tree-of-Life pillars, and a moon-like light hung over each shoulder. Lucius wears white clown makeup, a rabbit-eared hat, and the Hebrew marking *El Roi* on his neck. He is almost always smoking. The DJ is only ever a voice.
 
 > [!warning] A note on who's talking
 > Lucius speaking is **not** Roy speaking. This is theatre — a character voicing a character. *"In EP3 Lucius says X"* is the honest way to read it, not *"Roy admits X."* The drama is the argument, not a confession.
