@@ -66,6 +66,10 @@ A few claims cut across the whole song.
 - **La Conquistadora** — *Our Lady of the Conquest*, a real Marian title (the oldest Marian statue in the United States, venerated in Santa Fe). The militarized Madonna the song hands to Mary, gun in hand.
 - **Credited humans, not ciphers** — **MERCY** (Mercedes Colletta Britton) and **Cici Ward** sing real backing vocals here (Cici Ward is also a co-writer); **tony esterly** co-wrote and co-produced; **Dan Adams** played the violin and viola under the string arrangement. Real collaborators, not symbolic figures.
 
+## Inheritance reduced to appraisal
+
+The lyric puts *blue jeans* and *good genes* inside the narrator's appraisal of Mary. On the [[Concepts/Inherited Substrate#Ascent and inheritance|inheritance reading]], a living lineage has become another desirable feature to assess. Lucius's commerce taunt during this first verse in The Interview EP7 reinforces that reading; its alignment with the exact word *genes* is not established by the held record. The jeans/genes flirtation also works as a plain joke. Unlike David Star, this song supplies no ladder, so the comparison concerns what happens to inheritance, not a hidden Jacob reference.
+
 ## Artifacts
 
 **QUEEN BINAH** · `TEETH OF A WHALE` — This is the clearest named-Mary song, and its central image, 'Saw a halo but I didn't see a head,' is the faceless divine-feminine whose theological seat this guide identifies as exactly this artifact's Binah… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)

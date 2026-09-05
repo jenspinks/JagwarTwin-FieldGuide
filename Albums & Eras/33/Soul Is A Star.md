@@ -80,6 +80,10 @@ There's a bittersweet coda Roy offered in the same interview, and it's a rare on
 - **The dark father** (*"Papa… playin' God behind the scenes"*) — read as the **star-maker / industry patriarch**, the one who made-and-exploited her — *not* a literal parent, and not Roy's mother.
 - **[[The Crowd]] / The Thieves** — the fame-machine that hands out *"Fame and Power"* in place of *"Love."*
 
+## Inheritance and the living star
+
+The father keeps a lost son's verse audible, while the girl's *genes* carry a bullet. Inheritance can transmit a voice and a wound. In [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations|David Star]], the remembered sparks become constellations that continue to guide generations. Reading the two together gives the living star a function: relationship can continue through loss. It does not establish the poem as the song's source. [[Concepts/Inherited Substrate#Ascent and inheritance]] holds the fuller comparison, including the different roles of Online and the father's-shoes haiku.
+
 ## Artifacts
 
 **ROY DRAWING RELIGIOUS ORGANISM (REJECTED ALBUM ART)** · `HOW TO STEER THE SOUL` — The artifact enshrines a soul as a luminous icon in a colored ring on a starfield, the visual literalization of the song's sole repeated lyric 'Your soul is a Star'; the code 'HOW TO STEER THE SOUL' is the o… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
@@ -97,7 +101,7 @@ There's a bittersweet coda Roy offered in the same interview, and it's a rare on
 **BASICALLY & POTENTIALLY** · `EVERY HUMAN BEING IS A STAR` — The refrain "Your soul is a Star" makes the same claim the artifact draws and its code states, and the Soul Is A Star essay already ties sibling star-artifacts (David Star, Religious Organism) to this exact… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84c56ca2073a6cace80a1c6d0a3d0474ae2440ca8345332d95da28141e4fcc2e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x84c56ca2073a6cace80a1c6d0a3d0474ae2440ca8345332d95da28141e4fcc2e..png" width="200"></a>
 
-**DAVID STAR** · `TWISTED LADDER` — The artifact's central image — a soul/spark cast down into The Deep that ascends to become a star/constellation — is the literal picture behind 'your soul is a star,' matching the song's descending-then-reme… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**DAVID STAR** · `Twisted Ladder` — The father keeps a lost son's verse audible, while the girl's *genes* carry a bullet. Inheritance can transmit a voice and a wound. In [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations|David Star]], the remembered sparks become constellations that continue to guide generations. Reading the two together gives the living star a function: relationship can continue through loss. It does not establish the poem as the song's source. [[Concepts/Inherited Substrate#Ascent and inheritance]] holds the fuller comparison, including the different roles of Online and the father's-shoes haiku.
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="200"></a>
 
 **STARDUST** · `VIBES` — The title STARDUST names two ordinary humans with the song's star-doctrine ("Because your soul is a Star"), whose grounded anchor is the Joni Mitchell Woodstock writer credit, the song famous for "we are sta… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)

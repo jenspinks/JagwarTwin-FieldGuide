@@ -65,6 +65,10 @@ A few claims that cut across the whole myth.
 - [[Jagwar Twin]] — the project named for the myth's made-and-divided creatures.
 - [[Sir Lucius]] — present only in the *"empires"* and the *"kings"* who persuade the Jagwars they can't sing; later re-sings the myth, distorted, as the [[The Circle (Lucius Version)|Lucius Version]].
 
+## Remembrance across generations
+
+The song hidden inside wings survives kings who insist the creatures cannot sing. In [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations|David Star]], forgotten sparks remember, climb, and continue to guide generations. The shared operation is recovery of a relation that suppression failed to destroy. The song turns inward; the poem moves upward. Those differences make the comparison more useful than calling their engines identical. See [[Concepts/Inherited Substrate#Ascent and inheritance]] for the transmission argument and its limits.
+
 ## Artifacts
 
 **ROY POEM WALKING THE EDGE OF A KNIFE** · `INSIDE OF THE INSIDE` — The unlock code INSIDE OF THE INSIDE is verbatim the repeated refrain of The Circle ("the inside of the inside must be where you go"), and the poem's line "turn back the stone / From the inside" restates the… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
@@ -82,7 +86,7 @@ A few claims that cut across the whole myth.
 **ROY UNIDENTIFIED SKETCH** · `KEM` — The caption "Inside of the inside," written over a giant jaguar head whose open mouth is a pyramid-temple's front door, is verbatim from The Circle's refrain ("the inside of the inside must be where you go"), the drawing giving the refrain an actual doorway to walk thro… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2da3b5d407a32ab61b91199bb55c7844f91e2b0a7f5c39bbd6227e233792b24d..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2da3b5d407a32ab61b91199bb55c7844f91e2b0a7f5c39bbd6227e233792b24d..jpeg" width="200"></a>
 
-**DAVID STAR** · `TWISTED LADDER` — The poem's engine is identical to The Circle's doctrine: a divine spark hidden inside creation must remember and ascend back to the source (tikkun) — the sparks climbing the twisted ladder to become constell… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**DAVID STAR** · `Twisted Ladder` — The song hidden inside wings survives kings who insist the creatures cannot sing. In [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations|David Star]], forgotten sparks remember, climb, and continue to guide generations. The shared operation is recovery of a relation that suppression failed to destroy. The song turns inward; the poem moves upward. Those differences make the comparison more useful than calling their engines identical. See [[Concepts/Inherited Substrate#Ascent and inheritance]] for the transmission argument and its limits.
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="200"></a>
 
 **THE CIRCLE** · `THE GREAT JAGWAR` — This is the MINT BURIED song-mint of 'The Circle' (33 closer, minted 02-10-23), and its unlock code 'THE GREAT JAGWAR' names the song's feminine maker-Jagwar who holds the world on a string — the tie is defi… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)

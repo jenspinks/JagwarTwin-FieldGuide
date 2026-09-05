@@ -328,3 +328,8 @@ So the board minted its own punchline, and the joke has a floor under it. A **bi
 **Where this leads:** [[Concepts/The Pattern]] · [[SOL]] · [[Concepts/The Empty Mirror]] · [[Concepts/The Aquarium]] · [[Concepts/Consumption]] · [[The Circle]] — and the machinery beneath all these pictures, back in [[#The Source Code]].
 
 </details>
+
+
+## Related ladder reading
+
+The DNA/ladder comparison at [[Concepts/Inherited Substrate#Ascent and inheritance]] connects the *Twisted Ladder* poem, Online and the father's-shoes haiku. It concerns inherited movement; it does not identify the board's distinct ladder objects as one image.

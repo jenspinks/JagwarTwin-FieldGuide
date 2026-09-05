@@ -200,7 +200,7 @@ One of the maze's bestiary: animals standing in for the powers, each on its own 
 
 This picture already hangs in the public galleries. It was opened in August 2022 with `In My Fathers Shoes`, no apostrophe.
 
-`In my Father's Shoes` **with** the apostrophe is a different string, so it is a different door — and it opens onto the same photograph.
+`In my Father's Shoes` **with** the apostrophe is a different string, so it is a different door — and it opens onto the same tweet screenshot. Its DNA-marked last line connects inherited role and embodied movement; see [[Hall of Mirrors/Artifacts - Poems, Texts and Social Posts#The father's shoes and inherited movement]] for the reading. These two code forms do not create two independent witnesses.
 
 That sounds like an accident and it is worth understanding as a feature of how the maze is built. Doors are keyed by the exact characters you type; artifacts sit behind doors. So one artwork can have more than one way in, and two people can each find "a new room" and arrive at the same picture. Four rooms on this page work that way.
 

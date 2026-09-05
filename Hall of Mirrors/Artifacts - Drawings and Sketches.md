@@ -150,7 +150,13 @@ And held against the rest of the gallery, the recipe stops being a curio and bec
 ### #84 · David Star — "Where The World Was Crossed" · `TWISTED LADDER`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x37cd1eeaaf9f8bd4b8e21ee77773176d3e592551063d473f6a3c4f9cc763b39e..png" width="320"></a>
 
-A watercolour of a pale sea-dragon rising from dark water, with the full poem *"Where The World Was Crossed"* on an overlaid card. It is a bedtime-story retelling of Lurianic Kabbalah: a Prince *"dreamed of worlds and kept them in his crown,"* a storm scatters *"the Kings And Queens Of Time"* as sparks into *"The Deep,"* the *"Great Dragon Of The Sea"* is trapped in *"The Well,"* and the sparks climb a ladder to become the constellations before the Prince *"woke up like the Sun."* The code *"TWISTED LADDER"* names both the ladder of ascent and the double helix of DNA, while the title *"David Star"* names the hexagram where descent and ascent interlock. This is the whole broken-vessels engine, sparks fallen into the shells and the long climb back to reunion, told as a lullaby.
+#### David Star: ascent and generations
+
+A watercolour of a pale sea-dragon with *Where The World Was Crossed* on an overlaid card. Its Prince dreams worlds; Kings and Queens become sparks hidden under shells, then remember, climb a ladder he twisted, make new constellation homes, and continue to guide generations. The code is `Twisted Ladder`.
+
+The sequence reads strongly through the breaking-of-the-vessels tradition: forgetting and enclosure give way to remembrance and renewed relationship. The ending matters because ascent does not make the sparks irrelevant to the world below. Their guidance continues. The DNA double helix and Jacob's ascent form a further, supported comparison, developed at [[Concepts/Inherited Substrate#Ascent and inheritance]]. That reading joins the poem's generations to Online's ladder/DNA placements and the father's-shoes haiku; it is not something the code alone proves.
+
+For [[Soul Is A Star]], the consequence is a living star that still carries a voice through loss. For [[The Circle]], it is remembrance of something suppression did not destroy. The first song transmits a verse, the second recovers a hidden song, and this poem sends its remembered sparks upward. Their operations rhyme without becoming identical. The poem also works as a dream or ancestral-guidance story without a DNA reference.
 **Connects to →** [[Soul Is A Star]] · [[The Circle]] · [[Concepts/Keilim - The Breaking of the Vessels]] · [[Kabbalah - The Tree of Life]]
 
 ## Portraits & personal

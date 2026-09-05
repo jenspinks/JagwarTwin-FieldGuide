@@ -77,7 +77,11 @@ A deliberately childlike pencil sketch captioned *"I was Sleeping on Carrot Juic
 ### #115 · EVERYBODY'S GOING TO SPACE NOW · `IN MY FATHERS SHOES`
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdb550140abb22b9a60137552fcc372fb17cde2c54909bd0729a3da78b6c85121..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xdb550140abb22b9a60137552fcc372fb17cde2c54909bd0729a3da78b6c85121..jpg" width="300"></a>
 
-A self-referential piece: a screenshot of Roy's own tweet (11/28/21), a three-line haiku, *"Midnight crows above 🐓 / One mask hanging on a tree 🌲 / In my fathers shoes 🧬,"* whose third line *is* the room's unlock code, so once again the clue and the prize are the same object. The date is quietly telling, showing Roy dropping a future room code into a casual tweet well over a year before the gallery opened. Thematically the line carries the father-and-lineage thread, the DNA emoji making *"in my fathers shoes"* into literal inheritance, stepping into the father's role, set against the recurring mask motif and a midnight-crow omen. The room title *"Everybody's Going to Space Now"* is not a released song; it is the artifact's own name.
+#### The father's shoes and inherited movement
+
+A screenshot of the November 28, 2021 tweet: *Midnight crows above* with a rooster, *One mask hanging on a tree*, and *In my fathers shoes* with DNA. The last line also keys the room, so the clue is preserved as its own artifact. This dates the tweet about eight and a half months before the August 2022 mint window, not more than a year.
+
+The last line reads as inherited embodiment: the speaker finds himself inside something made for a father. Its DNA glyph connects that role to heredity, while the mask is something that can hang outside the body. That difference matters to [[Concepts/Inherited Substrate#Ascent and inheritance|the ladder/DNA cluster]]: the haiku supplies inherited footing, Online supplies tracked steps, and David Star supplies ascent that continues as guidance. The haiku does not mention a ladder. The rooster makes *crows* an action, so a crow-omen reading should not be treated as an observation.
 **Connects to →** [[Hall of Mirrors]] · [[The Mask]] · [[Roy]]
 
 ### #130 · INCOMING TEXT (JB) · `F876`

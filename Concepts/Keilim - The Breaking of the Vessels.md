@@ -24,7 +24,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * The 2026 post: *"Done being a person. I'm just a vessel for God."* The self as conduit rather than author, in Roy's public voice.
-* The solved Hall of Mirrors poem *David Star, "Where The World Was Crossed"* (code `TWISTED LADDER`): the Kings and Queens of Time thrown down as sparks into "The Kingdom Of The Shells," then climbing a twisted ladder to become the constellations. The one place the doctrine appears whole, authored.
+* The solved Hall of Mirrors poem *David Star, "Where The World Was Crossed"* (code `TWISTED LADDER`): the Kings and Queens of Time thrown down as sparks into "The Kingdom Of The Shells," then climbing a twisted ladder to become the constellations. The printed sequence is a substantial anchor for the reading, not a stated doctrinal attribution.
 * The verified [[City of Angels]] contrast: "City of *Light*," singular, against "live forever in the bright *lights*," plural. Read in this register, the One Light scattered into many, a strong reading standing on a grounded lyric.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
@@ -38,8 +38,10 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > The full cosmic sequence, names and all, lives in the Deep End.
 
-> [!map]- Written out in his own hand
-> The single strongest public anchor is not a word read into a shape; it is the shape itself, authored. In *David Star* a Prince *"dreamed of worlds and kept them in his crown"*; a storm throws *"the Kings And Queens Of Time"* down as sparks into *"The Deep,"* into *"The Kingdom Of The Shells"*; and the sparks climb the twisted ladder to become the constellations before the Prince *"woke up like the Sun."* Everywhere else on this page the doctrine is inferred from a word here, an image there. Here it is the whole broken-vessels engine told as a lullaby.
+> [!map]- Staged in the poem
+> A substantial public anchor is the poem’s printed sequence. In *David Star* a Prince *"dreamed of worlds and kept them in his crown"*; a storm throws *"the Kings And Queens Of Time"* down as sparks into *"The Deep,"* into *"The Kingdom Of The Shells"*; and the sparks climb the twisted ladder to become the constellations before the Prince *"woke up like the Sun."* Everywhere else on this page the doctrine is inferred from a word here, an image there. Here the broken-vessels comparison rests on a sustained narrative of shells, remembrance, and ascent. It remains interpretation.
+>
+> The ladder/helix interpretation adds inherited movement to this repair reading; its distinct evidence and limits are at [[Concepts/Inherited Substrate#Ascent and inheritance]].
 >
 > Look hard at the ending, because it is this page's strongest model of repair. The sparks do climb, and they do arrive. But they are never poured back into one undivided vessel. They become a *constellation*: distinct lights held in a pattern, the tension kept rather than collapsed. Repair as relation, not merger. (Threads straight into [[Soul Is A Star]] and [[The Circle]].)
 
@@ -72,7 +74,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > The heavy machinery behind this page, the full Lurianic sequence, the stream-by-stream map, the board's little cosmogony, the contraction doctrine, the individuation reading, the pieces thread, the inheritance and communal-repair readings, the container typologies, and the ways this lens could be wrong, lives in [[Keilim - The Breaking of the Vessels — The Deep End]]. Dense and speculative by design. The page you are on stands without it.
 
 > [!receipts]- Sources and confidence
-> Grounded in Roy's public voice and solved artifacts: *"I'm just a vessel for God"* (2026 post); the sterile-banana Instagram gloss; the verified City of Angels "City of Light" / "bright lights" contrast; SOL introduced as the Song of Love in The Interview EP2; *"my mind must serve my heart"* in the public LOOP lore; *"reclaim your crown"* in the *33* release-window statement; the "in pieces, looking for pieces of one piece" IG Live; the board's own naming of the Tree of Life; the Tree seating Roy has given directly (Roy at Netzach, Lucius at Hod); and the solved *David Star* poem, the one authored telling of the whole myth.
+> Grounded in Roy's public voice and solved artifacts: *"I'm just a vessel for God"* (2026 post); the sterile-banana Instagram gloss; the verified City of Angels "City of Light" / "bright lights" contrast; SOL introduced as the Song of Love in The Interview EP2; *"my mind must serve my heart"* in the public LOOP lore; *"reclaim your crown"* in the *33* release-window statement; the "in pieces, looking for pieces of one piece" IG Live; the board's own naming of the Tree of Life; the Tree seating Roy has given directly (Roy at Netzach, Lucius at Hod); and the solved *David Star* poem, the poem that most fully stages the sequence used in this reading.
 >
 > Strong reading, and the page's governing lens: that these should be read in the breaking-of-the-vessels register at all. *"Vessel"* is devotional on its face; the Lurianic specificity comes from the wider pattern plus *David Star*, not from the word alone. The scattered-sparks reading of City of Angels, the SOL-as-uncontained-light reading, and the split-as-broken-vessel reading are all interpretation built on grounded anchors.
 >
