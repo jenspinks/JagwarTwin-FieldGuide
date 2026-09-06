@@ -69,7 +69,7 @@ Room 2's sound sits in the *"Illumination"* realm. The title is the White Knight
 
 ### 4 · O (444DEMO)
 
-An unreleased demo called *O*, filed in the Hall's time realm (*"Time Garden"*). The one-letter title is already a drawing: *O* is a circle. And the code confirms it, `ENSO` is the Zen circle painted in a single unbroken brushstroke, which turns up on Roy's board as *"Enso — Tell Us Who You Are,"* wholeness and mirror in one mark. So a circle-named song sits in the time realm keyed by the symbol of the whole, which is about as on-message as this cosmology gets. The *"444"* almost certainly nods to Roy's documented habit of tuning Jagwar Twin songs to 444 Hz as a *"healing frequency,"* marking this as a tuned sketch rather than a dated one.
+An audio leaf stored as *O (444demo)*, filed in the Hall's time realm (*"Time Garden"*). The one-letter title is already a drawing: *O* is a circle. And the code confirms it, `ENSO` is the Zen circle painted in a single unbroken brushstroke, which turns up on Roy's board as *"Enso — Tell Us Who You Are,"* wholeness and mirror in one mark. So a circle-named recording sits in the time realm keyed by the symbol of the whole. The *"444"* may nod to Roy's documented 444-Hz language `[W]`, but a filename is not a frequency measurement: the leaf's exact tuning, version, and master remain open.
 **Connects to →** [[Happy Face]] · [[Hall of Mirrors]] · [[The Circle]] · [[Roy]]
 
 ### 5 · HELLO, ATTENTION (µå®∂¨˚)

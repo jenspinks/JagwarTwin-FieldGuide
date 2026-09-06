@@ -203,7 +203,7 @@ A photogrammetric scan of a human head-and-shoulders: a triangulated mesh face t
 
 ### 144 · IMAGINE A WORLD
 
-A translucent, membrane-textured form, clear rippling plastic with red edging, churns and hangs over a red desert canyon, the whole frame bordered in the album's signature red. This is the mint room for *Imagine A World*, track 9 of *33*, so the code is just the song's title. The song is the album's capstone before the closer, an *"imagine it, create it"* invitation that lands on Eden relocated inside the self (*"look inside you'll see it… you just gotta conceive it"*), and the title also names the board's final rung, *"10. The World"* (Malkhut, the kingdom-within), so it works as a lyric and as a Tree-of-Life key at the same time. The half-formed membrane over raw desert reads as creation caught in progress: a world being conceived out of formless matter, the picture-version of *"believe, then conceive."*
+A translucent, membrane-textured form, clear rippling plastic with red edging, churns and hangs over a red desert canyon, the whole frame bordered in the album's signature red. This is the mint room for *Imagine A World*, track 9 of *33*, and its code is simply the song's own title. The song's creation language can be read beside the board's final rung, *"10. The World,"* as a thematic rhyme `[W]`; that does not make this song the Tree diagram's key or endpoint. The exact neighboring relay is different: `Genesis Tree Code` opens the *Another Way II Heaven* mint. The half-formed membrane over raw desert may read as creation caught in progress, a world being conceived out of formless matter.
 **Connects to →** [[Imagine A World]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Upload]] · [[Roy]]
 
 ### 145 · THE CIRCLE

@@ -251,7 +251,7 @@ The last line reads as inherited embodiment: the speaker finds himself inside so
 
 ### 116 · EVERYBODY'S GOING TO SPACE NOW
 
-An unreleased recording filed under *"Concealed Generations"* and self-keyed by its title. It has now been checked by ear, and it is not a song or a billionaire-space-race joke. It is a conversation. An unnamed man opens by describing the wish to be *"special and unique … and elite"*; Roy's first-person response begins later with his admission that a drive for praise and approval helped lead him into music and made him lose his way.
+An unreleased recording filed under *"Concealed Generations"* and self-keyed by its title. It has now been checked by ear, and it is not a song or a billionaire-space-race joke. It is a conversation. An unnamed man opens by describing the wish to be *"special and unique … and elite"*; a second speaker begins later with the admission that a drive for praise and approval helped lead him into music and made him lose his way. The transcript and speaker change are grounded `[G]`; identifying that second voice as Roy remains the current attribution `[W]`.
 
 The discussion contrasts proving personal greatness with helping make something possible for others and believing in what people can do together. **Status versus service is a strong guide reading `[W]`, not the transcript's own formal doctrine.** Its image twin, keyed by `IN MY FATHERS SHOES`, adds an inheritance relation; whether the recording names what inherited ambition is spent on remains a comparison rather than fact.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
