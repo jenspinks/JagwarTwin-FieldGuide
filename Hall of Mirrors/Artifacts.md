@@ -63,6 +63,8 @@ Three honest limits, because a rule that can't say what it *doesn't* prove isn't
 - **A pattern noticed afterward is a reading, not a fact about intent.** The [[Artifacts - The Wiring Diagram|wiring diagram]] says it best: the titles and codes are Roy's soldering, but the order things were solved, and the tidy shape a finished map takes in hindsight, tell you about the map-readers, not the maker.
 - **Some objects are debris, and that's allowed.** See the banana rule below. The artifacts can discipline interpretation precisely because not all of them are doctrine; treating every object as scripture is the same mistake as ignoring them, wearing robes.
 
+One more limit follows from the way the Hall cuts things up. A crop, an alias, or a second door can remain a distinct room with its own name and code, but repeated pixels do not become independent corroboration. Several rooms are fragments of larger notebook pages, so part of the reading is reconstructive: put the pieces back beside their parent sheet, then notice what changed when one region was isolated and given a door of its own.
+
 So when any page here makes a claim about the mythology, the artifacts are the check. A reading that survives contact with the objects gets stated with more confidence. A reading that has to argue around them was probably wrong. This section is where you can watch that test being run.
 
 ## How to read this section
