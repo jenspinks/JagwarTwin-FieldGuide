@@ -38,7 +38,7 @@ The pivotal episode. Roy brings his favorite song he's ever written — *The Son
 ▶ https://www.youtube.com/watch?v=xCwa3S7P8Jk
 
 **EP3 — Welcome to the Circus** · released January 5, 2026
-The hit worked, and Lucius is insufferable about it — admiring the new wardrobe the money bought, noting that Roy can now afford to dress "like a… yeti." He mocks Roy's lowest-streaming, most vulnerable song (*"Ballerina Boy. When you're vulnerable you LOSE!"*), overrides *The Song of Love* a second time, and bananas up [[Welcome to the Circus]]. When Roy asks what happened to music made from the soul, Lucius delivers the thesis of the whole series: *"The algorithm, baby."*
+The hit worked, and Lucius is insufferable about it — admiring the new wardrobe the money bought, noting that Roy can now afford to dress "like a… yeti." Roy only **names** *The Song of Love* here; Lucius prevents the principle behind it from getting any farther. Roy says music should come from the soul and be vulnerable. Lucius answers with Roy's lowest-performing vulnerable song (*"Ballerina Boy. When you're vulnerable you LOSE!"*), invokes *"hundreds of millions of streams,"* offers *"another hit,"* and bananas up [[Welcome to the Circus]]. When Roy asks what happened to music made from the soul, Lucius delivers the thesis of the whole series: *"The algorithm, baby."*
 ▶ https://www.youtube.com/watch?v=HqsTH99QcPk
 
 **EP4 — The Spoon (Weirdness)** · released February 17, 2026
@@ -57,6 +57,16 @@ The rollout turns to open warfare. Roy, having lost the wheel, tries to take the
 Lucius ties Roy to a chair, covers his eyes, and forces him to sit through the whole album while taunting him over it. The centerpiece is the **moth speech**, cheerful nihilism with the charm stripped off: *"If a moth mistakes a flame for a mating call and flies into the flame, so what? It just keeps the moth population down."* The one track he can't get through is *The Song of Love* — when it plays he gets agitated, has Roy taken out of the room, then sits alone and listens to it finish, visibly unsettled. The cruelty has a floor, and love is where it stops.
 ▶ https://www.youtube.com/watch?v=m0RHiBe9il0
 
+## What the interruptions perform
+
+EP2 and EP3 repeat one action at different depths. In EP2 Lucius stops the **song**: Roy performs SOL, Lucius shouts *"STOP!!!"*, and *Not Your Homie* takes its place. In EP3 he stops the **principle**: Roy says music should come from the soul and be vulnerable, and Lucius makes commercial performance answer him. Low streams become evidence against vulnerability; hundreds of millions of streams become evidence for Lucius; *"another hit"* replaces the song Roy was trying to defend.
+
+That distinction reaches backward into [[I Like to Party]]. Its kingdom-within bridge approaches *"People waking up to claim what's in them / Heaven is within your heart / you're the kingdom"* before *"We interrupt our program"* takes the channel and returns the track to the chorus. The program does not prove the inward claim false. It prevents the claim from finishing and decides what repeats.
+
+The Hall of Mirrors gives the opposite movement in *Blinking*, a 2021 Notes draft Roy filed under **Songs**. It follows music behind Fiddle, Strings, Player, Symphony Master, and thought until the chain lands on *"you inside yourself."* *Blinking* keeps asking what stands behind the performance; Lucius keeps making the performance statistics look like the final answer. Read together, the three works stage a struggle over **source custody**: whether a song returns through its mediators to soul, heart, and self, or whether the nearest successful system claims to be where its truth comes from.
+
+This is a structural connection, not a claim that the note caused the song or the later scenes. It also keeps the theatrical boundary intact: Lucius's argument is what the character performs in the story, not a confession by Roy.
+
 ## Connections
 
 - [[Sir Lucius]] — the shadow on the other side of the table; the series is the clearest portrait of him there is.
@@ -65,6 +75,8 @@ Lucius ties Roy to a chair, covers his eyes, and forces him to sit through the w
 - [[Welcome to the Circus]] — the algorithmic hit Lucius bananas up in EP3.
 - [[Lucius Lullaby (album)]] — the album this whole series exists to roll out.
 - [[SOL]] — *The Song of Love*; the tender song Lucius refuses, again and again, and the one he can't metabolize.
+- [[I Like to Party]] — the earlier song makes programmatic interruption part of the composition itself.
+- [[Concepts/Source vs Reflection]] — the cluster's analytical home: interruption as control over what gets to stand behind a song.
 - [[The Green Apple]] — Lucius's mark, sitting in the fruit bowl in every episode.
 
 ## Source notes
@@ -77,4 +89,6 @@ Everything here is grounded in public material: the seven theatrical episodes on
 - [[Lucius Lullaby (album)]] — the record the series is selling.
 - [[Welcome to the Circus]] — the song Lucius makes in EP3.
 - [[SOL]] — the refused song, and the floor under the cruelty.
+- [[I Like to Party]] — the broadcast interruption before Lucius turns it into theatre.
+- [[Concepts/Source vs Reflection]] — the *Blinking* / interruption / performance connection.
 - [[Roy]] — the other half of every conversation here.

@@ -45,6 +45,8 @@ That is the surface. Open a drawer below only for the deeper readings.
 > The problem is not knowledge itself. It is knowledge that remains detached: facts without integration, language without embodiment, and mind without relation to heart.
 >
 > The project often stages this problem near the throat and mouth, where what is inward must become voice. The Da'at/throat connection is a Hermetic-Qabalistic framework through which this pattern can be read, not a mapping Roy has publicly declared.
+>
+> Tree Thinking makes a second distinction easy to miss. Its drawing marks an upper `3 | 4` interface as *"Abyss In"* and the `9 | 10` interface as *"Abyss Out"*. William G. Gray's *The Ladder of Lights* calls the threshold between Malkuth and Yesod the **Inferior Abyss**, the passage between outer and inner awareness. That is a close source comparison for the lower opening, not proof of Roy's route. It also means the two marked interfaces should not be flattened into one generic Abyss.
 
 > [!reading]- All you gotta do is Juuuuump!
 > The clearest story of the crossing is the [[Sir Rabbit]] poem. Near the end, the seeker reaches "an edge below the Great Divide," and a golden-caped Spider tells him the way across is over the side and through the sun.
@@ -97,7 +99,7 @@ That is the surface. Open a drawer below only for the deeper readings.
 > [!question]- Where it stays open
 > Is the Abyss crossed once, or repeatedly?
 >
-> In the Thelemic framework, it is a decisive initiation: the surrender of the separate self and passage into another order of being. But Roy's "Abyss In / Abyss Out" may translate that great crossing into the recurring rhythm of a human life—descent, confrontation, integration, and return.
+> In the Thelemic framework, the upper Abyss is a decisive initiation: the surrender of the separate self and passage into another order of being. Roy's "Abyss In / Abyss Out" may translate threshold-crossing into the recurring rhythm of a human life—descent, confrontation, integration, and return—but Gray's separate Inferior Abyss gives the lower interface another live source model. The drawing does not tell us to choose only one.
 >
 > His language raises another question. If knowledge can leave someone "stuck in the abyss between worlds," how does that differ from the human being as the "in-between, animating Heaven and Hell"?
 >

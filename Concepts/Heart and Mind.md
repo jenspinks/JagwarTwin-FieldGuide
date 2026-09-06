@@ -44,6 +44,8 @@ That is the surface, and it stands on its own. Open a drawer below only for the 
 >
 > The placements lean on Roy's documented Kabbalah engagement, not on any claim that he built the catalogue on the Tree. Hold them as a map, not the map: the fuller pillar-grammar lives in [[Heart and Mind — The Deep End]], and the whole map on [[Kabbalah - The Tree of Life]].
 
+> A Hall of Mirrors card makes the translation problem unusually concrete. Its wording closely follows Gareth Knight's *A Practical Guide to Qabalistic Symbolism*: Netzach supplies force, while Hod gives that force a picture-form the mind can carry. The card itself says images are formed in mind; it does **not** say every image is false. Read beside Roy's heart-and-mind account, form is necessary — feeling needs a body before it can be spoken, sung, remembered, or shared. Trouble begins when the carrier claims to be the source. Applying that force/form pair to Roy-at-Netzach and Lucius-at-Hod is this guide's system reading, not a character equation written on the artifact.
+
 > [!descend] The Deep End
 > The heavier apparatus behind this page, the Sun at the center, the shattered vessels and their repair, Beth crowned king over Wisdom, the labours of Hercules, the third voice in full, the cast with all its labels showing, lives in [[Heart and Mind — The Deep End]]. Dense by design. The page you are on stands without it.
 

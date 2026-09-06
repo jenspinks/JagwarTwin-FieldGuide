@@ -67,7 +67,9 @@ The mint room for *Happy Face*, filed, with real nerve, in the realm the Hall ca
 ### #17 · DEVIL IN THE MIRROR · `RORRIM EHTNI LIVED`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
 
-An early, unreleased recording, filed under *"Phantoms of the Past,"* the Hall's shelf of old-era material. Its code is its own title spelled backwards: `RORRIM EHTNI LIVED` is *Devil In The Mirror* reversed, and it is the single reversal code in the entire maze, which makes this room the anchor of Roy's long obsession with mirrors and running things backwards (*"how do you reverse a mirror?", "born in reverse"*). The name goes surprisingly deep: *"Rorrim Ehtni"* was a fictional author credited on two Eye Alaska tracks back in 2008–09, one of them literally titled *"The Legion Night (Rorrim Ehtni Lived)."* So the devil-in-the-mirror figure, the proto-Lucius twin, was named by Roy at twenty, and the board later writes the phrase out again in mirror-script. The Hall even rhymes the room with itself: this audio's title is the *title* of a separate video room, one door named for another, the mirror reflecting the mirror.
+An early, unreleased recording filed under *"Phantoms of the Past."* It has now been checked by ear: the forty-four-second file is instrumental, with no lyrics to transcribe. Its code is its own title spelled backwards: `RORRIM EHTNI LIVED` is *Devil In The Mirror* reversed, making reversal part of the door's mechanism as well as its name.
+
+The phrase has older Eye Alaska lineage: *Rorrim Ehtni* appears as a fictional credit, and *The Legion Night (Rorrim Ehtni Lived)* supplies a close title relation. That does not prove this audio is the same composition. The exact musical identity remains open; what is secure is the backward name, the instrumental file, and the phrase's continuity across Roy's archive.
 **Connects to →** [[Lucius Lullaby]] · [[Long Time Coming]] · [[Sir Lucius]] · [[The Mirror]] · [[Concepts/Inversion]]
 
 ### #26 · RORRIM EHTNI LIVED · `H1066`
@@ -103,13 +105,17 @@ A lost song, *Antarctica*, filed under *"Concealed Generations"* with the other 
 ### #116 · EVERYBODY'S GOING TO SPACE NOW · `EVERYBODY'S GOING TO SPACE NOW`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0f07663e794d6195ccfed1f1e7b37efc0c5ba2713194a5f3f16b345edda66373..mp3" controls preload="none"></audio>
 
-An unreleased recording filed under *"Concealed Generations,"* the drawer of Roy's personal demos. It is self-keyed: the unlock code is simply its own title. The line itself lands as a wry read on the 2021–22 billionaire space-race mood, the escape-velocity fantasy where *everybody's* going to space now, meaning of course that almost nobody is; that gloss is interpretation, pending an actual listen, but it fits the catalogue's habit of using a bright pop title to carry a dry joke.
+An unreleased recording filed under *"Concealed Generations"* and self-keyed by its title. It has now been checked by ear, and it is not a song or a billionaire-space-race joke. It is a conversation. An unnamed man opens by describing the wish to be *"special and unique … and elite"*; Roy's first-person response begins later, and the speaker boundary matters.
+
+Roy turns the space image toward service. The worthwhile ambition is not going to space to prove personal greatness, but helping make it possible for others, as evidence of what people can do together. That makes the room a motive-autopsy — status versus service — rather than the topical gag the title first invites.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### #136 · HOUSE OF SPELLS (CUZ_IDEA) · `HOUSE OF SPELLS`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x795c4fa46fea4f5ee0765c3433124b1e4dddc4f5340ebdace1d2bcf46f22c7a0..mp3" controls preload="none"></audio>
 
-An unreleased demo, *House of Spells (Cuz_idea)*, filed under *"Concealed Generations"* with the rest of the archival material, and self-keyed like its neighbors: the code is just the title. The parenthetical *"Cuz_idea"* reads as a working-title scrawl, a raw idea, plausibly one made with or sparked by a cousin (*"cuz"*), which marks this as an unpolished sketch rather than a finished track. Its place in the cosmology is simply archival: an unseen, never-released fragment kept safe inside the Hall, one more piece of Roy's concealed drawer surfaced into the maze.
+An unreleased demo filed under *"Concealed Generations"* and self-keyed by its title. The filename *House of Spells (Cuz_idea)* preserves a working label; `Cuz` does not identify a cousin. Checked by ear, the recording layers children's voices and owl calls around questions of identity. The head becomes an elevator, the speaker descends eight floors, and a fire escape appears as the possible route out.
+
+That gives the fragment a real interior architecture: mind as a house one can move down through, with escape imagined but not completed. It connects naturally to Sense Hierarchy's structure inside a head and Thought Forms' account of mental images. Eight floors may invite an octave or Tree comparison, but the recording does not establish either one.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Upload]]
 
 ### #142 · DOWN TO YOU · `WHAT IS IT THAT YOU SEEK?`

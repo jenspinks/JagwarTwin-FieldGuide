@@ -77,6 +77,10 @@ The song dramatizes the exact mechanism [[Sir Lucius]] later masters as its best
 **CAUTION, ALL KINGS END** · `CAKE` — The unlock code CAKE lands directly on the song's confirmed lyric cluster "Devil's Food is a cake / Cake, cake, cake, cake!... Bake a truth with a lie / Then we sell 'em the cake," and the same song ends its… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x29c72dbd4ba375457faa384e87e584f5362540b5b955121f4c43e2513739729d..jpg" width="200"></a>
 
+**CINNAMON THE HORSE (TROJAN HORSE PROGRAM)** · `RIGHT SHOULDER OF A HORSE` — Room 81 puts **program** in the name of Roy's Trojan Horse delivery vehicle. Beside the broadcast interrupt, it supplies the artifact-side form of the song's action: a pleasing carrier enters, delivers a payload, and controls what comes next. This is a strong reading; the title and Roy's public *"Trojan Horse music"* explanation are the grounded parts. → [[Hall of Mirrors/Artifacts - Drawings and Sketches|analysis]]
+
+**BLINKING (1/2 + 2/2)** · `A565` / `C876` — Roy's Songs-folder draft follows music behind Fiddle, Strings, Player, Master, and thought until it lands on *"you inside yourself."* This song reaches toward that same inward location — *"claim what's in them / Heaven is within your heart"* — and then lets the program stop the movement and restore the chorus. The connection is structural; neither work says that one caused the other. → [[Hall of Mirrors/Artifacts - Concept Images and Emblems|analysis]]
+
 ## Symbols
 
 - **[[Concepts/Consumption|The cake / Devil's Food]]** — the manufactured sweet-lie sold to a sleeping crowd (*"bake a truth with a lie / then we sell 'em the cake"*); rendered literal as force-feeding in the video and as the Saturn-cake cover art. The anchor of the "cake before the circus" consumption reading (and the real-world 2022 "cake party" NFT campaign — see Source notes).
@@ -94,6 +98,8 @@ The song dramatizes the exact mechanism [[Sir Lucius]] later masters as its best
 - **[[Online]]** — the closest satire kin: mediated identity and digital existence, the album's named-surveillance track.
 - **[[Happy Face]]** — performance replacing authenticity; the mask paired with this track, both dark/moody with "creepy" videos. (Lucius later claims *Happy Face* by name.)
 - **[[The Circle]]** — the inward **return** the crowd's outward "circles" parody; communion vs mob, the album closer.
+- **[[Concepts/Source vs Reflection|Source vs Reflection]]** — the interruption controls who may stand behind the song: inward source or the program that chooses what plays next.
+- **[[The Interview]]** — EP2 stops SOL and substitutes a hit; EP3 replaces soul and vulnerability with streams, performance, and *"the algorithm, baby."* The song's broadcast mechanism becomes character action.
 - **[[Welcome to the Circus]]** — names in lyric (*"I'll chew you up, spit you out"*) the consumption mechanism this video staged years earlier; *"take your seat, scream and shout"* is the commanded-echo kin to the Pied-Piper *"sing along."*
 - **[[Bad Feeling (Oompa Loompa)]]** — the cross-album twin. This song is *almost a recipe* for it: *"we don't want 'em awake / bake a truth with a lie / then we sell 'em the cake"* — same operation, sweet-lie sold to a sleeping crowd (Devil's-Food cake here, candy there).
 - **[[Down to You]]** — the inward correction (track 7): names and *refuses* the exact fame/money false gods this cluster peddles. This song sells the cake; *Down to You* answers *"one cannot live on bread alone."* (Also Pauling-alone production, like this track.)
@@ -114,16 +120,16 @@ That dual register — pop-friendly affect (clapping, *"yah, we're in the club"*
 
 ## Advanced reading
 
-> [!note]- The broadcast war — three signals fighting for the listener
-> The bridge and interrupt stage a three-way fight over **who authors reality**:
+> [!note]- The broadcast war — two messages and a seizure mechanism
+> The bridge and interrupt stage **two messages and one seizure mechanism**:
 > 1. **Tell-A-Vision sedation** — the system, *"we don't want 'em awake," "bake a truth with a lie."*
-> 2. **The kingdom-within awakening** — *"People waking up to claim what's in them,"* inner sovereignty.
-> 3. **The "we interrupt our program" counter-broadcast** — carrying Chaplin's borrowed humanist words into the feed.
+> 2. **The kingdom-within awakening** — *"People waking up to claim what's in them,"* inner sovereignty carrying the Chaplin relay.
+> 3. **The interrupt** — neither message nor rebuttal, but the act that takes custody of the channel and returns the song to its hook.
 >
-> The catch: the interrupt **cuts the awakening off mid-word** and returns to the chorus. The counter-broadcast breaks in, but the program still wins the airtime. The song is honest about which signal is loudest.
+> The program wins by sequencing: it decides which thought may finish and what everyone must sing next. That is why the interruption matters even before any esoteric reading. The form demonstrates the power it is criticizing.
 
 > [!note]- The Chaplin relay, re-voiced (not sampled)
-> The bridge's *"kingdom within"* isn't only Luke 17:21 — it borrows the **words of Chaplin's *Great Dictator* speech** (*"the kingdom of God is within man"*), the transmission Jagwar Twin sampled verbatim back on [[Superhuman (Interlude)]] (2018). Here it's **re-voiced as Roy's own lyric, not a clip** — a humanist transmission inherited and carried forward into the *33* media-machine (the [[Concepts/Machine vs Human]] arc, an [[Concepts/Inherited Substrate|inherited-substrate]] relay at the level of the line itself). So *"we interrupt our program"* is, in spirit, the **Chaplin counter-broadcast** breaking into the Tell-A-Vision feed — even as the feed silences it.
+> The bridge's *"kingdom within"* isn't only Luke 17:21 — it borrows the **words of Chaplin's *Great Dictator* speech** (*"the kingdom of God is within man"*), the transmission Jagwar Twin sampled verbatim back on [[Superhuman (Interlude)]] (2018). Here it's **re-voiced as Roy's own lyric, not a clip** — a humanist transmission inherited and carried forward into the *33* media-machine (the [[Concepts/Machine vs Human]] arc, an [[Concepts/Inherited Substrate|inherited-substrate]] relay at the level of the line itself). The counter-signal is the kingdom-within passage. *"We interrupt our program"* is the feed taking the channel away from it.
 
 > [!note]- The esoteric frame — Cave, Gnostic awakening, the kingdom within
 > Several traditions rhyme with the song, held as correspondence rather than claimed method:
@@ -246,4 +252,6 @@ Let's see you clap them hands!
 - [[Bad Feeling (Oompa Loompa)]] — the cross-album twin; almost the same recipe.
 - [[Down to You]] — the inward correction that refuses the false gods this song sells.
 - [[Sir Lucius]] — the figure this song codes without naming.
+- [[Concepts/Source vs Reflection]] — *Blinking*, the program, and the struggle over what stands behind a song.
+- [[The Interview]] — the interruption repeated as theatre.
 - [[Concepts/Consumption]] — the cake, the mouth, the thing that eats you.

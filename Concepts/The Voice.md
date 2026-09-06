@@ -4,7 +4,7 @@ type: concept
 cssclasses: ["type-concept"]
 status: draft
 confidence: mixed
-source_basis: ["released music", "public interviews", "public posts", "official videos"]
+source_basis: ["released music", "public interviews", "public posts", "official videos", "public artifacts"]
 ---
 # The Voice
 
@@ -26,9 +26,16 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 ---
 
 > [!reading]- Not all silence is defeat
-> The distinction between the two silences is the spine of the whole arc. **Imposed silence** is the voice prevented: the scream with no words, *"shut your mouth,"* [[Happy Face]]'s instructed hook (*"say you're good, say you're fine"*), the mouth physically stuffed in the [[I Like to Party]] video and the counter-broadcast cut off mid-word (*"you're the King—" / "we interrupt our program"*). Passive, inflicted, the Circus's house rule. **Chosen silence** is the voice withheld: restraint over suppression, the voice that speaks when it is ready, not when it is told. Active, sovereign.
+> The distinction between the two silences is the spine of the whole arc. **Imposed silence** is the voice prevented: the scream with no words, *"shut your mouth,"* [[Happy Face]]'s instructed hook (*"say you're good, say you're fine"*), the mouth physically stuffed in the [[I Like to Party]] video and the kingdom-within passage cut by a broadcast interruption (*"you're the King—" / "we interrupt our program"*). Passive, inflicted, the Circus's house rule. **Chosen silence** is the voice withheld: restraint over suppression, the voice that speaks when it is ready, not when it is told. Active, sovereign.
 >
 > Plotted across the catalogue, the arc reads: the voiceless scream of [[Welcome to the Circus]], then commanded silence, then the raw desperation-voice of [[Lucius Lullaby (album)|Lucius Lullaby]] (*"35 and on my way to nowhere"*), and finally the wordless remainder of [[SOL]], the one voice the Lucius-system can reduce but never absorb. That shape is this guide's reading, built on grounded anchors. And a brake travels with it: silence is not uniformly sacred. It can be imposed, chosen, protective, dissociative, reverent, or just empty, and the page tries not to bless every quiet moment the same color. The arc *bets* on the voice surviving the trip; the released work has not proven it.
+
+> [!reading]- An interruption chooses the next voice
+> *I Like to Party* shows why imposed silence is an action rather than an empty space. Its bridge moves toward *"People waking up to claim what's in them / Heaven is within your heart / you're the kingdom"*; then the broadcast interrupt sends the track back to its chorus. The program gains power by deciding which thought may finish and what everyone will repeat.
+>
+> *[[The Interview]]* repeats that action as theatre. In EP2 Sir Lucius stops Roy's performance of SOL and substitutes *Not Your Homie*. In EP3 Roy says music should come from the soul and be vulnerable, and Lucius answers with the low performance of *Ballerina Boy*, *"hundreds of millions of streams,"* and *"another hit."* He changes the test: commercial response is made to decide whether a vulnerable voice deserved to exist.
+>
+> The Hall of Mirrors draft *Blinking* performs the opposite motion. Filed by Roy under **Songs**, it moves behind Fiddle, Strings, Player, Symphony Master, and thought until it reaches *"you inside yourself."* It refuses to let the nearest instrument or performer be the final source. The connection among the three works is this guide's strong reading, not a claim that one caused another: interruption controls **source custody**, while *Blinking* keeps opening the route behind the voice. That is where this page meets [[Source vs Reflection]].
 
 > [!reading]- The two mouths
 > The mouth is one organ doing two opposite jobs, and the catalogue splits it cleanly down the middle. Things come **out**: you speak, you sing, you testify, the voice this whole page is about. Things go **in**: you eat, you are fed, you are consumed. Almost every mouth-line in the work lives on one side or the other, and the split sits directly on the master duality, [[Roy]] as heart, [[Sir Lucius]] as mind. The testifying mouth is [[Ballerina Boy]]'s voice and the Song of Love; the consuming mouth is Lucius's *"I'll chew you up, spit you out"* and the whole digestive economy of [[The Circus]], which gets its own page in [[Consumption]].
@@ -66,10 +73,10 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 
 ## Artifacts
 
-**TRUE VOICE** · `R1045` — The concept's name is a room of the [[Hall of Mirrors]]: a sketch captioned *"ROMA - true of voice -"* with an arrow reading *"Roy,"* identifying him with Roma called Roy, the Ramesside high priest of Amun. *"True of voice"* is *maa-kheru,* the epithet of the justified dead, so "true voice" is the project's own minted phrase, not this guide's coinage. → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**TRUE VOICE** · `R1045` — The concept's name is a room of the [[Hall of Mirrors]]: a sketch captioned *"ROMA - true of voice -"* with an arrow reading *"Roy,"* placing a modern singer beside Roma/Roy, the Ramesside High Priest of Amun. *"True of voice"* is *maa-kheru,* the epithet of the justified dead. The priest's sistrum and his statue inscription's wish that name and image endure give music, vindication, and preservation a firm source-level relation; identity across lives remains a reading, not a fact. → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6b3674092ef945fda641263d2b24fa37e623df495c56c22448a423153316296..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf6b3674092ef945fda641263d2b24fa37e623df495c56c22448a423153316296..png" width="200"></a>
 
-**R1045** · `ROMA CALLED ROY` — The matching hieroglyph strip from the same three-part set. Its title and code wire a closed identity loop (name → filing number → epithet → name), so the maze itself stages the question this page holds open: which voice is the true one. → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**R1045** · `ROMA CALLED ROY` — The matching, still-untranscribed hieroglyph strip from the same three-part set. Its title and code wire a closed naming loop (name → filing number → epithet → name), so the maze itself stages the question this page holds open without answering it: which voice is the true one? → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x20dd52e94f2f5f02e9e0414b6b955194ae75f0f33a8fe76e9d6362df6505f9c8..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x20dd52e94f2f5f02e9e0414b6b955194ae75f0f33a8fe76e9d6362df6505f9c8..png" width="200"></a>
 
 > [!descend] The Deep End
@@ -78,11 +85,11 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!receipts]- Sources and confidence
 > Grounded in the work and its public record: the [[Welcome to the Circus]] lyric poles (streaming-verified); [[SOL]] as voiced-but-wordless (*No Lyrics Available*, not instrumental); the [[No. 1 Champion (la Conquistadora)]] vocal structure; the [[Ballerina Boy]] motherly outro as an audio-confirmed older female voice with a publicly told origin story; the Chaplin sample and composer credit on [[Superhuman (Interlude)]]; the three @JagwarTwin silence posts and Roy publicly naming Blavatsky; the "third voice" IG Live; and the ancestral-voices passage from a public Mirror Session.
 >
-> Strong readings, labeled where they stand: the imposed-versus-chosen spine and the whole arc; the voice-appropriation reading of No. 1 Champion; Ballerina Boy as the buried-but-truest voice; the silent end-tag and its era reversal; the lullaby-that-sedates reading; the relay cluster.
+> Strong readings, labeled where they stand: the imposed-versus-chosen spine and the whole arc; interruption as control of sequence and source custody; the voice-appropriation reading of No. 1 Champion; Ballerina Boy as the buried-but-truest voice; the silent end-tag and its era reversal; the lullaby-that-sedates reading; the relay cluster.
 >
 > Framework, attributed to its traditions and held in the Deep End: the Kabbalistic throat and letter registers, the scream and silence traditions, Gurdjieff's sleeping crowd.
 >
 > None of this is the answer; it is one way of seeing it.
 
 > [!feed]- Read next
-> [[Consumption]] · [[Mary]] · [[Sir Lucius]] · [[The Algorithm]] · [[SOL]] · [[Welcome to the Circus]]
+> [[Consumption]] · [[Mary]] · [[Sir Lucius]] · [[The Algorithm]] · [[I Like to Party]] · [[The Interview]] · [[Source vs Reflection]] · [[SOL]] · [[Welcome to the Circus]]

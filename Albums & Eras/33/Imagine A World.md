@@ -106,9 +106,9 @@ A few claims that cut across the whole thing:
 > [!note]- Advanced reading — the double HoM code, and the song as web3 artifact *(for the completists)*
 > The song lives in the [[Hall of Mirrors]] web3 archive in **two** distinct ways, which is unusual:
 > 1. **Its own mint.** *"IMAGINE A WORLD"* is a minted artifact (catalog #140, the "MINT BURIED" realm), and the unlock code for its room is simply the title. Minted by CTHDRL.ETH on 02-10-23 — one of four *33* song-mints dropped together (alongside *Down to You*, *Another Way II Heaven*, and *The Circle*).
-> 2. **The emanation-ladder's answer.** A *separate* artifact — the "Tree-of-Life ladder" image (an APPEARANCE-realm piece) — has the unlock code *"Know how to spell the name of the song,"* which resolves to *Imagine A World.*
+> 2. **A neighboring naming relay.** A *separate* City-of-Pyramids crop is opened by `Know how to spell the name of the song`. That still is named **Genesis Tree Code**, and `Genesis Tree Code` opens the *Another Way II Heaven* mint. The route performs Carroll's distinction between a song and its name; it does **not** resolve mechanically to *Imagine A World*.
 >
-> So the title is **both its own room-code and the answer to the ascent-ladder's riddle** — the same three words close the album's argument, unlock the song's own vault, and complete the "10. The World" rung of Roy's board. It's rare to see a single phrase carry that much load across the lyric, the artwork, and the paratext at once.
+> So *Imagine A World* is securely its own room-code and can still be read beside the board's final *"10. The World"* rung. That is a thematic and structural rhyme, not the output of the separate Genesis Tree Code relay. The correction gives each song its own door back.
 
 > [!note]- Advanced reading — the "own way" split (2018 → 2022) *(a cross-catalogue lead)*
 > One line rewards a catalogue-wide ear. In *Dream / Dream* (Subject to Flooding, 2018), the "own way" is a single collective move: *"doing everything our own way"* — us, together, in rebellion. Here in 2022 it becomes **two distinct moves**, confirmed verbatim in the lyric: *"if you got out your own way / and went your own way?"*
