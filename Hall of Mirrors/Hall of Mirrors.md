@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Hall of Mirrors
 
-> **▶ The artifact archive.** All ~149 discovered artifacts are catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`Artifacts/`).
+> **▶ The artifact archive.** The original 149-record gallery is catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`Artifacts/`). Later discovered and opened rooms 150–216 continue in [[Rooms Behind the Gallery]].
 
 > **One-line reading.** Hall of Mirrors is the Jagwar Twin metaverse — a web3 puzzle-world built on the fiction that the artist uploaded his consciousness to the internet and scattered the pieces of himself behind locked doors, so that the fans who decode the clues are the ones who bring him back into the light.
 
@@ -61,7 +61,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 
 ## Where it appears
 
-- **mirrors.jagwartwin.com** — the live site: a public **gallery** of ~149 substantive unlocked artifacts (each card showing the unlock code, the discoverer's handle, and the timestamp — open to view, no wallet needed), a leaderboard, and crown-gated rooms.
+- **mirrors.jagwartwin.com** — the live site: its original public **gallery** carried 149 catalogue records (each card showing the unlock code, the discoverer's handle, and the timestamp — open to view, no wallet needed), alongside a leaderboard and crown-gated rooms. Later recovered room records extend the archive beyond that original gallery.
 - **The Manifesto-FAQ** — the public-facing statement of intent and the rules of crowns vs artifacts.
 - **The 2022 campaign** — six CTHDRL drops across the year: *Going Dark* (3/30), the *Spreadsheet Map* (4/08, where Roy tweeted *"I'm dropping a spreadsheet with a roadmap and music nft hidden in it"*), a *Body Parts* auction (5/02), *"The Upload"* live desktop stream (5/16–18), the *Genesis of SARAVI* (6/11), and the **Hall of Mirrors homepage takeover** (11/11) — the moment the maze stopped being a side-page and became the front door.
 - **Roy's 2022 tweets** — the seeded clues themselves. He all but announced the game while playing it: replying to a collaborator on 4/10 with *"It's all code!"*, and ending an April tweet with a run of macOS Option-key glyphs that decode to **PAY ATTENTION**.
@@ -148,7 +148,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 
 The Hall of Mirrors keeps two rooms of its own:
 
-- **[[Artifacts]]** — the evidence room: all 149 unlocked artifacts, as a color-coded card gallery (browse by number) and as deep-dives by type.
+- **[[Artifacts]]** — the evidence room: the original 149-record gallery, as color-coded cards (browse by number) and as deep-dives by type. Later rooms 150–216 continue in [[Rooms Behind the Gallery]].
 - **[[Hall of Mirrors/The I'm 33 Board|The "I'm 33" Board]]** — Roy's working cosmology spreadsheet, the source-code the whole maze was quarried from.
 
 ## Read next

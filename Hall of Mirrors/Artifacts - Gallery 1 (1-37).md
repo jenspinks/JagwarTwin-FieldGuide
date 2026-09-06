@@ -227,7 +227,9 @@ A short photogrammetry turntable scan of a still-shrink-wrapped retail CD of *"Y
 
 ### 36 · GRANDMA'S SONG
 
-An unreleased demo titled *Grandma's Song*, filed under *"Concealed Generations."* The code, *"The Lightning Flash,"* is the Kabbalistic Flaming Sword, the zigzag path that emanation takes down through the ten Sephiroth of the Tree of Life, a shape Roy diagrams himself elsewhere in the Hall and draws on the board. So a family keepsake gets paired with the Tree's downward transmission of the divine spark, and read against its realm the grandmother becomes a *"concealed generation"* in that descent: lineage as the lightning path, ancestry as how the current comes down through the family. It belongs to Roy's wider matrilineal thread (the Grandma Vi material, the bedside photo, the family cow), his feminine-source vein, though whether this particular demo is about, for, or from that grandmother can't be settled without hearing it.
+This 1:56 recording has been checked by ear. It layers the closing clause of Alice Bailey's Great Invocation, a child's delighted voice, a grandmother's voicemail after lightning hit Venice, a sung search for someone *"out there,"* and the Lord's Prayer chanted in Aramaic. The exact identity of every supporting voice remains open, and the call itself does not securely date the Venice reference.
+
+The *"Concealed Generations"* filing and *"The Lightning Flash"* code — the Kabbalistic path of emanation down the Tree — support lineage-as-transmission as a strong reading `[W]`. A grandmother's voice descends into the recording while prayer, signal, light, and generation share one channel; that does not identify which grandmother made the call or make every voice biographical evidence.
 **Connects to →** [[Weirdness]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 37 · I AM CHRITMAS

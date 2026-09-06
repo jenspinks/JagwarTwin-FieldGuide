@@ -278,7 +278,7 @@ Its key, `A secret order everywhere`, is the first line of the **third** stanza.
 
 The poem moves through seed, cells, appetite, dark moon, and the sacred-city sequence Bethlehem → Jerusalem → Rome. Birth, Passion, church, empire, institution, wealth, home, and address can all gather around those names, but the poem does not choose one tidy allegory for us. Its ending — killing, self-killing, wealth, searching, another chance — keeps consequence and return in view. Behind it, a mother is crowned by her son while musical angels play. The placement makes that iconography available to the reading; selection still is not a declaration of doctrine.
 
-<span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d..png)<br>The maze calls this one <b>Roy Poem "A Secret Order</b> · opened 29 June 2026</span>
+<span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d..png)<br>The maze calls this one <b>Roy Poem "A Secret Order"</b> · opened 29 June 2026</span>
 
 ### 168 · Content of the Earth
 
@@ -877,7 +877,7 @@ Its key is `Self doubt` — a sheet of paired opposites, opened by the name for 
 
 This is an audio leaf, and its key is `I feel so happy`, bare, with no punctuation. The stored artifact name includes *"roy voice diary"*, but a metadata label is not an ear-check of content or speaker.
 
-The September review supplies a promising account of a short sung acoustic fragment, but the public fold still lacks its dedicated durable transcript record. Until that gate is satisfied, this page does not publish lyrics, identify the voice, or call the recording speech rather than song. The file remains available to hear; the interpretation stays open.
+The September review contains a proposed content reading, but the public fold still lacks its dedicated durable transcript record. Until that gate is satisfied, this page does not publish lyrics, identify the voice, or characterize the performance. The file remains available to hear; the interpretation stays open.
 
 Filed under **From Darkness**.
 
@@ -1021,4 +1021,4 @@ Three things the collection makes plain once you have it in one place.
 
 **Almost nothing stands alone.** One room's name is another room's key, over and over — a dove opens a bridge, a bridge opens a grandmother, a colour-and-note opens a dove whose name opens a boy on a horse. Ideas are split across objects on purpose: *one becomes two* is sung on a record, written by hand on a bestiary sheet, and drawn as two circles in a third room. No single artifact carries it. Reassembly is the work.
 
-**It keeps what the songs let go.** Demos that were never released, album art that was rejected, takes that didn't make it, a first band's CD nailed to a fence, a voice diary, a mother in a garden, a boy painting a house for her. The records are one version of this material. The maze is where the rest of it lives, with a door on each piece.
+**It keeps what the songs let go.** Demos that were never released, album art that was rejected, takes that didn't make it, a first band's CD nailed to a fence, preserved voice memos, a mother in a garden, a boy painting a house for her. The records are one version of this material. The maze is where the rest of it lives, with a door on each piece.

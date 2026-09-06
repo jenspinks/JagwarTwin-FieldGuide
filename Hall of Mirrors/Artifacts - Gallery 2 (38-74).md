@@ -233,7 +233,9 @@ Read beside the notebook's Noah page, it reverses the Ark: animals enter a human
 
 ### 73 · SONG OF THE RING (VOICE MEMO)
 
-An unreleased voice memo, and one of only two rooms filed in the Hall's *"Genesis Formula"* realm (the other being the Sir Rabbit poem), which marks it as an origin piece. The code, `0`, just enacts the title: a zero is a ring, and it doubles as the origin-point and the void, exactly right for a Genesis filing (a close cousin of Room 4's *Enso*, in the same zero-circle-ring family). The catalogue tags the memo with a jaguar and a strand of DNA, framing it as part of the creature's genetic origin story: a song carried in the animal's code, which is precisely the myth *The Circle* tells. What the recording actually contains is still undescribed, which is its own kind of appropriate: the origin room keeps its secret.
+This ear-verified voice memo is an early take of *The Circle*. A maker jaguar teaches others to sing; later kings forbid the song; she hides it inside their wings; and a wise one hears it again while empires build cages and sell everything. The refrain sends the listener to *"the inside of the inside,"* and the coda says *song of the ring*, never *rain*.
+
+Its *"Genesis Formula"* filing is therefore literal as well as thematic: the room preserves a generative state of a later released song. The code `0` draws the ring it names and joins Room 4's `ENSO` in the zero-circle family. The jaguar and DNA tags frame cultural memory as something carried inward until it can be sung again; they do not make a biological claim.
 **Connects to →** [[Hall of Mirrors]] · [[The Circle]] · [[Roy]]
 
 ### 74 · Horus (Eye-of-Horus fractions)

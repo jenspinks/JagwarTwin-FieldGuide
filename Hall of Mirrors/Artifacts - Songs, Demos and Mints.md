@@ -10,7 +10,7 @@ source_basis: ["Hall of Mirrors artifacts", "released music", "public posts", "o
 
 Most of the Hall of Mirrors is things you look at. This section is things you were meant to hear.
 
-Here are the audio rooms: voice memos, unreleased demos, lost songs, early-band relics from before Jagwar Twin existed, and the on-chain "mint" rooms that hold the finished *33* tracks as objects you can hold. Some of it is a fully mastered single dressed up as a maze door. Some of it is a 2.6 MB phone recording of a man humming an idea that never went anywhere else. The Hall keeps both, and treats them with the same seriousness, which is either the most romantic thing about it or the most unhinged, depending on your mood.
+Here are the audio rooms: voice memos, unreleased demos, lost songs, early-band relics from before Jagwar Twin existed, and the on-chain "mint" rooms tied directly to *33* tracks. Some of it is a song-sized production dressed up as a maze door; some of it is a small phone recording of an idea that never went anywhere else. The Hall keeps both and treats them with the same seriousness, which is either the most romantic thing about it or the most unhinged, depending on your mood. The exact master or mix in a mint room still needs direct comparison before it can be named.
 
 ## What this section collects
 
@@ -20,13 +20,13 @@ The pieces here fall into three rough families.
 
 **The early-band relics.** Before Jagwar Twin there was Roy English, and before Roy English there was a band. A shrink-wrapped store copy of an old album, a Sharpie-labeled CD-R, a phone clip of a crowd at a show from a life the project keeps circling back to. These are less about the music than about the fact of it, the earlier self preserved like a specimen.
 
-**The mint rooms.** A handful of finished *33* songs get their own rooms, each one holding the released track as an object: a wireframe body, a dissolving head, the number 33 rendered in glowing vector lines over ice. Here the connection to the song is not a reading. It is the point. The room *is* the song, staged as an image.
+**The mint rooms.** A handful of *33* songs get their own rooms: a wireframe body, a dissolving head, the number 33 rendered in glowing vector lines over ice. Their titles, metadata, lyrics, and packet placement make the song association grounded rather than speculative. Those facts do not, by themselves, identify the exact audio master, mix, or release file carried by each room.
 
 ## How to read them
 
-A quick, honest note first: the audio rooms are read here from the outside. What is described below comes from each room's title, its unlock code, and where the Hall files it, not from a track-by-track listen. So when an entry says a demo "probably" does something, believe the "probably." The door has been examined; the song behind it is often still sealed.
+The listening gate is no longer mostly closed. The Hall currently has sixteen audio leaves; fifteen have stable, direct-ear transcript records. The one remaining hold is *I Feel So Happy*: its room and metadata are known, but no durable ear-reviewed transcript yet supports claims about its words, speaker, or performance. That hold is a boundary, not an invitation to fill the silence with a guess.
 
-That constraint turns out to be useful. It forces the reading down to what is actually knowable: the name of the room, the key that opens it, the neighborhood it lives in. And those three things, over and over, turn out to be doing real work.
+The entries below therefore separate three things that are easy to tangle: what can be heard, what the room's title, code, and filing establish, and what those facts may mean together. A clean transcript does not settle every speaker, source, or interpretation. Where a reading goes beyond the recording, it stays marked as a reading. Later audio rooms beyond the original gallery are gathered in [[Rooms Behind the Gallery]].
 
 ## A word about the codes
 
@@ -34,7 +34,7 @@ Some of these unlock codes are phrases with deep provenance: a line handwritten 
 
 ## The MINT rooms
 
-Five of the finished *33* songs live in the Hall as mint rooms. They are the trophy case pretending to be a maze: the released track, wrapped in its own image, keyed by a line from its own lyrics or its own title. If you want to understand how a Jagwar Twin song thinks, these are the cleanest place to start, because the room agrees with the song out loud.
+Five *33* songs live in the Hall as mint rooms. They are the trophy case pretending to be a maze: a song, wrapped in its own image, keyed by a lyric or its own title. The song relation is secure; the exact master or mix remains open until the room audio is compared directly with the release files. Even with that version boundary in place, these are a clean place to start because image, title, and song point in the same direction.
 
 ---
 
@@ -81,7 +81,9 @@ Three silent seconds of a burned CD-R hand-labeled *"Genesis"* on top and *"unde
 ### #36 · GRANDMA'S SONG · `THE LIGHTNING FLASH`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x192da9a1b7fd07fb2ada3707ffe4a04c2fab57223b00fbee7689a133d133d32e..mp3" controls preload="none"></audio>
 
-An unreleased demo titled *Grandma's Song*, filed under *"Concealed Generations."* The code, *"The Lightning Flash,"* is the Kabbalistic Flaming Sword, the zigzag path that emanation takes down through the ten Sephiroth of the Tree of Life, a shape Roy diagrams himself elsewhere in the Hall and draws on the board. So a family keepsake gets paired with the Tree's downward transmission of the divine spark, and read against its realm the grandmother becomes a *"concealed generation"* in that descent: lineage as the lightning path, ancestry as how the current comes down through the family. It belongs to Roy's wider matrilineal thread (the Grandma Vi material, the bedside photo, the family cow), his feminine-source vein, though whether this particular demo is about, for, or from that grandmother can't be settled without hearing it.
+This 1:56 recording has been checked by ear. It opens with *"Restore the plan on Earth,"* the closing clause of Alice Bailey's Great Invocation, then moves through a child's delighted voice, a grandmother's voicemail asking whether Roy is all right after lightning hit Venice, a sung search for someone *"out there,"* and a chant of the Lord's Prayer in Aramaic. The exact identity of every supporting voice remains open, and the call itself does not securely date the Venice reference.
+
+The room files that layered family-and-prayer collage under *"Concealed Generations"* and keys it with *"The Lightning Flash,"* the Kabbalistic path of emanation down the Tree of Life. That makes lineage-as-transmission a strong reading `[W]`: a grandmother's voice travels down into the recording while prayer, signal, light, and generation share one channel. It is more than a biographical keepsake, but the room does not by itself establish which grandmother made the call or turn every voice into Roy's family.
 **Connects to →** [[Weirdness]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### #60 · THE FUTURE (2010 DEMO) · `FEARLOVE`
@@ -93,21 +95,25 @@ An unreleased demo, *The Future (2010 Demo)*, filed under *"Concealed Generation
 ### #73 · SONG OF THE RING (VOICE MEMO) · `0`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x044852b2a670ade5407e78fb2863c51de9fcb96542a07186fe3aeda6bb8a116d..mp3" controls preload="none"></audio>
 
-An unreleased voice memo, and one of only two rooms filed in the Hall's *"Genesis Formula"* realm (the other being the Sir Rabbit poem), which marks it as an origin piece. The code, `0`, just enacts the title: a zero is a ring, and it doubles as the origin-point and the void, exactly right for a Genesis filing (a close cousin of Room 4's *Enso*, in the same zero-circle-ring family). The catalogue tags the memo with a jaguar and a strand of DNA, framing it as part of the creature's genetic origin story: a song carried in the animal's code, which is precisely the myth *The Circle* tells. What the recording actually contains is still undescribed, which is its own kind of appropriate: the origin room keeps its secret.
+This ear-verified voice memo is an early take of *The Circle*. It tells the same origin story in a looser form: a maker jaguar teaches others to sing; later kings forbid the song; she hides it inside their wings; and a wise one hears it again while empires build cages and sell everything. The recurring instruction is to go to *"the inside of the inside,"* and the coda remembers the *song of the ring* — never *rain*, an earlier machine-transcription error.
+
+That makes its *"Genesis Formula"* filing literal as well as thematic: this is a preserved generative state of a later released song. The code `0` draws the ring it names and joins Room 4's `ENSO` in the zero-circle family. The jaguar and DNA tags do not prove a biological claim; they frame cultural memory as something carried inward until it can be sung again.
 **Connects to →** [[Hall of Mirrors]] · [[The Circle]] · [[Roy]]
 
 ### #109 · ANTARCTICA (LOST SONG) · `ÇÅ¨†ˆØ˜®Ø¥`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x759efd899a3365d57910ea0f528d97034a5441b5e71e36a8e6f4c8e711fdd34b..mp3" controls preload="none"></audio>
 
-A lost song, *Antarctica*, filed under *"Concealed Generations"* with the other unreleased demos, the archival vein where music from Roy's pre-Jagwar-Twin drawer surfaces. The code looks like line noise but isn't: `ÇÅ¨†ˆØ˜®Ø¥` is the Mac Option-key layer, each glyph an Option-plus-letter, and it decodes to *"CAUTION ROY."* It's the same keyboard cipher that keys the *Marduk* room, and one of the very few codes that names Roy directly, reading as a warning addressed to or about him. Nothing in the released catalogue mentions Antarctica or the decoded phrase, so this one stays genuinely unseen: a titled warning on a door with a lost song behind it.
+The transcript gate is open here too. *Antarctica* is a narrative lost song: a person on the ice crawls into a cave, finds a crashed ship and a stranded being who says she came to this planet long ago, then meets threats from officials when trying to help her. The closing signal is sent toward home. It is a secrecy-and-contact story, not an undescribed file behind a known door.
+
+Its code looks like line noise but is the Mac Option-key layer: `ÇÅ¨†ˆØ˜®Ø¥` decodes to *"CAUTION ROY."* The same keyboard method appears elsewhere in the Hall. The warning code, the concealed filing, the behind-the-curtain lyric, and the threatened witness all reinforce a bounded reading about suppressed contact `[W]`; they do not establish that the song reports a real event or that every detail belongs to the Hall's larger cosmology.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### #116 · EVERYBODY'S GOING TO SPACE NOW · `EVERYBODY'S GOING TO SPACE NOW`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x0f07663e794d6195ccfed1f1e7b37efc0c5ba2713194a5f3f16b345edda66373..mp3" controls preload="none"></audio>
 
-An unreleased recording filed under *"Concealed Generations"* and self-keyed by its title. It has now been checked by ear, and it is not a song or a billionaire-space-race joke. It is a conversation. An unnamed man opens by describing the wish to be *"special and unique … and elite"*; Roy's first-person response begins later, and the speaker boundary matters.
+An unreleased recording filed under *"Concealed Generations"* and self-keyed by its title. It has now been checked by ear, and it is not a song or a billionaire-space-race joke. It is a conversation. An unnamed man opens by describing the wish to be *"special and unique … and elite"*; Roy's first-person response begins later with his admission that wanting people to think he was great helped drive him into music. The opening confession is not Roy's, and the speaker boundary matters.
 
-Roy turns the space image toward service. The worthwhile ambition is not going to space to prove personal greatness, but helping make it possible for others, as evidence of what people can do together. That makes the room a motive-autopsy — status versus service — rather than the topical gag the title first invites.
+The discussion then contrasts proving personal greatness with helping make something possible for other people and believing in what people can do together. **Status versus service is the guide's reading `[W]`, not a phrase either speaker supplies as doctrine.** The stronger factual claim is simpler: the room preserves a conversation in which Roy examines how the motive beneath an ambition can change its meaning.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### #136 · HOUSE OF SPELLS (CUZ_IDEA) · `HOUSE OF SPELLS`
