@@ -68,7 +68,7 @@ A few claims cut across the whole song.
 
 ## Inheritance reduced to appraisal
 
-The lyric puts *blue jeans* and *good genes* inside the narrator's appraisal of Mary. On the [[Concepts/Inherited Substrate#Ascent and inheritance|inheritance reading]], a living lineage has become another desirable feature to assess. Lucius's commerce taunt during this first verse in The Interview EP7 reinforces that reading; its alignment with the exact word *genes* is not established by the held record. The jeans/genes flirtation also works as a plain joke. Unlike David Star, this song supplies no ladder, so the comparison concerns what happens to inheritance, not a hidden Jacob reference.
+The lyric puts *blue jeans* and *good genes* inside the narrator's appraisal of Mary. On the [[Concepts/Inherited Substrate#Ascent and inheritance|inheritance reading]], a living lineage has become another desirable feature to assess. Lucius's commerce taunt during this first verse in The Interview EP7 reinforces that reading; its alignment with the exact word *genes* has not been established. The jeans/genes flirtation also works as a plain joke. Unlike David Star, this song supplies no ladder, so the comparison concerns what happens to inheritance, not a hidden Jacob reference.
 
 ## Artifacts
 
@@ -107,7 +107,7 @@ The lyric puts *blue jeans* and *good genes* inside the narrator's appraisal of 
 > [!note]- Advanced reading — the Fool, and why it isn't a Hall-of-Mirrors cipher
 > The Fool reading is unusually well-grounded for a tarot claim: the visualizer caption (signed *El Roy*) gives the Rider-Waite-Smith Fool almost line for line — white rose, stepping off the ledge — the lyric says *"made a move like a fool,"* and the companion *Half the Man* (Father) post shows Roy in a jester/Pierrot ruff. The Fool is a standing Roy symbol (also the "I'm 33" board; *It's Your Time*'s *"I ain't nothing but a Fool"*).
 >
-> Worth flagging because it was tested and ruled out as a puzzle mechanic: the rose / Fool / Rosy-Cross thread was run exhaustively as a **Hall of Mirrors** unlock code — over a thousand generated forms across eight lenses, plus an oracle check — and returned **zero.** It is load-bearing *symbolism*, not a seeded cipher. (A faint echo worth noting: *"caught thorns"* rhymes with the Dumbledore-line *"Reborn for this, caught thorns for this."*)
+> The rose / Fool / Rosy-Cross thread reads as load-bearing *symbolism*. (A faint echo worth noting: *"caught thorns"* rhymes with the Dumbledore-line *"Reborn for this, caught thorns for this."*)
 
 > [!note]- Advanced reading — Kabbalah: severity overruling its own shadow
 > On the Tree of Life, **Mary (Binah)** and **Lucius (Hod / Geburah)** share the left-hand Pillar of Severity, with Mary at its head. So *"Mary drops Lucius dead"* reads as the **source of severity overruling the shadow-intelligence lower on its own pillar** — judgment terminated by the very origin of judgment. And *"saw a halo but I didn't see a head"* reads as the **crown reached at the top of the ascent** (Keter-through-Binah): present, but *unpossessable* — Cordovero's *atarah*, the crown Malkhut becomes the moment she ascends, which is the same engine as the catalogue's *"reclaim your crown."* The halo is right there; it simply cannot be grasped by the eye that came to grasp it. *(Framework, not authorial intent — Kabbalah is demonstrably in Roy's toolkit, but the specific placements are the reader's.)*

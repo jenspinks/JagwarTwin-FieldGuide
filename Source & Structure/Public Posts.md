@@ -66,7 +66,7 @@ The 2026 rollout staged the whole Roy-versus-Lucius conflict in public, and the 
 Roy runs an Instagram **"Book Club"** — a shelf of the books behind the project, which is the cleanest grounding of its intellectual lineage. The one that matters most for [[Sir Lucius]]:
 
 - **C. S. Lewis — *The Screwtape Letters*.** A senior devil coaching a junior tempter by letters; the manipulation always dressed as counsel. This is the Lucius voice in literary form — the advisor who is technically never wrong and never on your side. Roy shelves it alongside Lewis's *The Great Divorce* and *The Four Loves*.
-- **The rest of the shelf** runs Jung (*Man and His Symbols*, *Modern Man in Search of a Soul*), Hermeticism (the *Hermetica*, *The Kybalion*), Kabbalah (Gray's *The Ladder of Lights*), Campbell's *The Hero with a Thousand Faces*, Dante, and the Zen memoir *The Empty Mirror* — the book behind Roy's throat tattoo.
+- **The rest of the shelf** runs Jung (*Man and His Symbols*, *Modern Man in Search of a Soul*), Hermeticism (the *Hermetica*, *The Kybalion*), Kabbalah (Gray's *The Ladder of Lights*), Campbell's *The Hero with a Thousand Faces*, Dante, and the Zen memoir *The Empty Mirror* — the book behind Roy's Empty Mirror wrist tattoo.
 
 *Account:* [@royenglish on Instagram](https://www.instagram.com/royenglish/) ("Book Club" highlight / posts; individual post dates not all pinned).
 

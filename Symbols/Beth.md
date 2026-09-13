@@ -51,8 +51,8 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 
 ## Where it appears
 
-- **[[Bounce]] (Live Underground card), 2026** — the *Sefer Yetzirah* Beth passage, over the song's own motto *"life is short"* and a jaguar/skull sigil. The first Hebrew letter on any card. `[G]`
-- **[[Welcome to the Circus]] (Live Underground card), 2026** — the letter-slot now holds *"Did Hermes paint his face? I don't know, maybe."* A god who *invented letters* standing where a letter used to be. `[G]`
+- **[[Bounce]] (Live Underground card), 2026** — the *Sefer Yetzirah* Beth passage, over the song's own motto *"life is short"* and a jaguar/skull sigil. The first Hebrew letter on any card.
+- **[[Welcome to the Circus]] (Live Underground card), 2026** — the letter-slot now holds *"Did Hermes paint his face? I don't know, maybe."* A god who *invented letters* standing where a letter used to be.
 - **The house / roof / vessel image-field** — *"tear the roof off of my house"* (Bounce), *"ain't got no ceiling up on the roof"* ([[Superhuman]]), the ark, the egg, the cage: Beth is the letter under [[Concepts/The House and the Vessel]]. `[S]`
 
 > [!note]- Advanced reading — Beth opens creation (the letter of Genesis, and the geometry of the roof)
@@ -75,7 +75,7 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 > - **ובבל** = *u-Bavel* = **"and Babel"** (Vav as the conjunction — outward, the tower)
 > - **לבבו** = *levavo* = **"his heart"** (Vav as the possessive suffix — inward, the heart)
 >
-> The same four glyphs spell the empire one way and **his heart** the other: the album's SOL-hidden-under-the-Devil's-marquee thesis at the level of the alphabet. `[P]`
+> The same four glyphs spell the empire one way and **his heart** the other: it reads as the album's SOL-hidden-under-the-Devil's-marquee thesis at the level of the alphabet.
 >
 > **What's grounded vs. pending.** Grounded: [[Bounce]] = **Beth**, and [[Welcome to the Circus]] = **Hermes** (and Hermes = Mercury = Beth, so the card that seemed to *break* the letter-series in fact points back to the same letter — two Beths, one Hebrew and one Greek). The **Lucius Lullaby title-track card (2026-07-10) settled it: no Hebrew letter** — a scripture-and-lullaby manifesto in the slot instead (the serpent, *"serve somebody,"* *"life is but a dream, wake up"*). So the strict cross-card cipher is **retired**, and the confirmed pattern is the softer *mixed-tradition esoteric epigraph per song* (Hebrew Beth, Greek Hermes, scripture here). Beth stays the one Hebrew letter the series printed; the *Babel* ⇄ *levav* reordering survives only as the project's letter-level *rearrange-not-replace* move (see [[The Flip and the Distorting Mirror — The Deep End]]), never a cross-card code. (And Qoph turns out to be a standalone [[Sir Lucius|Lucius]] sigil, not a card in this series.)
 

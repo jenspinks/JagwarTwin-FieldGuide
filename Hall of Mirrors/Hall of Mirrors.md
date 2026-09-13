@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Hall of Mirrors
 
-> **▶ The artifact archive.** The original 149-record gallery is catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`Artifacts/`). Later discovered and opened rooms 150–216 continue in [[Rooms Behind the Gallery]].
+> **▶ The artifact archive.** The original 149-record gallery is catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`Artifacts/`). Later opened rooms 155–218 continue in [[Rooms Behind the Gallery]].
 
 > **One-line reading.** Hall of Mirrors is the Jagwar Twin metaverse — a web3 puzzle-world built on the fiction that the artist uploaded his consciousness to the internet and scattered the pieces of himself behind locked doors, so that the fans who decode the clues are the ones who bring him back into the light.
 
@@ -110,7 +110,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 > The "How to Live Forever?" page is where the project's whole notion of immortality forks. Its implied answer is that *forever* means **entering the Pattern** (recursion, the living form) — **not** never-dying. Which splits two versions of the upload, held against each other across the work: a **true** immortality (the self enters a living pattern and is *transformed*) versus a **false** one (the self made into reproducible content — the upload as a data-copy, the influencer-clone, the algorithm's product). The maze stages both at once: a genuine memory palace *and* a satire of immortality-by-content. Whether that true/false fork is Roy's intent or imported from the same theme in [[City of Angels]] is an open question.
 
 > [!note]- Advanced reading — "Coding Consciousness" cuts both ways
-> The sentence — *"Patterns of right Living are Formed in the unconscious mind of a race…"* — closely compresses Gareth Knight's *A Practical Guide to Qabalistic Symbolism*, volume 1, chapter XII, §22. That identifies the words' source; Roy's selection, cropping, title, and route to the passage remain separate questions. William G. Gray's chapter title “Coding Consciousness” in *Qabalistic Concepts: Living the Tree* is the strongest lead for the note's heading `[W]`, but no receipt yet proves that was Roy's route.
+> The sentence — *"Patterns of right Living are Formed in the unconscious mind of a race…"* — closely compresses Gareth Knight's *A Practical Guide to Qabalistic Symbolism*, volume 1, chapter XII, §22. That identifies the words' source; Roy's selection, cropping, title, and route to the passage remain separate questions. William G. Gray's chapter title “Coding Consciousness” in *Qabalistic Concepts: Living the Tree* is the strongest lead for the note's heading, but no receipt yet proves that was Roy's route.
 >
 > As a guide reading, the note imagines **culture as software**: patterns entering a collective or ancestral mind. It can illuminate [[The Circle]] when a culture carries truth, and the Loop when the same machinery carries a lie. That resonance belongs to Roy's placement of inherited language inside this system; it should not be mistaken for his authorship of Knight's sentence or proof that either author meant the Hall's Circle/Loop distinction.
 
@@ -148,7 +148,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 
 The Hall of Mirrors keeps two rooms of its own:
 
-- **[[Artifacts]]** — the evidence room: the original 149-record gallery, as color-coded cards (browse by number) and as deep-dives by type. Later rooms 150–216 continue in [[Rooms Behind the Gallery]].
+- **[[Artifacts]]** — the evidence room: the original 149-record gallery, as color-coded cards (browse by number) and as deep-dives by type. Later rooms 155–218 continue in [[Rooms Behind the Gallery]].
 - **[[Hall of Mirrors/The I'm 33 Board|The "I'm 33" Board]]** — Roy's working cosmology spreadsheet, the source-code the whole maze was quarried from.
 
 ## Read next

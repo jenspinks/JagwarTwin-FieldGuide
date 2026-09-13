@@ -16,7 +16,7 @@ Think of this section as the evidence room, except the evidence sometimes sings.
 
 ## The original gallery — 149 catalogue records, by number
 
-The original gallery's catalogue records as scannable cards, in Hall of Mirrors room order. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the collection reads at a glance. Each card's title opens its room, and **More →** jumps to the full reading. Later discovered and opened rooms 150–216 continue in [[Rooms Behind the Gallery]].
+The original gallery's catalogue records as scannable cards, in Hall of Mirrors room order. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the collection reads at a glance. Each card's title opens its room, and **More →** jumps to the full reading. Later opened rooms 155–218 continue in [[Rooms Behind the Gallery]].
 
 - **[[Artifacts - Gallery 1 (1-37)|Gallery 1 · #1–40]]**
 - **[[Artifacts - Gallery 2 (38-74)|Gallery 2 · #41–78]]**
