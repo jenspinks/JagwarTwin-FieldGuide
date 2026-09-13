@@ -5,7 +5,7 @@ cssclasses: ["circus-home"]
 status: published
 confidence: grounded
 ---
-<div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">Welcome to the Circus — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="jagwar-twin/Start+Here/The+Jagwar+Twin+Field+Guide#Start here">Enter the Guide ↓</a></div></div>
+<div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">Welcome to the Circus — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="https://jagwartwinlore.com/Start+Here/The+Jagwar+Twin+Field+Guide#Start+here">Enter the Guide ↓</a></div></div>
 
 > An independent, unofficial fan guide to the world inside Jagwar Twin's music. Everything here is interpretation built on public songs, videos, interviews, and posts; the jokes are ours, the songs are his.
 
