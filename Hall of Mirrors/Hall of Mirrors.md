@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Hall of Mirrors
 
-> **▶ The artifact archive.** The original 149-record gallery is catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`Artifacts/`). Later opened rooms 155–218 continue in [[Rooms Behind the Gallery]].
+> **▶ The artifact archive.** The original 149-record gallery is catalogued with images, deep readings, and verified song-ties in the [[Artifacts|Artifacts hub]] (`Artifacts/`). Later opened rooms 155–222 continue in [[Rooms Behind the Gallery]].
 
 > **One-line reading.** Hall of Mirrors is the Jagwar Twin metaverse — a web3 puzzle-world built on the fiction that the artist uploaded his consciousness to the internet and scattered the pieces of himself behind locked doors, so that the fans who decode the clues are the ones who bring him back into the light.
 
@@ -148,7 +148,7 @@ What the artifacts *are*, in Roy's own inventory: *"some are unreleased songs…
 
 The Hall of Mirrors keeps two rooms of its own:
 
-- **[[Artifacts]]** — the evidence room: the original 149-record gallery, as color-coded cards (browse by number) and as deep-dives by type. Later rooms 155–218 continue in [[Rooms Behind the Gallery]].
+- **[[Artifacts]]** — the evidence room: the original 149-record gallery, as color-coded cards (browse by number) and as deep-dives by type. Later rooms 155–222 continue in [[Rooms Behind the Gallery]].
 - **[[Hall of Mirrors/The I'm 33 Board|The "I'm 33" Board]]** — Roy's working cosmology spreadsheet, the source-code the whole maze was quarried from.
 
 ## Read next
