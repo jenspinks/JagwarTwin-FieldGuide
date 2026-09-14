@@ -24,7 +24,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **Who speaks** — mostly the **City** (*"and she said…"*); the singer (**[[Roy]]**) originates almost nothing; **[[Sir Lucius]]** is co-credited as a voice on it, and it is *his* City — the City of *Light*.
 - **Key symbols** — [[The Prop Room#The Star-Lined Road|the star-lined road]] · the bright lights ([[Fire]]) · [[The Mirror|the mirror]] (*"everyone looks just like you"*) · the counterfeit crown.
 
-This is the temple that [[Playing to the Gods]] is the seed of. Tracks 9 and 10 are one movement — they share the same *never gonna die* chant, and Jen first heard them live at the CD-release party as a single unbroken song; the album split them into two tracks after the fact. (It's the same seam-device the record uses for tracks 1→2 and 6→7.) So read them together: **Playing to the Gods** is the overture-mantra, **City of Angels** is the full song that swallows it whole.
+This is the temple that [[Playing to the Gods]] is the seed of. Tracks 9 and 10 are one movement — they share the same *never gonna die* chant, and they were performed at the CD-release party as a single unbroken song; the album split them into two tracks after the fact. (It's the same seam-device the record uses for tracks 1→2 and 6→7.) So read them together: **Playing to the Gods** is the overture-mantra, **City of Angels** is the full song that swallows it whole.
 
 ## The song, mapped
 

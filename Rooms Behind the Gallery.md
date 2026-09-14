@@ -13,9 +13,7 @@ Sixty-four Hall of Mirrors rooms that are **not** in the public galleries.
 
 The galleries hold what the community unlocked in 2022 and 2023 — roughly a hundred and fifty rooms, most of them solved in a rush over a single August, then a long quiet tail. This page holds what came after: every room opened since, all of them this year. Each is a real door in the same maze, with its own artwork and its own key. None of them are in the galleries, because the galleries stop where the community stopped.
 
-They are laid out **in the order they opened**. The numbers carry on from where the galleries end — the maze has always numbered its rooms in the order they were first unlocked, so these are almost certainly the numbers each will be given once the backend catches up.
-
-A note on how they came open, said once here rather than repeated on every room: some of these keys were worked out, and about twenty were simply **read out of the maze's own public records**, which say more about themselves than they mean to. The difference matters to anyone still playing, and none at all to what the artifacts are — which is what the write-ups below are about.
+The rooms are laid out **in the order they opened**. Their numbers continue the sequence used in this guide.
 
 <span class="jt-standalone-marker"></span>
 
@@ -29,7 +27,7 @@ Card titles open the room in the maze itself, which will want a wallet connected
 
 | Name | Image | Code | Filed under | | Read |
 |---|---|---|---|---|---|
-| **[155 · Grandma Vi](https://mirrors.jagwartwin.com/rooms/0x5640402ea6efb88db35d187a69630aaa8f154ac1f1710d3897733ca31f6a7f16)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5640402ea6efb88db35d187a69630aaa8f154ac1f1710d3897733ca31f6a7f16..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5640402ea6efb88db35d187a69630aaa8f154ac1f1710d3897733ca31f6a7f16..jpg) | `A bridge between worlds` | Life Changing Connections (VI Link) | The room the whole connections shelf is named after. | [[#155 · Grandma Vi\|Read the discovery →]] |
+| **[155 · Grandma Vi](https://mirrors.jagwartwin.com/rooms/0x5640402ea6efb88db35d187a69630aaa8f154ac1f1710d3897733ca31f6a7f16)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5640402ea6efb88db35d187a69630aaa8f154ac1f1710d3897733ca31f6a7f16..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5640402ea6efb88db35d187a69630aaa8f154ac1f1710d3897733ca31f6a7f16..jpg) | `A bridge between worlds` | Life Changing Connections (VI Link) | Grandma Vi, whose name echoes the connections shelf’s VI Link. | [[#155 · Grandma Vi\|Read the discovery →]] |
 | **[156 · Young Roy Painting for Mom](https://mirrors.jagwartwin.com/rooms/0xf8d069b3cf082060706ba7a63db0f93302111db052480177b1658ddf72b81cf4)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf8d069b3cf082060706ba7a63db0f93302111db052480177b1658ddf72b81cf4..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf8d069b3cf082060706ba7a63db0f93302111db052480177b1658ddf72b81cf4..jpg) | `Were you raised in a barn?` | Unseen Things/Concealed Generations | A painting made for his mother, opened by something she might have said. | [[#156 · Young Roy Painting for Mom\|Read the discovery →]] |
 | **[157 · VI Link](https://mirrors.jagwartwin.com/rooms/0xbe0064b5fc4d1170a9b14438e701bbf22ea62fb923c0425aff47b060a838b80b)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbe0064b5fc4d1170a9b14438e701bbf22ea62fb923c0425aff47b060a838b80b..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbe0064b5fc4d1170a9b14438e701bbf22ea62fb923c0425aff47b060a838b80b..jpg) | `I want to be a bridge between worlds` | Life Changing Connections (VI Link) | I.H.S. · VI — Love — Sacrifice · there must be a Link. | [[#157 · VI Link\|Read the discovery →]] |
 | **[158 · Genesis Tree Code](https://mirrors.jagwartwin.com/rooms/0xf8ba26296aaa48f701772f6f5698a995912004ce0c71ad89981399412ad8be3f)** | [![](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf8ba26296aaa48f701772f6f5698a995912004ce0c71ad89981399412ad8be3f..jpg)](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xf8ba26296aaa48f701772f6f5698a995912004ce0c71ad89981399412ad8be3f..jpg) | `Know how to spell the name of the song` | Window Of Appearance | A City-sheet crop between Carroll's naming instruction and the *Another Way II Heaven* mint. | [[#158 · Genesis Tree Code\|Read the discovery →]] |
@@ -104,7 +102,7 @@ Card titles open the room in the maze itself, which will want a wallet connected
 
 A photograph of Roy's grandmother, Vi.
 
-Of everything in the maze, this is the room whose *placement* says the most. The shelf that holds every artifact about the people who shaped him is called **Life Changing Connections (VI Link)**. She isn't filed under that heading — the heading is named after her. Grandma Vi's Cow, the VI Link tweet, the plane, the masks, the early-archive photographs: all of it sits in a category carrying her initials.
+Of everything in the maze, this is the room whose *placement* says the most. The shelf that holds every artifact about the people who shaped him is called **Life Changing Connections (VI Link)**. The **VI Link** name echoes Grandma Vi. Grandma Vi's Cow, the VI Link tweet, the plane, the masks, the early-archive photographs: all of it shares the same shelf.
 
 Her key is `A bridge between worlds`, and that phrase is not a description of the picture. It is the **name of another artifact** — another artifact the maze also calls *A bridge between worlds* (two records carry that name, a Christmas-spider drawing and a medal video; the maze's own record points at the video). One room's title is another room's key, and that link runs directly into hers.
 
@@ -184,11 +182,11 @@ Small things in the frame that nobody has explained: a **071** tag, the jeweller
 
 <span class="jt-facts">**Key** `Stomach of a cat + 9 lives`  ·  **Filed under** Unseen Things/Concealed Generations  ·  Image</span>
 
-A cat beneath a crescent moon — **gears in its right hand**, sandals on its feet, standing on the moon itself.
+A cat beneath a crescent moon — **holding two gears**, sandals on its feet, standing on the moon itself.
 
 Its key, `Stomach of a cat + 9 lives`, is a coordinate as much as a phrase. The maze numbers its animals down the ladder, **swan 1 to rabbit 10**, and numbers body parts the other way, **feet 1 to crown 10** — so an animal and a body part name the same rung from opposite ends, and each pair adds to eleven. Cat is nine, the stomach is two. The key carries both halves of its own address.
 
-The drawing is more precise than it first looks. **Gabriel, the moon, machinery, sandals** is a bundle that sits together in one chapter of Dion Fortune, and again in one row of the *777* correspondence tables — the archangel of that sphere, and the vision of the machinery of the universe. Jen's note on the artwork was *"the moon is a machine"*; the gears in its hand say the same thing, and so does the tradition it's drawn from.
+The drawing is more precise than it first looks. **Gabriel, the moon, machinery, sandals** is a bundle that sits together in one chapter of Dion Fortune, and again in one row of the *777* correspondence tables — the archangel of that sphere, and the vision of the machinery of the universe. The gears give that lunar association a mechanical form: the moon as a machine.
 
 One of the maze's bestiary: animals standing in for the powers, each on its own rung.
 
@@ -330,7 +328,7 @@ The key is that word with a single space after it, and the space is real — the
 
 The line itself is the reason the room exists. A colour you can't see, named as a preference — filed, appropriately, under **Personified Inner Monologue**, a shelf with only six rooms on it, for the artifacts that are the project talking to itself.
 
-It sits beside another room whose key names *the invisible light spectrum*. Two doors, both about seeing something that isn't there to be seen.
+Another room opens with a key naming *the invisible light spectrum*. Two doors, both about seeing something that isn't there to be seen.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x1fd015c49b6ed9cca56425279813c458badab5ca37c7587de8d19c58538a7954) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1fd015c49b6ed9cca56425279813c458badab5ca37c7587de8d19c58538a7954..jpg)<br>The maze calls this one <b>Informational Tweet</b> · opened 21 August 2026</span>
 
@@ -366,7 +364,7 @@ The ear-checked recording is led by an adult female reader/singer whose identity
 
 <span class="jt-facts">**Key** `Grey in A#`  ·  **Filed under** Buried Things  ·  Image</span>
 
-A white pigeon or dove stands on an ornate shallow metal vessel or pedestal against black. The photograph, photographer, depicted object, culture, and collection have not been identified. Older descriptions calling it a Tibetan ritual chalice or butter lamp went beyond the evidence.
+A white pigeon or dove stands on an ornate shallow metal vessel or pedestal against black. The image file credits Montique. The vessel’s identity remains a mystery.
 
 Its key is `Grey in A#` — a colour and a musical note, together. The maze does this elsewhere too: one of the notebook sheets carries a table pairing colours to notes up a ten-step scale, and grey sits on A#. The key isn't a description of the picture; it's a coordinate from a system drawn on a different page entirely.
 
@@ -520,7 +518,7 @@ Its key is `Roy 26` — and the arithmetic is **written on the artifact itself**
 
 Twenty-six is the number the tradition attaches to the divine name, the letters of YHVH added up. The room sets it beside his own. That is a large thing to put in a small room, and the maze does it without comment: a name, a number, and no argument attached.
 
-It belongs with the other rooms where Roy appears as a figure rather than an author — the self-portrait with the third eye, the diary page. The maze keeps a whole strand about the man being looked at from outside.
+Other rooms picture Roy through a self-portrait or a diary page. Here, a name becomes a worked number: another way the maze turns the self into something that can be looked at.
 
 Filed under **Seeds of Infinity / Childhood**.
 
@@ -973,7 +971,7 @@ Its key is `Q373`: a **cell reference** on Roy's *I'm 33* spreadsheet, the way y
 
 The square at Q373 reads *Separation Magnets*.
 
-Jen's reading of the name, economical and unproven: **G OWL becomes GLOW** if the L slides into the gap. An owl that sees in the dark, filed under **From Darkness**.
+A small word-game suggests itself: **G OWL becomes GLOW** if the L slides into the gap. An owl that sees in the dark, filed under **From Darkness**.
 
 Another Hall room holds *RAtziel the Beech Owl*, an archangel drawing with three stars and whirling wheels. Shared species is not enough to make this figurine that character. The possible relation remains an invitation, not an identification.
 
