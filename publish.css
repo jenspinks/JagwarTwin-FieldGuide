@@ -1243,11 +1243,24 @@ body.jt-moon-open .jt-moon-fab, body.jt-standalone .jt-moon-fab { display: none 
 /* END-FIRST PILOT: summaries are part of the drawer title, so they remain
    visible when folded. Only explicitly marked summaries receive this style. */
 .callout-title-inner .jt-drawer-summary {
-  color: var(--text-normal, #e7e1d4);
+  color: color-mix(in srgb, var(--text-normal, #e7e1d4) 82%, transparent);
   font-size: 1rem;
   font-weight: 400;
-  font-style: normal;
+  font-style: italic;
   line-height: 1.5;
   white-space: normal;
   overflow-wrap: anywhere;
+}
+.callout-title-inner .jt-drawer-summary::after {
+  content: "Read more ↓";
+  display: block;
+  margin-top: 0.5rem;
+  color: var(--callout-title-color, #ecc861);
+  font-size: 0.8rem;
+  font-weight: 500;
+  font-style: normal;
+}
+.callout.is-collapsible:not(.is-collapsed) .jt-drawer-summary::after,
+details.callout[open] .jt-drawer-summary::after {
+  content: "Read less ↑";
 }
