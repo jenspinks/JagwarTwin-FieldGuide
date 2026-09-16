@@ -251,6 +251,14 @@
     }).join("/");
   }
 
+  // Publish sets <base href="https://publish.obsidian.md">, so a bare "/path" link or
+  // location.href would resolve off-site (a 404). Every URL the map builds is absolute.
+  function absUrl(url) {
+    var origin = global.location && global.location.origin;
+    if (!origin || !/^https?:/.test(origin)) origin = "https://jagwartwinlore.com";
+    return origin + "/" + url;
+  }
+
   function titleOf(path, fm) {
     if (fm && typeof fm.title === "string" && fm.title.trim()) return fm.title.trim();
     return path.split("/").pop().replace(/\.md$/, "");
@@ -362,7 +370,7 @@
     var graph = buildGraph(options.cache, options);
     var mini = options.mode === "mini";
     var reduce = global.matchMedia && global.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    var navigate = options.navigate || function (path) { global.location.href = "/" + publishUrl(path); };
+    var navigate = options.navigate || function (path) { global.location.href = absUrl(publishUrl(path)); };
     var current = options.currentPath && graph.byPath[options.currentPath] ? graph.byPath[options.currentPath] : null;
 
     var root = document.createElement("div");
@@ -690,12 +698,21 @@
         if (list.hidden) {
           list.innerHTML = graph.sections.map(function (s) {
             var items = s.members.slice().sort(function (a, b) { return a.title.localeCompare(b.title); })
-              .map(function (n) { return '<li><a href="/' + n.url + '">' + escapeHtml(n.title) + "</a></li>"; }).join("");
+              .map(function (n) { return '<li><a href="' + escapeHtml(absUrl(n.url)) + '" data-path="' + escapeHtml(n.path) + '">' + escapeHtml(n.title) + "</a></li>"; }).join("");
             return "<h3>" + escapeHtml(s.label) + "</h3><ul>" + items + "</ul>";
           }).join("");
           list.hidden = false; listBtn.textContent = "Close list";
         } else { list.hidden = true; listBtn.textContent = "List view"; }
       };
+      // Plain clicks go through the host's router; modified clicks (new tab) keep the real href.
+      list.addEventListener("click", function (e) {
+        var a = e.target && e.target.closest && e.target.closest("a[data-path]");
+        if (!a || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+        var n = graph.byPath[a.getAttribute("data-path")];
+        if (!n) return;
+        e.preventDefault();
+        navigate(n.path, n.url);
+      });
     }
 
     function onResize() { if (!root.isConnected) return; resize(); fit(); draw(); }
@@ -726,7 +743,7 @@
     };
   }
 
-  global.JagMoon = { mount: mount, buildGraph: buildGraph, publishUrl: publishUrl, SECTIONS: SECTIONS };
+  global.JagMoon = { mount: mount, buildGraph: buildGraph, publishUrl: publishUrl, absUrl: absUrl, SECTIONS: SECTIONS };
 })(window);
 
 /* The moon — Wander the Web.
@@ -763,7 +780,7 @@
   function go(P, path) {
     closeMap();
     try { P.navigate(path, ""); }
-    catch (e) { window.location.href = "/" + window.JagMoon.publishUrl(path); }
+    catch (e) { window.location.href = window.JagMoon.absUrl(window.JagMoon.publishUrl(path)); }
   }
 
   function mountPanel(P) {

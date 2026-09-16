@@ -1176,6 +1176,9 @@ body.jt-standalone .markdown-preview-view .markdown-preview-sizer > table{
 .jagmoon-open { background: #8b1e2d; border: 0; color: #f2e3c6; border-radius: 30px; font: inherit;
   font-size: .72rem; letter-spacing: .08em; padding: .42em 1em; cursor: pointer; }
 .jagmoon-open:hover { background: #a82435; }
+/* Publish's own button rules outrank a bare class, which left "Open page" unfilled */
+.jagmoon .jagmoon-card button.jagmoon-open { background: #8b1e2d; color: #f2e3c6; border: 0; border-radius: 30px; box-shadow: none; padding: .42em 1em; }
+.jagmoon .jagmoon-card button.jagmoon-open:hover, .jagmoon .jagmoon-card button.jagmoon-open:focus-visible { background: #a82435; outline: none; }
 
 .jagmoon-listbtn { top: 14px; left: 16px; background: rgba(18,16,19,.82); border: 1px solid rgba(236,200,97,.28);
   color: #f2e3c6; border-radius: 40px; font: inherit; font-size: .72rem; letter-spacing: .06em; padding: .4em .95em; cursor: pointer; }
