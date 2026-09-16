@@ -1238,3 +1238,16 @@ body.jt-moon-open .jt-moon-fab, body.jt-standalone .jt-moon-fab { display: none 
   .jt-moon-overlay .jagmoon-top { top: 58px; }
 }
 /* <<< JT MOON END */
+
+
+/* END-FIRST PILOT: summaries are part of the drawer title, so they remain
+   visible when folded. Only explicitly marked summaries receive this style. */
+.callout-title-inner .jt-drawer-summary {
+  color: var(--text-normal, #e7e1d4);
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}

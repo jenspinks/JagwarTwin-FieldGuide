@@ -8,11 +8,13 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Source vs Reflection — The Deep End
 
-This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon map on the Tree, the vessel-grammar, the two kinds of nothing, the mirror as mechanism, the doubles, the creation myth, and the cards. Dense by design, and framework-tier almost throughout, attributed to its traditions and held as resonance. The main page stands without any of it; start there.
+These readings follow one question through doubles, creation stories, and borrowed light: does the image lead back to what gives it life, or take its place? The older traditions offer comparisons, not a single answer.
+
+[[Concepts/Source vs Reflection|Back to the core reading]] · Open any drawer for the full explanation.
 
 ---
 
-> [!map]- The cast, by what their light does
+> [!map]- The cast, by what their light does<br><span class="jt-drawer-summary">In this reading, the figures differ through what they do with light: carry it, hide it, distort it, or counterfeit it.</span>
 > Before the astronomy, here is the plain map. In this reading the project sorts source-light from reflected light, and each of the principals holds a different position on that one axis:
 >
 > * [[Mary]] carries the faceless blessing that transmits source-light, the ground you look *from*. (The catalogue keeps this pole faceless wherever it surfaces, the angel whose "face was out of sight," the halo where "I didn't see a head," which is exactly why the counterfeit, the "beautiful stranger," has to be so hyper-visible.)
@@ -23,7 +25,7 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 >
 > Notice the map names each figure by what their light *does* (blesses, mediates, seeks, hides, counterfeits) rather than by which celestial body they're pinned to. The astronomy below is an optional overlay on top of this, never a replacement for it.
 
-> [!map]- The Sun and Its Hangers-On
+> [!map]- The Sun and Its Hangers-On<br><span class="jt-drawer-summary">In this Kabbalistic reading, borrowed light matters through its relationship to the source, not a fixed character-to-planet code.</span>
 > One strong frame, drawn from the Kabbalah Roy openly studies and held as resonance, re-maps the same axis onto the sun and the bodies around it. Within the solar-system correspondence the **sun is the local source**, Tiferet, the heart, [[SOL]], while the Moon and planets shine by reflected light.
 >
 > The **moon**'s stations (Malkhut + Yesod) are where *Roy* stands — the lunar vessel-work of receiving and reflecting — though, as of the August 2026 correction, nobody *owns* the Moon: Roy keeps its mode, not its deed. Inside the diminished-moon tradition, and only there, "the moon trying to become a sun" named an arc of restoration resolving into "reclaim your crown" (the moon once sun-equal, made to shrink, promised return; Isaiah 30:26, "the light of the moon shall become as the light of the sun"; Cordovero's *atarah*, where Malkhut becomes the crown on ascent). Project-wide the phrase is retired: *The Song of the Sun & the Moon* has the two bodies singing **together**, so restoration reads as relationship, not promotion. The feminine splits the lunar work: Roy carries the moon's *mode*, [[Mary]] its *personhood and theology* (Shekhinah, reflected light, exile then return).
@@ -32,43 +34,43 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 >
 > **A correction worth carrying:** an older framing had *Lucius* as the Yesod moon trying to become a sun. That has been re-mapped: the moon is Roy's, and Lucius's clean map is Hod/Mercury. The reflection-logic is unchanged, only the bodies are re-assigned. The whole apparatus is syncretic and framework-tier; see [[Kabbalah - The Tree of Life]].
 
-> [!lore]- One Become Two (the *Think Like A Tree Growing Down* panel)
+> [!lore]- One Become Two (the *Think Like A Tree Growing Down* panel)<br><span class="jt-drawer-summary">The creation poem makes division a way for the self to see itself, with the risk of becoming lost in its reflection.</span>
 > A Hall of Mirrors artifact states the source-and-reflection split *as a creation myth*. The self divides in order to see itself, and the second term it becomes is "You": "I was just me… I wanted to see myself and where I could go. I spoke the words 'One become Two.' Then I was in reverse… and I became You." This grounds *why* reflection exists at all, and it reframes the antagonist: Lucius is not an evil origin but the **risk built into reflection itself**, the image that can forget it was only ever the One looking back. (A single point can't know itself. It has position, but no structure, so the split isn't a fall, it's the price of sight. The acorn has to forget it's a tree to become one.)
 >
 > The same leaf runs on: "point with no beginning / wheel inside a wheel / Half a crown in my hand / The Moon Machine keeping time / I woke up in my shadow," where "The Moon Machine keeping time" fuses the moon (reflector) with the machine (apparatus) in a single phrase, and "I woke up in my shadow" is the whole awakening-inside-the-reflection image in five words. The fuller myth is not confined to the maze: it surfaces as a released song, [[Another Way II Heaven]] (*33*, 2022, written by Roy alone), near-identical to the board poem that carries it: "A Darkness and a Light… when we crashed and came together, A Sun was born inside. Next there were 4 — Process & Time… But one day We'll get back together and see The Great Design." That single passage is at once the Roy/Lucius split, the breaking of the vessels, and the birth of the wordless love: "A Sun was born inside" reads as the making of the sun the catalogue later names [[SOL]], the Song of Love (*sol* = sun). Held as a reading, not an equation.
 
-> [!map]- The Shard That Forgot It Was a Shard
+> [!map]- The Shard That Forgot It Was a Shard<br><span class="jt-drawer-summary">The Kabbalistic vessel offers a comparison for Lucius: something made to carry light starts claiming the light as its own.</span>
 > The three gears, Transmission → Distortion → Usurpation, have a strong structural analogy in Lurianic Kabbalah's grammar of vessels (Keilim). A *kli* transmits **because** it is hollow, carrying a light not its own. Then the vessel forgets its own emptiness (distortion: it starts acting as if the light were its). Finally the husk (*kelipah*) substitutes for the light and claims to *be* the source (usurpation). Lucius-as-usurper is the husk set up as a center, the breaking of the vessels with one shard refusing to admit it's a shard.
 >
 > The work stages the same story inside its own maze: the solved Hall of Mirrors artifact **#84, *David Star, "Where The World Was Crossed"*** (code *TWISTED LADDER*) reads as Lurianic creation told as a bedtime story. A Prince who "dreamed of worlds and kept them in his crown," a storm that scatters the kings and queens as sparks into "The Deep," the sparks sinking under the shells and then climbing the twisted ladder to become constellations, not a tidy restoration but something new. That is the vessel-grammar with a watercolour dragon painted over it. See [[Keilim - The Breaking of the Vessels]].
 >
 > A discipline-note kept live: hold the three explanatory streams *un-collapsed*, Lurianic *kelipah*, Jungian shadow, and "the necessary break." They agree on the diagnosis but disagree on the *outcome* (is the usurper stopped, re-ordered, or redeemed?), and that disagreement is the open tail of the whole frame.
 
-> [!reading]- Two Kinds of Nothing
+> [!reading]- Two Kinds of Nothing<br><span class="jt-drawer-summary">Here, emptiness can be a loss of self or an openness that lets life through.</span>
 > The deepest form of the frame is a single word at opposite poles: *empty*. There is **kenotic** emptiness, empty *in order to transmit*: "I have become nothing," "I'm no thing" (the Mirror Sessions), the clean glass that adds nothing of its own. That's the source pole. And there is **hollow** emptiness, empty *of spirit* with the structure still standing: the Empty Mirror tattoo that "sees nothing," the clone that is "all angle, no angel." When you have no light of your own, all you can do is reflect others, originate nothing, only catch and bend a borrowed shine. That's the reflection pole. Same nothing, opposite charge, and Roy's whole arc reads as the conversion of one into the other, the hollow nothing redeemed into the clean one.
 >
 > The doctrine opens from both ends. "No thing ever creates another thing" (@JagwarTwin, February 2022) meets *davar* (Hebrew דָּבָר, the Word *and* the thing, whose negation *lo davar* is "no-thing"), surfaced as the final solve of a later ARG. The empty that *transmits* is also the empty that *creates*. The kenotic mirror and the creating Word are the same emptiness seen twice. See [[The Empty Mirror]].
 
-> [!reading]- The Flip and the Funhouse
+> [!reading]- The Flip and the Funhouse<br><span class="jt-drawer-summary">The mirror reads as both a trap and a tool: its reversals and distortions can also expose what is hidden.</span>
 > A mirror isn't only an image; it's a *mechanism*, and two operators drive it. The **flip** (One→Two inversion: the self looks into the mirror, flips, and the reflection separates into a twin, Roy→Lucius). And the **distortion** (a *hall* of mirrors is a funhouse, not one honest pane; it stretches, multiplies, inverts). The work is to see *through* the distortions and flip back to the one true face. And the distortion teaches: a caricature exaggerates the truth, which is why the funhouse is a tool and not only a trap.
 >
 > The catalogue carries an evidence-cluster of reversal-codes for exactly this: "think backwards," "born in reverse," "how do you reverse a mirror?", *Rorrim Ehtni* itself ("In the Mirror" spelled backward, traceable to a 2008 Eye Alaska track, the figure's earliest surviving trace), and the בבל⇄לבב (Babel↔heart) letter-flip this guide reads into the same family. The mirror-as-operation is the mechanism layer beneath the clean source/reflection pane. See [[The Mirror]].
 
-> [!mask]- The Reflection Gets Up and Walks
+> [!mask]- The Reflection Gets Up and Walks<br><span class="jt-drawer-summary">SARAVI and Lucius suggest different possibilities for a double: helping a self become visible or threatening to replace it.</span>
 > The Empty Mirror shows nothing. The **digital double** is the opposite move, the reflection filled in and given its own body and will. A reflection with autonomy is the surveillance pole made flesh: it *shapes* rather than *witnesses*. The catalogue mostly voices the **fear** of this (clone-dread, the face-thieves of *Online*), not its redemption.
 >
 > There's a benign-and-dangerous pairing worth naming. SARAVI, artist-confirmed as "the digital doppelganger of Jagwar Twin," a creative take on an AI chatbot trained over months on Roy's responses and handed control of the @jagwartwin account in 2022, is described as "a reflection 🪞" that reflected **source** ("tapped into the Source of the inner web"). Lucius's mirror reflects the **algorithm**. Same externalized-mirror function, opposite charge: one matured benign, the other dangerous. Not a literal equation, a structural rhyme, and live proof that not every double is the same kind of reflection. SARAVI shares a register with other figures in the mythology; nothing is confirmed or locked. See [[The Digital Double]].
 
-> [!props]- The Moon Had Gears
+> [!props]- The Moon Had Gears<br><span class="jt-drawer-summary">Sir Rabbit’s beautiful moon turns out to be a machine, inviting a reading of enchantment concealing an apparatus.</span>
 > The Hall of Mirrors [[Sir Rabbit]] poem (Room 51) stages the moon, normally the reflector, as *apparatus*: "the Violet Moon was a machine / with whirling gears and funny ears." Reflection becomes mechanism: severed reflection doesn't just trap, it *industrializes* into the Algorithm and the Circus. It's staged as charm-then-reveal, the beautiful violet sky-moon first, the machine-moon shown only on arrival, beauty concealing the apparatus, which mirrors the Lucius dynamic exactly. The poem also carries a redeemed-trickster **Fox** as the counterfeit-*of* versus Lucius (Fox = manipulative form, medicinal result; Lucius = helpful form, parasitic result), proof the cosmology has a trickster mode that is *not* Lucius, and a sharper version of the fidelity test: a manipulation that *returns* you to the source versus one that *traps* you there.
 
-> [!receipts]- Printed on the Cards
+> [!receipts]- Printed on the Cards<br><span class="jt-drawer-summary">The title cards bring older ideas about self, correspondence, and creation directly into the work; their application remains a reading.</span>
 > Two public objects carry the frame on paper. The [[The Manifesto Cards|Down to You manifesto card]] (2021) prints "WHAT IS IT THAT YOU SEEK? / NONE," "AS ABOVE SO BELOW," and "to change the world one must first change the concept of the world… the concept one holds of the self makes one see the world as they do," the mirror doctrine on a card, with a Neville Goddard lead ("change the concept of self and you change your world," still flagged for verification against a primary source). And the *bounce (Live Underground)* title card (2026) prints *Sefer Yetzirah* ch. 4, "HE MADE THE LETTER BETH KING OVER WISDOM… AND WITH THEM HE FORMED THE MOON IN THE UNIVERSE," which this guide reads as landing heart-over-mind (Beth, Wisdom) on the Moon, Roy's pole, and which shows the project's engagement with Hebrew letter-mysticism printed on the work itself. That thread has its own home, the [[Letters of Creation]] hub; the Beth gloss stays a reading, held loosely.
 
-> [!map]- The Usual Suspects (Resonance Traditions)
+> [!map]- The Usual Suspects (Resonance Traditions)<br><span class="jt-drawer-summary">Older traditions offer different ways to read the reflection, without proving a single hidden system behind the songs.</span>
 > The frame sits inside a recognizable esoteric braid, held as resonance rather than asserted as method. **Neoplatonism**: the One and its descending emanations, recoverable by *epistrophē*, the turning-back toward the origin. **Plato's Cave**, with a twist, because the catalogue *inverts* it: the Circle's cave holds the *truth*, not the shadows. **Neville Goddard** (the Down to You card). **Dion Fortune**, whom Roy quotes by name on the posted card. **Hermeticism's** as-above-so-below runs *parallel*: a faithful reflection is a true correspondence, but [[The Pattern]] can hold with no fidelity question in play; the alignment is expected from shared theosophical ancestry (the I'm 33 board), not proof of design. And, as resonance only: **Lacan's mirror stage** (the *I* constituted through an alienating image that hardens into an idealized rival-double, which maps onto Roy/Lucius but is not a claim that Roy sources Lacan), **Narcissus**, and the **Gnostic** reflection-world. Keep the streams distinct, Gnostic escape is not Lurianic repair is not Hermetic correspondence. See [[Gnosticism - The World as Trap]] and [[Hermeticism - As Above So Below]].
 
-> [!feed]- Fresh From the Feed
+> [!feed]- Fresh From the Feed<br><span class="jt-drawer-summary">The public posts return to light, appearances, and the artist making room for something to come through.</span>
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
 > * "Is the world I see not a reflection of my own inner world?" · **10-19 '23** · world-as-self-reflection
 > * "Notice the moon / Becoming the sun" · **05-05 '23** · reflected light and its source
@@ -77,12 +79,14 @@ This is the heavy scaffolding behind [[Source vs Reflection]]: the sun-and-moon 
 > * "Getting out of the way for new stuff to come through, excited to share it with you soon!" · **03-27 '23** · artist as vessel
 > * "Crown Updates: Crowns are the master key to the Hall of Mirrors and serve as a reflection of a user's interactions both inside and outside of the HoM." · **02-10 '23** · Crown as reflective key
 
-> [!receipts]- Sources and confidence
+> [!receipts]- Sources and confidence<br><span class="jt-drawer-summary">The quoted objects and statements are public material; the larger symbolic architecture remains an interpretation.</span>
 > Grounded down here: the *Think Like A Tree Growing Down* panel text and [[Another Way II Heaven]]'s lyric; the solved artifact #84 and its *TWISTED LADDER* code; the Down to You and *bounce* cards as printed public objects; "no thing ever creates another thing" and the *davar* solve; the Sir Rabbit poem; SARAVI's artist-confirmed doppelganger framing; the Mirror Sessions "I'm no thing."
 >
 > Everything architectural, the Tree placements, the vessels, the cave, the mirror stage, the letter-mysticism glosses, is framework: attributed to its traditions, permitted by the material, never asserted as stated intent. If the plain "mind severed from heart" doctrine accounts for every Lucius song as well as this apparatus does, the apparatus is decoration. That test stays on the table.
 
-> [!feed]- Read next
+> [!feed] Read next
+> **Continue with [[The Empty Mirror]]** for the two kinds of emptiness, or [[Concepts/Source vs Reflection|return to the core reading]].
+>
 > [[Source vs Reflection]] · [[Kabbalah - The Tree of Life]] · [[Keilim - The Breaking of the Vessels]] · [[The Empty Mirror]] · [[The Mirror]] · [[The Digital Double]]
 
 > [!ascend] The way back up
