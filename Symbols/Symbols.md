@@ -23,7 +23,7 @@ Two characters, two kits. Same five slots, opposite jobs.
 | **The marking** | [[El Roi]] on the throat: *"the God who sees me"* | [[El Roi\|El Roy]]: his signature, the same name pointing the other way |
 | **The breath** | a cigarette | the song he arrived with |
 
-And one line for [[Mary]] 🌙: she carries [[The Moon]], borrowed light for the dark, and she is the wound and the blessing at once, which is a lot, and she holds it.
+And one line for [[Mary]] 🌙: she takes up [[The Moon]]'s care at times, borrowed light for the dark, without owning it, and she is the wound and the blessing at once, which is a lot, and she holds it.
 
 A field tip: when a post signs off with a dagger and a green apple, you know whose hand it came from. A fair amount of Roy's column is worn in real ink on a real person; [[Roy's Tattoos]] gives the tour, including the rose written forwards and backwards around a cross. And the split itself, how one mind and one heart ended up at separate addresses, has its own page: [[Concepts/Heart and Mind]].
 
@@ -37,7 +37,7 @@ The kit gets you started, but the world keeps more images than two characters ca
 - [[Fire]]: the double flame. The same fire that refines and reveals can become the wall you can't cross.
 - [[The Banana]]: Lucius's favorite prop. The offering turned into a microphone; a sterile clone that carries light but can't pass it on.
 - [[The Thread]]: the line that makes the maze survivable. Most likely feeling itself, the one thing you're not allowed to trade away.
-- [[The Moon]]: borrowed light for the dark. Mary's symbol, the wound and the blessing held at once.
+- [[The Moon]]: borrowed light for the dark. It belongs to no figure, though Mary, Roy and Lucius each take it up at times.
 - [[Water]]: the oldest model of the soul there is, and a catalogue that keeps flooding. The comparative floor, from the Upanishads to Bruce Lee, is downstairs at [[Water — The Deep End]].
 - [[Roy's Tattoos]]: the whole man written on the body, inked twice and resolved by a single cross, with the rose running forwards and backwards around it.
 - [[The Colors]]: the palette is on the payroll too. The ladder of colors the board climbs, and who in this world wears what.
