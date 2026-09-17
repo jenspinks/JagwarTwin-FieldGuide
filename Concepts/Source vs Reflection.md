@@ -8,26 +8,26 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Source vs Reflection
 
-A song, mask, or mirror can help you recognize yourself, or trap you in an image. This guide reads the difference as whether the reflection serves the living self or starts replacing it.
+> **One-line reading.** A song, mask, or mirror can help you recognize yourself, or trap you in an image. This guide reads the difference as whether the reflection serves the living self or starts replacing it.
 
-> [!gist]- I just want to be a mirror<br><span class="jt-drawer-summary">Roy’s public statements call a song a mirror; the danger, in this reading, is a reflection forgetting it is one.</span>
+> [!gist] I just want to be a mirror
 > Roy offers this as a method, not a mood, and he has repeated it for years: "more and more I realize that a song is a mirror," "we're all really mirrors to each other if we look." That last one predates the Hall of Mirrors site by four years.
 >
 > This guide traces the question underneath nearly everything in the catalogue: does a reflection carry you home to the source, or trap you in the image? You never meet the world straight; you meet it through a layer, a song, a dream, a sample, a mask, a screen, a crowd, your own memory. Every one of those layers either transmits (points back through itself to its origin and returns you there) or substitutes (stands in for the origin until you forget there was ever anything behind it).
 >
 > And it is emphatically not "source good, reflection bad." Reflection is unavoidable, often the only guide you've got, and it can carry life rather than replace it: the debut's inherited voices are borrowed light that still leads somewhere true. The danger is one specific forgetting, forgetting that a reflection is reflected.
 
-> [!receipts]- Where it enters<br><span class="jt-drawer-summary">Three starting points: public mirror statements since 2018, “I” narrowly out-counting “the” in the lyrics, and El Roi on Lucius’s throat.</span>
->
-> * Roy's mirror statements, public since 2018: "I just want to be a mirror," "a song is a mirror," "we're all really mirrors to each other if we look." The premise, stated as practice.
-> * The word count: tally every sung lyric and "I" (492) narrowly beats "the" (485), with "you" (478) right behind. In most catalogues "the" wins this contest in a walk; here the mirror is the grammar of the songs, not just an image in them.
-> * El Roi (אל ראי, "the God who sees me," Genesis 16:13), marked on Sir Lucius's throat: the reflection-figure wearing the name of the divine seer on the very throat that keeps insisting "you don't know me."
+**Where it enters**
+
+* Roy's mirror statements, public since 2018: "I just want to be a mirror," "a song is a mirror," "we're all really mirrors to each other if we look." The premise, stated as practice.
+* The word count: tally every sung lyric and "I" (492) narrowly beats "the" (485), with "you" (478) right behind. In most catalogues "the" wins this contest in a walk; here the mirror is the grammar of the songs, not just an image in them.
+* El Roi (אל ראי, "the God who sees me," Genesis 16:13), marked on Sir Lucius's throat: the reflection-figure wearing the name of the divine seer on the very throat that keeps insisting "you don't know me."
 
 Open any drawer for the reasoning. [[Concepts/The Deep End/Source vs Reflection — The Deep End|Go deeper]] for the older traditions and extended comparisons.
 
 ---
 
-> [!map]- The quiet part, said out loud<br><span class="jt-drawer-summary">The name, the ARG, two markings, and the posts all carry the mirror, and the posts treat its origin as not evil.</span>
+> [!map]- The quiet part, said out loud<br><span class="jt-drawer-summary">The project is a hall of mirrors, and the posts keep the reflection's origin not-evil.</span>
 > The project is, almost on the nose, a hall of mirrors. The band name, Jagwar Twin, the paired self facing itself, is one. The web3 ARG at mirrors.jagwartwin.com is another. And the mirror statements are not stray poetry; Roy repeats them across years and formats, alongside "Jagwar Twin is a collective consciousness."
 >
 > Two markings carry the frame, and they are not the same kind of thing. Sir Lucius wears El Roi at the throat as part of the mask (the balance of the evidence reads it as makeup, not ink on Roy's body). Roy wears The Empty Mirror at the wrist as an actual tattoo, and glosses it as "about looking at yourself in the mirror and seeing nothing."
@@ -43,7 +43,7 @@ Open any drawer for the reasoning. [[Concepts/The Deep End/Source vs Reflection 
 >
 > Two guards keep the model honest. Reflection is also how the self becomes visible to itself at all; that productive distance is central to the whole project, so Lucius is dangerous not because he reflects but because he can become autonomous, self-sealing, mistaken for the whole. And one joke the usurper never escapes: even a mirror that has crowned itself the source still behaves, helplessly, like a mirror. Lucius reads cold at the podium, human with Roy, boss-comedy with Leif: he matches whatever is put in front of him and throws it back.
 
-> [!reading]- The song behind the song: what interruption takes<br><span class="jt-drawer-summary">Side by side, the poem, song, and theatre read as one struggle over who stands behind the music and gets to explain it.</span>
+> [!reading]- The song behind the song: what interruption takes<br><span class="jt-drawer-summary">Together, poem, song, and theatre read as one struggle over who stands behind the music.</span>
 > Two Hall of Mirrors screenshots preserve one Notes draft called *Blinking 🌞*, filed by Roy under **Songs**. The first half begins, *"You don't have to believe anything / You just have to know / Know for yourself,"* refuses Left and Right as extremes, and chooses the Middle Way. The second keeps moving behind the music: Fiddle, Strings, Will, Player, Symphony Master, thought. Then its apparent sacred hill becomes Golgotha, the skull, and the whole ladder lands on *"you inside yourself / While you're blinking."* The object does more than describe layers. It teaches a procedure: keep passing through the performance until the apparent master becomes another medium and the inquiry returns inward.
 >
 > [[I Like to Party]] performs the interruption of that procedure. Its bridge reaches *"People waking up to claim what's in them / Heaven is within your heart / you're the kingdom"*; then a voice announces *"We interrupt our program,"* and the chorus takes the channel back. The program does not defeat the inward claim in an argument. It decides what the listener hears next.
@@ -54,7 +54,7 @@ Open any drawer for the reasoning. [[Concepts/The Deep End/Source vs Reflection 
 >
 > The connection changes what interruption means across the catalogue. It is not only silence. It is a fight over **source custody**: who gets to stand behind the Song and explain it. *Blinking* keeps asking past the player; the program, metric, algorithm, and Lucius persona try to make the nearest successful intermediary look like the origin.
 
-> [!reading]- Where the songs run it<br><span class="jt-drawer-summary">Across the albums, reflection reads as a way toward self-recognition that can also harden into a screen or disguise.</span>
+> [!reading]- Where the songs run it<br><span class="jt-drawer-summary">Across the albums, reflection can lead to self-recognition or harden into a screen or disguise.</span>
 > **Subject to Flooding (2018)** runs reflection to radiance. It opens at the mirror, [[Long Time Coming]]'s "every night when I look in the mirror / I see the disguise on my face getting clearer," and closes on [[Shine]], the self trying to *become* light instead of studying it. Roy wrote Shine watching the war film *Troy*, wanting "a chorus that felt happy, like the sun rising." The debut also holds the clearest borrowed light that transmits: *Superhuman (Interlude)* is Chaplin's *Great Dictator* speech, verbatim and credited, "the kingdom of God is within man," with Johnny Mercer's 1944 "Dream" and Sarah Vaughan threaded through the tracklist. Dead voices, relayed forward, still pointing somewhere true. And the record carries two kinds of bright: *Good Day*'s brightness is attached to circumstance and can harden into a mask; Shine's has passed through the flood and is chosen anyway.
 >
 > **33 (2022)** takes the reflection industrial: the screen, the database, the *Online* self filed away as data, [[Happy Face]]'s smiley gridded onto a globe, the face that replaces the face. This is where the axis escalates into [[Machine vs Human]].
@@ -63,7 +63,7 @@ Open any drawer for the reasoning. [[Concepts/The Deep End/Source vs Reflection 
 >
 > Two singles hold the poles in miniature. [[City of Angels]]: "everyone looks just like you," reflection-for-sale, infinite doubling with no other left to meet, different paint jobs on the same soul. And [[The Watchers]], whose credited "Somebody's Watching Me" interpolation drags in the whole Rockwell saga of contested authorship (a father's name hidden, Michael Jackson's unmistakable hook left uncredited): whose light is coming through is the standing question of the reflection-pole.
 
-> [!reading]- Count every I and every you<br><span class="jt-drawer-summary">The tilt toward “I” on Lucius Lullaby comes mainly from “you” draining out, which reads as the other fading from the songs.</span>
+> [!reading]- Count every I and every you<br><span class="jt-drawer-summary">“You” drains out of Lucius Lullaby while “I” barely moves, which reads as the other leaving.</span>
 > The frame is in the arithmetic, not only the imagery. The catalogue is, grammatically, an I-facing-you machine: the I-cluster (≈912) and you-cluster (≈635) together make up roughly an eighth of every word sung. Mirror made grammar.
 >
 > And the clusters move. *33* is you-dominant (I:you 0.58); *Lucius Lullaby* flips hard to I-dominant (1.63), the ratio roughly tripled. The load-bearing detail: the shift is driven by the "you" draining out, not the "I" hardening. The second person collapses, address curdles into spectacle, and the self inflates to fill the vacated room. Usurpation at the level of grammar. Then SOL voids it: no I, no you.
@@ -72,14 +72,14 @@ Open any drawer for the reasoning. [[Concepts/The Deep End/Source vs Reflection 
 >
 > We counted every I and every you on both records, expecting the ego to get louder. It barely budged; it's the you that quietly leaves the room, and you can check the [[Pronoun Audit (I-You)|whole count]] with a highlighter.
 
-> [!mask]- The moon was never his<br><span class="jt-drawer-summary">The distinction is how reflection serves or replaces its source, not which character owns the moon.</span>
+> [!mask]- The moon was never his<br><span class="jt-drawer-summary">What matters is whether reflection serves its source, not who owns the moon.</span>
 > The Ballerina Boy standalone release (June 2025) ends on an older, motherly voice: "the moon reminds us that even in the darkness there is light." The moon does not generate light. It reflects it. That single line reframes the whole antagonist: Lucius isn't darkness, he's reflected light under distortion. Lit by fear, shame, and the algorithm, he throws those back; lit by the heart, he could become reminder, witness, relay. He is the reflection trying to become the source, and that is his tragedy, not his crime.
 >
 > Watch the tell that keeps the reading honest. In the public moth speech Lucius names a real danger, a moth that takes a flame for a mating signal and flies into it, and his answer is a shrug about the moth population; he never once describes the moon. In this guide's reading that flame is his replacement system, set in the moon's seat. The danger he names is real. The seat was never his, and it is nobody's: no character owns a celestial body. Roy keeps the moon's *way of working* (receiving, reflecting, remembering), Mary most clearly carries its care, and the song that names both bodies has them **singing together**, so restoration reads as relationship, not promotion. In this guide's map, Roy is linked to the heart and Lucius to the mind.
 >
 > What exposes the bluff is [[SOL]], the wordless Song of Love the image-machine can suppress and reduce but cannot absorb. He reaches for a thing with no surface to grip. Which is why SOL *survives* Lucius rather than conquering him; exposing a limit is not the same as winning a fight. (How Lucius behaves when the song actually plays is staged on [[Machine vs Human]].)
 
-> [!lore]- One forgetting, many costumes<br><span class="jt-drawer-summary">Several recurring conflicts read as versions of the same danger: an image taking the place of what gives it life.</span>
+> [!lore]- One forgetting, many costumes<br><span class="jt-drawer-summary">Many conflicts read as one danger: an image replacing what gives it life.</span>
 > Read this way, the catalogue's named oppositions are species of a single genus, source versus reflection in era-specific clothes. [[Machine vs Human]] is the reflection-engine gone industrial, optimization severed from the heart. [[Witnessing vs Surveillance]] is the gaze that transforms versus the apparatus that shapes. [[The Loop and the Circle]] is return-to-source versus closed repetition. [[Communion vs Spectacle]] is the Circle sung back versus sameness sold as togetherness. Sun versus moon is originating light versus borrowed shine. So *33*'s screens and Lucius's mirrors are the same forgetting at higher resolution; the machine is not a new problem, just the late-stage one.
 >
 > The frame is several things at once without contradiction: a grammar (the pronoun machine), an imagery system (mirror, moon, mask), and, one floor down, a ladder, a vessel-myth, an emanation. They rhyme because they are drawn from the same braid of traditions assembled on the I'm 33 board, aligning by shared ancestry rather than deliberate cross-encoding. [[The Pattern]] runs parallel, correspondence across scales, a cousin rather than the same axis.
