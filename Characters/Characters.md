@@ -30,7 +30,7 @@ The selves underneath Roy — the wound at the bottom, and the seeker just befor
 
 ## Guide & source figures
 
-The counter-voices — the ones that transmit light instead of reflecting it.
+The counter-voices, the ones that pass the light on instead of keeping it.
 
 - [[Mary]] — the faceless blessing-presence who answers shame with *"you were born to shine"*; the one thing Lucius's system can't absorb.
 - [[The Wise One]] — the remembering figure of [[The Circle]] who walks into the old cave, finds the song everyone was told they couldn't sing, and saves the whole cosmology by doing almost nothing at all.
