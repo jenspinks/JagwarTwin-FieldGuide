@@ -10,7 +10,7 @@ aliases:
 ---
 # Brandon
 
-> **One-line reading.** Brandon is the buried child of the whole mythology — the boy interred at seven — and the name is not an invention: **Brandon is Roy's own legal first name**, the name he stopped using. The lore buried the boy; the biography buried the name. This guide reads them as the same burial.
+> **One-line reading.** Ballerina Boy is the buried child of the whole mythology, the boy interred at seven. That he also carries the first name Roy stopped using is this guide's reading: the lore buried the boy, the biography buried the name.
 
 > [!infobox] Brandon
 > - **Also known as:** the Ballerina Boy · the buried child · *"that kid I let go"*
@@ -39,10 +39,10 @@ Two grounded facts, and one reading that joins them — kept apart on purpose, p
 
 Note the tenderness in what the name-split implies: going by *Roy* is not concealment, it's survival — and the adult's dance videos, which Roy has publicly described as reclaiming the buried dancer, are the visible half of a recovery whose invisible half would be reclaiming the *name*. Whether that ever happens on a record is one of the openest questions in the project.
 
-> [!note]- Advanced reading — the Divine Child (framework, not authorial intent)
+> [!note]- Advanced reading — the Divine Child (framework, not authorial intent)<br><span class="jt-drawer-summary">In Jungian terms Ballerina Boy resembles the Divine Child, whose recovery is the late work's point.</span>
 > In the Jungian frame Roy demonstrably reads (see [[Carl Jung]]), Brandon is the **Divine Child**: the original, undefended, embodied creative self that goes underground when visibility becomes dangerous, and whose recovery is the point of the late work. The compensatory protector built over the grave is the shadow-figure; the blessing voice that finds the child (*"you are one of a kind, God's design… my son, let your light shine"*) reads as the Self doing what only the Self can do — and it arrives in [[Mary]]'s feminine register, precisely where the shame tried to erase him. Framework, labeled: "in Jungian terms, Brandon resembles the Divine Child" is a reading; "Brandon *is* the Divine Child" would be overreach.
 
-> [!note]- Advanced reading — the other Brandon (a resonance, catalogued as such — never a claim)
+> [!note]- Advanced reading — the other Brandon (a resonance, catalogued as such — never a claim)<br><span class="jt-drawer-summary">The Crow chain is a synchronicity, catalogued not claimed, and says nothing about Roy's intent.</span>
 > This drawer records a synchronicity, not a source. No Jagwar Twin material references any of the following; it entered the guide in July 2026 — the week *"Love is water"* was posted — and it is kept because the pattern is too structural to leave uncatalogued, and hedged because that is the only honest way to keep it.
 >
 > *The Crow* (1994) is a film about a man murdered alongside his beloved and carried back across the threshold by a crow — the psychopomp bird — powered entirely by love, through a city of perpetual rain, to finish what grief left unfinished. When the work completes, he lets go. Its star was **Brandon Lee**, who was killed on set making it (March 31, 1993, a prop-gun accident; the film released May 1994), and who was the son of **Bruce Lee** — the man whose entire philosophy compressed into one teaching: *be water* (origin: the 1971 *Longstreet* episode and Pierre Berton interview, scripted from Lee's own doctrine; he died July 20, 1973). Brandon Lee's grave in Seattle, beside his father's, carries the Paul Bowles passage he had chosen for his own wedding invitations — the one about how we treat life as an *inexhaustible well* when in truth we are given each thing only a few more times. Set that against the *I'm 33* board's red cell — *"To find truth we must plunge into its bottomless well"* — and the two wells answer each other across the decades: truth's well bottomless, life's well not. Drink now.

@@ -9,6 +9,8 @@ aliases: ["Brandon & Sir Rabbit"]
 ---
 # Sir Rabbit: the searching self
 
+> **One-line reading.** Sir Rabbit reads as the Roy-register self at an earlier stage: the seeker built over the buried Ballerina Boy, before the armor of Lucius.
+
 <img src="https://plumcreekranch.com/jagwar/boyroy.png" style="float: right; width: 175px; margin-left: 16px; margin-bottom: 8px;">
 
 Picture a boy alone in a bedroom, seven years old, a crayon rabbit on the floor and the lamplight not quite reaching the corners.
@@ -35,7 +37,7 @@ I will admit I spent a while underestimating the weird TikTok goth bunny myself,
 
 Everything above stands on its own. What follows is the apparatus: the grounded autobiography in full, the two rabbit texts, the frameworks held loosely, the poem's small cast, the source notes, the open questions. It runs grounded first, then strong readings, then framework held at arm's length, then the speculative tail. Open what you want. Ignore all of it and nothing breaks.
 
-> [!lore]- The wound, in his own sequence
+> [!lore]- The wound, in his own sequence<br><span class="jt-drawer-summary">The wound is triple-confirmed autobiography, and the seven-year-old answered shame by burying himself.</span>
 > The rare thing about this figure is that his backstory is not mythology. The wound is literal autobiography, told publicly by [[Roy]] outside the lyric, and triple-confirmed: in the song itself, in a sit-down interview, and, independently, in a concert-venue artist bio that simply notes he *"embraced ballet as a child while his peers pursued sports."* This kid is real.
 >
 > He released the story himself, in order, inside and outside the song. Age seven, a Christian school, ballet: *"I came alive when I was on that stage."* Then rumors, and a teacher calls his father, *"We think your son is gay."* The boy overhears (*"I overheard cause he was mad"*), reasons his way to the cruelest possible conclusion, *"Gay must mean bad or else they wouldn't call,"* and prays *"to God to make me good cause it wasn't my fault."* He is the only boy in the class. He stands *"back against the wall"* while the girls circle him with the chant that becomes the founding wound: *"you're not a real boy."*
@@ -44,7 +46,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > His father gives the one piece of love available, *"there's nothing wrong with you, my son."* It is real, and it is not enough. The boy does the thing instead. He buries himself. *"I never danced again."* And here is the fact the whole arc turns on: a seven-year-old's answer to being shamed was not to cry it out and move on, it was to perform an execution. Everything after, the masks, the protector, the depression, the search, grew out of that grave.
 
-> [!note]- What he is, and why the answer is never success
+> [!note]- What he is, and why the answer is never success<br><span class="jt-drawer-summary">The buried child is the undefended self, and the answer is integration, not achievement.</span>
 > Strip the biography down to a function and the Ballerina Boy is the embodied, undefended, stage-alive self: softness, play, feminine-coded expression, creativity that has not yet learned to protect itself. He is what a person is *before* they learn to perform a version of themselves the world will stop punishing.
 >
 > The wound is not that he was hurt. It is that he was told he was *bad,* at a Christian school, where social shame curdles into moral and spiritual shame. *"You're not a real boy"* does not critique what he did, it attacks what he *is.* That is the difference between an injury and a verdict, and it is why the response had to be so total. You can recover from being hurt. Being declared incompatible with survival is a different problem, and solving it is what forces the psyche to manufacture a protector.
@@ -62,7 +64,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > That is why the answer cannot be to win, and cannot be to fight. Winning leaves the child underground. Fighting the protector attacks the very thing that preserved the child through the years [[Roy]] could not. The task is to let the light back up *through* the structure, until the structure no longer has to be a wall.
 
-> [!note]- The two blessings (they are not equal)
+> [!note]- The two blessings (they are not equal)<br><span class="jt-drawer-summary">The father's pardon acquits the charge, while the motherly outro claims the child's nature outright.</span>
 > The song answers the world's hostility not with armor but with blessing, and it does so twice, in two voices that are easy to conflate and shouldn't be.
 >
 > The **father's** blessing is narrated inside the story: *"there's nothing wrong with you, my son."* Real love, and it fails anyway, because it is stated in the negative. It is a pardon that still operates inside the same right/wrong courtroom the teacher and the girls were using. It acquits the charge, it does not leave the court. Telling a shamed child *you are not broken* is simply not the same as telling him *you are, exactly as you are, good.*
@@ -71,7 +73,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > And the deepest blessing arrives in the feminine voice, exactly where shame tried to erase him. That placement is the song's quiet thesis: the divine feminine enters, in full, precisely at the site of the wound. Lucius protects by armoring, *become untouchable.* The maternal voice protects by blessing, *you are already, exactly, right.* The arc hinges on that contrast. (On *who* the outro voice is, see the moon note below, and hold it loosely.)
 
-> [!lore]- The two rabbit texts
+> [!lore]- The two rabbit texts<br><span class="jt-drawer-summary">Roy pictures himself as a rabbit twice, and that rabbit reads as the self before Lucius.</span>
 > [[Roy]] has put the rabbit on the record in exactly two places. The grounded claim is modest: he pictures himself as a rabbit, across two texts. Reading that rabbit *as* the seeker-self, the Roy-pole before the split, is interpretation, but it sits very close to both. And there is a house rule for the figure, only half a joke: *always follow the rabbit.*
 >
 > **The poem (2022).** A long initiation published on the Hall of Mirrors platform: a rabbit in *"a garden full of sound"* who takes a walk to count the stars and gets pulled into a full cosmic journey. A strange cat, a violet moon that turns out to be a machine, a fox with a box, a forgotten heartbeat, a dove with a lamp, a grinning spider at the Divide, and a leap *"straight through the Mourning Sun"* that lands him *"back where he begun."* It is filed under origins, and he later glossed it himself: *"this looks sir rabbit pre-lucius."*
@@ -80,7 +82,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > So the rabbit is not a young Lucius. He is the self that exists *before* Lucius arrives, which is exactly why the counterfeit guide can intercept him.
 
-> [!reading]- The authentic path and the intercepted path
+> [!reading]- The authentic path and the intercepted path<br><span class="jt-drawer-summary">In this reading Lucius hijacks the dream's journey by arriving too early with true answers.</span>
 > Put the two texts side by side and the same journey is being told twice, once the right way, once hijacked. This is the section's central reading, and it is a strong one, not a fact.
 >
 > The **poem is the authentic arc.** A real initiation, endured in order: the rabbit is carried up, trapped, forced inward, recovers his own heartbeat, is given light, is named at the threshold, and *chooses* the leap. He returns transformed, *"back where he begun,"* the same starting point, a different self.
@@ -95,7 +97,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > The poem shows what a real guide costs you: the box, the silence, the forgotten heartbeat you have to find yourself, the leap nobody can make for you. The dream shows the shortcut, a guide who skips all of it, hands you the correct turns, and lets your heart go quietly wrong while your mind nods along. Same destination words, opposite road. And keep the register clean while you read it: this is Lucius the *mercurial mind*, the protector-intelligence divorced from the heart, not the machine or the System itself. He *embodies* the machine-logic, he is not the machine.
 
-> [!cast]- Relationships
+> [!cast]- Relationships<br><span class="jt-drawer-summary">Around the buried child, Lucius conceals, Mary blesses, and Roy witnesses, all trying to help.</span>
 > The tightest way to hold the whole cast is by its relation to the buried child: [[Sir Lucius]] protects by concealment, [[Mary]] protects by blessing, and [[Roy]] heals by witnessing. All three are trying to help, which is the arc's real difficulty.
 >
 > - **[[Roy]]:** the Ballerina Boy *is* Roy's buried child self, and the age-7 ballet wound is Roy's own autobiography. Sir Rabbit is Roy's picture of himself one stage earlier, the seeker before the split. It is grounded that Roy self-identifies as the rabbit; the character-register reading (Sir Rabbit = the Roy-pole seeker) is a strong one, held as a reading. There is a wry version of the whole relationship worth keeping on the table: it can feel like the character and the person are *"the artist formally known as Brandon,"* an old self renamed rather than erased, and maybe there is another renaming coming, since we seem to be at another blackening. Held as a way of seeing it, not a verdict.
@@ -106,20 +108,20 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 > - **[[Concepts/The Protector]]:** the survival-self that calcifies into Lucius, the armor that forms around the pre-Lucius initiate. See also [[Concepts/The Dweller on the Threshold]] for the mechanism by which a buried self accretes a guardian.
 > - **[[The Moon]]:** the buried child's tender symbol, light that survives the night, reflected rather than self-generated, preservation-through-darkness.
 
-> [!note]- The same light, differently oriented
+> [!note]- The same light, differently oriented<br><span class="jt-drawer-summary">Lucius reads as the child's same light bent into armor, not the child's opposite.</span>
 > The tightest single-sentence version of the genesis reading lives on the [[Weirdness]] essay: Lucius is *"the split-off radiance of the buried child, the same light that went underground at seven years old, operating under the wrong orientation."* That is the key move. Lucius is not the *opposite* of the Ballerina Boy, he is the **same light** bent, the child's stage-radiance sealed off and re-tasked as armor, lit by fear instead of joy. It is also why [[Roy]] can say of the protector that *"the deal may have been worth it,"* because Lucius genuinely held the buried light through years [[Roy]] could not. The protector kept the light alive by keeping it imprisoned. (The mechanism, a buried self accreting a guardian, is [[Concepts/The Dweller on the Threshold]].)
 >
 > Two claims sit inside this and they are at different levels, so keep them apart. That the burial *produced* Lucius is interpretation, the song never names him. But that Lucius is *invested* in keeping this grave closed is grounded fact, and it is the single most telling piece of evidence on the page. In a theatrical episode of the video series, Lucius mimes a little ballet move at the camera and sneers: *"Do you know what your lowest-performing song of all time is? Ballerina Boy. When you're vulnerable you LOSE!"* That is not random cruelty. Lucius mocks exactly *one* song by name, and it is this one. A figure with a demonstrable stake in keeping a specific grave closed tells you what is buried there matters most.
 
-> [!note]- The counter-algorithm, and the joke on Lucius
+> [!note]- The counter-algorithm, and the joke on Lucius<br><span class="jt-drawer-summary">The song declines the metric, so Lucius calling it lowest-performing is the joke on him.</span>
 > The song refuses the performance economy on its own terms, it declines the metric. It risks being *"low-performing"* precisely because its worth is not denominated in streams. Form and content agree all the way down: the off-album single about the off-album child, kept out of the very spectacle it diagnoses. (The kid who got told he did not belong made a song that did not make the tracklist. *Why* it was kept off the album is not publicly stated, so that is a wink at the irony, not a claimed intent.) And the joke is on Lucius: he calls it the *"lowest-performing"* song, which is the entire point. It loses by the scoreboard because it refuses to play that game. He is wielding the one metric the song was built to ignore. See [[Concepts/Communion vs Spectacle]] and [[Concepts/The Audience]].
 
-> [!note]- The moon, and the Mary-class voice
+> [!note]- The moon, and the Mary-class voice<br><span class="jt-drawer-summary">The moon reflects borrowed light, and the motherly voice reads as Mary pending a casting credit.</span>
 > The outro's *"the moon reminds us that even in the darkness there is light"* may be the most load-bearing symbolic line in the catalogue. The moon **does not generate light, it reflects it.** That is the signature of borrowed, preserved light: not a source, but proof a source exists somewhere past the dark. (See [[The Moon]], which lists this song as the *tender* pole of the symbol, *"preservation-through-darkness."*)
 >
 > The blessing voice is one of the grounded faceless-Mary anchors, and possibly the earliest chronologically. The female, motherly voice is **grounded** (audio-confirmed). The identification of *that voice* with the named [[Mary]] of [[No. 1 Champion (la Conquistadora)|#1 Champion]] is the working assumption, held as a strong read until a casting credit settles it. Who sings the outro is not credited, so present her as *"a motherly female voice,"* not a named performer. (One caution: don't over-collapse the feminine figures. [[Mary]], the Dove, and the wider divine-feminine register are archetypal neighbors, not one identity you can staple together.)
 
-> [!map]- The esoteric registers (framework, not authorial intent)
+> [!map]- The esoteric registers (framework, not authorial intent)<br><span class="jt-drawer-summary">Jungian, Gnostic, and Kabbalistic frames are the nearest analogues, not what the song means.</span>
 > The figure sits cleanly inside several interpretive traditions [[Roy]] openly studies. These are correspondences, the nearest analogues, not claims about what the song "means." (If this part starts driving the car, it has been overcooked.)
 >
 > - **Jungian.** The Ballerina Boy reads as the **Divine Child,** the true embodied self (with anima elements, not merely the anima). [[Sir Lucius]] is the compensatory protector the psyche manufactures; the parental, lunar voice is the witnessing **Self** that blesses. The deepest wound is not that the child was hurt, it is that he was made *incompatible with survival,* which is what forces the psyche to build Lucius.
@@ -127,10 +129,10 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 > - **Kabbalah.** The [[Kabbalah - The Tree of Life|Tree]] in miniature, held lightly: the trauma happens in the world of body and rule, the buried image lives in the lunar memory-realm, and the rescue requires entering that realm without being consumed by it, on the way up toward the heart and the blessing *"let your light shine."* Character seats, in the fundamentals Roy points to: [[Roy]] = Netzach / Venus (heart), [[Sir Lucius]] = Hod / Mercury (mind). See [[Kabbalah - The Tree of Life]].
 > - **The loop becomes a circle.** Adult [[Roy]] returns for child Roy, while the child was *already* being held by a future-self and a divine voice in the outro. The recursion stops being a trap and becomes a developmental circle, rhyming with [[The Circle]]'s *"inside of the inside"* and [[The Thread]]'s retrieved feeling.
 
-> [!note]- The Pinocchio analogue (curated, held loosely)
+> [!note]- The Pinocchio analogue (curated, held loosely)<br><span class="jt-drawer-summary">Pinocchio is a Roy-curated rhyme that coexists with the autobiography and never replaces it.</span>
 > *Pinocchio* sits on [[Roy]]'s own [[Concepts/The I'm 33 Board|board of films]] he says the pattern shows up in, which makes it a **Roy-curated** mythic rhyme, not an inherited template. It gathers all three grounded elements at once: a *made boy* told he is not a *real boy;* a figure defined by *the string* tying him to his maker; and a *feminine voice* that confers realness (the Blue Fairy and the motherly outro, held as the [[Mary]]-function in strict structural rhyme, co-participant, not source). Discipline matters here: the wound is *also* literal autobiography. The myth coexists, it does not replace, and chronology is not proof of design. The claim is **not** "the Ballerina Boy is about Pinocchio." (The string-inversion, *I've Got No Strings* selling severance as freedom where [[The Circle]] inverts it to *remembering* the held string, lives mainly on the [[Concepts/Inversion]] page.)
 
-> [!note]- The wider web (companions, contrasts, brackets)
+> [!note]- The wider web (companions, contrasts, brackets)<br><span class="jt-drawer-summary">Companion songs bracket the child from Loser onward, and the Circus never names him.</span>
 > - **[[Happy Face]]:** the coping mechanism the wound installs, *"if you're sad don't let it show,"* the perfect-child armor.
 > - **[[Welcome to the Circus]]:** the public spectacle whose private origin is this song. The Ballerina Boy is a *structural absence* there. He is never named, with two readings: he is sealed *underneath* the Circus, buried before it was built; or he is what the Circus *cannot absorb,* his absence his protection. The most important figure in the project is not in the song, and the absence is the song's shape. See [[Concepts/The Circus]].
 > - **[[Move To You]]:** the contrast that completes him. Where *Ballerina Boy* interred the child behind armor, *Move To You* lets the tender-self narrate in its *own* voice, because reciprocal, non-possessive love finally made the room safe.
@@ -138,7 +140,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 > - **[[Loser]]** (2018 debut): the *earliest* anchor. Roy's gloss on the children's choir, *"getting back to that childlike self before people told you you were different, when you were just you, unashamed,"* states the buried-child doctrine seven years before this song names it. The catalogue is bracketed by children's voices with inverted functions: 2018's child-chorus is the *recovered* pre-shame self (awakening); the 2026 [[The Circle (Lucius Version)|Circle (Lucius Version)]] child-voice is the *captured* self sung to sleep (sedation). Same device, opposite vector.
 > - **[[Jagwar Twin]]** (the container): the meta-system holds three interior layers, [[Sir Lucius]] (mind and strategy), [[Roy]] (heart and meaning), and the Ballerina Boy (origin and light). The pre-persona human layer collapses *into* the buried-child figure rather than standing apart, which keeps the interior cast lean.
 
-> [!note]- The poem's small cast
+> [!note]- The poem's small cast<br><span class="jt-drawer-summary">The poem's cast is not reducible to Roy and Lucius, each doing one specific thing.</span>
 > The reason the poem matters beyond its prettiness is that it hands the world a cast that is not reducible to Roy and Lucius. Each figure does one specific thing to the rabbit.
 >
 > | Figure | What happens | What it suggests |
@@ -161,39 +163,39 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > **The Spider, selfhood as a name problem.** At *"The Divide,"* a grinning, golden-caped Spider stops the rabbit with the question the whole figure turns on: *"Who are you, Rabbit? And where does You come from?"* The rabbit's honest *"I do not know, but I must be someone"* is the seeker's entire condition. The Spider reframes it, *"You are someone asleep in bed, you're dreaming all the time,"* and the rabbit snaps to: *"I must wake up, I must wake up tonight!"* What makes the Spider a *true* guide is what he refuses to do. He names himself a guide, *"You're here at The Divide / I'm here to be your guide,"* he leads the rabbit to the edge, and then, asked *"is this a test? I'm not ready to fly!,"* he hands the choice back: *"that's up to you, it's not for my to pry."* He preserves the seeker's sovereignty. He will not make the leap *for* the rabbit. That refusal is exactly what the counterfeit guide will not do; Lucius answers everything *for* you.
 
-> [!note]- The "other mind," keyed to the heartbeat
+> [!note]- The "other mind," keyed to the heartbeat<br><span class="jt-drawer-summary">The 'other mind' is mind returned through the forgotten heartbeat, remembered rather than built.</span>
 > The poem does not just trap the rabbit, it tells him *how* to escape, and the instruction refines the heart/mind split the whole project runs on. A voice on the far side of the box says: *"Now you must use your other mind, dear Rabbit, it's been mapped."* The key to that other mind is the **heartbeat.** The rabbit waits in silence, hears *"a heartbeat he forgot,"* knocks over the spot, and the door opens.
 >
 > So the formula sharpens. A mind *severed* from the heart becomes Lucius. A mind *returned through* the heartbeat becomes the *"other mind."* This is not heart *against* mind, it is mind *reoriented through the pulse it forgot.* And *"it's been mapped"* is doing quiet work: the faculty was always there. The rabbit is not building a new mind, he is remembering one. (Call it anamnesis, knowledge by recollection.) The same seed-doctrine shows up in the Fox's *"the key is hidden in yourself / just listen for the knock,"* which prefigures Roy's later refrain *"you are the key"* / *"you are it."*
 
-> [!note]- The fox's box as the missing container
+> [!note]- The fox's box as the missing container<br><span class="jt-drawer-summary">The Fox's box reads as an initiatory container, judged by its fruit, not its shape.</span>
 > The world's broken-vessel logic ([[Concepts/Keilim - The Breaking of the Vessels]]) usually sorts containers into a few kinds: the prison that seals the self away, and the husk that is form without seed. The Fox's box is a *third* thing, the missing **initiatory container.** Not a prison and not a husk, but an **interiorization chamber:** an enclosure that isolates the self just long enough to hear the forgotten heart, then opens.
 >
 > The catch is diagnostic. Boxes *look alike* from the outside, the lid slams shut on the rabbit exactly as a trap would. The difference is not the enclosure, it is what the enclosure *produces:* severance, or the heartbeat. That is the same test that separates the Fox from Lucius, scaled up to cosmology. You cannot read a container by its shape, only by its fruit.
 
-> [!note]- Loop vs Circle, and the Mourning Sun
+> [!note]- Loop vs Circle, and the Mourning Sun<br><span class="jt-drawer-summary">The rabbit's return is a Circle, not a Loop: same place, changed traveler.</span>
 > The poem ends with the rabbit landing *"back where he begun,"* and that line is the sharpest statement of a distinction the work cares about a lot ([[The Circle]]). A **Loop** is return *without* transformation: the same point, the same self, nothing learned. A **Circle** is return *with memory restored:* the same point, but the subject has changed. Sir Rabbit returns to his starting place *after* the heartbeat, the Dove, the Spider, the Divide, and the chosen leap, so his return is a Circle, not a Loop. The geography is identical, the traveler is not.
 >
 > One spelling flag worth keeping. The leap is through the *"Mourning Sun,"* transcribed as written from the artifact. If that spelling is intentional and not a transcription slip, the ending reads as *grief-as-solar-passage* rather than a happy dawn, and the mourning/**morning** pun points toward the **Morning Star,** Lucifer, Lucius. The rabbit passes *through* the morning sun and comes home. Spelling-dependent, so flagged, not asserted, and worth verifying against the artifact image before anyone builds on it.
 
-> [!note]- The child-knight, the White Knight, and the maze cluster
+> [!note]- The child-knight, the White Knight, and the maze cluster<br><span class="jt-drawer-summary">The child-knight photo reads as the Protector's biographical genesis, selected by the maze, not staged.</span>
 > The poem travels with a small visual cluster found in the Hall of Mirrors. One minted Hall image (`99996623`, 2026-08-21) is a photo of **young Roy** in toy plate-armor with a dragon shield, sitting on a pony. It reads as the *biographical genesis* of [[Concepts/The Protector]], the survival-self armoring up *before* it calcifies into Lucius. The careful version: the maze *selected* a childhood-armor image that already holds the armoring structure. It is **not** "Roy staged this as Lucius." The resonance is structural, not authored. (A child in a knight costume is also just a kid playing.)
 >
 > There is a literary rhyme too. Carroll's **White Knight,** the protective-but-absurd guide who saves Alice and then insists on reciting *"the name of the song,"* chimes with both the toy knight *and* with the poem's proto-guides (Cat, Fox, Dove, Spider). It is a lineage note, a co-participant, not an authorial claim. And the poem itself is unusually well-sourced: it survives both on the crown-gated room pages *and* as three consecutive iPhone-Notes screenshots that are themselves open maze rooms, all matching the text verbatim, so it is triple-sourced, not single-witness.
 
-> [!note]- Roy's "silly rabbit" register, and the food chain
+> [!note]- Roy's "silly rabbit" register, and the food chain<br><span class="jt-drawer-summary">Roy's comic food-chain bit puts rabbits below jagwars, and he folds himself in too.</span>
 > Outside the two canonical texts, Roy uses a whole comic rabbit-vocabulary for the Lucius-prone self, the sexy rabbit, the silent clown bunny, the goth bunny. When online critics came for the project, he ran a deadpan food-chain bit: *"jagwars eat rabbits and theyre just being silly,"* *"rabbits are below jagwar on the food chain, its a hint for myself,"* and *"down the rabbit hole."* The trash-talk connects Sir Rabbit to [[Concepts/The Jaguar]] along a predator/prey axis, but note how fast he folds himself in: *"We're all silly rabbits sometimes,"* and *"ill catch myself being a silly rabbit when i get mad."* Nobody is exempt, including him.
 >
 > After catching Lucius messing with him one week, he quoted the Trix slogan at his own shadow: *"he totally tried to fuck me up this week but i caught him, silly rabbit, tricks are for kids."* His advice to a fan was to acknowledge Lucius and then *"put that silly rabbit back in the hat,"* the whole integration arc reframed as a magician's hat-trick. (The same night he glossed the poem as "pre-lucius," he also dropped *"I can pull a rabbit out of a hat"* alongside a *"Rudolph Steiner rabbit hole with the Gospel of Luke,"* the name-research and the rabbit imagery bundled into one evening. How the Steiner/Luke thread bears on the rabbit specifically is a documented research vein, not a stated equation.) The 2026 iconography grounds it further: *"The year begins with Janus and the March Hare,"* and a gematria aside resolving to a rabbit emoji.
 
-> [!note]- The maze provenance, Lemon, and the "earliest announcement"
+> [!note]- The maze provenance, Lemon, and the "earliest announcement"<br><span class="jt-drawer-summary">The poem is catalogued under origins in the maze's GENESIS collection, other rabbits held apart.</span>
 > A few facts the casual reader does not need but the completist will want. The *Sir Rabbit* poem was filed in the maze's **GENESIS** collection, which holds exactly two origin pieces (the rabbit poem and *Song of the Ring*), so the rabbit is literally catalogued under *origins.* It was first solved via a spreadsheet cell whose column held a tiny rabbit picture: the solver simply *"tried the rabbit one."* Roy called the piece *"one of my favorite pieces i've ever made."*
 >
 > The very first public rabbit-Lucius announcement actually *predates* both canonical texts' public canonization: *"Sir Lucius Rabbit is coming"* (2023), tagged to Lucius lore. And there is a **second** named rabbit loose in the maze, *"Lemon the rabbit,"* drawn wielding an *"acorn grenade"* in a different artifact: a militarized cartoon rabbit named after a citrus fruit. Whether Lemon belongs to a "Sir-Rabbit family" of named rabbits is an interpretive grouping, not a stated link.
 >
 > One resonance to *hold at arm's length:* Roy's 2023 AI collaborator "angelbaby" used a leopard-patterned, rabbit-eared avatar, fusing jaguar and rabbit-ears about two years before Lucius's rabbit-eared look. That design is the collaborator's, **not Roy's,** so it is a resonance only, not part of the iconography canon.
 
-> [!warning]- How these readings could be wrong
+> [!warning]- How these readings could be wrong<br><span class="jt-drawer-summary">The simple reading is valid and sufficient alone, and everything esoteric coexists without replacing it.</span>
 > The page needs brakes, so here they are.
 > - The **simple reading** is valid and sufficient on its own: a sincere trauma-confessional that needs no mythology. The esoteric apparatus coexists, it does not replace the literal autobiography.
 > - **Third-character status stays off.** Hold Sir Rabbit as the Roy-register seeker, not a peer to Roy / Lucius / Mary, unless evidence forces a lock. Do not say "Roy is Sir Rabbit."
@@ -201,7 +203,7 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 > - *"Authentic vulnerable Roy"* **may itself be a curated persona,** the marketed counter-pole to "Lucius the villain," both authored. Reading the split as literal interior architecture can over-literalize a creative device. ([[Roy]]'s own page carries this counterargument.)
 > - **Co-participant is not source.** Shared tradition (Pinocchio, Carroll's White Knight, the March Hare) is resonance, not evidence of influence, even where board-listed. Chronology is not proof of design.
 
-> [!receipts]- Source notes (what is grounded, read, and framework)
+> [!receipts]- Source notes (what is grounded, read, and framework)<br><span class="jt-drawer-summary">The wound and both rabbit texts are grounded, while the genealogy stays a strong reading.</span>
 > **Brandon (autobiography and release).** The ballet wound is real and publicly told by [[Roy]], triple-confirmed: the lyric, an interview telling, and an independent venue artist bio noting childhood ballet. The single released June 13, 2025 (on Big Loud Rock under license to Mercury Records / UMG); it was kept off the *[[Lucius Lullaby (album)|Lucius Lullaby]]* album, which is a fact. He frames his adult dance videos as shadow-work to reclaim the buried dancer, so the *rescue* is something he is publicly, bodily doing, not just singing about. That [[Sir Lucius]] targets *this* song by name in the video series is on the record; it supports, without proving, the reading that the burial produced him.
 >
 > **Sir Rabbit (grounded).** Roy pictures himself as a rabbit in two public texts: the *Sir Rabbit* poem (published 2022 on the Hall of Mirrors platform, in the GENESIS origin collection) and the [[Good Time (1-08)]] dream he narrated publicly on TikTok (2023), in which he says *"I'm a rabbit"* and Lucius is the *second,* clown-makeup rabbit. His gloss, *"this looks sir rabbit pre-lucius,"* is the documented basis for reading the rabbit as the self *before* Lucius, and he dated the figure's debut himself: *"sir lucius first appeared in the video and artwork for good time 108."* The poem's text (the cat, the violet-moon machine, the fox's box, the recovered heartbeat, the dove, the spider at the Divide, the leap *"back where he begun"*) is quoted from the artifact's displayed pages. The Spider echoes a companion Hall of Mirrors room, *"I'M THE SPIDER,"* a solved, grounded artifact whose unlock code is literally *"the answers in a name."*
@@ -212,10 +214,10 @@ Everything above stands on its own. What follows is the apparatus: the grounded 
 >
 > **Register guard.** This page deliberately does **not** say "Roy *is* Sir Rabbit," and does **not** treat Sir Rabbit as a third character peer to Roy, Lucius, and Mary. He is the Roy-register seeker at an earlier stage. And it does not seat his downstream-Lucius on the moon: Lucius is Hod / Mercury, the mind; the moon belongs to no one (Roy keeps its way of working, per the August 2026 correction).
 
-> [!question]- Open questions
+> [!question]- Open questions<br><span class="jt-drawer-summary">The album omission, the outro singer, and whether the burial was complete stay open.</span>
 > *Why* the *Ballerina Boy* single was kept off the album is not publicly stated. *Who* sings the outro is not credited (a *"motherly female voice,"* not a named performer, and its identification with the named [[Mary]] is a strong read pending a casting credit). The song presses one question on itself: it states the burial outright, yet the adult is plainly a stage creature, and *"come back for that kid"* admits the burial was incomplete, so the child may have been *misidentified* (kept alive as performance, denied recognition as that child) rather than fully buried. And Roy's own open question keeps the family live: is the buried ballerina boy the same as what [[Mary]] is reaching toward? Held open, not asserted. See [[Open Questions]].
 
-> [!feed]- Read next
+> [!feed]- Read next<br><span class="jt-drawer-summary">Start with Ballerina Boy for the wound, then Good Time, where Lucius intercepts the rabbit.</span>
 > - [[Ballerina Boy]]: the song itself, read line by line, where the buried child's wound is stated outright.
 > - [[Roy]]: the man both figures belong to, and the one deciding whether to go back for the kid he let go.
 > - [[Sir Lucius]]: the armor built over the grave, the second rabbit, and why he mocks *Ballerina Boy* by name.

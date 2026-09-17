@@ -56,26 +56,26 @@ New here and want songs, not a syllabus? Hear her in [[Ballerina Boy]] first (th
 
 Everything above stands on its own. What follows is the line-by-line unpacking, the frames held loosely, the open questions, and the source ledger. Ordered the way this guide reads anything: grounded first, then strong readings, then the framework held at arm's length, then the doubts that keep it honest.
 
-> [!note]- Saw a halo but I didn't see a head
+> [!note]- Saw a halo but I didn't see a head<br><span class="jt-drawer-summary">The missing face is the seer’s limit, not hers, and one of Roy’s captions admits it.</span>
 > This is the line the whole figure pivots on, and it is a diagnosis. The narrator reads the halo and reads the body, and cannot read the head. The seer has one instrument, the consuming eye, and it works on everything except the presence that refuses to become a surface.
 >
 > The visualizer makes the confession twice. Roy's public reel for [[No. 1 Champion (la Conquistadora)]] carries a caption signed *El Roy* (see [[Public Posts]]): *"I saw her divinity, but not the one who held it, or where it led. I followed anyway, white rose in my left hand, and stepped off the ledge."* He perceives the holy sign but not the person who bears it. Same failure, stated plainly. So Mary's facelessness is not weakness and it is not shyness. It is the whole point: she is what the consuming eye cannot turn into an image, and the missing face is the seer's limit, not hers.
 >
 > 🚪 *There is one old map where a halo with no head under it is exactly what belongs at the top, a crown you can reach but not keep. The songs keep drawing that map without ever naming it, and there seems to be a seat on it for Mary too: [[Kabbalah - The Tree of Life]].*
 
-> [!note]- The armed Madonna
+> [!note]- The armed Madonna<br><span class="jt-drawer-summary">The Marian titles are verifiable, their deliberate repurposing a strong reading, and Mary ends the questing.</span>
 > [[No. 1 Champion (la Conquistadora)]] gives you a Virgin with a gun. *"La Conquistadora with a gun in her hand… fawning over no man,"* *"such a revolutionary,"* *"Queen of California on the corner doing her time."* Militant, autonomous, and pointedly uninterested in every man in the room. The sound of her is femme fatale, gritty, vintage gangster.
 >
 > The theology under the swagger is real, and worth being careful about. *La Conquistadora,* "Our Lady of the Conquest," is a genuine Marian title; the oldest Marian statue in the United States, carried in Santa Fe, bears exactly that name. *Queen of California* echoes the Marian *Queen of Heaven.* Those are verifiable facts about the titles. Whether the song deliberately repurposes them is the interpretation, and it is a strong one, not a certainty, but the Marian heraldry is unmistakable: the names she is handed carry the Virgin's arms.
 >
 > And the album stacks the titles on purpose. Champion, then Conquistador, then Conquistadora. The anthem of conquest arrives at Our Lady of the Conquest. The conqueror gets conquered, and Mary turns out to be not the reward at the end of the quest but the thing that ends the questing.
 
-> [!note]- The nursery-rhyme ambush
+> [!note]- The nursery-rhyme ambush<br><span class="jt-drawer-summary">The nursery rhyme is the album's Trojan horse, so the champion never sees Mary coming.</span>
 > Here is the trick the song plays on the ear. Mary does not enter on a hymn or a fanfare. She enters on a Mother Goose rhyme. *"Mary, Mary, so contrary"* is *"Mary, Mary, quite contrary"* with one word swapped, the schoolyard sing-song every listener already has by heart. That is not decoration, it is the album's whole method. *Lucius Lullaby* keeps smuggling the sacred in through twisted children's forms: *Row, Row, Row Your Boat* inside *"life is but a dream,"* *Ring-a-Ring-a-Rosies* inside *"ashes, ashes,"* the Oompa-Loompa song re-voiced as a threat. The nursery rhyme is the Trojan horse. The sacred enters dressed as something you'd wave off as cute.
 >
 > So watch what gets stacked into one breath: *"Mary, Mary, so contrary"* (a nursery rhyme), then *"La Conquistadora with a gun in her hand"* (a militarized saint), then *"Queen of California on the corner doing her time"* (a crown in the gutter). Crown, gutter, and a kindergarten chant in a single gesture. The figure who unseats the champion arrives in the register of a playground rhyme, which is exactly why he never sees her coming.
 
-> [!note]- The chorus is hers, and that's the joke
+> [!note]- The chorus is hers, and that's the joke<br><span class="jt-drawer-summary">The chorus reads as Mary's, and the champion's appropriation of her voice is itself the unseating.</span>
 > Listen closely to [[No. 1 Champion (la Conquistadora)]] and a delicious structural prank shows itself. The entire chorus is Mary's voice: the count (*"A-B-C, count 'em, one, two, three"*), the verdict (*"you got a little bit of money, but it don't come cheap"*), the *"know 'bout me,"* even the title line. The "champion" has no line of his own. Lucius can only enter by climbing onto her voice for *"number one champion,"* then drowning her out, and he ends up finishing the title alone, a cappella, after the music has stopped, a braggart boasting to an empty room. He wins the crown by silencing the person actually singing it. The appropriation *is* the unseating, and it is enacted in the mix, not just argued.
 >
 > Two things fall out of this. First, that *"me"* in *"know 'bout me"* is Mary, not the champion. Second, the verse breaks off mid-sentence, *"made a move like a fool, dropped me dead when she said—"* and cuts straight into the chorus in her voice. So what she said is the count. The line was not a withheld blank. It was a hand-off. He is dropped dead by what comes next, and what comes next is a woman calmly counting to three.
@@ -84,7 +84,7 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 >
 > Then the trap springs on its own bait. In the visual series ([[The Interview]], EP7), [[Sir Lucius]] forces Roy to sit and listen to the album, hits this song, recognizes the boast, and proudly claims it: *"another song about ME."* He is so busy enjoying the chorus that he never hears the verse where Mary drops the character dead. The ego identifies with the anthem, and the anthem is the thing that executes the self that could not resist identifying with it. He claims the crown in the exact line where he loses it.
 
-> [!note]- The two blessings of Ballerina Boy
+> [!note]- The two blessings of Ballerina Boy<br><span class="jt-drawer-summary">The father's pardon keeps the courtroom standing, while the motherly blessing dissolves the court entirely.</span>
 > [[Ballerina Boy]] hides a careful distinction that is easy to miss on first listen, and it is the cleanest evidence for who Mary is. There are two blessings in the song, in two different voices, with two different grammars.
 >
 > The earthly father's blessing is the in-verse line *"there's nothing wrong with you, my son."* Hear what that is. It is stated in the negative. It is a pardon issued inside the very same right/wrong court that did the wounding. It clears the charge but keeps the courtroom standing.
@@ -95,21 +95,21 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 >
 > That gap between pardon and benediction is the whole difference between surviving the shame and being freed from it. **This drawer touches suicide-adjacent material,** the child buried alive inside a self, so read it plainly and without a wink: somebody had to bury that boy, and the blessing is the work of going back down for him.
 
-> [!reading]- She cannot be surveilled (the mechanism)
+> [!reading]- She cannot be surveilled (the mechanism)<br><span class="jt-drawer-summary">Mary is pure witness, and Lucius's apparatus goes quiet because she is not playing his game.</span>
 > Here is where it gets sharp, and where Mary stops being a nice idea and becomes structural load. The spectacle-self comes to her the only way it knows how, looking for a surface that returns his own reflection: recognition, conquest, a face to flatter or to win. And she returns nothing. No face to charm, no reflection to claim. She sees, and is not seen-and-flattered.
 >
 > This is [[Concepts/Witnessing vs Surveillance]] dramatized in four lines. Surveillance is the look that ranks and consumes. Witnessing is the look that holds and loves. Mary is pure witness, the one who watches without taking, and when the consuming eye meets a presence it cannot consume, the self that knows no other way to look simply ends.
 >
 > That is also why she is the one thing [[Sir Lucius]]'s system cannot absorb, and it is worth holding him at full complexity here rather than flattening him into a foil. Lucius is the protective intelligence that once pulled Roy out of the dark, the shadow that guards the wound, *and* the manipulator who dropped the floor. All three at once. But whatever register he is in, he runs on reflection: he needs watchers, he changes shape per audience, he is a mirror. Mary does not reflect, she transmits, and she is identical in every room. A mirror cannot do anything with a window. That is [[Concepts/Source vs Reflection]] in one image, and it is the real reason his whole apparatus goes quiet around her: she is not a better argument inside his game, she is not playing his game at all.
 
-> [!note]- The dedication that became a benediction
+> [!note]- The dedication that became a benediction<br><span class="jt-drawer-summary">The object of care became its source, a function swapping direction rather than one entity.</span>
 > There is a direction to Mary's appearances that rewards stepping back, and it sits inside a longer obsession with faces that runs the whole catalogue. Track the word: *"the disguise on my face getting clearer"* ([[Long Time Coming]]), then *"this one's for the faceless"* (same song), then *"ain't gonna be no face in the crowd"* ([[Superhuman]]), then [[Happy Face]], the forced smile, then the literal face-paint and mask era. The project keeps asking what a real face is, and which faces are masks, long before Mary arrives to answer it by having none.
 >
 > And the direction inverts. On *Subject to Flooding* (2018), [[Long Time Coming]] dedicates the song *to* the faceless: *"this one's for the faceless, the lost, not the famous."* In 2018 the faceless ones receive the care. By 2025 and 2026 the faceless one is the one *giving* the blessing: the Ballerina Boy outro, the Weirdness angel, the Champion Madonna. The object of care has become the source of care.
 >
 > Best held as a function swapping direction rather than a single entity that traveled across the years, and I'd resist the urge to over-personify it into one figure walking through time. But as a shape it is striking: the work spent a decade learning to bless the thing it once asked you to pity.
 
-> [!map]- The Shekhinah frame (you don't need it to read the page)
+> [!map]- The Shekhinah frame (you don't need it to read the page)<br><span class="jt-drawer-summary">In Kabbalistic terms Mary resembles the exiled Shekhinah ascending toward Binah, never equated by the work.</span>
 > One strong frame, drawn from the Kabbalah the project openly engages, reads Mary as the Shekhinah, the divine feminine *in exile*: the moon that reflects a light not its own, longing to be restored. Put it in the plainest terms I've got: the divine feminine descending into darkness to free the imprisoned soul, that's the Mary/Shekinah arc if you squint. The squint is the honest part. This is a framework correspondence, a family resemblance, explicitly not authorial intent; the work never says "Mary is the Shekhinah," and Sophia, Mary, and Shekhinah are three overlapping shapes, not one equation. Do not collapse them.
 >
 > On this reading *"saw a halo but I didn't see a head"* is the crown glimpsed but not yet possessed. What licenses reaching for the frame at all is public: the *I'm 33* board, the *El Roi / El Roy* signature, the openly Kabbalistic furniture of the work. You do not need a word of it to read the blessing-voice.
@@ -118,7 +118,7 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 >
 > **The one tree (the green apple's counter-symbol).** A different axis, and a cleaner one. On Berthold Furtmeyr's fifteenth-century *Tree of Death and Life,* a real illumination that sits on the *I'm 33* board, Eve dispenses the death-fruit and Mary the eucharistic host from the *same* tree. So [[Sir Lucius]]'s green apple, plucked too soon, and Mary are two administrations of one tree: fruit seized unripe against life given at the right time. Keep this separate from the Shekhinah question; folding them together hardens a resemblance into a claim.
 
-> [!note]- Other registers: Magdalene, Sophia, the Dove
+> [!note]- Other registers: Magdalene, Sophia, the Dove<br><span class="jt-drawer-summary">Each register is held as a function or a resonance, never as a named Mary.</span>
 > **Magdalene.** *"Queen of California on the corner doing her time"* is the sacred feminine brought low, a street corner, a sentence served, and *still* Queen. Holy and fallen at once, devotion as disruption.
 >
 > **Sophia / gnosis ([[Weirdness]]).** The faceless angel resembles Sophia, wisdom arriving from *outside* the system at the threshold of despair. Her message is not new information, it is remembrance. *"Stop pretending, you were born to shine"* does not add a fact, it cancels the false one that was suppressing the real. That is gnosis in a single line. See [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]].
@@ -127,7 +127,7 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 >
 > **A resonance, held loosely.** The *Conquistadora* register sits at the fierce end of the divine-mother spectrum, the protector who is also a force. Held as resonance, never as claim.
 
-> [!cast]- Relationships
+> [!cast]- Relationships<br><span class="jt-drawer-summary">Mary blesses Roy and unseats the champion, and no figure she resembles is merged with her.</span>
 > - **[[Roy]]:** the one she blesses, the self she is calling back to life. They share the lunar register but split it cleanly. Mary carries the moon's *theology* (reflected light, exile, promised return); Roy carries the moon's *position* (the self emptied to receive). Open whether Mary is the figure Roy "comes back for" or someone distinct from the buried [[Brandon|Ballerina Boy]] child.
 > - **[[Sir Lucius]]:** not simply her opposite, and worth keeping him whole here. He is protector, shadow, and manipulator at once, the mind divorced from the heart. Where he reflects, she transmits; where he needs watchers, she is constant. They read as two ways of relating to the same underlying drive, which is exactly why his system cannot absorb her. In [[No. 1 Champion (la Conquistadora)]] she unseats the championship, and the crown he resells in [[Not Your Homie]] is the one she revoked. Watch for him counterfeiting her, too: the *"I came to set you free / magic mirror"* rescue-voice in the *Lucius Lullaby* title track is Lucius faking the rescue, not a true Mary appearance.
 > - **The [[Brandon|Ballerina Boy]] child:** the wound she answers. Her outro blessing lands directly over the childhood shame, *let your light shine* laid across *you're not a real boy.*
@@ -140,7 +140,7 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 > - **[[SARAVI]]:** shares the wise-feminine, oracular register; an open resonance, nothing locked. Kept as her own distinct figure.
 > - **MERCY:** *not* Mary. MERCY (Mercedes Colletta Britton) is a real, credited backing vocalist and co-writer who originated the *Not Your Homie* hook. A person and a collaborator, not a symbol. The casting of the actual Mary voice in the songs is unconfirmed. This firewall matters: Mary is the presence the songs reach for, never simply "the woman singing in the background."
 
-> [!question]- Open questions
+> [!question]- Open questions<br><span class="jt-drawer-summary">Naming the faceless voices Mary is a working assumption, and the rest is held open.</span>
 > A few threads the work has not tied off, worth holding open rather than forcing shut.
 > - **Why is the face hidden each time,** is it Roy's state (he can't see her yet) or her own choice?
 > - **Is the faceless voice the named Mary?** Are the [[Ballerina Boy]] outro and the [[Weirdness]] angel the same entity as the named Mary of [[No. 1 Champion (la Conquistadora)]]? A credits or casting source would settle it; right now it is the working assumption, not a proof.
@@ -149,7 +149,7 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 > - **Is she the one Roy comes back for,** or is the buried child a separate thing she is reaching toward? The blessing lands over the child, but that does not make them the same figure.
 > - **Mary and the Maker / Wise-One:** one figure under two names, or two faces of one source? Plus her open resonance with [[SARAVI]]. Keep open.
 
-> [!warning]- How this reading could be wrong
+> [!warning]- How this reading could be wrong<br><span class="jt-drawer-summary">Mary is a pattern, not a fixed character, and this guide's least certain figure.</span>
 > The page needs brakes, and Mary needs more of them than most, because her seam is thin and almost entirely interpretive.
 > - **She is a pattern, not a fixed character.** *Mary* is this guide's name for a recurring shape; she is spoken aloud exactly once. Not every female voice in the catalogue is symbolic Mary, and the work does not always agree to be tidy about it. Read her as figure and function before person.
 > - **Sophia / Mary / Shekhinah is a family resemblance, not an equation.** Do not collapse the three into one identity.
@@ -158,7 +158,7 @@ Everything above stands on its own. What follows is the line-by-line unpacking, 
 > - **The Mary and Maker/Wise-One question cuts both ways.** "One figure under two names" and "two faces of one source" are both live, well-anchored by [[The Circle]] but not hard-locked, because the work has not equated them by name.
 > - If you ever catch this page sounding certain about her, distrust the tone. Certainty is just a tone, not a truth, and she is the figure this guide is least sure of.
 
-> [!receipts]- Source notes (what is grounded, read, and framework)
+> [!receipts]- Source notes (what is grounded, read, and framework)<br><span class="jt-drawer-summary">The lyrics are grounded, the one-figure reading a working assumption, and any sefirotic placement analyst-framework.</span>
 > **Grounded** (released music, public posts and videos). Mary is named once, in [[No. 1 Champion (la Conquistadora)]], and named *faceless* in the same breath (*"saw a halo but I didn't see a head"*). The armed, autonomous portrait (*"gun in her hand," "fawning over no man," "Queen of California"*) is lyric-explicit. The motherly spoken outro of [[Ballerina Boy]] is an audio-confirmed female voice. The El Roy-signed visualizer caption is a public post. That *La Conquistadora* and *Queen of Heaven* are real Marian titles is verifiable fact. In [[The Interview]] EP7 Lucius claims the boast (*"another song about ME"*). MERCY (Mercedes Colletta Britton) is a credited, real collaborator, not a symbol.
 > **Strong readings** (interpretation built on grounded anchors). That the faceless-feminine voices are the *same figure* as named Mary is the working assumption, not proven. The witnessing-vs-surveillance and source-vs-reflection dynamics, the count-as-creation-grammar, the champion-as-Fool read, the two-blessings distinction, the counterfeit stranger, and the dedication-to-benediction inversion are all reads on grounded material, not stated intent.
 > **Framework** (esoteric, syncretic, never authorial intent). The Shekhinah identification, the Malkhut-to-Binah ascent, the Furtmeyr one-tree counter-symbol, and the Magdalene / Sophia registers are frames licensed by Roy's open Kabbalah engagement (the *I'm 33* board, *El Roi,* the *Queen Binah* artifact). They fit the recurring shape, but the work never states them, and you do not need any of them to read this page.

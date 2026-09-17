@@ -11,7 +11,7 @@ aliases:
 ---
 # BMRC
 
-> **One-line reading.** BMRC is the Circus's corporate signature — the company that produces the show **and** brands the weapons — and on the artifacts it keeps its name sealed behind four initials. Off the artifacts, the sites give it away: BMRC is the **Black Magic Rainbow Circus**.
+> **One-line reading.** BMRC is the Circus's corporate signature, the company that produces the show and brands the weapons, sealed behind four initials on the artifacts and named on the project's websites as the **Black Magic Rainbow Circus**.
 
 BMRC is the production-house-slash-weapons-brand whose initials are stamped across the era's releases, merch, and props, and [[Sir Lucius]] is the one who runs it. It never speaks. It has no face. It appears only as a credit line, a stencil, an event invitation — which is precisely how that kind of power appears in real life, too. When Leif says *"Boss,"* he means Lucius: as far as Lucius is concerned, he is the top of this operation and answers to no one.
 

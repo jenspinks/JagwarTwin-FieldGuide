@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Wise One
 
-> **One-line reading.** The Wise One walks into the old cave, finds the song everyone was talked out of believing they could sing, and remembers she once held the string. She is the single beat where the whole Jagwar Twin cosmology stops falling and turns back toward light, and she does it by doing almost nothing.
+> **One-line reading.** The Wise One walks into the old cave, finds the song everyone was talked out of singing, and remembers she once held the string. She is where the cosmology stops falling and turns back toward light, by doing almost nothing.
 
 > [!infobox] The Wise One
 > - **Role:** the remembering figure who closes the creation myth
@@ -138,7 +138,7 @@ He wins not by convincing anyone the Circle is wrong, but by convincing them the
 
 Everything above stands on its own. What follows is optional: the framework held loosely, the readings that go further than the lyric strictly licenses, the counter-arguments, the source notes. Open what you want. Ignore all of it and nothing breaks. And a standing rule for the whole downstairs: none of this is the answer, it's just one way of seeing it.
 
-> [!note]- The two faces (the core frame)
+> [!note]- The two faces (the core frame)<br><span class="jt-drawer-summary">She reads as two faces joined at one hinge: cosmic source and all of us remembering.</span>
 > The richest way to hold this figure is that she wears two faces at once, joined at a hinge.
 >
 > **Face one, cosmic / source.** *"She remembered she once held the string,"* the line says, but the *Maker* held the string at the myth's opening. If the Wise One once held it, then on this reading she *was* the Maker. Seeker and maker become two phases of one feminine being: she made the world, the world forgot her, and she returns at the end to remember herself. This is the divine-feminine face, the territory this guide maps to **Sophia / Shekhinah:** wisdom recovering the thread, the source-figure returning from exile. (The *"she"* is grounded. The Sophia/Shekhinah identification is interpretation, a family resemblance, not an equation.)
@@ -147,7 +147,7 @@ Everything above stands on its own. What follows is optional: the framework held
 >
 > **Both at once,** through a single hinge: the spark inside each person, *remembered,* reunites with the source, so personal awakening and reunion with the cosmic Maker are *the same event.* You don't choose between the faces. The Wise One is precisely the place where "I woke up" and "the source returned" turn out to be one sentence. (The 33-as-Christ's-age tie is held lightly, a resonance, not a locked claim.)
 
-> [!note]- A faculty, not a fourth character
+> [!note]- A faculty, not a fourth character<br><span class="jt-drawer-summary">She reads best as a faculty, feminine-coded remembrance, not a fourth named character.</span>
 > She reads best *not* as a separate roster figure but as a **state, a faculty: feminine-coded remembrance.**
 >
 > Two earlier readings only *look* like they fight. (a) She's the awakened self, the recovered self, the listener's own future state. (b) She occupies [[Mary]]'s archetypal territory, the feminine rememberer. They reconcile the moment you notice that *remembrance itself is feminine-coded* in this system: caves, mirrors, intuition, the held thread. The awakened self recovers the song *by* recovering the feminine faculty the kings suppressed. So the Wise One is *whoever re-members the feminine thread,* the listener, Roy, or the feminine principle itself, because at the instant of recovery they are the *same act.*
@@ -158,33 +158,33 @@ Everything above stands on its own. What follows is optional: the framework held
 >
 > So the divine feminine ([[Mary]] / Shekhinah, the Wise One, the primordial [[Concepts/The Jaguar|Jaguar]]) reads as **one function seen at three phases:** *origin* (the Maker who ties the world on the string and teaches the song), *exile* (the hidden source inside the darkened world, Shekhinah-in-exile), and *return* (the Wise One who re-members). Archetypal *continuity,* not a claim that the three are one named character.
 
-> [!note]- The cave, the wings, and the withdrawal
+> [!note]- The cave, the wings, and the withdrawal<br><span class="jt-drawer-summary">Read against Plato, her cave holds the truth, and the buried song reads as a seed.</span>
 > **The cave.** She walks into *"a small cave where the Jagwars used to sing,"* the site of the original, now-forgotten song. Read against Plato, it's an *inversion:* here the cave holds the *truth,* the original song, not shadows. She enters to recover an original relation, not to be deceived inside it. Eden remembered, rather than the fall into illusion. Whether the cave is best read as memory, sacred space, the unconscious, or the origin point stays open, but the direction is clear: she goes *in* to find what's *real.*
 >
 > **The withdrawal.** The Maker comes down, walks with the Jagwars, then *hides the song inside their wings and withdraws.* That contraction leaves the divine concealed *within* creation, the shape Lurianic Kabbalah calls *tzimtzum,* but it's worth hearing it in the plainer register the work keeps too: spirit descends into matter and forgets, and the soul must awaken and remember its origin. Seeds fall down, back to the garden. The falling is the planting. The song buried in the wings isn't a loss, it's a seed, and the middle of the myth (caged fragmentation) is the long winter before the Wise One's remembrance, the *tikkun* beat, gathers the scattered light back. The song concealed *inside* rather than acquired from outside is also the *kingdom within:* the essential thing uncovered, not obtained. Framework correspondence, not a stated source, but the founding myth's architecture sits unusually cleanly on it.
 
-> [!note]- The one song, and the singing field
+> [!note]- The one song, and the singing field<br><span class="jt-drawer-summary">Her remembrance reads as recovering Roy's one song, not writing a new one.</span>
 > Roy's Manifesto FAQ states a spine the Wise One runs straight through: *"The world needs music, but the world doesn't need more songs. There's only one song. I'm still learning how to write it."* Read through the Circle, that *one song* is the primordial song the Maker hid in the wings and the kings suppressed, and the catalogue is a run of attempts to re-transmit it: one transmission, remembered and shaped and passed along, through each unique cycle and vessel. Her remembrance is *how* the one song is recovered: not writing a new song, re-membering the only one. (His public line *"Music is how the world remembers who it is"* is the same mechanism, in his own words.)
 >
 > The Jaguar belongs here too. The emblem is usually framed as *seeing,* the creature who looks into others and back into itself, but the primordial Jaguar's defining act in this myth is *teaching the song.* So the seeing-field also *sings,* and her remembrance recovers that field's lost voice. The *one song* is, in this register, the Jaguar's song.
 >
 > And one honest curio. The Maker descends to *"the empires of the Earth, Wind, and the Sea,"* three elements, no fire, which is essentially *Earth, Wind & Fire* (a named childhood influence of Roy's) with Fire swapped for Sea. Tempting. But it's negative evidence, reading meaning into what's *absent,* which is the cheapest kind, and the swap may be pure euphony. The archive flags it against itself: the over-read risk is the lesson, not the fire.
 
-> [!reading]- The remembrance pattern across the songs
+> [!reading]- The remembrance pattern across the songs<br><span class="jt-drawer-summary">Three songs restate recovery by remembrance, and the arc ends open, on a question.</span>
 > She anchors a documented pattern across three verified songs, each restating *recovery by remembrance* rather than acquisition. "The Circle" (*"the wise one remembered she once held the string"*), then [[Soul Is A Star]], then [[tomorrow (ANGLE OF ETERNITY)]] (*"do you remember? / take my hand, I'll help you remember"*). Salvation recovered, not purchased: the Platonic and Gnostic *anamnesis* shape, sung more than one way. Spirit descends into matter and forgets, and the soul must awaken and remember its origin.
 >
 > But be honest about where the chain lands, because it does *not* resolve into a clean triumph. [[Soul Is A Star]] ends on a *question,* not an answer: *"do you know who you are?"* That's the central Gnostic question left hanging, not a victory lap. The remembrance pattern is real and it recurs, but the arc it traces ends *open,* held as a question rather than closed as a verdict. Which is truer to the work anyway: this is a doctrine you keep having to re-enter, not a level you clear once.
 >
 > The collective face has an early seed, too. The [[Superhuman (Interlude)]] passage borrowed from Chaplin's *Great Dictator*, *"The kingdom of God is within man / Not in one man / Nor a group of men / But in all men / In you,"* is the exact theology of the Wise One's all-of-us template: the treasure is in everyone or it's nowhere. The album's *we, not me* was never only solidarity. It was already a theology of distribution.
 
-> [!flame]- Why "I'm dreaming" is worse than "I'm asleep"
+> [!flame]- Why "I'm dreaming" is worse than "I'm asleep"<br><span class="jt-drawer-summary">'I'm dreaming' is sleep that mistakes itself for awakening, so the swap goes unnoticed.</span>
 > The substitution on [[The Circle (Lucius Version)]] is darker than a straight inversion. *"I'm asleep"* would break the spell; you'd know something was wrong. *"I'm dreaming"* feels magical, meaningful, alive, so the swap goes unnoticed. Dreaming is sleep that mistakes itself for awakening. The awakening-song isn't contradicted. It's sung *back to sleep,* and made to feel like wisdom while it happens.
 >
 > The form enacts it. A music box is a credited instrument here (Roy plays *"Music Box"*), and a music box renders [[The Thread]] (feeling, *held*) as clockwork (*cranked*). The circle as a music box is the opening of the album, and it hits the innocent, young part of the brain, which is exactly the point: the comfort is the trap. The thing meant to be held in a living hand becomes a sequence you wind up. *"Mind divorced from heart,"* enacted in the form itself.
 >
 > And hold [[Sir Lucius]] in all three of his registers here, because the lullaby needs all three to work. It is manipulation (he keeps the name and strips the function). It is shadow (the awakening you refuse gets sung back at you as comfort). And it wears the face of protective love (a lullaby *is* an act of care, which is precisely why it disarms you). Flatten him to a villain and you miss why the trick lands: the softest-seeming thing he does is the one that keeps her asleep. The Loop is return without transformation; the Circle is return with memory restored. He runs the same circuit she does, with the remembrance taken out. Same geometry, opposite charge.
 
-> [!warning]- How this reading could be wrong
+> [!warning]- How this reading could be wrong<br><span class="jt-drawer-summary">The Circle also reads cleanly as a fable, and every framework here stays interpretation.</span>
 > The page needs brakes.
 > - "The Circle" also reads, cleanly, as a self-contained, bizarrely beautiful mythic fable, full stop. The Thread / tzimtzum / Sophia architecture is a *strong* read, not a stated fact. It's unusually well-anchored (it's Roy's solo write, it names the project's own creatures, and it's the documented public source of the *"song hidden inside its wings"* phrase), so it carries lower projection-risk than most framework reads. But it is still interpretation, not something the work says outright.
 > - The cross-song remembrance chain does **not** resolve into triumph. Reading it as a victorious arc overstates it; [[Soul Is A Star]] ends on the *question* *"do you know who you are?"* The pattern is real; the resolution is withheld.
@@ -192,19 +192,19 @@ Everything above stands on its own. What follows is optional: the framework held
 > - The Eye-Alaska *"shore = the wise"* resonance is a faint rhyme between Roy's self-description and a figure in his own work, held apart on purpose. It is **not** "Roy is the Wise One."
 > - The Sophia/Shekhinah identification, the tzimtzum/tikkun and inverted-cave frames, the 33-as-Christ's-age tie, and the Sutratman "thread-self" lineage are all framework correspondences: attribute them to the tradition and hold them loosely, never as authorial intent. If I ever sound sure about any of them, I'm doing it wrong.
 
-> [!question]- Open questions
+> [!question]- Open questions<br><span class="jt-drawer-summary">Her nature, the cave, and whether Mary is the same entity all stay open.</span>
 > - Is the Maker Jagwar / Wise One divinity, consciousness, Sophia-Shekhinah, nature, imagination, or the collective template (*all of us,* remembering), or a fusion of the cosmic-source face and the immanent-collective face joined in anamnesis?
 > - The cave: memory, sacred space, the unconscious, or the origin point? The *direction* (inward, toward what's real) is clear; the identity isn't locked.
 > - Is [[Mary]] the same entity as the Maker/Wise-One Jagwar (one figure under two names), or are they two faces of Shekhinah? Strongly suggested by "The Circle," not hard-locked; the work hasn't equated them by name.
 > - Whether the seeing-field (the [[Concepts/The Jaguar|Jaguar]]) and the source are distinct orders or one function in two faces. The myth tips toward the latter, but it's not locked.
 > - Is the thread *given* (by Ariadne / the divine) or *held* (by the refusal to sacrifice feeling)? Probably both, and which the work emphasizes changes the whole model of agency.
 
-> [!note]- Lower-confidence framework notes
+> [!note]- Lower-confidence framework notes<br><span class="jt-drawer-summary">The shore rhyme and Hercules mapping are faint resonances, never 'Roy is the Wise One.'</span>
 > A faint, deliberately-held-apart resonance. Roy's 2010 band-name gloss (Eye Alaska) once defined *"the shore"* as *"the wise, people who have gone through things to make them wiser."* So his 2026 line *"I am the shore"* ([[Public Posts]]) faintly rhymes with becoming *the Wise One,* the one who remembered. Held loosely, registers kept apart: this is *not* "Roy is the Wise One," just a resonance between his self-description and a mythic figure in his own work.
 >
 > Lower still: a speculative mapping reads *"the wise one… held the string"* onto the twelfth Labour of Hercules (Pisces, the Red Cattle of Geryon), the retrieval of the dispersed self, the return with the whole herd; and a Theosophical *Sutratman,* the "thread-self" on which lives are strung to the source, as a possible ancestor of *"a world tied on a string."* Recorded as framework notes only. They carry no weight in the grounded reading, and the Sutratman line would need checking against Blavatsky before anyone leans on it.
 
-> [!receipts]- Source notes (what is grounded, read, and framework)
+> [!receipts]- Source notes (what is grounded, read, and framework)<br><span class="jt-drawer-summary">Two verified lines ground her, and the rest is strong reading or framework.</span>
 > **Grounded fact.** The Wise One appears in "The Circle," the closer of *33* (2022), in two Spotify-verified lines: *"Til a wise one found a small cave where the Jagwars used to sing / And the wise one remembered she once held the string."* She is feminine (*"she"*); her single act is remembrance; the string she remembers is the same one the Maker holds at the song's opening. Roy English is the sole writer (Roy English and Matt Pauling produce). Roy publicly calls "The Circle" *"Jagwar Twin's Genesis story"* (2024) and *"my favorite song that has ever come through me"* (2022); the Circle doctrine itself is documented as early as 2019 (*"there is no beginning and no end, it's just a circle"*). The collective-face aphorisms (*"every person has it inside of them"*; *"music is how the world remembers who it is"*) and the *"there's only one song"* line are Roy's own public words. "The Circle (Lucius Version)" carries a looped music-box refrain and the Wise One (and the whole myth) is verifiably absent from it, though the exact lyric of that version is by-ear and contested, so it isn't presented here as fully verified.
 >
 > **Strong reading.** That the string is [[The Thread]] and originates in her line; that her remembrance is *anamnesis* (recovery, not acquisition); that she reads as Sophia/Shekhinah paired with a feminine Maker; the *two faces* frame (cosmic-source and immanent-collective, joined at the hinge); the *held-string vs pulled-string* ethics; the crowd-singing-it-back as her act at scale; the Lucius Version as appropriation, not deletion. These are well-anchored interpretations, unusually so, since the song is Roy's solo write and names the project's own creatures, but they are interpretations, not statements the work makes outright.
@@ -213,7 +213,7 @@ Everything above stands on its own. What follows is optional: the framework held
 >
 > *No private material was used. All grounding is the public lyric, official credits and videos, and Roy's own public statements. The single citable exception for the "hidden inside its wings" material is the released lyric itself.*
 
-> [!feed]- Read next
+> [!feed]- Read next<br><span class="jt-drawer-summary">Start at The Circle, her home, then the thread, the Lucius Version, and Mary.</span>
 > - [[The Circle]]: her home, the founding myth in full.
 > - [[Concepts/The Loop and the Circle]]: the doctrine she resolves, and its dark twin.
 > - [[The Thread]]: the string she remembers holding.
