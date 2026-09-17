@@ -43,7 +43,6 @@ Pages marked **↓** are deep-end drawers. Each one sits underneath a main page 
 - [[Artifacts - Gallery 2 (38-74)|Artifacts — Gallery 2 (#41–78)]]
 - [[Artifacts - Gallery 3 (75-112)|Artifacts — Gallery 3 (#79–116)]]
 - [[Artifacts - Gallery 4 (113-149)|Artifacts — Gallery 4 (#117–154)]]
-- [[Artifacts - The Wiring Diagram|Artifacts — The Wiring Diagram]]
 - [[The Attention Economy and the Circus]]
 - [[The Audience]]
 - [[The Audience — The Deep End]] ↓

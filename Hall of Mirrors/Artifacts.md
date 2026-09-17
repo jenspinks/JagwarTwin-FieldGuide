@@ -16,7 +16,7 @@ Think of this section as the evidence room, except the evidence sometimes sings.
 
 ## The original gallery — 149 catalogue records, by number
 
-The original gallery's catalogue records as scannable cards, in Hall of Mirrors room order. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the collection reads at a glance. Each card's title opens its room, and **More →** jumps to the full reading. Later opened rooms 155–222 continue in [[Rooms Behind the Gallery]].
+The original gallery's catalogue records as scannable cards, in Hall of Mirrors room order. **Card color marks the type** — teal for ciphers, gold for concept-images, carmine for family, cream for drawings, white for poems, charcoal for songs — so the collection reads at a glance. Each card's title opens that artifact's own room in the maze, which will want a wallet connected, and **More →** jumps to the full reading. Later opened rooms 155–222 continue in [[Rooms Behind the Gallery]].
 
 - **[[Artifacts - Gallery 1 (1-37)|Gallery 1 · #1–40]]**
 - **[[Artifacts - Gallery 2 (38-74)|Gallery 2 · #41–78]]**
@@ -24,8 +24,6 @@ The original gallery's catalogue records as scannable cards, in Hall of Mirrors 
 - **[[Artifacts - Gallery 4 (113-149)|Gallery 4 · #117–153]]**
 
 Prefer to read by *kind* rather than by number? The type deep-dives are below.
-
-And if you want to see how the rooms talk to *each other*: some artifacts are literally named for other artifacts, the title of one being the unlock code of another. Followed all the way, those matches resolve into four closed loops, six chains, and a dozen rooms that key themselves. The whole circuit is drawn on **[[Artifacts - The Wiring Diagram]]**.
 
 ## What counts as an artifact?
 
@@ -60,7 +58,7 @@ Nearly everything else on this site is reading: pages about concepts, characters
 Three honest limits, because a rule that can't say what it *doesn't* prove isn't a rule:
 
 - **An artifact proves Roy kept a thing, not that he wrote it.** Plenty of what hangs in the maze is borrowed: the Kybalion copied out by hand, a medieval tapestry, a museum placard. The keeping is the authored act, and a real one. The content still belongs to its source.
-- **A pattern noticed afterward is a reading, not a fact about intent.** The [[Artifacts - The Wiring Diagram|wiring diagram]] says it best: the titles and codes are Roy's soldering, but the order things were solved, and the tidy shape a finished map takes in hindsight, tell you about the map-readers, not the maker.
+- **A pattern noticed afterward is a reading, not a fact about intent.** The titles and codes are Roy's soldering, but the order things were solved, and the tidy shape a finished map takes in hindsight, tell you about the map-readers, not the maker.
 - **Some objects are debris, and that's allowed.** See the banana rule below. The artifacts can discipline interpretation precisely because not all of them are doctrine; treating every object as scripture is the same mistake as ignoring them, wearing robes.
 
 One more limit follows from the way the Hall cuts things up. A crop, an alias, or a second door can remain a distinct room with its own name and code, but repeated pixels do not become independent corroboration. Several rooms are fragments of larger notebook pages, so part of the reading is reconstructive: put the pieces back beside their parent sheet, then notice what changed when one region was isolated and given a door of its own.
