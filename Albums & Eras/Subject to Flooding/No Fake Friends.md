@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **Era / release** — *Subject to Flooding* (2018), the debut Roy famously *"had no money to make,"* built piecemeal across Joshua Tree, Florence, Haiti, Ireland and Lake Arrowhead. Atlantic redistributed the album in 2019.
+- **Era / release** — *Subject to Flooding* (2018), the debut Roy famously *"had no money to make,"* built piecemeal over several years. Atlantic redistributed the album in 2019.
 - **In one line** — a poverty-and-abandonment song that hardens, in real time, into a doctrine of who gets let in.
 - **Who speaks** — [[Roy]], first-person and openly autobiographical. No character mask yet: this is years before [[Sir Lucius]] has a name. But it's the survival-self that will *become* him doing the talking.
 - **Key symbols** — the List · the flattened [[The Moon|stars]] of the Hollywood Walk of Fame · the radar · the backpack that holds an entire life.

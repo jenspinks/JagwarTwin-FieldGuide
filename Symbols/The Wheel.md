@@ -69,7 +69,7 @@ The wheel arrives with a long inheritance, and the project draws on most of it b
 
 ## The driving-wheel sense — *Good Time*
 
-There's a second, entirely distinct meaning of *wheel* in the catalogue, and it's grounded in the narrated dream behind [[Good Time (1-08)|Good Time]]: not the wheel that spins *you*, but the **steering wheel** you take hold of. In Roy's account, Drake — a threshold-guardian figure — hands him *"the wheel,"* and the moment Roy is the one navigating, he admits *"I don't know what I'm looking for"* — and that admission is exactly when [[Sir Lucius]] drops into the passenger seat. The wheel here is the steering of one's own life and career, the burden of fame made literal; grabbing it without a destination is precisely what summons the shadow. (The sequence pairs with the Tower-tarot crash that ends the dream — the wreck as intervention.)
+There's a second, entirely distinct meaning of *wheel* in the catalogue, and it's grounded in the narrated dream behind [[Good Time (1-08)|Good Time]]: not the wheel that spins *you*, but the **steering wheel** you take hold of. In Roy's account, Drake — a threshold-guardian figure — hands him *"the wheel,"* and the moment Roy is the one navigating, he admits *"I don't know what I'm looking for"* — and that admission is exactly when [[Sir Lucius]] drops into the passenger seat. The wheel here is the steering of one's own life and career, the burden of fame made literal; grabbing it without a destination is precisely what summons Lucius. (The sequence pairs with the Tower-tarot crash that ends the dream — the wreck as intervention.)
 
 It's the same word doing opposite-feeling work — *being spun* versus *taking the controls* — and the figures rhyme: Lucius is the cosmic backseat-driver who only materializes the second you grab the wheel and confess you're lost. The guy with all the answers shows up exactly when you admit you have none.
 
@@ -109,5 +109,5 @@ The redeemed reading of the wheel has a quiet companion in a public post. On X i
 - [[Concepts/The Circus]] — the wheel at social scale, run by [[Sir Lucius]].
 - [[Welcome to the Circus]] — where the spin and the inversion arrive as one line.
 - [[Fire]] — the wheels of fire; the Merkavah and *Lear*'s torment-wheel.
-- [[Good Time (1-08)|Good Time]] — the driving-wheel sense, and the moment the shadow arrives.
+- [[Good Time (1-08)|Good Time]] — the driving-wheel sense, and the moment Lucius arrives.
 - [[The Thread]] — what you'd hold to find the way out of the spin.

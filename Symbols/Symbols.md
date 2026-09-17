@@ -40,7 +40,7 @@ The kit gets you started, but the world keeps more images than two characters ca
 - [[The Moon]]: borrowed light for the dark. It belongs to no figure, though Mary, Roy and Lucius each take it up at times.
 - [[Water]]: the oldest model of the soul there is, and a catalogue that keeps flooding. The comparative floor, from the Upanishads to Bruce Lee, is downstairs at [[Water — The Deep End]].
 - [[Roy's Tattoos]]: the whole man written on the body, inked twice and resolved by a single cross, with the rose running forwards and backwards around it.
-- [[The Colors]]: the palette is on the payroll too. The ladder of colors the board climbs, and who in this world wears what.
+- [[The Colors]]: some of the palette is on the payroll too. The ladder of colors the board climbs, and who in this world wears what.
 
 ### Deeper cuts
 
@@ -49,6 +49,6 @@ Nothing down here is required on a first visit. It'll keep.
 - [[The Fool]]: Tarot's Key 0 and Roy's *"I'm no-thing"* in one breath. The empty traveler who makes the leap anyway.
 - [[The Wheel]]: the circle once it starts spinning. Aimed at a center it's prayer; without one it's just vertigo.
 - [[The Prop Room]]: everything smaller, shelved in one room. The well, the halo, the gun, the crown, the raised hands, and the rest.
-- [[Beth]]: the one Hebrew letter the videos actually printed on screen. The house, the second letter, the container that holds.
+- [[Beth]]: the one Hebrew letter the title cards have named so far. The house, the second letter, the container that holds.
 
 And if you wandered in sideways and none of this rings a bell yet, the front door is [[So You Found Jagwar Twin]].

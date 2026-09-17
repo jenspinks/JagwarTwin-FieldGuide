@@ -47,7 +47,7 @@ The split is the theology of the project in miniature: the same name reads as *w
 >
 > Collapsed, the cluster is tight and real — **seeing ↔ reflection ↔ light ↔ guidance ↔ identity**, all orbiting perception. It's why the glyph keeps expanding without breaking: it's anchored in actual overlaps, not coincidence. And it's why Lucius, seated between **אֵל | רְאִי** (*God | Mirror*), is no stretch — he lives in the gap between being seen and being a reflection.
 >
-> **Tier.** Roy's vowel/consonant angels/angles method is grounded. The individual permutations and sound-collisions in this cluster are not thereby authorial claims: apart from *ro'i* (Genesis 16) and *re'i* = mirror (Job 37:18), they remain letter-mysticism tradition and resonance. The method permits the harmonics; it does not prove that the tattoo asserts them.
+> **Tier.** Roy's vowel/consonant angels/angles method is grounded. The individual permutations and sound-collisions in this cluster are not thereby authorial claims: apart from *ro'i* (Genesis 16) and *re'i* = mirror (Job 37:18), they remain letter-mysticism tradition and resonance. The method permits the harmonics; it does not prove that the marking asserts them.
 
 ## Source notes
 

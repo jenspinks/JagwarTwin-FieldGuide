@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **Era / release** — Jagwar Twin's debut, *Subject to Flooding*. First out 2018; redistributed and expanded by Atlantic in 2019. An album built over roughly six years — Joshua Tree to Haiti to Ireland — out of Roy's "lean years" of being dropped from labels and sleeping on friends' sofas. Not a single; no dedicated video.
+- **Era / release** — Jagwar Twin's debut, *Subject to Flooding*. First out 2018; redistributed and expanded by Atlantic in 2019. An album built over roughly six years out of Roy's "lean years" of being dropped from labels and sleeping on friends' sofas. Not a single; no dedicated video.
 - **In one line** — Post-scarcity euphoria performed as a flex and defended like a fortress.
 - **Who speaks** — [[Roy]], first-person, in "made-it" mode, addressing a partner ("you"). No [[Sir Lucius]] yet — but the armor here is his blueprint.
 - **Key symbols** — the sun (as weather, not gold) · the vibe (mood as fortress) · the wave (the album's flood, flipped) · the clown · "untouchable."

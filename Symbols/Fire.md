@@ -15,7 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **What it does** — purifies *or* imprisons, with the same element. Refiner's fire on one face; the *ring of fire*, a burning perimeter, on the other.
 - **Carried by** — [[Sir Lucius]] (holds the flame, runs the ring, "lit the fire"); [[Roy]] (the Promethean charge; the self-structure that survives the burn; the crown-flame he already carries).
 - **Appears in** — [[Welcome to the Circus]] · [[Moths to the Flame]] · [[Bananas]] · [[Down to You]] · [[City of Angels]] · [[Happy Face]] · [[Bad Feeling (Oompa Loompa)]] · [[dumbledore]] · [[Life Is Good]].
-- **Confidence** — the dual reading is interpretation built on grounded anchors; Roy's own words pin fire to *consciousness* and to the *mind/Lucifer* pole; the alchemical and esoteric scaffolding is flagged as framework throughout.
+- **Confidence** — the dual reading is interpretation built on grounded anchors; Roy's interview words pin fire to *consciousness*, and this guide links it to the *mind/Lucifer* pole through his Lucifer comparison; the alchemical and esoteric scaffolding is flagged as framework throughout.
 
 ## What it does
 
@@ -29,16 +29,16 @@ The cleanest formal move in the whole catalogue is that this ring is the [[The W
 
 Which raises the question the work leaves deliberately open. Are the refiner's fire and the trapping fire ever the *same* fire seen at two moments — the flame around the sacred center, read once from inside as protection and once from outside as an impassable wall? The work doesn't answer. It just keeps lighting the match.
 
-> [!note]- Advanced reading — fire = consciousness, fire = the mind, fire = Lucifer (Roy-grounded)<br><span class="jt-drawer-summary">Fire is consciousness, not thought, while the Lucifer comparison reads as tying fire to the mind.</span>
+> [!note]- Advanced reading — fire = consciousness (Roy-grounded), and fire read as the mind and Lucifer<br><span class="jt-drawer-summary">Fire is consciousness, not thought, while the Lucifer comparison reads as tying fire to the mind.</span>
 > Roy assigns fire a specific meaning, and it's not the obvious one. In his four-elements scheme he says plainly: *"fire being consciousness, water being emotion, air being thought, Earth being the physical reality you can touch."* Fire is **consciousness** — the awareness itself, not the thinking.
 >
-> And he goes further, in the most theologically load-bearing thing he's said on the subject: in *"so many different mythologies the intellect, or the rational mind, is equated with like the Lucifer archetype — which is like the highest angel in God's kingdom, the most beautiful angel with the most potential to fall and cause destruction and burn everything to the ground. And that's kind of like the mind."* So the rational mind *is* the fire that can burn everything down — which means, in the project's [[Concepts/The Jaguar|Heart-Mind]] cosmology, **fire belongs to the mind/[[Sir Lucius|Lucius]] pole.** The over-intellect that immolates. This grounds Lucius-as-fire far more firmly than the surface Lucifer/*lux* pun: it's the author's own equation, mind = the brightest angel = the one who can burn it all to the ground.
+> And he goes further, in the most theologically load-bearing thing he's said on the subject: in *"so many different mythologies the intellect, or the rational mind, is equated with like the Lucifer archetype — which is like the highest angel in God's kingdom, the most beautiful angel with the most potential to fall and cause destruction and burn everything to the ground. And that's kind of like the mind."* So the rational mind reads as the fire that can burn everything down, which is how this guide links fire to the mind/[[Sir Lucius|Lucius]] pole in the project's [[Concepts/The Jaguar|Heart-Mind]] cosmology. The over-intellect that immolates. That anchors Lucius-as-fire more firmly than the surface Lucifer/*lux* pun: the comparison of the mind to the brightest angel, the one who can burn it all to the ground, comes from the interview itself, while the step from there to fire is this guide's.
 >
 > Roy also places fire on a map. By his own account he works "the system I was taught of Earth in the north, Air in the East, **Fire in the South**, and Water in the West," and he's "found the western mystery school most applicable across systems with fire in the south" — the Golden-Dawn / Western-mystery elemental directions. Fire = South, by his own hand.
 
 ## Associations
 
-**[[Sir Lucius]]** is the fire's keeper. He runs the Circus that deploys the ring of fire as a boundary; in the lore he is the one who "lit the fire." In the *Bad Feeling* close he literally *holds the flame* while three performers' heads burn — the Light-Bearer (*lux-ferre*) setting the show alight. And by Roy's own equation above, fire is his element by nature: the mind divorced from the heart is exactly the angel "with the most potential to… burn everything to the ground." Fire turned outward, into a wall, with Lucius's hand on the torch.
+**[[Sir Lucius]]** is the fire's keeper. He runs the Circus that deploys the ring of fire as a boundary; in the lore he is the one who "lit the fire." In the *Bad Feeling* close he literally *holds the flame* while three performers' heads burn — the Light-Bearer (*lux-ferre*) setting the show alight. And on this guide's reading of the Lucifer comparison above, fire reads as his element: the rational mind is likened to the angel "with the most potential to… burn everything to the ground." Fire turned outward, into a wall, with Lucius's hand on the torch.
 
 **[[Roy]]** carries the other relationship to fire — the one that survives it. In the LOOP-era lore "the Tree would not fall into the flames": the self-structure endures the burn Lucius ignites. He also carries the *positive* fire (the crown-flame, below), and a faintly **Promethean** charge — someone who brought a light into the human sphere and paid for it. Note that Prometheus is a *different* Light-Bearer than Lucifer: punished not for pride but for a gift. Whether Roy's relationship to the fire is truly Promethean is left open. And his own gloss on the moth keeps the human warmth in view: *"I love that they seek the light, even at the cost of burning themselves up."*
 
@@ -69,7 +69,7 @@ Beyond scripture: Ezekiel's **Merkavah** vision spins wheels of fire as the vehi
 >
 > **The inverted menorah.** The Temple lampstand is meant to stay burning — light maintained. In *Moths*, the candelabra's three slots reduced to a single profane flame reads as the lampstand collapsed to one isolated ego, the menorah (or the Tree's three pillars) reduced to a lone candle — lit from a cigarette, then blown out by its own keeper. The demiurge move in one gesture, right before "go bananas."
 >
-> **The Sufi moth (*parvāna*).** In Persian mysticism the moth's annihilation in the candle-flame is *fanā* — the ego dissolving into union with the Divine, the most exalted death there is. Lucius takes that sublime union-image and *debases* it into population control: "so what? It keeps the moth population down." The mystic's ecstatic self-loss, read as a cull.
+> **The Sufi moth (*parvāna*).** In Persian mysticism the moth's annihilation in the candle-flame is *fanā* — the ego dissolving into union with the Divine, the most exalted death there is. Lucius takes that sublime union-image and *debases* it into population control: "So what? It just keeps the moth population down." The mystic's ecstatic self-loss, read as a cull.
 >
 > **Western alchemy — nigredo and *solve et coagula*.** Fire is the *solve*: the blackening, the prima materia reduced to darkness before transmutation. *Happy Face*'s "burning the old world down… something new is birthed" is nigredo on the card; the *Bad Feeling* fire-tag is nigredo staged. The danger the Circus runs is holding material in *perpetual* nigredo — burning that never completes into rebirth. ("I'll chew you up, spit you out" = consumption without transformation.)
 >
@@ -77,7 +77,7 @@ Beyond scripture: Ezekiel's **Merkavah** vision spins wheels of fire as the vehi
 >
 > **Lucifer / *lux-ferre*** — light-bearer, the morning star fallen (Isaiah 14:12), "Satan transformed into an angel of light" (2 Cor 11:14). Fire/light that disorients rather than illuminates. Grounded one level up by Roy's mind = Lucifer equation; routed through [[Concepts/The Light-Bearer]].
 
-> [!note]- Advanced reading — the four counterfeits of the phoenix, and the flame as attention<br><span class="jt-drawer-summary">Measured against the phoenix, the work stages two misses, refusing the burning or burning for nothing.</span>
+> [!note]- Advanced reading — the two counterfeits of the phoenix, and the flame as attention<br><span class="jt-drawer-summary">Measured against the phoenix, the work stages two misses, refusing the burning or burning for nothing.</span>
 > The catalogue's true death-term is the **phoenix**: it burns, dies, and is reborn *through* the death — transformation, the Circle completed. The work stages two ways to miss it.
 >
 > **Refuse the burning.** *City of Angels* / *Playing to the Gods* — "never gonna die," the upload — skips the fire entirely. The same self is preserved, not transmuted; it's taxidermy, not rebirth. Immortality that refuses the flame.
@@ -99,7 +99,7 @@ Beyond scripture: Ezekiel's **Merkavah** vision spins wheels of fire as the vehi
 
 - **Grounded (Roy's own words, released music, public posts, official videos).** The *Welcome to the Circus* "ring of fire" lyric; the *Moths to the Flame* spoken-word and its candelabra video; *Bananas*' "burn it down"; *Down to You*'s "flame at the top of your head"; *Happy Face*'s 2020 manifesto card; the *Bad Feeling* fire-tag visual; *dumbledore*'s witch-burning lines; Roy's four-elements scheme (fire = consciousness) and his mind = Lucifer = "burn everything to the ground" statement; his elemental directions (Fire = South, Golden-Dawn / Western mystery school); his moth gloss ("seek the light, even at the cost of burning themselves up"); the published LOOP-era lore ("Sir Lucius lit the fire," "the tree would not fall into the flames"); the recurring "Lucius in flames" promo posts.
 - **Soft / streaming-unverified.** *Life Is Good*'s "the world's in flames" (lyric is real but not streaming-confirmed); the *Moths* candelabra's exact 3-slots-to-1-candle symbolism and whether blowing the candle out *triggers* the descending vocal (the iconography is real; the precise esoteric mapping is read-in).
-- **Strong readings.** The dual refining/trapping thesis; the ring of fire as the Circle weaponized; the seraphim's guarding fire turned outward into a wall; the four counterfeits of the phoenix; the flame-as-attention synthesis (the analyst's unifying move, not a structure the songs declare); the four-layer *Bad Feeling* decode.
+- **Strong readings.** The dual refining/trapping thesis; the ring of fire as the Circle weaponized; the seraphim's guarding fire turned outward into a wall; the two counterfeits of the phoenix; the flame-as-attention synthesis (the analyst's unifying move, not a structure the songs declare); the four-layer *Bad Feeling* decode.
 - **Framework (esoteric, syncretic — never claimed as authorial intent except where Roy states it).** The alchemical nigredo / *solve et coagula* reading; the counterfeit-Pentecost and inverted-menorah inversions; the Sufi *parvāna* / *fanā* frame; the crown-flame's Keter/chakra placement; the Tree-of-Life resonances. The fire = consciousness and mind = Lucifer equations are the exception — those are *Roy's own*, which is why the Lucius-fire link sits a tier above mere resonance.
 - **How we'd be wrong.** A flatter read of *Circus*'s ring of fire is simply dark-carnival imagery, no Circle-inversion required; if the plain "consuming fire" charge accounts for every fire moment as well as the esoteric apparatus does, the apparatus is decorative. Both falsifiers stay on the table — the page keeps the dual-fire thesis without over-encoding every flame.
 
@@ -117,7 +117,7 @@ Beyond scripture: Ezekiel's **Merkavah** vision spins wheels of fire as the vehi
 
 - [[The Wheel]] — the Merkavah's wheels of fire; spinning fire as cosmic machinery; the page that cross-links Fire directly.
 - [[Concepts/Inversion]] — the divine fire inverted into a perimeter wall, a counterfeit Pentecost, a profane menorah.
-- [[Sir Lucius]] — the keeper of the flame; fire as his element by Roy's own equation.
+- [[Sir Lucius]] — the keeper of the flame; fire read as his element through the Lucifer comparison.
 - [[Concepts/The Light-Bearer]] — *lux*, the morning star, Prometheus as the ambiguous fire-thief.
 - [[Moths to the Flame]] — the moth, the candelabra, the seam into [[Bananas]].
 - [[The Mask]] — the other face of the spectacle the Circus runs on.

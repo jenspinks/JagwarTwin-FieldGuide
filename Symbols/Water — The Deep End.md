@@ -29,7 +29,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > [!reading]- The soul's water cycle, stage by stage<br><span class="jt-drawer-summary">This guide's comparative cycle returns the soul by descending, and its lift reads as internal.</span>
 > A terminology note first: there is **no established scholarly term** for a water-cycle model of the soul. Eliade's own *"aquatic symbolism"* is the defensible phrase; *hydrotheology* is a real 1734 term meaning something else entirely, and a false friend here.
 >
-> | Stage | The soul's move | Named in | In the vault |
+> | Stage | The soul's move | Named in | In this guide |
 > |---|---|---|---|
 > | **0 · The sea** | Undifferentiated source; no drops, no names | Brahman · the One · Ein Sof · Jung, *"the sea is the symbol of the collective unconscious"* (CW 12 ¶57) | Source · the whole · *"there's only one song"* |
 > | **1 · Evaporation** | The lifting. Drawn up, made invisible, **salts and non-volatiles left behind** (volatiles rise too, so this is separation, not purification) | Emanation (*proodos*) · Zeno: the soul is *"an exhalation endowed with sensation"* · alchemical sublimation | **[[SOL]]** — but note the direction the catalogue actually runs: the lifting agent reads as **internal, not an external sun.** The stars-thread devalues borrowed light at every step (*"stars are out of place"* · *"looked down at my stars"* · *"stars in the sky conspired"*) and lands on ***"your soul is a star."*** That is what makes *"love is the medium"* cohere: what raises the drop is the sun **it turns out to contain**, not one shining on it from outside. *(Corrected 2026-08-17: this cell had installed an external lifting agent, against the folded stars-thread.)* |

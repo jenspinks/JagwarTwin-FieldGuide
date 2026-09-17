@@ -98,6 +98,7 @@ A few claims that cut across the whole ninety seconds.
 - **[[Bounce]]** — closes the regression cluster: doctrine → id-eruption → kinetic evasion.
 - **[[The Watchers]]** — the Eye of the one-machine-three-ways read (Watch / Upload / flame-to-be-seen).
 - **[[The Circle (Lucius Version)]]** — the *true* transformation term *Moths* counterfeits; also the album's other Roy-solo-written track.
+- **[[Move To You]]**: read here as the song this spoken word answers. *Move To You* keeps its bearings by the heartbeat even when the stars are *"out of place,"* and Lucius names it and buries it in *The Interview* EP3; here he shrugs at creatures undone by a near, false light.
 - **[[Bad Feeling (Oompa Loompa)]]** — the immediate album neighbor (track 5), sharing the stove/factory-fire system; its acoustic reprise (track 15) is recorded "Live at the MOTH Gallery" — a possible echo, kept open.
 
 ## Spoken text

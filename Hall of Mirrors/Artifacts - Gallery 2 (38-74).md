@@ -59,7 +59,7 @@ The Hall of Mirrors artifacts #41–78, in room order. Card color marks the arti
 
 ### 41 · PERSPECTIVE
 
-A 33-second cinematic vignette of a desert homestead with a white geodesic-dome house: timelapse clouds, a golden-hour tracking shot following three people toward the property (two wearing shirts printed *IM NOT HERE*, Roy's tattoo text without its apostrophe), a dusk wide of the road, and a final hold on the dome under a dense star field before fading to black. The code simply names the place; the title *"PERSPECTIVE"* is enacted formally — one location shot from shifting vantage points and times of day, the same thing seen differently. Joshua Tree is Roy's documented retreat (*"I'm in Joshua tree right now 'reflecting'"*), where *Move To You* vocals were partly cut and the *Online* acoustic later filmed. The *IM NOT HERE* shirts loop it back into the presence/absence joke.
+A 33-second cinematic vignette of a desert homestead with a white geodesic-dome house: timelapse clouds, a golden-hour tracking shot following three people toward the property (two wearing shirts printed *IM NOT HERE*, Roy's tattoo text without its apostrophe), a dusk wide of the road, and a final hold on the dome under a dense star field before fading to black. The code simply names the place; the title *"PERSPECTIVE"* is enacted formally — one location shot from shifting vantage points and times of day, the same thing seen differently. The *IM NOT HERE* shirts loop it back into the presence/absence joke.
 **Connects to →** [[Move To You]] · [[Roy]]
 
 ### 42 · R1045

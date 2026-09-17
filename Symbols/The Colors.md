@@ -27,7 +27,7 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 ## The ladder underneath it all
 
-Everything starts on [[Concepts/The I'm 33 Board|The I'm 33 Board]], where Roy draws a ten-rung ladder of color from matter at the bottom to spirit at the top. The bottom rung is dark and earthy, the top rung is pure white, and the heart sits in gold-yellow in the middle. That ladder is the dictionary the rest of the project keeps quoting: white for the crown, gold for the heart, black for the shadow.
+Everything starts on [[Concepts/The I'm 33 Board|The I'm 33 Board]], where Roy draws a ten-rung ladder of color from matter at the bottom to spirit at the top. The bottom rung is dark and earthy, the top rung is pure white, and the heart sits in gold-yellow in the middle. That ladder is one color dictionary among several: white for the crown, gold for the heart.
 
 ## Two teams, one line down the middle
 
