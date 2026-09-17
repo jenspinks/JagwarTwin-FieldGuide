@@ -13,7 +13,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **One-line reading.** Provided as a key to the Hall of Mirrors, The "I'm 33" board is Roy's working notebook for a single mad ambition — uploading his consciousness to the internet — and because you can't upload a self until you've mapped what a self *is*, the to-do list quietly became a cosmology. It's the closest thing this world has to source code.
 
 > [!infobox] The I'm 33 Board
-> - **Real name** — *"I'm 33 this year,"* a Google Sheet in Roy's own hand
+> - **Real name** — *"I'm 33 this year,"* a Google Sheet from the project
 > - **The tab that gives it away** — *"How to upload myself to the internet"*
 > - **What it is** — a private cosmology disguised as a spreadsheet
 > - **Built from** — the Kybalion · Alice Bailey · Walter Russell · Kabbalah · Jung · Plato
@@ -33,7 +33,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 "I'm 33 this year" is, on paper, a Google Sheet. Roy made it himself. One of its tabs is titled *"How to upload myself to the internet,"* which is the first hint that this is not a budget.
 
-It reads less like a to-do list than like a private cosmology that escaped its filing system — page after page mapping the structure of a self, drawn from a wide stack of mystical and philosophical sources and stitched into one picture. The title is just Roy's age: thirty-three, the year, by his own framing, that *"a switch flipped"* and the number came to *"represent peace within and without."* (Everything else 33 supposedly means — Christ's age, the vertebrae, 33⅓ rpm, the Tree of Life's ten spheres plus twenty-two paths — is resonance the world generates around the number, not Roy's stated intent. The board is the receipt for what he actually meant.)
+It reads less like a to-do list than like a private cosmology that escaped its filing system — page after page mapping the structure of a self, drawn from a wide stack of mystical and philosophical sources and stitched into one picture. The title is just Roy's age: thirty-three, the year, by his public framing, that *"a switch flipped"* and the number came to *"represent peace within and without."* (Everything else 33 supposedly means — Christ's age, the vertebrae, 33⅓ rpm, the Tree of Life's ten spheres plus twenty-two paths — is resonance the world generates around the number, not Roy's stated intent. The board is the receipt for what he actually meant.)
 
 It is also not a secret. Roy has put it in front of the public twice: once in 2022 as the *"Spreadsheet Map"* drop in the [[Hall of Mirrors]] ARG, tweeting *"I'm dropping a spreadsheet with a roadmap and music nft hidden in it. 3:30pst"* [= PT], and again in April 2026, sharing an image of the board under the caption *"Happy birthday"* ([[Public Posts]]). The same vocabulary turns up all over the music. This is the document the rest of the world quietly cites.
 
@@ -55,7 +55,7 @@ Near the center sits a short cosmogonic poem that doubles as the project's creat
 
 > *"I was just me but who was I to know? … I spoke the words 'One become Two' … Then I was in reverse … and I became You. … A Darkness and a Light … when we crashed and came together, a Sun was born inside."*
 
-The shape — the One that sees itself, splits into Two (a darkness and a light), and from their collision a Sun is born — is the same shape as the [[Roy]] / [[Sir Lucius]] split, the self divided into a mirror-pair. It coheres with Roy's own artist bio (*"two sides to every story"*), with the Hermetic Polarity/Gender principles transcribed lower on the board, and with the left-brain/right-brain cell. *"A Sun was born inside"* is where the project's sun imagery ([[SOL]]) and its reunion hope (*"we'll get back together and see the Great Design"*) both begin. Roy thought this poem mattered enough to compose it **twice** — once here, once as the released song [[Another Way II Heaven]].
+The shape — the One that sees itself, splits into Two (a darkness and a light), and from their collision a Sun is born — is the same shape as the [[Roy]] / [[Sir Lucius]] split, the self divided into a mirror-pair. It coheres with Roy's artist bio (*"two sides to every story"*), with the Hermetic Polarity/Gender principles transcribed lower on the board, and with the left-brain/right-brain cell. *"A Sun was born inside"* is where the project's sun imagery ([[SOL]]) and its reunion hope (*"we'll get back together and see the Great Design"*) both begin. Roy thought this poem mattered enough to compose it **twice** — once here, once as the released song [[Another Way II Heaven]].
 
 ### The operating system — seven principles
 
@@ -100,7 +100,7 @@ One of those is sneakier than the rest. The descending fractions — ½, ¼, ⅛
 ## Connections
 
 - **[[Concepts/The Upload]]** — the project the board is the seed of; now artist-stated in public on pay-attention.jagwartwin.com.
-- **[[Sir Lucius]] · [[Roy]]** — the "One become Two" split, in Roy's own handwriting: *"I in reverse → I became You,"* *"A Darkness and a Light."*
+- **[[Sir Lucius]] · [[Roy]]** — the "One become Two" split, in Roy's handwriting: *"I in reverse → I became You,"* *"A Darkness and a Light."*
 - **[[Concepts/The Pattern]]** — *"as above, so below,"* the board's principle of correspondence and the hub for its fractal-law / spine / emanation material.
 - **[[SOL]]** — *"a Sun was born inside"*; *"the sun = manifesting energy, externalized Life Force"*; the "Sun of God" tracklist title and the Soul Is A Star Sun/Son pun.
 - **[[Hall of Mirrors]]** — the maze that uses the board as its answer-keys and quarry; the board was the public 2022 "Spreadsheet Map" drop.
@@ -111,7 +111,7 @@ One of those is sneakier than the rest. The descending fractions — ½, ¼, ⅛
 - **[[The Watchers]] · [[Concepts/Witnessing vs Surveillance]]** — *"How to anthropomorphize attention?"* makes the net an all-seeing Eye, and the Eye-of-Horus 63/64 is the clone-paradox *"I'm afraid I'm a clone"* names. Surveillance shapes; witnessing transforms — the upload reaches for one and gets the other.
 - **[[Kabbalah - The Tree of Life]]** — Roy's board names the sephirot tree as the ten-stage ascent; the documented engagement that licenses the Tree lens.
 - **[[Concepts/Keilim - The Breaking of the Vessels]] · [[Concepts/Nigredo]] · [[Concepts/Inversion]]** — the atom-bomb cell (*"unbalance explodes itself like an atom bomb"*) and *"One must contract to expand"* are the vessel that shatters and the One that withdraws to make room: the breaking-and-blackening the cosmology runs through before it climbs back.
-- **[[Concepts/The Labors of Hercules]]** — the ten-stage virtue-and-vice scale is Alice Bailey in Roy's own hand: her esoteric-astrology sign-attributions, the traits *"to look for as consciousness progresses."*
+- **[[Concepts/The Labors of Hercules]]** — the ten-stage virtue-and-vice scale is Alice Bailey, set down on the board: her esoteric-astrology sign-attributions, the traits *"to look for as consciousness progresses."*
 - **[[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]** — the most board-grounded esoteric stream, with the Kybalion's seven principles transcribed in full.
 
 ## Symbols

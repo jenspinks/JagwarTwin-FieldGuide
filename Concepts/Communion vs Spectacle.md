@@ -28,7 +28,7 @@ That is the surface, and it stands on its own. Each drawer below goes one readin
 > [!map]- Co-creators, not fans
 > Roy publicly rejects the word *fan* and calls his listeners *co-creators of the world.* That reframing is the hinge of the whole concept: same people in both rooms, and the only difference is whether they arrive as subjects doing their own work or objects consuming a show. The Circus performs the collapse in real time: *"take your seat, scream and shout"* takes a co-creator and seats them as an audience-member.
 >
-> And the sing-back is not an accident the guide is romanticizing. By Roy's own public account, the device is engineered: the *Trojan Horse* of a sing-along mantra laid over dark music, the nursery-rhyme substrate, steak wrapped around the pill. The concept just reads a device the work was openly built to deploy. ([[Not Your Homie]]'s hook was even born as a joke, a post-party voicenote from MERCY, one of the song's credited writers, which Roy captioned *"the ultimate introverted extrovert anthem."*)
+> And the sing-back is not an accident the guide is romanticizing. By the project's public account, the device is engineered: the *Trojan Horse* of a sing-along mantra laid over dark music, the nursery-rhyme substrate, steak wrapped around the pill. The concept just reads a device the work was openly built to deploy. ([[Not Your Homie]]'s hook was even born as a joke, a post-party voicenote from MERCY, one of the song's credited writers, which Roy captioned *"the ultimate introverted extrovert anthem."*)
 >
 > One more from the public feed, doing the whole page's work in a sentence: *"Do you think Jesus would do an arena tour"* (March 2023). Communion vs the arena-as-spectacle, asked as a question.
 >

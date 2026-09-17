@@ -46,7 +46,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!reading]- Where else the trap turns up (deep cuts)
 > The frame recurs well beyond the headline songs, at resonance-tier throughout:
-> * **[[Loser]]** (Subject to Flooding, 2018): *"I think the world's gone insane,"* the speaker naming the world insane in his own mouth, which is the false-world diagnosis exactly; TV and radio doing the flattening work; *"maybe I'm bad in my brain"* reads as the soul mistaking the system's defect for its own. And the *"la-la-la-la"* cheer rides in as a Trojan horse: the diagnosis is unbearable, so it arrives in a nursery-rhyme cadence, sedation and sincerity in the same breath.
+> * **[[Loser]]** (Subject to Flooding, 2018): *"I think the world's gone insane,"* the speaker naming the world insane in his mouth, which is the false-world diagnosis exactly; TV and radio doing the flattening work; *"maybe I'm bad in my brain"* reads as the soul mistaking the system's defect for its own. And the *"la-la-la-la"* cheer rides in as a Trojan horse: the diagnosis is unbearable, so it arrives in a nursery-rhyme cadence, sedation and sincerity in the same breath.
 > * **[[Superhuman]]**: reads as the anthem of those fully integrated into the machine, suffering converted to spectacle and survival renamed superhuman.
 > * **[[Dream - Dream]]**: an awakening impulse, the soul sensing captivity inside a false ordering system.
 > * **[[Pay Attention (feat. little luna)]]**: consciousness held captive by directing awareness outward.
@@ -85,7 +85,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > * **Christianity / the kingdom within**: Luke 17:21; the Chaplin *Great Dictator* speech (*"the kingdom of God is within man"*), sampled on [[Superhuman]] and re-voiced in [[I Like to Party]]; the exemplar register (*"every person has it inside"*).
 > * **Genesis / the Fall**: *"you still don't know you fell"*; the fall into forgetting.
 
-> [!map]- Roy's own bookshelf (the influences that key the frame)
+> [!map]- Roy's bookshelf (the influences that key the frame)
 > These carry more weight than the shelf above because they arrive in Roy's public materials, which is what licenses the correspondences at all:
 > * **Gurdjieff / the Fourth Way**: his single most-named public influence, the source of the "wake up" frame, the back-of-hand tattoo, and the quote-posts: *"Man is asleep; he must wake up"*; *"You can never awaken using the same system that put you to sleep in the first place"* (load-bearing: the system that produces the sleep cannot produce the waking). Four-plus Gurdjieff quote-posts in the October 2025 launch window alone.
 > * **Alan Watts**: *you are it*, the universe experiencing itself, the project's gnosis in three words. The MAGIK ARG password chain (you are it → heart → alcyone → davar) is built on it; the center of the maze is you. (Verified public, already-solved strings only.)
@@ -94,7 +94,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > * **Joni Mitchell** (a confirmed 33-era influence): self-described *"Buddhist-Gnostic hybrid,"* *"of the God-is-within school."* It rhymes with the kingdom-within thread, but the quotes are by-proxy from secondary sources, so they stay at resonance-tier until the underlying interviews are confirmed.
 
 > [!door]- The maze says it too (the frame, hidden in the ARG)
-> The web3 ARG seeds the frame in public, in Roy's own posts and in the lines that circulate around the maze: *"WAKE UP," "IT'S VERY INCONVENIENT TO LIVE LIFE AWAKE," "ONCE YOU'RE AWAKE YOU CAN'T GO BACK TO SLEEP," "ONLY THE CIRCLE KNOWS ABOUT THE CIRCLE," "WE ARE DROPS OF LIGHT," "THERE IS A BACKDOOR TO THE NEXT REALM."* The MAGIK password chain, you are it → heart → alcyone → davar, reads as the project's gnosis distilled, the Watts doctrine as a literal key.
+> The web3 ARG seeds the frame in public, in the project's posts and in the lines that circulate around the maze: *"WAKE UP," "IT'S VERY INCONVENIENT TO LIVE LIFE AWAKE," "ONCE YOU'RE AWAKE YOU CAN'T GO BACK TO SLEEP," "ONLY THE CIRCLE KNOWS ABOUT THE CIRCLE," "WE ARE DROPS OF LIGHT," "THERE IS A BACKDOOR TO THE NEXT REALM."* The MAGIK password chain, you are it → heart → alcyone → davar, reads as the project's gnosis distilled, the Watts doctrine as a literal key.
 >
 > And a meta-joke worth its footnote, offered as a speculative rhyme and nothing more: the file-host rate-locked after failed attempts and then returned "wrong" on every input, including the correct answer, so the right password was read as failed when it was actually right. A trap about a trap: a system telling you your own truth is invalid, the misnaming move in miniature, enacted by a file host.
 

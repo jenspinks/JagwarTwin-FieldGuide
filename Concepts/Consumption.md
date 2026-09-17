@@ -34,7 +34,7 @@ That is the surface, and it stands on its own. The drawers below go one mouth at
 > Once you have the frame, the catalogue lights up as variations on a single mouth:
 >
 > * **The crowd as appetite.** [[Bad Feeling (Oompa Loompa)]]: *"Carnivores and cannibals, I want it on demand-able / Mandible, jaw split, hit me with the gossip."* People consumed as content, scandal on demand. The internal rhyme has the words eating each other; the joke is load-bearing.
-> * **Attention as the meal.** [[Pay Attention (feat. little luna)]] personifies Attention as a deity that offers everything and eats the one thing it actually wants: your awareness. And the personifying move is on the record, on the public I'm 33 board, in Roy's own hand: *"How to anthropomorphize attention? → Marduk."*
+> * **Attention as the meal.** [[Pay Attention (feat. little luna)]] personifies Attention as a deity that offers everything and eats the one thing it actually wants: your awareness. And the personifying move is on the record, on the public I'm 33 board, handwritten: *"How to anthropomorphize attention? → Marduk."*
 > * **The web that eats the browser.** [[Online]]: *"Internet is like a web and we're the Spider's food."* You think you are the one browsing. And the system's *"Buy! Buy! Buy!"* turns, by homophone, into *"Bye! Bye! Bye!"*, purchase and farewell as the identical sound.
 > * **The sweet that clones you.** [[The Watchers]]: *"now they want candy / but I'm not Mandy Moore."* The crowd wants the edited pop-commodity, and to be consumed sweetly is to be cloned.
 > * **The cheer-machine.** [[Great Time to Be Human]] hands you *"bloodsuckers with crocodile shoes"*, predator and consumer fused in one status-figure. Even the goodbye gets swallowed back into the refrain.

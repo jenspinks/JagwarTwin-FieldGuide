@@ -19,7 +19,7 @@ Jung is not a lens some fan dragged to this work; Roy shelved him in public. His
 - **In one line** — disowned material holds real power; repression doesn't erase it, it arms it; the task is relationship, not elimination.
 - **Where it shows up** — [[Sir Lucius]] (the shadow given a name, a wardrobe, and a co-writing credit); [[Brandon]] (the buried child the shadow grew to guard); [[Concepts/The Dweller on the Threshold]] (the shadow met at the gate); the Leo labor in [[Concepts/The Labors of Hercules]] (tame, don't slay); [[The Watchers]] (the posted Jung page).
 - **Connected ideas** — [[Concepts/The Protector]] · [[Concepts/Source vs Reflection]] · [[Roy on Influences]].
-- **Confidence** — Roy's engagement with Jung is grounded (the shelf, the Story, his own Lucifer-archetype gloss). The specific castings — Lucius as shadow, Brandon as Divine Child — are strong readings, and this page keeps them labeled as such.
+- **Confidence** — Roy's engagement with Jung is grounded (the shelf, the Story, the project's Lucifer-archetype gloss). The specific castings — Lucius as shadow, Brandon as Divine Child — are strong readings, and this page keeps them labeled as such.
 
 ## What the work takes from him
 
@@ -41,7 +41,7 @@ Jung is not a lens some fan dragged to this work; Roy shelved him in public. His
 
 ## Source notes
 
-- **Grounded — Roy's own engagement.** The Book Club shelf (*Modern Man in Search of a Soul*, *Man and His Symbols*); the June 2026 Instagram Story of *Collected Works* Vol. 18 music-tagged to [[The Watchers]]; the *"Lucifer archetype"* quote; *"my mind must serve my heart"*; the posted Dion Fortune quote-card; Jung's name in the publicly stated lineage (see [[Roy on Influences]]).
+- **Grounded — the project's public engagement.** The Book Club shelf (*Modern Man in Search of a Soul*, *Man and His Symbols*); the June 2026 Instagram Story of *Collected Works* Vol. 18 music-tagged to [[The Watchers]]; the *"Lucifer archetype"* quote; *"my mind must serve my heart"*; the posted Dion Fortune quote-card; Jung's name in the publicly stated lineage (see [[Roy on Influences]]).
 - **Strong readings.** Lucius as the shadow-figure; Brandon as the Divine Child; the Dweller as the shadow's threshold-form; the blessing voice as the Self. Marked as interpretation wherever they appear.
 - **Framework.** The signs/symbols doctrine and the archetype apparatus generally — named as Jung's whenever this guide uses them.
 

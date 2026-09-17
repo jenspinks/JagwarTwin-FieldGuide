@@ -16,7 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Lyrics:** [Genius](https://genius.com) · streaming
 > **▶ Listen:** [Spotify](https://open.spotify.com/track/3NN8oP3CLbYmQjizcGtu9s)
 
-The creation myth *underneath* *33*'s attention-economy critique — one of the core mythology texts in the catalogue. Roy wrote this cosmogony **twice**: the lyric is near-identical to a standalone poem on his public "I'm 33" board, so the creation-myth reading isn't a listener's projection — it's his own stated cosmology.
+The creation myth *underneath* *33*'s attention-economy critique — one of the core mythology texts in the catalogue. Roy wrote this cosmogony **twice**: the lyric is near-identical to a standalone poem on his public "I'm 33" board, so the creation-myth reading isn't a listener's projection — it's the project's stated cosmology.
 
 ## The song is a count — One through Eleven
 

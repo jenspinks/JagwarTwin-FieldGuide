@@ -12,7 +12,7 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 
 > [!infobox] The Colors
 > - **What it is** — a small, repeated color code across the art, videos, and wardrobe
-> - **The source** — Roy's own ten-color ladder on [[Concepts/The I'm 33 Board|The I'm 33 Board]]
+> - **The source** — Roy's ten-color ladder on [[Concepts/The I'm 33 Board|The I'm 33 Board]]
 > - **The one rule** — color means the most inside the ladder; elsewhere, treat it as mood
 > - **Related** — [[Concepts/The I'm 33 Board|The I'm 33 Board]] · [[Sir Lucius]] · [[Roy]] · [[BMRC]] · [[The Green Apple]] · [[The Moon]]
 

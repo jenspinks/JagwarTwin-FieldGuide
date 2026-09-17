@@ -10,7 +10,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > **One-line reading.** Alice Bailey wrote the map Roy actually teaches from: the Twelve Labors of Hercules as the soul's inner zodiac — twelve faculties tested, the ego demoted but not destroyed, and a wheel that turns both ways.
 
-Bailey is the rare influence where nothing needs inferring. Roy keeps three of her quotes in his public influences. He photographed a hand-underlined page of her *Labours of Hercules* to his Instagram Story, captioned *"Alice Bailey ⚔."* He transcribed her virtue-and-vice scale into his own conceptual spreadsheet — the [[Concepts/The I'm 33 Board]] — in his own hand. And in a livestream over morning cacao, to about fifty people, he named the book outright and taught its core idea as his own: *"a book by Alice Bailey called The Twelve Labours of Hercules, and Hercules, which is the soul, which is us, the initiate, goes through all twelve signs of the zodiac… but we all have these inside of us… in different aspects of our life."*
+Bailey is the rare influence where nothing needs inferring. Roy keeps three of her quotes in his public influences. He photographed a hand-underlined page of her *Labours of Hercules* to his Instagram Story, captioned *"Alice Bailey ⚔."* He transcribed her virtue-and-vice scale into his own conceptual spreadsheet — the [[Concepts/The I'm 33 Board]] — by hand. And in a livestream over morning cacao, to about fifty people, he named the book outright and taught its core idea as his own: *"a book by Alice Bailey called The Twelve Labours of Hercules, and Hercules, which is the soul, which is us, the initiate, goes through all twelve signs of the zodiac… but we all have these inside of us… in different aspects of our life."*
 
 ## At a glance
 
@@ -48,7 +48,7 @@ Bailey is the rare influence where nothing needs inferring. Roy keeps three of h
 
 ## Source notes
 
-- **Grounded — Roy's own engagement.** The livestream teaching (~May 2026: names the book, teaches the Cancer labor, gives his placements); the Instagram Story of the hand-underlined Labor VII page, captioned *"Alice Bailey ⚔"* (the densest underline: *"the perversity that upholds the opposite of what is said"*); the three curated quotes; the board's Bailey-derived scale in Roy's hand; the June 2026 feed in her martial register (*"the time has come to slay the lion,"* *"We must master our stars"*).
+- **Grounded — the project's direct engagement.** The livestream teaching (~May 2026: names the book, teaches the Cancer labor, gives his placements); the Instagram Story of the hand-underlined Labor VII page, captioned *"Alice Bailey ⚔"* (the densest underline: *"the perversity that upholds the opposite of what is said"*); the three curated quotes; the board's Bailey-derived scale in Roy's hand; the June 2026 feed in her martial register (*"the time has come to slay the lion,"* *"We must master our stars"*).
 - **Strong readings.** Specific song-to-labor mappings; the Loop/Circle dyad's dependence on the wheel-reversal.
 - **Framework.** The three Crosses, the two cosmic gates, the esoteric anatomy, and the Lucis resonance — named as Bailey's system, never as Roy's statement.
 

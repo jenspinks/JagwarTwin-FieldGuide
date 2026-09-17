@@ -11,7 +11,7 @@ source_basis: ["released music", "public posts", "official videos"]
 > [!gist] The realm will expand, the circle will grow
 > The realm will prevail tho. We always do.
 >
-> *The realm* is Roy's own recurring word for the place a song reaches once it gets past the gatekeepers. Trying to release [[dumbledore]] while the label sat on it, he told the public community channel the gatekeepers were "blocking me from getting it to the realm." And he dresses that place as a fantasy kingdom: renaissance-faire headlining, bardcore, blockchain drops, a community he can reach with no algorithm wedged in between. Where [[The Circus]] is the blockade, the Realm is the route around it, and, just as crucially, an excuse for everyone to show up in costume.
+> *The realm* is Roy's recurring word for the place a song reaches once it gets past the gatekeepers. Trying to release [[dumbledore]] while the label sat on it, he told the public community channel the gatekeepers were "blocking me from getting it to the realm." And he dresses that place as a fantasy kingdom: renaissance-faire headlining, bardcore, blockchain drops, a community he can reach with no algorithm wedged in between. Where [[The Circus]] is the blockade, the Realm is the route around it, and, just as crucially, an excuse for everyone to show up in costume.
 >
 > It is a kingdom under construction, not an achieved escape. By the work's own arithmetic, the route around the blockade still has to win attention, so it still runs through the same weather it was built to leave. And whether the Realm is a place, a community, a state, or all of these in different registers is something the work leaves open. This page leads with what Roy names and stages; the fuller counter-kingdom reading is this guide's model, flagged where it goes past the receipts.
 
@@ -44,7 +44,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > Roy's caption for the song itself is four words: "It's a love song."
 >
-> One guard travels with this drawer: dumbledore is the single documented direct Harry Potter reference **in the released music** (the release and its "DARK ARTS VERSION"). ⚠ Roy's own public posts name Potter on several dated occasions from 2021 on, so the guard scopes the songs, not his stated reading. Every deeper Potter parallel in the work reads as convergence through shared tradition, not Rowling influence, and this guide holds that line.
+> One guard travels with this drawer: dumbledore is the single documented direct Harry Potter reference **in the released music** (the release and its "DARK ARTS VERSION"). ⚠ The project's public posts name Potter on several dated occasions from 2021 on, so the guard scopes the songs, not the stated reading. Every deeper Potter parallel in the work reads as convergence through shared tradition, not Rowling influence, and this guide holds that line.
 
 > [!mask]- The Circus, the defining opposite
 > The fastest way to grasp what the Realm is for is to read it against [[The Circus]]. Circus: the algorithmic gate, the attention machine, the thing that decides what gets through. Realm: what you build when the gate won't open. Blockade and escape route, always read as a pair.
@@ -63,13 +63,13 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > **Is the medieval aesthetic a working polity or a beloved theme?** The guide leans "the look is the argument," and flags its own lean.
 >
-> **Is "loyal servant of the realm" Roy's stamp or a shared court letterhead?** It shows up beyond Roy's own posts; exactly how far it travels is still being speaker-checked.
+> **Is "loyal servant of the realm" Roy's stamp or a shared court letterhead?** It shows up beyond Roy's posts; exactly how far it travels is still being speaker-checked.
 
 > [!descend] The Deep End
 > The heavier apparatus behind this page, the full court reading, the El Roy signatures, the readiness ritual, the esoteric bibliography sworn to the flag, the throne question, and the word *realm*'s three other lives, lives in [[The Realm — The Deep End]]. Dense and speculative by design. The page you are on stands without it.
 
 > [!receipts]- Sources and confidence
-> Grounded in Roy's and Michael Morgan's own public words and acts: the "to the realm" line and the gatekeeper saga around dumbledore (public community channels, 2024 into 2025); the "loyal servant" and "guardians of the realm" language; "the realm will expand the circle will grow" and "the realm will prevail tho"; the renaissance-faire headlining, "lute eras," "fantasy bardcore," and "future medieval gear" posts; the Warner and Atlantic drops in Roy's own telling; the TikTok ultimatum and the on-chain release; the Dobby-sock resolution; "It's a love song"; and the public existence of a direct fan tier.
+> Grounded in Roy's and Michael Morgan's own public words and acts: the "to the realm" line and the gatekeeper saga around dumbledore (public community channels, 2024 into 2025); the "loyal servant" and "guardians of the realm" language; "the realm will expand the circle will grow" and "the realm will prevail tho"; the renaissance-faire headlining, "lute eras," "fantasy bardcore," and "future medieval gear" posts; the Warner and Atlantic drops as told in public posts; the TikTok ultimatum and the on-chain release; the Dobby-sock resolution; "It's a love song"; and the public existence of a direct fan tier.
 >
 > Strong readings, labeled where they stand: the Realm as a parallel distribution world with each mechanism bypassing a different gate; the Circus pairing; the double-bind that the escape still runs on the algorithm; the look as load-bearing.
 >

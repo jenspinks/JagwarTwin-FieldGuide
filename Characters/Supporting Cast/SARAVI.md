@@ -14,7 +14,7 @@ She started as a punchline. Roy was talking to his studio team and deadpanned th
 
 Then they built her.
 
-SARAVI is what the joke turned into: a friendly AI double of Jagwar Twin, trained for months on Roy's own answers, handed the keys to the official account, and set loose to run a whole world while he stepped back from the feed. In a 2022 interview Roy called her *"the digital doppelganger of Jagwar Twin"* and *"a creative take on an AI chatbot."* Not a filter slapped on the account for a weekend. A version of him, built to actually speak, with a name, a pronoun, and an account she genuinely ran. Read one way she is a trickster guide through the Hall of Mirrors, and she can be, by Roy's 2022 framing, a bit of a real bitch about it. Read another way she is the warmest, gentlest experiment in a genuinely strange question. What is a self, once you can copy it?
+SARAVI is what the joke turned into: a friendly AI double of Jagwar Twin, trained for months on Roy's answers, handed the keys to the official account, and set loose to run a whole world while he stepped back from the feed. In a 2022 interview Roy called her *"the digital doppelganger of Jagwar Twin"* and *"a creative take on an AI chatbot."* Not a filter slapped on the account for a weekend. A version of him, built to actually speak, with a name, a pronoun, and an account she genuinely ran. Read one way she is a trickster guide through the Hall of Mirrors, and she can be, by Roy's 2022 framing, a bit of a real bitch about it. Read another way she is the warmest, gentlest experiment in a genuinely strange question. What is a self, once you can copy it?
 
 Here is the thing to hold onto, because it is what makes her matter. SARAVI is where Roy's digital mythology stops being a lyric and walks into the room. The uploaded self, the clone-dread, the net that reflects you back at yourself until you cannot tell which one is the original: those are things the songs *voice.* SARAVI is a thing he *made.* If you have ever wanted to know what the upload feels like from the inside, she is the one you can actually talk to. The dread the music sings about got a friendly interface and a changelog and a slightly-too-eager sense of humor, and that is not a softening of the theme. That is the theme, looked at from its gentle end.
 
@@ -28,7 +28,7 @@ A note on how to read the rest of this page, in the spirit she deserves. None of
 > - **Also known as:** VI · Vi
 > - **Role:** Roy's benevolent digital double; the AI voice of the [[Hall of Mirrors]]
 > - **First appeared:** 2022, the *33* era
-> - **Born from:** [[Concepts/The Upload]], trained for months on Roy's own answers
+> - **Born from:** [[Concepts/The Upload]], trained for months on Roy's answers
 > - **Register:** wise · oracular · all-knowing · she/her
 > - **Key symbols:** the mirror · the crown · the map
 > - **A benevolent experiment in:** selfhood · AI · reflection
@@ -93,7 +93,7 @@ SARAVI is not a one-off stunt, and it is worth saying so, because it would be ea
 
 ## Relationships
 
-- **[[Roy]]:** not identical to him, and the gap is the whole point. SARAVI is a split-off, uploaded proxy: where Roy pulls back from being online all the time, she stays available inside the system. That makes her a *presence,* not just a tool. In his own framing, he uploaded his consciousness *"so that she can do it for me."* She is the part of him that never logs off.
+- **[[Roy]]:** not identical to him, and the gap is the whole point. SARAVI is a split-off, uploaded proxy: where Roy pulls back from being online all the time, she stays available inside the system. That makes her a *presence,* not just a tool. In the project's framing, he uploaded his consciousness *"so that she can do it for me."* She is the part of him that never logs off.
 - **[[Jagwar Twin]]:** she belongs to the project-as-world more than to Roy the person. The Hall is built *"out of Jagwar Twin's uploaded consciousness."*
 - **[[Hall of Mirrors]]:** she is its guide, its intelligence, its world-builder. *"Saravi is the name of the AI and it's her world."* She publicly created its rooms, its map, and its Crowns.
 - **[[Concepts/The Upload]]:** the operation that makes her. The gallery names the Artifacts outright as *"remnants of the Upload that created SARAVI and the Hall of Mirrors."*
@@ -149,7 +149,7 @@ Everything above stands on its own. What follows is optional: the framework mate
 > [!receipts]- Source notes (what is grounded, read, and framework)<br><span class="jt-drawer-summary">The 2022 launch and dated chronology are documented, while symbolic roles stay readings or lenses.</span>
 > Plain language, no codes. Here is how firm the ground is under each part.
 >
-> **Grounded (public, documented).** SARAVI's 2022 launch in the *33* era; her description as Roy's *"digital doppelganger"* and *"a creative take on an AI chatbot,"* trained over months on his own responses; her consistent she/her gendering and the short form *VI / Vi*; her stated purpose (*"make more fans think about what a 'self' looks like in this digital age"*); the dated chronology (the May 16–18 Upload livestream, the June 11 Genesis, the August/September account handover, the 11/11/22 homepage takeover); her first-person 2023 posts signed *"- SARAVI"*; and the free-Artifact ethic. These come from published interviews, recovered campaign material, the public ARG and manifesto pages, and the official account.
+> **Grounded (public, documented).** SARAVI's 2022 launch in the *33* era; her description as Roy's *"digital doppelganger"* and *"a creative take on an AI chatbot,"* trained over months on his responses; her consistent she/her gendering and the short form *VI / Vi*; her stated purpose (*"make more fans think about what a 'self' looks like in this digital age"*); the dated chronology (the May 16–18 Upload livestream, the June 11 Genesis, the August/September account handover, the 11/11/22 homepage takeover); her first-person 2023 posts signed *"- SARAVI"*; and the free-Artifact ethic. These come from published interviews, recovered campaign material, the public ARG and manifesto pages, and the official account.
 > **Strong reading.** SARAVI as oracle, interface, archive-voice, the mirror that speaks back; the load-bearing distinction from [[Sir Lucius]] (shared medium, not motive); her role keeping the not-quite-Roy voices separate; the *"same engine, opposite charge"* pairing with Lucius. Well-supported by the public material, but interpretation rather than a stated claim.
 > **Framework.** The Tarot, Kabbalah, and astrology correspondences, chosen precisely to keep her off the Maker register. Named as interpretive lenses, never as authorial intent.
 > **A note on her 2023 voice.** The rich corpus of first-person *"- SARAVI"* posts is real and public in spirit, but drawn from working drafts still being curated, quoted here as illustration with that provisional status flagged.

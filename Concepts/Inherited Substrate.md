@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 * [[Dream - Dream]] interpolates Johnny Mercer's 1944 standard *"Dream (When You're Feeling Blue)"*: Mercer and Sarah Vaughan sit right there in the composer credit, and the doubled title is the tell, the old *Dream* and the new *Dream*, stacked.
 * [[Superhuman (Interlude)]] is a verbatim Charlie Chaplin sample from *The Great Dictator* (1940), *"the kingdom of God is within man… let us all unite"*: an inherited human voice placed straight into the sequence, neither Roy nor Lucius speaking.
-* [[Soul Is A Star]] credits Joni Mitchell as a cowriter, and Roy posted his delight in his own words: *"the fact that JONI MITCHELL gave me her blessing and is a cowriter is still mind blowing."*
+* [[Soul Is A Star]] credits Joni Mitchell as a cowriter, and Roy posted his delight: *"the fact that JONI MITCHELL gave me her blessing and is a cowriter is still mind blowing."*
 
 That is the surface: trust the credit, notice the seam. The drawers go one layer down at a time.
 
@@ -38,7 +38,7 @@ That is the surface: trust the credit, notice the seam. The drawers go one layer
 > Read one way, that borrowing stops being citation and becomes completion, finishing something across fifty years, the relay stated as a life. The honest counterweight: none of it requires direct lineage. A flatter, equally defensible read is that Roy and Joni drink from the same singer-songwriter well, and the *completion* is meaning we add after the fact. Certainty is a tone, not a truth. Either way the credit is the only hard floor, and the completion is the reading built on top of it.
 
 > [!reading]- Same Wire, Opposite Signal
-> Then there is the substrate Roy describes in his own voice, where the filing system becomes a worldview. In a Mirror Session he describes the self as an inherited stack: *"every single human being who has come before you is within you, like encoded… you're like this mountain, stacked… someone who learned to sing down the line is just embedded into you."* In another, answering a question about ancestors, he describes inherited darkness: voices that *"I know that they're not mine… lies that they believed,"* and a stated wish, *"I'm gonna heal that for you guys."* On the *I'm 33* board the neutral mechanism is written out plainly: *"every generation carries within it the seed of all previous generations."*
+> Then there is the substrate Roy describes directly, where the filing system becomes a worldview. In a Mirror Session he describes the self as an inherited stack: *"every single human being who has come before you is within you, like encoded… you're like this mountain, stacked… someone who learned to sing down the line is just embedded into you."* In another, answering a question about ancestors, he describes inherited darkness: voices that *"I know that they're not mine… lies that they believed,"* and a stated wish, *"I'm gonna heal that for you guys."* On the *I'm 33* board the neutral mechanism is written out plainly: *"every generation carries within it the seed of all previous generations."*
 >
 > Same wire, opposite signal. The channel that hands down the craft, someone who learned to sing, embedded in you, is the same channel that hands down the lie. One cargo is [[The Circle]]: remembrance, return, the song passed forward. The other is the Loop: repetition without transformation. What the song does with the seed is the fork.
 >

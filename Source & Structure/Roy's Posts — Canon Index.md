@@ -228,7 +228,7 @@ source_basis: ["public posts"]
 
 ## Esoteric currents — Kabbalah, Gnosticism, Hermeticism, the Labours
 
-*The older traditions Roy actually studies, in his own words.*
+*The older traditions Roy actually studies, from the posts themselves.*
 
 - *"Life is just putting things in things"* — **2023-08-29** — [[Concepts/The House and the Vessel]] · [[Concepts/Keilim - The Breaking of the Vessels]]
 - *"I watched the holy mountain 3.5 times today"* — **2023-07-20** — [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] · [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] · [[Concepts/Nigredo]]

@@ -32,7 +32,7 @@ That is the surface. Open a drawer below only for the deeper readings.
 >
 > His minted City of the Pyramids artifact (room #70 in the Hall of Mirrors) makes the placement physical: its handwritten 0–10 emanation ladder draws the Abyss as a line between stages 3 and 4, glosses it "knowledge is relation," invokes in its title the realm beyond the Abyss, and names the cost of passage: "sacrifice lesser aspects of self for greater."
 >
-> These artifacts should be read at their source pages for their full context; together they establish that the Abyss is one of Roy's own recurring structural terms.
+> These artifacts should be read at their source pages for their full context; together they establish that the Abyss is one of Roy's recurring structural terms.
 
 **THE CITY OF PYRAMIDS** · `A-SITTING ON A GATE` — The minted manuscript page where Roy writes the Abyss into his own emanation ladder, "Abyss (knowledge is relation)," between stages 3 and 4, and names the cost of passage: "sacrifice lesser aspects of self for greater." → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1c511dc41bb38f13ee2bbaf0a7d9e8489a9a1c301c1d3bfe4d7961b4ffce9612..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1c511dc41bb38f13ee2bbaf0a7d9e8489a9a1c301c1d3bfe4d7961b4ffce9612..jpg" width="200"></a>

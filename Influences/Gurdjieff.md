@@ -31,7 +31,7 @@ Of everyone on Roy's bookshelf, Gurdjieff is the influence he names most. The **
 
 **The crowd and its fear.** The longest Gurdjieff quote Roy has posted (October 9, 2025) is the bleak one: the crowd *"neither wants nor seeks knowledge,"* and the slavery of mankind rests on that fear. Posted with the hashtags of two songs — Happy Face and Bad Feeling — it reads as an artist annotating his own material: [[Concepts/The Audience]] page carries the weight of it.
 
-**Objective art, or the Trojan horse.** Gurdjieff distinguished art that merely leaks the artist's condition from *objective* art built to produce a precise effect. Roy's stated method — the bright pop shell smuggling the dark payload, his own "Trojan Horse" framing on [[Happy Face]] — is this doctrine in practice: engineered sweetness, deliberate aftertaste.
+**Objective art, or the Trojan horse.** Gurdjieff distinguished art that merely leaks the artist's condition from *objective* art built to produce a precise effect. Roy's stated method — the bright pop shell smuggling the dark payload, the project's "Trojan Horse" framing on [[Happy Face]] — is this doctrine in practice: engineered sweetness, deliberate aftertaste.
 
 **The in-between creature, inverted.** Gurdjieff's man is an in-between being who must *labor* to become fully human. The [[Moths to the Flame]] monologue — *"wild animals are wiser"* — flips that doctrine 180 degrees and gives the flipped version to Lucius: stop laboring upward, regress into the animal, feel funky with the monkeys ([[Bananas]]). The inversion is precise enough that it reads as characterization: to know what Lucius is selling, invert the books on Roy's shelf.
 
@@ -40,7 +40,7 @@ Of everyone on Roy's bookshelf, Gurdjieff is the influence he names most. The **
 
 ## Source notes
 
-- **Grounded — Roy's own engagement.** The WAKE UP hand tattoo and its public Gurdjieff gloss; the dated X posts (October 9, 12, 15, 18 and November 25, 2025 — see [[Roy's Posts — Canon Index]]); the *dumbledore* "Gurdjieff aka GO DUMB" caption; the Trojan-horse method statement. He is Roy's most-named public influence, which licenses the frame even where a label is the reader's.
+- **Grounded — Roy's documented engagement.** The WAKE UP hand tattoo and its public Gurdjieff gloss; the dated X posts (October 9, 12, 15, 18 and November 25, 2025 — see [[Roy's Posts — Canon Index]]); the *dumbledore* "Gurdjieff aka GO DUMB" caption; the Trojan-horse method statement. He is Roy's most-named public influence, which licenses the frame even where a label is the reader's.
 - **Strong readings.** Lucius's multiplicity as the "many I's"; the Circus/Spectacle exit problem as the system-that-cannot-wake-you; the Moths inversion as deliberate characterization.
 - **Framework.** The Law of Seven; self-remembering as "making the glass visible"; the Plato's-cave rhyme. Named as framework wherever used.
 

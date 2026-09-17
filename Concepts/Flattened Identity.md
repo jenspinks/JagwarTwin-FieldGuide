@@ -55,7 +55,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > * [[Loser]] (*STF*, 2018) holds the earliest explicit diagnosis: *"Television on your frame / Everybody's all the same."*
 > * [[Superhuman]] (*STF*, 2018) enacts the erasure it protests: the collective march (*"Left, right, left, it goes"*) flattens individuals into interchangeable units, which makes *"Ain't gonna be no face in the crowd"* the song's protest against the erasure its own "we" is performing.
 > * [[Happy Face]] (*33*, 2022) names the algorithmic version: *"Hollywood on your timeline / telling you what to wear / and what to like and how to be,"* building to *"death of my generation."* The 2020 launch asset seals the smiley over a globe, the minimum-viable mask scaled to a planet.
-> * The Sir Lucius "One Hit Wonder" Instagram rant (Halloween 2024, on the artist's own verified account) is the flattened metric weaponized as comedy: *"Charlie xcx is cool, the 1975 are cool, Chappell Roan...cool, Jagwar...well..."*, signed *"Your loyal servant, Sir Lucius."* The shadow trashing the artist by the industry's own scorecard, on the artist's own account.
+> * The Sir Lucius "One Hit Wonder" Instagram rant (Halloween 2024, on the artist's verified account) is the flattened metric weaponized as comedy: *"Charlie xcx is cool, the 1975 are cool, Chappell Roan...cool, Jagwar...well..."*, signed *"Your loyal servant, Sir Lucius."* The shadow trashing the artist by the industry's own scorecard, on the artist's account.
 >
 > There are so many strings; the fuller census, the clone-thread, and the early-arc reading are in the Deep End.
 

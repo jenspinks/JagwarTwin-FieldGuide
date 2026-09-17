@@ -125,7 +125,7 @@ A handful of claims that cut across the whole pitch.
 > **How far this goes.** The grounded floor is solid: two board cells + the Discord line + the coded artifact. Everything built on top — that the *speaker* of this song *is* Marduk — stays a reading, held open rather than asserted. **Firewall:** in this myth Tiamat is the slain sea-mother; she shares a feminine-source *register* with Mary but the *figures* stay separate. Do not fuse them, and do not read the song's final *"MaMa"* onto either — that word is flagged, unparsed, and load-bearing on nothing.
 
 > [!note]- Advanced reading — the Eye, and the harvested-energy economy
-> Two threads that connect the song to Roy's own board.
+> Two threads that connect the song to Roy's board.
 >
 > **The Eye.** *"I got eyes all around my head… see anything when you see my view"* maps onto the board's "eyes all around head" note and its Eye-of-Horus glyph — the deity's omnipresence as *the Eye made of everyone watching*. That's mechanism, not decor: the anthropomorphized Attention *is* the aggregate of every gaze. (The eye emoji fronting the 2022 cipher tweet is the same motif surfacing in the paratext.)
 >

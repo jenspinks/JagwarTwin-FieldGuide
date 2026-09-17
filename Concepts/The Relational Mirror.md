@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * In a 2020 interview, said plainly: *"I just want to be a mirror... a song is a mirror."* The person-as-mirror idea runs back through the Jagwar Twin name itself, *"we're all really mirrors to each other if we look,"* and forward into his June 2026 posts on X, where relationships are two people reflecting each other.
-* Roy's own "I'm 33" board, sixth rung of its ladder, in his own hand: *"The mirror of the Sun and the Heart."* *(Corrected July 2026: this guide previously read the handwriting as "the Soul and the heart." The true wording is stronger for this page — rung six is the solar heart-center, so the board names the healthy mirror as the one where light and heart meet.)*
+* Roy's public "I'm 33" board, sixth rung of its ladder, handwritten: *"The mirror of the Sun and the Heart."* *(Corrected July 2026: this guide previously read the handwriting as "the Soul and the heart." The true wording is stronger for this page — rung six is the solar heart-center, so the board names the healthy mirror as the one where light and heart meet.)*
 * The grammar of the songs themselves: tally every sung word across the catalogue and *"I"* (about 492) runs nearly dead even with *"you"* (about 478), first person facing second, one pronoun at a time.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
@@ -28,7 +28,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!map]- He has been saying it for years
 > The mirror is the project's own frame. Across interviews years apart, Roy keeps handing us the same idea: in 2020, *"I just want to be a mirror... I hope that people see themselves,"* and *"more and more I realize that a song is a mirror."* Back in 2018, explaining the band name itself: *"we're all really mirrors to each other if we look."* In June 2026 he was still at it on X: *"Relationships are fundamentally about two people reflecting to each other,"* and *"To Love is to meet the hidden part of yourself in someone else."*
 >
-> The whole web3 world is named the *Hall of Mirrors.* And the "I'm 33" board carries a rung that names the healthy pole in his own hand: *"The mirror of the Sun and the Heart."* The board lists the rung; it does not editorialize. Reading it positionally, as the open pole this page builds on, is a reading, and it is flagged as one below.
+> The whole web3 world is named the *Hall of Mirrors.* And the "I'm 33" board carries a handwritten rung that names the healthy pole: *"The mirror of the Sun and the Heart."* The board lists the rung; it does not editorialize. Reading it positionally, as the open pole this page builds on, is a reading, and it is flagged as one below.
 >
 > Taken together: if people are mirrors for each other, the mirror is not an object you look *at,* it is a relation you stand *inside.* And a relation can be held open or sealed shut.
 

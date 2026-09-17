@@ -12,7 +12,7 @@ Some rooms in the Hall of Mirrors are named for other rooms. Not thematically, n
 
 Everything on this page is checkable against the [[Artifacts|gallery cards]]: title on one card, code on another. The wiring is fact; what it *means* is graded the usual way.
 
-One honest caution before the pictures. The arrows run **key → door**: the room whose *name* is the string points at the room that string *opens*. That is the maze referencing itself, in Roy's own titles and codes, and it is authored. It is not a claim about the order anyone solved anything, and room *positions* carry no clue at all, since positions are chosen by whoever solves the code, not by Roy.
+One honest caution before the pictures. The arrows run **key → door**: the room whose *name* is the string points at the room that string *opens*. That is the maze referencing itself, in Roy's titles and codes, and it is authored. It is not a claim about the order anyone solved anything, and room *positions* carry no clue at all, since positions are chosen by whoever solves the code, not by Roy.
 
 ## The four loops
 

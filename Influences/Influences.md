@@ -11,7 +11,7 @@ Most artists let critics guess the reading list. Roy posts his — on the feed, 
 
 ## The thinkers
 
-The names on Roy's own roster, the ones who do enough work in the catalogue to earn a page.
+The names on Roy's roster, the ones who do enough work in the catalogue to earn a page.
 
 - [[Carl Jung]] — the shadow and its redemption: what you bury doesn't die, and the only way back is relationship, not war.
 - [[Gurdjieff]] — *"man is asleep. He must wake up."* The alarm-clock voice, worn tattooed on his hand.
@@ -31,5 +31,5 @@ Not a reading list — a lineage. The artists Roy names as having *"completed th
 
 - [[Roy on Influences]] — the roster in full, and the rule against over-reading it.
 - [[Concepts/The Pattern]] — the single law Roy assembles out of all of them.
-- [[Concepts/The I'm 33 Board]] — the influences in his own hand, on the board.
+- [[Concepts/The I'm 33 Board]] — the influences on the board, straight from the project.
 - [[Concepts]] — the ideas the influences seeded.

@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 * [[Ballerina Boy]] (2025): the wound itself, in the lyrics. Age seven, ballet, "I came alive when I was on that stage," and then "I never danced again / I killed that ballerina boy / I buried him inside." The most exposed doorway in, and the song Lucius later mocks by name.
 * [[Loser]] (2018, with [[Good Day]] and [[No Fake Friends]]): the armor caught mid-operation before it has a name. "I'm a loser, baby, just like you" claims the low-status label before anyone else can throw it.
-* Roy on the public Discord: "lucius is the mind. the mind is a tool, but that force can lead us astray if it is not subservient to the heart." The doctrine the armor hardens into, said in his own voice.
+* Roy on the public Discord: "lucius is the mind. the mind is a tool, but that force can lead us astray if it is not subservient to the heart." The doctrine the armor hardens into, said as himself.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
 
@@ -30,9 +30,9 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > Two more beats fix the figure's nature. First, the Protector is internally generated, not an invading demon; the theatrical staging says it point-blank: "I made you." Second, the move against him is dis-identification, not a duel. Roy again, on the Discord: "we need to see his shadow and then say these thoughts are not my own. becuase what we fight we become, and we become what we fight."
 >
-> And the moral floor under everything: the shadow is not the enemy. Roy posted Dion Fortune's line as a quote-card, "The shadow is not evil. It is power unrecognized and therefore misused," and gives us his own aphorism on X: "Nothing is evil in the beginning."
+> And the moral floor under everything: the shadow is not the enemy. Roy posted Dion Fortune's line as a quote-card, "The shadow is not evil. It is power unrecognized and therefore misused," and gives us an aphorism on X: "Nothing is evil in the beginning."
 >
-> One honesty note before the drawers below run with it: Roy publicly defines Lucius as mind-divorced-from-heart, a tool, a force that must serve — and he publicly supplies the **protective motive** in his own words: *"the mind is only trying to be logical and protect you,"* because *"you've been hurt before"* (2025-02-18). He also teaches protection curdling into possession, as the Cancer shadow that *"holds too tight and won't let go."* ⚠ What he does **not** do is attach that motive to the Ballerina Boy wound, or name the character a trauma-protector. So the **mechanism is his**; the survival-self reading that titles this page is this guide's synthesis built on top of it, labeled where it stands.
+> One honesty note before the drawers below run with it: Roy publicly defines Lucius as mind-divorced-from-heart, a tool, a force that must serve — and he publicly supplies the **protective motive** in plain words: *"the mind is only trying to be logical and protect you,"* because *"you've been hurt before"* (2025-02-18). He also teaches protection curdling into possession, as the Cancer shadow that *"holds too tight and won't let go."* ⚠ What he does **not** do is attach that motive to the Ballerina Boy wound, or name the character a trauma-protector. So the **mechanism is his**; the survival-self reading that titles this page is this guide's synthesis built on top of it, labeled where it stands.
 
 > [!reading]- Catch it in the act (2018)
 > The clearest way to watch the Protector work is to catch it running before it has a name. *Subject to Flooding* (2018) is its operating manual: each defense a real solution to a real danger that then forgets to clock out.
@@ -66,7 +66,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > The limit runs the other way at the Song of Love. SOL is a boundary on his power, not a defeat of him: Lucius can silence it, mock it, interrupt it, but he cannot metabolize it. Nothing in the released work delivers a completed integration, and this page won't promise one. On this album, resolution means survival, not triumph.
 >
-> His contempt pole is public too, played for laughs: the in-character Instagram rant declaring Jagwar Twin "a one hit wonder" and signing off "Your loyal servant, Sir Lucius." The value system the music refuses, voiced on Roy's own account by his shadow.
+> His contempt pole is public too, played for laughs: the in-character Instagram rant declaring Jagwar Twin "a one hit wonder" and signing off "Your loyal servant, Sir Lucius." The value system the music refuses, voiced on the band's account by Roy's shadow.
 
 > [!reading]- Reordered, not killed
 > Here is the cruel knot at the center: a protector formed around trauma craves healing and sabotages it in the same breath, because healing dissolves its job. If Roy becomes whole, Lucius no longer rules the system. And you can't simply think your way out, because the thing demanding your attention is a thought from the inside; it uses your own materials, resonates at your exact frequency. Which is why the answer the work keeps giving is ordering, not war. Dis-identify, don't duel: "these thoughts are not my own." Two poles make a single person; you adjust the degree, you don't eliminate a side. The end the story keeps pointing at is an embrace, not a funeral.

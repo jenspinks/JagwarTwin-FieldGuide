@@ -58,7 +58,7 @@ If the tab asks *"how to upload myself to the internet,"* this artifact is the f
 ### "I'm an egg"
 > *"I'm an egg, in the process of becoming a chicken to make more eggs to make more chickens."*
 
-If you read one cell on this whole board, make it that one. The upload isn't an escape hatch — it's a **vessel that has to break in order to hatch.** The self poured from body into network is the egg cracking into the bird. It rhymes with the Golden Egg in the maze, with *"Happy Easter from the egg,"* and with Roy's own *"I'm just a vessel for God."* File under [[Concepts/The House and the Vessel]] — fate: hatch.
+If you read one cell on this whole board, make it that one. The upload isn't an escape hatch — it's a **vessel that has to break in order to hatch.** The self poured from body into network is the egg cracking into the bird. It rhymes with the Golden Egg in the maze, with *"Happy Easter from the egg,"* and with Roy's *"I'm just a vessel for God."* File under [[Concepts/The House and the Vessel]] — fate: hatch.
 
 #### The Flood Artifacts
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1a28d145a6627c02c9fe073c4015c32a22002eafe0c2c4cdda9d7346e47811fd..jpg" width="300" controls preload="none"></video>
@@ -113,7 +113,7 @@ The backbone of the whole board is a single **ten-rung ladder** — a climb from
 #### Roy's Ladder
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4ccf3a893bc85a47b0f0f7fa643c87f2ff794f6afdccb15763373f3e76291373..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x4ccf3a893bc85a47b0f0f7fa643c87f2ff794f6afdccb15763373f3e76291373..jpg" width="320" controls preload="none"></video>
 
-And then there is the seventh one, which is a joke and is not a joke. Minted as **Roy's Ladder,** keyed `C33` to this very board — a scan of an actual paint-spattered stepladder from the garage. *(Corrected July 2026: this guide previously described this room as a drawing in Roy's own hand. It is a photographed household ladder, and the gold icon pinned on the board is the monastic* Ladder of Divine Ascent, *not Blake. Scope correction, August 2026: a separate board image really is Blake's* Jacob's Ladder, or Jacob's Dream. *The object-level corrections all stand; the former absence inference does not.)* Which is better than the mistake was. Six exalted encodings of the climb — scale, color, virtue, body, soul-words, hopscotch — and then the thing you actually stand on to change a lightbulb, kept and numbered alongside them.
+And then there is the seventh one, which is a joke and is not a joke. Minted as **Roy's Ladder,** keyed `C33` to this very board — a scan of an actual paint-spattered stepladder from the garage. *(Corrected July 2026: this guide previously described this room as a drawing by Roy. It is a photographed household ladder, and the gold icon pinned on the board is the monastic* Ladder of Divine Ascent, *not Blake. Scope correction, August 2026: a separate board image really is Blake's* Jacob's Ladder, or Jacob's Dream. *The object-level corrections all stand; the former absence inference does not.)* Which is better than the mistake was. Six exalted encodings of the climb — scale, color, virtue, body, soul-words, hopscotch — and then the thing you actually stand on to change a lightbulb, kept and numbered alongside them.
 
 *Both ways* is still the trick, though, and the board says so in its own hand: the climb up is also a descent into matter, which is why the same ten rungs read as *"The Fall into Matter"* on the phantom album and as an ascent here. Same ladder, depending which way you're facing. Full entry in [[Artifacts - Concept Images and Emblems]].
 
@@ -126,7 +126,7 @@ The **"Body Part Stages"** cell maps the ten rungs straight onto anatomy: **feet
 ### The 0–10 count, and the one line that matters
 A second version of the ladder is written as emanations: *0. Nothing IS · 1. I AM · 2. I speak the word · 3. I hear the word (Abyss) · 4. Father + Mother concealed · 5. whirling energy of nature · **6. the mirror of the Sun and the Heart** · 7. Bearing · 8. wavering · 9. stability · 10. The World.*
 
-Rung six — ***"the mirror of the Sun and the Heart"*** — is the entire [[Concepts/Heart and Mind]] doctrine in Roy's own handwriting: the Sun and the heart reflected as one thing. And the top rung, **"10. The World,"** isn't a concept. It's a song — **[[Imagine A World]]**.
+Rung six — ***"the mirror of the Sun and the Heart"*** — is the entire [[Concepts/Heart and Mind]] doctrine in Roy's handwriting: the Sun and the heart reflected as one thing. And the top rung, **"10. The World,"** isn't a concept. It's a song — **[[Imagine A World]]**.
 
 #### The Truth Is a Sphere
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1b7d38676a6aaf1756b914985f67f995806a719e38f4e6f81a9b598b1eaf2b91..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1b7d38676a6aaf1756b914985f67f995806a719e38f4e6f81a9b598b1eaf2b91..jpg" width="300"></a>
@@ -177,7 +177,7 @@ If the other tabs are the cathedral, this one is the **quarry.** Everything Roy 
 ### The operating system
 Roy copies out the **Kybalion's seven principles** by hand, and they function as the board's declared physics. The greatest hits:
 - **Mentalism** — *"The All is Mind… Food is information… the manifest dream."* The upload thesis, roughly three thousand years early.
-- **Correspondence** — *"As above, so below… the formula is the same from a solar system down to the atom… **the Pattern is present on all levels.**"* That's **[[Concepts/The Pattern]]** named outright on the board, in his own hand.
+- **Correspondence** — *"As above, so below… the formula is the same from a solar system down to the atom… **the Pattern is present on all levels.**"* That's **[[Concepts/The Pattern]]** named outright, handwritten on the board.
 - **Polarity** — *"Everything is Dual… opposites are identical in nature but different in degree."* The **Heart/Mind, Roy/Lucius** split, filed as a law of nature. ([[Concepts/Duality]].)
 - **Rhythm** — *"Everything flows… as if reality is running on an **algorithm**."* ([[Concepts/The Algorithm]].)
 

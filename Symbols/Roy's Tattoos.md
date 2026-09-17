@@ -11,7 +11,7 @@ source_basis: ["public posts", "public interviews", "official videos"]
 > **One-line reading.** Roy's tattoos read as one **mirror diagram** of the cosmology: each is inked on the right and repeated on the left, around a single `+` at the center.
 
 > [!info] The structural key
-> **Every tattoo is inked on the right side of the body, then mirrored onto the left. One `+` sits at center-chest, below the throat, and spans both sides.** *(Roy's own description.)* So the body isn't a *list* of tattoos — it's a **symmetrical map with a central axis**, and that shape is itself the teaching.
+> **Every tattoo is inked on the right side of the body, then mirrored onto the left. One `+` sits at center-chest, below the throat, and spans both sides.** *(Description from the project.)* So the body isn't a *list* of tattoos — it's a **symmetrical map with a central axis**, and that shape is itself the teaching.
 
 ![[tattoos1.jpeg|360]]
 
@@ -19,7 +19,7 @@ source_basis: ["public posts", "public interviews", "official videos"]
 
 ## Why it matters
 
-Many of the concepts show up somewhere on Roy's body before they show up in a song. *Inversion*, the *Empty Mirror*, the *Tree of Life*, ego-death, *"wake up,"* the apophatic *via negativa* — they're all there, in his own words, glossed by him. The tattoos are the closest thing the catalogue has to a signed statement of intent: a wearable index of the cosmology, composed as a mirror because the mirror *is* the cosmology. This page collects the full inventory (his glosses, kept separate from interpretation) and is honest about where each piece is sourced.
+Many of the concepts show up somewhere on Roy's body before they show up in a song. *Inversion*, the *Empty Mirror*, the *Tree of Life*, ego-death, *"wake up,"* the apophatic *via negativa* — they're all there, glossed by him. The tattoos are the closest thing the catalogue has to a signed statement of intent: a wearable index of the cosmology, composed as a mirror because the mirror *is* the cosmology. This page collects the full inventory (his glosses, kept separate from interpretation) and is honest about where each piece is sourced.
 
 ## The structural fact (the most important datum)
 
@@ -31,9 +31,9 @@ Read the composition before the individual words. Right pillar, left pillar, a s
 
 The `[[Inversion]]` principle is literally structural here: the right side is the "original," the left its reversal, and the whole person is composed as an original-and-its-mirror.
 
-## The inventory (his own words)
+## The inventory (with glosses)
 
-The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from his tattoo-tour videos and posts).
+The record, grouped by where it sits. Glosses in quotes are **from the project** (his tattoo-tour videos and posts).
 
 **Center axis** *(spans both sides)*
 - **`+`** — center chest, below the throat. *"Helps me remember I am right here, and I am at the center. It also represents Christ. And it represents the 4 worlds."*
@@ -65,7 +65,7 @@ The record, grouped by where it sits. Glosses in quotes are **Roy's own** (from 
 - **KILL YOUR (Possessive) SELF** (stacked: KILL / YOUR / SELF, back of the arm) — **the one he pointedly did not explain.** *(See the reading below; do not read it literally.)*
 
 > [!note]- Advanced reading — what the clusters mean (interpretation, not stated intent)<br><span class="jt-drawer-summary">Read against tradition, several clusters point to ego-dissolution, the self in service to the One.</span>
-> - **The cross-and-rose center → Rosicrucianism, the 4 Worlds, Tiferet.** He states the `+` = Christ + the 4 worlds + the center. Read against the tradition: the 4 worlds are the Kabbalistic Atziluth / Beriah / Yetzirah / Assiah; the center is **Tiferet**, the heart-Sun-Christ integration point of the Tree. *ROSE ESOR* = the **Rosy Cross**, rendered as a mirror-word wrapped around the `+` — Rosicrucianism from his own hand, built as a palindrome (see [[Concepts/Inversion]]).
+> - **The cross-and-rose center → Rosicrucianism, the 4 Worlds, Tiferet.** He states the `+` = Christ + the 4 worlds + the center. Read against the tradition: the 4 worlds are the Kabbalistic Atziluth / Beriah / Yetzirah / Assiah; the center is **Tiferet**, the heart-Sun-Christ integration point of the Tree. *ROSE ESOR* = the **Rosy Cross**, rendered as a mirror-word wrapped around the `+` — Rosicrucianism straight from the work, built as a palindrome (see [[Concepts/Inversion]]).
 > - **"Fear Functions like Prayer in Reverse" → the inversion engine (the prize).** This is the single cleanest grounding of the whole [[Concepts/Inversion]] principle, and it's on his body. Fear = inverted prayer = inverted faith — the exact mechanism the work assigns to [[Sir Lucius]] (who runs *by* inversion, the inverted cross on his cheek). Fear is the reversed prayer; the shadow runs on it.
 > - **The mirror / emptiness cluster → no-self.** *"The Empty Mirror"* + *"seeing nothing,"* ~~*ME*~~ crossed out, *"we are all mirrors."* The self seen in the mirror is *nothing* — anatta / the Zen empty mirror / Paul's *"glass darkly,"* held as doctrine, not a mood. → [[Concepts/Witnessing vs Surveillance]]
 > - **The ego-erasure cluster → "it's not about me."** ~~*ME*~~, *"In service to all, in service to the one,"* *"I'm not here / but I'm also here"* — ego-dissolution, the self in service to the One; matches *"the instruments play me"* and the vessel doctrine.
@@ -83,7 +83,7 @@ Distinct from that is **"El Roy,"** the authorial signature Roy signs his lore w
 ## Source notes
 
 - **Grounded (the tattoos exist; the words).** Roy is extensively and publicly tattooed (he performed shirtless as recently as June 2024). A 2018 [Artist Waves profile](https://artistwaves.com/checking-in-with-jagwar-twin/) independently records the words *"Fear. Be. Feel. I am human. Remember you're alive"* — the only third-party print list of specific tattoos. A 2019 [One Stop Watch tour diary](https://www.onestowatch.com/en/blog/jagwar-twin-takes-us-to-the-mall-of-america-and) confirms *Trust your guts* on the stomach, done in **Pittsburgh** (with a tattooer named Bryce) on the ~2019 tour, captioned *"the biggest lesson."*
-- **The glosses are Roy's own — and self-sourced.** Every *meaning* on this page comes from Roy narrating his own body, primarily a **TikTok "tattoo tour"** on [@jagwartwin](https://www.tiktok.com/@jagwartwin) (a "part 2" is public; it implies a part 1) plus his Instagram/YouTube posts. The open web does **not** independently corroborate the meanings — only that the ink exists. So these are cited as *what Roy says his tattoos mean,* not as externally verified fact. *(The tattoo-tour video is the primary record; it's worth watching for the exact wording.)*
+- **The glosses are self-sourced, from the project.** Every *meaning* on this page comes from Roy narrating his own body, primarily a **TikTok "tattoo tour"** on [@jagwartwin](https://www.tiktok.com/@jagwartwin) (a "part 2" is public; it implies a part 1) plus his Instagram/YouTube posts. The open web does **not** independently corroborate the meanings — only that the ink exists. So these are cited as *what Roy says his tattoos mean,* not as externally verified fact. *(The tattoo-tour video is the primary record; it's worth watching for the exact wording.)*
 - **Readings (interpretation).** The Tree-of-Life / Tiferet / Rosicrucian architecture, the anatta reading of the empty mirror, the ego-death reading of *KILL YOUR SELF*, and the *El Roi = character marking* call are all interpretation built on his stated glosses — well-supported, but not claims Roy has made in those words.
 - **Open / unconfirmed.** A possible **sixth word, *"Feel,"*** appears in the 2018 journalist's list but isn't confirmed as a discrete tattoo (could be a paraphrase). Exact wording and placement of the esoteric pieces (`+`, *ROSE ESOR*, the ouroboros, etc.) are from Roy's statements, not photo-verified here. No specific *new* ink from the 2023–26 "darkside" era has surfaced in public text — absence of coverage, not evidence of absence.
 

@@ -22,7 +22,7 @@ Roy has him in the lineage. In December 2023 he dropped a Manly P. Hall lecture 
 
 - **In one line** — the twentieth century's great compiler: one man, one enormous book, and the whole Western esoteric tradition finally gathered in one place.
 - **Where he sits in the guide** — at the threshold. The site names four traditions out loud in [[Concepts/The Sacred Truths/The Sacred Truths]] (Kabbalah, Gnosticism, Hermeticism, Theosophy) and deliberately leaves the deeper secret-society material — Rosicrucians, the lodges, the mystery schools — behind a closed door. Hall is the name on that door.
-- **The receipt** — Roy shared a Manly P. Hall lecture (*Race for the Moon*) in his own "influences" channel, December 2023. That grounds Hall as an influence; it does not make *Secret Teachings* a per-song decoder ring.
+- **The receipt** — Roy shared a Manly P. Hall lecture (*Race for the Moon*) in his "influences" channel, December 2023. That grounds Hall as an influence; it does not make *Secret Teachings* a per-song decoder ring.
 - **The warning label** — the deeper you go into a system this total, the easier it is to mistake a pattern you *brought* for one you *found*. Hall's book is a doorway, not a proof. This page keeps that line bright.
 
 ## What he compiled
@@ -44,7 +44,7 @@ Read [[Concepts/The Sacred Truths/The Sacred Truths]] and you'll notice the guid
 
 But a shut door still gets a name, and this is the name. Hall spent a lifetime standing in exactly that doorway — the popular synthesist who made the secret-society material legible to people who would never take an initiation. If you want the deeper currents, you don't start with a lodge; you start with the man who wrote the field guide to the lodges. That's the whole role. He is the transition from *the four traditions the work says out loud* to *the older machinery underneath them* — and he's a transition you can buy in paperback, which is more than the mystery schools ever offered.
 
-This also explains the shape of Hall's presence in Roy's own catalogue, laid out in [[Roy on Influences]]. Roy has quoted named sources by the dozen — Bailey, Blavatsky, Steiner, Lévi, Fortune, Watts, Gurdjieff. Hall shows up not as a quotation but as a *lecture handed over* and as a background hum: the compiler whose single book happens to contain the whole toolkit Roy is visibly using elsewhere. He functions less like a citation and more like the shelf the other citations were pulled from. Which is precisely what a threshold figure should be.
+This also explains the shape of Hall's presence in Roy's catalogue, laid out in [[Roy on Influences]]. Roy has quoted named sources by the dozen — Bailey, Blavatsky, Steiner, Lévi, Fortune, Watts, Gurdjieff. Hall shows up not as a quotation but as a *lecture handed over* and as a background hum: the compiler whose single book happens to contain the whole toolkit Roy is visibly using elsewhere. He functions less like a citation and more like the shelf the other citations were pulled from. Which is precisely what a threshold figure should be.
 
 ## The warning label
 
@@ -52,7 +52,7 @@ Here is the part the guide will not skip, because it's the reason the door is sh
 
 A system as total as the one Hall compiled has a failure mode built right into its appeal. Once a symbolic key "clicks," everything starts reading through it. The tarot explains the songs, the Tree of Life explains the tarot, the numbers explain the Tree, and pretty soon every crow on every wire is a messenger of Mercury. The pattern feels *found*. Very often it was *brought*.
 
-Roy names this hazard himself, and names it against his own habits. His stance, in his own words, is roughly: I'd happily map a crow onto Mercury, but that's just personal, and I don't recommend you do it. That is the anti-overfit ethic in one shrug — the discipline of holding a correspondence lightly, of knowing the difference between *a tradition suggests* and *the work says*. It's the same rule this guide runs everywhere (see [[Source and Interpretation Policy]]): naming a tradition opens a door, it doesn't decode a lyric.
+Roy names this hazard himself, and names it against his own habits. His stance, from a public post, is roughly: I'd happily map a crow onto Mercury, but that's just personal, and I don't recommend you do it. That is the anti-overfit ethic in one shrug — the discipline of holding a correspondence lightly, of knowing the difference between *a tradition suggests* and *the work says*. It's the same rule this guide runs everywhere (see [[Source and Interpretation Policy]]): naming a tradition opens a door, it doesn't decode a lyric.
 
 So take Hall the way this guide offers him. His book is the most beautiful map room in the Western esoteric tradition, and a map room is a wonderful place to get productively, gorgeously lost. It is not a set of answers to a puzzle, and nothing in it is a working key to anything in Roy's world — it's history and symbol, the inherited grammar the songs happen to be written in. Cross into it if you like. Just remember which patterns you carried in with you.
 
@@ -64,7 +64,7 @@ So take Hall the way this guide offers him. His book is the most beautiful map r
 
 ## Source notes
 
-- **Grounded — Roy's own engagement.** The Manly P. Hall lecture (*Race for the Moon*) shared in Roy's "influences" channel, December 2023; Hall's place in the publicly stated lineage (see [[Roy on Influences]]); the wider public record of Roy working in the exact esoteric kit Hall's folio compiles — gematria, tarot, Pythagorean and Masonic symbolism, the "magic of words."
+- **Grounded — Roy's documented engagement.** The Manly P. Hall lecture (*Race for the Moon*) shared in Roy's "influences" channel, December 2023; Hall's place in the publicly stated lineage (see [[Roy on Influences]]); the wider public record of Roy working in the exact esoteric kit Hall's folio compiles — gematria, tarot, Pythagorean and Masonic symbolism, the "magic of words."
 - **Reading.** Hall as the specific *threshold figure* toward the Rosicrucian / secret-society material this guide otherwise leaves closed; *The Secret Teachings of All Ages* as the most likely single-volume place Roy met that whole toolkit at once. Held as a reading, not a citation: Roy posts Hall, he doesn't quote the book.
 - **Tradition.** Everything Hall compiled — Kabbalah, Hermeticism, alchemy, tarot, Rosicrucianism, Freemasonry — is presented here as history and inherited symbol, named as Hall's synthesis, never as a working key to anything in the catalogue.
 

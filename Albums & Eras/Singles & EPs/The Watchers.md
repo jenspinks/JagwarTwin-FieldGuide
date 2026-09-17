@@ -126,7 +126,7 @@ At bottom, the entire Rockwell saga is about *who gets to claim a song* — the 
 
 - [[City of Angels]] — the clone is the *inward* turn of its replication horror (*everyone looks just like you* → *maybe I'm the copy*).
 - [[Playing to the Gods]] — crowd-as-eye is the inward turn of its deified crowd (worship felt as surveillance).
-- [[Lucius Lullaby]] — sedation against alarm; *"life is but a dream"* against *"is it just a dream / wake up"* — and Roy's own floor-origin twin to Rockwell's prayer-genesis.
+- [[Lucius Lullaby]] — sedation against alarm; *"life is but a dream"* against *"is it just a dream / wake up"* — and Roy's floor-origin twin to Rockwell's prayer-genesis.
 - [[Online]] — the *named* surveillance precedent from 2022 (*"they know my every step… a bug inside your database"*); The Watchers is its dream-state sequel.
 - [[Bad Feeling (Oompa Loompa)]] / [[Bananas]] / [[Welcome to the Circus]] — the candy/consumption/spectacle system the *"now they want candy"* line plugs into. *Bad Feeling* also shares Ryan Daly's credit and the silent-Lucius video end-tag.
 - [[Moths to the Flame]] — read with The Watchers and [[Concepts/The Upload]] as "one machine seen three ways": the Eye that watches, the net you upload into, the flame you fly into to be seen.

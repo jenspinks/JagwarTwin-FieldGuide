@@ -15,7 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 **Where it enters**
 
-* The *"Half the Man"* post (Roy's public Instagram, April 2026): *"I reached for my Father's hand / He said you're half the man that you know."* A father, and half a man: the divided-blessing motif in his own voice, dated and public.
+* The *"Half the Man"* post (Roy's public Instagram, April 2026): *"I reached for my Father's hand / He said you're half the man that you know."* A father, and half a man: the divided-blessing motif in the first person, dated and public.
 * **El Roi** on Sir Lucius's throat: *"the God who sees me,"* Hagar's name for God (Genesis 16). A grounded 2026 character marking, and the door into the seeing-the-face thread that rhymes with Peniel.
 * The Bargain beat of [[The Interview]]: Roy brings the tender [[SOL|Song of Love]], Lucius works every lever, and the deep thing gets traded down for the hit. *"Fine, I'll give you this one."* The Genesis pottage staged inside the work, with the heart itself signing for it.
 
@@ -37,8 +37,8 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > Adjacent: Genesis 4 (Cain and Abel, the un-reconciled mirror) and Genesis 16 (Hagar names God *El Roi*, which supplies the Peniel rhyme). All of this is universal public text; the mapping onto this world is a reading.
 
-> [!map]- Ladders in Roy's own hand
-> The Jacob material is not only textual substrate; some of it sits in Roy's own artifacts.
+> [!map]- Ladders on the board
+> The Jacob material is not only textual substrate; some of it sits in Roy's artifacts.
 >
 > On the *"I'm 33 this year"* cosmology board, one pinned image is ***The Ladder of Divine Ascent***, the Christian monastic icon associated with John Climacus, where climbers rise toward Christ while demons pull some of them off the rungs. A **separate** pinned image is William Blake's ***Jacob's Ladder, or Jacob's Dream***, his Genesis 28:12 spiral carrying figures upward and downward between sleeping Jacob and the radiance above. *(Correction completed August 2026: July correctly established that the gold icon was Climacus, not Blake; it did not establish that Blake was absent from the board.)* Alongside them, a hopscotch Earth-to-Heaven ladder appears marked **NChSh** (Nachash, the serpent), a figure that recurs in the *"How to Live Forever"* drawing. These are three different ladder objects: Bethel's dreamed exchange, ascent under attack, and the path made bodily/playable. On the serpent label: in Kabbalistic gematria NChSh = 358 = Mashiach, the serpent and the Messiah sharing a number. That is the tradition the label gestures at; cite the tradition, not a stated meaning of Roy's.
 >

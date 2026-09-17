@@ -16,7 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > **Tikkun:** The work of the soul is Tikkun Olam (repairing the world) by gathering these scattered sparks and returning them to their source, thereby reuniting the divided divine presence (Shekhinah).  
 > 
    **The Vessel in the Vault** 
-   This is an interpretive lens for the artist’s own narrative and psychological arc.
+   This is an interpretive lens for the artist’s narrative and psychological arc.
      **The Wounding as Shattering:** The biographical and theatrical "wounding" of the protagonist (e.g., the childhood burial of the "ballerina boy" or the collapse at age 35) is read as the Shevirat HaKelim—the point where the self shattered under pressure.  `********`
      **Lucius as the Kelipot:** The Kelipot (husks) are the shells that trap the light. Within the project, [[Sir Lucius]] functions as the protective shell formed around Roy’s unintegrated material. He is "real light in a sterile vessel" (e.g., the symbolism of the sterile Cavendish banana). He preserves the light, but he also prevents it from fully circulating or evolving.  The Song as the Spark: The project treats "the song" (the authentic voice / [[The Thread]]) as the spark that must be recovered. The recurring motif of "songs hidden inside wings" or "songs you never heard" points to this latent divinity that is trapped but not extinguished. 
 

@@ -10,7 +10,7 @@ source_basis: ["Hall of Mirrors artifacts", "released music", "public posts", "o
 
 Not every Hall of Mirrors artifact is a diagram or an emblem. Some of them are just words.
 
-These are the text pieces: poems, diary fragments, a full narrative myth, a couple of doodles with captions, and the handful of real social posts Roy cared about enough to mint into the maze. They are the closest the archive comes to hearing him think out loud, in his own handwriting or his own timeline, before an idea grew up into a song.
+These are the text pieces: poems, diary fragments, a full narrative myth, a couple of doodles with captions, and the handful of real social posts Roy cared about enough to mint into the maze. They are the closest the archive comes to hearing him think out loud, in his handwriting or his own timeline, before an idea grew up into a song.
 
 ## What this section collects
 

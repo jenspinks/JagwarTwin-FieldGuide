@@ -11,7 +11,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > [!gist] One must contract, to expand, to infinity
 > The way to Heaven lies through Hell, but it is a commonplace pathway.
 >
-> Nigredo is the alchemical blackening: the first stage of the Great Work, where the raw despised material (the *prima materia*) is reduced to undifferentiated darkness before anything can be turned toward gold. You go down before you come back. The blackening is the first movement, not the failure state. Both lines above sit on Roy's own "I'm 33" board, in his hand: contraction as the precondition of expansion, the descent as an ordinary road.
+> Nigredo is the alchemical blackening: the first stage of the Great Work, where the raw despised material (the *prima materia*) is reduced to undifferentiated darkness before anything can be turned toward gold. You go down before you come back. The blackening is the first movement, not the failure state. Both lines above sit on Roy's "I'm 33" board, in his hand: contraction as the precondition of expansion, the descent as an ordinary road.
 >
 > In this work the descent has a shape (the same blackening told three times, at three scales), a face ([[Sir Lucius]], the dark material given a name and a verified Instagram), and one specific danger the songs keep diagnosing: [[The Circus]], a machine built to hold you in the dark and never let it turn. The arc approaches the far side of the work; it never claims to arrive.
 
@@ -33,7 +33,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!map]- Break, then make
 > One axiom names the whole shape: *solve et coagula,* "dissolve and coagulate." The **solve** is everything this page charts as nigredo, the burial, the collapse, the material breaking down. The **coagula** is the genuine re-formation on the far side, the return.
 >
-> The grounding for Roy engaging this frame (rather than a reader importing it) is his own hand. The "I'm 33" board states the two-stroke law in his words: *"One must contract / to expand / to infinity,"* and *"To 'Burn forever in hell' is to not Let go… Let it Burn. Sacrifice lesser aspects of self for greater,"* the blackening you refuse being itself the refusal to dissolve. That he collected these tells you he participates in the alchemical current. What stays interpretation is the song-by-song mapping: Roy walks an older alchemical road; he isn't demonstrably encoding the axiom track by track.
+> The grounding for Roy engaging this frame (rather than a reader importing it) is an artifact from the project. The "I'm 33" board states the two-stroke law in his words: *"One must contract / to expand / to infinity,"* and *"To 'Burn forever in hell' is to not Let go… Let it Burn. Sacrifice lesser aspects of self for greater,"* the blackening you refuse being itself the refusal to dissolve. That he collected these tells you he participates in the alchemical current. What stays interpretation is the song-by-song mapping: Roy walks an older alchemical road; he isn't demonstrably encoding the axiom track by track.
 
 > [!reading]- One descent, three sizes
 > The arc carries the same blackening three times, each a different scale, and the three-scales synthesis is this guide's reading of grounded pieces:

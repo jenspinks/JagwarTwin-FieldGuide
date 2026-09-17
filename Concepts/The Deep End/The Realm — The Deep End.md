@@ -21,7 +21,7 @@ This is the deep water behind [[The Realm]]: the full court reading, the signatu
 > A speculative resonance, offered as resonance only: *El Roy* rhymes with the *El Roi* thread elsewhere in the lore, "the God who sees me." Here the register is regnal, not scriptural, and the two threads are kept separate.
 
 > [!herald]- Ready or Not
-> Michael Morgan's public voice adds a dimension Roy's own posts mostly don't: the Realm as a *condition to be prepared*, not just a destination. "The realm needs to be ready for dumbledore before it can drop." "Ohhh the circle is ready... we just need the realm." Thanks given for "service in the realm."
+> Michael Morgan's public voice adds a dimension Roy's posts mostly don't: the Realm as a *condition to be prepared*, not just a destination. "The realm needs to be ready for dumbledore before it can drop." "Ohhh the circle is ready... we just need the realm." Thanks given for "service in the realm."
 >
 > On this reading the Realm is a vessel that has to be made ready to receive the work, which gives the kingdom a quiet ritual grammar: prepare the hall before the crowning. That is a read placed on lines whose exact permalinks are still being anchored; the pattern is offered at that confidence, no higher.
 

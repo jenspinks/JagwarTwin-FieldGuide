@@ -19,7 +19,7 @@ The Fool walks through this catalogue in more costumes than almost any other fig
 ## At a glance
 
 - **What it does** — holds the paradox of holy emptiness: the zero that contains everything, the idiot who is the only one wise enough to make the leap.
-- **Where it shows up** — [[It's Your Time]] (the self-naming anchor); [[No. 1 Champion (la Conquistadora)]] (the leap turned fatal); [[dumbledore]] (the wise-fool disguise); [[Hell Of A Night]] (the feeling-lucky wager); the Hero's Journey wheel on [[Concepts/The I'm 33 Board]], in Roy's own hand.
+- **Where it shows up** — [[It's Your Time]] (the self-naming anchor); [[No. 1 Champion (la Conquistadora)]] (the leap turned fatal); [[dumbledore]] (the wise-fool disguise); [[Hell Of A Night]] (the feeling-lucky wager); the Hero's Journey wheel on [[Concepts/The I'm 33 Board]], straight from the work.
 - **Connected ideas** — [[The Rose]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Circus]].
 - **Confidence** — the self-designation, the board station, and the lyrics are grounded; the Tarot readings are strong and labeled; whether the Fool is a symbol or a full-blown *character* is an open question this page deliberately leaves ajar.
 
@@ -35,7 +35,7 @@ The Rider-Waite Fool steps off a cliff, white rose in hand, trusting the fall. T
 
 - **The wager** — [[Hell Of A Night]]: *feeling lucky*, the leap taken on luck before anyone knows if it's faith or folly.
 - **The fatal leap** — [[No. 1 Champion (la Conquistadora)]]: *"made a move like a fool, dropped me dead when she said—"*, cut off mid-sentence. The visualizer caption (signed *El Roy*) is the Rider-Waite card almost line for line: *"I saw her divinity, but not the one who held it… I followed anyway, white rose in my left hand, and stepped off the ledge."* Here the leap kills — and the failure is of *seeing*, not of devotion (see [[The Rose]]).
-- **The station** — Roy's own [[Concepts/The I'm 33 Board]] carries a Hero's Journey wheel with **"The Fool"** as an early stage, between the Rabbit Hole and the Guardian at the Gate: the card drawn into the return-cycle in the artist's own hand.
+- **The station** — Roy's [[Concepts/The I'm 33 Board]] carries a Hero's Journey wheel with **"The Fool"** as an early stage, between the Rabbit Hole and the Guardian at the Gate: the card drawn into the return-cycle in the artist's hand.
 
 ## The two registers: holy fool and imposed fool
 
@@ -59,4 +59,4 @@ From the [[dumbledore]] reading: highest wisdom appearing as idiocy to the profa
 - [[No. 1 Champion (la Conquistadora)]] — the white rose and the ledge.
 - [[dumbledore]] — the wise fool's disguise.
 - [[The Rose]] — the token the leap is taken for.
-- [[Concepts/The I'm 33 Board]] — the Fool as a station in Roy's own hand.
+- [[Concepts/The I'm 33 Board]] — the Fool as a station, from the project itself.

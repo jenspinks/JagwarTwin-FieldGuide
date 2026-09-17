@@ -25,8 +25,8 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 
 ---
 
-> [!map]- Drawn in his own hand
-> "Labyrinth" isn't only an interpreter's word. On the hand-drawn *"Undefined Map,"* a freehand planetary-correspondence cosmology surfaced as a public Hall of Mirrors artifact, the word **"Labyrinth"** is written out in Roy's own hand under the 7-Sisters / Pleiades column, alongside *"chakra rainbow 7s," "moonless nights,"* and *"isolated city."* So the term lives in the artist's own schema, not just in the reading. (See [[The Pattern]].)
+> [!map]- Written into the work
+> "Labyrinth" isn't only an interpreter's word. On the hand-drawn *"Undefined Map,"* a freehand planetary-correspondence cosmology surfaced as a public Hall of Mirrors artifact, the word **"Labyrinth"** is written out under the 7-Sisters / Pleiades column, alongside *"chakra rainbow 7s," "moonless nights,"* and *"isolated city."* So the term lives in the artist's schema, not just in the reading. (See [[The Pattern]].)
 >
 > What the column *means* stays interpretation. And the sheet's own solved code, *SUPERFICIAL CONCLUSIONS*, is a warning stapled to the page against reading its tidy grid too fast. Its neighbor artifact, the *"David Star, Where The World Was Crossed"* poem (solved code *TWISTED LADDER*), waits in the Deep End. The poem’s climb gives this page a possible exit-reading; the inherited-movement argument asks what the path is made from. See [[Concepts/Inherited Substrate#Ascent and inheritance]] and [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations]] for the source sequence and limits.
 
@@ -57,7 +57,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > And [[The Circle]] reads as the same geometry carried right, in, to the center, and back out holding the string. But that's a strong read of a family resemblance, not one shape wearing four names.
 
 > [!reading]- You can't out-think the thing doing the thinking
-> The maze-as-mind reading is anchored in Roy's own public posts: *"You're only bound by the patterns of your own mind"* (2025). *"It's become apparent that I am, indeed finally out of my mind. That cage sucked"* (2024). *"Every maze has a center"* (2026, posted with a Lucius video).
+> The maze-as-mind reading is anchored in Roy's public posts: *"You're only bound by the patterns of your own mind"* (2025). *"It's become apparent that I am, indeed finally out of my mind. That cage sucked"* (2024). *"Every maze has a center"* (2026, posted with a Lucius video).
 >
 > Two influences Roy has named publicly route straight here. **Alan Watts** supplies the *"you are it"* / ego-dissolution move, and literally the first ARG password. **Israel Regardie** supplies the center: face what you fear, recognize it for what it is, and you restore equilibrium. Read through them, the way through is surrender, not a cleverer route: *"To be free you must surrender,"* in a post. You don't out-think the structure the mind built; you set down the faculty doing the thinking.
 >
@@ -76,7 +76,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > The heavier machinery behind this page, the full Greek myth and its two maze-geometries, the Rosicrucian Minotaur, the twisted ladder, the Leo trial, the Duat-to-Borges extended family, the internal-turn arc, and the comedy, lives in [[The Labyrinth — The Deep End]]. Dense and speculative by design. The page you are on stands without it.
 
 > [!receipts]- Sources and confidence
-> Grounded in the work and its public artifacts: the *Welcome to the Circus* lyrics (*"no exit sign in my maze," "a ring of fire, no escaping," "I'm the final boss"*); the [[MAGIK]] lyric; the *"you are the maze"* seal on the public 2026 card; the **#middle-of-the-maze** ARG with its *"you are it"* password; Roy's mind-cage and surrender posts and the *"Every maze has a center"* line; Watts and Regardie named publicly; *"Labyrinth"* in Roy's own hand on the *Undefined Map* sketch; the 2021 *"you're the Kingdom, you're the King"* and *"you must be IT"* lines; and the public Discord concession, *"I guess Lucius was right again."*
+> Grounded in the work and its public artifacts: the *Welcome to the Circus* lyrics (*"no exit sign in my maze," "a ring of fire, no escaping," "I'm the final boss"*); the [[MAGIK]] lyric; the *"you are the maze"* seal on the public 2026 card; the **#middle-of-the-maze** ARG with its *"you are it"* password; Roy's mind-cage and surrender posts and the *"Every maze has a center"* line; Watts and Regardie named publicly; *"Labyrinth"* handwritten on the *Undefined Map* sketch; the 2021 *"you're the Kingdom, you're the King"* and *"you must be IT"* lines; and the public Discord concession, *"I guess Lucius was right again."*
 >
 > Strong readings, labeled where they stand: the Labyrinth/Aquarium distinction; the way-out-is-in flip; the feeling-is-the-thread read (standing only on the classical Ariadne frame and the *33* track's string); Lucius as candidate architect; the mind-cage and surrender mapping.
 >

@@ -55,7 +55,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!feed]- Meanwhile, on the feed
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
-> * *"Thank you all for so much love on Great Time To Be Human. I've been told 'The streams look promising'. I don't know what that means or what the steams promise but I'm sure they will lead to the ocean. Or into a moose's mouth. It is a great time to be human."* (05-09 '23): the stream-metric logic deflated in real time, on the artist's own handle.
+> * *"Thank you all for so much love on Great Time To Be Human. I've been told 'The streams look promising'. I don't know what that means or what the steams promise but I'm sure they will lead to the ocean. Or into a moose's mouth. It is a great time to be human."* (05-09 '23): the stream-metric logic deflated in real time, on the artist's handle.
 >
 > Back to the doorway: [[The Algorithm]].
 

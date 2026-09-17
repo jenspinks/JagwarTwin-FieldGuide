@@ -50,7 +50,7 @@ This page never says *"this proves it was planned."* It never treats a collabora
 ## Read next
 
 - [[Inherited Substrate]]: the sibling discipline, how to tell shared cultural material from actual source transmission.
-- [[The Pattern]]: the page that licenses pattern-reading, and carries Roy's own warning against over-fitting it.
+- [[The Pattern]]: the page that licenses pattern-reading, and carries Roy's warning against over-fitting it.
 - [[The Speaker Problem]]: who is actually talking, before any quote becomes evidence.
 - [[Source and Interpretation Policy]]: the house rules this page is one application of.
 

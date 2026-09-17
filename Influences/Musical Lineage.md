@@ -11,7 +11,7 @@ aliases:
 ---
 # Musical Lineage
 
-> **One-line reading.** At the far end of Roy's own thread stand the artists his myth says *"completed the circle"* — and the honest news is that the four of them lend the work four very different things. One is a signed collaborator. One is a ghost in a borrowed hook. Two are heroes named out loud, which buys a lens and not a decoder ring.
+> **One-line reading.** At the far end of Roy's thread stand the artists his myth says *"completed the circle"* — and the honest news is that the four of them lend the work four very different things. One is a signed collaborator. One is a ghost in a borrowed hook. Two are heroes named out loud, which buys a lens and not a decoder ring.
 
 [[The Circle]] closes *33* with a small cosmology and one throwaway roll-call: the ones who remembered the song and sang it back — *"a Jesus, a Bowie, a Prince."* On the album that shares Christ's age, that line is doing quiet theological work, and it tells you exactly who Roy files at the top of his lineage: not a reading list, a **line**. This page keeps the *musicians* — Joni Mitchell, Michael Jackson, David Bowie, Prince — and, more importantly, keeps them honest. Naming a hero licenses a way of hearing; it does not turn a resemblance into a receipt. (For that rule in full, and the affectionate house motto *not all resemblance is reference,* see [[Concepts/Inherited Substrate]].)
 
@@ -28,7 +28,7 @@ One name from that roll-call is deliberately missing here. Jesus isn't a musicia
 
 Start with the strongest tie in the entire catalogue, because it sets the bar the other three have to clear (and mostly don't).
 
-Joni Mitchell is a **credited co-writer** on [[Soul Is A Star]], track five of *33*. This isn't a fan's ear-read or a clever weld built out of two rhyming lyrics — Roy has said it in his own words, and he still sounds a little stunned about it: *"the fact that JONI MITCHELL gave me her blessing and is a cowriter is still mind blowing."* A blessing *and* a credit, from the artist herself. That is as grounded as a musical influence ever gets in this project: not an homage pointed at a hero across a canyon, but the hero's name in the songwriting credits and her permission in Roy's mouth.
+Joni Mitchell is a **credited co-writer** on [[Soul Is A Star]], track five of *33*. This isn't a fan's ear-read or a clever weld built out of two rhyming lyrics — Roy has said it publicly, and he still sounds a little stunned about it: *"the fact that JONI MITCHELL gave me her blessing and is a cowriter is still mind blowing."* A blessing *and* a credit, from the artist herself. That is as grounded as a musical influence ever gets in this project: not an homage pointed at a hero across a canyon, but the hero's name in the songwriting credits and her permission in Roy's mouth.
 
 There is a whole ecosystem under that one fact — the "Woodstock" weld, the transmission thesis, the far more slippery question of whether Roy positions himself as a *prophet* in her line — and it deserves the long form, not a cameo. So this section does the disciplined thing and keeps its hands off. The tie is real; the tie is huge; the analysis lives where it belongs.
 

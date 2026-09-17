@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **What it is** — the emblem of the heart-pole: love, gentleness, peace, the spirit that *descends* rather than seizes. Roy's bird in the basic symbol map, opposite [[Sir Lucius]]'s [[The Crow|crow]] — dove against crow, Venus against Mercury, heart against mind.
 - **Carried by** — [[Roy]] (Netzach / Venus, the heart); and, as a *function,* the lamp-bearing Dove of the [[Sir Rabbit]] poem — a [[Mary]]-style guide who helps and releases.
-- **Appears in** — the [[Sir Rabbit]] initiation poem (the Dove with a lamp) · the *Hall of Mirrors* white-bird-on-a-metal-vessel artifact · the upload-body codes (*"left hip of a dove," "cranium of a swan"*) · Roy's own naming of the bird as **Cygnus.**
+- **Appears in** — the [[Sir Rabbit]] initiation poem (the Dove with a lamp) · the *Hall of Mirrors* white-bird-on-a-metal-vessel artifact · the upload-body codes (*"left hip of a dove," "cranium of a swan"*) · Roy's naming of the bird as **Cygnus.**
 - **Confidence** — grounded fact (the poem's Dove, the HoM artifacts, the basic symbol map) braided with the universal dove-tradition, labeled as such.
 
 ## What it is
@@ -29,7 +29,7 @@ It sits squarely in Roy's Netzach / **Venus** register — love, beauty, devotio
 
 ## Where it appears
 
-**The lamp-bearing Dove (the [[Sir Rabbit]] poem, 2022).** The clearest grounded appearance. In Roy's own initiation poem, the seeking rabbit reaches a Dove *waiting in an emerald garden tree with a lamp* — she gives him light to see by, and then, gently, sends him on: *"as much as I love company you must be on your way."* That's the dove's signature move in miniature: **light without a leash.** She helps and *releases* — the precise opposite of clinging [[Sir Lucius]], who helps and *keeps.* The page reads her as a **[[Mary]]-function** — the blessing-and-releasing voice — carried by a dove rather than by Mary herself.
+**The lamp-bearing Dove (the [[Sir Rabbit]] poem, 2022).** The clearest grounded appearance. In Roy's initiation poem, the seeking rabbit reaches a Dove *waiting in an emerald garden tree with a lamp* — she gives him light to see by, and then, gently, sends him on: *"as much as I love company you must be on your way."* That's the dove's signature move in miniature: **light without a leash.** She helps and *releases* — the precise opposite of clinging [[Sir Lucius]], who helps and *keeps.* The page reads her as a **[[Mary]]-function** — the blessing-and-releasing voice — carried by a dove rather than by Mary herself.
 
 **The bird on the vessel (Hall of Mirrors).** One unlocked HoM artifact is a photograph of a **white pigeon or dove perched on an ornate shallow metal vessel or pedestal** against pure black. The exact object, culture, photographer, and collection remain unidentified. Dove-and-cup, spirit-and-vessel, or Grail comparisons can still help a reader see it, but those are iconographic readings rather than the object's catalog name. It rhymes with the heart-vessel material the project runs on (see [[Concepts/The House and the Vessel]]) without certifying that rhyme as Roy's reason for choosing it.
 
@@ -58,7 +58,7 @@ Same shape as [[The Rose]] (heart revealed) against [[The Green Apple]] (mind gr
 
 ## Source notes
 
-- **Grounded (Roy's own words, released material, public artifacts).** The Dove in the [[Sir Rabbit]] poem (the lamp, the emerald tree, the *"you must be on your way"* release) is verbatim from Roy's publicly posted poem. The white-bird-on-a-metal-vessel photograph and the *"left hip of a dove" / "cranium of a swan"* body-part codes are real, unlocked [[Hall of Mirrors]] artifacts. The photograph's exact object type remains open. The basic symbol map gives [[Roy]] the dove, named **Cygnus**, and pairs it against [[Sir Lucius]]'s crow.
+- **Grounded (statements from the project, released material, public artifacts).** The Dove in the [[Sir Rabbit]] poem (the lamp, the emerald tree, the *"you must be on your way"* release) is verbatim from Roy's publicly posted poem. The white-bird-on-a-metal-vessel photograph and the *"left hip of a dove" / "cranium of a swan"* body-part codes are real, unlocked [[Hall of Mirrors]] artifacts. The photograph's exact object type remains open. The basic symbol map gives [[Roy]] the dove, named **Cygnus**, and pairs it against [[Sir Lucius]]'s crow.
 - **Strong readings.** The dove as the descending-spirit-of-love emblem of the Netzach/Venus heart-pole; the dove-releases vs Lucius-keeps contrast; the dove/crow pairing as the heart/mind split with wings; the poem's Dove as a [[Mary]]-function rather than Mary herself.
 - **Framework (universal symbolism — a lens).** The Holy-Spirit-descending, Genesis-flood-dove (↔ *Subject to Flooding*), Venus's-bird, and Cygnus/Northern-Cross/swan-song traditions. Real and well-fitting, but the artist states only the bird and the name, not the scholarship.
 

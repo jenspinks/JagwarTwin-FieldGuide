@@ -13,7 +13,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 >
 > The Dweller on the Threshold is a figure out of Western esoteric tradition: the guardian who turns up at the boundary of the inner world, assembled entirely from the seeker's own refused material. Nobody installs it from outside. It is self-generated and it accumulates, growing in proportion to what gets pushed away, and force only feeds it, since force is one more way of refusing. In the tradition's telling, the only exit is to recognize the figure and take back what it is made of, because the material is yours.
 >
-> The project never prints the word "Dweller." But Roy's own architecture for [[Sir Lucius]], the mind divorced from the heart, self-generated ("I made you"), a shadow that awoke and grew, fits the figure closely enough that this page reads Lucius through it: he occupies the Dweller's function without being reducible to it. He is bigger than the category, protector and comic and grieving thing too, and whether the [[Lucius Lullaby (album)|Lucius Lullaby]] era is the crossing itself or the guard standing in the gate stays open on purpose.
+> The project never prints the word "Dweller." But Roy's architecture for [[Sir Lucius]], the mind divorced from the heart, self-generated ("I made you"), a shadow that awoke and grew, fits the figure closely enough that this page reads Lucius through it: he occupies the Dweller's function without being reducible to it. He is bigger than the category, protector and comic and grieving thing too, and whether the [[Lucius Lullaby (album)|Lucius Lullaby]] era is the crossing itself or the guard standing in the gate stays open on purpose.
 
 **Where it enters**
 
@@ -26,7 +26,7 @@ That is the surface, and it stands on its own. Each drawer below goes one readin
 ---
 
 > [!map]- The Anatomy Is on the Record
-> The word never appears, but the figure's whole anatomy is public, mostly in Roy's own voice.
+> The word never appears, but the figure's whole anatomy is public, mostly in statements from the project.
 >
 > The doctrine that the figure accumulates rather than arrives runs through the posts for years. "Nothing is evil in the beginning" (2026): evil is acquired, not original. "The brightest lights cast the deepest shadows" (2026): the light casts its own shadow. And back in 2021, in press: "I think evil works a lot more subversively than we think, and it creeps in very slowly." Same idea, three settings, five years apart. The Dweller is a slow tenant, not a sudden invasion.
 >
@@ -37,13 +37,13 @@ That is the surface, and it stands on its own. Each drawer below goes one readin
 > [!reading]- Five Ways the Shoe Fits
 > Lucius reads as occupying the Dweller's function for Roy, and five features line up cleanly. Held as a reading, not an identity: nothing in the work names the Dweller, and the character is larger than the frame.
 >
-> - **Self-generated.** "I made you," Roy tells him in The Interview. Lucius isn't beamed in from outside; he forms around the wound, out of Roy's own protective material.
+> - **Self-generated.** "I made you," Roy tells him in The Interview. Lucius isn't beamed in from outside; he forms around the wound, out of Roy's protective material.
 > - **Accumulated, not arrived.** The recent "emergence" is a trick of the light; he has left public traces since at least 2008. Glimpses then, running the show now. The figure doesn't begin, it grows visible.
 > - **Mirror-anchored.** Rorrim Ehtni is "In the Mirror" spelled backward, the way a mirror reverses: the reflection named itself as a reflection. And a mirror shows whoever stands in front of it, which is one way to hold his shifting register: cold empire-builder at the podium, almost pleading alone with Roy ("A good LIFE, Roy. For you and everyone around you"), deadpan boss-comedy with Leif. He matches what is shown to him and throws it back.
 > - **Undefeatable by force.** The public STOP SIR LUCIUS flyer-and-banner campaign fails; Roy gets grabbed off the street. You can't eject what isn't external.
 > - **The threshold is the album.** Lucius Lullaby sits at a crossing point, Roy at his lowest, Lucius at full strength. Whether that's the Dweller blocking the gate or the gate finally being reached depends on what comes next.
 >
-> So the reading is never "Lucius equals villain," and never "Lucius equals Dweller" either. He is genuinely Roy's own, genuinely accumulated from real wounds, and genuinely the obstacle, and he runs registers the frame doesn't cover: protector, griever, comic, co-writer, co-billed artist. Hold manipulation and shadow and protective love at the same time or you don't have the figure; flatten him to any one and you've got a cartoon.
+> So the reading is never "Lucius equals villain," and never "Lucius equals Dweller" either. He is genuinely Roy's, genuinely accumulated from real wounds, and genuinely the obstacle, and he runs registers the frame doesn't cover: protector, griever, comic, co-writer, co-billed artist. Hold manipulation and shadow and protective love at the same time or you don't have the figure; flatten him to any one and you've got a cartoon.
 
 > [!lore]- The Reading List Roy Read Out Loud
 > The Dweller has a clear lineage, and the floor under it is higher than it looks, because Roy publicly names most of its authors.
