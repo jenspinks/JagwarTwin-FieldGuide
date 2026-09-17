@@ -81,7 +81,7 @@ These are the older maps behind [[Concepts/Source vs Reflection|Source vs Reflec
 > * "Getting out of the way for new stuff to come through, excited to share it with you soon!" · **03-27 '23** · artist as vessel
 > * "Crown Updates: Crowns are the master key to the Hall of Mirrors and serve as a reflection of a user's interactions both inside and outside of the HoM." · **02-10 '23** · Crown as reflective key
 
-> [!receipts]- Sources and confidence<br><span class="jt-drawer-summary">The quoted objects and statements are public material; the larger symbolic architecture remains an interpretation.</span>
+> [!receipts]- Sources and confidence<br><span class="jt-drawer-summary">The quoted objects and statements are public material, while the larger symbolic architecture remains an interpretation.</span>
 > Grounded down here: the *Think Like A Tree Growing Down* panel text and [[Another Way II Heaven]]'s lyric; the solved artifact #84 and its *TWISTED LADDER* code; the Down to You and *bounce* cards as printed public objects; "no thing ever creates another thing" and the *davar* solve; the Sir Rabbit poem; SARAVI's artist-confirmed doppelganger framing; the Mirror Sessions "I'm no thing."
 >
 > Everything architectural, the Tree placements, the vessels, the cave, the mirror stage, the letter-mysticism glosses, is framework: attributed to its traditions, permitted by the material, never asserted as stated intent. If the plain "mind severed from heart" doctrine accounts for every Lucius song as well as this apparatus does, the apparatus is decoration. That test stays on the table.
