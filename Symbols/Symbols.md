@@ -7,6 +7,8 @@ confidence: grounded
 ---
 # Symbols
 
+> **One-line reading.** In the basic symbol map, [[Sir Lucius]] and [[Roy]] fill the same five slots with contrasting jobs, and learning it opens much of the catalog.
+
 If an object shows up twice in this world, it's on the payroll. The apple means what the apple means in every song, video, and piece of artwork it lands in, and most of these things belong to one of two hands: [[Sir Lucius]], the sharp, protective mind that got cut off from the heart, and [[Roy]], the heart in question. Learn the small kit below and half the catalog starts talking to you.
 
 ## The basic symbol map

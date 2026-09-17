@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Beth — the House
 
-> **One-line reading.** The one Hebrew letter the project has ever printed on a title card, and the place seven of its systems meet: the letter that *means* house, that opens the book of Genesis, that carries the Magician in the tarot, and that the album about the One becoming Two crowned as king over the mind.
+> **One-line reading.** Beth, the letter that *means* house, is the one Hebrew letter the project's title cards have named so far, and the hinge where seven frameworks meet.
 
 > [!infobox] Beth (ב)
 > - **Glyph** — ב, the second letter of the Hebrew alphabet
@@ -55,22 +55,22 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 - **[[Welcome to the Circus]] (Live Underground card), 2026** — the letter-slot now holds *"Did Hermes paint his face? I don't know, maybe."* A god who *invented letters* standing where a letter used to be.
 - **The house / roof / vessel image-field** — *"tear the roof off of my house"* (Bounce), *"ain't got no ceiling up on the roof"* ([[Superhuman]]), the ark, the egg, the cage: Beth is the letter under [[Concepts/The House and the Vessel]]. `[S]`
 
-> [!note]- Advanced reading — Beth opens creation (the letter of Genesis, and the geometry of the roof)
+> [!note]- Advanced reading — Beth opens creation (the letter of Genesis, and the geometry of the roof)<br><span class="jt-drawer-summary">Set beside the Genesis midrash, Bounce's roof-tearing reads as forcing open Beth's protective closure.</span>
 > Beth is not just "a house." It is **the letter the book of Genesis begins on** — בְּרֵאשִׁית, *Bereishit* — so creation itself starts on the house-letter, on **2 / duality**, not on Aleph's 1 / unity. On an album whose whole engine is *"One become Two"* ([[Another Way II Heaven]], the [[Sir Lucius\|Roy/Lucius]] split), the single printed Hebrew letter is the letter where both creation *and* duality begin.
 >
 > The classical midrash on *why* the Torah opens on Beth is the same geometry Bounce weaponizes. Genesis Rabbah asks the question and answers that Beth is **closed on three sides and open only toward the front** — you may inquire from creation forward, not into what lies above, below, or before it. That is verbatim the shape Bounce prises open: *tear the roof off* unseals one of Beth's closed sides. The creation-letter's protective closure, forced open. `[S]` — routed through grounded tradition; intent is not claimed, but the choice reads as unmistakable.
 
-> [!note]- Advanced reading — the Magician, and Beit Elohim ("House of God," not God)
+> [!note]- Advanced reading — the Magician, and Beit Elohim ("House of God," not God)<br><span class="jt-drawer-summary">In Golden Dawn terms, Beth's Magician channels between above and below without becoming the source.</span>
 > In the Golden Dawn / Thelemic attribution the tarot uses, **Beth = The Magician (Atu I) = Mercury.** The Magician's posture *is* the house-letter's meaning: a vessel, a channel through which the above reaches the below, never the source. This is the exact [[Sir Lucius]] doctrine — the mind/mask as dwelling, not deity; *"my mind must serve my heart."*
 >
 > A card-craft note worth keeping: crowning a Magician/Lucius card with **בית אלהים (*Beit Elohim,* "House of God")** encodes all of it at once — Beth in its first word, and the frame that Lucius is God's *house,* not God. And "House of God" is not a free-floating phrase: it is **Bethel.** Jacob names the place of the ladder *"none other than the house of God (beth Elohim), and this is the gate of heaven"* (Gen 28:17). So the Magician's letter is the house at Bethel, the foot of [[Concepts/Jacob and Esau|Jacob's Ladder]] — which ties this card straight into the grounded ladder-thread (the board's separate Blake *Jacob's Dream*, its NChSh hopscotch ladder, [[City of Angels]]'s *inverted* ladder, the Rainbow-Bridge/Bifröst room, [[Precious Time]]'s *"walked up Heaven's gate"*). *(Scope correction, August 2026: the board's gold ladder icon is still* The Ladder of Divine Ascent, *not Blake—but a separate board image is Blake's Genesis 28 watercolor. The earlier correction identified one object accurately and inferred another object's absence incorrectly.)* The Magician's function and the ladder's function are one: the vessel/gate where above and below trade places. `[S/F]`
 
-> [!note]- Advanced reading — Bethel and Babel (the mirror)
+> [!note]- Advanced reading — Bethel and Babel (the mirror)<br><span class="jt-drawer-summary">The Bethel/Babel comparison opposes grace descending to pride ascending, echoing the Circle/Circus inversion.</span>
 > Two "houses" sit on the letter Beth, and they are each other's mirror. **Bethel** (בֵּית אֵל, House of God) is the *true* gate, where the ladder **descends** by grace. **Babel** (בָּבֶל) is the *false* tower, built **up** by pride and scattered into confusion. Same letter, opposite motions: heaven reaching down versus man reaching up — which is the [[Concepts/The Loop and the Circle|Circle]]-vs-[[Concepts/The Circus|Circus]], heart-vs-spectacle inversion relocated into Genesis geography. Bounce holds both at once: the *house* (Beth/Bethel) whose *roof is torn off* (the Tower falling).
 >
-> And there is a letter-level flip under it, kept explicitly as **the project's own "rearrange, don't replace" method, not as received tradition** (no classical source reads it this way; see [[The Flip and the Distorting Mirror — The Deep End]]): **בבל** (*Babel,* the tower / outward / empire) and **לבב** (*levav,* "heart" / inward / communion) are the same three consonants reordered. Babel put through the mirror is the heart. Roy fished at this publicly — *"if you keep building those towers we'll show up to sing it back to you"* (post to be re-sourced) — the towers (Babel) answered by the song (the heart sung back). `[F]`
+> And there is a letter-level flip under it, kept explicitly as **the project's own "rearrange, don't replace" method, not as received tradition** (no classical source reads it this way; see [[The Flip and the Distorting Mirror — The Deep End]]): **בבל** (*Babel,* the tower / outward / empire) and **לבב** (*levav,* "heart" / inward / communion) are the same three consonants reordered. Babel put through the mirror is the heart.
 
-> [!note]- Advanced reading — the Live Underground letter-cipher (RESOLVED 2026-07-10 — strict cipher retired)
+> [!note]- Advanced reading — the Live Underground letter-cipher (RESOLVED 2026-07-10 — strict cipher retired)<br><span class="jt-drawer-summary">The strict cross-card cipher is retired, leaving one esoteric epigraph per song from mixed traditions.</span>
 > A live question: is each *Live Underground* card keyed to a Hebrew letter, spelling something across the setlist? The candidate set is **{Vav, Beth, Beth, Lamed}**, whose three-consonant core {ב,ב,ל} permutes to *Babel* ⇄ *levav* (heart), and whose **full four letters** read as an exact mirror-pair:
 > - **ובבל** = *u-Bavel* = **"and Babel"** (Vav as the conjunction — outward, the tower)
 > - **לבבו** = *levavo* = **"his heart"** (Vav as the possessive suffix — inward, the heart)
@@ -98,7 +98,6 @@ Beth is worth a hub because it is the single glyph where the project's separate 
 - **Grounded (released videos, public posts).** The Bounce (Live Underground) card and its verbatim *Sefer Yetzirah* Beth epigraph; the Welcome to the Circus card's *"Did Hermes paint his face?"* line; Beth's traditional value (2), meaning (*house*), tarot attribution (The Magician / Mercury), and its position as the opening letter of Genesis; Bethel / *beth Elohim* / "gate of heaven" (Gen 28:17). See [[Bounce]], [[Concepts/The Manifesto Cards]], [[Concepts/Jacob and Esau]].
 - **Strong readings.** Beth-opens-creation on a One-become-Two album; the midrash roof-geometry ↔ *tear the roof off*; *Beth king over Wisdom* = heart-over-mind; Beit Elohim = the Magician as vessel-not-source = Bethel = the ladder-gate. Grounded in the material and tradition, but interpretive; intent is not claimed.
 - **Framework / speculative.** The Bethel ⇄ Babel mirror and the בבל ⇄ לבב permutation are the project's *rearrange-not-replace* method at letter-scale, **not** received Kabbalah — hold below the Beth = house core. The **{Vav, Beth, Beth, Lamed} → "and Babel" / "his heart"** cipher is a falsifiable prediction, pending the Lucius Lullaby card (2026-07-10).
-- **To re-source.** The *"keep building those towers… sing it back to you"* post was not located in [[Roy's Posts — Canon Index]] or [[Public Posts]] on this pass; verify date/platform before citing.
 
 ## Read next
 

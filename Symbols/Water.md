@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Water
 
-> **One-line reading.** Water is the catalogue's element of emotion and love — Roy's own key says so — and like [[Fire|the fire]] it refuses to pick a side: the same water drowns, stagnates, or carries you home, depending entirely on whether it is still moving. As of July 8, 2026, the feed states the equation outright: *"Love is water."*
+> **One-line reading.** Water is the catalogue's element of emotion and, since July 2026, of love: *"Love is water."* The same water can flood, stagnate when held, or carry you home when it cycles.
 
 ## At a glance
 
@@ -68,7 +68,7 @@ Two findings from a July 2026 provenance check bear on it, and they pull in oppo
 
 A third note keeps the section honest. *"I'm the one who stays,"* the clause that completes the post, belongs to the register of relational fidelity rather than metaphysics, and no wisdom tradition carries it. The post reads as a fusion of two unrelated registers, which is itself a small argument for original composition.
 
-> [!warning]- Two citation flags on this section
+> [!warning]- Two citation flags on this section<br><span class="jt-drawer-summary">Quote the attested Aleut gloss, and cite the 2010 interview video, confirming its wording by ear.</span>
 > **The Aleut gloss is looser in circulation than in the reference.** "The object against which the sea breaks" is a common paraphrase; the attested gloss is "the mainland," literally *the object toward which the action of the sea is directed*. The sense carries, the wording does not, so quote the attested form.
 >
 > **The 2010 interview is a video, which is why it is invisible to text search.** The band-name gloss comes from *"Eye Alaska (Brandon) interview with PunkWorldViews.com,"* published 14 June 2010 by Denise Borders, recorded before one of the band's shows. The article page carries only photographs and an introduction; the interview itself is the **embedded video**, still public on the interviewer's own channel at [youtube.com/watch?v=Jl3gMpAHA3w](https://www.youtube.com/watch?v=Jl3gMpAHA3w). Three separate text searches in July 2026 returned nothing for the simple reason that it was never text. Cite the video, not the article page, and confirm the exact wording by ear before presenting any of it as verbatim.
@@ -82,7 +82,7 @@ The bird-to-character assignment is Roy's own, and the frame it comes with matte
 > [!descend] The Deep End
 > The comparative floor beneath this page, the older currents (Thales, the Emerald Tablet, alchemy's *aqua permanens*, Chesed's element, Campbell, the drop-and-ocean lineage, Tao 78), a stage-by-stage map of the soul's water cycle, the Chandogya's three destinies, the Greek and Neoplatonic descent, the Orphic thirst, the Christian, Jewish and Islamic circulations, the moderns, and the guards that keep the lot honest, lives in [[Water — The Deep End]]. Dense and comparative by design. The page you are on stands without it.
 
-> [!note]- Advanced reading — refraction: one light made visible through many situated vessels (framework, and deliberately not a stage)
+> [!note]- Advanced reading — refraction: one light made visible through many situated vessels (framework, and deliberately not a stage)<br><span class="jt-drawer-summary">A rainbow makes one light visible through many partial perspectives, held as resonance, not a stage.</span>
 > A rainbow makes unity perceptible through a multitude of **situated** refractions. Sunlight carries a spectrum that is not visible as separate colours. Each droplet refracts and internally reflects the light it receives, dispersing wavelengths in different directions. An observer standing in one place receives a narrow band from droplets at one angular position, and other bands from droplets at others. The arc appears only through the relation among **source, countless vessels, and a particular eye**, which is why two people standing apart are not seeing the same bow: they are not seeing the same water.
 >
 > Stated that carefully, it is an unusually good physical figure for the [[Hall of Mirrors]] doctrine, one light disclosed through many partial perspectives, none of them complete. It sits beside [[The Colors]], where Roy's rainbow is whole (a halo, an arc, the full spectrum of a person) and Lucius's returns as a mosaic sewn onto black, the same spectrum fragmented into ornament rather than into disclosure. It also gives a physical shape to Roy's *"You can't see something for someone else"* (2026-03-27), though the fit is a resonance and nothing stronger.
@@ -91,7 +91,7 @@ The bird-to-character assignment is Roy's own, and the frame it comes with matte
 >
 > **Why this is not a numbered stage.** Refraction is an optical event that may accompany precipitation, not a step in the hydrological sequence. Numbering it would make the stage table look more scientifically exact while making it less so. Held here as a resonance, and as an open question rather than a mechanism: nothing in the released work connects rainbow optics to the rainbow in **BMRC**'s name, which is a site-metadata capture and Lucius's own corporate signature, not a statement of doctrine.
 
-> [!note]- Advanced reading — The Crow (1994): the crow serving the water (resonance, not a claim)
+> [!note]- Advanced reading — The Crow (1994): the crow serving the water (resonance, not a claim)<br><span class="jt-drawer-summary">Read as resonance only, the 1994 film's crow performs the dove's signature: love released without possession.</span>
 > No Jagwar Twin source references the film; this drawer records a structural resonance catalogued in July 2026, the week of the post. Compact form — the full thread, with its guardrails, lives on [[Brandon]]: a murdered man is carried back across the threshold by a crow — the psychopomp bird — powered entirely by love, through a city of perpetual rain; grief as weather (*"Wherever I am that's where the weather is,"* Roy, Jan 2023). The film's most famous line, *"It can't rain all the time,"* is in-story a lyric from the dead man's own song — the fragment by which he is recognized (cf. [[Soul Is A Star]]'s *"just one verse,"* [[SOL]]'s ghost-melody). In this vault's own [[The Colors|color-code]] the figure wears both teams at once — black clothes, white painted face, the split held on one body like the black/white nail polish — moving through a world whose red marks whoever is running the show. And the ending is [[The Dove|the dove]]'s signature performed by a crow: the work completed, the love released without possession. The mind-bird flying the heart's errand — *"my mind must serve my heart,"* with wings and rain.
 
 ## Open questions

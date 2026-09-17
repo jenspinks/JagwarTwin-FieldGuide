@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Mask
 
-> **One-line reading.** The mask is the face worn for survival that, worn long enough, stops being a face you put on and becomes the only face you have.
+> **One-line reading.** The mask is the face worn for survival that, worn long enough, can stop being a face you put on and become the only face you have.
 
 ## At a glance
 
@@ -43,10 +43,10 @@ And sometimes the mask just *talks*. Lucius posts in his own contemptuous voice 
 
 And there's a third reading of what Lucius's mask *is*, the most unsettling one: he is Roy's **[[Concepts/The Dweller on the Threshold|Dweller on the Threshold]]** — the guardian-figure of esoteric tradition that meets you at the door of every transformation wearing the mask of *the most reasonable explanation*. That's the masterstroke of the disguise: the Dweller doesn't look like a monster, it looks like good sense. Lucius's white paint is the friendliest, most marketable face the obstacle could possibly wear — the mask that talks you out of taking off the mask.
 
-> [!note]- Advanced reading — the mask is NOT flattening (keep the symbol sharp)
+> [!note]- Advanced reading — the mask is NOT flattening (keep the symbol sharp)<br><span class="jt-drawer-summary">A mask can be chosen, while flattening is imposed, the device welded on.</span>
 > A clean distinction the work depends on: the mask and [[Concepts/Flattened Identity]] are not the same thing. **A mask can be chosen** — protective, ritual, theatrical, transformative. **Flattening is imposed** — rewarded by the system until the person *cannot* remove it. As the framework puts it: *flattening is not the mask; it is the system insisting the mask is all there is.* Lucius is the "glamour of flattening" — the self so optimized for the machine that the original drops out of view. So the symbol stays sharp: the mask is the device; flattening is what happens when the device is welded on. Conflate them and you lose the part that's tragic — that it started as something reasonable.
 
-> [!note]- Advanced reading — persona as "through-sound" (the mask you vocalize)
+> [!note]- Advanced reading — persona as "through-sound" (the mask you vocalize)<br><span class="jt-drawer-summary">Through Jung's persona, Happy Face reads as a mask enforced through the voice itself.</span>
 > The etymology does real work here. Greek *prosopon* is the theatre mask the character speaks *through*; Latin *persona* is literally **"through-sound"** — a mask you *sound*. Jung borrowed *persona* for the social mask: useful, dangerous when confused with the Self. Which gives [[Happy Face]] a second floor: *"put on a happy face"* is a mask you don't just wear, you **vocalize** — a persona enforced through the voice, the smile you have to *say*. The mask that sounds is the most invisible kind, because nothing covers the face at all.
 
 ## Appears in
@@ -89,16 +89,16 @@ In Greek theatre the mask is the *prosopon*, the actor's mask the character spea
 
 **War paint** and ceremonial paint transform the face for a sacred or martial occasion, where the transformation is the whole point — the mask as power, not concealment. On **Ash Wednesday** the face is marked with ash to recall *mortality* — a liturgy the painted Circus face exactly **inverts**, marking performance where the rite marks death. The Tarot's **Magician** (I) is the performer's face, the conscious will to control how one appears.
 
-> [!note]- Advanced reading — the mask and the mirror are the same problem
+> [!note]- Advanced reading — the mask and the mirror are the same problem<br><span class="jt-drawer-summary">Mask and mirror are one device, and the mask replacing the face is its nightmare.</span>
 > The mask and the mirror are one device seen from two sides: **the mask is what you show the mirror; the mirror shows you the mask back.** The mask is also kin to the curtain, *two versions of the same boundary* (see [[The Veil — The Deep End]]). Hold this against the *Empty Mirror*, Roy's wrist tattoo, which he glosses as *"about looking at yourself in the mirror and seeing nothing."* The painted face that stares into the Empty Mirror is the mask meeting its own hollow reflection — and the [[dumbledore]] empty robe (*"no body, I'm already gone"*) is that hollowness made literal: the mirror's "nothing" walked out into the room and put on a robe. The mask's *replacement* of the face is the nightmare valence of the same emptiness the work elsewhere works to redeem.
 
-> [!note]- Advanced reading — the algorithm, the Trojan Horse, and Objective Art
+> [!note]- Advanced reading — the algorithm, the Trojan Horse, and Objective Art<br><span class="jt-drawer-summary">In Roy's described method, the song becomes a mask listeners wear with their own faces.</span>
 > The mask isn't only psychological here — it's *engineered*. The [[Happy Face]] mask is the algorithm's product and Roy's own wish turned inside out: he's said *creating happiness is all I want to do*, and Lucius (the algorithm) sells the counterfeit — *performed* happiness profiting off the very suppression it prescribes. Roy has publicly described the method as a **"Trojan Horse"**: a bright sing-along mantra wrapped over dark, twisted-sounding music. The 2019 *deathofmygeneration.fun* release reportedly made you **hold a smile** (facial-recognition gated) to play it — *"when you're forced to smile… it does something to the neurology"* — with every JT song tuned to 444 Hz. That's the song built as the sedation it describes — a mask the listener wears with their own face. (This is Roy's stated claim, transcribed not endorsed.) The lineage Roy names: **Gurdjieff's Objective Art** — art engineered to produce a precise internal state — and Gurdjieff is his single most-named public influence. The consumerist gloss is in the comedy too: the *Happy Face* card's chipper TV-sponsor gag, *"ARE YOU CONTENT? CALL NOW"* — the triple pun (satisfied / contained / consumer-pacified) doing the critique while pretending to sell you something.
 
-> [!note]- Advanced reading — Hermes, Thoth, and the trickster who painted his face
+> [!note]- Advanced reading — Hermes, Thoth, and the trickster who painted his face<br><span class="jt-drawer-summary">The card's hesitant Hermes reference invites a trickster reading of face-painting without confirming it.</span>
 > The Manifesto card's *"Did Hermes paint his face? I don't know, maybe"* recasts the face-painting ringmaster as **Hermes / Thoth**: trickster, psychopomp (guide through the underworld — note the series is called *Live **Underground***), inventor of writing, namesake of *Hermeticism* and *hermeneutics* (decoding itself), and of alchemy's **Mercurius** — the duplex trickster who fits Lucius's three registers cleanly. The line's *"I don't know, maybe"* performs the cipher's own shrug: a riddle that refuses to confirm it's a riddle. Resonance, not a claim — but the card put Hermes there on purpose.
 
-> [!note]- Advanced reading — the Jungian schema Roy posted, and the cast around the mask
+> [!note]- Advanced reading — the Jungian schema Roy posted, and the cast around the mask<br><span class="jt-drawer-summary">In Jung's schema, the mask reads as tragic because it hardens until it occludes the Self.</span>
 > Within the *Soul Calibrator* diagram, the mask (**Persona**) is one corner of a four-figure system the whole world runs on: **Shadow** = [[Sir Lucius]] (the mask weaponized into an identity), **Anima** = [[Mary]] (the faceless presence with no mask to remove — the one thing the system can't surveil), **Self** = integration at the center. The mask only reads as tragic *because* of where it sits: a tool meant to serve the Self, that hardens until it occludes it. The adjacent two-faced register is worth naming — Roy's 2026 *"Janus and the March Hare"* post fuses two-faced duality with rabbit-ears, the [[The Rabbit|clown-makeup rabbit]] of the 2023 dream where Lucius first arrives *"but he's got clown makeup on."* Janus is the mask that's *already* two faces, no removal required.
 
 ## Open questions
@@ -110,7 +110,7 @@ A few threads the work leaves deliberately untied:
 - Is removing the mask the arc the project is working toward — or does the work argue that *some* mask is always necessary?
 - Behind the curtain (the mask's twin): if it closes and Lucius asks *"did you like the show?"*, is there a Roy back there who didn't perform — or is Lucius behind it too?
 
-> [!quote]- Roy on the feed — posts that bear on this
+> [!quote]- Roy on the feed — posts that bear on this<br><span class="jt-drawer-summary">The posts cast the mask as a survival tool first and mask-wearing as everyday.</span>
 > More from the public feed (see [[Roy's Posts — Canon Index]] for the full set):
 > - *"Make sure your mask is secure before helping others"* — **12-05 '23** · the mask as survival tool first
 > - *"Every day is Halloween"* — **05-02 '23** · mask-wearing as quotidian

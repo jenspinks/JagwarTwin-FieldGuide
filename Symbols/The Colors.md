@@ -8,7 +8,7 @@ source_basis: ["released music", "public posts", "official videos", "public arti
 ---
 # The Colors
 
-> **One-line reading.** Jagwar Twin is unusually disciplined about color. A small set of colors carries the same meaning almost everywhere it appears, so once you know the little map, the videos and artwork start reading like sentences.
+> **One-line reading.** Jagwar Twin repeats a small set of colors, and color means the most inside Roy's ten-color ladder and the black and white team hearts. Elsewhere it is often just mood, and the meanings given here are held as framework.
 
 > [!infobox] The Colors
 > - **What it is** — a small, repeated color code across the art, videos, and wardrobe

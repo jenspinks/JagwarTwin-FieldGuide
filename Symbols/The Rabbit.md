@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Rabbit
 
-> **One-line reading.** The rabbit is the searching, vulnerable self before the split — and the clown-makeup rabbit who slides into the passenger seat is what that self becomes when the mind grabs the wheel and starts answering questions it hasn't earned the right to answer.
+> **One-line reading.** The rabbit reads as the seeker before the split, the clown-rabbit as the mind answering too early.
 
 ## At a glance
 
@@ -29,7 +29,7 @@ That two-rabbit structure is the entire operation in miniature, and the detail t
 
 And the song is sung from *inside* that dream. [[Good Time (1-08)|Good Time (1:08)]] carries near-verbatim callbacks — *"Just a rabbit in a road rage"* and *"I don't know what I'm looking for,"* the dream's exact phrase. (That last line is, quietly, the most anti-Lucius thing in the song: honest not-knowing is the one stance the answer-machine can't colonize. Lucius arrives the instant Roy both takes responsibility for navigating *and* admits he doesn't know what he's looking for — he is, structurally, a solution to uncertainty, the part of the psyche that cannot tolerate not-knowing.)
 
-> [!note]- Advanced reading — the mechanism: arrives too early with true answers
+> [!note]- Advanced reading — the mechanism: arrives too early with true answers<br><span class="jt-drawer-summary">Lucius deceives not only by lying but by arriving too early with true answers.</span>
 > The sharpest gloss of the clown-rabbit comes from setting the dream beside the poem (below). In the *Sir Rabbit* poem, truth arrives *only after* the box and the recovered heartbeat — the initiation has to be endured before the answers mean anything. Lucius occupies the guide-seat *before* any of that is suffered through. His answers are factually correct but bypass the heart entirely. So the formula isn't quite "truth that deceives" — it's subtler: **Lucius does not only deceive by lying; he deceives by arriving too early with true answers.** Correct, premature, and therefore hollow. The clown-rabbit is the mind in the guide's seat, narrating the map before you've walked the road.
 
 ## Associations
@@ -40,7 +40,7 @@ And the song is sung from *inside* that dream. [[Good Time (1-08)|Good Time (1:0
 - **[[Brandon|Ballerina Boy]]** — the buried child beneath the seeker. The chain runs: wound → buried child ([[Brandon|Ballerina Boy]]) → searching rabbit ([[Sir Rabbit]]) → armor ([[Sir Lucius]]). Sir Rabbit's blank where an identity should be — *"I do not know… but I must be someone"* — is exactly what the shame-wound leaves behind.
 - **[[Concepts/The Jaguar]]** — the food-chain pairing (see below): the jaguar eats rabbits. The rabbit, in this register, is prey — the foolish, exposed self the predator-self outranks.
 
-> [!note]- Advanced reading — the full character chain, and why Sir Rabbit stays the Roy-register
+> [!note]- Advanced reading — the full character chain, and why Sir Rabbit stays the Roy-register<br><span class="jt-drawer-summary">For now, this guide holds Sir Rabbit as the Roy-register seeker between buried child and armor.</span>
 > Read across the framework, the rabbit anchors a developmental sequence rather than a single image: the original **wound** produces a **buried child** ([[Brandon|Ballerina Boy]]), who becomes a **searching rabbit** with no fixed identity ([[Sir Rabbit]]), who is then overlaid with **armor** ([[Sir Lucius]] — and behind Lucius, [[Concepts/The Protector]], the survival-self that calcifies into him). Sir Rabbit's identity-vacancy is the hinge: it's what the shame produces *and* what the armor is built to cover. This guide holds Sir Rabbit deliberately as the **Roy-register seeker**, not as a peer-character to Roy / Lucius / [[Mary]] — he's the self before the split, not a fourth person in the room. If evidence ever forces a lock, that can change; for now he stays the seeker-pole.
 
 ## Appears in
@@ -60,7 +60,7 @@ But — and this is the turn that keeps it from being mere shade — Roy folds h
 
 So the symbol carries two weights the dream alone doesn't show: the rabbit as **foolish, reactive prey**, and the rabbit as **conjured illusion** — both of them things to be eaten, or pocketed, or made to vanish.
 
-> [!note]- Advanced reading — Year of the Water Rabbit, three burrows, and the chaser/chased inversion
+> [!note]- Advanced reading — Year of the Water Rabbit, three burrows, and the chaser/chased inversion<br><span class="jt-drawer-summary">The public 2023 name "Sir Lucius Rabbit" shows seeker and clown-guide sharing one rabbit nature.</span>
 > 2023 was the Chinese zodiac **Year of the Water Rabbit**, and Roy leaned in: *"Year of the water rabbit is really coming in strong in LA"* and *"a crafty rabbit has three burrows"* — the latter a Chinese proverb about keeping multiple escape routes. (In the Mirror Sessions he runs the bit as a joke against itself: *"I did hear it was the year of the water rabbit… I've seen a lot of water, I haven't seen any rabbits yet."*) Two more inversions worth holding: *"Idk. Maybe the rabbits chase us"* (2023) flips predator and prey before *Good Time* even drops — the hunted self becomes the haunting one — and **"Sir Lucius Rabbit"** is Roy's own compound name for the figure, used publicly in 2023 (*"Sir Lucius Rabbit says thank you. - El Roy"* / *"Sir Lucius Rabbit is coming"*). That fused name is the cleanest grounded proof that the seeker-rabbit and the clown-guide are the *same animal seen twice*.
 
 ## The Sir Rabbit poem: the authentic version of the dream
@@ -71,7 +71,7 @@ The seeker's defining moment is the Spider's interrogation. *"Who are you Rabbit
 
 Set against the dream, the symmetry is exact and devastating. Both are the same seeker at the same threshold. In the poem the guide is true (the Spider, after the heartbeat is earned) and the ending is a *chosen* leap that transforms him. In the dream the guide is false (Lucius, *before* anything is earned) and the ending is an *involuntary* lightning-crash. Same position, opposite outcome — one initiation completed, one intercepted.
 
-> [!note]- Advanced reading — what the poem grounds: the Fox, the Circle, the box, the other mind
+> [!note]- Advanced reading — what the poem grounds: the Fox, the Circle, the box, the other mind<br><span class="jt-drawer-summary">The poem anchors several framework distinctions, including the Fox as a redeemed trickster, not Lucius.</span>
 > The *Sir Rabbit* poem is unusually generative — it anchors several framework distinctions on its own:
 > - **The Fox is a redeemed trickster, and he is *not* Lucius.** Mr Fox is manipulative in *form* (he traps Rabbit in a box) but medicinal in *result* (the box forces Rabbit inward until the heartbeat returns; he carries a bread the machine can't generate). Lucius is the **counterfeit of the Fox**: helpful-form, parasitic-result. So the cosmology has a trickster *mode* that is benevolent — don't flatten all cunning onto Lucius.
 > - **The sharpest [[The Circle|Circle]] / Loop line in the whole system comes from here.** *"Loop = return without transformation; Circle = return with memory restored."* Sir Rabbit ends *"back where he begun"* — the *same point*, the *subject transformed*. That's the Circle, not the Loop.
@@ -88,7 +88,7 @@ The rabbit isn't just an image Roy uses — it's one he's *researched out loud*.
 
 And the rabbit-research runs straight into the *name*. On a single day in 2023 Roy wrote that he was *"looking into clues… in a Rudolph Steiner rabbit hole with the Gospel of Luke"* — and **Luke → Luc-ius**. The rabbit hole he says he went down to research the figure is literally a *rabbit hole*, and the gospel at the bottom of it is the one whose name his villain shares. Whether that pun is engineered or found, Roy put it on the page himself.
 
-> [!note]- Advanced reading — the maze itself is a rabbit hole
+> [!note]- Advanced reading — the maze itself is a rabbit hole<br><span class="jt-drawer-summary">The rabbit does double duty, as a figure and as the maze you fall into.</span>
 > Worth distinguishing the rabbit-as-*character* from the rabbit-hole-as-*structure*. The [[Hall of Mirrors]] — the web3 puzzle-maze that holds the Sir Rabbit poem — is repeatedly called a "rabbit hole" in its own framing: a culture3 interview describes it as *"a rabbit hole of red 1/1 NFT artifacts,"* and the community talks about *"the rabbit holes we fell down deciphering the videos."* So 🐇 does double duty in the LOOP-era symbol grammar: a *figure* (the seeker / the clown-guide) and a *topology* (the Looking-Glass descent, the maze you fall into). The Room 51 poem is, fittingly, triple-sourced — the Room 51 pages plus three *I'm 33* Notes-app screenshots — and travels with a cat-spirit drawing and a child-knight photo as visual companions; that child-knight image reads as the biographical genesis of [[Concepts/The Protector]].
 
 ## Related traditions
@@ -103,7 +103,7 @@ Beyond Carroll: across folklore the rabbit reads as **instinct, vulnerability, s
 - **Is the rabbit / March-Hare imagery a fixed cipher** in the LOOP-era sigil grammar (🐆🐇 appended to captions), or open thematic recurrence? This guide stance: no cipher asserted yet.
 - **The exact date of the *Good Time* dream** precedes the 2023 release; the TikTok telling is later that year; the precise dream-date is unpinned.
 
-> [!note]- Advanced reading — the leopard-rabbit (resonance only, do not canonize)
+> [!note]- Advanced reading — the leopard-rabbit (resonance only, do not canonize)<br><span class="jt-drawer-summary">The angelbaby leopard-rabbit stays resonance only, because the avatar is the platform's design, not Roy's.</span>
 > A striking convergence, flagged precisely because it's *not* Roy's design: **angelbaby**, an AI "metastar" artist, collaborated with Roy on *life is good* (2023), and angelbaby's avatar is a **leopard-patterned rabbit** — fusing Jagwar Twin's two animal motifs (jaguar + rabbit) about two years before the rabbit-eared Lucius. Genuinely arresting. But the avatar is the platform's design, not Roy's, so it stays a *resonance* — noted, never folded into the iconography canon, and no claim that Roy chose the collaboration for it.
 
 ## Source notes

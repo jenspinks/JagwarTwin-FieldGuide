@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Crow
 
-> **One-line reading.** The crow is [[Sir Lucius]]'s bird — **Mercury's** bird: the sharp, clever, scavenging intelligence, the mind's cunning given a familiar. Roy said it himself: *"I'd map a crow onto Mercury."*
+> **One-line reading.** The crow is [[Sir Lucius]]'s bird, the mind's clever, scavenging cunning given a familiar, and Roy posted a personal mapping: *"I would map a crow onto Mercury."*
 
 ![[crow.png|340]]
 
@@ -46,7 +46,7 @@ Roy's own simple character-key draws the split as a matched pair of birds:
 
 It's the same move as [[The Green Apple]] (mind grasping) against [[The Rose]] (heart revealed): the central heart/mind split, drawn again — this time with wings.
 
-> [!note]- Advanced reading — the crow in the traditions (framework, not authorial intent)
+> [!note]- Advanced reading — the crow in the traditions (framework, not authorial intent)<br><span class="jt-drawer-summary">Crow traditions braid into the Lucius reading, and Roy flagged his Mercury mapping as personal.</span>
 > The universal crow braids cleanly into the Lucius reading:
 > - **Mercury / Hermes.** The crow is the bird of the trickster-intellect, the psychopomp who crosses between worlds — the same Hermes / Mercurius already threaded through Lucius's face-painting and name research. This is the load-bearing strand, and it's the one Roy states.
 > - **Apollo's crow.** In myth the crow was once white and was turned **black** for carrying bad news to Apollo — the truth-teller punished for the truth, the messenger blamed for the message. A neat rhyme for a figure who *"only tells the truth"* and is hunted for it (*STOP SIR LUCIUS*).
@@ -57,7 +57,7 @@ It's the same move as [[The Green Apple]] (mind grasping) against [[The Rose]] (
 >
 > **Roy's own hedge, kept in view:** when he mapped the crow to Mercury, he added *"but that's just personal. I don't recommend you do it."* So the crow is real and it's *his* mapping — but he flagged it as personal rather than a rule for readers. His later putting it forward as a Lucius fundamental is what elevates it to the public starter-key; the hedge is why we cite it as a named correspondence, not a decoded law.
 
-> [!note]- Advanced reading — the other Crow: the 1994 film (resonance, not authorial intent)
+> [!note]- Advanced reading — the other Crow: the 1994 film (resonance, not authorial intent)<br><span class="jt-drawer-summary">The 1994 film's crow performs the dove's office, a resonance, not a Jagwar Twin reference.</span>
 > No Jagwar Twin source references the film *The Crow*; this drawer records a structural resonance catalogued in July 2026, the week of the *"Love is water"* post, and it lives in the hedged register on purpose. The film is the impossible image of this page's bird: **a crow performing the dove's office.** A murdered man is carried back across the threshold by a crow — the psychopomp — powered entirely by love, through a city of perpetual rain, and when the work completes he lets go: [[The Dove|the dove]]'s release, performed by the mind's bird. Alchemy has a name for that double role: **Mercurius** is both the *caput corvi*, the raven's head of the nigredo, and the *aqua permanens*, the divine water that reunites what was separated (Jung, CW 12 ¶404; CW 14) — crow and water, one spirit, two phases. Which reads directly onto the feed's two 2026 correspondences: *"I would map a crow onto Mercury"* (April 7) and *"Love is water"* (July 8). The film's star was Brandon Lee — see [[Brandon]] for the name-thread and its guardrails — son of Bruce Lee, whose one teaching was *be water*. The mind-bird flying the heart's errand is *"my mind must serve my heart,"* with wings and rain. The other half of the formula lives on [[Water]].
 
 ## Source notes

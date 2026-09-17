@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Fool
 
-> **One-line reading.** *"Oh Lord, cause I ain't nothing but a Fool"* — Tarot's Key 0 and Roy's own *"I'm no-thing"* disposition in a single breath: the unconditioned traveler, empty enough to carry the whole journey, stepping off the ledge before knowing whether it's faith or folly.
+> **One-line reading.** The lyric *"ain't nothing but a Fool"* reads as Tarot's Key 0 and Roy's no-thing disposition at once: the empty traveler who leaps before knowing if it's faith or folly.
 
 The Fool walks through this catalogue in more costumes than almost any other figure, and the project grounds him unusually well: Roy names him in a lyric, draws him on his own board, and gets called him — as an insult — by his own shadow.
 
@@ -41,10 +41,10 @@ The Rider-Waite Fool steps off a cliff, white rose in hand, trusting the fall. T
 
 From the [[dumbledore]] reading: highest wisdom appearing as idiocy to the profane world — the jester who *plays* the idiot to survive the court, "go dumb" as disguise. Against it, the [[Concepts/The Circus]] version: the dumbing-down *imposed*, the meme-flattening the machine performs on anything sincere. The degradation could be chosen or inflicted, and the songs let you hold both — that unresolved doubleness is most of what makes the figure interesting.
 
-> [!note]- Advanced reading — Key 0 and the Tarot finale
+> [!note]- Advanced reading — Key 0 and the Tarot finale<br><span class="jt-drawer-summary">In the tarot frame, the Fool starts the journey anew before the deck's light-finale.</span>
 > The [[Kabbalah - The Tree of Life]] page notes the Major Arcana's closing run — Star (XVII) → Moon (XVIII) → Sun (XIX) — converging with the project's light-map (the demoted morning-star, Roy's Moon-position, SOL as the true Sun). The Fool sits *before* all of it, at zero: the origin-point prior to the whole path of false light, illusion, and return. A song that opens *"I ain't nothing but a Fool"* is, in this frame, starting the deck over. Framework, labeled as such.
 
-> [!note]- Open question — symbol or character?
+> [!note]- Open question — symbol or character?<br><span class="jt-drawer-summary">Edging toward personhood, the Fool stays a symbol unless given his own face or voice.</span>
 > The Fool behaves like a symbol (a card, a station, a disposition) but keeps edging toward personhood: he narrates [[It's Your Time]], dies in [[No. 1 Champion (la Conquistadora)]], and wears the disguise in [[dumbledore]]. If a future era gives him a face or a voice of his own, this page graduates to the Characters shelf.
 
 ## Source notes

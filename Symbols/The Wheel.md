@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Wheel
 
-> **One-line reading.** The wheel is the circle experienced as motion you can't stop — the same spin that, oriented toward a center, is prayer, and without one is only vertigo.
+> **One-line reading.** The wheel is the circle experienced as motion you can't stop: the same spin that, oriented toward a center, is prayer, and without one is only vertigo.
 
 ## At a glance
 
@@ -25,7 +25,7 @@ So the wheel is the [[The Circle]] in its most mechanical form — the spinning 
 
 A **whirling dervish** and a person spun by the Circus are doing the same thing: turning. But the dervish spins *by choice*, oriented *toward* a center, with the self as the still axis — and the result is encounter. The Circus *imposes* the spin, disorients you *from* any center, and makes the self the rim instead of the axis — and the result is vertigo. Same motion, opposite orientation. If *The Circle* is the spin that finds the still center, *Welcome to the Circus* is what that same motion does once the center has been removed: you spin without the axis. The crux of the whole symbol fits in three words — **vertigo instead of prayer.**
 
-> [!note]- Advanced reading — the dervish-vs-Circus table
+> [!note]- Advanced reading — the dervish-vs-Circus table<br><span class="jt-drawer-summary">The dervish and the Circus share one motion, and only consciousness and consent differ.</span>
 > The distinction is clean enough to tabulate, and the table is the load-bearing structure under the entire symbol:
 >
 > | | Dervish | The Circus |
@@ -64,7 +64,7 @@ The wheel arrives with a long inheritance, and the project draws on most of it b
 - **The whirling dervish** *(Sufi sama')* — spinning as the practice of divine encounter; the dervish spins *toward* God in the very motion the Circus uses to run *away* from center. Same motion, opposite orientation. *(Corrected July 2026: this passage previously claimed the board grounded the dervish by fusing it with the Wheel of Fortune, via a rung read as "whirling energy = Fortune." The handwriting actually reads* "whirling energy of nature." *The whirling survives; the Fortune, and the fusion built on it, do not — the dervish stays a tradition this guide brings, not one the board names.)*
 - **The hamster wheel** — the deadpan modern downgrade of all this cosmic machinery: running to generate power for a system that isn't yours, motion without progress. The bathos is the point — Boethius's *Rota Fortunae* collapsing into a rodent on a treadmill — and *I Like to Party*'s *"in circles, they go"* is its lyric sibling.
 
-> [!note]- Advanced reading — Campbell's Hero's Journey as a wheel
+> [!note]- Advanced reading — Campbell's Hero's Journey as a wheel<br><span class="jt-drawer-summary">The *I'm 33* board itself renders the return-cycle as a wheel, the figure's cleanest grounding.</span>
 > A seventh tradition arrives straight from Roy's own desk. The *I'm 33* board includes a typed Hero's-Journey diagram drawn as a literal **wheel** — Ordinary World, Rabbit Hole, The Fool, Guardian at the Gate, on around to Master of Twin Worlds and *"New Cycle Begins"* — set beside the note *"Review cycles of human consciousness throughout history."* Campbell's monomyth is one of the standard ways to redeem the wheel: the spin that *returns you changed* rather than merely returning you. That Roy renders the return-cycle as a wheel, in his own cosmology, is the cleanest grounding that the wheel-of-return is a figure he's working with deliberately, not one imposed on him. See [[Concepts/The Pattern]].
 
 ## The driving-wheel sense — *Good Time*
@@ -87,13 +87,13 @@ The redeemed reading of the wheel has a quiet companion in a public post. On X i
 - [[The Thread]] — what you'd hold to find the way out of the spin; also where *"there isn't anywhere to get"* lands.
 - [[Concepts/The Labyrinth]] — *"no exit sign in my maze"* sits in the same *Welcome to the Circus* chorus; the maze and the wheel are sibling trap-structures (Theseus without Ariadne).
 
-> [!note]- Advanced reading — three open questions
+> [!note]- Advanced reading — three open questions<br><span class="jt-drawer-summary">Three questions stay open, with the Wheel-to-Circle move leaning toward entering the center willingly.</span>
 > The lab keeps three questions live, and they're worth holding open rather than forcing shut:
 > 1. **What is the move from Wheel to Circle?** If the Circle is the redeemed Wheel, what completes the redemption — consciousness, stillness, finding the axis? The working lean is *entering the center willingly*: the dervish's move, and the move of Hercules walking into the Leo-cave in the esoteric-Labors reading.
 > 2. **Does the Wheel have a bottom?** A lowest point from which the only available motion is upward — the Wheel of Fortune's nadir as the position where transformation begins. If so, the bottom of the Circus is not just humiliation; it's the turn.
 > 3. **Is the *Lucius Lullaby* → *Soul Is A Star* arc a Merkavah journey** — a descent to earth and ascent to heaven carried on the chariot-wheels? Resonant, unproven.
 
-> [!note]- Advanced reading — the circular-corroboration caveat
+> [!note]- Advanced reading — the circular-corroboration caveat<br><span class="jt-drawer-summary">The Wheel's grounding rests on three anchors outside the circular song-to-concept mapping.</span>
 > A methodological flag worth carrying: the *Welcome to the Circus* page maps an extremely dense net of phrases to concepts — including the wheel and spin lines — and many of those concepts were *partly defined from this very song*. So the song can appear to "confirm" ideas it helped author, which is circular. The Wheel's grounding deliberately does **not** rest on that mapping density. It rests on three things outside the loop: the lyric itself, the Jung page Roy surfaced, and the *I'm 33* board's two wheel-figures. Keep the weight there.
 
 ## Source notes

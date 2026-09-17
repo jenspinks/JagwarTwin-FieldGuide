@@ -8,7 +8,7 @@ source_basis: ["released music", "official videos", "public posts"]
 ---
 # The Prop Room
 
-> **One-line reading.** Every circus has a prop room. This is the catalogue's: the smaller recurring objects, gestures, and one-song stations — each real, each doing work, none yet big enough for a page of its own. They're shelved here, labeled, until one earns a promotion.
+> **One-line reading.** The catalogue's prop room shelves smaller recurring objects, gestures, and one-song stations, each real, each doing work, until one earns its own page.
 
 Not every image in this world is a load-bearing pillar like [[The Mirror]] or [[The Green Apple]]. Some are hand props: picked up for a verse, used precisely, set back down. Collecting them in one place keeps them findable — and keeps the graph honest — without padding the shelf with forty near-empty pages. (Recent graduate: [[The Fool]], promoted when the costume changes got too numerous to shelve.)
 

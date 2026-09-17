@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Banana
 
-> **One-line reading.** The banana is the offering Sir Lucius lifts off the altar and turns into a microphone for his own voice — a sterile clone that carries real light and cannot pass it on.
+> **One-line reading.** The banana reads as an offering Sir Lucius lifts off the altar and turns into a microphone for his own voice, a sterile clone that carries real light but cannot pass it on.
 
 ## At a glance
 
@@ -37,7 +37,7 @@ One more move ties the fruit bowl together. Lucius **never takes the fruit at it
 - **[[Concepts/The Loop and the Circle|The Loop]] / [[The Circle]]** — the sterile Cavendish *is* the loop: recurrence without variation, a copy that can't originate.
 - **[[Concepts/The Empty Mirror]] / [[Letters of Creation|The Angels and the Angles]] / [[The Watchers]]** — the "hollow-emptiness" cluster (see Advanced reading): structure complete, breath gone.
 
-> [!note]- The fruit-bowl altar (the full staging)
+> [!note]- The fruit-bowl altar (the full staging)<br><span class="jt-drawer-summary">The surrounding altar props license reading the banana as an offering paired with the apple.</span>
 > The recurring set is an underground parking garage with a small table that functions as an **altar**: a bowl of fruit (green apples and bananas), two red candles in white holders, an Egyptian statue tucked underneath, Tree-of-Life motifs running up the columns, and a moon-like set light hung over each shoulder. EP1 (the series opener) establishes all of it. Lucius presides in an Anonymous-Club bunny/Lambchop hat and white goth-clown makeup, almost always smoking, with the Hebrew *El Roi* (אל ראי — *"the God who sees me,"* Genesis 16) marked on his neck. The banana is one item on that altar; the apple is its pair; everything around them — candles, statue, pillars — is what licenses the "offering" reading in the first place. (One open thread: the [[Moths to the Flame]] candelabra later shows up with one red candle where the altar had two — possibly the split-off or absent Roy, possibly nothing.)
 
 ## Appears in
@@ -50,7 +50,7 @@ One more move ties the fruit bowl together. Lucius **never takes the fruit at it
 - **The single rollout.** *Bananas* was a featured release — a **Times Square billboard** (*"Jagwar Twin & sir lucius — bananas"*) plus a YouTube Music push (Roy, X, April). The marquee treats *"bananas"* as an event.
 - **Live.** Part of the stable *Live Underground* setlist for the BMRC underground-garage shows (alongside *Welcome to the Circus*, *Bounce*, and *Lucius Lullaby*). The events' existence is public; the rooms themselves are not.
 
-> [!note]- Advanced reading — the id-permission chant (what *Bananas* the song does)
+> [!note]- Advanced reading — the id-permission chant (what *Bananas* the song does)<br><span class="jt-drawer-summary">Bananas reads as Lucius weaponizing childish permission, teaching the nursery to torch the house.</span>
 > *Bananas* is Lucius weaponizing **childish permission**. The whole track is a children's-entertainer voice licensing animal regression, and it moves in clean stages:
 > - **Invitation** — *"Hey kids! Do you ever wanna break shit? Do you wanna get wasted?"* The cradle-rocker addressing the nursery.
 > - **Animalization** — *"Just the monkeys feeling funky, I got nowhere to go."* The human collapsed into the primate; appetite running the body while consciousness lags behind.
@@ -58,7 +58,7 @@ One more move ties the fruit bowl together. Lucius **never takes the fruit at it
 > - **Dissociation** — *"I hear voices in my mind I don't remember / Did I do that?"* — the self split from the part that acts. (Integration would say *yes, that was me*; Lucius stops at the shrug and keeps the party going. The *"Did I do that?"* may be a buried Steve Urkel echo — childhood TV recoded into a moral alibi — pending an audio confirm.)
 > The pressure-release is *"It's the weekend and I'm freaking, like I'm ready to blow… I wanna light up the stove. And burn it down."* The id blows because the energy is **sealed in** — *ready to blow, nowhere to go.* This is the Pied Piper, not the confessor: the entertainer who teaches the nursery to torch the house. (Roy's reel caption reframes the same word against him: Lucius's *trapped* nowhere — dead-end — versus Roy's *transcendent* nowhere — *"you can arrive in an instant"* — the same syllable as doorway.)
 
-> [!note]- Advanced reading — the suppression-bomb thread (a 2018→2026 throughline)
+> [!note]- Advanced reading — the suppression-bomb thread (a 2018→2026 throughline)<br><span class="jt-drawer-summary">From Loser to Bananas, suppression reads as pressurizing into detonation, the bomb finally going off.</span>
 > *Bananas*' *"ready to blow… nowhere to go"* is the third point on a catalogue-spanning thread where **suppression pressurizes into detonation**: *Loser* (2018) plants the bomb under *"sunshine in my mind"*; [[Happy Face]] (2020) plants it under the forced smile (and supplies the same domestic **stove** — *"flip the switch, flip the stove,"* now turned to ignition); *Bananas* (2026) is the bomb finally going off, the id-eruption that the earlier songs only sat on. The arc has its own logic too: [[Happy Face]] → [[Bad Feeling (Oompa Loompa)|Bad Feeling]] → *Bananas* → [[Welcome to the Circus]] — suppression, candy-factory consumption, eruption, spectacle.
 
 ## Related traditions
@@ -75,20 +75,20 @@ The image is dense because it's standing on several real traditions at once, nam
 - **Nursery-rhyme forms turned sinister.** *"Go Bananas"* and *"Hey kids"* as playground chants — kin to the ring-around-the-rosie of *Not Your Homie* and the Oompa-Loompa interpolation of *Bad Feeling*; the album's "twisted adolescent musical themes" running through the fruit.
 - **Hermetic / Tree-of-Life iconography.** The set's pillars and Egyptian altar — the esoteric frame the fruit bowl literally sits inside.
 
-> [!note]- Advanced reading — broken Yesod and the broken vessel (the Kabbalistic frame)
+> [!note]- Advanced reading — broken Yesod and the broken vessel (the Kabbalistic frame)<br><span class="jt-drawer-summary">In Kabbalistic terms, the sterile banana transmits glamour and keeps its shape but cannot seed.</span>
 > Two related Kabbalistic readings sharpen *why* a sterile fruit is the right emblem for Lucius — held as framework correspondence, **not** as Roy's stated method (his Kabbalah engagement is public and real; there's no public source of him naming Kabbalah *as his system*, so don't present these as "his framework").
 >
 > **Broken Yesod.** On the Tree of Life, **Yesod** is the Foundation — the reflective image-sphere, the "Treasure House of Images," the realm of glamour. It's Lucius's operating theater (he works *through* Yesod; his placement is Hod / Mercury (the intellect) + Geburah, with a demoted morning-star / Venus resonance held apart from Roy's Netzach/Venus). The banana is the **tell of a broken Yesod**: generativity replaced by image, a channel that transmits glamour but **cannot seed**.
 >
 > **Broken vessel (Shevirat ha-Kelim).** In Lurianic Kabbalah, the *Breaking of the Vessels* leaves husks (*kelim* / shells) that hold form but can't contain the generative flow. The sterile banana is exactly that — a **broken *kli***: a husk that keeps its shape, severed from what would let it seed. (This is also the clean rebuttal to any "the banana isn't really a symbol" verdict — the vessel reading is fully load-bearing.) Both file alongside the project's broader chalice / grail / [[Concepts/The House and the Vessel|container]] imagery.
 
-> [!note]- Advanced reading — the desecrated Mass (the synthesis)
+> [!note]- Advanced reading — the desecrated Mass (the synthesis)<br><span class="jt-drawer-summary">Framed as a desecrated Mass, Lucius's altar ritual replaces communion with self-broadcast.</span>
 > Pull the hijacked-offering and broken-vessel readings together with the altar staging and you get the strongest single frame: the EP set is a **staged altar** (fruit + two red candles + Egyptian statue + Tree-of-Life pillars), and Lucius's ritual across the episodes is a **black Mass**. He never *receives* the offering rightly — never takes the bread, never takes the fruit at its right time. He **steals** the elements and presses them like buttons to amplify himself. Communion (eat-and-become-one) is systematically replaced by self-broadcast. This extends the [[Mary]]-altar reading and [[Concepts/The Mouth]]'s anti-Eucharist into one operation — and it folds the *Communion vs Spectacle* logic in too: *Bananas*' id-permission chant is a **commanded, harvested echo**, the crowd echoing destruction back instead of being fed.
 
-> [!note]- Advanced reading — "all angle, no angel" (the hollow-emptiness pole)
+> [!note]- Advanced reading — "all angle, no angel" (the hollow-emptiness pole)<br><span class="jt-drawer-summary">The sterile banana reads as completed structure emptied of the spirit needed to originate.</span>
 > The sterile banana is the **hollow-emptiness** pole of the system: structure complete, generative capacity gone. It clusters with [[The Watchers]]' *"I'm afraid I'm a clone"* (the first-person of the sterile clone), the [[Concepts/The Empty Mirror]] tattoo (*"seeing nothing"*), the Upload Recipe's 63/64 inventory, and the counterfeit *"structure without spirit"* of [[Letters of Creation|The Angels and the Angles]]. The recipe includes touch at 1/64 and does not name its remainder, so it raises rather than solves the question of what a copy cannot carry. A clone is *all angle, no angel*: a body without the *Ruach*, the breath, that would let it **originate** rather than **repeat**. The same emptiness closes the album: [[No. 1 Champion (la Conquistadora)|#1 Champion]] ends with Lucius chanting *"number one champion"* a cappella into a dying room after the music stops — *structure with nothing left to structure*, the Cavendish loop made into an ending.
 
-> [!note]- Advanced reading — the "I"-engine and the Trojan-horse handoff
+> [!note]- Advanced reading — the "I"-engine and the Trojan-horse handoff<br><span class="jt-drawer-summary">Bananas' heavy first person reads as self-broadcast, its candy chorus as Trojan Horse music.</span>
 > Two craft notes on how the song carries all this. **Pronoun mechanics:** *Bananas* runs a heavy first-person *"I"-engine* (its "I"-to-"you" ratio is lopsided toward self-assertion) — branding and self-broadcast at the level of grammar, part of the *Lucius Lullaby* performance machine. **Method:** the public, citable name for what's happening in the *"nonsense"* handoff is Roy's own term **"Trojan Horse music"** — a sing-along, mantra-style chorus carrying dark content under a candy melody. *Bananas* is Trojan-horse by design: *"Go bananas"* is the sweetest possible wrapper for *"break shit… burn it down."*
 
 ## Source notes

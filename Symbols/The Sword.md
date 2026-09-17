@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Sword
 
-> **One-line reading.** The sword is [[Roy]]'s emblem of **discernment and chosen action** — the clean cut that separates true from false and then *commits.* It's the newest and least-mapped of his symbols, so it's held lightly here.
+> **One-line reading.** The sword is [[Roy]]'s emblem, read as discernment and chosen action, the clean cut that commits, and held lightly here as his least-mapped symbol.
 
 ## At a glance
 
@@ -31,7 +31,7 @@ That second job matters in a catalogue where so much is reflection, deferral, an
 
 **The traditions behind it.** The sword of discernment is old and consistent: the archangel Michael's sword against the dragon; *"the sword of the Spirit, which is the word of God"* (Ephesians 6:17); the tarot Suit of **Swords** (the mind, and the sharpness that can defend or wound). Roy's move is to keep the *discernment* and re-anchor it in the **heart** — the clean cut guided by feeling rather than by cold analysis. Which is the whole project in one gesture: not *no* blade, but the blade held by the right hand.
 
-> [!note]- Advanced reading — why it lands on the heart-pole, not the mind's
+> [!note]- Advanced reading — why it lands on the heart-pole, not the mind's<br><span class="jt-drawer-summary">The project places discernment in the heart, so the sword lands there, and armed Venus agrees.</span>
 > A sword is, on its face, a *mind* symbol — division, analysis, the cut (the tarot Swords are the suit of Air / intellect). So why does Roy hand it to himself, the heart, rather than to [[Sir Lucius]]? Because the project's whole thesis is that **discernment belongs to the heart, and the mind severed from it produces only clever cruelty.** Lucius has all the sharpness and none of the discernment — he cuts to *win,* not to *clarify* (*"a truth that can drag you to hell"*). The sword on Roy's side is the same edge *re-subordinated:* *"my mind must serve my heart."* The blade returned to the right hand is exactly the arc the catalogue is trying to complete — which is why the sword, thin as its grounding is, sits *rightly* with the dove and the heart rather than with the crow and the apple.
 >
 > And the tradition backs the placement from a second direction. Roy's sphere is **Netzach — Venus, and *Victory*** (Netzach literally *means* victory). Venus isn't only the soft goddess of love-poems: antiquity also worshipped **Venus Victrix** — *Venus the Victorious* — and, at Sparta, **Aphrodite Areia,** Aphrodite armed. And the [[The Dove|dove]], Roy's other bird, is *Venus's own animal.* So *"love that carries a blade"* isn't a paradox the project had to invent — it's a face the goddess already wore. The sword on the heart-pole is just Netzach's second name (victory) made visible: in this cosmology love is not defenseless, and the dove and the sword belong to the same hand.
