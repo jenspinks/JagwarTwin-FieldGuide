@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **Era / release** — *Subject to Flooding* (2018), the debut Roy famously *"had no money to make,"* built piecemeal over several years. Atlantic redistributed the album in 2019.
+- **Era / release** — *Subject to Flooding* (2018), the debut Roy famously *"had no money to make,"* built piecemeal across Joshua Tree, Florence, Haiti, Ireland and Lake Arrowhead. Atlantic redistributed the album in 2019.
 - **In one line** — a poverty-and-abandonment song that hardens, in real time, into a doctrine of who gets let in.
 - **Who speaks** — [[Roy]], first-person and openly autobiographical. No character mask yet: this is years before [[Sir Lucius]] has a name. But it's the survival-self that will *become* him doing the talking.
 - **Key symbols** — the List · the flattened [[The Moon|stars]] of the Hollywood Walk of Fame · the radar · the backpack that holds an entire life.
@@ -186,7 +186,7 @@ Fake Friends
 - **Grounded (released music, verified credits, public interviews).** The autobiography is explicit in the lyric — the sidewalk, the backpack, no money, no car. Credits are verified from streaming: written and produced by Roy English, Matt Pauling and S1, with S1 as executive producer, mixed by Jeff Ellis and mastered by Chris Gehringer, on Atlantic. Two paratexts are grounded: in [[The Interview]] (Roy vs. Sir Lucius), Lucius weaponizes the song's exact housing/financial wound; and in a public interview about the album, Roy names *No Fake Friends* by title as one of the record's genre "trials" — *"very different, extremely… my process of exploring who I am, and what Jagwar Twin is, bigger than me as an individual."*
 - **Strong readings.** The Protector-triad placement (a reading Roy's own 2019 press supports); the archive-before-weapon logic of the list; the flattened-stars → surveillance gesture; *he recovers altitude, not trust*; radar-as-erasure; the filtered-clarity read of *"seeing so clear."* All grounded in the material, but interpretive — and labeled as such.
 - **Framework (esoteric, syncretic — never claimed as authorial intent).** The Malkuth/Yesod/Tiferet mapping; the four-point star arc; the Jungian persona-hardening and phenomenological readings. The system *permits* these resonances; it doesn't assert Roy intends them.
-- **Open threads.** Does the list ever appear as *content* — named names, named betrayals — or only from the outside? Is *"i had nothing"* rendered with the lowercase *i* everywhere, or only on some platforms (the small-*i* reading depends on it)? And the song names a park far from its otherwise LA-coded setting, a detail noted here without any biographical reading.
+- **Open threads.** Does the list ever appear as *content* — named names, named betrayals — or only from the outside? Is *"i had nothing"* rendered with the lowercase *i* everywhere, or only on some platforms (the small-*i* reading depends on it)? And **Ann Morrison Park is in Boise, Idaho, not Los Angeles**, a concrete, unchased biographical anchor. Why Boise surfaces in an otherwise LA-coded song (a touring memory, someone's hometown, a childhood chapter) is a genuine lead nobody has run down. No claim, just a loose thread worth naming.
 
 ## Read next
 

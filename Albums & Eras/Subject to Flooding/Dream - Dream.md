@@ -22,7 +22,7 @@ The doubled title is the whole idea in two words. *Dream / Dream* names the song
 
 ## At a glance
 
-- **Era / release** — *Subject to Flooding* (2018), Jagwar Twin's debut; track 2. Built roughly 2012–2018.
+- **Era / release** — *Subject to Flooding* (2018), Jagwar Twin's debut; track 2. Built roughly 2012–2018 across Joshua Tree, Florence, Haiti, Ireland, and Lake Arrowhead.
 - **In one line** — a sincere, pre-mirror awakening anthem that still believes the prison is entirely *external* — and whose vehicle of liberation is itself borrowed.
 - **Who speaks** — [[Roy]], first-person sliding into collective "we." No persona is visible in the lyric yet; [[Sir Lucius]] is present only by retrospective implication.
 - **Key symbols** — [[The Prop Room#The Dream|The Dream]] · [[The Prop Room#The Stairway to Heaven|The Stairway to Heaven]] · [[The Crowd]] · the spelled word (D-R-E-A-M) · the Lord's Prayer / Sunday

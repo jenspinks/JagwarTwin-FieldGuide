@@ -18,7 +18,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **Era** — the debut. The origin record, built roughly 2012–2018, with producers S1, Linus, and Matt Pauling.
+- **Era** — the debut. The origin record, built roughly 2012–2018 across Joshua Tree, Florence, Haiti, a remote coastal town in Ireland, and Lake Arrowhead, with producers S1, Linus, and Matt Pauling.
 - **What shifts** — this is where the whole cosmology starts: the survival-self that later hardens into [[Sir Lucius]], the method of building songs out of borrowed older voices, and the very first time Roy says [[The Circle]] aloud (2019, on "Move To You"). None of it is named yet — that's the honest part.
 - **Who's present** — [[Roy]], as the wounded, hopeful self the project keeps trying to return to. The *protector* who becomes [[Sir Lucius]] is already at work here, caught mid-formation in the mirror — but he has no face and no name in 2018.
 - **Start with** — [[Loser]] (the breakthrough, and the lens Roy chose to open the album with), then [[Move To You]] (the keystone), then [[Shine]] (the ending).
