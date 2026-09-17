@@ -58,19 +58,16 @@ The Hall of Mirrors artifacts #41–78, in room order. Card color marks the arti
 ## Full readings
 
 ### 41 · PERSPECTIVE
-*Unlocked by @MINDBREAK on 12 August 2022.*
 
 A 33-second cinematic vignette of a desert homestead with a white geodesic-dome house: timelapse clouds, a golden-hour tracking shot following three people toward the property (two wearing shirts printed *IM NOT HERE*, Roy's tattoo text without its apostrophe), a dusk wide of the road, and a final hold on the dome under a dense star field before fading to black. The code simply names the place; the title *"PERSPECTIVE"* is enacted formally — one location shot from shifting vantage points and times of day, the same thing seen differently. Joshua Tree is Roy's documented retreat (*"I'm in Joshua tree right now 'reflecting'"*), where *Move To You* vocals were partly cut and the *Online* acoustic later filmed. The *IM NOT HERE* shirts loop it back into the presence/absence joke.
 **Connects to →** [[Move To You]] · [[Roy]]
 
 ### 42 · R1045
-*On 12 August 2022.*
 
 A single horizontal strip of hieroglyphs in Roy's sketchbook hand: cartouche ovals, seated figures, serpent and water-ripple signs, reed and club glyphs, closing on a seated man holding an implement. It is the inscription panel of a three-part set: the captioned portrait, this glyph strip, and a third page that adds a *"just woke up"* figure. Their names and codes close into a loop. The unlock code names Roma/Roy, the historical High Priest of Amun at Thebes; *"true of voice"* is the funerary verdict *maa-kheru*. The hieroglyph strip itself has not been securely transcribed, so it cannot yet carry a sentence-level interpretation. What is grounded is the loop among a name, an epithet, and a record; the claim that Roy's voice is literally ancient is not.
 **Connects to →** [[Concepts/The Voice]] · [[Concepts/Inherited Substrate]] · [[Roy]] · [[Hall of Mirrors]]
 
 ### 43 · TRUE VOICE
-*On 12 August 2022.*
 
 A page in three registers: a shrouded figure with arms flung wide, captioned **JUST WOKE UP**; an as-yet-untranscribed vertical column of hieroglyphs; and a larger portrait labeled *"ROMA - true of voice -"* with an arrow reading *"Roy"*. The man is a high priest rather than a pharaoh. His draped headcloth follows the source statue, and his hands rest on a Hathor-headed **sistrum**, not a crook or sphinx-child. Roma/Roy was a High Priest of Amun, while TT283 is the designation of his tomb.
 
@@ -78,31 +75,26 @@ A page in three registers: a shrouded figure with arms flung wide, captioned **J
 **Connects to →** [[Soul Is A Star]] · [[Another Way II Heaven]] · [[Concepts/The Voice]] · [[Roy]]
 
 ### 44 · THE ANCIENT CHILD
-*On 12 August 2022.*
 
 A pencil sketch that makes its title literal: an ancient, heavily wrinkled face with weary, heavy-lidded eyes set on a child's-drawing body, stick arms flung out and a ghost-sheet torso with a zigzag hem, so the old man and the child occupy one figure drawn with a child's hand. The code *"JUST WOKE UP"* casts the figure as something ancient that has only just awakened, squarely on the awakening axis Roy publicly sources to [[Gurdjieff]] (*"man is asleep… he must wake up"*). It sits beside the catalog's Lewis Carroll old-man cluster, where extreme age keeps being viewed through a child's eyes — the senex and the puer as one.
 **Connects to →** [[Good Day]] · [[The Watchers]] · [[Roy]]
 
 ### 45 · BLINKING (2/2)
-*On 12 August 2022.*
 
 The second of two screenshots of an Apple Notes poem titled *"Blinking 🌞"* (Nov 21, 2021, in Roy's "Songs" folder). This half runs a cosmological regress — Moon to Sun to *"the Fiddle with Strings that plays every song,"* behind which stand a Player, then a Symphony Master, then *"a mystery"* — before collapsing the chain inward with the punchline: *"Where do thoughts come from? Up on a hill / Of course! It's Golgotha / The skull that you think in / It's just you inside yourself / While you're blinking."* (Golgotha is Aramaic for *"place of the skull,"* so the cosmic hill of origination turns out to be your own head.) It echoes Roy’s tweet from two weeks earlier, *"We're almost literally in the eyeball of God as he/she/they are blinking."* The who-is-behind-the-song hierarchy resolves, characteristically, inward rather than upward. Read against the maze's own key-ring, the regress argues two codes in verse: each mover standing behind the last is #121's key, *"THERE ARE THINGS BEHIND THINGS,"* and the inward landing is #10's, *"INSIDE OF THE INSIDE,"* which is also The Circle's central refrain. One more wink: a poem whose last words are *"While you're blinking"* hangs in a room named BLINKING, the artifact carrying its own room's name in its closing line.
 **Connects to →** [[The Circle]] · [[The Thread]] · [[Roy]]
 
 ### 46 · FLOW FORTH AS A THIRD
-*On 12 August 2022.*
 
 A candid photograph looking up at a venue balcony: an older blonde woman in a floral kimono-style jacket smiles warmly down toward an unseen stage, standing behind black safety netting beside younger companions, a red gothic stained-glass window glowing behind her, a broadcast camera on the wall implying a filmed Jagwar Twin show. Her identity is undocumented, but the intimate framing reads as a loved one, plausibly Roy's mother, watching him play. The title invites a Kabbalistic reading: in the Tree of Life the third emanation is Binah, the Great Mother, the seat Roy elsewhere renders as *"Queen Binah / GOD the Mother on Saturn,"* so *"flow forth as a third"* casts the watching woman as the maternal third from whom life emanates. A community variant transcription, *"Flow Forth as a Child,"* offers the mirror reading: the child she watches on stage.
 **Connects to →** [[Roy]] · [[Mary]] · [[Kabbalah - The Tree of Life]]
 
 ### 47 · DAD'S CLOCK 4 BB ROY
-*On 12 August 2022.*
 
 A looping 3D scan of a handmade white wooden birdhouse converted into a clock: blue hand-painted numerals (only four of them, 12, 3, 6 and 9), real clock hands set above the dark round bird-entry hole, a shingle roof, mounted on weathered barnwood and turning against black. Watch the loop closely and the hands never move: the clock is stopped, hour hand at the 12, minute hand near the 6, and the finer read is still argued over because the tilted face skews it. Roy's father made it for baby ("BB") Roy, so it sits in the family-keepsake cluster, childhood objects scanned into the maze, where digitizing a relic is itself a kind of entombment. The code ROY'S TOMB reframes the little house through its black doorway as a burial chamber, and with a permanently stopped clock for a face it fuses home, time, and death into one memento mori: the tomb of the childhood Roy the keepsake remembers, exactly the buried child of the released songs ("I killed that ballerina boy / I buried him inside"). The tomb reading is interpretation; the object, the dedication, and the black doorway are all right there.
 **Connects to →** [[Ballerina Boy]] · [[Hall of Mirrors]] · [[Concepts/The Upload]] · [[Roy]]
 
 ### 48 · Lambdoma (Platonic Lambda)
-*Unlocked by @AITE-LYDS on 12 August 2022.*
 
 This is number becoming music: `1`; `2, 3`; `4, 6, 9`; `8, 12, 18, 27`. Powers of two and three diverge down the sides, while every horizontal row holds them together in the ratio 3:2, the perfect fifth. Plato's *Timaeus* supplies the seven boundary quantities and fills their intervals with harmonic means; it does not draw this finished ten-node triangle. The image belongs to the later completed-Lambda tradition, and a full Lambdoma is a larger matrix of whole-number ratios.
 
@@ -110,67 +102,56 @@ The Hall gives the figure **three identities across two underlying drawings**: L
 **Connects to →** [[Another Way II Heaven]] · [[Concepts/The Pattern]] · [[The Veil — The Deep End]] · [[Kabbalah - The Tree of Life]]
 
 ### 49 · CHUCKSTER'S MUMMY 2 (228)
-*Unlocked by @AITE-LYDS on 12 August 2022.*
 
 A rotating scan of a comb-bound notebook open on weathered deck planks: page two of a story in a child's hand, "They said it was a mummy from ancient egyptain [sic] times. One man offered to pay 1 million dollars for it. Chuckster sold it and was a millionaire!", complete with a colored-pencil grinning man clutching green bills. It reads as a page from young Roy's storybooks, and the fable is a kid's P.T. Barnum bit: an object becomes a fortune purely because "they said" it was ancient, value conjured out of story and belief. That is the adult project's whole thesis in miniature, and it lands with perfect irony inside an NFT gallery, where scanned childhood ephemera is itself the priced relic. The code G228 is a cell coordinate on the "I'm 33" board (the "(228)" in the title carries the same number), tying the childhood relic straight back to the cosmology board.
 **Connects to →** [[Pay Attention (feat. little luna)]] · [[Imagine A World]] · [[Hall of Mirrors]] · [[Concepts/The Circus]] · [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Hall of Mirrors/The I'm 33 Board|The I'm 33 Board]]
 
 ### 50 · BUDDHAS, SHAMANS, AND MICROTUBULES
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A handwritten pencil page headed *"Computations of GOD,"* with a tetractys-like triangle of dots labeled *"The essence of man"* (the code, written on the page), a column of small rings reading as a microtubule cross-section or a string of pearls, and notes: *"Theory of Existence / the existence of the Soul?", "buddhas, shamans, and microtubules", "5:3 Ark",* and *"the Pearl of Great Price."* The title is lifted from Scott Olsen's 2007 *Quantum Mind* abstract, *"Resonance and Consciousness: buddhas, shamans and microtubules,"* which builds on the Penrose–Hameroff idea that consciousness arises from quantum computation in neuronal microtubules, with meditative and shamanic states as deeper access to that substrate — Roy asking, in one breath, whether the soul is literally a *"computation of God"* running in the body. *"5:3 Ark"* matches the Ark of the Covenant's proportion (a golden-ratio approximation), folding scripture into the same math-of-the-sacred register. This is definitional work-in-progress for the Upload cosmology: before you can upload a consciousness, you have to define what one *is*.
 **Connects to →** [[Soul Is A Star]] · [[Concepts/The Pattern]] · [[Concepts/The Upload]] · [[Roy]]
 
 ### 51 · ROY STORY "SIR RABBIT
-*On 12 August 2022.*
 
 Four typed pages of the complete *"Sir Rabbit"* narrative poem, laid out around a photograph of a leaping verdigris-bronze hare; a stray selection handle and an X-ed design frame reveal this as a layout caught mid-edit rather than a finished print. The poem is Roy's fullest self-authored initiation myth: Sir Rabbit rides a Cat to the machine Violet Moon, is boxed in by the Fox, escapes by listening for *"a heartbeat he forgot"* (*"the key is hidden in yourself"*), meets the lamp-bearing Dove, is guided by a golden-caped Spider to the Great Divide, and finally leaps *"straight through the Mourning Sun"* back to where he began. Heart over mind, wake from the dream, the Circle's return, all named years before the later cast arrived. Roy captioned it *"sir rabbit pre-lucius"* himself: this is the seeker-self before the Lucius armor forms, and it quietly seeds the whole future ensemble (the Fox, the Spider-guide, the mind/heart split). The code `Q763` is another board cell coordinate, sitting in the same numbered grid as the other rabbit rooms. The image also settles two long-standing transcription questions: *"Mourning Sun"* and *"a little dot"* are both confirmed as written.
 **Connects to →** [[Sir Rabbit]] · [[Sir Lucius]] · [[The Circle]] · [[Good Time (1-08)]] · [[Lucius Lullaby]] · [[Roy]]
 
 ### 52 · ATTENTION TWEET
-*Unlocked by @AITE-LYDS on 12 August 2022.*
 
 A screenshot of a real @JagwarTwin tweet (1/29/21, the avatar already the dissolving-figure *33*-era artwork): *"Attention is like color, or love, or beauty. You don't create it. It's something you discover."* Posted more than a year before *33* arrived, this is Roy planting the album's central thesis in public, out loud, on his own timeline: Attention as a force that already exists in the world, found rather than manufactured, which *Pay Attention* then dramatizes by personifying it as an ancient, trans-historical power. Its placement in a monologue realm fits, since Attention speaks in the first person in the song. The code `X672` is a cell coordinate on the board, an internal address, not a phrase to decode.
 **Connects to →** [[Pay Attention (feat. little luna)]] · [[Concepts/The Upload]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### 53 · GREY IN A#
-*Unlocked by @AITE-LYDS on 12 August 2022.*
 
 A taxidermied barn owl in a glass museum diorama: wings spread mid-flight, a *"BARN OWL"* placard, dried grasses, window reflections on the case — a specimen of night-sight frozen dead behind glass. The code *"PITUITARY GLAND OF AN OWL"* sounds like a witch's-brew ingredient but lands on documented territory: [[Alice Bailey]] makes the pituitary the esoteric *"cave in the head"* of the Leo labour, so the code names the organ of inner sight lodged inside the bird of night vision and wisdom (Athena's owl). The coordinate arithmetic holds here too: the owl is rung 2 of the board's animal ladder, the seat the Tree gives to Chokmah, Wisdom itself, and the pituitary sits in the head at station 9 of the body count, 2 and 9 making eleven. The image then ironizes it: the owl's *"gland"* is preserved but inert, wisdom taxidermied rather than alive, grey (the title's liminal non-color) rather than light or dark.
 **Connects to →** [[Concepts/The Labors of Hercules]] · [[Roy]]
 
 ### 54 · FLOOD ARTIFACT (¬ø©øß)
-*Unlocked by @AITE-LYDS on 12 August 2022.*
 
 An 18-second VHS-grain collage: the sun cresting a sea of clouds from above, intercut with archival footage of a tuxedoed conductor and his cellists mid-performance, resolving on a hand-drawn glyph, a ring of small circles orbiting a larger one whose center is a bisected circumpunct, dark dots hovering above and shifting frame to frame, so the drawing itself animates. The Option-key name **¬ø©øß** decodes to **LOGOS**, and the montage more or less *argues* the word in pictures: the sun ordering the sky, the conductor ordering the orchestra, the monad ordering its satellites, three images of the one principle harmonizing the many. *Logos* keeps surfacing across the Hall and on the board, so this is the room holding the series' center-word. The thirteen Flood Artifacts decode as a set to *Subject to Flooding*-era vocabulary (dream, hell, movetoyou, nff, jwt, fish), the debut's own language hidden in glyphs.
 **Connects to →** [[Concepts/The Pattern]] · [[The Circle]] · [[Hall of Mirrors]]
 
 ### 55 · CAUTION, ALL KINGS END
-*Unlocked by 0XSDR.ETH on 12 August 2022.*
 
 A black-and-white studio photograph against a void: a sword driven point-down through a jeweled royal crown with ermine trim, a live ball python coiling around the blade and threading through the crown's empty arches — a staged vanitas of power with no head to wear it. The title is an acrostic, *Caution All Kings End = CAKE*, which Roy confirmed, and the pun does real work: the gravest possible sentence (all sovereignty dies) collapses into party confection, the same bait-and-switch as *"bake a truth with a lie / then we sell 'em the cake,"* with a *"let them eat cake"* echo of regimes that fall. The serpent winding through the hollow crown reads as cyclical time: kings come and go while the shedding, continuous snake outlasts each one — exactly The Circle's cosmology of successive kings inside one repeating story. The Hall's bluntest memento mori: the crown is empty, the sword has already fallen, and the code you need is dessert.
 **Connects to →** [[The Circle]] · [[I Like to Party]] · [[Roy]]
 
 ### 56 · ROY STRINGS
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A scan of Roy's handwritten acoustics notes: two physics formulas, one for the fundamental frequency of an open pipe (*"Speed of Sound / 2× length of cylinder"*), one Mersenne's law for a tensioned string. The code *SPEED OF SOUND* is literally the underlined numerator of the first equation, so the room's key is written on its own face. The scrap sits inside Roy's frequency cosmology — the board's Kybalion *Vibration* cell, the pinned Tesla *"energy, frequency and vibration"* quote, his 2020 statement that *"everything is a vibrational frequency."* The title reads the equations biographically: Roy studying the actual physics beneath his stated practice of tuning music as vibration-medicine, the tensioned string as the instrument (or self) whose tension, mass, and length set its fundamental tone.
 **Connects to →** [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 57 · VENUS
-*Unlocked by @MINDBREAK on 12 August 2022.*
 
 A short silent loop of a 3D scan of a real handmade object: weathered silver-gray wooden slats with flecks of yellow paint, framing a mounted wood panel bearing a black woodcut-style print of a dove beside a single crossing sprig, head bowed, rays of light around its head. The Venus-equals-dove equation is native to the gallery itself (another artifact is literally titled *[[Artifacts - Gallery 1 (1-37)#25 · Venus is a Dove|VENUS IS A DOVE]]*), and the basic symbol map places Roy at Netzach/Venus, with the dove (named Cygnus), the sword and the heart, so this reads as Roy's heart-emblem — the Venus/Netzach heart-pole of the Heart/Mind split, rendered as a folk icon. His Venus self-identification is independently documented (*"I'm Venusian, but it was great being on Mars for awhile"; "venus as a boy"*).
 **Connects to →** [[Down to You]] · [[The Dove]] · [[Kabbalah - The Tree of Life]] · [[Concepts/Duality]] · [[Roy]]
 
 ### 58 · A STORM IN THE CHILD'S FOUNTAIN
-*Unlocked by @MINDBREAK on 12 August 2022.*
 
 A short looping 3D scan of a black-and-white Holstein-patterned cow (small horns) rotating on a concrete disc against black. It is visibly the same scanned model as the *"[[Artifacts - Gallery 1 (1-37)#8 · GRANDMA VI'S COW|Grandma VI's Cow]]"* artifact, so the family cow from Roy's childhood recurs here under a different title. And the different title is itself a relic: *A Storm in the Child's Fountain* is an Eye Alaska track title, a song from Roy's late-2000s band, so the childhood keepsake now rotates under the name of a song written on his way out of that childhood. The code reads as the fountain-of-youth motif with a disturbance inside it: *"the child's fountain"* is childhood itself as a source, and the *"storm"* is the hidden grief or violence stored in it — Roy's documented habit of treating youth as a container concealing something explosive. Placing the pastoral family cow under that stormy title turns a tender rural memory into one of the Hall's memory-with-a-wound artifacts. The title also belongs to a register the guide had not assembled: **"fountain" occurs in exactly two Jagwar Twin lyrics.** *Great Time to Be Human* has the girl *"who drank from The Fountain,"* and *Good Time (1:08)* rules *"**Youth is not a fountain**, it's a hand grenade in hiding."* This artifact is the third variation on the same buried idiom — the fountain of youth — and all three run the same operation on it: the innocent vessel with the violence already inside. A girl drinks from it; a lyric denies it and swaps in a hidden grenade; and here the child's fountain simply contains the storm. The grenade half of that *Good Time* line is performed two shelves away, on [[Artifacts - Gallery 2 (38-74)|#76 Lemon the Rabbit]]'s acorn.
 **Connects to →** [[Roy]] · [[Mary]]
 
 ### 59 · Thought Forms
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A handwritten aphorism rather than a drawing: *"Thought-Forms / It is Man that anthropomorphises his gods. Images formed in mind."* The wording closely compresses Gareth Knight's *A Practical Guide to Qabalistic Symbolism*. In Knight's account Netzach supplies force and Hod gives that force picture-form. Besant and Leadbeater's similarly titled book is a title-resonance, not the identified source of these sentences.
 
@@ -178,49 +159,41 @@ The subject is mediation: something becomes imaginable and communicable by takin
 **Connects to →** [[Imagine A World]] · [[Great Time to Be Human]] · [[Concepts/The Pattern]] · [[Concepts/The Upload]]
 
 ### 60 · THE FUTURE (2010 DEMO)
-*Unlocked by @MINDBREAK on 12 August 2022.*
 
 An unreleased demo, *The Future (2010 Demo)*, filed under *"Concealed Generations"* alongside *[[Artifacts - Gallery 1 (1-37)#36 · GRANDMA'S SONG|Grandma's Song]]* and *Antarctica*. The code, *"FearLove,"* is a biographical pointer: Roy English put out a solo EP titled *Fearlove* around 2011, right after Eye Alaska broke up. So a 2010 demo called *The Future* is unlocked by the name of the era it was actually heading into, a small, neat loop where the past song is opened by its own future. The fear-and-love pairing in the code also chimes with the catalogue's recurring fear-versus-heart axis, but that's a resonance; the EP link is the grounded reading. One more thread is on the cards: *Fear* and *Love* are both ingredient lines on the [[Artifacts - Gallery 3 (75-112)#88 · Complete Upload Recipe|Complete Upload Recipe]] (#88), and blended they spell this room's code exactly, one of several door-keys that sheet quietly contains.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 61 · THE TRUTH IS A SPHERE
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A hand-drawn concentric-sphere map of the person captioned *"THE Enlightened BEING":* ten nested rings run from *10. body* at the rim inward through unconscious, thinking, feelings, will, love, centre, and *1. Self,* down to *universal will / universal love / Universal Self* around a black center point, double-headed arrows spanning the radius. It is one encoding of the 10-stage scheme on Roy's board, which carries the same decad in Japanese stage-labels and Tree-of-Life glosses. It forms a deliberate mirror-pair with #63: this one, *"THE TRUTH IS A SPHERE,"* opens with the phrase written on the art itself, *ENLIGHTENED BEING;* the other, titled *"ENLIGHTENED BEING,"* opens with *THE TRUTH IS A SPHERE* — a phrase Roy spoke verbatim in a 2022 Listening Room Space. The title states the diagram's claim: truth is a sphere seen from many angles, and the enlightened being is the one whose awareness runs the whole radius, from body at the rim to Universal Self at the center.
 **Connects to →** [[The Circle]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 62 · 21 CANDLES
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 Ten seconds of vertical selfie video: a young, short-haired Roy in a recording studio (monitors, acoustic-panel ceiling), wearing a sleeveless tee printed with the iconic Johnny Cash middle-finger photo, dancing and singing at the camera over loud playback. The title puts it in the gallery's birthday thread (the board crowns "Happy Birthday" the greatest song ever written and asks "When was I Born?"), so "21 CANDLES" reads as a birthday marker of a much younger, pre-Jagwar-Twin man. The code SNOW WHITE names the fairy tale of the magic mirror, "mirror, mirror on the wall," which is the Hall of Mirrors' own device: the glass you ask to show you who you are, here opening onto a birthday ghost of an earlier self. Snow White stays live in Roy's world on both ends, from the mirror archetype in "Lucius Lullaby" to his own later "When's the last time you watched Snow White tho?" post. And there is a third instance that settles what the code is *doing*, because in it Roy states the method out loud. In January 2025 he posted a spoken monologue to TikTok decoding Disney's *Sleeping Beauty*, captioned **"Sleeping Beauty got codes."** He argues that reading Aurora as a damsel is watching the wrong movie: **Aurora is the Sun**, the subconscious feminine *"that exists within each of us,"* Prince Philip is **the conscious mind**, and the story is those two pairing *"to awaken and change the kingdom"* — because *"both masculine and feminine exist within everyone."* He adds that **"Walt Disney was tapped in,"** crediting the studio with deliberate esoteric intent. It is one of the few places he names his own interpretive method, and he narrates the awakening with a hand tattoo reading **WAKE UP** in frame. So the relationship runs both directions: Roy publicly says a Disney sleeping-princess film **carries codes**, and inside his own maze a Disney sleeping-princess name **is** a code, unlocking a video of him at twenty-one. A caution worth keeping: the film he decoded was *Sleeping Beauty*, not *Snow White*, and his reading should not be silently transferred. What can be said is why this fairy tale and not that one. Both are stories of a girl in a death-like sleep who is woken, but only one of them **runs on a mirror** — the Queen's question at the wall is Snow White's whole engine. For a maze called the Hall of Mirrors, that is the more exact key. And the two readings sit at opposite poles of the same figure: Roy reads the sleeper as an awakening waiting to happen, while this guide reads Snow White as the preserved sleeper, kept beautiful and kept under glass, the sedation the *Lucius Lullaby* performs. The corpus holds both, which in a project built on doubling is the point rather than a contradiction. (Roy had named the same story-type earlier still: in a long public conversation from around 2021 he lists *Sleeping Beauty* alongside *The Matrix*, *Pinocchio* and *Star Wars* as one telling of a single pattern.)
 **Connects to →** [[Lucius Lullaby]] · [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Empty Mirror]]
 
 ### 63 · ENLIGHTENED BEING
-*Unlocked by @AITE-LYDS on 12 August 2022.*
 
 A screenshot of Roy's verified @JagwarTwin tweet, *"The truth is a sphere"* (5/4/21). It is the reciprocal of #61: that one is titled *THE TRUTH IS A SPHERE* and opens with *ENLIGHTENED BEING;* this one is titled *ENLIGHTENED BEING* and opens with *THE TRUTH IS A SPHERE,* so each is the other seen from the opposite side, literally enacting the aphorism that truth is a solid with no privileged face and every flat statement only a partial projection. The line sits in the Hermetic-perspectivist register this guide documents (the Kybalion's *"all truths are but half-truths"*) and had a second life as gameplay: Roy said *"truth is a sphere"* aloud in a 2022 Twitter Space and the community caught it in real time, proof that live events fed the maze.
 **Connects to →** [[The Circle]] · [[Concepts/Source vs Reflection]] · [[Roy]]
 
 ### 64 · SEEDS ON THE GROUND
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 One sheet places three scenes together: a fish named Oscar, a sleeper beneath two personified carrots dripping juice, and a crowned human figure drawn as a star. Its key comes from *Soul Is A Star*: *"we fall down as seeds on the ground."* The sheet then supplies the words used by three neighboring rooms: *"Every human being is a star,"* *"Oscar,"* and *"I was sleeping on carrot juice."* It is both an image and a nursery for further keys. The three extracts remain distinct rooms, but their repeated pixels are not three independent witnesses. Looking closely at the parent changes where the reader can go next.
 **Connects to →** [[Soul Is A Star]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### 65 · BASICALLY & POTENTIALLY
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A hand-drawn stick figure whose body *is* a five-pointed star: a smiley face in a small crown for a head, hands and feet at the star's points, ringed by the words *"Every human being is A Star"* and, beneath, *"Basically and Potentially"* (the artifact's title). This is a direct extract from the Seeds sheet rather than a separate drawing. The code is documented as a Roy tweet and closely paraphrases the Thelemic line *"Every man and every woman is a star."* The human-as-pentagram and crown/Kether comparisons are useful iconographic readings; they are not labels written on the picture.
 **Connects to →** [[Soul Is A Star]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] · [[Subject to Flooding]] · [[Roy]]
 
 ### 66 · RIP OSCAR
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A loose pencil sketch of a fish, dark round eye, gill strokes, an oversized tail fin, with *"OSCAR"* written above it and a small heart-shaped arrow pointing down. It is a direct extract from the Seeds sheet, and its code is simply the name written beside the fish. *RIP OSCAR* and the heart support a memorial reading, but the image does not identify the animal's species or ownership. This is the diary layer of the maze, where a small possible grief sits on the same source page as seed, sleep, nourishment, and the stellar human.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 67 · SLEEPING ON CARROT JUICE
-*Unlocked by IVABETH.ETH on 12 August 2022.*
 
 A deliberately childlike pencil scene is captioned *"I was Sleeping on Carrot Juice":* two grinning, spiky-topped carrots drip juice toward a tiny figure marked *"Me, sleeping."* This is a direct extract from the larger Seeds sheet, whose own key is a *Soul Is A Star* lyric. Seen alone it is absurd dream logic; restored to its parent it belongs to a page about dormancy, nourishment, and potential.
 
@@ -228,19 +201,16 @@ What the picture shows is a sleeper being fed. A carrot is a root and a store of
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 68 · LIST OF ROY'S FAVORITE THING'S
-*Unlocked by HUBBERMAN.ETH on 12 August 2022.*
 
 Fifteen seconds of a blond toddler, maybe two years old, parked in a big mesh office chair at a white desk in an unmistakable music-industry office: framed Manchester Orchestra and MGMT posters on the wall, a "STATS" notebook on the desk, earbuds in upside down, speakers poking out of the ears, one hand planted on a Magic Mouse, grinning at someone off-camera. The code WHAT DOES A MANAGER DO? is the punchline: the toddler in the manager's chair *is* the answer. The title is the toddler's own line: asked on camera what they are working on, the child answers, *"Roy's favorite things,"* so the room is named in the child's own voice. The room's loop-word, TIME, fits a home video of a small child, the fastest clock in the house. This is one of the maze's warm rooms: amid the ciphers and the cosmology diagrams, the archive stops to canonize an inside joke about the human team behind the project, the affectionate circle inside the industry circus.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[The Circle]]
 
 ### 69 · BLINKING (1/2)
-*On 13 August 2022.*
 
 The first half of the *"Blinking 🌞"* Notes draft (Nov 21, 2021), paired with #45. It opens with gnosis over belief (*"You don't have to believe anything / You just have to know / Know for yourself"*, knowledge held first-hand, not assented to), weighs the poles (*"Is it Left / Is it Right / is it Right to the Center?"*) and refuses the binary before the cosmology even starts: *"Both sides seem a little extreme / I think I'll take the Middle Way"* (the Buddhist middle path, and structurally the middle pillar between the Tree's two outer pillars). That couplet reads as the middle method spoken in verse, the operator #91 · *51.843* draws as geometry (the true middle holds *both* poles above them; the *"untrue balance"* is *"based on exclusion"*), and it is the doctrine of Roy's 2021 Discord post: *"The middle, the balance point always holds the truth, but it's essential to understand both sides."* From the chosen middle it then builds a nested cosmology: Moon → Sun → a Fiddle with Strings *"that plays every song"* → a Player → a Symphony Master who *"thinks of the Song."* The title echoes Roy’s tweet, *"We're almost literally in the eyeball of God as he/she/they are blinking,"* placing the whole draft inside the blinking eye of God (resonant with *El Roi,* *"the God who sees"*). A workshop for the *33* album's central myth: reality as a song played by ever-deeper unseen hands. Read as a pair, this half states the method and #45 performs it, running the regress behind the strings and landing it inward on *"It's just you inside yourself."*
 **Connects to →** [[The Circle]] · [[Kabbalah - The Tree of Life]] · [[El Roi]] · [[Roy]]
 
 ### 70 · THE CITY OF PYRAMIDS
-*On 13 August 2022.*
 
 This page can be read as an instruction in comparison. A song is drawn as a contour beside electrical polarity, while the self appears as both a 0–10 ladder and nested circles. *"Similar Structures"* is written over the Happy Birthday/current cluster, so it securely governs that local comparison; it does not make every mark on the sheet the same diagram. The ladder places *"Abyss (knowledge is relation)"* between 3 and 4 and ends *"10. The World"*. The concentric *Enlightened Being* counts the other way, from Self at the centre to body at the outside. Carrying a number from one figure to the other without checking direction will reverse it.
 
@@ -250,13 +220,11 @@ The title has a real Thelemic/Crowley framework behind it: the City of the Pyram
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[The Circle]] · [[Roy]]
 
 ### 71 · DAD'S WOODEN HORSE
-*On 13 August 2022.*
 
 A three-second turntable scan of an antique folk-art pull-toy: a rearing white dapple-painted horse with a small carved rider (green jacket, yellow saddle), mounted on a green wheeled platform with pink disc wheels and a pull-cord, rotating on barnwood against black. It belongs to the father-and-grandfather heirloom archive, grounded by the project's statement at the launch that the artifacts include "3D scans of childhood items or my grandfather's World War II plane." Filed in the TIME realm with the other memory-objects, it reads as inherited time: a father's childhood digitized into the son's mirror-maze. The code A749 is a cell coordinate on the "I'm 33" board, not a phrase to crack. And yes, it is a literal wooden horse, but the project's Trojan-Horse doctrine lives on a different artifact entirely, so any echo here is a rhyme, not the emblem.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 72 · The "Unidentified" Sketch — the mindscape
-*Unlocked by NICWANDS.ETH on 13 August 2022.*
 
 A pencil landscape drawn, it appears, on the back of a calendar page, the dates showing through from the other side: a giant jaguar head, mouth open, stands as the front door of a pyramid temple, with *"Inside of the inside"* above it. A ladder rises from water labelled *"Sea of Mind"* into the open mouth, and a small figure stands at its top, at the lip. Three more pyramids rise at left, a village sits in the foreground, and two jaguar-beings flank the door, one carrying a solid disc and one a crescent. The caption is The Circle's refrain and the exact code of room #10, so the drawing gives another room's key a way in.
 
@@ -264,7 +232,6 @@ Read beside the notebook's Noah page, it reverses the Ark: animals enter a human
 **Connects to →** [[The Circle]] · [[Concepts/The Jaguar]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]]
 
 ### 73 · SONG OF THE RING (VOICE MEMO)
-*On 13 August 2022.*
 
 This voice memo, checked by ear, is an early take of *The Circle*. A maker jaguar teaches others to sing; later kings forbid the song; she hides it inside their wings; and a wise one hears it again while empires build cages and sell everything. The refrain sends the listener to *"the inside of the inside,"* and the coda says *song of the ring*, never *rain*.
 
@@ -272,7 +239,6 @@ Its *"Genesis Formula"* filing is therefore literal as well as thematic: the roo
 **Connects to →** [[Hall of Mirrors]] · [[The Circle]] · [[Roy]]
 
 ### 74 · Horus (Eye-of-Horus fractions)
-*Unlocked by THIRDEYEDON.ETH on 13 August 2022.*
 
 Four additive examples pair eye-parts with fractions and culminate in a fuller Eye-of-Horus sign totalling 63/64. The four equations are visible here; the words *smell, sight, thought, hearing, taste,* and *touch* are not. Those labels come from the Complete Upload Recipe, where touch is explicitly the final 1/64 rather than the missing part. This crop is one region of the larger *How to Live Forever?* sheet and is a different Horus object from the gold board-cell used by *Pay Me!*.
 
@@ -280,19 +246,16 @@ The familiar account says the fractional signs were pieces of the wounded Eye an
 **Connects to →** [[The Watchers]] · [[Concepts/The Upload]] · [[Concepts/The Digital Double]] · [[Concepts/Witnessing vs Surveillance]] · [[Concepts/The Pattern]]
 
 ### 76 · THE GATE OF THE WORLD
-*On 13 August 2022.*
 
 A pen sketch labeled *"Lemon the Rabbit (at the Gate of the World)":* a large-headed, stern-faced rabbit with a cross on its forehead and a stick-figure body, annotated *"Acorn grenade"* and *"Feet →,"* standing over a circled-cross ⊕ glyph — the classical astrological symbol for Earth, a fitting literal *"gate of the world"* beneath the rabbit's noted feet. The rabbit is Roy's recurring initiatory self-image (the Sir Rabbit family: Roy-as-rabbit in the *Good Time* dream, the Sir Rabbit poem, [[Artifacts - Gallery 4 (113-149)#120 · FIBONACCI RABBITS|Fibonacci Rabbits]]), and *"the Gate of the World"* is the rabbit's own station: rung 10 of the animal ladder, the last stop of the count that descends from the source (swan 1, owl 2, on down), where emanation lands on Earth; in the tradition, "the Gate" is one of Malkuth's own titles. The drawing even performs the board's two-way arithmetic: the pointed-out *"Feet →"* are station 1 of the body count that climbs back up from the ground, so this one figure carries both ends of the ladder at once, 10 from above and 1 from below, the pair that makes eleven, standing on the Earth glyph at the gate where the descent turns into the return climb. Two more things on this page are load-bearing and read as throwaway. First the name: **Lemon** is one of only two pet names in a bestiary otherwise populated by archangels and planets, the other being [[Artifacts - Gallery 3 (75-112)#81 · Cinnamon the Horse (Trojan Horse Program)|Cinnamon the Horse]] at Mars, and those two seats carry the ladder's two clearest explicit transformations of the speaker — *"the child **became** a warrior"* at five, *"I **woke** up in my shadow"* here at ten. (Other rungs record events, rung four's *"I found everything"* among them; what these two alone state is a subject changed into something.) Second the weapon: an **acorn grenade**. An acorn is a seed, a thing children fill their pockets with, the object an entire tree comes out of, and Roy labels it as ordnance. A sweet name on an armed body, twice, at the two rungs where the cosmology touches a life someone actually lives. It is the same move as the Trojan Horse the maze names outright four rungs up, run at the Gate of the World. And the grenade has a striking counterpart in the songs: *Good Time (1:08)* — the song **where Roy is the rabbit**, born from the dream in which Sir Lucius first appears — sings *"Youth is not a fountain, **it's a hand grenade in hiding**."* The drawing is that line performed: youth's own object, an acorn, with the grenade hidden inside it, held by the maze's rabbit — and filed by the maze itself under **Unseen Things**, a grenade in hiding on the shelf of hidden things. The room was already in the maze by **August 2022**, more than a year before *Good Time* released in **September 2023**. The lyric's other half lives two shelves away: [[Artifacts - Gallery 2 (38-74)|#58 *A Storm in the Child's Fountain*]] is the same construction run on the same line's *fountain* — youth's fountain with the violence already inside it.
 **Connects to →** [[Sir Rabbit]] · [[Roy]] · [[Sir Lucius]]
 
 ### 77 · ROY ARTIFACT F316
-*On 13 August 2022.*
 
 A scanned 1990s film print of Roy as a small boy, maybe four to six, blond bowl cut, blue T-shirt, crouched on a plywood deck in **black sneakers and socks**, driving a nail with a full-size claw hammer, a split-rail fence and sunlit trees behind him. A faint handwritten date on the print reads *'94 6 2*, which, read as June 2, 1994, would put him days past his sixth birthday, the guessed age pinned down by the object itself. Roy glossed the code himself: *"He's building a bridge… we love a pun."* So the child carpentry is also the songwriter's *bridge,* and also the ARG's own connective labor, since this artifact's own title, **F316**, is the key to the *Venus is a Dove* room. The photo is a working link in the very maze it shows him learning to build. It grounds the cosmology's maker-figure in the most ordinary origin available: the architect of an entire mirror maze, introduced as a kid with a hammer and a nail.
 **Connects to →** [[Roy]] · [[Hall of Mirrors]]
 
 ### 78 · Queen Binah (the whale)
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A whale breaching (with an arrow labelling *"extra eyes"*) above the ringed planet Saturn, over waves labelled *"Great Sea,"* captioned *"GOD the Mother on Saturn."* This reads as Roy's pictogram of the sephirah Binah, the Supernal Mother, whose classical correspondences are exactly these: Saturn, the womb, and the Great Sea. The extra eyes make her the all-seeing but never-surveilling Mother, the watching-source figure this guide tracks elsewhere. It is a rare thing, an artist captioning his own cosmology: the Mother lives on Saturn over the Great Sea, and the room's title names her Binah. The drawing names Binah directly, giving this guide’s reading of Mary as the Supernal Mother a visual counterpart. The code obeys the same two-way count as the rest of the bestiary: the whale is rung 3 in the animal ladder descending from the source, the teeth sit in the head at station 8 of the body ladder climbing from the feet, and 3 and 8 make eleven, one station named from both ends.
 **Connects to →** [[Weirdness]] · [[No. 1 Champion (la Conquistadora)]] · [[Mary]] · [[Kabbalah - The Tree of Life]] · [[Concepts/Witnessing vs Surveillance]]

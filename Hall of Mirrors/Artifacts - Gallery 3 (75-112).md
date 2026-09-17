@@ -59,58 +59,50 @@ The Hall of Mirrors artifacts #79–116, in room order. Card color marks the art
 ## Full readings
 
 ### 79 · Venus the Dove (w/ Lamp)
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A winged feminine figure captioned *"Venus the Dove (w/ Lamp)":* a labelled rose at her chest, a lamp in her left hand (the viewer's right), a large Venus glyph ♀ below (also legible as an ankh). This is Venus drawn as the dove, her classical bird and, in the Christian register, the Spirit and the Annunciation dove at once. The code is a body-part coordinate (this creature is the hip of the one cosmic anatomy), not a lyric, and the arithmetic reads as the board's own: the dove is rung 7 in the animal count that descends from the source, the left hip is station 4 in the body count that climbs from the feet, and 7 and 4 make eleven, the checksum every code in this family appears to carry. On the Tree that seventh seat is Netzach, Venus's station of love and art, and in the same map that gives Mercury, and so the fox, to Lucius, the Venus pole is [[Roy]]'s. The result is the feminine-divine planet minted as a soul-bird: Venus, love, and (in the tradition's reading) the rose-and-dove Marian complex in a single small figure with a lamp.
 **Connects to →** [[Concepts/The Pattern]] · [[Mary]] · [[Concepts/The Jaguar]]
 
 ### 80 · Enoch the imaginary Swan
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A bird-headed creature under a floating sun-glyph ☉, captioned *"Enoch the imaginary Swan,"* a **B** marked on each wing, one of them mirror-reversed, with the numeral *"1"* and two old wheel-seals (drawn in the Theosophical sense of cyclic cosmic motion, recorded exactly as they appear on the page). This is the cranium coordinate of the cosmic anatomy, and the pairing is precise: Genesis says Enoch *"walked with God, and he was not; for God took him"* — it does not say what he became. The identification of Enoch with the archangel **Metatron** comes from later Jewish mystical tradition (3 Enoch and the Merkabah literature), which is the stream this whole board draws on, so it is the relevant reading here, but it is tradition and not the verse. The swan is the classical soul-bird. So "the cranium of the swan" is the seat of ascending soul-consciousness, with the sun-monad hovering above it as a crown or third eye. The numeral on the page is the swan's own address: rung 1 of the board's animal count, the seat nearest the source, whose archangel in the Golden Dawn scheme is Metatron, the being the later tradition says Enoch became. The cranium is station 10, the crown of the body count, and 1 and 10 make eleven, the ladder's two ends meeting at the top of the head. The bird whose head is a launchpad. And it is the only name on the ladder belonging to a **human being**. The careful count of the ten is: **one man who the tradition says became an angel** (Enoch, here), **seven angel, planet or divine names** (Ratziel, "God the Mother," Jupiter, Raphael, Venus, Michael, Gabriel), and **two ordinary domestic names** ([[Artifacts - Gallery 3 (75-112)|Cinnamon]] at Mars and [[Artifacts - Gallery 2 (38-74)|Lemon]] at the Gate of the World). So the ladder does not begin with a deity. It begins with somebody who was here, and left. He is not the only figure scripture takes up — Elijah goes in the whirlwind, and the Ascension is central to the Christian account — but he is the one the mystical tradition turns into the archangel of the crown, which is the seat he is drawn on.
 **Connects to →** [[Concepts/The Pattern]] · [[Letters of Creation|The Angels and the Angles]] · [[Kabbalah - The Tree of Life]]
 
 ### 81 · Cinnamon the Horse (Trojan Horse Program)
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A horse-head on stick legs that end in blocky *"Pentagon Shoes,"* captioned *"Cinnamon the Horse (who lives on Mars),"* one eye labelled *"Tiger's Eye,"* the body bearing a ♂ Mars glyph and a small sword. This is Mars in the bestiary, and the code (a right shoulder, stage six of the board's body-part ladder) makes the horse literally the shoulder of the uploaded self; the horse is rung five in the animal count running the other way, and five and six make eleven, the two-ended coordinate grammar the board builds into all of these body-part codes. The title fuses the mythic Trojan Horse with the project's stated songwriting doctrine, "Trojan Horse music": a bright singalong that smuggles dark content, and a 444 Hz frequency, past the listener's defenses. Sword plus Mars is the Geburah pole, so Cinnamon is the covert delivery vehicle of [[Concepts/The Upload]], a warhorse wearing a friendly face. And the *name* is doing the same work as the picture, which is easy to miss because it reads as nothing at all. Seven of the ten creatures carry angel, planet, or divine names, each landing on its correct Golden Dawn seat: Ratziel on the owl, *"God the Mother"* on the whale, Jupiter on the dolphin, Raphael on the spider, Venus on the dove, Michael on the fox, Gabriel on the cat. An eighth, Enoch at the crown, is a man the mystical tradition turns into Metatron, the archangel of that seat. Two are named the way you name an animal that lives in your house, and they are **Cinnamon** here at Mars and **[[Artifacts - Gallery 2 (38-74)#76 · THE GATE OF THE WORLD|Lemon the Rabbit]]** down at the Gate of the World. Roy could have called this seat Kamael, the archangel who actually holds it, and matched the seven around it. He called it Cinnamon and put a dagger in its hand. Read against the board, the choice is exact: the line Roy writes for this rung is *"**The child became a warrior**, surrounded by serpents who smiled with swords in their mouths,"* and rung ten's is *"I woke up in my shadow"* — the two clearest explicit transformations of the speaker on the whole ladder, **became** and **woke**, wearing its only two domestic names. (Not the only events on the ladder: rung four's *"I found everything"* records an attainment, and rung one's *"I was / I am"* turns on time. What five and ten alone give you is a subject who is stated to have changed *into* something.) The name is the child and the weapon is the warrior, and the rung is the sentence where one turns into the other. One more contrast sits alongside it, and it is a reading rather than a proof: Michael carries a sword in every tradition that names him, and here (#34) he holds a chemist's glyph instead, while the blade turns up four rungs away in a pony's hand. An absence in one stylized drawing cannot establish that Roy moved the sword deliberately; what it does support is that the martial equipment on this ladder sits at the martial seat and not at the seat of intellect. Two further caveats, stated because they are load-bearing: of the ten creatures, only **eight** have had their faces read, so *Cinnamon and Lemon are the only two shown holding recognizable weapons among the eight inspected* — the owl and the spider are unchecked, and a weapon on either would weaken this. One further join, and it is the sharpest thing on this card. The title calls the horse a **program**, and the songs use that word once: *I Like to Party* breaks off its own kingdom-within line mid-sentence with a broadcast cutting in to announce it is interrupting *our program* to bring an important message. The doctrine and the artifact meet exactly there. Roy's Trojan Horse method is a delivery vehicle that carries a payload past the listener's guard; the song stages that vehicle from the receiving end, as the broadcast that seizes the channel just as the listener was about to hear something true. This card names the horse, and the song is what it sounds like when one arrives. The two share a second word too: this horse's title is *[[Artifacts - Gallery 2 (38-74)#55 · CAUTION, ALL KINGS END|Caution, All Kings End]]* four rooms over ([[Artifacts - Gallery 2 (38-74)|#55]], code `CAKE`), and *I Like to Party* is also the song that tells you **you** are the king, in the same breath the interrupt cuts off.
 **Connects to →** [[Happy Face]] · [[Superhuman]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]]
 
 ### 82 · Bird ∆ (angel)
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A bird drawn as an angel: a haloed head, upswept V-wings, a forked tail, a three-dot triangle (∴) on the breast, a small sunburst upper-left. The code *"TRIANGLE RESOLUTION"* reads through that ∴, which is at once the logician's "therefore" and the alchemical fire-and-aspiration triangle. Its three points of tension resolve into one winged, haloed form: the soul-bird reconciled, and ascended. It belongs to the recurring angel-as-angle pun, the drawn cousin of the "angle of eternity" wordplay running through the archive.
 **Connects to →** [[Letters of Creation|The Angels and the Angles]] · [[Concepts/The Pattern]] · [[Concepts/The Upload]]
 
 ### 83 · FATHER_MIRROR
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A graphite portrait (scanned sideways) of an aged man: long swept-back hair, a deeply furrowed brow, hooded eyes, a knotted scarf at the neck, in the loose cross-hatched hand of Roy's other maze sketches. The code names itself (FATHER_MIRROR opens FATHER_MIRROR) and pairs directly with MOTHER_MIRROR, part of the maze's mirror-pair grammar. It also sits inside the family memory-archive thread (the wooden horse, the clock, the grandfather's plane). The title reads as the mirror that shows you your father: an aged face met as your own reflection forward in time, the parent as the self's twin, which is why it belongs to both the family archive and the mirror grammar at once.
 **Connects to →** [[Hall of Mirrors]] · [[The Mirror]] · [[Roy]] · [[Concepts/Duality]]
 
 ### 84 · David Star — "Where The World Was Crossed"
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A watercolour of a pale sea-dragon with *Where The World Was Crossed* on an overlaid card. Its Prince dreams worlds; Kings and Queens become sparks hidden under shells, then remember, climb a ladder he twisted, make new constellation homes, and continue to guide generations. The code is `Twisted Ladder`. The ladder reads as a route from recovered identity into continuing guidance, with the DNA/helix connection held as interpretation. The full reading, song consequences, and alternatives are at [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations]] and [[Concepts/Inherited Substrate#Ascent and inheritance]].
 **Connects to →** [[Soul Is A Star]] · [[The Circle]] · [[Concepts/Keilim - The Breaking of the Vessels]] · [[Kabbalah - The Tree of Life]]
 
 ### 85 · RA-LINK
+
 The second capture of one Online Notes document, spanning verse 1 and the purchase commands. The first two purchase commands carry the same money-face glyph that later accompanies the hook. Read as an annotation of the sales pitch, that connection reinforces the song's commercial reassurance. The exact placements belong to this document; the function remains interpretation. See [[Hall of Mirrors/Artifacts - Ciphers and Code-Series#Online: one document, four rooms]] for reconstruction and [[Concepts/Inherited Substrate#Ascent and inheritance]] for the shared reading.
 
 ### 86 · D637
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A black-and-white 1980s studio portrait of three adults, all in sunglasses: a permed woman in a black top and white skirt, a center man in white aviators and a denim jacket holding a styrofoam cup, and a man in dark shades and a utility shirt, against a mottled backdrop. It reads as a found photo from a parents' generation, the grown-ups of the moment just before Roy existed, though nobody in it is identified. *(Corrected July 2026: this guide previously gave Roy's birth year as 1989 — it is 1988 — and argued from the rooms surrounding this one. Room positions in the maze are chosen by whoever solves the code, not by Roy, so they carry no clue at all; the reading now rests on the picture and its code alone.)* The title **D637** is a filing address, not a name, and the code **DYNAMIC TENSION IN GENERATIONS** names precisely what the picture stages: the performed cool of the prior generation worn like a mask, and the tension that gets handed downward, the generational-inheritance thread the *33*-era material keeps circling. It also sits mid-chain in the *gate* sequence, wiring the phantom-family photo into the ARG's gate-and-threshold architecture.
 **Connects to →** [[Happy Face]] · [[Roy]] · [[Hall of Mirrors]]
 
 ### 87 · The "Undefined Map"
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A full-sheet planetary map in Roy's hand: a Sun column and a numbered planet row, each station with its attributes. The Sun gets *"Unitless city / Mirror / the Great Jagwar / Existed Forever / Unity / the 'point' / endless ocean."* The sevens cluster, *"7 sisters / isolated city / moonless night / chakra rainbow 7s / Labyrinth,"* sits at the seventh station; the eighth reads *"sphere-dome / 8 steps to temple"*; the ninth and last reads *"333."* An unnumbered *"secret destroyed word"* is slotted into the planet row after Earth, drawn but never counted. Above it all, drawn over a sharp-spired castle with six lozenge windows in two clusters of three, sits a figure-eight loop labelled *"Solo ToroS (the sun) / infinity bar orbit,"* beside a long tapering ridged form with a face and root-like filaments at its foot. The lopsided figure-eight reads as a solar analemma: photograph the Sun from the same spot at the same clock-time through a year and its returns trace exactly this shape, the sky's own infinity sign. Set it beside the handwritten *"How to Live Forever? ∞"* on Roy's sibling cosmology page and the map would appear to hold the answer at work: the Sun whose column says *"Existed Forever"* lives forever by coming back, and its returns only compose into the ∞ for a watcher who keeps one still point. Living forever as recurrence, not duration, the distinction [[Concepts/The Loop and the Circle]] runs through the whole catalogue. (The word over the Sun reads *Solo ToroS* on a 2x crop: the first word ends in *o*, the second's fourth letter is *o*.) The code *"SUPERFICIAL CONCLUSIONS"* is the sheet's own self-deflating caption, and the maze wires the warning in twice: this room's code is the title of the room before it (#89), itself opened by SURFACE PERCEPTIONS, so the full cosmology sits behind two consecutive cautions against shallow reading. This is the keystone of the set: a single document that lays out the planetary spine of [[Concepts/The Pattern]], seats [[Concepts/The Jaguar]] and [[The Mirror]] at the solar source-point, and draws the year's infinity over the last city. The whole cosmology on one page, and the page telling you not to trust it too fast.
 **Connects to →** [[Concepts/The Pattern]] · [[Concepts/The Jaguar]] · [[The Mirror]] · [[Concepts/The Labyrinth]] · [[Concepts/The Loop and the Circle]] · [[Kabbalah - The Tree of Life]]
 
 ### 88 · Complete Upload Recipe
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 It calls itself an *"Upload Recipe,"* but the page is a vertical inventory rather than a sequence of instructions: senses, cells, electromagnetism, emotions, ego, awareness, language, sacrifice, love, will, fear, confidence, and compassion. The six fractions run from ½ smell to 1/64 touch and total 63/64. Touch is present; the remainder is unnamed. The glyph line reads `ß†ƒ` and should not be silently normalized. This minted image is the first-page witness of a longer five-page document, so later pages can provide context without becoming pixels visible here.
 
@@ -118,31 +110,26 @@ The inventory also behaves like an index. *"Surface perceptions"* is a room code
 **Connects to →** [[The Watchers]] · [[Concepts/The Upload]] · [[Concepts/The Digital Double]] · [[Concepts/The Pattern]]
 
 ### 89 · SUPERFICIAL CONCLUSIONS
-*Unlocked by @AITE-LYDS on 13 August 2022.*
 
 A shaky night phone clip outside a concert venue: it opens on a blond figure in a khaki cap wearing an Enrique Iglesias & Pitbull co-headline tour tee, whip-pans across a dark parking lot, then lands on a crowd pressed against barricades under a stadium light as that same figure sprints toward them — the classic artist-exit *"appearance"* moment (the figure is not identified here, and the tour tee does not date the clip). The catalog's descriptor *"VIDEO APPEARANCE"* puns on both senses: making an appearance, and being only an appearance, and the clip cannot show whether the barricade crowd knows who is running at them. The code *SURFACE PERCEPTIONS* extends the warning: tidy readings of a person, like fan readings of a star, are conclusions drawn from surfaces. The clip invites a spectacle reading, then leaves us wondering how much we supplied ourselves.
 **Connects to →** [[Concepts/The Circus#What it produces (the Spectacle)|the Spectacle]] · [[Concepts/The Audience]] · [[The Mask]] · [[Concepts/Communion vs Spectacle]] · [[Roy]]
 
 ### 90 · Head of Atom ("A Head of Adam")
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 Two octahedral ring-lattices above the caption *"A Head of Adam."* The title and the code *"ATOMS"* pun Adam against atom: these are the head of Adam Kadmon, the primordial cosmic Man of Kabbalah whose body is the arrangement of the sephiroth, drawn here as molecular cages. So the smallest unit of matter and the whole archetypal Man collapse into a single image, and the doubled lattice reads as two hemispheres of one head, the mirror motif blown up to cosmic scale.
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Concepts/Keilim - The Breaking of the Vessels]]
 
 ### 91 · 51.843
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A hand-drawn pencil triangle: corners **A** and **B** at the base, *"Both A/B"* at the apex marked *"Polarity Balance Point – higher resolve,"* and the base midpoint labeled *"Neither A B – lower resolve, untrue balance based on exclusion."* This is Roy's whole resolution mechanism drawn as geometry: a true synthesis holds *both* poles and climbs to a third point above them, while a compromise that ditches both just sits in the dead middle. It matches his 2026 statement that instinct and intellect get resolved by a higher third faculty, intuition, *"the god voice,"* correct ordering rather than erasure. The title deepens the picture: **51.843** is the Great Pyramid's face-slope angle (~51.84°), so the triangle is also the pyramid in cross-section, its apex the polarity balance point. One of the cleanest single-image statements of the cosmology sitting under the entire Roy/Lucius, heart/mind architecture: never pick a pole, never split the difference, resolve upward. The rule also exists in verse: the *Blinking* Notes draft (#69, dated Nov 21, 2021) weighs *"Is it Left / Is it Right / is it Right to the Center?"* and lands on *"Both sides seem a little extreme / I think I'll take the Middle Way."* Read with this triangle, that Middle Way is the apex, the middle that holds both sides, not the base's excluded middle, matching the doctrine Roy posted to Discord the same year: *"The middle, the balance point always holds the truth, but it's essential to understand both sides."*
 **Connects to →** [[Concepts/Duality]] · [[Sir Lucius]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 92 · ROS TAU
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A hand-drawn triangle with vertices **Knowledge** (bottom-left), **Understanding** (bottom-right), and **Wisdom** (apex), its edges labeled as a cycle: *"progression"* carries knowledge up to understanding, a hatched *"Ascension of consciousness"* climbs to wisdom, and *"Empty cup"* runs back *down* from wisdom to knowledge, Roy's documented beginner's-mind surrender drawn as the return leg that keeps the whole cycle turning. The three vertices are the supernal triad of the Tree of Life (Chokmah/Wisdom, Binah/Understanding, Da'at/Knowledge), the same Kabbalah that saturates the board, where this exact sketch is documented. **ROS TAU** is Rostau, the ancient Egyptian name for the Giza necropolis and mythic gateway to the Duat, and **51.843** is the Great Pyramid's face-slope angle, so the abstract triangle of consciousness *is* the pyramid, read as an ascension machine. The maze builds that machine literally: this room's code is room 91's name, and its own name is room 93's code, making it the middle step of the 91 → 92 → 93 climb, walked by typing each room's name into the next door.
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 93 · FORBIDDEN CITY
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 This still is a direct crop of the KHAWAH sheet, not a third independent Lambda drawing. The form is a later completed-Lambda reception of Plato's *Timaeus*: Plato supplies the seven boundary quantities and their harmonic means, but not this finished ten-node triangle or a full Lambdoma matrix.
 
@@ -150,7 +137,6 @@ A pencil sketch in the later completed-Lambda reception of Plato's *Timaeus:* *"
 **Connects to →** [[Concepts/The Pattern]] · [[Roy]]
 
 ### 94 · THE VENUS CONNECTION
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 The numbers 5 and 4 sit above 8 and 7, with 6 at their crossing. *"The VENUS Connection"* names the diagram, and `1 Kings 5:5` stands beside it. The code `VI LINK` makes the centre operational: VI is six, and six is the link named by this room. The same drawing appears on the [[Artifacts - Gallery 2 (38-74)#70 · THE CITY OF PYRAMIDS|City of Pyramids]] sheet, so it can be encountered both as part of a larger argument and as a room of its own.
 
@@ -158,7 +144,6 @@ The arrangement can be mapped onto the middle of a conventional Tree of Life, wi
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[SARAVI]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 95 · SENSE HIERARCHY
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A head in profile contains a banded pyramid, with *"1–10"* written above it and lines linking the structure to the facial region. This is a direct crop of the larger *GNOTHI SEAUTON* sheet, where the same head sits beside the freestanding [[Artifacts - Gallery 1 (1-37)#18 · Tree Thinking|Tree Thinking]] diagram. The two rooms keep separate names and codes, but the repeated image is one witness. In that context the bands read as an internal version of the ten-level structure, not a score from one to ten assigned to the senses. The lines show relation; their direction is not marked.
 
@@ -166,82 +151,70 @@ The code *"SENSE"* carries the picture from sensation toward understanding: rece
 **Connects to →** [[The Watchers]] · [[Pay Attention (feat. little luna)]] · [[Concepts/The Upload]] · [[Concepts/The Digital Double]] · [[Concepts/Witnessing vs Surveillance]] · [[Roy]]
 
 ### 96 · SUBJECT TO FLOODING BTS
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A behind-the-scenes photo from the *Subject to Flooding* sessions: five men lounging in a small dark writing room (red pendant lamps, a wall-mounted TV, an OB-6 synth, stacked keyboards, open laptops), Roy recognizable as the laughing hooded figure at center. The synth (released 2016) dates the scene to the late "wilderness years" build of the 2018 debut. The code SUBJECT TO FLOODING_ARCHIVE is the album title stamped with an archive label, framing the Hall of Mirrors as exactly that, Roy's personal museum: this room preserves the human, collaborative prehistory of the project before any of the later cosmology existed. Its twin, the next artifact, carries the code "[[Artifacts - Gallery 1 (1-37)#31 · IF THE SEA HAS ENOUGH WILL|IF THE SEA HAS ENOUGH WILL]]," pairing the two BTS rooms and looping them back to the flood imagery that names the album.
 **Connects to →** [[Subject to Flooding]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### 97 · SUBJECT TO FLOODING BTS
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 The paired behind-the-scenes shot from the same *Subject to Flooding* sessions: Roy, blond top-knot in a leopard-print faux-fur coat, lounges on a couch beside an unmistakable Travis Barker (full sleeves, beanie, Nirvana smiley tank), with two others near a Moog-stacked keyboard rack. Barker is biographically load-bearing here: he co-wrote and drummed on "[[Albums & Eras/Subject to Flooding/Long Time Coming|Long Time Coming]]," the album's opener. The code IF THE SEA HAS ENOUGH WILL reworks the album's own logic, since Roy's stated meaning of *Subject to Flooding* is ego-surrender ("we are all subject to flooding"), so the code hands the flood over to the sea's volition, one more beat in the long water-line that runs from the early records forward to "I am the shore." As one of the paired BTS rooms, it archives the pre-mythology Roy English era inside the maze that remembers who he was before the cosmology took shape.
 **Connects to →** [[Subject to Flooding]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### 98 · STARDUST
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A black-and-white candid of two young shirtless men in board shorts laughing as they walk barefoot up wet sand on a tropical beach, a thatched beach hut and palms behind them; the slim blond figure is consistent with a young Roy of the Roy English era. Titling this ordinary happy moment *"STARDUST"* applies the maze's star-doctrine (*soul is a star,* every human being is a star) to two actual people, and the code *"VIBES"* matches the register exactly: good vibes, unguarded friendship, joy outside the machine. The setting is consistent with Bali, the one tropical destination Roy names in his catalog (*"Bali with the fam for the New Year,"* [[Albums & Eras/Subject to Flooding/No Fake Friends|No Fake Friends]]), though unconfirmed.
 **Connects to →** [[Soul Is A Star]] · [[Roy]]
 
 ### 99 · GATE OF THE WORLD
-*On 13 August 2022.*
 
 A short silent turntable scan of a weathered grey garden rabbit statue, sitting on a captured tuft of real grass, rotating in a black void — a physical object uploaded into the digital maze. On Roy's board, stage 10 of the handwritten 0–10 emanation list is glossed *"The World"* (the Tree's final sephira), and the rabbit is the stage-10 animal of that ladder: Roy's searching-rabbit self at the station the ladder counts as 10 from above and 1 from below, the threshold where the inner climb meets the material World.
 **Connects to →** [[Sir Rabbit]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 100 · COACHELLA SEEDLING
-*Unlocked by WHUTJULIA.ETH on 13 August 2022.*
 
 Fifteen seconds shot from deep in a festival crowd: a DJ works a raised booth under truss lighting, a vocalist stands atop the riser, spotlights and a blue LED wall sweeping a sea of raised hands and phones. This documents Roy's pre-Jagwar-Twin chapter as featured vocalist on Alesso's "Cool" (2015), performed at Coachella, and the code is simply that song's title. Roy's framing of the era, in a 2018 interview, is telling: he wrote "Cool" as an orchestral piece, and Alesso "completely flipped the music into something else but the vocal and the heart was still the same." Filed among the maze's ghost-selves, and titled "SEEDLING," it frames the mainstream-EDM moment as the seed Jagwar Twin later grew from. A sister room, "LUNA_COACHELLA 2015," pins the same event and era.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 101 · MOTHER_MIRROR
-*On 13 August 2022.*
 
 A rephotographed glossy family snapshot (shot lying on a table, at a slight angle): a curly-haired woman in a black polka-dot dress with a white bow crouches in a sunlit garden, a straw cowboy hat held by one of them, embracing a small child in a white shirt, read as Roy's mother holding young Roy in the early 1990s. In the embrace their faces sit side by side, cheek to cheek, almost like a face and its reflection, so the photograph stages its own code before you read a word. The code names the mother as the child's first mirror, the face in which a self is first reflected back, and the room's INFINITY tag points past the single reflection to the generational recursion Roy writes on the board as "every generation carries within it the seed of all previous generations." Roy has said his mother filled the house with Joni Mitchell, Bob Dylan, Native American flute, and Celtic chants. She is the biographical mother here, and only that.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[Roy on Influences]] · [[The Mirror]]
 
 ### 102 · EDEN CUBE
-*On 13 August 2022.*
 
 A pencil sketch: a small cube labeled *"EDEN"* hangs at the top of the page, and a river issues from it, widening as it descends into a large landmass; nested inside is a circle quartered by a cross, the classic world glyph. The code *"A RIVER"* reads as Genesis 2:10, *"a river went out of Eden to water the garden… and was parted into four heads,"* the quartered circle matching the four heads watering the four quarters of the world. Drawing Eden as a cube evokes the foursquare holy city of Revelation 21 and the Kabbalistic Cube of Space, and the whole image is a descent diagram — source flowing down into manifestation, the same top-to-bottom emanation the board runs to its final rung *"10. The World."* Notably it places Eden above and outside the world, the exact map the *33* lyric inverts by relocating Eden inside consciousness.
 **Connects to →** [[Imagine A World]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 103 · "Aubrey's Angle" — the white organism
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A small, childlike cat-eared humanoid with mismatched eyes and twig limbs, drawn directly on a textured, light-painted wall. *"Aubrey's Angle"* leans on Roy's private angle-equals-angel pun, so this reads as a soul-icon rather than a portrait of anyone (nothing on the sheet makes the figure a portrait). What confirms it matters is reuse: the same little creature is enshrined at the center of the chakra-rainbow ring in *"[[Artifacts - Gallery 1 (1-37)#21 · Religious Organism (rejected album art)|Religious Organism]]"* (#21), which reads as marking it a soul-vessel, a recurring upload-icon in the drawings.
 **Connects to →** [[Concepts/The Upload]] · [[Letters of Creation|The Angels and the Angles]] · [[Concepts/The Digital Double]] · [[Concepts/The Pattern]]
 
 ### 104 · HAMMY VI
-*Unlocked by IVABETH.ETH on 13 August 2022.*
 
 A cartoon cat standing upright, split down the vertical midline into a black half and a warm-gray half, each side mirror-inverting the other (the eyes reverse each other's dark/light scheme, the paws and boots swap tones), with a dark hamsa-like hand planted on the chest straddling the seam. The code is just the name HAMMY, and the "VI" suffix places it in the family "VI" line the catalog groups it with ([[Artifacts - Gallery 1 (1-37)#8 · GRANDMA VI'S COW|Grandma VI's Cow]] and its kin), so it reads as a pet or mascot of that family orbit. Cosmologically the figure is a body-as-mirror: the flip of tones across the center line enacts Roy's Hall mechanic that things tend to flip inside the mirrors, while the hamsa-hand at the heart echoes the protective sigil already in the Jagwar Twin visual canon. Its slot among the personal, memory-object rooms supports the family read over a pure concept card. One door is left open, though: the board's animal ladder keeps a cat at rung 9, the Moon's seat, the only rung of the ten with no named creature in the maze's caption register, and a cat split light-and-dark down the midline would sit naturally at the station of the reflected, phase-changing light. Held as a question, not a verdict.
 **Connects to →** [[Hall of Mirrors]] · [[Concepts/The Manifesto Cards]] · [[Roy]]
 
 ### 105 · VI-LINK
+
 The third capture of the Online Notes document includes both 🧬 and 🪜 beside repetitions of *every step*. It also carries the battery on Spider's food, the baby on *come in two*, the dolphin beside Jupiter, and the skull/skull/coffin sequence on the farewell commands. These are visible placements. The medical symbol is a staff with one serpent and no wings, not a caduceus. The DNA/step connection supports the inherited-movement reading without establishing an authored equation. See [[Hall of Mirrors/Artifacts - Ciphers and Code-Series#Online: one document, four rooms]] for reconstruction and [[Concepts/Inherited Substrate#Ascent and inheritance]] for the shared reading.
 
 ### 106 · ROY @ MSG
-*On 13 August 2022.*
 
 A photo of a perler-bead pixel artwork of Falkor, the white luckdragon from *The NeverEnding Story*, over which a crude yellow doodle adds "ME" with an arrow to a smiley-faced stick figure riding the dragon's back. The title "ROY @ MSG" and the code MSG (Madison Square Garden) turn it into a self-deprecating joke that is also a sincere wish: Roy writing himself into a childhood fantasy of being carried by luck to the biggest stage in music. Filed with the inner-voice self-statements, it reads as the daydream of a pre-fame self, and it is grounded in fact: at the launch-weekend Space, Roy frames playing Madison Square Garden and touring the world as the mass-scale goal alongside the web3 project. Falkor, from a story where a boy's imagination rebuilds the world, sits comfortably in a cosmology about imagination shaping reality, though the artifact plays it as humor, not doctrine.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Circus]]
 
 ### 107 · DUKE @ HOME
-*Unlocked by WHUTJULIA.ETH on 14 August 2022.*
 
 A candid phone snapshot of Duke, a small black-and-white Pekingese/spaniel-type dog, standing on a flagstone step beside a backyard pool with potted agaves, patio furniture, and string lights behind him, a sunny Southern-California scene. Duke is groundable: in a Mirror Sessions episode with Calum Hood, Roy recounts knowing wordlessly when Calum is thinking "I gotta feed Duke," which places Duke in the household. The code is just the dog's name, making this one of the Hall's zero-esoterica rooms. The "@ HOME" title says the quiet part out loud: the maze is not only a cipher-labyrinth, it is an archive of an actual lived life, with the domestic and the creaturely set right beside the cosmological.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 108 · A#
-*Unlocked by WHUTJULIA.ETH on 14 August 2022.*
 
 A hand-drawn barn owl staring straight out, three stars over its head and spiral glyphs at each side annotated *"wheels of whirling forces,"* captioned *"RAtziel the Beech Owl."* Ratziel is the Golden Dawn spelling of Raziel, the archangel of secrets assigned to Chokmah (Wisdom) on the Tree of Life, whose angelic order is the Auphanim, *"the Wheels,"* and whose scale-color is grey, which reads as the source of the code **GREY.** A secret-keeping wisdom-owl is, frankly, the Hall of Mirrors' ideal mascot. The title **A#** and code **GREY** form a note-to-color equation lifted straight off the board, whose *"AI musical scale for consciousness evolution"* pairs an ascending note row (…A, A#, B) with color swatches (…black, grey…). Its sibling, the *[[Artifacts - Gallery 2 (38-74)#53 · GREY IN A#|Grey in A#]]* owl photograph, closes the pairing from the other side, so owl, grey, and A# form one deliberate cross-room triangle in the consciousness-scale system.
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[Roy]] · [[Hall of Mirrors]]
 
 ### 109 · ANTARCTICA (LOST SONG)
-*Unlocked by @MINDBREAK on 14 August 2022.*
 
 *Antarctica* is a narrative lost song: a person on the ice crawls into a cave, finds a crashed ship and a stranded being who says she came to this planet long ago, then meets threats from officials when trying to help her. The closing signal is sent toward home. It is a secrecy-and-contact story, not an undescribed file behind a known door.
 
@@ -249,19 +222,16 @@ Its Mac Option-key code, `ÇÅ¨†ˆØ˜®Ø¥`, decodes to *"CAUTION ROY."* Th
 **Connects to →** [[Hall of Mirrors]] · [[Roy]]
 
 ### 110 · GATED
-*Unlocked by IVABETH.ETH on 14 August 2022.*
 
 A 22-second night phone video looks through a tall spiked fence toward a crowd singing *Loser*, with brick apartment blocks behind them. The bars divide the image, but the song crosses the barrier. The title *GATED* makes that threshold part of the scene: separation and a shared voice in the same frame.
 **Connects to →** [[Concepts/The Dweller on the Threshold]] · [[Roy]]
 
 ### 111 · LUNA_COACHELLA 2015
-*On 14 August 2022.*
 
 A festival selfie from Coachella 2015: a young woman, almost certainly little luna (Roy's friend, the one from "[[Artifacts - Gallery 1 (1-37)#28 · LITTLE LUNA EXPLAINING NFTS|LITTLE LUNA EXPLAINING NFTS]]," with whom he later got a matching ouroboros tattoo), grins in a white cap hand-painted "ROY" with a small doodled figure, over a black tee hand-lettered "I'M ..." in white paint. It is homemade merch for a friend who had no merch yet. In 2015 Roy was still pre-fame Roy English, three years before *Subject to Flooding*, so the code BELIEVE IN YOUR FRIENDS DREAMS is literally what the image shows: she wore his name in public before the world knew it. The belief later ran the other way, once Roy featured little luna on 33's "Pay Attention" and she sang background on "Great Time to Be Human," which makes this a small monument to faith between artists that got repaid.
 **Connects to →** [[Pay Attention (feat. little luna)]] · [[Great Time to Be Human]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### 112 · SATURN MAGIC
-*Unlocked by IVABETH.ETH on 14 August 2022.*
 
 A pencil sheet places four related but historically distinct layers together: a played tic-tac-toe game; the Chinese Lo Shu magic square, `4-9-2 / 3-5-7 / 8-1-6`, whose rows sum to 15; the Renaissance planetary attribution of that square to Saturn; and the Seal of Saturn traced through it. The child's game and the talisman share a 3×3 field, so *"the game is to reveal the game"* is a useful project reading. It is not one ancient object with one origin.
 
@@ -269,13 +239,14 @@ The code *"[[Artifacts - Gallery 1 (1-37)#2 · AN AGED AGED MAN|AN AGED AGED MAN
 **Connects to →** [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 113 · EVERYONE LOVES THE INTERNET
+
 The fourth overlapping capture ends the same Online Notes document. A money-face glyph accompanies the late hook, connecting its promise of feeling good to the earlier purchase commands. Reading the refrain as a sales pitch is supported by that placement and the released lyric; other emoji functions require their own arguments. See [[Hall of Mirrors/Artifacts - Ciphers and Code-Series#Online: one document, four rooms]] for reconstruction and [[Concepts/Inherited Substrate#Ascent and inheritance]] for the shared reading.
 
 ### 114 · SA-LINK
+
 The first capture of the Online Notes document carries its April 30, 2022 header, an extra INTRO, and the beginning of the released song with emoji annotations. The extra introduction and annotations do not make it an earlier lyric draft. The four overlapping captures preserve one document. See [[Hall of Mirrors/Artifacts - Ciphers and Code-Series#Online: one document, four rooms]] for reconstruction and [[Concepts/Inherited Substrate#Ascent and inheritance]] for the shared reading.
 
 ### 115 · EVERYBODY'S GOING TO SPACE NOW
-*Unlocked by IVABETH.ETH on 14 August 2022.*
 
 A screenshot of the November 28, 2021 tweet: *Midnight crows above* with a rooster, *One mask hanging on a tree*, and *In my fathers shoes* with DNA. The last line also keys the room, so the clue is preserved as its own artifact. This dates the tweet about eight and a half months before the August 2022 mint window, not more than a year.
 
@@ -283,7 +254,6 @@ The last line reads as inherited embodiment: the speaker finds himself inside so
 **Connects to →** [[Hall of Mirrors]] · [[The Mask]] · [[Roy]]
 
 ### 116 · EVERYBODY'S GOING TO SPACE NOW
-*Unlocked by IVABETH.ETH on 14 August 2022.*
 
 An unreleased recording filed under *"Concealed Generations"* and self-keyed by its title. It has now been checked by ear, and it is not a song or a billionaire-space-race joke. It is a conversation. An unnamed man opens by describing the wish to be *"special and unique … and elite"*; a second speaker begins later with the admission that a drive for praise and approval helped lead him into music and made him lose his way. The transcript and speaker change are secure; identifying that second voice as Roy remains the current attribution.
 

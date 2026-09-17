@@ -59,25 +59,21 @@ The Hall of Mirrors artifacts #117–153, in room order. Card color marks the ar
 ## Full readings
 
 ### 117 · ATTENTION'S GATE
-*Unlocked by IVABETH.ETH on 14 August 2022.*
 
 A screenshot of a @JagwarTwin tweet (11/22/21), three aphoristic lines each sealed with an emoji: *"Ahead of stardust 🧠 / A sky carrying water ❄️ / Invisible world 👁"* (brain, snowflake, eye). The room title reframes the aphorism as a threshold: attention is the gate through which the invisible world is entered, the eye emoji its keyhole. The tweet condenses Roy's mind-before-matter cosmology — the brain sits *"ahead of"* stardust, i.e. consciousness precedes the star-stuff it inhabits — posted in the same weekend run as *"Words created everything we see, but everything we see began with a thought."* A compressed creation doctrine: mind, then medium, then the unseen world behind the seen. It belongs to the maze's Attention cluster alongside *[[Artifacts - Gallery 1 (1-37)#5 · HELLO, ATTENTION (µå®∂¨˚)|Hello, Attention]] (Marduk).*
 **Connects to →** [[The Veil — The Deep End]] · [[Concepts/Source vs Reflection]] · [[Pay Attention (feat. little luna)]] · [[Roy]]
 
 ### 118 · PREVIOUS FACE
-*Unlocked by @AITE-LYDS on 14 August 2022.*
 
 A short turntable scan floating on black: a glossy cobalt-blue sculpted human face, weathered and half-melted, an eroded hole at the cheek, affixed to an irregular slab of pale concrete with a small green sprig growing below it, the fragment slowly rotating like a museum relic. The title reads the object literally: a *"previous face"* is a cast-off former self preserved as archaeology, the discarded persona fossilized in concrete while new growth starts beside it (a Zen-koan resonance: *"your original face"*). The code *"I AM THE INTERNET"* is a seeded clue Roy tweeted from @JagwarTwin months earlier, the first-person completion of the board's title bar, *"Uploading my consciousness to the Internet."* Face and code together stage the Upload's bargain: the flesh face left behind as a relic, the self reborn as network.
 **Connects to →** [[Concepts/The Upload]] · [[Concepts/The Algorithm]] · [[Concepts/The Digital Double]] · [[Roy]]
 
 ### 119 · HOPSCOTCH
-*Unlocked by IVABETH.ETH on 14 August 2022.*
 
 A clean screenshot of a verified @JagwarTwin tweet (11/19/21, 33-rollout era), reading *"The Game is to reveal the Game";* the code is the tweet's own text, so the room enacts its aphorism — the artifact reveals the game that unlocks it. The line is the closest thing the Hall of Mirrors has to a mission statement, framing the whole ARG (and Roy's attention-critique generally) as a game whose winning move is *exposure* of the game rather than escape from it. The title *"HOPSCOTCH"* casts that meta-game as a children's sidewalk game, hopping square to square (room to room) toward the end-square — the traditional court's Earth-to-Heaven ladder hovering behind it.
 **Connects to →** [[Concepts/The Pattern]] · [[The Circle]] · [[Roy]]
 
 ### 120 · FIBONACCI RABBITS
-*Unlocked by COOPAHTROOPA.ETH on 15 August 2022.*
 
 This is a direct crop of the KHAWAH sheet. The crop gets its own room and key, but it is not independent corroboration of the parent page's pattern argument.
 
@@ -85,7 +81,6 @@ A hand-drawn dendrogram of the classic *Liber Abaci* rabbit-breeding problem: pa
 **Connects to →** [[Concepts/The Pattern]] · [[Roy]]
 
 ### 121 · WHEELS
-*Unlocked by @KOLEEONI on 15 August 2022.*
 
 Three concentric rings are labeled **AIN**, **AIN SOPH**, and **AIN SOPH AUR**, with a rising arrow and the phrase *"Ring Pass-Not."* The three names belong to the Qabalistic veils before manifestation; *Ring Pass-Not* belongs to a Theosophical vocabulary also used by William G. Gray. They share the sheet, but should not be flattened into one historical system.
 
@@ -93,19 +88,16 @@ The code *"THERE ARE THINGS BEHIND THINGS"* states the room's operation cleanly:
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 122 · THE HOUSE CHANGES TO WATER
-*On 16 August 2022.*
 
 A short looping scan of a real object rotating against black: a weathered grey barn-wood surface with a small circular photo pendant, encased in glass/resin and hung by string, showing a young couple in close embrace — a bespectacled man and a smiling woman in a personal, decades-old snapshot. It sits in the family/keepsake cluster (alongside *Grandma VI's Cow, [[Artifacts - Gallery 1 (1-37)#38 · GRANDFATHER MASKS|Grandfather Masks]],* *Matt and Roy*), so its weight is biographical rather than esoteric: a memento of kin and love-across-time hung on aged wood. The title *"THE HOUSE CHANGES TO WATER"* reframes that keepsake as a meditation on impermanence, the fixed structure of home and family dissolving into flux — an heirloom made navigable, memory literally turned into an object you can turn over and look behind.
 **Connects to →** [[The Circle]] · [[Roy]]
 
 ### 123 · ANOTHER LIFE
-*On 16 August 2022.*
 
 A heavily motion-blurred night-flash snapshot: a blond man (Roy) in a black hoodie with his arm around a young girl, both smiling, red cups and string lights streaking behind them in the dark. The extreme long-exposure smear turns the faces into ghost-trails, which is why the piece is filed *PHANTOMS* and titled *"ANOTHER LIFE"* — the blur literally renders the subjects as phantoms, and the title reads the ordinary human moment as a glimpse of a soul passing through one incarnation among many. Biographically a personal candid (Roy with what appears to be family), pulled into the maze as a *"phantom"* rather than a designed diagram or lyric card.
 **Connects to →** [[Concepts/The Pattern]] · [[Roy]]
 
 ### 124 · ASHIM
-*Unlocked by TEMPLEMIND.ETH on 16 August 2022.*
 
 A handwritten note reads *"Ashim / Consciousness of an Atom"* above *"Degrees of Being alive."* The strongest title-and-text source is Alice A. Bailey's 1922 *The Consciousness of the Atom*, whose seventh lecture develops graded consciousness from atom upward. The exact study copy Roy used has not been identified, so Bailey is a strong source direction rather than a photographed-source receipt.
 
@@ -113,73 +105,61 @@ A handwritten note reads *"Ashim / Consciousness of an Atom"* above *"Degrees of
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 125 · THE SERPENT MUST TAKE FLIGHT
-*Unlocked by IVABETH.ETH on 16 August 2022.*
 
 A white line-drawn bald head over a mirror-doubled bed of roses (dark reds, oranges, purples). The face is serene and closed-eyed but bears an open third eye on the forehead and two protruding fangs at the mouth (the *"serpent"* / animal nature), and below the throat a symmetrical lotus/petal mandala reads as awakened lungs or a heart-chakra bloom. Both the title *"THE SERPENT MUST TAKE FLIGHT"* and the code *"THE MONKEY MUST BECOME THE BIRD"* encode the same idea — kundalini ascent and evolutionary self-transcendence: the coiled serpent (base energy) rising to the crown and opening the eye of vision, the *"monkey"* (restless lower self) transforming into the *"bird"* (flight, spirit, freedom). It dramatizes this guide's core human-to-superhuman tension: the drive to go beyond the merely human that runs through Roy's cosmology. And the formula has a picture. In the whole maze, monkey, serpent, and flight meet in exactly one other room: [[Artifacts - Gallery 1 (1-37)#16 · THE EMPTY ROOM|room 16, THE EMPTY ROOM]], where they are drawn rather than written, a two-faced monkey below trying to move both ways at once (the one that must become the bird), three serpents already in flight above, and between them the colorless rainbow bridge the crossing runs over. One room states the formula; the other pictures it.
 **Connects to →** [[Concepts/The Upload]] · [[Superhuman]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 126 · A BRIDGE BETWEEN WORLDS
-*Unlocked by @AITE-LYDS on 21 August 2022.*
 
 A three-second looping scan of a genuine WWI Victory Medal: a bronze winged figure of Victory hanging from the distinctive double-rainbow moiré ribbon that earned it the "rainbow medal" nickname, a battle clasp at the top, laid on a rough-cut board and rotating against black. Its cell-coordinate index is B1030; the meaning-laden phrase is "A BRIDGE BETWEEN WORLDS," which names the medal's double register perfectly. A war medal is a token carried across the threshold of life and death, and the rainbow was the classical bridge (Bifrost, the arc of Iris) joining the mortal and divine worlds, so the connection realm and the death-and-rebirth spine of the maze meet in a single heirloom. It reads as another turn of Roy's recurring matrilineal-memory layer rather than pure esoterica.
 **Connects to →** [[Hall of Mirrors]] · [[Concepts/The Pattern]] · [[Roy]] · [[Kabbalah - The Tree of Life]]
 
 ### 127 · FLOOD ARTIFACT (˜ƒƒ)
-*Unlocked by IVABETH.ETH on 21 August 2022.*
 
 A ~16-second piece in three movements: first a churning wall of electric turquoise vapor lit from within, the literal *"flood"* as a rising luminous tide; then heavily degraded VHS footage, scanlines and *mirror-reversed* on-screen text (you can make out *"THE COLOR"* and *"BLACK & WHITE"*) with a phantom image bleeding through; and finally a hand-inked sigil on mint-green paper, a ringed circle around a bisected *"eye/cell"* glyph, flanked by falling teardrops and ringed by radiating dots, reading as a sun, a monstrance, or a weeping eye. The code **霊的な愛** is Japanese for *"spiritual love,"* and this is one of the thirteen backward-threaded Flood Artifacts, in which, for much of the series, a card's code is the *previous* card's Mac Option-glyph title. It belongs to the *Subject to Flooding* album-world the whole series is named for: flood, tears, *"spiritual love"* as the emotional register of being submerged.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 128 · ROY HBD
-*On 22 August 2022.*
 
 A loose, childlike ink sketch: a connect-the-dots line rising to a spiraled orbital node (a scribbled ringed planet or a small web at the peak), with "Happy Birthday to You" hand-lettered in Roy's signature style, each word prefixed by a little bullet-dot, the same punctuation-as-breath habit that runs through his maze scrawls. The code HBD is birthday shorthand. *(Corrected July 2026: this guide previously called August 21 Roy's birthday and read the drawing as self-directed. August 21, 2022 is the date the room was unlocked, not his birthday — he was born in May 1988 — so who the drawing was for is simply unknown.)* It is filed in the INFINITY realm alongside MOTHER_MIRROR, FATHER_MIRROR, and DAD'S CLOCK, the eternal-return corner of the cosmology, so the birthday reads less like a party than like another turn of the loop: a birthday stamped into the maze's running clock of family, mortality, and cyclical return.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[The Circle]] · [[Concepts/The Pattern]]
 
 ### 129 · Flaming Sword (the Lightning Flash)
-*On 22 August 2022.*
 
 A zigzag connect-the-dots: a cross-glyph *"Start"* at top, a numbered path threading 2 to 9 in a lightning switchback, ending at *"End"* with a little recycle-loop, and the margin note *"9 checkpoints, 1 hidden, 1=10."* This is the Kabbalistic Lightning Flash, the descending path of emanation through the ten sephiroth (and the flaming sword of Genesis 3:24). The annotation decodes itself: nine visible nodes, one hidden (Da'at, on the Abyss) restoring the full ten, and the loop reading the whole descent as a cycle rather than a one-way drop.
 **Connects to →** [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]]
 
 ### 130 · INCOMING TEXT (JB)
-*Unlocked by @AITE-LYDS on 22 August 2022.*
 
 A screenshot of two dark iOS message bubbles reading *"Here"* and *"At the gate"*, an *"incoming text"* captured (or staged) and framed as a piece of correspondence rather than a drawing. The code `F876` is a board cell coordinate, and the piece works by the Hall's favorite reversal: an utterly mundane *"on my way, I'm at the gate"* text becomes a threshold image. The gate is one of the project's most load-bearing motifs, the boundary the self eventually has to step through rather than merely stand before, so a plain two-word message lands as a moment of arrival at the edge of one state and the start of another. An intimate, real-world scrap lifted into the mythology of crossing over.
 **Connects to →** [[Concepts/The Dweller on the Threshold]] · [[LOOP]] · [[Hall of Mirrors]] · [[Roy]]
 
 ### 131 · FLOOD ARTIFACT (©øø∂∂å†)
-*On 23 August 2022.*
 
 An 18-second loop: heavily pink-cast, degraded home video of a young woman laughing into the lens, twice interrupted by a flat aqua field, before cutting to a hand-drawn glyph on mint paper, a circle around a slotted eye-oval with teardrops inside, a sun-eye-and-rain sigil. It's part of the backward-chained Flood series (each code is the previous artifact's Option-glyph name). Both the *"Flood"* framing and the **LET GO** code aim straight at the debut *Subject to Flooding,* whose stated meaning is *"we are all subject to flooding,"* the dissolving of ego and the walls of separation, surrender rather than escape, which the footage stages as a person cut against an empty aqua ground. The teardrop-and-eye sigil is the flood boiled down to an emblem, the weeping, watching source at the center of the deluge. The code also has a written definition elsewhere in the maze: the City of the Pyramids page (#70) carries, in Roy's hand, *"To 'Burn forever in Hell' is to not let go. Be willing to Let Go… Sacrifice lesser aspects of self for greater."* Read together the two rooms pair naturally, hell as the refusal to release, the flood as the release performed.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/Source vs Reflection]] · [[Roy]]
 
 ### 132 · ROY'S LADDER
-*Unlocked by IVABETH.ETH on 30 August 2022.*
 
 A 3D scan of a literal stepladder: a paint-spattered aluminum household ladder with yellow feet, standing on a torn patch of scanned concrete and turning slowly against black. *(Corrected July 2026: this guide previously described this room as a framed family photograph whose easel back was the "ladder." That is the separate room #153 · FAMILY PORTRAIT — the two were swapped, and the videos themselves settle it.)* The reading is better without the inference. Among the maze's diagrams and icons, Roy kept the most ordinary climbing object in the house and titled it *Roy's Ladder,* keyed *"C33"* to the *"I'm 33"* board and the album *33.* Every other ladder in this world is borrowed and exalted — the monastic *Ladder of Divine Ascent* pinned on the board, the *"How to Live Forever? Earth→Heaven"* hopscotch, the Tree's own rungs. This one is a thing you actually stand on to reach something. The ordinary made a step, with no metaphor required.
 **Connects to →** [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[Concepts/Jacob and Esau]] · [[Roy]]
 
 ### 133 · FLOOD ARTIFACT (R100)
-*Unlocked by @AITE-LYDS on 30 August 2022.*
 
 A ~35-second clip that opens on a blank blue-green field of water and slowly surfaces Roy English's face floating just beneath it (the submerged-in-the-bathtub look of the era), before dissolving into the hand-lettered title card **SUBJECT TO FLOODING,** footered *"An album by Jagwar Twin © 2018 Original Mind."* The debut album cover, delivered as a phantom reveal. It's one of the thirteen backward-chained Flood Artifacts, its code a set of Mac Option-key glyphs rather than a word. The album title carries Roy's stated meaning, *"we should all let go of ego… we are all Subject to Flooding,"* the self overwhelmed, vulnerability as the universal condition, and it sits on the documented water-line thread (Eye Alaska 2010 → Subject to Flooding 2018 → *"I am the shore"* 2026). Hiding an album cover inside a self-referential glyph cipher is peak Hall of Mirrors: the thing is a biographical relic and a working key in the same breath.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 134 · FLOOD ARTIFACT (ƒˆß˙)
-*Unlocked by @AITE-LYDS on 30 August 2022.*
 
 A ~13-second silent, soft-focus macro film: a defocused crimson form drifting across a teal-blue field, passing through plum and violet hazes before the whole frame dissolves into pure aquatic blue, everything submerged, everything washed out. It's one of the thirteen-video Flood chain, where a code is often the previous artifact's encoded name. Thematically it sits in the *Subject to Flooding* cluster, its drowning imagery the flood as the medium in which the Hall's phantoms surface and vanish. As a defocused red-in-water abstraction with a cryptographic name, it functions less as a discrete picture than as a node in the self-referential chain: an atmospheric link in the chain, ending with a drawn counter that reaches one.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 135 · FLOOD ARTIFACT (µø√´†ø¥ø¨)
-*Unlocked by @AITE-LYDS on 6 September 2022.*
 
 A 15-second silent phantom: a hazy, out-of-focus horizon (sun low over what reads as sea or desert haze) cross-fading from warm sepia into cold blue, then resolving onto a hand-inked sigil on pale paper, a circle around a smaller bisected circle (an eye, or a phi-like mark) ringed by dots that fill progressively clockwise from the top. It's one of the thirteen Flood Artifacts, most unlocked by the previous one's Mac Option-glyph name (the solved members include ∂®´åµ = dream, ˙´¬¬ = hell, Vi†ruvian, 霊的な愛 = spiritual love). The visual grammar, dissolving atmosphere, water symbols, an eye at the center of a ring, enacts the debut's flood motif: the self submerged, the ego-walls dissolving, orientation sought *inside* the deluge rather than in escaping it. It belongs to the flood/water pole, the deliberate opposite of the Circus/flame pole that arrives later with *Lucius Lullaby.*
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 136 · HOUSE OF SPELLS (CUZ_IDEA)
-*Unlocked by @AITE-LYDS on 6 September 2022.*
 
 An unreleased demo filed under *"Concealed Generations"* and self-keyed by its title. The filename *House of Spells (Cuz_idea)* is evidence of a working label; `Cuz` does not identify a cousin. Checked by ear, the recording layers children's voices and owl calls around questions of identity. The head becomes an elevator, the speaker descends eight floors, and a fire escape appears as the possible route out.
 
@@ -187,61 +167,51 @@ That gives the archival fragment a real interior architecture: mind as a house o
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Upload]]
 
 ### 137 · FLOOD ARTIFACT (∂®´åµ)
-*On 18 October 2022.*
 
 A ~14-second grainy vintage-film montage: badly degraded 8mm/16mm-style footage of the U.S. Capitol dome framed by trees, blurred crowds, the edges of marble statuary, washed-out cloud-and-water textures, the flickering archival mood that runs through the Flood series, resolving on a hand-drawn ink glyph, a double circle around a slotted eye/lens surrounded by radiating dots and teardrops. This is one of the thirteen Flood Artifacts, a backward-threaded cipher whose glyph names are Mac Option-key encodings: this artifact's own name decodes to *"dream,"* and that name is the next link's key. The whole series is named for and anchored to the 2018 debut *Subject to Flooding,* which makes these a drowned-archive substrate running beneath that album's cosmology.
 **Connects to →** [[Subject to Flooding]] · [[The Circle]] · [[Roy]]
 
 ### 138 · FLOOD ARTIFACT (∆∑†)
-*Unlocked by @AITE-LYDS on 20 October 2022.*
 
 A ~13-second vertical phantom: it opens on a flat, watery pale-blue field, dissolves through blurred hand-held imagery in warm red/pink flesh-and-fire tones (a figure or face in bright light, then a dark grainy passage), and resolves onto a hand-drawn ink glyph on the same blue paper, a circle around a slotted *"eye"* with a divided iris, ringed by dots and teardrops, like a schematic sun, a weeping eye, or a radiant seed. The title *"∆∑†"* (delta / summation-sigma / cross) and the code aren't words but Mac Option-key glyph strings: one link in a backward-threaded chain that closes into a three-room loop, where each code is the *previous* artifact's encoded name. The *"cipher,"* in other words, is a keyring, not a message. The whole series is the behind-the-scenes phantom layer of *Subject to Flooding,* where *"the flood"* is everything competing to direct consciousness (culture, time, inherited dreams, raw human weather), and the blue-to-flesh-to-eye progression stages exactly that submersion-and-orientation drama.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Upload]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 139 · FLOOD ARTIFACT (H101)
-*On 22 November 2022.*
 
 A ~12-second macro video that is, in the most literal sense, dozens of identical smiley-face potato snacks bobbing and cooking in bubbling oil under a milky-blue colour grade, a churning mass of grinning faces that reads as submerged, before it cuts to a hand-drawn glyph (the series' ring-of-marks counter, here showing four filled). It's titled *"H101,"* and its code **∂®´åµ** decodes via Mac Option-glyphs to **DREAM,** which reads as a pointer to the released song *"Dream / Dream."* Read against the cosmology the joke turns serious: a flooded field of identical smiling faces literalizes the album's flood metaphor and the Dream/Dream reading of collective sleep, mass Flattened Identity, everyone wearing the same grin while submerged. And the whole thing is potato smiles in a pot, which is exactly the point: this is the DIY, kitchen-table register of the Flood series, not some esoteric encoding baked into the frame.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/Flattened Identity]] · [[Roy]]
 
 ### 140 · FLOOD ARTIFACT (Vi†ruvian)
-*On 22 November 2022.*
 
 A short looping video: waves of luminous aquamarine underwater imagery dissolve into and out of grainy vintage home-movie footage of children (a bob-haired child laughing; the stock's date and whose archive it comes from are not established) and a hand-inked glyph, a ringed circle studded with satellite dots around a bisected central *"eye,"* a homemade cosmological seal. It's one of the thirteen Flood Artifacts, this one titled *"Vi†ruvian,"* the Mac Option-glyph rendering of **Vitruvian,** Leonardo's ideal-proportion Man, the human measured against the cosmos. The imagery does what the series title says: a self submerged, memory surfacing through water. And the Vitruvian name reframes that drowned self as something being *re-measured* against an ideal template, the childhood footage supplying a *"before"* the flood washes over.
 **Connects to →** [[Subject to Flooding]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 141 · FLOOD ARTIFACT (˙´¬¬)
-*Unlocked by @AITE-LYDS on 22 November 2022.*
 
 A ~25-second found-footage montage: washes of solid teal cut against degraded 1980s home video of a smiling curly-haired woman in white at a coin-stacked casino table (found footage), a neon casino *"JACKPOT 25¢"* sign, glowing red LED numerals, vintage color film of cars on a desert highway, and a hand-drawn ink glyph (a ringed circle with a vesica/eye center and teardrop marks). This one's own name, *"˙´¬¬,"* decodes to **hell,** while its code *"Vi†ruvian"* is the encoded name of the adjacent Flood Artifact, threading the series backward rather than describing anything in the clip. The Flood series takes its name from Roy English's debut *Subject to Flooding,* and this montage's gambling imagery (JACKPOT, coins, 25¢) laid over found casino footage sits dead-center in that album's world: the flood you try to outrun by keeping the party moving.
 **Connects to →** [[Hell Of A Night]] · [[Subject to Flooding]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 142 · DOWN TO YOU
-*Unlocked by CTHDRL.ETH on 10 February 2023.*
 
 A translucent wireframe human figure sits in a lotus pose over an inset plate of a spiral galaxy, often off-centre and at times inverted, a bright light kindling at its core and swelling as it rotates. This is the mint room for the released *33* track *Down to You*, so the tie to the song is simply a fact. The code, *"What is it that you seek?",* is the song's opening question verbatim (*"What is it that you seek? / In your mind, you must be it"*), and the image just draws the lyric: the human dissolved into the same mesh as the cosmos, the light lit from inside rather than handed down, the galaxy staging *"Heaven in the sky to the Earth below"* as one continuous field. The whole thing renders the song's central claim in one picture, that divinity is located in the self, not acquired from outside, the *"you are the one"* carried by the turning figure’s inner light.
 **Connects to →** [[Down to You]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[The Circle]] · [[Roy]]
 
 ### 143 · ANOTHER WAY II HEAVEN
-*Unlocked by CTHDRL.ETH on 10 February 2023.*
 
 A head-and-shoulders bust turns as a transparent wireframe, with flashes of violet and lightning around it. This is the mint room for the released song *Another Way II Heaven*, so the tie is definitional. The code, *"Genesis Tree Code,"* names the song's two engines at once: *Genesis*, its first-person creation myth (*"Back long ago / I was just me… / I spoke the words / 'One, become Two'"*), and *Tree*, the Tree-of-Life emanation the lyric counts through (*"From One and through Eleven"*). The transparent form gives the song's lonely *"I"* something to look through. It can read as the moment before *"One, become Two"*: a self wanting to see itself. It sits at the very floor of the mythology: the generating rule, unity divides to know itself and promises to reunite, that mirrors, doubles, and the Circle all fall out of.
 **Connects to →** [[Another Way II Heaven]] · [[Concepts/The Pattern]] · [[Kabbalah - The Tree of Life]] · [[The Circle]]
 
 ### 144 · IMAGINE A WORLD
-*Unlocked by CTHDRL.ETH on 10 February 2023.*
 
 A translucent, membrane-textured form, clear rippling plastic with red edging, churns and hangs over a red desert canyon, the whole frame bordered in the album's signature red. This is the mint room for *Imagine A World*, track 9 of *33*, and its code is simply the song's own title. The song's creation language can be read beside the board's final rung, *"10. The World,"* as a thematic rhyme; that does not make this song the Tree diagram's key or endpoint. The exact neighboring relay is different: `Genesis Tree Code` opens the *Another Way II Heaven* mint. The half-formed membrane over raw desert may read as creation caught in progress, a world being conceived out of formless matter.
 **Connects to →** [[Imagine A World]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Upload]] · [[Roy]]
 
 ### 145 · THE CIRCLE
-*Unlocked by CTHDRL.ETH on 10 February 2023.*
 
 A translucent wireframe of a *3* and its reversed twin facing it, the album's logo, built in 3D vector lines as a moving mesh over slowly drifting footage of a bleak arctic waste of snow, cracked ice, and flat white horizon, the mark overflowing its inset plate. This is the mint room for *The Circle*, the closing track of *33*, so the tie is definitional. The code, *"The Great Jagwar,"* reads as naming the song's central mythic figure: the feminine maker, the *"Jagwar with a world tied on a string"* who makes the other Jagwars and teaches them to sing, the same Great Jagwar that recurs in Roy's hand-drawn cosmology. The pattern of the number showing through a frozen, emptied world fits the song's doctrine exactly, a maker who hides the song inside creation and then withdraws, leaving the circle to be remembered and regrown *"from the inside of the inside."*
 **Connects to →** [[The Circle]] · [[Concepts/The Pattern]] · [[The Thread]] · [[Roy]]
 
 ### 146 · LOGOS (RATIO)
-*Unlocked by @ALICIAROSE on 11 February 2023.*
 
 A hand-drawn sheet is titled *"Logos (Ratio)"*, with a crossed axis and the list *"Elephant, Tortoise / Eagle, Atlas."* The code preserves Roy's spelling: `ELEPHANT TORTISE EAGLE ATLAS`. These are not four securely identified world-bearers. Roy's 2023 four-part riddle supplies the immediate route: Ganesha was an elephant; *tortoise* can be misspelled *tortise*; *"Matthew was an Eagle"*; and Atlas was Prometheus's brother with the world on his shoulder.
 
@@ -249,49 +219,41 @@ The answers are heterogeneous, and Roy's Matthew line should remain exactly as g
 **Connects to →** [[Concepts/The Pattern]] · [[The Circle]] · [[Kabbalah - The Tree of Life]] · [[Roy]]
 
 ### 147 · CAN'T LIE (EARLY ROY)
-*Unlocked by @AITE-LYDS on 12 February 2023.*
 
 About ten seconds of phone footage from the stage, looking out at a packed dark concert hall, the whole crowd holding up phone flashlights in a swaying sea of light while a hard spotlight flares straight into the lens. The parenthetical *"(Early Roy)"* is the key: this is documentary footage from Roy English's performing life before Jagwar Twin, the band era before the solo mythos, and *"Can't Lie"* reads as a title from that earlier catalogue rather than any released Jagwar Twin song. In the Hall it works as a memory-relic, a literal *"video phantom"* of a former self folded into the archive, so the origin performer becomes one more reflected face in the mirror-hall of Roy's history, the raised phone-lights standing in as witnesses to a life the project keeps returning to.
 **Connects to →** [[Hall of Mirrors]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 148 · MATT AND ROY LOSER
-*Unlocked by @WHOISBRITTANEY on 23 February 2023.*
 
 A ten-second reposted Instagram Story filmed at night in what reads as Los Angeles (palm trees, a red light): the poster pulls up beside a white car and films the grinning, animated driver through his window. The payload is a mid-clip cutaway to her own dashboard, where the HD-radio screen is tuned to ALT 98.7 with the now-playing readout showing "...ar Twin: Loser." Jagwar Twin's "Loser" was on the radio at the exact moment she pulled alongside him. The whole piece is a real-world serendipity gag: the person and the song collide at a red light. The code LINUS PAULING is the decoder, since "Loser" was co-written and co-produced by Matthew Pauling with Roy, so the title pairs the two writers and the code puns Matt's surname onto the chemist Linus Pauling. Its place is documentary rather than esoteric: it certifies the human collaborator behind an early breakthrough track and folds a "the radio was playing our song" coincidence into the maze.
 **Connects to →** [[Loser]] · [[Hall of Mirrors]] · [[Roy]] · [[Subject to Flooding]]
 
 ### 149 · COOL MEXICO
-*Unlocked by IVABETH.ETH on 23 February 2023.*
 
 A ten-second, shaky phone clip filmed from the stage looking out at a massive nighttime outdoor crowd under a tented canopy, warm amber light, thousands of raised phone-lights scattered across the audience: documentary footage of a huge Mexico show. The code YOU KNOW I LOVE YOU THE MOST is a verbatim lyric from "Loser," where the line lands in the couplet "California, Mexico / You know I love you the most," so the code and the footage rhyme exactly. The video is the "Mexico" of that lyric made literal, a real crowd chanting the words back. It sits among the maze's phantoms as a biographical relic of the touring era "Loser" opened up, the artist's-eye view of the audience the whole project keeps turning back toward.
 **Connects to →** [[Loser]] · [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Pattern]]
 
 ### 150 · GENESIS UNDERGROUND
-*Unlocked by @TOYAHANN_ on 25 February 2023.*
 
 Three seconds of a scanned model of Roy's head and neck floating in pure black, the mesh riddled with holes and torn edges that eat into the face and throat, so the captured self looks like it's disintegrating; a thin pendant and dark neck tattoos are just visible. Paired with the code *"Don't be fooled by the internet,"* it reads as a self-portrait as data: the face acquired by the machine, then rendered as a flawed digital ghost, which is exactly why it lives in the PHANTOMS realm. It stages the mythology's recurring fear, that the algorithm captures your face and then treats the copy as more real than you, the *"artificial reflection"* that replaces instead of reflects, with the code as the caption warning you not to mistake that corrupted double for the self. This is the disc from room 26 (*"Genesis underground"*) surfacing a third time, now as a decaying scan of the man himself.
 **Connects to →** [[Concepts/The Upload]] · [[Concepts/The Algorithm]] · [[Concepts/The Aquarium]] · [[Hall of Mirrors]] · [[Sir Lucius]]
 
 ### 151 · GRANDFATHER'S PLANE
-*Unlocked by @TOYAHANN_ on 25 February 2023.*
 
 A short scan of what looks like a military biplane floating against pure black, slowly rotating so its upper wing shows a concentric blue-white-red roundel, a plain red, white and blue pattern. It shares the **Life Changing Connections** shelf with the grandparents, the test-pilot school and the two bridge rooms. Roy spoke of scanning his grandfather’s World War II plane into the Hall. Here, the model reads as a memorial to that family history, a keepsake carried into the archive. The code HEIMDALL names the Norse watchman who guards the Bifrost, the rainbow bridge between worlds, standing eternally at the threshold, which drops the plane into the maze's recurring gate-and-guardian chain. The move is characteristic: a personal object is lifted into an archetype, the ancestor becoming the sentinel who watches the crossing, the pun on "plane / plane" folding aircraft, ancestry, and metaphysical realm into one.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[Concepts/The Pattern]] · [[The Watchers]]
 
 ### 152 · WILLIAM RUDOLPH 1941
-*Unlocked by @TOYAHANN_ on 8 March 2023.*
 
 A three-second macro video of a vintage gold lozenge-shaped pendant fob swaying on a fine chain over blue-and-gold fabric, engraved with a small bell-towered cupola above a banner and the date "1941," ending in a decorative point: the classic form of a 1941 graduation or fraternal pin, a genuine heirloom photographed as the visual key. The code 1941 is a documented puzzle solution, arrived at from a name-and-date riddle and confirmed by the date engraved on the fob itself. Within the maze it belongs to the family-and-heritage cluster (Grandfather Masks, Grandfather's Plane, [[Artifacts - Gallery 1 (1-37)#8 · GRANDMA VI'S COW|Grandma VI's Cow]]), where personal mementos and hidden dates work as birth-and-discovery-year ciphers rather than song content. It is a heritage object with a puzzle attached, biographical rather than lyrical.
 **Connects to →** [[Hall of Mirrors]] · [[Concepts/The Pattern]] · [[Roy]]
 
 ### 153 · FAMILY PORTRAIT
-*On 13 June 2026.*
 
 A three-second looping scan of the framed family photograph itself: a black-and-gold picture frame resting on weathered barnwood, the photo inside showing four people posed beside a white expedition vehicle, with a small gold plaque on the frame reading **CAMEL TROPHY / KALIMANTAN '96.** *(Corrected July 2026: this guide previously described this room as a 1941 gold pendant. The pendant is the separate pair of rooms GRANDFATHER MASKS and WILLIAM RUDOLPH 1941 — whose two video files turn out to be byte-for-byte identical, one object minted twice. The videos settle it.)* Roy was eight in 1996, and the Camel Trophy was the Land-Rover jungle rally across Borneo that famously flooded — which invites, without establishing, a link to the flood-and-Ark layer that runs through everything after. So the code REBIRTH reads over a lived crossing rather than a dead ancestor's keepsake: not the past embalmed, but a kept memory object re-presented digitally, memory made present again.
 **Connects to →** [[Hall of Mirrors]] · [[Roy]] · [[The Circle]] · [[Concepts/Nigredo]] · [[Concepts/The Upload]] · [[Concepts/The Pattern]]
 
 ### 154 · A BRIDGE BETWEEN WORLDS
-*On 11 August 2026.*
 
 **Code:** `Pleiades Honey Bee` · **Realm:** image / unseen
 
