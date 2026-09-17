@@ -14,16 +14,16 @@ Across these older maps the diagnosis holds: reflected light stays faithful whil
 
 ---
 
-> [!map]- The cast, by what their light does<br><span class="jt-drawer-summary">In this reading, each figure is known by what their light does: blesses, keeps, seeks, waits, or counterfeits.</span>
+> [!map]- The cast, by what their light does<br><span class="jt-drawer-summary">In this reading nearly everyone mediates; each figure is known by what their light does: blesses, keeps, seeks, waits, or counterfeits.</span>
 > Before the astronomy, here is the plain map. In this reading nearly everything reflects, so what separates the principals is not whether they reflect but what each does with the light that reaches them:
 >
 > * [[Mary]] carries the faceless blessing that transmits source-light, the ground you look *from*. (The catalogue keeps this pole faceless wherever it surfaces, the angel whose "face was out of sight," the halo where "I didn't see a head," which is exactly why the counterfeit, the "beautiful stranger," has to be so hyper-visible.)
-> * [[Sir Lucius]] catches the light as a protector would and keeps it, bending it into image, dream, and performance and building a nearer light to steer by, so he can hold what he shelters in orbit instead of letting it go home.
+> * [[Sir Lucius]] mediates the light, as Mary and Roy do, but as a protector would he keeps it: he bends it into image, dream, and performance and builds a nearer light to steer by, so he can hold what he shelters in orbit instead of letting it go home.
 > * [[Roy]] is the human vessel trying to return the reflective system to the heart, the one caught in the reflections, working to point them home again.
 > * [[Ballerina Boy]] is the buried spark, the original light gone underground, waiting to be recovered.
 > * [[The System]] is false light, spectacle and flame, brightness that draws the eye while pointing nowhere behind itself: the flame that, in Lucius's moth speech, a moth takes for a mating signal, and in this guide's reading a too-near artificial light standing where the sky should be.
 >
-> Notice the map names each figure by what their light *does* (blesses, keeps, seeks, waits, counterfeits) rather than by which celestial body they're pinned to; Lucius's verb holds the shelter and the hold in one motion. The astronomy below is an optional overlay on top of this, never a replacement for it.
+> Notice the map names each figure by what their light *does* (blesses, keeps, seeks, waits, counterfeits) rather than by which celestial body they're pinned to; Lucius mediates too, and what marks him is the keeping, shelter and hold in one motion. The astronomy below is an optional overlay on top of this, never a replacement for it.
 
 > [!map]- The Sun and Its Hangers-On<br><span class="jt-drawer-summary">Held as Kabbalistic resonance: the Sun is the source, no character owns the Moon, and the cure is reflected light serving its source.</span>
 > One strong frame, drawn from the Kabbalah Roy openly studies and held as resonance, re-maps the same axis onto the sun and the bodies around it. Within the solar-system correspondence the **sun is the local source**, Tiferet, the heart, [[SOL]], while the Moon and planets shine by reflected light.
