@@ -21,7 +21,7 @@ Across these older maps the diagnosis holds: reflected light stays faithful whil
 > * [[Sir Lucius]] catches the light as a protector would and keeps it, bending it into image, dream, and performance and building a nearer light to steer by, so he can hold what he shelters in orbit instead of letting it go home.
 > * [[Roy]] is the human vessel trying to return the reflective system to the heart, the one caught in the reflections, working to point them home again.
 > * [[Ballerina Boy]] is the buried spark, the original light gone underground, waiting to be recovered.
-> * [[The System]] is false light, spectacle and flame, brightness that draws the eye while pointing nowhere behind itself, the false flame the moths mistake for the moon.
+> * [[The System]] is false light, spectacle and flame, brightness that draws the eye while pointing nowhere behind itself: the flame that, in Lucius's moth speech, a moth takes for a mating signal, and in this guide's reading a too-near artificial light standing where the sky should be.
 >
 > Notice the map names each figure by what their light *does* (blesses, keeps, seeks, waits, counterfeits) rather than by which celestial body they're pinned to; Lucius's verb holds the shelter and the hold in one motion. The astronomy below is an optional overlay on top of this, never a replacement for it.
 
