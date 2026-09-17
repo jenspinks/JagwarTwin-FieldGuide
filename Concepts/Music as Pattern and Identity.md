@@ -34,7 +34,7 @@ Roy's working definition of *form* sits right on the hinge. On his consciousness
 
 ## How it works
 
-The clean demonstration — and Roy reaches for it himself — is **"Happy Birthday."** On the same board, a handwritten music-staff cluster asks *"what is music?"*, sketches *"Happy birthday to you / to Mozart / Happy birthday to you,"* and resolves, with a completely straight face, to *"the greatest Song ever written: HBD,"* beside the question *"When was I Born?"* It reads as a gag. It is also, read slowly, precisely the idea.
+The clean demonstration — and Roy reaches for it himself — is **"Happy Birthday."** On the same board, a handwritten music-staff cluster asks *"what is music?"*, sketches *"Happy birthday to you / to [[Influences/Mozart|Mozart]] / Happy birthday to you,"* and resolves, with a completely straight face, to *"the greatest Song ever written: HBD,"* beside the question *"When was I Born?"* It reads as a gag. It is also, read slowly, precisely the idea.
 
 Because look at what "Happy Birthday" actually does. It is:
 
@@ -63,8 +63,8 @@ And it's why [[Ballerina Boy]] belongs here as the tender case. The buried child
 - **Room 30, KHAWAH ([[Hall of Mirrors]])**, the *"what is music?"* sheet itself, minted as an artifact. On the same page Roy copies a later completed form of Plato's World-Soul Lambda and captions it *"Extended continuous geometric proportion,"* and the caption is the answer working: read across, every completed row of the figure steps by 3:2, the perfect fifth, so the page's own arithmetic replies to its own question. Read this way, music is the horizontal relation between the two ways the One multiplies, harmony as what the two diverging number-legs sound like when compared at the same depth: the impersonal law of [[Concepts/The Pattern]] caught at the exact moment it becomes something a person can hear. The Hall gives the figure two more identities but only one more underlying drawing: room 48, Lambdoma, is separate; room 93, Forbidden City, is a crop of the KHAWAH sheet with the binding means circled. Full readings live in [[Artifacts - Gallery 1 (1-37)|Gallery 1]], [[Artifacts - Gallery 2 (38-74)|Gallery 2]], and [[Artifacts - Gallery 3 (75-112)|Gallery 3]].
 - **[[The Circle]]** — the founding myth as this idea's engine: the song *hidden inside the wings,* recovered not by getting but by [[The Wise One|remembering]]. The universal pattern that becomes personal identity the moment it's re-membered.
 - **[[Ballerina Boy]]** — the buried song / buried light; a self hidden inside a life, and the arc's whole motion is the return to sing it back up.
-- **[[Sir Lucius]] / The Circle (Lucius Version)** — the inversion: the shared tune kept, the "you" pulled out, the self sung back to sleep (*"I'm dreaming"*).
-- **The catalogue's remembrance chain** — *"do you know who you are?"* (Soul Is A Star) and *"do you remember? / take my hand, I'll help you remember"* (tomorrow / ANGLE OF ETERNITY) restate the same recovery-by-remembrance in song after song.
+- **[[Sir Lucius]] / [[Albums & Eras/Lucius Lullaby/The Circle (Lucius Version)|The Circle (Lucius Version)]]** — the inversion: the shared tune kept, the "you" pulled out, the self sung back to sleep (*"I'm dreaming"*).
+- **The catalogue's remembrance chain** — *"do you know who you are?"* ([[Albums & Eras/33/Soul Is A Star|Soul Is A Star]]) and *"do you remember? / take my hand, I'll help you remember"* (tomorrow / ANGLE OF ETERNITY) restate the same recovery-by-remembrance in song after song.
 
 ## Connections
 

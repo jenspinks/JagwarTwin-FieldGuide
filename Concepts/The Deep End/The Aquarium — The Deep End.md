@@ -9,7 +9,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 # The Aquarium — The Deep End
 
 > [!gist] The heavy machinery behind [[The Aquarium]]
-> This is the dense floor: the long lineage of total-enclosure images, the Gnostic placement, the Gurdjieff mechanics, the astrological pun, and the figure at the inner edge of the glass. Dense and speculative by design. Everything here is framework or labeled reading, resonances the guide permits, never claims the work asserts. Start at [[The Aquarium]] if you have not.
+> This is the dense floor: the long lineage of total-enclosure images, the Gnostic placement, the [[Influences/Gurdjieff|Gurdjieff]] mechanics, the astrological pun, and the figure at the inner edge of the glass. Dense and speculative by design. Everything here is framework or labeled reading, resonances the guide permits, never claims the work asserts. Start at [[The Aquarium]] if you have not.
 
 ---
 
@@ -30,7 +30,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > Read through the Gnostic vocabulary the project openly engages, the Aquarium is one named form of the **false world-system**, the *Kenoma*: a managed prison of spiritual sleep, maintained by Archontic mediation, which in modern dress is the feed. It sits in a family with [[The Circus]], the database of [[Online]], and the fog, all versions of a counterfeit reality kept running by intermediaries, with the trapped spark inside carrying a transcendent origin it can't quite remember. A framework correspondence in a named tradition, not an identity and not a claim the work asserts. See [[Gnosticism - The World as Trap]].
 
 > [!mask]- The figure at the glass
-> A speculative drawer, flagged as such. In Alice Bailey's Theosophical vocabulary, which the project publicly engages elsewhere, the board's *"planetary dream"* rhymes with **maya and glamour**: the world-illusion mistaken for the world. And that tradition supplies a figure for the moment the glass first turns visible: [[The Dweller on the Threshold]], everything the self has accumulated and refused to look at, waiting at the inner edge of the boundary, met only when waking begins. On this reading, the first thing the fish sees when it finally sees the glass is its own reflection in it. A resonance in an attributed tradition, nothing more; the corpus stages the meeting, it never names the doctrine.
+> A speculative drawer, flagged as such. In [[Influences/Alice Bailey|Alice Bailey]]'s Theosophical vocabulary, which the project publicly engages elsewhere, the board's *"planetary dream"* rhymes with **maya and glamour**: the world-illusion mistaken for the world. And that tradition supplies a figure for the moment the glass first turns visible: [[The Dweller on the Threshold]], everything the self has accumulated and refused to look at, waiting at the inner edge of the boundary, met only when waking begins. On this reading, the first thing the fish sees when it finally sees the glass is its own reflection in it. A resonance in an attributed tradition, nothing more; the corpus stages the meeting, it never names the doctrine.
 
 > [!feed]- Back up for air
 > [[The Aquarium]] · [[The Dweller on the Threshold]] · [[Gnosticism - The World as Trap]] · [[The Circus — The Deep End]]

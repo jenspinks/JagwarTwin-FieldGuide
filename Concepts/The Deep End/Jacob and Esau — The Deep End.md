@@ -35,7 +35,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!reading]- Things in fours (why it locks)
 > The character-scale reading earns its keep by agreeing with three other readings at three other scales, all pointing at the same verdict: not conquest, right relation.
-> 1. **Marking scale.** El Roi: the shadow *seen and held*, not condemned, which lands at Peniel.
+> 1. **Marking scale.** [[Symbols/El Roi|El Roi]]: the shadow *seen and held*, not condemned, which lands at Peniel.
 > 2. **Single-labor scale.** The Leo labor's lion's skin in [[The Labors of Hercules]]: the beast's power *worn*, repurposed under the soul, not killed and discarded.
 > 3. **Labors-arc scale.** Soul versus Identification: the apparent duel is the illusion, *the enemy was never the twin but the mistaking of a half for the whole.*
 > 4. **Character scale.** Jacob and Esau itself: embrace, then two nations walking on as two.
@@ -48,7 +48,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > [!reading]- The cross-song thread (the guide's own stitching)
 > A speculative thread this guide runs across the catalogue; none of it is asserted as design.
 > * **[[It's Your Time]]** (33, 2022): *"a man is like an in-between / animating Heaven and Hell."* Not the merger thesis but the held-polarity one, rendered as ontology: a person as the living middle that animates both poles and slays neither.
-> * **[[Move To You]]** (Subject to Flooding, 2018): *"it moves to me, I move to you."* Genesis 33:4 in miniature, reconciliation as *mutual* motion: Esau runs, Jacob bows, both move, the distance closes.
+> * **[[Move To You]]** ([[Albums & Eras/Subject to Flooding/Subject to Flooding|Subject to Flooding]], 2018): *"it moves to me, I move to you."* Genesis 33:4 in miniature, reconciliation as *mutual* motion: Esau runs, Jacob bows, both move, the distance closes.
 > * **[[Roy Voice Memo - S1 Arrowhead]]** (Subject to Flooding, 2018): forty-two seconds of the collaborator S1 talking Roy down off a fear, dismantling every practical worry until only one thing is left standing: *"it's just the fear of… of when it happens."* Read forward, and this is the most speculative link in the thread, it rhymes with Jacob at the ford: fear of the crossing, not the brother; of transformation, not failure. Possibly the earliest documented instance of the dread the catalogue later builds its monsters from, caught before it had a mythological costume.
 >
 > The Interview's Bargain beat belongs to this thread too, and one more beat with it: the closest the series comes to Esau's *me also* is the one thing Lucius cannot perform. When the Song of Love finally plays, he gets agitated, clears the room, then stays and lets it finish, unsettled. Read gently, that is the passed-over twin left alone with the one blessing that never came to him.

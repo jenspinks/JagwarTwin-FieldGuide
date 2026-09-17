@@ -22,14 +22,14 @@ Roy runs the @JagwarTwin account on X (Twitter) as a near-daily stream of one-li
 
 - *"The truth is a spectrum but a lie is a lie."* — X · Jun 6, 2026. The ethic under the whole [[Sir Lucius]] doctrine: truth can be shaded and bent, but there's a hard floor a lie drops through.
 - *"Truth may walk the earth in an unlikely disguise."* — X · May 28, 2026. The companion line — deceptive truth, truth *in costume*.
-- *"The brightest lights cast the deepest shadows."* — X · Apr 10, 2026. The Light-Bearer casts the shadow; see [[Sir Lucius]].
+- *"The brightest lights cast the deepest shadows."* — X · Apr 10, 2026. [[Concepts/The Light-Bearer|The Light-Bearer]] casts the shadow; see [[Sir Lucius]].
 - *"I am the shore. I am not the wave."* (with *"I'm the one who stays."*) — X · Apr 10, 2026. The stable self against the transient; the one who stays.
 - *"Nothing is evil in the beginning."* — X · Apr 4, 2026. Innocent origin; evil is acquired, not native — the Lucifer-archetype reading of [[Sir Lucius]].
 - *"A good boy does not make a good man."* — X · Mar 12, 2026. The "good boy" wound; see [[Ballerina Boy]].
 - *"Everyone's a guru. We are now fully in the aquarium."* — X · Apr 14, 2026. Roy's rueful version of the line his shadow spits as contempt (below). See [[Concepts/The Aquarium]].
 - *"The mind is the slayer of the real. We must slay the slayer."* — X · Mar 29, 2026. Quoting Blavatsky; the mind ([[Sir Lucius]]) as the thing to be slain — meaning integrated, not killed.
 
-Roy names his own influences in the same stream — Gurdjieff, Blavatsky, da Vinci, Alice Bailey — which is why the guide treats those frameworks as *read*, not imposed.
+Roy names his own influences in the same stream — [[Influences/Gurdjieff|Gurdjieff]], Blavatsky, da Vinci, [[Influences/Alice Bailey|Alice Bailey]] — which is why the guide treats those frameworks as *read*, not imposed.
 
 *Account:* [@JagwarTwin on X](https://x.com/JagwarTwin) (the running feed; individual post permalinks not all preserved).
 
@@ -55,7 +55,7 @@ The 2026 rollout staged the whole Roy-versus-Lucius conflict in public, and the 
 
 - *"sir lucius for president 🖤"* (with a clip captioned *"I might run for president"*) — X · Nov 17, 2025.
 - *"Leave sir lucius alone ✋🖤"* — X · Nov 26, 2025. The defend-the-villain inversion, months before the accounts flipped.
-- *"welcome to the circus clowns 🎪"* / *"welcome to the BMRC 🎪"* — the Circus-and-clowns framing carried across the merch and event captions of the era. See [[Welcome to the Circus]].
+- *"welcome to the circus clowns 🎪"* / *"welcome to the [[Characters/Supporting Cast/BMRC|BMRC]] 🎪"* — the Circus-and-clowns framing carried across the merch and event captions of the era. See [[Welcome to the Circus]].
 - **STOP SIR LUCIUS.** At release the campaign reversed. *"We must stop him."* — X · Mar 26, 2026, over a real **STOP SIR LUCIUS** flyer. The same day: a photo of an **LA freeway overpass banner** reading STOP SIR LUCIUS, and Lucius's own retort in a red coat — *"It can't be stopped. 'lucius lullaby' is out everywhere."* The flyers and banner were physically posted around Los Angeles; the campaign was real, not metaphor.
 - **The one-take masterpiece.** The *Not Your Homie* visualizer dropped captioned *"one take. no edit. sir lucius says you're all welcome for this masterpiece"* — the whole persona in one tag: a throwaway declared a masterpiece, and you're welcomed for it before you've thanked anyone. *(Visualizer caption; live URL not captured.)*
 

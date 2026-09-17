@@ -58,7 +58,7 @@ That is the surface. The drawers go one card, and one reading, deeper at a time.
 > [!door]- Call now, operators are standing by
 > The seeker-lines had back-ends. The phone number on the 2020 Happy Face microsite deathofmygeneration.fun, "(313)-251-4932 / ARE YOU CONTENT? CALL NOW," was independently cracked years later as a [[The Hall of Mirrors|Hall of Mirrors]] room code: the digits-only string unlocks the ARG's "ARE YOU CONTENT?" poster room. So the are-you-content device runs across three real layers of the project: the 2020 card, the 2020 microsite, and the web3 ARG, with a working unlock buried in a years-old phone gag.
 >
-> And it wasn't the only one. Down to You's "what is it that you seek?" is itself a solved Hall of Mirrors code, tied to a minted artifact for the released track, and it is the site meta-description of the recovered predecessor microsite thechaosorder.academy. Both early-wave seeker-questions turn out to have had a live door behind them the whole time. The bit was load-bearing from the start.
+> And it wasn't the only one. Down to You's "what is it that you seek?" is itself a solved [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] code, tied to a minted artifact for the released track, and it is the site meta-description of the recovered predecessor microsite thechaosorder.academy. Both early-wave seeker-questions turn out to have had a live door behind them the whole time. The bit was load-bearing from the start.
 
 > [!reading]- The fine print knew the story early
 > Read in sequence, the cards were carrying the project's core doctrines years before the songs and characters that later made those doctrines famous. This is a strong reading, not a documented plan, but the dates are real:

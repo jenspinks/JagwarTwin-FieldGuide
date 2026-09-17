@@ -15,7 +15,7 @@ Kept in front as readings, not verdicts. You don't need a word of any of this to
 
 ## The traditions
 
-- [[Kabbalah - The Tree of Life]] — a single source of light and a row of vessels that only reflect it; the shape of Roy, Lucius, and Mary.
+- [[Kabbalah - The Tree of Life]] — a single source of light and a row of vessels that only reflect it; the shape of Roy, Lucius, and [[Characters/Stars/Mary|Mary]].
 - [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the oldest version of the project's most public idea: the world as managed illusion, the self a buried spark, the way out remembrance.
 - [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the opposite of the trap: one coherent law repeating at every scale, whose maxim Roy printed on a music video years early.
 - [[Concepts/The Sacred Truths/Theosophy]] — the cosmos as a Great Breath, worlds exhaled and drawn back; *"the mind is the slayer of the real,"* and what Roy does with that line.

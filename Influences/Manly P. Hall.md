@@ -14,14 +14,14 @@ aliases:
 
 > **One-line reading.** Hall is the man who put the whole Western mystery tradition between two covers — and in this guide he's the named handle on a door the rest of the site leaves shut. If you insist on going deeper, start here. And mind the drop.
 
-Most of the thinkers in this folder gave the work a single idea: Jung the shadow, Gurdjieff the alarm clock, Bailey the labors. Hall is different. He didn't hand the catalogue one concept; he's the reason so many of the others sit on the same shelf in the first place. In 1928, at the almost indecent age of twenty-seven, he published *The Secret Teachings of All Ages* — a folio the size of a coffee table that gathered Kabbalah, Hermeticism, alchemy, the tarot, Pythagorean number-lore, Rosicrucianism, Freemasonry, and the old mystery schools into one enormous, gorgeously illustrated survey. It is the great compiler's book: not the source of the currents, but the map room where you can finally see them all at once.
+Most of the thinkers in this folder gave the work a single idea: Jung the shadow, [[Influences/Gurdjieff|Gurdjieff]] the alarm clock, Bailey the labors. Hall is different. He didn't hand the catalogue one concept; he's the reason so many of the others sit on the same shelf in the first place. In 1928, at the almost indecent age of twenty-seven, he published *The Secret Teachings of All Ages* — a folio the size of a coffee table that gathered Kabbalah, Hermeticism, alchemy, the tarot, Pythagorean number-lore, Rosicrucianism, Freemasonry, and the old mystery schools into one enormous, gorgeously illustrated survey. It is the great compiler's book: not the source of the currents, but the map room where you can finally see them all at once.
 
 Roy has him in the lineage. In December 2023 he dropped a Manly P. Hall lecture — *Race for the Moon* — into the "influences" channel of his own community, no comment, just the link, the way you hand someone a book you assume they'll get around to. So Hall isn't a frame this guide imported; he's a name Roy shelved himself. What this page does *not* claim is that Roy cites *The Secret Teachings* chapter and verse. He doesn't. The honest version is smaller and more interesting: Roy demonstrably works in exactly the kit Hall compiled — gematria, tarot, Masonic and Pythagorean symbolism, the "magic of words" — and Hall's folio is the single most likely place a curious twenty-first-century artist meets all of that in one sitting. Named influence, yes. Master key, no.
 
 ## At a glance
 
 - **In one line** — the twentieth century's great compiler: one man, one enormous book, and the whole Western esoteric tradition finally gathered in one place.
-- **Where he sits in the guide** — at the threshold. The site names four traditions out loud in [[Concepts/The Sacred Truths/The Sacred Truths]] (Kabbalah, Gnosticism, Hermeticism, Theosophy) and deliberately leaves the deeper secret-society material — Rosicrucians, the lodges, the mystery schools — behind a closed door. Hall is the name on that door.
+- **Where he sits in the guide** — at the threshold. The site names four traditions out loud in [[Concepts/The Sacred Truths/The Sacred Truths]] (Kabbalah, Gnosticism, Hermeticism, [[Concepts/The Sacred Truths/Theosophy|Theosophy]]) and deliberately leaves the deeper secret-society material — Rosicrucians, the lodges, the mystery schools — behind a closed door. Hall is the name on that door.
 - **The receipt** — Roy shared a Manly P. Hall lecture (*Race for the Moon*) in his "influences" channel, December 2023. That grounds Hall as an influence; it does not make *Secret Teachings* a per-song decoder ring.
 - **The warning label** — the deeper you go into a system this total, the easier it is to mistake a pattern you *brought* for one you *found*. Hall's book is a doorway, not a proof. This page keeps that line bright.
 
@@ -29,7 +29,7 @@ Roy has him in the lineage. In December 2023 he dropped a Manly P. Hall lecture 
 
 *The Secret Teachings of All Ages* is subtitled, with period grandeur, *An Encyclopedic Outline of Masonic, Hermetic, Qabbalistic and Rosicrucian Symbolical Philosophy* — which is really just Hall listing the drawers he opened. Under one roof he set:
 
-- **Kabbalah** — the Tree of Life, the Sephiroth, the single source and its descending vessels. See [[Kabbalah - The Tree of Life]] for the shape this gives Roy, Lucius, and Mary.
+- **Kabbalah** — the Tree of Life, the Sephiroth, the single source and its descending vessels. See [[Kabbalah - The Tree of Life]] for the shape this gives Roy, Lucius, and [[Characters/Stars/Mary|Mary]].
 - **Hermeticism** — the Emerald Tablet, *as above, so below*, the mind of the cosmos reflected in the mind of the person. See [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]].
 - **Alchemy** — not turning lead into gold for the bank, but the transmutation of the operator; the black stage before the gold, dissolution before coagulation.
 - **The tarot** — the Major Arcana read as a ladder of initiation rather than a party trick, the same way the Strength card sits behind the Leo labor in [[Concepts/The Labors of Hercules]].

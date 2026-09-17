@@ -123,7 +123,7 @@ The album-level count is the skeleton; the flesh is a handful of songs where the
 > - **Collective consciousness / "we, not me"** — Roy's 2018-onward framing of Jagwar Twin as a collective entity (*"It's us, we, not me and we are all Losers"*). This is grounded, and it destabilizes the grammatical "I": it's never simply solo-Roy doing the singing, which is part of why the speaker won't sit still.
 > - **Neoplatonism** — the One and its emanations/images; *epistrophe,* the turning-back to the source. The resonance under [[Concepts/Source vs Reflection]].
 > - **Lacan's mirror stage** — the "I" constituted through an image that is also *other,* the idealized rival-double — maps onto the I/you-as-mirror grammar. A resonance, not a claim that Roy sources Lacan.
-> - **The pre-pronoun breath** — Kabbalistic reflected/lunar light, Genesis *ruach,* Theosophy's "Great Breath" — carry the *SOL* end-state: the voiced-but-wordless breath where person hasn't formed yet (or has dissolved back). Framework-attributed.
+> - **The pre-pronoun breath** — Kabbalistic reflected/lunar light, Genesis *ruach,* [[Concepts/The Sacred Truths/Theosophy|Theosophy]]'s "Great Breath" — carry the *SOL* end-state: the voiced-but-wordless breath where person hasn't formed yet (or has dissolved back). Framework-attributed.
 
 ## Source notes
 

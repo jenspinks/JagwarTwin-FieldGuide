@@ -28,7 +28,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > [!cast]- Hey, you look familiar (Sophia, and who she rhymes with)
 > Gnostic **Sophia**, divine wisdom, reads as the catalogue's feminine faculty of remembrance, sharing a function with [[Mary]], the Wise One, and the Kabbalistic Shekhinah. But Sophia is richer than a rememberer: in the classic myths she is also implicated in the rupture itself, her reaching-beyond is what spills the lower order and its Demiurge into being, so she sits on both sides of the break at once, the wisdom that fractured and the wisdom that restores.
 >
-> The faceless angel of [[Weirdness]] (*"Stop pretending… you were born to shine"*) reads as the Sophia-function at work: she cancels the false information suppressing the real. The Wise One of [[The Circle]], who *"remembered she once held the string,"* reads as that wisdom recovering the thread.
+> The faceless angel of [[Weirdness]] (*"Stop pretending… you were born to shine"*) reads as the Sophia-function at work: she cancels the false information suppressing the real. [[Characters/Stars/The Wise One|The Wise One]] of [[The Circle]], who *"remembered she once held the string,"* reads as that wisdom recovering the thread.
 >
 > The critical guard: this is a family resemblance, not an equation. Marian vessel, Gnostic Sophia, Kabbalistic Shekhinah are nearby figures in three languages, and the Wise One's defining act, remembrance, leans more Sophia and Shekhinah than conventional Mary. Do not collapse the three into one. And the live question the resemblance opens is the good one: is the feminine presence only the rescuer here, or also the concealed source from which division became possible? The work leaves it open, and so does this guide.
 
@@ -46,13 +46,13 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!reading]- Where else the trap turns up (deep cuts)
 > The frame recurs well beyond the headline songs, at resonance-tier throughout:
-> * **[[Loser]]** (Subject to Flooding, 2018): *"I think the world's gone insane,"* the speaker naming the world insane in his mouth, which is the false-world diagnosis exactly; TV and radio doing the flattening work; *"maybe I'm bad in my brain"* reads as the soul mistaking the system's defect for its own. And the *"la-la-la-la"* cheer rides in as a Trojan horse: the diagnosis is unbearable, so it arrives in a nursery-rhyme cadence, sedation and sincerity in the same breath.
+> * **[[Loser]]** ([[Albums & Eras/Subject to Flooding/Subject to Flooding|Subject to Flooding]], 2018): *"I think the world's gone insane,"* the speaker naming the world insane in his mouth, which is the false-world diagnosis exactly; TV and radio doing the flattening work; *"maybe I'm bad in my brain"* reads as the soul mistaking the system's defect for its own. And the *"la-la-la-la"* cheer rides in as a Trojan horse: the diagnosis is unbearable, so it arrives in a nursery-rhyme cadence, sedation and sincerity in the same breath.
 > * **[[Superhuman]]**: reads as the anthem of those fully integrated into the machine, suffering converted to spectacle and survival renamed superhuman.
 > * **[[Dream - Dream]]**: an awakening impulse, the soul sensing captivity inside a false ordering system.
 > * **[[Pay Attention (feat. little luna)]]**: consciousness held captive by directing awareness outward.
 > * **[[Moths to the Flame]]**: Lucius's profane-altar gesture, lighting the menorah from his cigarette and blowing it out, reads as the counterfeit desecrating the sacred light.
-> * **[[Online]]**, one level deeper and flagged as speculation: a frozen Nigredo, dissolution without recombination, in the alchemical register; and the database as surveillance-without-consent, a speculative rhyme with Hermetic Vibration literalized. Held loosely, both.
-> * **[[The Watchers]]**: the Gurdjieff "wake up" axis.
+> * **[[Online]]**, one level deeper and flagged as speculation: a frozen [[Concepts/Nigredo|Nigredo]], dissolution without recombination, in the alchemical register; and the database as surveillance-without-consent, a speculative rhyme with Hermetic Vibration literalized. Held loosely, both.
+> * **[[The Watchers]]**: the [[Influences/Gurdjieff|Gurdjieff]] "wake up" axis.
 
 > [!reading]- Make 'em laugh, keep 'em calm (Online's comedy as sedation)
 > The trap in [[Online]] is funny on purpose, and on this reading the comedy is the mechanism, not the decoration: the song narrates total captivity and defuses every horror with a joke, which is exactly how an aquarium keeps its fish calm. Make the trap a laugh and nobody tries the glass. Three beats carry it, all of them wordplay readings, held as such:
@@ -88,7 +88,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 > [!map]- Roy's bookshelf (the influences that key the frame)
 > These carry more weight than the shelf above because they arrive in Roy's public materials, which is what licenses the correspondences at all:
 > * **Gurdjieff / the Fourth Way**: his single most-named public influence, the source of the "wake up" frame, the back-of-hand tattoo, and the quote-posts: *"Man is asleep; he must wake up"*; *"You can never awaken using the same system that put you to sleep in the first place"* (load-bearing: the system that produces the sleep cannot produce the waking). Four-plus Gurdjieff quote-posts in the October 2025 launch window alone.
-> * **Alan Watts**: *you are it*, the universe experiencing itself, the project's gnosis in three words. The MAGIK ARG password chain (you are it → heart → alcyone → davar) is built on it; the center of the maze is you. (Verified public, already-solved strings only.)
+> * **Alan Watts**: *you are it*, the universe experiencing itself, the project's gnosis in three words. The [[Albums & Eras/Singles & EPs/MAGIK|MAGIK]] ARG password chain (you are it → heart → alcyone → davar) is built on it; the center of the maze is you. (Verified public, already-solved strings only.)
 > * **Rudolf Steiner**: *"The world is illusion, but illusion is not nothing. It is a revelation,"* a quote-card Roy posted. The redemptive counterweight, and the falsifier's best friend.
 > * **Richard Bach's *Illusions***, **Blavatsky** (*"Everything is illusion (Maya) outside of eternal truth"*), **Robert Anton Wilson's *Prometheus Rising***: the malleable-illusion cluster Roy publicly names.
 > * **Joni Mitchell** (a confirmed 33-era influence): self-described *"Buddhist-Gnostic hybrid,"* *"of the God-is-within school."* It rhymes with the kingdom-within thread, but the quotes are by-proxy from secondary sources, so they stay at resonance-tier until the underlying interviews are confirmed.

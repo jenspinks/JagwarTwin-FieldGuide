@@ -26,7 +26,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 >
 > The worked example for the bottom rung: Wu-Tang's *"C.R.E.A.M."* (1993) and its spelled hook are ruled out as a source for the spelled *"D-R-E-A-M"* in [[Dream - Dream]]. No credit, no statement, no cadence match. It is kept out precisely so it can't launder its way in and dilute the solid Mercer reading, and it is logged one rung up as a co-participant in the same tradition: spelling-a-word-out as a shared gesture of passing a song down. **Co-participant is not a source.**
 >
-> And a live example of how loosely the *tempting resemblance* rung should be held: a coiled, minor-key classical dread you might swear you hear echoed in the *Bad Feeling / Happy Face* register. No credit, no statement, nothing but a nice rhyme, which is exactly the point of the rung. Hold it, and be ready to drop it the second nothing else backs it up.
+> And a live example of how loosely the *tempting resemblance* rung should be held: a coiled, minor-key classical dread you might swear you hear echoed in the *Bad Feeling / [[Albums & Eras/33/Happy Face|Happy Face]]* register. No credit, no statement, nothing but a nice rhyme, which is exactly the point of the rung. Hold it, and be ready to drop it the second nothing else backs it up.
 
 > [!map]- Same Well, Different Buckets (the shared-tradition census)
 > The cases where the work and the comparison both drink from the same old well, no transmission claimed in either direction:
@@ -61,7 +61,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 > [!question]- Loose Threads (the leads still dangling)
 > A method built on provenance is only as honest as its list of unfinished provenance:
-> * **The "Essex" credit.** *"Good Day"* lists a co-writer credited only as *Essex*, so far unidentified: possibly a real collaborator, possibly an untraced interpolation source surfacing in the credit field. Logged, not resolved.
+> * **The "Essex" credit.** *"[[Albums & Eras/Subject to Flooding/Good Day|Good Day]]"* lists a co-writer credited only as *Essex*, so far unidentified: possibly a real collaborator, possibly an untraced interpolation source surfacing in the credit field. Logged, not resolved.
 > * **Which Vaughan artifact.** On *Dream/Dream*, whether the track samples Vaughan's exact 1957 *Mister Kelly's* take or interpolates the Mercer composition is not pinned. The credit proves the lineage, not which artifact was lifted.
 > * **The *Precious Time* scrap.** The working identification, that the sampled bit is Vaughan's spoken pre-vocal chatter rather than another element, still wants a by-ear pin against the *Mister Kelly's* tape.
 > * **Musical or lyrical Joni.** On [[Soul Is A Star]], the cowrite and blessing are grounded, but whether the borrowed element is musical or lyrical is unconfirmed; the song doesn't reproduce *Woodstock*'s signature lines, which tilts it musical.

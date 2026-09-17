@@ -26,7 +26,7 @@ That is the surface, and it stands on its own. The drawers take it one layer dee
 ---
 
 > [!map]- Wake up, it's on his hand
-> The "wake up" frame is grounded before any lens touches it. Gurdjieff is Roy's single most-named public influence: the quote-posts run *"Man is asleep. He must wake up,"* and WAKE UP is tattooed on the back of his hand. The venue bio gives us the *"way out of this collective fog."* And the enclosure gets named in his feed in earnest: *"Everyone's a guru. We are now fully in the aquarium."*
+> The "wake up" frame is grounded before any lens touches it. [[Influences/Gurdjieff|Gurdjieff]] is Roy's single most-named public influence: the quote-posts run *"Man is asleep. He must wake up,"* and WAKE UP is tattooed on the back of his hand. The venue bio gives us the *"way out of this collective fog."* And the enclosure gets named in his feed in earnest: *"Everyone's a guru. We are now fully in the aquarium."*
 >
 > Hold the line where it actually sits: the posture, wake from the fog, the world as an aquarium, is Roy's, in his public materials. The specifically Gnostic machinery, Demiurge, archons, Kenoma, pneuma, is a lens the work fits, not a doctrine he has declared. Everything below grades itself accordingly.
 

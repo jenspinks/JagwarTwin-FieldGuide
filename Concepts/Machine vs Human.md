@@ -38,7 +38,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 >
 > And the machine scaled to society gets its authorship confessed inside the work: in [[The Interview]] EP3, Lucius confirms [[Welcome to the Circus]] is his, "the algorithm baby."
 >
-> Two of the thread's traditions are also on the record as public acts: Roy posted Gurdjieff's "Man is a machine" quote-card (Gurdjieff is his most-named influence on X), and set a page of Jung's *Collected Works* Vol. 18 to [[The Watchers]] on his Instagram story. He posted the books; what this guide does with them lives in the Deep End.
+> Two of the thread's traditions are also on the record as public acts: Roy posted [[Influences/Gurdjieff|Gurdjieff]]'s "Man is a machine" quote-card (Gurdjieff is his most-named influence on X), and set a page of Jung's *Collected Works* Vol. 18 to [[The Watchers]] on his Instagram story. He posted the books; what this guide does with them lives in the Deep End.
 
 > [!lore]- As above, so below
 > Here is a key that unlocks readings across the catalogue. "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* title card, and the Kybalion's seven Hermetic principles are transcribed in full on the I'm 33 board — public years before anyone decoded it.
@@ -75,7 +75,7 @@ That is the surface, and it stands on its own. The drawers below go one reading 
 > [!receipts]- Sources and confidence
 > Grounded in public acts: the Chaplin sample on [[Superhuman (Interlude)]] is verbatim, and Apple Music's composer field credits Charles Chaplin; "the mind divorced from the heart" is published LOOP-era phrasing; "the algorithm baby" is on camera in [[The Interview]] EP3; "the Algorithm" is Roy's diagnostic term (his Manifesto's *feeling → algorithm* substitution, echoed by the board's Kybalion Rhythm line); the *El Roy* signature and the *El Roi* throat marking are public; "AS ABOVE SO BELOW" is printed on the 2021 *Down to You* card and the Kybalion is transcribed on the I'm 33 board; the spider-web framing of [[Online]] is public commentary; the Gurdjieff quote-card and the Jung page are public posts.
 >
-> Strong readings: the severing, not the machine, as the antagonist; the single continuous escalation from Chaplin to Lucius; the as-above-so-below reading of machine-vs-human as heart-and-mind one scale up; surveillance as the counterfeit of El Roi; Lucius as the machine's best student rather than the machine.
+> Strong readings: the severing, not the machine, as the antagonist; the single continuous escalation from Chaplin to Lucius; the as-above-so-below reading of machine-vs-human as heart-and-mind one scale up; surveillance as the counterfeit of [[Symbols/El Roi|El Roi]]; Lucius as the machine's best student rather than the machine.
 >
 > Framework, attributed to the traditions and never to stated intent: the Tree of Life axis, the Gnostic Demiurge, the biblical-Flood title reading, the kingdom-within substrate, all held in [[Machine vs Human — The Deep End]]. The Flood reading in particular is this guide's position; it has no public confirmation.
 >

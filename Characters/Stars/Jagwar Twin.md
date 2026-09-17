@@ -83,7 +83,7 @@ Keep the register on Lucius wide while you sit with that, because the page will 
 
 What is unusual about Jagwar Twin is that Roy never pretends the mythology is anything but mythology. He builds it in plain sight and says so. *"I make my best attempts to have, like, kind of a modern mythology approach,"* he has said, and a collaborator, Mali-Koa, names it right back to him: *"The Jaguar's twin mythology! That's the name of the record."* That exchange is about as close to an on-record confirmation as you get that the lore is the point, by design.
 
-The de-centering is the whole ethic, and it scales all the way up. In the founding myth the fallen figure is not one man, it is everyone: the child of God *is* the fallen son, going to Woodstock to get his soul free, and he is also Jesus, Mozart, Roy, all of us. That is the move stated at cosmic size. The private story is a public mirror on purpose. Releasing the EP *The Circle: The Great Jagwar Myth* in February 2023, Roy said the song *"feels like the story of Jagwar Twin but, in many ways, the story of all of us,"* which is the same de-centering said plainly.
+The de-centering is the whole ethic, and it scales all the way up. In the founding myth the fallen figure is not one man, it is everyone: the child of God *is* the fallen son, going to Woodstock to get his soul free, and he is also Jesus, [[Influences/Mozart|Mozart]], Roy, all of us. That is the move stated at cosmic size. The private story is a public mirror on purpose. Releasing the EP *The Circle: The Great Jagwar Myth* in February 2023, Roy said the song *"feels like the story of Jagwar Twin but, in many ways, the story of all of us,"* which is the same de-centering said plainly.
 
 The human size of it is on the record too. *The Song of the Sun & the Moon,* a *33*-era track Roy released as a one-off genesis drop in 2022, was written, per its release note, alone in the woods near Ithaca with a small acoustic guitar, just after a major label dropped him: *"I had been largely unsuccessful in terms of making a living as an artist, but I felt a peace about it all in that moment. I was proud of myself."* He calls it *"a lullaby to myself, from myself."* The grand mythology and the quiet origin-beat are the same project.
 
@@ -131,7 +131,7 @@ A handful of images recur across everything Jagwar Twin makes, and they are wort
 - **The Twin / duality:** light and dark, Gemini, two-in-one, the structural reason the frame can hold opposed voices.
 - **[[The Circle]]:** the founding myth and organizing doctrine, the place the [[The Thread|string]] (*"a world tied on a string"*) originates.
 - **[[Concepts/The Circus]]:** the Circle inverted, spectacle, *"the digital circus thing,"* a phrase that is in Roy's vocabulary. Its whole product is sameness sold as individuality, different paint jobs on the same soul.
-- **The Mask / Happy Face:** the minimum-viable smile, scaled across a gridded globe and eventually hardened into jester paint.
+- **The Mask / [[Albums & Eras/33/Happy Face|Happy Face]]:** the minimum-viable smile, scaled across a gridded globe and eventually hardened into jester paint.
 - **Tell-A-Vision:** the television-as-*tells-a-vision* pun, confirmed as official visual language by the project's own merch (the "Tell-A-Vision Tee"). The screen that tells you a vision, a tidy thesis for a project obsessed with mediated images.
 
 ## Relationships

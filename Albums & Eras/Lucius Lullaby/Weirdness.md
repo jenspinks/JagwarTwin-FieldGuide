@@ -118,7 +118,7 @@ A few claims that cut across the whole song.
 > Weirdness's *your → my* is one instance of a catalogue-wide device: a [[Concepts/The Speaker Problem|deliberately unfixable second person]] (also in [[LOOP]], Bad Feeling, [[Bounce]], [[Ballerina Boy]]). The pronoun that keeps sliding enacts, at the level of grammar, the grounded doctrine that *humans are mirrors for each other* — and it's why the outro's reversion to *"your"* refuses to settle into a single meaning. (See [[Concepts/Duality]] for the pronoun-shift as integrated grammar.)
 
 > [!note]- Advanced reading — the dedication that became a benediction
-> A direction-of-travel finding on the faceless feminine. In 2018 Roy dedicates songs **to** the faceless — they *receive* care (*"this one's for the faceless,"* Long Time Coming). By 2025–26 the faceless one **gives** the blessing (the [[Ballerina Boy]] outro, Weirdness, *[[No. 1 Champion (la Conquistadora)]]*). The dedication returns as benediction: object-of-care becomes source-of-care. Best held as a *function* swap, not a literal identity — don't over-personify it.
+> A direction-of-travel finding on the faceless feminine. In 2018 Roy dedicates songs **to** the faceless — they *receive* care (*"this one's for the faceless,"* [[Albums & Eras/Subject to Flooding/Long Time Coming|Long Time Coming]]). By 2025–26 the faceless one **gives** the blessing (the [[Ballerina Boy]] outro, Weirdness, *[[No. 1 Champion (la Conquistadora)]]*). The dedication returns as benediction: object-of-care becomes source-of-care. Best held as a *function* swap, not a literal identity — don't over-personify it.
 
 ## The rollout (public paratext)
 

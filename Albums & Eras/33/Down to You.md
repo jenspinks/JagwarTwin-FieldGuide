@@ -74,7 +74,7 @@ The logic, start to finish: authority comes *down* to you → so **be** it, don'
 > - **The One (Neoplatonic).** The hammered *"the one… you are the one"* brushes Plotinus's One, the source all things emanate from — apt, given the descent imagery — and the popular *"you are the One"* chosen-figure motif. Resonance only; assert neither as intent.
 
 > [!note]- Advanced reading — "you are it" is standing Circle doctrine, not a one-off
-> *"You must be IT"* on the 2021 microsite predates by four years the 2025 MAGIK ARG's *"you are it"* password (which is itself grounded to Alan Watts). So *"you are it"* isn't a 2025 coinage — it's a standing slogan of the [[The Circle|Circle]] doctrine since at least 2021, and this song is one of its earliest public statements.
+> *"You must be IT"* on the 2021 microsite predates by four years the 2025 [[Albums & Eras/Singles & EPs/MAGIK|MAGIK]] ARG's *"you are it"* password (which is itself grounded to Alan Watts). So *"you are it"* isn't a 2025 coinage — it's a standing slogan of the [[The Circle|Circle]] doctrine since at least 2021, and this song is one of its earliest public statements.
 
 ## Characters
 

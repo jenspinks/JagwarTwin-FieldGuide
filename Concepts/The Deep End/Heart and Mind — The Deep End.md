@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 # Heart and Mind — The Deep End
 
 > [!descend] You found the stairs
-> This is the companion to [[Heart and Mind]]: the esoteric apparatus behind the doctrine, gathered in one place so the doorway page can stay light. Dense is the point down here. The anchors below are public and there to see, a Sefer Yetzirah passage printed on a title card, a Hall of Mirrors artifact, an IG Live teaching; the apparatus *connecting* them is framework, lenses from traditions the work demonstrably draws on, attributed to those traditions and never to a stated method. If any of it starts sounding like the answer, go back up a floor and listen to [[SOL]] instead.
+> This is the companion to [[Heart and Mind]]: the esoteric apparatus behind the doctrine, gathered in one place so the doorway page can stay light. Dense is the point down here. The anchors below are public and there to see, a Sefer Yetzirah passage printed on a title card, a [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] artifact, an IG Live teaching; the apparatus *connecting* them is framework, lenses from traditions the work demonstrably draws on, attributed to those traditions and never to a stated method. If any of it starts sounding like the answer, go back up a floor and listen to [[SOL]] instead.
 
 ## The Tree, in full
 
@@ -46,7 +46,7 @@ And the tradition also names what stands in when repair does not happen. In the 
 
 The *bounce* (Live Underground) title card carries a passage from the *Sefer Yetzirah*: "HE MADE THE LETTER BETH KING OVER WISDOM… AND WITH THEM HE FORMED THE MOON."
 
-Four steps, because they carry four different weights. One: the passage is printed on the card, on the work itself; that part is simply there to see. Two: Beth as *house* is the letter's inherited meaning in the tradition. Three: house as *heart* is this guide's project-level reading (see [[The House and the Vessel]]). Four: put together, Beth crowned king over Wisdom reads as the doctrine in scripture form, the heart-letter set over the mind. Steps three and four are the guide's, and the chain is only as strong as its softest link.
+Four steps, because they carry four different weights. One: the passage is printed on the card, on the work itself; that part is simply there to see. Two: [[Symbols/Beth|Beth]] as *house* is the letter's inherited meaning in the tradition. Three: house as *heart* is this guide's project-level reading (see [[The House and the Vessel]]). Four: put together, Beth crowned king over Wisdom reads as the doctrine in scripture form, the heart-letter set over the mind. Steps three and four are the guide's, and the chain is only as strong as its softest link.
 
 So call it what it is: one of the page's richest framework correspondences, not a proof, and the single strongest *encoded* instance of the pillar, the doctrine bound onto the work rather than spoken about it. The same verse forms the Moon, the receptive, vessel-side of the house in this cosmology, reflected light reaching back toward its source (see [[The Moon]]).
 
@@ -60,7 +60,7 @@ Upstairs the four faces share a paragraph; here is the genealogy with every labe
 
 ## The twelve labours
 
-Roy names this framework himself: on a public IG Live he teaches from Alice Bailey's *Labours of Hercules*, names the book, and walks the labours as stages of internal initiation. That he uses Bailey is grounded. Which song maps to which labour is not, and stays this guide's speculation, flagged as it goes; guard against back-fitting his stated interest onto songs that never asked for it.
+Roy names this framework himself: on a public IG Live he teaches from [[Influences/Alice Bailey|Alice Bailey]]'s *Labours of Hercules*, names the book, and walks the labours as stages of internal initiation. That he uses Bailey is grounded. Which song maps to which labour is not, and stays this guide's speculation, flagged as it goes; guard against back-fitting his stated interest onto songs that never asked for it.
 
 **Leo, the Nemean Lion (Labour V).** The lion is the ego, the persona, the mask, and the instruction is the strange one: you do not kill it, you master it and wear the skin. That is the exact grammar of *Not Your Homie*: "if you choose to tame the beast / You got to prove yourself to be / A champion." Tame, not kill; *choose*; champion. [[Welcome to the Circus]] would then be the lion un-tamed, ravaging in the open before anyone has entered the cave. The lyric is verified; the mapping is the read.
 

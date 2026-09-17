@@ -42,7 +42,7 @@ That is the surface: trust the credit, notice the seam. The drawers go one layer
 >
 > Same wire, opposite signal. The channel that hands down the craft, someone who learned to sing, embedded in you, is the same channel that hands down the lie. One cargo is [[The Circle]]: remembrance, return, the song passed forward. The other is the Loop: repetition without transformation. What the song does with the seed is the fork.
 >
-> Two guards so this drawer stays honest. The Mirror Sessions material is biographical, citable for how Roy talks about himself and his philosophy, not a lore episode. And reading the *voices that aren't mine* as a neighbor to [[The Protector]]'s inner-voice-as-not-self is a resonance between two different mechanisms, held side by side, not fused.
+> Two guards so this drawer stays honest. [[Symbols/The Mirror|The Mirror]] Sessions material is biographical, citable for how Roy talks about himself and his philosophy, not a lore episode. And reading the *voices that aren't mine* as a neighbor to [[The Protector]]'s inner-voice-as-not-self is a resonance between two different mechanisms, held side by side, not fused.
 
 ## Ascent and inheritance
 

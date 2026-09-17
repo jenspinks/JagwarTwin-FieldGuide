@@ -24,7 +24,7 @@ This is the funniest heartbreak song in the catalogue, and quietly one of the mo
 
 - **Era / release** — March 2025, deep in the medieval *"Jagwar World"* / *"Realm"* rollout. The [[dumbledore]] EP preceded it in February; [[MAGIK]] rides alongside. Heavy paratext, sword emojis, the recurring sign-off *"a loyal servant of the Realm ⚔️."*
 - **In one line** — He thought he was the main quest. He was the side quest.
-- **Who speaks** — [[Roy]] at his most vulnerable *and* most comedic. Not the seer, not the shadow — just Roy, wounded and cracking jokes to survive it. (The Crowd shows up only in the mix, echoing his demotion back at him — see below.)
+- **Who speaks** — [[Roy]] at his most vulnerable *and* most comedic. Not the seer, not the shadow — just Roy, wounded and cracking jokes to survive it. ([[Characters/Supporting Cast/The Crowd|The Crowd]] shows up only in the mix, echoing his demotion back at him — see below.)
 - **Key symbols** — [[Concepts/The Jaguar]] (deflated) · the side quest / main quest (RPG geometry) · the zebra (black-and-white thinking) · astrology / *"the signs"* · [[Concepts/The Realm]] (the campaign skin).
 
 ## The song, mapped

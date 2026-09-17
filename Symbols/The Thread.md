@@ -15,7 +15,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 - **What it does** — turns a death-maze into something you can walk back out of. It's the connection you keep so the descent doesn't keep you.
 - **Carried by** — [[Mary]] (possibly the thread-bearer, the project's Ariadne) · the feminine Maker-Jaguar and [[The Wise One]] (who *held the string*) · [[Sir Lucius]] holds the *other* end — the puppeteer's pull from outside.
 - **Appears in** — [[The Circle]] (its home in the lyrics) · [[Welcome to the Circus]] · [[Weirdness]] · [[It's Your Time]] · [[The Circle (Lucius Version)]] · [[Ballerina Boy]] · [[Not Your Homie]] · [[tomorrow (ANGLE OF ETERNITY)]].
-- **Confidence** — grounded lyric anchors (*"a world tied on a string,"* *"she once held the string"*) braided with a strong interpretive reading (thread = feeling) and a framework layer (Theosophy, Kabbalah) labeled as such.
+- **Confidence** — grounded lyric anchors (*"a world tied on a string,"* *"she once held the string"*) braided with a strong interpretive reading (thread = feeling) and a framework layer ([[Concepts/The Sacred Truths/Theosophy|Theosophy]], Kabbalah) labeled as such.
 
 ## What it does
 

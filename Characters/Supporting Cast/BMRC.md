@@ -36,7 +36,7 @@ And on the artifacts, the letters never resolve: the stencil, the title card, an
 BMRC crossed out of the videos and into Los Angeles. From Roy's feed, dated:
 
 - *"welcome to the BMRC 🎪"* — January 5, 2026.
-- *"sir lucius has issued new uniforms. Chaos Club tees + Welcome to the Circus hoodies… The BMRC thanks you for your continued service."* — March 13, 2026.
+- *"sir lucius has issued new uniforms. Chaos Club tees + [[Albums & Eras/Lucius Lullaby/Welcome to the Circus|Welcome to the Circus]] hoodies… The BMRC thanks you for your continued service."* — March 13, 2026.
 - *"sir lucius and the BMRC would like to cordially invite you underground. Los Angeles. At the underground garage (secret location to be disclosed). May 17th… We will be filming something very special."* — May 5, 2026.
 
 That May 17 **Live Underground** event happened — [[Bounce]] was performed there, production deliberately recorded the crowd's voices (see [[The Crowd]]), and the first public footage carries the *"Produced In Cooperation With B.MR.C"* card. The fake corporation now throws real shows; the joke has a street address.

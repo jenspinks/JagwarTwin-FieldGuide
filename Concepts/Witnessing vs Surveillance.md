@@ -13,7 +13,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 >
 > There are two ways of being seen, and the Jagwar Twin world treats the gap between them as a spiritual fault line. One gaze recognizes you and hands something back; you leave more yourself than you arrived. That is witnessing. The other watches, ranks, predicts, and quietly shapes you so your behavior stays legible and sellable. That is surveillance. Same eye, opposite verdict. The working test fits on a bumper sticker: surveillance gathers data; witnessing transforms the witnessed. Or sharper still: the algorithm does not know you, it knows how to shape you.
 >
-> The distinction is a load-bearing beam, the fault line the [[Machine vs Human]] thread turns on, and it sorts the cast into two poles: [[Sir Lucius]] and his apparatus (the Audience, the Algorithm, the Spectacle, [[The Aquarium]]) on the watching side, El Roi and [[Mary]] on the witnessing side. One honest caveat up front: the songs stage the surveillance and its dread far more often than they stage the gaze that restores. The witnessing answer is reached toward, not yet depicted, and that gap is the concept's live edge.
+> The distinction is a load-bearing beam, the fault line the [[Machine vs Human]] thread turns on, and it sorts the cast into two poles: [[Sir Lucius]] and his apparatus (the Audience, the Algorithm, the Spectacle, [[The Aquarium]]) on the watching side, [[Symbols/El Roi|El Roi]] and [[Mary]] on the witnessing side. One honest caveat up front: the songs stage the surveillance and its dread far more often than they stage the gaze that restores. The witnessing answer is reached toward, not yet depicted, and that gap is the concept's live edge.
 
 **Where it enters**
 
@@ -33,7 +33,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!reading]- The purest surveillance song
 > [[The Watchers]] (2024) interpolates Rockwell's 1984 "Somebody's Watching Me" (credited in the song's own paperwork) and twists the paranoia one notch further into clone-fear: *"I'm afraid I'm a clone,"* over a refrain that keeps gasping *"wake up."* The clone is the exact *output* of surveillance, a self shaped into a copy instead of witnessed into itself, and it is sung by the figure whose name (*El Roi*) promises the opposite gaze.
 >
-> The keeper line, a strong read rather than a receipt: **"The Watchers is the moment the Hall of Mirrors grows eyes,"** reflection escalating into surveillance. The full borrowed-throat story, and why the interpolation is the deepest thing about the song, lives in the Deep End.
+> The keeper line, a strong read rather than a receipt: **"The Watchers is the moment the [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] grows eyes,"** reflection escalating into surveillance. The full borrowed-throat story, and why the interpolation is the deepest thing about the song, lives in the Deep End.
 
 > [!reading]- A spoonful of sugar sedates the surveillance
 > [[Online]] is funny on purpose. Roy's public framing of the song is *"so fun and so ridiculous"* (Ones to Watch, 2022), and that is load-bearing: the form wraps *"they infiltrate my brain"* in an earworm so pleasant you never notice it is about being colonized. **The song is the mechanism it describes.** It is hiding your dog's medicine in steak, only here the steak is hiding a surveillance report. The public *Online* artifact carries the core image straight: *"Internet is like a web and we're the Spider's food."*

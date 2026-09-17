@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 * Roy's 2022 Good Friday post: "At the moment I am in the dark. At the edge of The Abyss."
 * His IG Live teaching: knowledge that never rises into understanding leaves a person "stuck in the abyss between worlds."
 * The [[Sir Rabbit]] poem's leap over the "Great Divide."
-* The maze's drawn crossing: Hall of Mirrors room 16, *THE EMPTY ROOM*, a two-faced, monkey-like figure pulled in both directions between a dark pillar and a light one, beneath a colorless rainbow bridge with an empty doorway at its base, three serpents already in flight above. It reads as this page's mechanism in a single image, the divided self at its own unbuilt bridge; the full reading lives at [[Artifacts - Concept Images and Emblems]].
+* The maze's drawn crossing: [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] room 16, *THE EMPTY ROOM*, a two-faced, monkey-like figure pulled in both directions between a dark pillar and a light one, beneath a colorless rainbow bridge with an empty doorway at its base, three serpents already in flight above. It reads as this page's mechanism in a single image, the divided self at its own unbuilt bridge; the full reading lives at [[Artifacts - Concept Images and Emblems]].
 
 That is the surface. Open a drawer below only for the deeper readings.
 

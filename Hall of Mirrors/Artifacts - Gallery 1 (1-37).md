@@ -260,7 +260,7 @@ A short photogrammetry turntable scan of a still-shrink-wrapped retail CD of *"Y
 ### 36 · GRANDMA'S SONG
 *On 12 August 2022.*
 
-This 1:56 recording has been checked by ear. It layers the closing clause of Alice Bailey's Great Invocation, a child's delighted voice, a grandmother's voicemail, a sung search for someone *"out there,"* and the Lord's Prayer chanted in Aramaic. The exact identity of every supporting voice remains open.
+This 1:56 recording has been checked by ear. It layers the closing clause of [[Influences/Alice Bailey|Alice Bailey]]'s Great Invocation, a child's delighted voice, a grandmother's voicemail, a sung search for someone *"out there,"* and the Lord's Prayer chanted in Aramaic. The exact identity of every supporting voice remains open.
 
 The *"Concealed Generations"* filing and *"The Lightning Flash"* code — the Kabbalistic path of emanation down the Tree — support lineage-as-transmission as a strong reading. A grandmother's voice descends into the recording while prayer, signal, light, and generation share one channel; that does not identify which grandmother made the call or make every voice biographical evidence.
 **Connects to →** [[Weirdness]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]

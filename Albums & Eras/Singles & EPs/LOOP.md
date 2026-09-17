@@ -88,7 +88,7 @@ A few claims that cut across the whole song.
 > - **The Loop** = *return without transformation.* Trauma repeating, the algorithm serving you the same thing, the Circus internalized. You come back around and nothing has changed. This song.
 > - **The Circle** = *return with memory restored.* No beginning, no end, back to the source, the one song, "the inside of the inside." You come back around and you *remember.*
 >
-> The sharpest one-liner (from the Sir Rabbit material): *Loop = return without transformation; Circle = return with memory restored.* The Circle is what's *found* when the Loop breaks — so LOOP names the Loop and asks, still trapped, to get out. [[Concepts/The Loop and the Circle]] holds the full contrast.
+> The sharpest one-liner (from the [[Characters/Supporting Cast/Sir Rabbit|Sir Rabbit]] material): *Loop = return without transformation; Circle = return with memory restored.* The Circle is what's *found* when the Loop breaks — so LOOP names the Loop and asks, still trapped, to get out. [[Concepts/The Loop and the Circle]] holds the full contrast.
 
 > [!note]- Advanced reading — "Life is a loop" and the dream that recodes it
 > LOOP is the light-side counterweight to the album's title track inside one phrase-family. *"Life is a loop"* (posted January 2024, ~8 months pre-single) belongs to the same family as *"life is but a dream"* — Roy's sincere 2023 line that Lucius later recodes into the *Lucius Lullaby* register (the documented [[Concepts/Inversion]]: a "Dark Circle" *within* the Circle). Two sides of one frame: **loop** = the trap *named* so it can be broken; **dream** = the same trap sung as a *lullaby* so you never wake up. LOOP wants you conscious; the lullaby wants you asleep.

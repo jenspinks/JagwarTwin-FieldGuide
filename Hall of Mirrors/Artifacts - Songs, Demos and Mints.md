@@ -81,7 +81,7 @@ Three silent seconds of a burned CD-R hand-labeled *"Genesis"* on top and *"unde
 ### #36 · GRANDMA'S SONG · `THE LIGHTNING FLASH`
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x192da9a1b7fd07fb2ada3707ffe4a04c2fab57223b00fbee7689a133d133d32e..mp3" controls preload="none"></audio>
 
-This 1:56 recording has been checked by ear. It opens with *"Restore the plan on Earth,"* the closing clause of Alice Bailey's Great Invocation, then moves through a child's delighted voice, a grandmother's voicemail, a sung search for someone *"out there,"* and a chant of the Lord's Prayer in Aramaic. The exact identity of every supporting voice remains open.
+This 1:56 recording has been checked by ear. It opens with *"Restore the plan on Earth,"* the closing clause of [[Influences/Alice Bailey|Alice Bailey]]'s Great Invocation, then moves through a child's delighted voice, a grandmother's voicemail, a sung search for someone *"out there,"* and a chant of the Lord's Prayer in Aramaic. The exact identity of every supporting voice remains open.
 
 The room files that layered family-and-prayer collage under *"Concealed Generations"* and keys it with *"The Lightning Flash,"* the Kabbalistic path of emanation down the Tree of Life. That makes lineage-as-transmission a strong reading: a grandmother's voice travels down into the recording while prayer, signal, light, and generation share one channel. It is more than a biographical keepsake, but the room does not by itself establish which grandmother made the call or turn every voice into Roy's family.
 **Connects to →** [[Weirdness]] · [[Kabbalah - The Tree of Life]] · [[Concepts/The Pattern]] · [[Roy]]

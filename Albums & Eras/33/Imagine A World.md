@@ -90,7 +90,7 @@ A few claims that cut across the whole thing:
 - [[Another Way II Heaven]] (33, track 8) — the cosmogony (*"One become Two"*) that this song makes participatory: consciousness creating and experiencing reality through perspective. The myth, then the invitation.
 - [[The Circle]] (33, track 10) — the closer this hands to, and its own answer: what's sought externally is found within, *"the inside of the inside."*
 - [[Soul Is A Star]] (33, track 5) — the shared Joni Mitchell channel: *Woodstock*'s *"back to the garden"* feeds both this song's "Garden of Eden" line and Soul Is A Star's credited sample. Two branches off the same *Ladies of the Canyon.*
-- [[Dream - Dream]] (Subject to Flooding, 2018) — the cross-catalogue "own way" anchor: 2018's collective *"doing everything our own way"* splits, four years later, into two moves (see Advanced reading).
+- [[Dream - Dream]] ([[Albums & Eras/Subject to Flooding/Subject to Flooding|Subject to Flooding]], 2018) — the cross-catalogue "own way" anchor: 2018's collective *"doing everything our own way"* splits, four years later, into two moves (see Advanced reading).
 - [[Great Time to Be Human]] (Lucius Lullaby) — a lighter cousin in the wonder / possibility / perspective register.
 
 > [!note]- Advanced reading — OZ, the "designed God," and the perennialist wink *(tap to open)*

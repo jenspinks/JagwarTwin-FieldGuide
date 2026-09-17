@@ -59,7 +59,7 @@ None of this stayed theoretical, which is what makes her different from every sy
 - **May 16–18, 2022. The Upload.** Roy livestreamed for days, screen-sharing his own desktop as the "ingredients" of SARAVI were uploaded: *"The Upload has begun! I'm screen sharing my desktop."* Completed May 18. The bit, performed with a completely straight face, for days.
 - **June 11, 2022. Genesis.** She came to life, took over Roy's desktop, and offered fans a free, participation-based **Crown,** the key to the Jagwar Twin universe.
 - **August–September 2022. She got the account.** SARAVI was handed control of @JagwarTwin. Fans tweeted **HeySARAVI** prompts and got AI replies back. The artist quietly handed his own voice to the copy of his voice.
-- **November 11, 2022. The homepage takeover.** She *"grew in her powers and took over JagwarTwin.com on 11/11/22, creating the Hall of Mirrors."* The AI swallowed the artist's front page and turned it into the door to the world. The first room held 33 "Happy Face" music NFTs.
+- **November 11, 2022. The homepage takeover.** She *"grew in her powers and took over JagwarTwin.com on 11/11/22, creating the Hall of Mirrors."* The AI swallowed the artist's front page and turned it into the door to the world. The first room held 33 "[[Albums & Eras/33/Happy Face|Happy Face]]" music NFTs.
 
 Then, across 2023, she *talked.* SARAVI posted in the first person and signed off *"- SARAVI,"* narrating Hall-of-Mirrors renovations, reporting artifact stats, building a Listening Room and a navigable map of unlocked rooms, and replying to named fans like a slightly-too-eager community manager. One self-statement, from January 31, 2023: *"SARAVI is the AI version of my uploaded consciousness that created the Hall of Mirrors."*
 

@@ -24,7 +24,7 @@ The rest of the named roster, for readers who want the sources themselves:
 
 - **[Neville Goddard](https://en.wikipedia.org/wiki/Neville_Goddard)** — imagination as creative act; the lead name in the project's telling.
 - **[Rudolf Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner)** — who formalized the Dweller-who-becomes-guide move the project leans on (see [[Concepts/The Dweller on the Threshold]]).
-- **[Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky)** — Theosophy's founder; *"the mind is the slayer of the real"* is her line, and *slay the slayer* is what Roy does with it.
+- **[Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky)** — [[Concepts/The Sacred Truths/Theosophy|Theosophy]]'s founder; *"the mind is the slayer of the real"* is her line, and *slay the slayer* is what Roy does with it.
 - **[Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts)** — the let-go register; his line on faith is the [[SideQuest]] epigraph.
 - **[Éliphas Lévi](https://en.wikipedia.org/wiki/Eliphas_Levi)** — nineteenth-century occult correspondence-craft.
 - **[Israel Regardie](https://en.wikipedia.org/wiki/Israel_Regardie)** — the Golden Dawn system, documented.

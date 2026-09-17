@@ -46,7 +46,7 @@ source_basis: ["public posts"]
 - *"'Will is the key to magic; without it man is a toy of forces. To affirm free will is to affirm the divine spark.' — Eliphas Levi"* — **2025-10-22** — [[Sir Lucius]]
 - *"'The time has come to realize that supersensible knowledge has now to arise from the materialistic grave.' — Rudolf Steiner #jagwartwin #happyface"* — **2025-10-20** — [[Happy Face]] · [[Concepts/The Dweller on the Threshold]]
 - *"'I will tell you one thing that will make you rich for life. There are two struggles: an Inner-world struggle and an Outer-world struggle…you must make an intentional contact between these two worlds; then you can crystallize data for the Third World, the World of the Soul.'"* — **2025-10-19** — [[Not Your Homie]] · [[Sir Lucius]]
-- *"'You can never awaken using the same system that put you to sleep in the first place.' — Gurdjieff"* — **2025-10-15** — [[Sir Lucius]] · [[Welcome to the Circus]] · [[The Circle]]
+- *"'You can never awaken using the same system that put you to sleep in the first place.' — [[Influences/Gurdjieff|Gurdjieff]]"* — **2025-10-15** — [[Sir Lucius]] · [[Welcome to the Circus]] · [[The Circle]]
 - *"You don't have a personality, your personality has you."* — **2025-10-11** — [[Sir Lucius]]
 - *"When god wanted to make David a king he didn't send a crown. He sent Goliath."* — **2025-08-25** — [[Sir Lucius]]
 - *"The deeper esoteric symbolism of the green apple 🍏 — knowledge that hasn't been earned; misuse of the mind; intelligence divorced from spirit; power access before spiritual maturity — fruit that is unripe. No wonder why Sir Lucius is always holding one."* — **2025-08-21** — [[Sir Lucius]] · [[Bananas]]
@@ -56,7 +56,7 @@ source_basis: ["public posts"]
 - *"Plants don't know they're plants"* — **2023-11-22** — [[Concepts/Duality]] · [[The Veil — The Deep End]]
 - *"I love doing things, but my favorite thing is not doing things"* — **2023-11-12** — [[Concepts/Duality]]
 - *"Sir Lucius says stay spooky"* — **2023-10-31** — [[Sir Lucius]]
-- *"'The one eye of the godhead is blind / The one ear of the godhead is deaf / The order of its being is crossed by chaos' ⁃Carl Jung"* — **2023-10-19** — [[Concepts/Duality]] · [[Concepts/The Circus]]
+- *"'The one eye of the godhead is blind / The one ear of the godhead is deaf / The order of its being is crossed by chaos' ⁃[[Influences/Carl Jung|Carl Jung]]"* — **2023-10-19** — [[Concepts/Duality]] · [[Concepts/The Circus]]
 - *"I am I am (a [heart]) / My words have always been imperfect. I prefer to speak in images, or music, or to not speak at all. Especially about politics and foreign affairs, things I have little understanding of. However, with the current world situation in Israel and Palestine I"* — **2023-10-19** — [[Roy]] · [[Concepts/Source vs Reflection]] · [[Concepts/The Voice]]
 - *"This was supposed to be a promotional post for the Good Time (1:08) music video… but I don't know what to say about that right now. And I don't usually speak about world affairs, but I will say, Love is still here. We will not let Fear overtake our hearts and spread like a"* — **2023-10-12** — [[Roy]] · [[Concepts/Duality]] · [[Concepts/The Light-Bearer]]
 - *"Good Time (1:08) is streaming everywhere now. Sir Lucius sends his thoughts. I'm here too - El Roy"* — **2023-09-29** — [[Roy]] · [[Sir Lucius]] · [[Concepts/Duality]]
@@ -319,7 +319,7 @@ source_basis: ["public posts"]
 - *"I'm here to serve Jesus."* — **2026-05-25**
 - *"Put it in the lore cannon"* — **2026-05-11**
 - *"You gotta survive invisibility."* — **2026-05-08**
-- *"sir lucius and the BMRC would like to cordially invite you underground. Los Angeles. At the underground garage (secret location to be disclosed). May 17th… We will be filming something very special."* — **2026-05-05**
+- *"sir lucius and the [[Characters/Supporting Cast/BMRC|BMRC]] would like to cordially invite you underground. Los Angeles. At the underground garage (secret location to be disclosed). May 17th… We will be filming something very special."* — **2026-05-05**
 - *"What if music was never meant to be recorded? What if it was never meant to be trapped in time?"* — **2026-05-03**
 - *"No two stars are the same."* — **2026-04-26** — [[SOL]] · [[Soul Is A Star]]
 - *"When your attention is off yourself your intuition has the space to operate."* — **2026-04-25**
@@ -337,7 +337,7 @@ source_basis: ["public posts"]
 - *"I've been a warrior / I've been a priest / I have become nothing."* — **2026-03-23**
 - *"What a great time to be human"* — **2026-03-21** — [[Great Time to Be Human]]
 - *"I am"* — **2026-03-15** — [[Not Your Homie]]
-- *"Slow down Mozart."* — **2026-03-14**
+- *"Slow down [[Influences/Mozart|Mozart]]."* — **2026-03-14**
 - *"sir lucius has issued new uniforms. Chaos Club tees + Welcome to the Circus hoodies… The BMRC thanks you for your continued service."* — **2026-03-13**
 - *"lucius lullaby is coming"* — **2026-03-13**
 - *"Artistic integrity or a strong self sabotaging mechanism?"* — **2026-03-13**

@@ -5,7 +5,7 @@ cssclasses: ["circus-home"]
 status: published
 confidence: grounded
 ---
-<div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">Welcome to the Circus — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="https://jagwartwinlore.com/Start+Here/The+Jagwar+Twin+Field+Guide#Start+here">Enter the Guide ↓</a></div></div>
+<div class="hero"><div class="hero-overlay"></div><div class="valance"><div class="band"></div><div class="scallops"></div></div><div class="hero-inner"><div class="jtmark"></div><div class="ticket">✦ Admit One ✦</div><div class="wm-title"><span class="the">The</span><div class="wordmark"></div><span class="fg">Field Guide</span></div><p class="tag">[[Albums & Eras/Lucius Lullaby/Welcome to the Circus|Welcome to the Circus]] — the songs, characters, symbols &amp; mythology of Jagwar Twin, mapped.</p><a class="enter" href="https://jagwartwinlore.com/Start+Here/The+Jagwar+Twin+Field+Guide#Start+here">Enter the Guide ↓</a></div></div>
 
 > An independent, unofficial fan guide to the world inside Jagwar Twin's music. Everything here is interpretation built on public songs, videos, interviews, and posts; the jokes are ours, the songs are his.
 
@@ -19,7 +19,7 @@ Rather listen first? Play **[[The Circle]]**, then **[[Happy Face]]**.
 
 ## Browse by section
 
-- **[[Characters]]** — the recurring figures: Roy, Sir Lucius, Mary, the Jaguar, and more.
+- **[[Characters]]** — the recurring figures: Roy, [[Characters/Stars/Sir Lucius|Sir Lucius]], [[Characters/Stars/Mary|Mary]], the Jaguar, and more.
 - **[[Concepts]]** — the ideas the work is built on: the Loop and the Circle, the mind/heart split, the mirror, the circus.
 - **[[Symbols]]** — the recurring images: the green apple, the rose, the mirror, the rabbit.
 - **[[Albums & Eras]]** — the larger arcs: *Subject to Flooding*, *33*, *Lucius Lullaby* — each opening into readings of its own songs.

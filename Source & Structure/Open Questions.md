@@ -29,7 +29,7 @@ The questions whose answers would reshape everything else.
 - Why is [[SOL]] the one song Lucius can't absorb? I mean we know why but also why... 
 - The **El Roi** throat marking — *"the God who sees me"* — is on Lucius, not Roy. Why does the figure made of reflection wear the name of the divine seer? Confession, claim, or irony?...or did it just look cool?
 - Who is **Leif** — a separate figure, or just Lucius's comic register? Does Lucius require a witness to function?
-- Does the 2026 co-credit mean Lucius *won*, or that he's finally visible enough to be integrated? Again we probably can say whats going on in general here but what changed between Happy Face and now? 
+- Does the 2026 co-credit mean Lucius *won*, or that he's finally visible enough to be integrated? Again we probably can say whats going on in general here but what changed between [[Albums & Eras/33/Happy Face|Happy Face]] and now? 
 
 ## On Roy and the endgame
 - Does Roy *leave* [[Concepts/The Circus|the Circus]], or learn to move differently inside it?
@@ -39,7 +39,7 @@ The questions whose answers would reshape everything else.
 
 ## On Mary and the feminine
 
-- Is the faceless blessing-voice (Ballerina Boy, [[Weirdness]]) the same entity as the named Mary (#1 Champion) and Weirdness?
+- Is the faceless blessing-voice ([[Albums & Eras/Singles & EPs/Ballerina Boy|Ballerina Boy]], [[Weirdness]]) the same entity as the named Mary (#1 Champion) and Weirdness?
 
 ## On the structure
 - The Loop becomes [[Concepts/The Loop and the Circle|the Circle]] *through love* — has that turn happened in the catalogue, or is it still the promise?

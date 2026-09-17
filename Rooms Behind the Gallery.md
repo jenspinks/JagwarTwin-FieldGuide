@@ -9,7 +9,7 @@ publish: true
 
 # The Rooms Behind the Gallery
 
-Sixty-eight Hall of Mirrors entries, continuing this guide's gallery sequence.
+Sixty-eight [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] entries, continuing this guide's gallery sequence.
 
 The Hall's uploaded self takes shape through what it keeps: early songs, childhood art, inherited objects, working notes and borrowed images. Read together, these fragments suggest a self assembled through memory and relationship. The discarded version, the unfinished thought and the people behind the music all have a place in that reading. [[Hall of Mirrors/Artifacts#Why the artifacts matter|Why the artifacts matter →]]
 
@@ -108,7 +108,7 @@ Card titles open the room in the maze itself, which will want a wallet connected
 
 This room brings the Hall's bridge-language down from myth into family memory. The same phrase circulates elsewhere as the name of a wartime medal and of the Christmas-spider drawing; here it opens a dated hospital photograph of Grandma Vi. The room therefore does more than preserve a relative. It turns a phrase about passage between worlds into a human instance of [[The Upload|the archive's]] concern with continuity.
 
-Its filing matters. **Life Changing Connections (VI Link)** contains the Hall's largest family cluster, but it is not exclusively an ancestry shelf. The letters *VI* also have a public, literal explanation elsewhere: a public 2022 post calls SARAVI “VI” for short. That leaves the shelf-name unresolved between Grandma Vi, SARAVI, the number six, or a convergence of them. The family echo is real; the claim that the shelf was named after her is not settled.
+Its filing matters. **Life Changing Connections (VI Link)** contains the Hall's largest family cluster, but it is not exclusively an ancestry shelf. The letters *VI* also have a public, literal explanation elsewhere: a public 2022 post calls [[Characters/Supporting Cast/SARAVI|SARAVI]] “VI” for short. That leaves the shelf-name unresolved between Grandma Vi, SARAVI, the number six, or a convergence of them. The family echo is real; the claim that the shelf was named after her is not settled.
 
 The photograph itself does not establish a death-threshold. What it establishes is a smiling woman in hospital and a family moment chosen for the consciousness archive. The “between worlds” reading belongs to the key and the Hall's wiring, not to a claim about what happened next.
 
@@ -146,7 +146,7 @@ This room should also be kept distinct from the hyphenated **VI-link** room in t
 
 <span class="jt-facts">**Key** `Know how to spell the name of the song`  ·  **Filed under** Window Of Appearance  ·  Image</span>
 
-This room carries one emanation twice. A numbered list moves from 0 through 10, while ten circles beside it fall into the three-pillar order of the Tree of Life. The Abyss is drawn as a rule between 3 and 4, not counted as another station. Words and glyph mirror one another: the page explains the descent, then redraws it without labels.
+This room carries one emanation twice. A numbered list moves from 0 through 10, while ten circles beside it fall into the three-pillar order of the Tree of Life. [[Concepts/The Abyss|The Abyss]] is drawn as a rule between 3 and 4, not counted as another station. Words and glyph mirror one another: the page explains the descent, then redraws it without labels.
 
 The lock turns that diagram into a performance of the White Knight's name-of-the-song puzzle. The full source sheet opens with `A-SITTING ON A GATE`, what the Knight says his song *is*. This crop opens with an instruction about spelling the song's *name*. Its own title then becomes the exact key to [[Artifacts - Songs, Demos and Mints##143 · ANOTHER WAY II HEAVEN · `GENESIS TREE CODE`|the Another Way II Heaven room]]. The relay is concrete: `Know how to spell the name of the song` → *Genesis Tree Code* → [[Another Way II Heaven|the song]].
 
@@ -276,7 +276,7 @@ The poem *Rome 🌳* is inserted into the centre of Giovanni di Paolo's [*Corona
 
 The key comes from the moment when reading becomes perception. The preceding stanza says the speaker read about chaos and its order; then comes *“A secret order everywhere,”* found in trees, rocks, cells, seas, and frogs. Only later does *a* secret order become *the* secret order. The key therefore sits on seeing, before the poem hardens that sight into a settled statement.
 
-Roy later posted Jung's line about a secret order in disorder, which strengthens Jung as a retrospective source candidate. The post came years after the artifact, so it cannot establish the direction of influence. The painting likewise supplies Christian and Marian iconography without making the poem name Mary or declare a doctrine. What the room securely joins is an inherited sacred image, a natural order discovered by the speaker, and an ending still concerned with consequence, killing, wealth, home, and another chance. [[Synchronicity and Found Meaning]] gives the public context for finding order without turning sequence into proof.
+Roy later posted Jung's line about a secret order in disorder, which strengthens Jung as a retrospective source candidate. The post came years after the artifact, so it cannot establish the direction of influence. The painting likewise supplies Christian and Marian iconography without making the poem name [[Characters/Stars/Mary|Mary]] or declare a doctrine. What the room securely joins is an inherited sacred image, a natural order discovered by the speaker, and an ending still concerned with consequence, killing, wealth, home, and another chance. [[Synchronicity and Found Meaning]] gives the public context for finding order without turning sequence into proof.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x5ae904bccf70e5292458765f422629f7ca1e6ea12de1b890af2753770f89fe4d..png)<br>The maze calls this one <b>Roy Poem "A Secret Order"</b> · opened 29 June 2026</span>
 
@@ -302,7 +302,7 @@ That pairing sharpens the title's pun without forcing the dune to “mean” a f
 
 The name states an identity while the photograph supplies only the animal term. That substitution has a direct public anchor: the narrator of the [[Good Time (1-08)|Good Time]] dream says, “during this whole thing, I'm a rabbit,” and the song preserves the rabbit on the road. The room reads as self-portrait by substitution, with the Man present through the Rabbit.
 
-The dream also contains a second rabbit, Sir Lucius, distinguished by clown makeup. This animal is unpainted, so it more closely resembles the narrator's rabbit, but the shared rabbit-register should remain visible. The room does not prove that only one figure can stand at the gate.
+The dream also contains a second rabbit, [[Characters/Stars/Sir Lucius|Sir Lucius]], distinguished by clown makeup. This animal is unpainted, so it more closely resembles the narrator's rabbit, but the shared rabbit-register should remain visible. The room does not prove that only one figure can stand at the gate.
 
 In the inverse animal/body map, Rabbit sits at 10 while feet sit at 1, placing the pair at the embodied World-threshold. Rabbit is the one animal in the ten-seat bestiary whose traditional source has not been recovered; it is also Roy's public self-image. That makes the bottom station the place where inherited correspondence gives way to a personal figure.
 
@@ -483,7 +483,7 @@ In [[Characters/Supporting Cast/Sir Rabbit|Sir Rabbit]], the Fox recognizes that
 
 Named `Dove=Heart`, opened by `Fox=Mind`: the relay moves from mind toward heart.
 
-The visible passage is the Fox’s lesson. Sir Rabbit enters a box whose “simple lock” has a key hidden inside him; he must listen for the knock. The Dove is not yet visible, arriving several stanzas later on the next screen. The room does not merely label what is pictured. Its name points toward the faculty the poem is teaching the Rabbit to find.
+The visible passage is the Fox’s lesson. Sir Rabbit enters a box whose “simple lock” has a key hidden inside him; he must listen for the knock. [[Symbols/The Dove|The Dove]] is not yet visible, arriving several stanzas later on the next screen. The room does not merely label what is pictured. Its name points toward the faculty the poem is teaching the Rabbit to find.
 
 That makes this a room about **inward access**. The mind can explain the puzzle and place the traveller inside it, but explanation cannot finish the passage. The next movement begins when the Rabbit listens. Read across the sequence, “mind opens heart” is a compelling functional interpretation, not a stated rule: these screenshots come from one continuous scroll, and their exact divisions may partly reflect pagination.
 
@@ -531,7 +531,7 @@ The Spider’s function here is guide and examiner, not predator. He makes the t
 
 Named `About the constellations`, opened by `Sun=6`. The phrase belongs to this passage and is repeated at the top of the final screen, where its trailing-space form becomes the last key in the relay.
 
-This is the decision point in [[Characters/Supporting Cast/Sir Rabbit|Sir Rabbit]]. The Spider calls himself a guide at the Divide, tells the Rabbit to jump through the sun, and answers “Is this a test?” by returning agency: that is up to him. The Rabbit decides to go and will not change his mind.
+This is the decision point in [[Characters/Supporting Cast/Sir Rabbit|Sir Rabbit]]. The Spider calls himself a guide at the Divide, tells the Rabbit to jump through the sun, and answers “Is this a test?” by returning agency: that is up to him. [[Symbols/The Rabbit|The Rabbit]] decides to go and will not change his mind.
 
 The chain changes register at the same moment. Animal equations have carried the reader upward; now the room name becomes a line of poetry. One interpretation is that the guide’s arithmetic ends where the traveller’s choice begins. A simpler explanation is structural: the equation family has reached its sixth station, so the remaining screenshots needed names from their text. The room can hold both.
 

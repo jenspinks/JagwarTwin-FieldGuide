@@ -61,7 +61,7 @@ The record, grouped by where it sits. Glosses in quotes are **from the project**
 - *LISTEN* (below the ear, arrow pointing to it) — *"remind me to listen and not speak unless I have something to say. Listening is an art form."*
 
 **Hands & back of arm**
-- *WAKE UP* (back of hand) — Gurdjieff's *"Man is asleep. He must wake up."* ([[Roy]]'s most-named influence by 2025.)
+- *WAKE UP* (back of hand) — [[Influences/Gurdjieff|Gurdjieff]]'s *"Man is asleep. He must wake up."* ([[Roy]]'s most-named influence by 2025.)
 - **KILL YOUR (Possessive) SELF** (stacked: KILL / YOUR / SELF, back of the arm) — **the one he pointedly did not explain.** *(See the reading below; do not read it literally.)*
 
 > [!note]- Advanced reading — what the clusters mean (interpretation, not stated intent)<br><span class="jt-drawer-summary">Read against tradition, several clusters point to ego-dissolution, the self in service to the One.</span>

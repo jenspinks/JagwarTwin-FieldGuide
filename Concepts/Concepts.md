@@ -66,7 +66,7 @@ The things built around the music: puzzles, cards, notebooks, and one label figh
 - [[Hall of Mirrors]]: the project's playable archive: a web3 puzzle-world where fans decode clues and carry hidden pieces back into the light.
 - [[Concepts/The Manifesto Cards]]: the recurring title-card that hides a tiny esoteric manifesto in its fine print, for anyone who thinks to hit pause.
 - [[Concepts/The I'm 33 Board|The I'm 33 Board]]: the working notebook behind the upload fantasy; the closest thing this world has to source code.
-- [[Concepts/Gatekeeper Saga]]: the real label fight Roy narrated to his Discord as a Harry Potter serial, right up to *"Master gave dumbledore a sock."*
+- [[Concepts/Gatekeeper Saga]]: the real label fight Roy narrated to his Discord as a Harry Potter serial, right up to *"Master gave [[Albums & Eras/Singles & EPs/dumbledore|dumbledore]] a sock."*
 
 ## Wading deeper
 
@@ -76,7 +76,7 @@ Everything below this line is optional, and the songs work fine without it, the 
 
 The traditions the work draws on, held up as ways of reading it rather than facts about it. The four big ones live together under [[Concepts/The Sacred Truths/The Sacred Truths]].
 
-- [[Kabbalah - The Tree of Life]]: a single source of light and a row of bodies that only reflect it; the family shape of Roy, Lucius, and Mary.
+- [[Kabbalah - The Tree of Life]]: a single source of light and a row of bodies that only reflect it; the family shape of Roy, Lucius, and [[Characters/Stars/Mary|Mary]].
 - [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]]: the oldest version of the project's most public idea: the world as managed illusion, the self a spark, the way out remembrance.
 - [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]]: the trap's opposite number: one coherent law repeating at every scale, whose maxim Roy printed on a video years early.
 - [[Concepts/The Sacred Truths/Theosophy]]: the cosmos as a Great Breath, worlds exhaled and drawn back in; home of the warning *"the mind is the slayer of the real,"* and what Roy does with it.
@@ -90,7 +90,7 @@ And the old stories put to work on this world's own trials and figures:
 - [[Letters of Creation|The Angels and the Angles]]: Roy's letter-mysticism method, consonants as angles and vowels as angels, with the guide's song-level applications tiered separately.
 - [[Concepts/The Light-Bearer]]: the figure who carries light that disorients instead of illuminating, not because his light flickers but because it is a near, manufactured source standing where the sky should be.
 
-The *people* behind these currents have their own home: see [[Influences]] for Carl Jung, Gurdjieff, Alice Bailey, Manly P. Hall, the [[Roy on Influences|full annotated roster]], and the [[Musical Lineage]].
+The *people* behind these currents have their own home: see [[Influences]] for [[Influences/Carl Jung|Carl Jung]], [[Influences/Gurdjieff|Gurdjieff]], [[Influences/Alice Bailey|Alice Bailey]], [[Influences/Manly P. Hall|Manly P. Hall]], the [[Roy on Influences|full annotated roster]], and the [[Musical Lineage]].
 
 ### The deepest cuts
 

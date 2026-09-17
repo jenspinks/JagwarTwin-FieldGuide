@@ -80,7 +80,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > [!lore]- The shadow that isn't evil
 > In Jungian terms the Protector reads as the compensating shadow and the persona hardened under trauma: a protector complex that destabilizes the moment the wound starts to heal, and an ethic of integration over transcendence, exactly the reordered-not-killed shape above. Held as the nearest analogue, not a source claim, with one grounded exception: Roy publicly curated a Jung Trickster card, "forerunner of the savior… bestial and divine," so the Trickster strand is an influence he showed us, not a resonance imported from outside.
 >
-> One vocabulary guard: protector, shadow, Dweller, mask, manager are overlapping *functions,* not interchangeable identities. This page keeps them as lenses on one mechanism. The wider cross-tradition apparatus, the Tree of Life seating, Jacob and Esau, the lion's skin, lives in the Deep End.
+> One vocabulary guard: protector, shadow, Dweller, mask, manager are overlapping *functions,* not interchangeable identities. This page keeps them as lenses on one mechanism. The wider cross-tradition apparatus, the Tree of Life seating, [[Concepts/Jacob and Esau|Jacob and Esau]], the lion's skin, lives in the Deep End.
 
 > [!question]- Threads I haven't tied off
 > - **Is Lucius protecting Roy or training him to rule the Circus?** The lore tilts from pleading toward teaching, sharpened by the real-world "I guess Lucius was right again."

@@ -13,7 +13,7 @@ Underneath the songs runs a current of esoteric and mythological material: Kabba
 
 ## The route
 
-1. [[Kabbalah - The Tree of Life]] — start here: a single source of light and a row of bodies that only reflect it, which is exactly the shape of Roy, Lucius, and Mary.
+1. [[Kabbalah - The Tree of Life]] — start here: a single source of light and a row of bodies that only reflect it, which is exactly the shape of Roy, Lucius, and [[Characters/Stars/Mary|Mary]].
 2. [[Concepts/The Sacred Truths/Gnosticism - The World as Trap]] — the oldest version of the project's most public idea: the world as managed illusion, the self a spark trapped inside, the way out remembrance rather than acquisition.
 3. [[Concepts/The Sacred Truths/Hermeticism - As Above So Below]] — the counterweight to the trap: one coherent, legible law repeating at every scale, whose central maxim Roy printed on a video years before anyone decoded his sources.
 4. [[Concepts/The Light-Bearer]] — where the traditions turn personal: the figure who carries light that disorients instead of illuminating, his light a near, manufactured source standing in the sky's position rather than a distant one you could steer by.

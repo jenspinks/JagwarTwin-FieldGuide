@@ -87,7 +87,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 >
 > Strong readings, labeled where they stand: the imposed-versus-chosen spine and the whole arc; interruption as control of sequence and source custody; the voice-appropriation reading of No. 1 Champion; Ballerina Boy as the buried-but-truest voice; the silent end-tag and its era reversal; the lullaby-that-sedates reading; the relay cluster.
 >
-> Framework, attributed to its traditions and held in the Deep End: the Kabbalistic throat and letter registers, the scream and silence traditions, Gurdjieff's sleeping crowd.
+> Framework, attributed to its traditions and held in the Deep End: the Kabbalistic throat and letter registers, the scream and silence traditions, [[Influences/Gurdjieff|Gurdjieff]]'s sleeping crowd.
 >
 > None of this is the answer; it is one way of seeing it.
 

@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # City of Angels
 
-> **One-line reading.** The Circus's gospel of fame — a survival-chant becomes a promise of upload, and the reward for "making it" is not resurrection but reproducibility: everyone looks just like you because the particular self the dream promised has already been deleted to grant it.
+> **One-line reading.** [[Concepts/The Circus|The Circus]]'s gospel of fame — a survival-chant becomes a promise of upload, and the reward for "making it" is not resurrection but reproducibility: everyone looks just like you because the particular self the dream promised has already been deleted to grant it.
 
 > [!info] Album & credits
 > **Album:** *Lucius Lullaby* (2026, Big Loud Rock) — billed *Jagwar Twin & Sir Lucius* · **track 10 of 15** · 2:55

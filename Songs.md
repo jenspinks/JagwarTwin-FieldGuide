@@ -48,7 +48,7 @@ The album page: [[33]].
 
 ## Lucius Lullaby (2026)
 
-The shadow album — a sustained descent where Sir Lucius gets the microphone, credited jointly to Jagwar Twin and Lucius.
+The shadow album — a sustained descent where [[Characters/Stars/Sir Lucius|Sir Lucius]] gets the microphone, credited jointly to Jagwar Twin and Lucius.
 
 The album page: [[Lucius Lullaby (album)]]. And [[The Interview]], the in-world conversation that frames it.
 
@@ -63,7 +63,7 @@ The album page: [[Lucius Lullaby (album)]]. And [[The Interview]], the in-world 
 - [[Moths to the Flame]] — the pull toward the light that burns, running seamlessly into "Bananas."
 - [[Bananas]] — the dark-nursery turn; *go bananas.*
 - [[Bounce]] — the spring back, inside the descent.
-- [[No. 1 Champion (la Conquistadora)]] — track 8; Lucius appropriating Mary's voice to claim a championship.
+- [[No. 1 Champion (la Conquistadora)]] — track 8; Lucius appropriating [[Characters/Stars/Mary|Mary]]'s voice to claim a championship.
 - [[Not Your Homie]] — the pre-album single; the disavowal.
 - [[Weirdness]] — track 13; the one late turn into first light, the pleading mode underneath.
 

@@ -21,7 +21,7 @@ An end-of-the-world anthem you'd actually want at the party. The premise is grim
 
 - **Era / release** — standalone single, May 26 2023 (Big Loud); post-*33* transition era, dropped during the wrap of the spring US tour with Transviolet, the same week as Roy's 35th birthday (May 22). No album.
 - **In one line** — apocalyptic-communal: the end is coming, so choose who you face it with.
-- **Who speaks** — [[Roy|Jagwar Twin]], first-person, turning communal. This is a *2023* song — **before** the Sir Lucius billing and the whole persona arc — so the "I" here is just Roy, no mask on yet.
+- **Who speaks** — [[Roy|Jagwar Twin]], first-person, turning communal. This is a *2023* song — **before** the [[Characters/Stars/Sir Lucius|Sir Lucius]] billing and the whole persona arc — so the "I" here is just Roy, no mask on yet.
 - **Key symbols** — the clone (loneliness inside a crowd) · the spin ([[Concepts/The Loop and the Circle|the Loop]], rotation mistaken for progress) · the drum-from-1981 (dread arriving through time) · *flying on this rock* (Earth as the vehicle) · the game-clock that runs out.
 
 ## The song, mapped

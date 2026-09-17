@@ -26,7 +26,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 ---
 
 > [!map]- Written into the work
-> "Labyrinth" isn't only an interpreter's word. On the hand-drawn *"Undefined Map,"* a freehand planetary-correspondence cosmology surfaced as a public Hall of Mirrors artifact, the word **"Labyrinth"** is written out under the 7-Sisters / Pleiades column, alongside *"chakra rainbow 7s," "moonless nights,"* and *"isolated city."* So the term lives in the artist's schema, not just in the reading. (See [[The Pattern]].)
+> "Labyrinth" isn't only an interpreter's word. On the hand-drawn *"Undefined Map,"* a freehand planetary-correspondence cosmology surfaced as a public [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] artifact, the word **"Labyrinth"** is written out under the 7-Sisters / Pleiades column, alongside *"chakra rainbow 7s," "moonless nights,"* and *"isolated city."* So the term lives in the artist's schema, not just in the reading. (See [[The Pattern]].)
 >
 > What the column *means* stays interpretation. And the sheet's own solved code, *SUPERFICIAL CONCLUSIONS*, is a warning stapled to the page against reading its tidy grid too fast. Its neighbor artifact, the *"David Star, Where The World Was Crossed"* poem (solved code *TWISTED LADDER*), waits in the Deep End. The poem’s climb gives this page a possible exit-reading; the inherited-movement argument asks what the path is made from. See [[Concepts/Inherited Substrate#Ascent and inheritance]] and [[Hall of Mirrors/Artifacts - Drawings and Sketches#David Star: ascent and generations]] for the source sequence and limits.
 

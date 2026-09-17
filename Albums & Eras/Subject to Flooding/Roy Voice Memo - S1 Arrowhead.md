@@ -23,7 +23,7 @@ Most of *Subject to Flooding* is built. This one isn't — it's a real studio co
 
 - **Era / release** — Track 9 on *Subject to Flooding* (2018), the debut. A ~0:42 captured voice memo. (Streaming sometimes stamps it 2019 — that's an Atlantic re-release artifact, not a second recording.)
 - **In one line** — A producer clears away every rational fear one by one, and what's left standing is the only fear that matters.
-- **Who speaks** — **S1** (the album's executive producer) is the only audible voice; **Roy** is the "you" being reassured, silent in the official lyric. No Lucius, no Mary, no Crowd — this predates all of them.
+- **Who speaks** — **S1** (the album's executive producer) is the only audible voice; **Roy** is the "you" being reassured, silent in the official lyric. No Lucius, no [[Characters/Stars/Mary|Mary]], no Crowd — this predates all of them.
 - **Key symbols** — [[Concepts/The House and the Vessel|the vessel]] (the team/vision that must hold the flood) · **pieces** ("trying to find pieces") · **the bubble** · **the flood** (inherited from the album title) · **the threshold** ("when it happens").
 
 ## The song, mapped

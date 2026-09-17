@@ -58,7 +58,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > A caution belongs right here, not buried below: the martyr scaffolding these readings lean on (the thorns, the grave, the roll-call of the persecuted) comes from an unofficial lyric sheet that streaming has never verified. The hook's degradation is audible; the deep martyr cluster is provisional. Carry it loosely.
 
 > [!reading]- The fool, the prison, and whose voice it is
-> A promo caption pins the release tagline *"GO DUMB"* straight to Gurdjieff, quoting his prison teaching: realize you are in prison first, because if you think you are free, you can't escape. Gurdjieff is an influence Roy has named publicly again and again, so the song's own punchline arrives as a thesis in disguise: go dumb, never notice the cell, never leave it.
+> A promo caption pins the release tagline *"GO DUMB"* straight to [[Influences/Gurdjieff|Gurdjieff]], quoting his prison teaching: realize you are in prison first, because if you think you are free, you can't escape. Gurdjieff is an influence Roy has named publicly again and again, so the song's own punchline arrives as a thesis in disguise: go dumb, never notice the cell, never leave it.
 >
 > The truncation also rhymes with an old figure, the holy fool, and in the deck the rest of the cosmology already leans on, the Tarot's Fool (card 0): highest wisdom appearing as idiocy to the profane world. Held as a resonance, not an intent-claim, it means the degradation cuts two ways, imposed by the Circus, or *chosen* as the fool's disguise. Hold both.
 >

@@ -24,7 +24,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 **Where it enters**
 
 * The 2026 post: *"Done being a person. I'm just a vessel for God."* The self as conduit rather than author, in Roy's public voice.
-* The solved Hall of Mirrors poem *David Star, "Where The World Was Crossed"* (code `TWISTED LADDER`): the Kings and Queens of Time thrown down as sparks into "The Kingdom Of The Shells," then climbing a twisted ladder to become the constellations. The printed sequence is a substantial anchor for the reading, not a stated doctrinal attribution.
+* The solved [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] poem *David Star, "Where The World Was Crossed"* (code `TWISTED LADDER`): the Kings and Queens of Time thrown down as sparks into "The Kingdom Of The Shells," then climbing a twisted ladder to become the constellations. The printed sequence is a substantial anchor for the reading, not a stated doctrinal attribution.
 * The verified [[City of Angels]] contrast: "City of *Light*," singular, against "live forever in the bright *lights*," plural. Read in this register, the One Light scattered into many, a strong reading standing on a grounded lyric.
 
 That is the surface, and it stands on its own. The drawers go one reading deeper at a time.
