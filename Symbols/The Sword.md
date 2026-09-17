@@ -14,7 +14,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 - **What it is** — the blade of **discernment** (telling truth from its counterfeit) and **chosen action** (the decisive cut, commitment). It belongs to the heart-pole: not the mind's clever slicing, but the heart's clean, committed one.
 - **Carried by** — [[Roy]], in the basic symbol map (alongside the [[The Dove|dove]], the heart, [[The Rose|the rose]], the cross).
-- **Appears in** — the basic symbol map; the *Hall of Mirrors* **"Flaming Sword"** artifact (the Kabbalistic Lightning-Flash); and, in his hands, the **desert photograph of 6 January 2025** (*"2025 energy"*), which opens the year the crossed-swords emoji then runs through.
+- **Appears in** — the basic symbol map; the *Hall of Mirrors* **"[[Artifacts - Gallery 4 (113-149)#129 · Flaming Sword (the Lightning Flash)|Flaming Sword]]"** artifact (the Kabbalistic Lightning-Flash); and, in his hands, the **desert photograph of 6 January 2025** (*"2025 energy"*), which opens the year the crossed-swords emoji then runs through.
 - **Confidence** — an honest **reading**, on a firmer footing than before. The anchors are the basic symbol map, the 2025 desert photograph, and the year-long run of the crossed-swords emoji; the deeper sword-material is universal symbolism and one HoM artifact, held as such. Still thinner than the [[The Dove|dove]] or the [[The Crow|crow]], because none of it is yet a lyric.
 
 ## What it is

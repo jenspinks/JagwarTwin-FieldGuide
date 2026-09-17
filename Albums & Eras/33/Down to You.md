@@ -84,7 +84,7 @@ The logic, start to finish: authority comes *down* to you → so **be** it, don'
 
 ## Artifacts
 
-**AN AGED AGED MAN** · `ALICE 211` — The Carroll clue that fed this artifact's code cluster — "I saw an aged aged man, A-sitting on a gate" — was posted as a symbol-marked (▵▢◑) clue on the Down to You SoundCloud, per the Discord community arch… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 1 (1-37)#2 · AN AGED AGED MAN|AN AGED AGED MAN]]** · `ALICE 211` — The Carroll clue that fed this artifact's code cluster — "I saw an aged aged man, A-sitting on a gate" — was posted as a symbol-marked (▵▢◑) clue on the Down to You SoundCloud, per the Discord community arch… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xfabef575374796fb9f99a60f701b55a9e51333406510e6d14aab767c7887b71f..mp3" controls preload="none"></audio>
 
 **VENUS** · `DLD` — The 33 lyric 'can't unwind it with your head on / so listen to your heart' is this guide's documented surfacing of the heart-over-mind theology whose heart-pole is Venus/Netzach, the dove on Roy's side of the basic symbol map… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)

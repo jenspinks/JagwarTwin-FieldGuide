@@ -136,7 +136,7 @@ The source page says **“there must be a Link.”** The key changes necessity i
 
 The artifact is a cut and retouched fragment of a larger instruction page. On that page, *VI · Love · Sacrifice*, the need for a Link, a three-part centre diagram, and a higher balance that holds both A and B belong to one working field. In the isolated room, two numbered path-points were removed while the words about linking were retained. The safest reading is that separation and repair are performed in the making of the artifact itself: the page is cut apart, then a sentence about reconnection becomes its door.
 
-This room should also be kept distinct from the hyphenated **VI-link** room in the [[Online]] circuit. The hyphenated room belongs to a closed Sa-link → Ra-link → VI-link → *Everyone Loves the Internet* network. This space-form **VI Link** belongs to the family-heavy connections shelf. They rhyme across the Hall, but they are separate lanes with separate functions.
+This room should also be kept distinct from the hyphenated **VI-link** room in the [[Online]] circuit. The hyphenated room belongs to a closed Sa-link → Ra-link → VI-link → *[[Artifacts - Gallery 3 (75-112)#113 · EVERYONE LOVES THE INTERNET|Everyone Loves the Internet]]* network. This space-form **VI Link** belongs to the family-heavy connections shelf. They rhyme across the Hall, but they are separate lanes with separate functions.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xbe0064b5fc4d1170a9b14438e701bbf22ea62fb923c0425aff47b060a838b80b) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xbe0064b5fc4d1170a9b14438e701bbf22ea62fb923c0425aff47b060a838b80b..jpg)<br>The maze calls this one <b>VI Link</b> · opened 27 June 2026</span>
 
@@ -232,7 +232,7 @@ The room divides one sentence between lock and title: *“the way to Heaven lies
 
 That sentence, and the nearby notes on resistance and conduction, closely follow William G. Gray's *The Ladder of Lights*. Gray's argument is not escape from matter but transformation through polarity: without resistance there is no reaction, and the route upward passes through the force that opposes it. The room therefore treats “Hell” as a necessary field of contact rather than a destination to romanticize.
 
-The larger source page extends the operation. A human-shaped Ark carries Heaven, Man, and Earth; animals enter through a side door; a Flaming Sword forms a maze; Love and Sacrifice require a Link; higher balance holds both A and B, while lower balance excludes one side. Read in that context, the commonplace pathway is the ordinary work of becoming conductive enough to hold opposition without being trapped by it. Gray is a recovered source for the vocabulary; [[Kabbalah - The Tree of Life]] gives the public framework. The Hall's arrangement and use of it remain the project's own act of selection.
+The larger source page extends the operation. A human-shaped Ark carries Heaven, Man, and Earth; animals enter through a side door; a [[Artifacts - Gallery 4 (113-149)#129 · Flaming Sword (the Lightning Flash)|Flaming Sword]] forms a maze; Love and Sacrifice require a Link; higher balance holds both A and B, while lower balance excludes one side. Read in that context, the commonplace pathway is the ordinary work of becoming conductive enough to hold opposition without being trapped by it. Gray is a recovered source for the vocabulary; [[Kabbalah - The Tree of Life]] gives the public framework. The Hall's arrangement and use of it remain the project's own act of selection.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x80e7c0ff92854e549c657338f29ce599c499efd5825d872797a10b254838ab9d..jpg)<br>The maze calls this one <b>A Commonplace Pathway</b> · opened 28 June 2026</span>
 
@@ -378,7 +378,7 @@ This image reads as a purpose-made studio still: a white pigeon or dove stands a
 
 Within the project's bird register, the still reads as a held frame of the Return bird. Its operation is compression: movement, message, and return are suspended at the rim of a vessel. The empty container keeps the image poised between reception and departure, a still point within [[The Loop and the Circle|the larger return pattern]]. Holy Spirit, Venus, Grail, offering-vessel, and alchemical-container comparisons can illuminate the inherited iconography, but none identifies the object or proves why it was chosen.
 
-The room is also the middle hinge of a three-part chain: *Grey in A#*, an owl behind glass, opens this bird-and-vessel image; `original master` then opens the armoured childhood photograph. The chain moves darkness → a grey bird at a vessel → a childhood protector. It is a real sequence of locks, while any story told across the three remains interpretation. The exact vessel type and the photographer's full identity remain unconfirmed.
+The room is also the middle hinge of a three-part chain: *[[Artifacts - Gallery 2 (38-74)#53 · GREY IN A#|Grey in A#]]*, an owl behind glass, opens this bird-and-vessel image; `original master` then opens the armoured childhood photograph. The chain moves darkness → a grey bird at a vessel → a childhood protector. It is a real sequence of locks, while any story told across the three remains interpretation. The exact vessel type and the photographer's full identity remain unconfirmed.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0xd47582489cfe6dec4b6cb5999e67c561f58f3873d47b891427915325ddb13510) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xd47582489cfe6dec4b6cb5999e67c561f58f3873d47b891427915325ddb13510..jpg)<br>The maze calls this one <b>Original Master</b> · opened 21 August 2026</span>
 
@@ -390,7 +390,7 @@ The room is also the middle hinge of a three-part chain: *Grey in A#*, an owl be
 
 This rejected cover performs a nesting operation. The cat-eared figure holds a starfield inside a rainbow ring, then wears a smaller cream-centred rainbow disc at the heart. The whole carries an inverse of its own arrangement as a badge. The key sets a limit beneath that apparent completeness: `None can tell how life began`. The image contains a cosmos; the lock refuses certainty about its origin.
 
-The room has a settled family identity. It is the rainbow version of the drywall `Catabolic system` jaguar, following the same drywall-to-rainbow transformation as the Hall's other paired figures. It also stands opposite *Religious Organism*: one puts the cosmos inside the ring, the other places the body inside and the cosmos outside. The heart-medallion compresses that polarity again, so the image does not merely repeat a character; it recodes a rough wall figure as a contained, coloured, cosmic self-image.
+The room has a settled family identity. It is the rainbow version of the drywall `Catabolic system` jaguar, following the same drywall-to-rainbow transformation as the Hall's other paired figures. It also stands opposite *[[Artifacts - Gallery 1 (1-37)#21 · Religious Organism (rejected album art)|Religious Organism]]*: one puts the cosmos inside the ring, the other places the body inside and the cosmos outside. The heart-medallion compresses that polarity again, so the image does not merely repeat a character; it recodes a rough wall figure as a contained, coloured, cosmic self-image.
 
 The stronger comparative reading places this ordered figure before the inversion staged by *Black Magic Rainbow Circus*. Here the rainbow remains concentric, the star sits at the heart, and the cross marks the brow. In [[Concepts/The Circus|Black Magic Rainbow Circus]], the whole rainbow halo can be read against Lucius's shattered mosaic sleeve, the star at the heart against the amber spectacle lighting, and the brow-cross against his cheek paint. Those ordered elements return as spectacle and counterfeit illumination. On that reading, the rejected cover preserves an earlier whole-self image whose elements the Black Magic world takes apart and sells back in distorted form. This comparison does not establish a planned chronology; its strength is the specific transformation of those visual elements.
 
@@ -418,7 +418,7 @@ The companion [[#168 · Content of the Earth|Content of the Earth]] holds the sa
 
 <span class="jt-facts">**Key** `K616`  ·  **Filed under** Phantoms of the Past  ·  Video</span>
 
-The title carries an OCTA bus route into the earlier musical archive: **167 Octa** is also the name of a teenage *Dead Letter Diaries* track. The room presents the band's packaged CD, turning the route number from public transit into a route back through musical identity.
+The title carries an OCTA bus route into the earlier musical archive: **167 Octa** is also the name of a teenage *[[Artifacts - Gallery 1 (1-37)#15 · DEAD LETTER DIARIES|Dead Letter Diaries]]* track. The room presents the band's packaged CD, turning the route number from public transit into a route back through musical identity.
 
 The room then confirms the musical half by presenting the *Dead Letter Diaries* CD. [[Artifacts - Songs, Demos and Mints|The song archive]] separately serves the same scanned relic under the band name and under the track name *167 Octa*. These are distinct records and encodes of one media essence, with separate keys. The duplicate is not an error to flatten away; it lets an earlier musical identity be entered from two directions, release and track.
 
@@ -627,7 +627,7 @@ The room’s function is an exchange of priority: when self occupies the whole f
 
 The key, `Stars are letters in wisdom's alphabet`, turns the sky into a text. The room then gives that outward sentence an inward name: **Internal Guide**.
 
-That name is itself operative. `Internal Guide` opens the *Complete Upload Recipe*, a typed inventory that tries to enumerate a person. The wiring runs in one direction, from a childhood class photograph to a recipe of the self. An ordinary biographical document becomes a cipher for an inner map.
+That name is itself operative. `Internal Guide` opens the *[[Artifacts - Gallery 3 (75-112)#88 · Complete Upload Recipe|Complete Upload Recipe]]*, a typed inventory that tries to enumerate a person. The wiring runs in one direction, from a childhood class photograph to a recipe of the self. An ordinary biographical document becomes a cipher for an inner map.
 
 This makes the room less about identifying anyone in the photograph than about **recoding memory as orientation**. Childhood is not presented as a complete explanation of the adult; it is a source field whose marks may still guide later choices. [[Albums & Eras/33/Soul Is A Star|Soul Is A Star]] offers a released counterpart: if a soul can be figured as a star, wisdom’s alphabet can also be read as a field of lives.
 
@@ -828,7 +828,7 @@ In this mother's song, a small creature wonders whether it can jump high enough,
 
 In the song, the grasshopper makes music with its own body, “rubbing his legs to make them click.” That gives the song a precise little model of expression: the supposedly small creature already carries its instrument. The leap and the sound come from the body it has, not a form it must acquire first.
 
-Its maternal counterpart, *Grandma's Song*, is filed under **Concealed Generations** and opened by `The Lightning Flash`. One generation is held as hidden inheritance; this one appears in **Seen Things / Illumination** as direct encouragement.
+Its maternal counterpart, *[[Artifacts - Gallery 1 (1-37)#36 · GRANDMA'S SONG|Grandma's Song]]*, is filed under **Concealed Generations** and opened by `The Lightning Flash`. One generation is held as hidden inheritance; this one appears in **Seen Things / Illumination** as direct encouragement.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x8cbe4d1de5623190bfa5b4a7fc80b9594835ea9b42d9e33ed6acc9010e8205d8) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8cbe4d1de5623190bfa5b4a7fc80b9594835ea9b42d9e33ed6acc9010e8205d8..jpg) · [Video ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x8cbe4d1de5623190bfa5b4a7fc80b9594835ea9b42d9e33ed6acc9010e8205d8..mp4)<br>The maze calls this one <b>Mom's Grasshopper Song</b> · opened 27 August 2026</span>
 

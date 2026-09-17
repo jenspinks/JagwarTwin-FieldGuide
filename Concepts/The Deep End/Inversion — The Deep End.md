@@ -84,7 +84,7 @@ This is the deep water behind [[Inversion]]: the full esoteric and scriptural ap
 > [!feed]- I Like to Look at Things Upside Down (from the feed)
 > The public feed keeps circling the same move (see [[Roy's Posts — Canon Index]] for the full set):
 >
-> * A 2019 Facebook entry ("Diary of a loser") ends "Here's a bathroom mirror selfie. Everything is a mirror," and in the selfie the I'M NOT HERE body-text appears mirror-reversed. The same post mentions falling asleep to "a documentary on the Hebrew language," which is the kind of detail that turns out to matter.
+> * A 2019 Facebook entry ("Diary of a loser") ends "Here's a bathroom mirror selfie. Everything is a mirror," and in the selfie the [[Artifacts - Gallery 1 (1-37)#9 · I'M NOT HERE|I'M NOT HERE]] body-text appears mirror-reversed. The same post mentions falling asleep to "a documentary on the Hebrew language," which is the kind of detail that turns out to matter.
 > * "Nothing is evil in the beginning": the inversion is acquired, not native.
 > * "The brightest lights cast the deepest shadows": the brighter the original, the deeper its reversal.
 > * "I am blind. The darkness we have seen over the last years is a clear indication that Light is at work." (10-19 '23): darkness as proof of arriving light.

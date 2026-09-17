@@ -72,7 +72,7 @@ A few claims that cut across the whole song.
 
 ## Artifacts
 
-**IF THE SEA HAS ENOUGH WILL** · `THE PATTERN` — Shine closes Subject to Flooding (the album this artifact's title-code chains to via room #93 SUBJECT TO FLOODING BTS) and stages exactly the title's proposition of will against the sea: "you're in the sea s… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 1 (1-37)#31 · IF THE SEA HAS ENOUGH WILL|IF THE SEA HAS ENOUGH WILL]]** · `THE PATTERN` — Shine closes Subject to Flooding (the album this artifact's title-code chains to via room #93 SUBJECT TO FLOODING BTS) and stages exactly the title's proposition of will against the sea: "you're in the sea s… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xeaea42961328b71c465c11c237bae8498c135938350565b81d0cb9020a8fa3d3..jpeg" width="200"></a>
 
 ## Symbols

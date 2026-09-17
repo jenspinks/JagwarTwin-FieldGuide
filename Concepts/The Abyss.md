@@ -19,7 +19,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 * Roy's 2022 Good Friday post: "At the moment I am in the dark. At the edge of The Abyss."
 * His IG Live teaching: knowledge that never rises into understanding leaves a person "stuck in the abyss between worlds."
 * The [[Sir Rabbit]] poem's leap over the "Great Divide."
-* The maze's drawn crossing: [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] room 16, *THE EMPTY ROOM*, a two-faced, monkey-like figure pulled in both directions between a dark pillar and a light one, beneath a colorless rainbow bridge with an empty doorway at its base, three serpents already in flight above. It reads as this page's mechanism in a single image, the divided self at its own unbuilt bridge; the full reading lives at [[Artifacts - Concept Images and Emblems]].
+* The maze's drawn crossing: [[Hall of Mirrors/Hall of Mirrors|Hall of Mirrors]] room 16, *THE [[Artifacts - Gallery 1 (1-37)#16 · THE EMPTY ROOM|EMPTY ROOM]]*, a two-faced, monkey-like figure pulled in both directions between a dark pillar and a light one, beneath a colorless rainbow bridge with an empty doorway at its base, three serpents already in flight above. It reads as this page's mechanism in a single image, the divided self at its own unbuilt bridge; the full reading lives at [[Artifacts - Concept Images and Emblems]].
 
 That is the surface. Open a drawer below only for the deeper readings.
 
@@ -34,7 +34,7 @@ That is the surface. Open a drawer below only for the deeper readings.
 >
 > These artifacts should be read at their source pages for their full context; together they establish that the Abyss is one of Roy's recurring structural terms.
 
-**THE CITY OF PYRAMIDS** · `A-SITTING ON A GATE` — The minted manuscript page where Roy writes the Abyss into his own emanation ladder, "Abyss (knowledge is relation)," between stages 3 and 4, and names the cost of passage: "sacrifice lesser aspects of self for greater." → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**THE [[Artifacts - Gallery 2 (38-74)#70 · THE CITY OF PYRAMIDS|CITY OF PYRAMIDS]]** · `A-SITTING ON A GATE` — The minted manuscript page where Roy writes the Abyss into his own emanation ladder, "Abyss (knowledge is relation)," between stages 3 and 4, and names the cost of passage: "sacrifice lesser aspects of self for greater." → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1c511dc41bb38f13ee2bbaf0a7d9e8489a9a1c301c1d3bfe4d7961b4ffce9612..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1c511dc41bb38f13ee2bbaf0a7d9e8489a9a1c301c1d3bfe4d7961b4ffce9612..jpg" width="200"></a>
 
 > [!lore]- Knowledge must become understanding
@@ -46,7 +46,7 @@ That is the surface. Open a drawer below only for the deeper readings.
 >
 > The project often stages this problem near the throat and mouth, where what is inward must become voice. The Da'at/throat connection is a Hermetic-Qabalistic framework through which this pattern can be read, not a mapping Roy has publicly declared.
 >
-> Tree Thinking makes a second distinction easy to miss. Its drawing marks an upper `3 | 4` interface as *"Abyss In"* and the `9 | 10` interface as *"Abyss Out"*. William G. Gray's *The Ladder of Lights* calls the threshold between Malkuth and Yesod the **Inferior Abyss**, the passage between outer and inner awareness. That is a close source comparison for the lower opening, not proof of Roy's route. It also means the two marked interfaces should not be flattened into one generic Abyss.
+> [[Artifacts - Gallery 1 (1-37)#18 · Tree Thinking|Tree Thinking]] makes a second distinction easy to miss. Its drawing marks an upper `3 | 4` interface as *"Abyss In"* and the `9 | 10` interface as *"Abyss Out"*. William G. Gray's *The Ladder of Lights* calls the threshold between Malkuth and Yesod the **Inferior Abyss**, the passage between outer and inner awareness. That is a close source comparison for the lower opening, not proof of Roy's route. It also means the two marked interfaces should not be flattened into one generic Abyss.
 
 > [!reading]- All you gotta do is Juuuuump!
 > The clearest story of the crossing is the [[Sir Rabbit]] poem. Near the end, the seeker reaches "an edge below the Great Divide," and a golden-caped Spider tells him the way across is over the side and through the sun.

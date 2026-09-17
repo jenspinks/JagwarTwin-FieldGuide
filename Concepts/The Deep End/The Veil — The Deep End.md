@@ -26,7 +26,7 @@ source_basis: ["released music", "public posts", "official videos"]
 **WHEELS** · `THERE ARE THINGS BEHIND THINGS` — The board's Three-Veils diagram, minted: three rings labeled *"Ring Pass-Not (AIN SOPH AUR),"* *"Ring Chaos (AIN SOPH),"* and *"Ring Cosmos,"* keyed by the thesis every veil states. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x53d191a03cbbb914ec3f6bb0e23d7b409c49e6990c897546f20b3cb6bef32d0a..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x53d191a03cbbb914ec3f6bb0e23d7b409c49e6990c897546f20b3cb6bef32d0a..jpg" width="200"></a>
 
-**THE CITY OF PYRAMIDS** · `A-SITTING ON A GATE` — The veils with no Hebrew at all: *"0. Nothing IS, Nothing Becomes, Nothing is Not"* opening Roy's handwritten emanation ladder. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**THE [[Artifacts - Gallery 2 (38-74)#70 · THE CITY OF PYRAMIDS|CITY OF PYRAMIDS]]** · `A-SITTING ON A GATE` — The veils with no Hebrew at all: *"0. Nothing IS, Nothing Becomes, Nothing is Not"* opening Roy's handwritten emanation ladder. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1c511dc41bb38f13ee2bbaf0a7d9e8489a9a1c301c1d3bfe4d7961b4ffce9612..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x1c511dc41bb38f13ee2bbaf0a7d9e8489a9a1c301c1d3bfe4d7961b4ffce9612..jpg" width="200"></a>
 
 > [!mask]- Did Hermes paint his face?

@@ -71,7 +71,7 @@ The title is also — this is not a metaphor — the literal web address of Roy'
 
 ## Artifacts
 
-**THE EMPTY ROOM** · `RAINBOW BRIDGE` — The lyric "A man is like an in-between / Animating Heaven and Hell" (which the song's essay explicitly glosses as the human hanging between the Tree's two pillars) echoes the drawing's arrangement: a lone walke… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**THE [[Artifacts - Gallery 1 (1-37)#16 · THE EMPTY ROOM|EMPTY ROOM]]** · `RAINBOW BRIDGE` — The lyric "A man is like an in-between / Animating Heaven and Hell" (which the song's essay explicitly glosses as the human hanging between the Tree's two pillars) echoes the drawing's arrangement: a lone walke… → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa53f8677e36ba5ad03dbefe1ee2baa69151a39fa947f876b0e4af598a7c56397..png" width="200"></a>
 
 ## Symbols

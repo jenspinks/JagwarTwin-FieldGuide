@@ -72,7 +72,7 @@ The lyric puts *blue jeans* and *good genes* inside the narrator's appraisal of 
 
 ## Artifacts
 
-**QUEEN BINAH** · `TEETH OF A WHALE` — This is the clearest named-Mary song, and its central image, 'Saw a halo but I didn't see a head,' is the faceless divine-feminine whose theological seat this guide identifies as exactly this artifact's Binah… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 2 (38-74)#78 · Queen Binah (the whale)|QUEEN BINAH]]** · `TEETH OF A WHALE` — This is the clearest named-Mary song, and its central image, 'Saw a halo but I didn't see a head,' is the faceless divine-feminine whose theological seat this guide identifies as exactly this artifact's Binah… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="200"></a>
 
 ## Symbols

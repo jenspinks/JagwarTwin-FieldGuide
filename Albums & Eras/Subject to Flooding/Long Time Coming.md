@@ -65,7 +65,7 @@ The paradox the song holds cleanest is this: **the anti-mask revelation is happe
 
 ## Artifacts
 
-**DEVIL IN THE MIRROR** · `RORRIM EHTNI LIVED` — "Every night when I look in the mirror / I see the disguise on my face getting clearer" is this guide's earliest released-lyric anchor for the mirror/disguise motif, the same looking-in-the-mirror-and-seeing-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 1 (1-37)#17 · DEVIL IN THE MIRROR|DEVIL IN THE MIRROR]]** · `RORRIM EHTNI LIVED` — "Every night when I look in the mirror / I see the disguise on my face getting clearer" is this guide's earliest released-lyric anchor for the mirror/disguise motif, the same looking-in-the-mirror-and-seeing-… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x77044650db58a6863546c6b2b5c74a3cd56c194bebd39ef574b014918d3feaf7..mp3" controls preload="none"></audio>
 
 ## Symbols

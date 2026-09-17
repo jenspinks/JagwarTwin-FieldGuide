@@ -21,7 +21,7 @@ aliases:
 > - **Key symbols:** the stage · the grave · [[The Moon]] · [[The Mask]]
 > - **Counter-pole:** [[Sir Lucius]] — the armor that grew over the grave
 > - **Related:** [[Roy]] · [[Mary]] · [[Sir Rabbit]] · [[Concepts/Nigredo]]
-> - **Appears in:** [[Ballerina Boy]] · [[Weirdness]] (the child who *"danced in the rain"*) · the diary and keepsake artifacts (*ROY DIARY 2014*, *DAD'S CLOCK 4 BB ROY*)
+> - **Appears in:** [[Ballerina Boy]] · [[Weirdness]] (the child who *"danced in the rain"*) · the diary and keepsake artifacts (*[[Artifacts - Gallery 1 (1-37)#23 · ROY DIARY 2014|ROY DIARY 2014]]*, *[[Artifacts - Gallery 2 (38-74)#47 · DAD'S CLOCK 4 BB ROY|DAD'S CLOCK 4 BB ROY]]*)
 
 ## Start here
 

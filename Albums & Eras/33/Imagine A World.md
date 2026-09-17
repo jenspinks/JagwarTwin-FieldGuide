@@ -63,7 +63,7 @@ A few claims that cut across the whole thing:
 
 ## Artifacts
 
-**CHUCKSTER'S MUMMY 2 (228)** · `G228` — "Imagine a world full of wonder / Where money was magic" frames money as childlike magic, and this childhood story enacts exactly that: a million dollars conjured out of a tall tale. → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 2 (38-74)#49 · CHUCKSTER'S MUMMY 2 (228)|CHUCKSTER'S MUMMY 2]] (228)** · `G228` — "Imagine a world full of wonder / Where money was magic" frames money as childlike magic, and this childhood story enacts exactly that: a million dollars conjured out of a tall tale. → [[Artifacts - Family, Friends and Moments|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <video src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..mp4" poster="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xa356e31c94415a9637fc8761460f968a6c92ca9ceeb4d6e9a7e80f23f380da72..jpg" width="240" controls preload="none"></video>
 
 **THOUGHT FORMS** · `THOUGHT FORMS` — The song's closing question 'Is there a God you designed?' is a near-verbatim restatement of the artifact's thesis that gods are 'Images formed in mind,' both framing the divine as something the human mind a… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)

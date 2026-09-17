@@ -81,13 +81,13 @@ That last non-sequitur becomes the song's *sound.* Rattled, Roy goes to the stud
 
 ## Artifacts
 
-**2014 SELF PORTRAIT** · `DON'T BE A BLACK HOLE` — The cross-mark on the forehead (third eye) in this 2014 self-portrait is the same face-paint mark Roy wears as Sir Lucius, and Good Time is the song where Lucius is born, so the drawing is the documented pre… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 1 (1-37)#20 · 2014 Self Portrait|2014 SELF PORTRAIT]]** · `DON'T BE A BLACK HOLE` — The cross-mark on the forehead (third eye) in this 2014 self-portrait is the same face-paint mark Roy wears as Sir Lucius, and Good Time is the song where Lucius is born, so the drawing is the documented pre… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x42aca9f05cbbdc9c3bf764cabf65b56bca8959ef77dee0d1ad7a55012d2305d7..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x42aca9f05cbbdc9c3bf764cabf65b56bca8959ef77dee0d1ad7a55012d2305d7..jpg" width="200"></a>
 
 **B1034** · `B1035` — The same probable Josh Dun figure [~] is a credited co-writer on this single, and the artifact is a studio-session photo of exactly the collaborative writing-room context those credits come from. → [[Artifacts - Ciphers and Code-Series|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x44f08985c82bb57ba15243d9a872ac96d582fdeb21a0117da5797749e7c73f2b..jpg" width="200"></a>
 
-**ROY STORY "SIR RABBIT** · `Q763` — Roy-confirmed continuity: he captioned this artifact 'sir rabbit pre-lucius,' and Good Time (1-08) is his publicly narrated dream where Roy-as-rabbit ('just a rabbit in a road rage,' 'I don't know what I'm l… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 2 (38-74)#51 · ROY STORY "SIR RABBIT|ROY STORY "SIR RABBIT]]** · `Q763` — Roy-confirmed continuity: he captioned this artifact 'sir rabbit pre-lucius,' and Good Time (1-08) is his publicly narrated dream where Roy-as-rabbit ('just a rabbit in a road rage,' 'I don't know what I'm l… → [[Artifacts - Poems, Texts and Social Posts|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x2356561424a07a805749ee41a7ad1efe3b2cf7de7056cb2657eac17b04ab8d72..png" width="200"></a>
 
 ## Symbols

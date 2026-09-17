@@ -72,10 +72,10 @@ A few claims that cut across the whole song.
 
 ## Artifacts
 
-**GRANDMA'S SONG** · `THE LIGHTNING FLASH` — Weirdness is Roy's biographical childhood-and-family song and its verse-2 lyric "I grew up fast as lightning" carries the artifact's exact lightning image in a growing-up/generations register, matching a fam… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 1 (1-37)#36 · GRANDMA'S SONG|GRANDMA'S SONG]]** · `THE LIGHTNING FLASH` — Weirdness is Roy's biographical childhood-and-family song and its verse-2 lyric "I grew up fast as lightning" carries the artifact's exact lightning image in a growing-up/generations register, matching a fam… → [[Artifacts - Songs, Demos and Mints|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <audio src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x192da9a1b7fd07fb2ada3707ffe4a04c2fab57223b00fbee7689a133d133d32e..mp3" controls preload="none"></audio>
 
-**QUEEN BINAH** · `TEETH OF A WHALE` — Carries the same faceless Divine-Mother voice the artifact names ('She looked like an angel... but her face was out of sight... you were born to shine'), the Mary-class / Binah-Mother figure appearing at the… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 2 (38-74)#78 · Queen Binah (the whale)|QUEEN BINAH]]** · `TEETH OF A WHALE` — Carries the same faceless Divine-Mother voice the artifact names ('She looked like an angel... but her face was out of sight... you were born to shine'), the Mary-class / Binah-Mother figure appearing at the… → [[Artifacts - Drawings and Sketches|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x918baee33033b370951514ca5c356575d0dde2520797978da425fc537e590932..png" width="200"></a>
 
 ## Symbols

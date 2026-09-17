@@ -45,7 +45,7 @@ The record, grouped by where it sits. Glosses in quotes are **from the project**
 - *The Empty Mirror* (wrist) — *"about looking at yourself in the mirror and seeing nothing"* (named after Janwillem van de Wetering's Zen memoir *The Empty Mirror*). → [[Concepts/The Empty Mirror]]
 - *All reality Is* (inside upper arm) · *Remember you're alive* (inner upper arm)
 - *Y* (elbow) — *"because you've gotta ask the question"* (Y / *why*).
-- *I'M NOT HERE* (side of forearm) — *"but I'm also here."*
+- *[[Artifacts - Gallery 1 (1-37)#9 · I'M NOT HERE|I'M NOT HERE]]* (side of forearm) — *"but I'm also here."*
 - ~~*We know only a portion of the truth and what we say about god is always incomplete*~~ — crossed out. *"I messed up here so I crossed it out."*
 - an **Ouroboros** (a circle with arrows, *"like the snake eating itself but simpler"*) — got with Little Luna. → [[Concepts/The Loop and the Circle]]
 

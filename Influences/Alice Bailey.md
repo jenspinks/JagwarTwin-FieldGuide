@@ -43,7 +43,7 @@ Bailey is the rare influence where nothing needs inferring. Roy keeps three of h
 
 ## Artifacts
 
-**GREY IN A#** · `PITUITARY GLAND OF AN OWL` — A taxidermied barn owl whose unlock code names the organ her Leo labour calls the esoteric *"cave in the head":* Bailey's vocabulary authored into the [[Hall of Mirrors]] as a working key, so the shelf engagement above has a minted receipt. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
+**[[Artifacts - Gallery 2 (38-74)#53 · GREY IN A#|GREY IN A#]]** · `PITUITARY GLAND OF AN OWL` — A taxidermied barn owl whose unlock code names the organ her Leo labour calls the esoteric *"cave in the head":* Bailey's vocabulary authored into the [[Hall of Mirrors]] as a working key, so the shelf engagement above has a minted receipt. → [[Artifacts - Concept Images and Emblems|analysis]] · [gallery ↗](https://mirrors.jagwartwin.com/gallery)
 <a href="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9821059859ee4afcbb77119fcc02798d90db2b4d6486ad6339a34f5287deb07..jpeg"><img src="https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0xc9821059859ee4afcbb77119fcc02798d90db2b4d6486ad6339a34f5287deb07..jpeg" width="200"></a>
 
 ## Source notes
