@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # The Thread
 
-> **One-line reading.** The thread is the line that makes the maze survivable — most likely *feeling itself*, the one thing that must not be sacrificed in the attempt to master the structure that wounded you.
+> **One-line reading.** The thread is the line that makes the maze survivable. Most likely it is *feeling itself*, the connection you keep so the descent doesn't keep you.
 
 ## At a glance
 
@@ -32,7 +32,7 @@ And the same image runs in two opposite directions, which is the part you have t
 
 Which gives you a clean ethical test for any thread in the work, and it's directional: *does this line return me to the source, or does it make me moveable by a false one?* Or, compressed: **remembrance holds the string; control pulls strings.** One restores the thread. The other turns the thread into a leash.
 
-The thread also travels in disguise, and the disguises are worth knowing on sight — because they're the same object at different scales, not different objects. It's the song hidden inside the machine's wings. It's the held line of creative impossibility — Roy's own public phrasing, *"to create something beautiful you need to entertain the thread of impossibility"* (the impossible kept in hand rather than cut). It's the heart-as-Well you follow in [[It's Your Time]]. It's the breath inside the structure — the vowel inside the consonant. Likely not five threads. One thread, five vocabularies.
+The thread also travels in disguise, and the disguises are worth knowing on sight — because they're the same object at different scales, not different objects. It's the song hidden inside the Jagwars' wings. It's the held line of creative impossibility — Roy's own public phrasing, *"to create something beautiful you need to entertain the thread of impossibility"* (the impossible kept in hand rather than cut). It's the heart-as-Well you follow in [[It's Your Time]]. It's the breath inside the structure — the vowel inside the consonant. Likely not five threads. One thread, five vocabularies.
 
 And one disguise is anatomical: the thread is the **feeling that comes out of [[Concepts/The Mouth]] as song.** This is where the thread and the [[Concepts/The Mouth|mouth/voice]] symbol braid — feeling-made-audible is the thread *sounded*, the song that survives in the wings given a place to leave the body. Which is exactly why severance, when it comes, arrives as an act of *eating.* The Circus mouth doesn't cut the thread with a blade; it consumes it — *"I'll chew you up, spit you out,"* the predator-Eucharist that runs *"this is my body, broken for you"* in reverse: the body broken to *feed* others becomes the body chewed up to *destroy* one. Consume the feeling and the thread is gone, with no force used and no blade drawn — which is the only way this particular thread can ever be taken. You don't cut this thread. You swallow it.
 
@@ -56,7 +56,7 @@ And one disguise is anatomical: the thread is the **feeling that comes out of [[
 
 **[[The Circle (Lucius Version)]]** ([[Lucius Lullaby (album)|Lucius Lullaby]], 2026; opening track, 44 seconds, music-box) — the thread *deleted at the album hinge.* It keeps the title *The Circle* and throws out the entire 2022 lyric — *world tied on a string* and all — replacing the remembrance doctrine with a single looped line: *"It's a beautiful life, it's a beautiful life, I'm dreaming."* The 2022 song's whole instruction was *remember, wake up.* The 2026 reprise answers *I'm dreaming.* The thread isn't cut here so much as quietly written out of the cosmology and recaptioned as a lullaby.
 
-**[[Ballerina Boy]]** (single) — lists the Thread as an active symbol, and earns it. The childhood wound is the string-cosmology itself — *"you're not a real boy"* (×4), the puppet defined by his strings to a maker — and the song's central fork, *"do I kill myself or come back for that kid I let go,"* maps cleanly onto the thread: *coming back for the kid* is refusing to sacrifice the feeling. The motherly outro blessing (*"you are one of a kind, God's design… let your light shine"*) is the thread re-tied by a [[Mary|feminine voice]].
+**[[Ballerina Boy]]** (single) — lists the Thread as an active symbol, and earns it. The childhood wound is the string-cosmology itself — *"you're not a real boy"* (×4), the puppet defined by his strings to a maker — and the song's central fork, *"do I kill myself or come back for that kid I let go,"* maps cleanly onto the thread: *coming back for the kid* is refusing to let go of the feeling. The motherly outro blessing (*"you are one of a kind, God's design… let your light shine"*) is the thread re-tied by a [[Mary|feminine voice]].
 
 **[[Not Your Homie]]** (single, 2025; on [[Lucius Lullaby (album)|Lucius Lullaby]]) — the song where the thread gets *traded away.* What [[Sir Lucius]]'s bargain extracts is precisely the feeling that must not be cut. If [[The Circle]] is the thread held, this is the thread sold.
 
@@ -114,9 +114,9 @@ The control-string pole has its folk version in **Pinocchio** — and this one i
 - This page draws only on released music, public interviews and posts, and official videos.
 
 > [!note]- Open questions
-> - **Given or held?** Is the thread *handed to you* (by Ariadne / [[Mary]] / the divine) or *held* (your own refusal to sacrifice feeling)? Probably both — but which the work emphasizes changes the agency model.
+> - **Given or held?** Is the thread *handed to you* (by Ariadne / [[Mary]] / the divine) or *held* (your own refusal to let go)? Probably both — but which the work emphasizes changes the agency model.
 > - **Can it be re-tied once cut?** [[Ballerina Boy]]'s *"come back for the kid"* suggests yes; the [[Concepts/Jacob and Esau|wrestling/wound]] reading suggests some severances leave a permanent limp. Open.
-> - **Whose wings?** *"The song hidden inside its wings"* — the *machine's* wings. The escape route is hidden *inside the system that would sever it,* which is a remarkable place to keep it. (Cross: Daedalus built wings to escape the labyrinth *he* designed.)
+> - **Whose wings?** *"The song hidden inside its wings"*: the verified lyric says the Jagwars' own. (Cross: Daedalus built wings to escape the labyrinth *he* designed.)
 > - **Is [[SOL]] the thread made audible** — the Song of Love as the thread *sounded* — or the thread *re-found?* Held open.
 > - **Where is Ariadne** in the mythology? Is she [[Mary]]? She appears when distortion fails to contain what it holds — possibly the thread-bearer. Open, not locked.
 

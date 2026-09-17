@@ -197,7 +197,7 @@ Everything above stands on its own. What follows is optional: the framework held
 > - The cave: memory, sacred space, the unconscious, or the origin point? The *direction* (inward, toward what's real) is clear; the identity isn't locked.
 > - Is [[Mary]] the same entity as the Maker/Wise-One Jagwar (one figure under two names), or are they two faces of Shekhinah? Strongly suggested by "The Circle," not hard-locked; the work hasn't equated them by name.
 > - Whether the seeing-field (the [[Concepts/The Jaguar|Jaguar]]) and the source are distinct orders or one function in two faces. The myth tips toward the latter, but it's not locked.
-> - Is the thread *given* (by Ariadne / the divine) or *held* (by the refusal to sacrifice feeling)? Probably both, and which the work emphasizes changes the whole model of agency.
+> - Is the thread *given* (by Ariadne / the divine) or *held* (by the refusal to let go)? Probably both, and which the work emphasizes changes the whole model of agency.
 
 > [!note]- Lower-confidence framework notes<br><span class="jt-drawer-summary">The shore rhyme and Hercules mapping are faint resonances, never 'Roy is the Wise One.'</span>
 > A faint, deliberately-held-apart resonance. Roy's 2010 band-name gloss (Eye Alaska) once defined *"the shore"* as *"the wise, people who have gone through things to make them wiser."* So his 2026 line *"I am the shore"* ([[Public Posts]]) faintly rhymes with becoming *the Wise One,* the one who remembered. Held loosely, registers kept apart: this is *not* "Roy is the Wise One," just a resonance between his self-description and a mythic figure in his own work.

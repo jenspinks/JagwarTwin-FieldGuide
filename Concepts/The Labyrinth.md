@@ -64,7 +64,7 @@ That is the surface, and it stands on its own. The drawers go one reading deeper
 > The namings are on the record; the mapping onto the maze is ours.
 
 > [!question]- Loose threads
-> **Is the thread given or held?** In the *given* model it's a gift handed in from outside by the thread-bearer ([[Mary]] is the standing candidate for a true Ariadne), and your one job is not to let go. In the *held* model it's your own refusal to sacrifice feeling; you don't receive it, you *are* it. The two don't reconcile. The page leans *held*; Mary keeps *given* alive.
+> **Is the thread given or held?** In the *given* model it's a gift handed in from outside by the thread-bearer ([[Mary]] is the standing candidate for a true Ariadne), and your one job is not to let go. In the *held* model it's your own refusal to let go; you don't receive it, you *are* it. The two don't reconcile. The page leans *held*; Mary keeps *given* alive.
 >
 > **Can a severed thread be re-tied, or only re-found?** There's a Jacob-after-the-wrestle read where you get out but with a limp. Nothing in the material yet says a cut line can be made whole. Open.
 >

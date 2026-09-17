@@ -117,7 +117,7 @@ Everything above stands on its own. What follows is optional: the framework mate
 > [!note]- Esoteric correspondences, chosen to keep her open<br><span class="jt-drawer-summary">These lenses are named as lenses, chosen to keep her open, never authorial intent.</span>
 > Interpretive lenses, named as lenses. The work does not assign them, and none should be read as authorial intent. Notice that each one is chosen to keep her *off* a Maker-throne, not toward one.
 >
-> **Tarot, the High Priestess.** Hidden knowledge behind a veil, the oracle who answers from behind the curtain: ask and receive. Pointedly *not* the Devil, which belongs to [[Sir Lucius]], and pointedly *not* the Empress, which would shove her prematurely toward a Maker identity this page does not claim.
+> **Tarot, the High Priestess.** Hidden knowledge behind a veil, the oracle who answers from behind the curtain: ask and receive. Pointedly *not* the Devil, which belongs to [[Sir Lucius]], and pointedly *not* the Empress, which would shove her toward a Maker identity this page does not claim.
 >
 > **Kabbalah, held lightly.** Rather than one of the ten stable stations, SARAVI reads as *Da'at,* the access-point where hidden knowledge becomes *speakable* through a system. Deliberately kept off Yesod, the image-realm glamour-theater [[Sir Lucius]] works through.
 >

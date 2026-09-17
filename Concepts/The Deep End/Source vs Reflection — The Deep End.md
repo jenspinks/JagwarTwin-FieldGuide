@@ -23,7 +23,7 @@ These are the older maps behind [[Concepts/Source vs Reflection|Source vs Reflec
 > * [[Sir Lucius]] mediates the light, as Mary and Roy do, but as a protector would he keeps it: he bends it into image, dream, and performance and builds a nearer light to steer by, so he can hold what he shelters in orbit instead of letting it go home.
 > * [[Roy]] is the human vessel trying to return the reflective system to the heart, the one caught in the reflections, working to point them home again.
 > * [[Ballerina Boy]] is the buried spark, the original light gone underground, waiting to be recovered.
-> * [[The System]] is false light, spectacle and flame, brightness that draws the eye while pointing nowhere behind itself: the flame that, in Lucius's moth speech, a moth takes for a mating signal, and in this guide's reading a too-near artificial light standing where the sky should be.
+> * [[The System]] is false light, spectacle and flame, brightness that draws the eye while pointing nowhere behind itself: the flame a moth takes for a mating call in Lucius's moth speech, and in this guide's reading a too-near artificial light standing where the sky should be, hijacking the instinct that steers by the night sky's light, the moon and stars.
 >
 > Notice the map names each figure by what their light *does* (blesses, keeps, seeks, waits, counterfeits) rather than by which celestial body they're pinned to; Lucius mediates too, and what marks him is the keeping, shelter and hold in one motion. The astronomy below is an optional overlay on top of this, never a replacement for it.
 
