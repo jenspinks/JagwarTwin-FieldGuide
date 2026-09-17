@@ -50,7 +50,7 @@ The whole catalogue, told by era, lives at [[Albums & Eras]], and every song is 
 
 - [[The Deep End]] — the full basement: the older currents, the single-thread studies, the back of the symbol shelf (including [[Water — The Deep End]], the comparative floor under [[Water]]).
 - [[A–Z]] — every page in the guide in one alphabetical list, and at the bottom all thirty-six deep companions, each named with the page it belongs to.
-- [[Hall of Mirrors]] — the web3 puzzle-archive and its artifacts.
+- [[Hall of Mirrors]] — the web3 puzzle-archive, its artifacts catalogued in [[Artifacts]] (galleries 1 to 4, and the type deep-dives), with the later rooms in [[Rooms Behind the Gallery]].
 - [[Roy's Posts — Canon Index]] — the public posts, dated and sorted · [[Public Posts]] — the key ones, in full.
 - [[Open Questions]] — what we honestly don't know yet · [[Source and Interpretation Policy]] — the rules this guide reads by · [[How to Read This Site]] — the field manual.
 
