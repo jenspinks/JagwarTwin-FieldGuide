@@ -95,83 +95,84 @@ One line the song throws off and doesn't unpack — *"in a war that I lost and w
 
 ## Lyrics
 
-```
-Best I can tell I still don't know what I'm saying
-I like to talk, but I don't say much
-I wished you well, I still don't know why I'm praying
-I'll learn to walk, but I'm in no rush
-
-Maybe I'm starting to see
-Every star we could be
-Maybe I don't know, I don't know
-And that's fine with me
-We do the best that we can
-Maybe we're part of some plan
-Maybe we don't know, we don't know
-We're all holograms
-But even if that's all we are
-
-Oh
-We might not get tomorrow
-Just close your eyes
-Let it go
-Right here
-Together we know
-If we live like we ain't gonna die
-Then we won't
-We might not get tomorrow
-Just close your eyes
-Let it go
-Right here
-Together we know
-If we live like we ain't gonna die
-Then we won't
-
-When I go on, I'll leave problems like you left me
-Been here before, now my heart's switched on
-But I won't tiptoe, I got scars, I got the bloodstains
-In a war that I lost and won
-
-Maybe I'm starting to see
-Every star we could be
-Maybe I don't know, I don't know
-And that's fine with me
-We do the best that we can
-Maybe we're part of some plan
-Maybe we don't know, we don't know
-We're all holograms
-But even if that's all we are
-
-Oh
-We might not get tomorrow
-Just close your eyes
-Let it go
-Right here
-Together we know
-If we live like we ain't gonna die
-Then we won't
-We might not get tomorrow
-Just close your eyes
-Let it go
-Right here
-Together we know
-If we live like we ain't gonna die
-Then we won't
-
-If death is just a doorway
-Where you goin'?
-You came here with a plan
-Do you remember?
-If death is just a doorway
-And you know it
-Wipe your tears
-Take my hand, I'll help you remember
-(O) I AM (I am, I am, I am)
-I AM (I am, I am, I am, I am, I am, I am, I am)
-I AM (I am, I am, I am)
-I AM (I am, I am, I am, I am, I am, I am, I am)
-I AM
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Best I can tell I still don't know what I'm saying
+> I like to talk, but I don't say much
+> I wished you well, I still don't know why I'm praying
+> I'll learn to walk, but I'm in no rush
+>
+> Maybe I'm starting to see
+> Every star we could be
+> Maybe I don't know, I don't know
+> And that's fine with me
+> We do the best that we can
+> Maybe we're part of some plan
+> Maybe we don't know, we don't know
+> We're all holograms
+> But even if that's all we are
+>
+> Oh
+> We might not get tomorrow
+> Just close your eyes
+> Let it go
+> Right here
+> Together we know
+> If we live like we ain't gonna die
+> Then we won't
+> We might not get tomorrow
+> Just close your eyes
+> Let it go
+> Right here
+> Together we know
+> If we live like we ain't gonna die
+> Then we won't
+>
+> When I go on, I'll leave problems like you left me
+> Been here before, now my heart's switched on
+> But I won't tiptoe, I got scars, I got the bloodstains
+> In a war that I lost and won
+>
+> Maybe I'm starting to see
+> Every star we could be
+> Maybe I don't know, I don't know
+> And that's fine with me
+> We do the best that we can
+> Maybe we're part of some plan
+> Maybe we don't know, we don't know
+> We're all holograms
+> But even if that's all we are
+>
+> Oh
+> We might not get tomorrow
+> Just close your eyes
+> Let it go
+> Right here
+> Together we know
+> If we live like we ain't gonna die
+> Then we won't
+> We might not get tomorrow
+> Just close your eyes
+> Let it go
+> Right here
+> Together we know
+> If we live like we ain't gonna die
+> Then we won't
+>
+> If death is just a doorway
+> Where you goin'?
+> You came here with a plan
+> Do you remember?
+> If death is just a doorway
+> And you know it
+> Wipe your tears
+> Take my hand, I'll help you remember
+> (O) I AM (I am, I am, I am)
+> I AM (I am, I am, I am, I am, I am, I am, I am)
+> I AM (I am, I am, I am)
+> I AM (I am, I am, I am, I am, I am, I am, I am)
+> I AM
+> ```
 
 ## Source notes
 

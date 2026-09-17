@@ -103,17 +103,18 @@ A few claims that cut across the whole ninety seconds.
 
 ## Spoken text
 
-```
-(Spoken-word, delivered by sir lucius)
-
-Civilization has been a mistake
-It would be much better if we just left everything alone
-The wild animals are wiser than we are
-They just follow their instincts
-And if a moth mistakes a flame for a mating call and flies into the flame
-So what?
-It just keeps the moth population down
-```
+> [!quote]- Full spoken text<br><span class="jt-drawer-summary">The song's full released spoken text, kept folded.</span>
+> ```
+> (Spoken-word, delivered by sir lucius)
+>
+> Civilization has been a mistake
+> It would be much better if we just left everything alone
+> The wild animals are wiser than we are
+> They just follow their instincts
+> And if a moth mistakes a flame for a mating call and flies into the flame
+> So what?
+> It just keeps the moth population down
+> ```
 
 ## Source notes
 

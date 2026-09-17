@@ -60,75 +60,76 @@ A few claims that cut across the whole count:
 
 ## Lyrics
 
-```
-Every every time
-Every every time (Every Time?)
-Every Time
-I see it different every Time
-Back long ago
-I was just me
-But who was "I" to Know?
-I wanted to see myself
-And where I could go
-(See it different every time)
-I spoke the words
-"One, become Two"
-Then "I" was in reverse
-But now "I" could see my Self
-And "I" became "You"
-Well,
-"You" and "I" could dance forever
-A Darkness and a Light
-(see it different every time)
-But,
-When we crashed and came together
-A Sun was born inside
-I see it different every time
-Another way to Heaven
-Another way to Heaven
-I see it different every Time
-From One and through Eleven
-Another way to Heaven
-Next there was 4
-"Process" and "Time"
-I opened up a Door
-And I just released myself
-To cover the sky
-(You'll never get away)
-Split into Five (5)
-Six
-Seven
-Eight
-But when it came to Nine...
-I had to remind myself
-That "I" was still "I"
-(I)
-Well,
-All of "Us" could dance forever
-In every Space and Time
-But,
-One day we'll get back together
-And see The Great Design
-I see it different every time
-Another way to Heaven
-Another way to Heaven
-I see it different every Time
-From 1:00 and through 11:00
-Another way II Heaven
-♪
-See it different every time
-I see it different every time
-I see it different every time
-See it different every time
-Every Time
-Every Time
-I see it different every Time
-I see it different every Time
-Don't you ever try to get away
-Ya
-Don't you ever try to get away
-Ya
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Every every time
+> Every every time (Every Time?)
+> Every Time
+> I see it different every Time
+> Back long ago
+> I was just me
+> But who was "I" to Know?
+> I wanted to see myself
+> And where I could go
+> (See it different every time)
+> I spoke the words
+> "One, become Two"
+> Then "I" was in reverse
+> But now "I" could see my Self
+> And "I" became "You"
+> Well,
+> "You" and "I" could dance forever
+> A Darkness and a Light
+> (see it different every time)
+> But,
+> When we crashed and came together
+> A Sun was born inside
+> I see it different every time
+> Another way to Heaven
+> Another way to Heaven
+> I see it different every Time
+> From One and through Eleven
+> Another way to Heaven
+> Next there was 4
+> "Process" and "Time"
+> I opened up a Door
+> And I just released myself
+> To cover the sky
+> (You'll never get away)
+> Split into Five (5)
+> Six
+> Seven
+> Eight
+> But when it came to Nine...
+> I had to remind myself
+> That "I" was still "I"
+> (I)
+> Well,
+> All of "Us" could dance forever
+> In every Space and Time
+> But,
+> One day we'll get back together
+> And see The Great Design
+> I see it different every time
+> Another way to Heaven
+> Another way to Heaven
+> I see it different every Time
+> From 1:00 and through 11:00
+> Another way II Heaven
+> ♪
+> See it different every time
+> I see it different every time
+> I see it different every time
+> See it different every time
+> Every Time
+> Every Time
+> I see it different every Time
+> I see it different every Time
+> Don't you ever try to get away
+> Ya
+> Don't you ever try to get away
+> Ya
+> ```
 
 ## Artifacts
 

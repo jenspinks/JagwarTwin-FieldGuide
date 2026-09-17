@@ -107,105 +107,106 @@ The deepest kinship in the catalogue is with **[[tomorrow (ANGLE OF ETERNITY)]]*
 
 ## Lyrics
 
-```
-Life is good
-
-I'm great
-
-Another circle 'round the sun
-
-The worlds in flames
-
-But at least we're having fun
-
-Hey kids I'll sing you a song
-
-And it won't be very long
-
-Some people tell me I'm strange
-
-But I like living this way
-
-Ah ah ah
-
-La viva es buena
-
-My life is great
-
-My head's an antenna
-
-I'm wide awake
-
-La viva es buena
-
-My life is great
-
-But I'm mad
-
-And I'm sad
-
-And I'm misunderstood
-
-Life is good
-
-I'm great
-
-Another circle 'round the sun
-
-The worlds in flames
-
-But at least we're having fun
-
-I'm good
-
-I'm great
-
-Another circle 'round the sun
-
-The worlds in flames
-
-But at least we're having fun
-
-Face down but I can feel my body moving
-
-Is this real or am I in an illusion
-
-Get up get up I'm only human
-
-Pupils dilated like I'm bout to lose it
-
-So crazy so I turn off the news
-
-Living in a lie and we can't see the truth
-
-Every one fighting tell me which side are you
-
-Keep a smile on my face, too happy to choose
-
-Life is good
-
-I'm great
-
-Another circle 'round the sun
-
-The worlds in flames
-
-But at least we're having fun
-
-I'm good
-
-I'm great
-
-Another circle 'round the sun
-
-The worlds in flames
-
-But at least we're having fun
-
-But at least we're having fun
-
-But at least we're having fun
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Life is good
+>
+> I'm great
+>
+> Another circle 'round the sun
+>
+> The worlds in flames
+>
+> But at least we're having fun
+>
+> Hey kids I'll sing you a song
+>
+> And it won't be very long
+>
+> Some people tell me I'm strange
+>
+> But I like living this way
+>
+> Ah ah ah
+>
+> La viva es buena
+>
+> My life is great
+>
+> My head's an antenna
+>
+> I'm wide awake
+>
+> La viva es buena
+>
+> My life is great
+>
+> But I'm mad
+>
+> And I'm sad
+>
+> And I'm misunderstood
+>
+> Life is good
+>
+> I'm great
+>
+> Another circle 'round the sun
+>
+> The worlds in flames
+>
+> But at least we're having fun
+>
+> I'm good
+>
+> I'm great
+>
+> Another circle 'round the sun
+>
+> The worlds in flames
+>
+> But at least we're having fun
+>
+> Face down but I can feel my body moving
+>
+> Is this real or am I in an illusion
+>
+> Get up get up I'm only human
+>
+> Pupils dilated like I'm bout to lose it
+>
+> So crazy so I turn off the news
+>
+> Living in a lie and we can't see the truth
+>
+> Every one fighting tell me which side are you
+>
+> Keep a smile on my face, too happy to choose
+>
+> Life is good
+>
+> I'm great
+>
+> Another circle 'round the sun
+>
+> The worlds in flames
+>
+> But at least we're having fun
+>
+> I'm good
+>
+> I'm great
+>
+> Another circle 'round the sun
+>
+> The worlds in flames
+>
+> But at least we're having fun
+>
+> But at least we're having fun
+>
+> But at least we're having fun
+> ```
 
 ## Source notes
 

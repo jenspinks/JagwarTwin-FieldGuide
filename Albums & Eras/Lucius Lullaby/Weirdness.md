@@ -139,86 +139,87 @@ And the piece of paratext that grounds it all: on TikTok (Apr 29 2026), Roy told
 
 ## Lyrics
 
-```
-[Intro]
-Your weirdness is the sunshine
-(Ba ba ba ba)
-
-Ooh
-Your weirdness is the sunshine
-It shines on everything
-Your weirdness is the sunshine
-Ooh
-(Ba ba ba ba)
-
-[Verse 1]
-When I was just a young one
-I danced in the rain
-Life was a joke, a fun one
-Now I'm in pain
-
-[Pre-Chorus]
-Thinking I should end it lately
-Then I saw a little light
-She looked like an angel, baby
-But her face was out of sight
-She said, "Stop pretending, baby
-You were born to shine"
-(Shine your light! Shine your light!)
-Ya know, ya know, ya know
-
-[Chorus]
-Your weirdness is the sunshine
-It shines on everything
-Your weirdness is the sunshine
-Ooh (Ba ba ba ba)
-Your weirdness is the sunshine
-Your head is off its string
-Your weirdness is the sunshine
-Ooh (Ba ba ba ba)
-
-[Verse 2]
-I grew up fast as lightning
-I changed my name
-No other child was like me
-Why am I this way?
-
-[Pre-Chorus — repeated]
-Thinking I should end it lately
-Then I saw a little light
-She looked like an angel, baby
-But her face was out of sight
-She said, "Stop pretending, baby
-You were born to shine"
-(Shine your light! Shine your light!)
-Ya know, ya know, ya know
-
-[Bridge]
-You're weird
-And that's alright
-You know you're strange
-And that's alright
-
-[Chorus]
-And now I know that all my weirdness is my sunshine
-It shines on everything
-My weirdness is my sunshine
-Ooh (Ba ba ba ba)
-My weirdness is my sunshine
-My head is off its string
-My weirdness is my sunshine
-Ooh (Ba ba ba ba)
-
-[Outro]
-Ooh (Ba ba ba ba) [×3]
-It shines on everything
-(Ba ba ba ba)
-Your weirdness is the sunshine
-It shines on everything
-(Ba ba ba ba)
-Your weirdness is the sunshine
-Ooh (Ba ba ba ba)
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Intro]
+> Your weirdness is the sunshine
+> (Ba ba ba ba)
+>
+> Ooh
+> Your weirdness is the sunshine
+> It shines on everything
+> Your weirdness is the sunshine
+> Ooh
+> (Ba ba ba ba)
+>
+> [Verse 1]
+> When I was just a young one
+> I danced in the rain
+> Life was a joke, a fun one
+> Now I'm in pain
+>
+> [Pre-Chorus]
+> Thinking I should end it lately
+> Then I saw a little light
+> She looked like an angel, baby
+> But her face was out of sight
+> She said, "Stop pretending, baby
+> You were born to shine"
+> (Shine your light! Shine your light!)
+> Ya know, ya know, ya know
+>
+> [Chorus]
+> Your weirdness is the sunshine
+> It shines on everything
+> Your weirdness is the sunshine
+> Ooh (Ba ba ba ba)
+> Your weirdness is the sunshine
+> Your head is off its string
+> Your weirdness is the sunshine
+> Ooh (Ba ba ba ba)
+>
+> [Verse 2]
+> I grew up fast as lightning
+> I changed my name
+> No other child was like me
+> Why am I this way?
+>
+> [Pre-Chorus — repeated]
+> Thinking I should end it lately
+> Then I saw a little light
+> She looked like an angel, baby
+> But her face was out of sight
+> She said, "Stop pretending, baby
+> You were born to shine"
+> (Shine your light! Shine your light!)
+> Ya know, ya know, ya know
+>
+> [Bridge]
+> You're weird
+> And that's alright
+> You know you're strange
+> And that's alright
+>
+> [Chorus]
+> And now I know that all my weirdness is my sunshine
+> It shines on everything
+> My weirdness is my sunshine
+> Ooh (Ba ba ba ba)
+> My weirdness is my sunshine
+> My head is off its string
+> My weirdness is my sunshine
+> Ooh (Ba ba ba ba)
+>
+> [Outro]
+> Ooh (Ba ba ba ba) [×3]
+> It shines on everything
+> (Ba ba ba ba)
+> Your weirdness is the sunshine
+> It shines on everything
+> (Ba ba ba ba)
+> Your weirdness is the sunshine
+> Ooh (Ba ba ba ba)
+> ```
 
 ## Source notes
 

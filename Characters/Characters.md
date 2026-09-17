@@ -28,7 +28,7 @@ The selves underneath Roy — the wound at the bottom, and the seeker just befor
 - [[Brandon|Ballerina Boy]] — the buried child, shamed and hidden at seven, that the arc is trying to dig back up.
 - [[Sir Rabbit]] — the seeker before the mask; the self still open and teachable, in the brief window before the *second* rabbit climbs into the passenger seat.
 
-## Guide & source figures
+## Guide figures
 
 The counter-voices, the ones that pass the light on instead of keeping it.
 

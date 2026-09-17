@@ -97,83 +97,84 @@ A few claims that cut across the whole thing.
 
 ## Lyrics
 
-```
-Jenny's got a big red flag
-
-Used to be a dancer
-
-Now she's got the answer
-
-Preaching bout the End Time days
-
-Chasing down a feeling
-
-I used to believe in
-
-I feel like a clone in a crowded city
-
-There's nowhere to go and the world is ending
-
-Cause lately I don't wanna go outside
-
-All friends say this whole world is gunna die
-
-I can't stop spinning
-
-I thought I was winning
-
-But if I'm going out it's with all my friends
-
-All my friends
-
-I feel it in the air tonight
-
-Coming like a drum
-
-From 1981
-
-And everyone I love is here
-
-Flying on this rock
-
-No time left on the clock
-
-I feel like a clone in a crowded city
-
-There's nowhere to go and the world is ending
-
-Cause lately I don't wanna go outside
-
-All friends say this whole world is gunna die
-
-I can't stop spinning
-
-I thought I was winning
-
-But if I'm going out it's with all my friends
-
-All my friends
-
-I feel like a clone in a crowded city
-
-There's nowhere to go and the world is ending
-
-Cause lately I don't wanna go outside
-
-All friends say this whole world is gunna die
-
-I can't stop spinning
-
-I thought I was winning
-
-But if I'm going out it's with all my friends
-
-I can't stop spinning
-
-I thought I was winning
-
-But if I'm going out it's with all my friends
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Jenny's got a big red flag
+>
+> Used to be a dancer
+>
+> Now she's got the answer
+>
+> Preaching bout the End Time days
+>
+> Chasing down a feeling
+>
+> I used to believe in
+>
+> I feel like a clone in a crowded city
+>
+> There's nowhere to go and the world is ending
+>
+> Cause lately I don't wanna go outside
+>
+> All friends say this whole world is gunna die
+>
+> I can't stop spinning
+>
+> I thought I was winning
+>
+> But if I'm going out it's with all my friends
+>
+> All my friends
+>
+> I feel it in the air tonight
+>
+> Coming like a drum
+>
+> From 1981
+>
+> And everyone I love is here
+>
+> Flying on this rock
+>
+> No time left on the clock
+>
+> I feel like a clone in a crowded city
+>
+> There's nowhere to go and the world is ending
+>
+> Cause lately I don't wanna go outside
+>
+> All friends say this whole world is gunna die
+>
+> I can't stop spinning
+>
+> I thought I was winning
+>
+> But if I'm going out it's with all my friends
+>
+> All my friends
+>
+> I feel like a clone in a crowded city
+>
+> There's nowhere to go and the world is ending
+>
+> Cause lately I don't wanna go outside
+>
+> All friends say this whole world is gunna die
+>
+> I can't stop spinning
+>
+> I thought I was winning
+>
+> But if I'm going out it's with all my friends
+>
+> I can't stop spinning
+>
+> I thought I was winning
+>
+> But if I'm going out it's with all my friends
+> ```
 
 ## Source notes
 

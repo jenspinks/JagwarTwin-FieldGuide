@@ -994,7 +994,7 @@ The key is the exact title of another room, *Jagwar Twin’s ”trojan horse” 
 
 This is also a second door onto the exact photograph already named *Venus is a Dove*. The Hall files one image twice: first as a proposition, under **Concealed Generations**, and here as a procedure, under **From Darkness**. The same emblem becomes both an identity statement and an instruction.
 
-The dove belongs to the Hall's heart register. `Dove=Heart` is a rung in the animal chain, and the character fundamentals join the dove, Venus and heart in the same field. Read beside the photograph's landing posture, “steering the soul” becomes less like remote control and more like orientation toward return: the bird comes through darkness and prepares to arrive.
+The dove belongs to the Hall's heart register. `Dove=Heart` is a rung in the animal chain, and the basic symbol map joins the dove, Venus and heart in the same field. Read beside the photograph's landing posture, “steering the soul” becomes less like remote control and more like orientation toward return: the bird comes through darkness and prepares to arrive.
 
 <span class="jt-meta">[Open the room ↗](https://mirrors.jagwartwin.com/rooms/0x45967cfd180258a4af354a1df50256ff087627de16c5c49ef599cecc313acdb4) · [Full image ↗](https://storage.googleapis.com/jagwar-twin-33.appspot.com/artifacts/0x45967cfd180258a4af354a1df50256ff087627de16c5c49ef599cecc313acdb4..jpg)<br>The maze calls this one <b>How To Steer The Soul</b> · opened 30 August 2026</span>
 

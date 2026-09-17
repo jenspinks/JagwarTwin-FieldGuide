@@ -100,22 +100,23 @@ A few claims that cut across the whole 22 seconds:
 
 ## Spoken text
 
-```
-[Charlie Chaplin — The Great Dictator (1940), closing speech:]
-The kingdom of God is within man
-Not in one man
-Nor a group of men
-But in all men
-In you
-You, the people, have the power
-The power to create machines
-The power to create happiness
-You, the people, have the power
-To make this life free and beautiful
-To make this life a wonderful adventure
-Let us use that power
-Let us all unite
-```
+> [!quote]- Full spoken text<br><span class="jt-drawer-summary">The song's full released spoken text, kept folded.</span>
+> ```
+> [Charlie Chaplin — The Great Dictator (1940), closing speech:]
+> The kingdom of God is within man
+> Not in one man
+> Nor a group of men
+> But in all men
+> In you
+> You, the people, have the power
+> The power to create machines
+> The power to create happiness
+> You, the people, have the power
+> To make this life free and beautiful
+> To make this life a wonderful adventure
+> Let us use that power
+> Let us all unite
+> ```
 
 ## Source notes
 

@@ -126,72 +126,73 @@ Worth saying plainly, because the humor is load-bearing: the entire premise is a
 
 ## Lyrics
 
-```
-I'm only dreaming, I got my eyes wide shut
-I'm fighting demons, I got my eyes wide shut
-I came to party, she came to party, shaking her body, I'm already gone
-Got out the grave, I'm on a wave, I'm in a body, I'm already gone
-
-If you're magic, and you know it
-Clap your hands, clap your hands
-If you're magic, and you know it
-Do your dance, do your dance
-
-And say I feel like, feel like Dumbledore
-I feel like Dumbledore
-Dumble-Dumble-Dumbledore
-I feel like Dumbledore, Dumbledore, oh
-
-I feel like, feel like Dumbledore
-Magik
-I feel like Dumbledore
-Magik
-Dumble-Dumble-Dumbledore
-Magik
-I feel like Dumbledore, Dumbledore, oh
-
-I feel like dumb, dumb, dumb, dumb, dumb, dumb
-Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
-Go dumb
-I feel like dumb, dumb, dumb, dumb, dumb, dumb
-Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
-
-Burn the witch
-Galileo in Hollywood, you would've burned that witch
-Burn that bitch
-Joan of Arc in Hollywood, you would've burned that witch
-Burn that bitch
-Constantine and I'm fighting demons, I was born for this
-Reborn for this, caught thorns for this
-Crucified me
-
-If you're magic, and you know it
-Clap your hands, clap your hands
-If you're magic, and you know it
-Do your dance, do your dance
-
-And say I feel like, feel like Dumbledore
-I feel like Dumbledore
-Dumble-Dumble-Dumbledore
-I feel like Dumbledore, Dumbledore, oh
-
-I feel like, feel like Dumbledore
-Magik
-I feel like Dumbledore
-Magik
-Dumble-Dumble-Dumbledore
-Magik
-I feel like Dumbledore, Dumbledore, oh
-
-I feel like dumb, dumb, dumb, dumb, dumb, dumb
-Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
-Go dumb
-Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
-Go dumb
-Go dumb, dumb, dumb, dumb, dumb, dumb
-Dumb, dumb, dumb, dumb, dumb, dumb, dumb
-Dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> I'm only dreaming, I got my eyes wide shut
+> I'm fighting demons, I got my eyes wide shut
+> I came to party, she came to party, shaking her body, I'm already gone
+> Got out the grave, I'm on a wave, I'm in a body, I'm already gone
+>
+> If you're magic, and you know it
+> Clap your hands, clap your hands
+> If you're magic, and you know it
+> Do your dance, do your dance
+>
+> And say I feel like, feel like Dumbledore
+> I feel like Dumbledore
+> Dumble-Dumble-Dumbledore
+> I feel like Dumbledore, Dumbledore, oh
+>
+> I feel like, feel like Dumbledore
+> Magik
+> I feel like Dumbledore
+> Magik
+> Dumble-Dumble-Dumbledore
+> Magik
+> I feel like Dumbledore, Dumbledore, oh
+>
+> I feel like dumb, dumb, dumb, dumb, dumb, dumb
+> Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
+> Go dumb
+> I feel like dumb, dumb, dumb, dumb, dumb, dumb
+> Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
+>
+> Burn the witch
+> Galileo in Hollywood, you would've burned that witch
+> Burn that bitch
+> Joan of Arc in Hollywood, you would've burned that witch
+> Burn that bitch
+> Constantine and I'm fighting demons, I was born for this
+> Reborn for this, caught thorns for this
+> Crucified me
+>
+> If you're magic, and you know it
+> Clap your hands, clap your hands
+> If you're magic, and you know it
+> Do your dance, do your dance
+>
+> And say I feel like, feel like Dumbledore
+> I feel like Dumbledore
+> Dumble-Dumble-Dumbledore
+> I feel like Dumbledore, Dumbledore, oh
+>
+> I feel like, feel like Dumbledore
+> Magik
+> I feel like Dumbledore
+> Magik
+> Dumble-Dumble-Dumbledore
+> Magik
+> I feel like Dumbledore, Dumbledore, oh
+>
+> I feel like dumb, dumb, dumb, dumb, dumb, dumb
+> Dumb, dumb, dumb, dumb, dumb, dumb, dumb, go dumb
+> Go dumb
+> Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
+> Go dumb
+> Go dumb, dumb, dumb, dumb, dumb, dumb
+> Dumb, dumb, dumb, dumb, dumb, dumb, dumb
+> Dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
+> ```
 
 ## Source notes
 

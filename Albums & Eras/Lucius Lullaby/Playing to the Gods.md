@@ -135,15 +135,16 @@ That's the false immortality made audible: the phoenix that skips the burning. A
 
 ## Lyrics
 
-```
-Never gonna die
-Never, never gonna die
-If I make it out alive, then I'm never gonna die
-
-Never gonna die
-Never, never gonna die
-If I make it out alive, then I'm never gonna die
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Never gonna die
+> Never, never gonna die
+> If I make it out alive, then I'm never gonna die
+>
+> Never gonna die
+> Never, never gonna die
+> If I make it out alive, then I'm never gonna die
+> ```
 
 ## Source notes
 

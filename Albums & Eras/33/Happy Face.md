@@ -135,56 +135,57 @@ A few claims that cut across the whole song.
 
 ## Lyrics
 
-```
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-♪
-Flip the switch, flip the stove
-World gone mad, let's start the show
-Get your kicks and let's go
-If you're sad, don't let it show
-Say I'm happy, I'm happy, I'm happy today
-I'm happy, I'm happy, I'm happy today
-They say put on a happy face
-'Cause we're tick-tock, tick-tock
-Ticking like a timebomb
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-Say you're good, say you're fine
-Tell 'em everything's alright
-Hollywood on your timeline
-Telling you what to wear
-And what to like and how to be
-Say I'm happy, I'm happy, I'm happy today
-I'm happy, I'm happy, I'm happy today
-They say put on a happy face
-'Cause we're tick-tock, tick-tock
-Ticking like a timebomb
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-♪
-Death of my generation
-(Death of my generation)
-Ah-ah-ah
-Death of my generation
-(Death of my generation)
-♪
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-Hey, put on a happy face
-Then everything's okay
-Put on a happy face
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> ♪
+> Flip the switch, flip the stove
+> World gone mad, let's start the show
+> Get your kicks and let's go
+> If you're sad, don't let it show
+> Say I'm happy, I'm happy, I'm happy today
+> I'm happy, I'm happy, I'm happy today
+> They say put on a happy face
+> 'Cause we're tick-tock, tick-tock
+> Ticking like a timebomb
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> Say you're good, say you're fine
+> Tell 'em everything's alright
+> Hollywood on your timeline
+> Telling you what to wear
+> And what to like and how to be
+> Say I'm happy, I'm happy, I'm happy today
+> I'm happy, I'm happy, I'm happy today
+> They say put on a happy face
+> 'Cause we're tick-tock, tick-tock
+> Ticking like a timebomb
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> ♪
+> Death of my generation
+> (Death of my generation)
+> Ah-ah-ah
+> Death of my generation
+> (Death of my generation)
+> ♪
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> Hey, put on a happy face
+> Then everything's okay
+> Put on a happy face
+> ```
 
 ## Source notes
 

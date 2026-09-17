@@ -159,98 +159,99 @@ The Seeds sheet is also the parent surface for **Basically & Potentially**, **RI
 
 ## Lyrics
 
-```
-I met a Man
-Who had a Son
-But he lost him to The World
-He said my Son was a Singer
-He wrote songs you never heard
-He took his life
-He gave it up
-Before Prophets ever turned
-Man said I don't mean to linger
-Can I sing you just one verse?
-It goes
-Your soul is a Star
-It's alive
-I can see it
-Your soul is a Star
-Who am I to believe in?
-Your soul is a Star
-It's alive
-I can see it
-Oh ah ha
-Do you know Who you are?
-I met a girl
-Who was a gun
-Kept a bullet in her genes
-She said Papa was a sinner
-Playing God behind the scenes
-She wanted Love
-But she got Fame
-And Power from The Thieves
-There's always something bigger
-When The World ain't what it seems
-You know
-Your soul is a Star
-It's alive
-I can see it
-Your soul is a Star
-Who am I to believe in?
-Your soul is a Star
-It's alive
-I can see it
-Oh ah ha
-Do you know Who you are?
-Your soul is a Star
-Who am I to believe in?
-Your soul is a Star
-It's alive
-I can see it
-Oh ah ha
-Do you know Who you are?
-Your soul is a Star
-It's alive
-I can see it
-Your soul is a Star
-Who am I to believe in?
-Your soul is a Star
-It's alive
-I can see it
-Oh ah ha
-Do you know Who you are?
-We fall down as seeds on the ground
-We fall down as seeds on the ground
-We fall down as seeds on the ground
-We fall down as seeds on the ground
-Your soul is a Star
-(Know Who you are)
-Your soul is a Star
-Ya
-(Know Who you are)
-Your soul is a Star
-Know Who you are
-Oh ah ha
-Do you know Who you are?
-Because your soul is a Star
-It's alive
-I can see it
-(I can see it)
-Your soul is a Star
-Who am I to believe in?
-(To believe in)
-Your soul is a Star
-It's alive
-I can see it
-Oh ah ha
-Do you know Who you are?
-Your soul is a Star
-Your soul is a Star
-(To believe in)
-Your soul is a Star
-Oh ah ha
-Do you know Who you are?
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> I met a Man
+> Who had a Son
+> But he lost him to The World
+> He said my Son was a Singer
+> He wrote songs you never heard
+> He took his life
+> He gave it up
+> Before Prophets ever turned
+> Man said I don't mean to linger
+> Can I sing you just one verse?
+> It goes
+> Your soul is a Star
+> It's alive
+> I can see it
+> Your soul is a Star
+> Who am I to believe in?
+> Your soul is a Star
+> It's alive
+> I can see it
+> Oh ah ha
+> Do you know Who you are?
+> I met a girl
+> Who was a gun
+> Kept a bullet in her genes
+> She said Papa was a sinner
+> Playing God behind the scenes
+> She wanted Love
+> But she got Fame
+> And Power from The Thieves
+> There's always something bigger
+> When The World ain't what it seems
+> You know
+> Your soul is a Star
+> It's alive
+> I can see it
+> Your soul is a Star
+> Who am I to believe in?
+> Your soul is a Star
+> It's alive
+> I can see it
+> Oh ah ha
+> Do you know Who you are?
+> Your soul is a Star
+> Who am I to believe in?
+> Your soul is a Star
+> It's alive
+> I can see it
+> Oh ah ha
+> Do you know Who you are?
+> Your soul is a Star
+> It's alive
+> I can see it
+> Your soul is a Star
+> Who am I to believe in?
+> Your soul is a Star
+> It's alive
+> I can see it
+> Oh ah ha
+> Do you know Who you are?
+> We fall down as seeds on the ground
+> We fall down as seeds on the ground
+> We fall down as seeds on the ground
+> We fall down as seeds on the ground
+> Your soul is a Star
+> (Know Who you are)
+> Your soul is a Star
+> Ya
+> (Know Who you are)
+> Your soul is a Star
+> Know Who you are
+> Oh ah ha
+> Do you know Who you are?
+> Because your soul is a Star
+> It's alive
+> I can see it
+> (I can see it)
+> Your soul is a Star
+> Who am I to believe in?
+> (To believe in)
+> Your soul is a Star
+> It's alive
+> I can see it
+> Oh ah ha
+> Do you know Who you are?
+> Your soul is a Star
+> Your soul is a Star
+> (To believe in)
+> Your soul is a Star
+> Oh ah ha
+> Do you know Who you are?
+> ```
 
 ## Source notes
 

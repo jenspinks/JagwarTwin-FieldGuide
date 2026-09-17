@@ -8,7 +8,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ---
 # Roy
 
-> **One-line reading.** Roy is the heart of the whole project: the grown man who went back down for the seven-year-old he buried, and who will find that ditching his baggage for the next guy to deal with was never truly an option.
+> **One-line reading.** Roy is the heart of the whole project: the grown man who went back down for the seven-year-old he buried.
 
 <img src="https://plumcreekranch.com/jagwar/roy_port.jpeg" style="float: right; width: 165px; margin-left: 16px; margin-bottom: 8px;">
 
@@ -227,7 +227,7 @@ Everything above stands on its own. What follows is optional: the long inventori
 > [!map]- You Are Here (Probably)<br><span class="jt-drawer-summary">The basic symbol map sets Roy at Netzach/Venus, the heart, against Lucius's Hod/Mercury.</span>
 > *(Netzach/Venus comes from the basic symbol map. What is built on it below is a lens, never his stated intent.)*
 >
-> **The simple key (Roy's own): Netzach / Venus.** In the fundamentals-first character map Roy points to, he is **Netzach, Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it: the [[The Dove|dove]] (named **Cygnus**, the descending spirit of love), the [[The Sword|sword]] (discernment, the clean cut of chosen action), and the heart itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury. Lucius does not share these seats; he has no Venus, and that is the point of the opposition. The Moon belongs to no one: each of them can take up its role for a time. The deeper Tree-of-Life readings are held even more loosely and live on [[Kabbalah - The Tree of Life]]; this page keeps only the simple association.
+> **The simple association: Netzach / Venus.** In the basic symbol map, he is **Netzach, Venus:** love, beauty, feeling, attraction, art, devotion; the heart. His symbol cluster follows from it: the [[The Dove|dove]] (named **Cygnus**, the descending spirit of love), the [[The Sword|sword]] (discernment, the clean cut of chosen action), and the heart itself. It sits opposite [[Sir Lucius]]'s **Hod / Mercury** intellect: heart against mind, Venus against Mercury. Lucius does not share these seats; he has no Venus, and that is the point of the opposition. The Moon belongs to no one: each of them can take up its role for a time. The deeper Tree-of-Life readings are held even more loosely and live on [[Kabbalah - The Tree of Life]]; this page keeps only the simple association.
 >
 > **The lunar role (held loosely).** One framework reading sets Roy in the lunar sefirot for a time, the reflected vessel reaching toward the Sun (Tiferet / SOL) but never seated in it. Keep the direction of travel and drop the certainty: he reaches toward the Sun, he does not sit in it, and the lunar place is a role he takes up at times, not a fixed seat. A reflection *mistaking itself for the source* names the inflation-trap this reading warns against. This is syncretic correspondence, never his stated intent, and it stays subordinate to the Netzach/Venus key above.
 >

@@ -101,19 +101,20 @@ A few claims that cut across the whole memo.
 
 ## Spoken text
 
-```
-And you're preparing, like, okay.
-And you got like, your super solid team too.
-Like Ryan, who's been with you.
-And you guy's learnin' each other and you know that he
-Understands the vision and like, all that is important.
-As opposed to the bubble bursting and
-Then you're trying to find pieces, you know?
-So, you know I think in retrospect, you're already doing that.
-You're already preparing for it.
-It's just the fear of...
-Of when it happens.
-```
+> [!quote]- Full spoken text<br><span class="jt-drawer-summary">The song's full released spoken text, kept folded.</span>
+> ```
+> And you're preparing, like, okay.
+> And you got like, your super solid team too.
+> Like Ryan, who's been with you.
+> And you guy's learnin' each other and you know that he
+> Understands the vision and like, all that is important.
+> As opposed to the bubble bursting and
+> Then you're trying to find pieces, you know?
+> So, you know I think in retrospect, you're already doing that.
+> You're already preparing for it.
+> It's just the fear of...
+> Of when it happens.
+> ```
 
 ## Source notes
 

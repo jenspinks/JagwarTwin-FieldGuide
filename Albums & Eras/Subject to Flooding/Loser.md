@@ -128,87 +128,88 @@ And one genuinely open question, not a correction: does the nursery-rhyme repeti
 
 ## Lyrics
 
-```
-Jericho fell like a wave
-
-Maybe I'm bad in my brain
-
-I'm a loser, baby, just like you
-
-(La-la-la-la-la, la-la-la-la-la)
-
-Television on your frame
-
-Everybody's all the same
-
-I'm a loser, baby, just like you
-
-(La-la-la-la-la, la-la-la-la-la)
-
-I got sunshine in my mind
-
-Wake up and I'm feeling fine
-
-I got sunshine in my mind
-
-Wake up and I say
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-
-Click on your clock radio
-
-Ain't got much time till I blow
-
-I'm a loser, baby, just like you
-
-(La-la-la-la-la, la-la-la-la-la)
-
-California, Mexico
-
-You know I love you the most
-
-I'm a loser, baby, just like you
-
-(La-la-la-la-la, la-la-la-la-la)
-
-I got sunshine in my mind
-
-Wake up and I'm feeling fine
-
-I got sunshine in my mind
-
-Wake up and I say
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-
-♪
-
-I think the world's gone insane
-
-I think the world's gone insane
-
-We're singing
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-
-Baby, I'm a loser, yeah, yeah, yeah
-
-Just like you, just like you
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Jericho fell like a wave
+>
+> Maybe I'm bad in my brain
+>
+> I'm a loser, baby, just like you
+>
+> (La-la-la-la-la, la-la-la-la-la)
+>
+> Television on your frame
+>
+> Everybody's all the same
+>
+> I'm a loser, baby, just like you
+>
+> (La-la-la-la-la, la-la-la-la-la)
+>
+> I got sunshine in my mind
+>
+> Wake up and I'm feeling fine
+>
+> I got sunshine in my mind
+>
+> Wake up and I say
+>
+> Baby, I'm a loser, yeah, yeah, yeah
+>
+> Just like you, just like you
+>
+> Baby, I'm a loser, yeah, yeah, yeah
+>
+> Just like you, just like you
+>
+> Click on your clock radio
+>
+> Ain't got much time till I blow
+>
+> I'm a loser, baby, just like you
+>
+> (La-la-la-la-la, la-la-la-la-la)
+>
+> California, Mexico
+>
+> You know I love you the most
+>
+> I'm a loser, baby, just like you
+>
+> (La-la-la-la-la, la-la-la-la-la)
+>
+> I got sunshine in my mind
+>
+> Wake up and I'm feeling fine
+>
+> I got sunshine in my mind
+>
+> Wake up and I say
+>
+> Baby, I'm a loser, yeah, yeah, yeah
+>
+> Just like you, just like you
+>
+> Baby, I'm a loser, yeah, yeah, yeah
+>
+> Just like you, just like you
+>
+> ♪
+>
+> I think the world's gone insane
+>
+> I think the world's gone insane
+>
+> We're singing
+>
+> Baby, I'm a loser, yeah, yeah, yeah
+>
+> Just like you, just like you
+>
+> Baby, I'm a loser, yeah, yeah, yeah
+>
+> Just like you, just like you
+> ```
 
 ## Artifacts
 

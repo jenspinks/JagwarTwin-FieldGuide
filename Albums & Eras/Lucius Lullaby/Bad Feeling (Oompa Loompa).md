@@ -121,39 +121,40 @@ A handful of claims that cut across the whole thing.
 
 ## Lyrics
 
-```
-[Intro]
-I got a bad feeling 'bout you
-
-[Verse 1]
-When the moon hits the sky, I'm a little unwell
-'Cause the truth is a lie that nobody can tell
-Every kid on the block talks in riddles and prose
-Then we dance 'til we drop-drop, drop
-
-[Pre-Chorus]
-(They say) Everything's perfect here
-And the sun is shining
-(Hey, hey) Everything's perfect here
-There's nobody crying
-
-[Chorus]
-Oompa Loompa, doompa-de-doo
-I got a bad feeling 'bout you
-Oompa Loompa, I don't know, dude
-I got a bad feeling 'bout you
-Bad feeling, bad feeling
-I got a bad feeling 'bout you
-
-[Verse 2]
-Animals, animals, all misunderstandable
-Carnivores and cannibals, I want it on demand-able
-Mandible, jaw split, hit me with the gossip, gossip
-(Are you fucking serious?)
-
-[Outro]
-It's true
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Intro]
+> I got a bad feeling 'bout you
+>
+> [Verse 1]
+> When the moon hits the sky, I'm a little unwell
+> 'Cause the truth is a lie that nobody can tell
+> Every kid on the block talks in riddles and prose
+> Then we dance 'til we drop-drop, drop
+>
+> [Pre-Chorus]
+> (They say) Everything's perfect here
+> And the sun is shining
+> (Hey, hey) Everything's perfect here
+> There's nobody crying
+>
+> [Chorus]
+> Oompa Loompa, doompa-de-doo
+> I got a bad feeling 'bout you
+> Oompa Loompa, I don't know, dude
+> I got a bad feeling 'bout you
+> Bad feeling, bad feeling
+> I got a bad feeling 'bout you
+>
+> [Verse 2]
+> Animals, animals, all misunderstandable
+> Carnivores and cannibals, I want it on demand-able
+> Mandible, jaw split, hit me with the gossip, gossip
+> (Are you fucking serious?)
+>
+> [Outro]
+> It's true
+> ```
 
 ## Source notes
 

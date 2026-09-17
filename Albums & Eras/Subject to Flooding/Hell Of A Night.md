@@ -99,52 +99,53 @@ Which is why the raised hands carry so much weight (see [[The Prop Room#Hands Up
 
 ## Lyrics
 
-```
-'Cause it's gonna be alright
-Let's have a good time, everybody
-It's gonna be a hell of a night
-It's gonna be a hell of a night
-
-Some feelings come and go for seasons
-But this one ain't going away (What's the reason for it?)
-I'm feeling lucky, that's the reason
-My superstitions gone away
-
-I don't really know what you're tryna do
-But you're never gonna win if you play to lose
-If I get locked up, promise you'll bail me out
-
-'Cause it's gonna be alright
-Let's have a good time, everybody
-It's gonna be a hell of a night
-Yeah, it's gonna be alright
-Let's have a good time, everybody
-It's gonna be a hell of a night
-It's gonna be a hell of a night
-(It's gonna be a hell of a night)
-(It's gonna be a hell of a night)
-
-Hands up and wave 'em to the ceiling (To the ceiling)
-We got some trouble on the way (Trouble's on the way)
-I'm feeling lucky, that's the reason, I know
-My superstitions gone away
-
-I don't really know what you're tryna do
-But you're never gonna win if you play to lose
-If I get locked up, promise you'll bail me out
-
-'Cause it's gonna be alright
-Let's have a good time, everybody
-It's gonna be a hell of a night
-Yeah, it's gonna be alright
-Let's have a good time, everybody
-It's gonna be a hell of a night
-It's gonna be a hell of a night
-(It's gonna be a hell of a night)
-(It's gonna be a hell of a night)
-
-It's gonna be a hell of a night
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> 'Cause it's gonna be alright
+> Let's have a good time, everybody
+> It's gonna be a hell of a night
+> It's gonna be a hell of a night
+>
+> Some feelings come and go for seasons
+> But this one ain't going away (What's the reason for it?)
+> I'm feeling lucky, that's the reason
+> My superstitions gone away
+>
+> I don't really know what you're tryna do
+> But you're never gonna win if you play to lose
+> If I get locked up, promise you'll bail me out
+>
+> 'Cause it's gonna be alright
+> Let's have a good time, everybody
+> It's gonna be a hell of a night
+> Yeah, it's gonna be alright
+> Let's have a good time, everybody
+> It's gonna be a hell of a night
+> It's gonna be a hell of a night
+> (It's gonna be a hell of a night)
+> (It's gonna be a hell of a night)
+>
+> Hands up and wave 'em to the ceiling (To the ceiling)
+> We got some trouble on the way (Trouble's on the way)
+> I'm feeling lucky, that's the reason, I know
+> My superstitions gone away
+>
+> I don't really know what you're tryna do
+> But you're never gonna win if you play to lose
+> If I get locked up, promise you'll bail me out
+>
+> 'Cause it's gonna be alright
+> Let's have a good time, everybody
+> It's gonna be a hell of a night
+> Yeah, it's gonna be alright
+> Let's have a good time, everybody
+> It's gonna be a hell of a night
+> It's gonna be a hell of a night
+> (It's gonna be a hell of a night)
+> (It's gonna be a hell of a night)
+>
+> It's gonna be a hell of a night
+> ```
 
 ## Source notes
 

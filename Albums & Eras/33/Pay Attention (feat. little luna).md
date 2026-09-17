@@ -142,97 +142,98 @@ A handful of claims that cut across the whole pitch.
 
 ## Lyrics
 
-```
-Hello, Attention
-I'd like to introduce you to someone
-Are you happy in your life?
-Or do you dream of more all the time?
-There's so much that I can help you find
-Step right up to my Door
-There's a little price you pay
-But I can show you what's in Store
-You want the money?
-You want the car?
-You want the big BIG house?
-I know
-Everybody want the money
-They want the car
-They want the big BIG house
-I know
-Everybody's gotta pay me
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay me
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay
-They say Stars are Born from Light
-And you're so much more than you Mind
-(Tell me about It)
-There's so much that I can help you find
-Step right up to my Door
-There's a little price you pay
-But I can show you what's in Store
-You want the money?
-You want the car?
-You want the big BIG house?
-I know
-Everybody want the money
-They want the car
-They want the big BIG house
-I know
-Everybody's gotta pay me
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay me
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay
-Attention!
-Attention!
-Attention!
-Attention!
-Attention!
-Attention!
-Attention!
-Attention!
-May I have all your ears to the back of the room
-You got a little bitty problem, but I know what to do
-I got eyes all around my head
-It's true
-So you can see anything when you see my view
-Whatchu want?
-Tell me what you want
-I'll get it for you
-Just a small price and a rendezvous
-I've been behind the Empires that rise
-What they televise is just my disguise
-What's my name?
-Attention!
-What's my name?
-Attention!
-What's my name!?
-ATTENTION!
-Ya
-Everybody's gotta pay me
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay me
-(Who Who?)
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay
-Pay Attention
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay
-Pay Attention
-You gotta pay Attention
-(Pay Attention)
-Everybody's gotta pay
-(Pay Attention)
-MaMa
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Hello, Attention
+> I'd like to introduce you to someone
+> Are you happy in your life?
+> Or do you dream of more all the time?
+> There's so much that I can help you find
+> Step right up to my Door
+> There's a little price you pay
+> But I can show you what's in Store
+> You want the money?
+> You want the car?
+> You want the big BIG house?
+> I know
+> Everybody want the money
+> They want the car
+> They want the big BIG house
+> I know
+> Everybody's gotta pay me
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay me
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay
+> They say Stars are Born from Light
+> And you're so much more than you Mind
+> (Tell me about It)
+> There's so much that I can help you find
+> Step right up to my Door
+> There's a little price you pay
+> But I can show you what's in Store
+> You want the money?
+> You want the car?
+> You want the big BIG house?
+> I know
+> Everybody want the money
+> They want the car
+> They want the big BIG house
+> I know
+> Everybody's gotta pay me
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay me
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay
+> Attention!
+> Attention!
+> Attention!
+> Attention!
+> Attention!
+> Attention!
+> Attention!
+> Attention!
+> May I have all your ears to the back of the room
+> You got a little bitty problem, but I know what to do
+> I got eyes all around my head
+> It's true
+> So you can see anything when you see my view
+> Whatchu want?
+> Tell me what you want
+> I'll get it for you
+> Just a small price and a rendezvous
+> I've been behind the Empires that rise
+> What they televise is just my disguise
+> What's my name?
+> Attention!
+> What's my name?
+> Attention!
+> What's my name!?
+> ATTENTION!
+> Ya
+> Everybody's gotta pay me
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay me
+> (Who Who?)
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay
+> Pay Attention
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay
+> Pay Attention
+> You gotta pay Attention
+> (Pay Attention)
+> Everybody's gotta pay
+> (Pay Attention)
+> MaMa
+> ```
 
 ## Source notes
 

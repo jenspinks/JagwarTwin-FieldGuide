@@ -115,86 +115,87 @@ Two things about that table earn a second look. First, the verse pairing is deli
 
 ## Lyrics
 
-```
-[Verse 1]
-I can tell you what it's like to be in love
-And the way it feels to lose
-Love's a question
-Not an answer from above
-Love's a question that you chose
-
-[Pre-Chorus]
-Something like a feeling
-Something hard to show
-Something to believe in
-Something that I know
-
-[Chorus]
-Even if the stars are out of place
-Even if I'm lost along the way
-I can hear your heart, it beats
-It moves to me
-I move to you
-Even if the stars are out of place
-Even if I'm lost along the way
-I can hear your heart, it beats
-It moves to me
-I move to you
-I move to you
-
-[Post-Chorus]
-Na na na na na na na
-Na na na na na na na
-Na na na na na na na
-I move to you
-I move to you
-
-[Verse 2]
-I can tell you what it's like to be a kid
-And the way it feels to grow
-Love's a question
-Not an answer that you give
-Love's a question that you know
-
-[Pre-Chorus]
-Something like a feeling
-Something hard to show
-Something to believe in
-Something that I know
-
-[Chorus]
-Even if the stars are out of place
-Even if I'm lost along the way
-I can hear your heart, it beats
-It moves to me
-I move to you
-Even if the stars are out of place
-Even if I'm lost along the way
-I can hear your heart, it beats
-It moves to me
-I move to you
-I move to you
-
-[Post-Chorus]
-Na na na na na na na
-Na na na na na na na
-Na na na na na na na
-I move to you
-I move to you
-Na na na na na na na
-Na na na na na na na
-Na na na na na na na
-I move to you
-I move to you
-
-[Outro]
-Even if the stars are out of place
-Even if I'm lost along the way
-I can hear your heart, it beats
-It moves to me
-I move to you
-I move to you
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Verse 1]
+> I can tell you what it's like to be in love
+> And the way it feels to lose
+> Love's a question
+> Not an answer from above
+> Love's a question that you chose
+>
+> [Pre-Chorus]
+> Something like a feeling
+> Something hard to show
+> Something to believe in
+> Something that I know
+>
+> [Chorus]
+> Even if the stars are out of place
+> Even if I'm lost along the way
+> I can hear your heart, it beats
+> It moves to me
+> I move to you
+> Even if the stars are out of place
+> Even if I'm lost along the way
+> I can hear your heart, it beats
+> It moves to me
+> I move to you
+> I move to you
+>
+> [Post-Chorus]
+> Na na na na na na na
+> Na na na na na na na
+> Na na na na na na na
+> I move to you
+> I move to you
+>
+> [Verse 2]
+> I can tell you what it's like to be a kid
+> And the way it feels to grow
+> Love's a question
+> Not an answer that you give
+> Love's a question that you know
+>
+> [Pre-Chorus]
+> Something like a feeling
+> Something hard to show
+> Something to believe in
+> Something that I know
+>
+> [Chorus]
+> Even if the stars are out of place
+> Even if I'm lost along the way
+> I can hear your heart, it beats
+> It moves to me
+> I move to you
+> Even if the stars are out of place
+> Even if I'm lost along the way
+> I can hear your heart, it beats
+> It moves to me
+> I move to you
+> I move to you
+>
+> [Post-Chorus]
+> Na na na na na na na
+> Na na na na na na na
+> Na na na na na na na
+> I move to you
+> I move to you
+> Na na na na na na na
+> Na na na na na na na
+> Na na na na na na na
+> I move to you
+> I move to you
+>
+> [Outro]
+> Even if the stars are out of place
+> Even if I'm lost along the way
+> I can hear your heart, it beats
+> It moves to me
+> I move to you
+> I move to you
+> ```
 
 ## Source notes
 

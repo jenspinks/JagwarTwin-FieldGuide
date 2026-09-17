@@ -97,75 +97,76 @@ The lovely structural fact: the **same 1957 performance** feeds two different so
 
 ## Lyrics
 
-```
-Cause we never see our depth till we're underwater
-And we never need our breathe till we're underwater
-Time tickin and your head goin underwater
-Waist deep, wasting time
-We know we cant change
-Nobody else
-Nobody else
-Nobody else
-Nobody else
-I know I'm
-Wasting precious time
-Nobody else
-Nobody else
-Nobody else
-Nobody else
-I know I'm
-Wasting precious time
-Walked up Heaven's gate
-Picking the lock
-Precious time on your mind
-Stocked up for the day
-Ready or not
-Precious time on your mind
-Cause we never see our depth till we're underwater
-And we never need our breathe till we're underwater
-Time tickin and your head goin underwater
-Waist deep, wasting time
-We know we cant change
-Nobody else
-Nobody else
-Nobody else
-Nobody else
-I know I'm
-Wasting precious time
-Nobody else
-Nobody else
-Nobody else
-Nobody else
-I know I'm
-Wasting precious time
-(The people)
-Shot like buffalo out on the plains
-Precious time on your mind
-'Lot like Navajo blood in the veins
-Precious time on your mind
-Cause we never see our depth till we're underwater
-And we never need our breathe till we're underwater
-Time tickin and your head goin underwater
-Waist deep, wasting time
-We know we cant change
-Nobody else
-Nobody else
-Nobody else
-Nobody else
-I know I'm
-Wasting precious time
-Nobody else
-There's nobody else
-Nobody else
-Nobody else
-Nobody else
-I know I'm
-Wasting precious time
-Ya
-Wasting precious time
-Wasting precious time
-Wasting precious time
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Cause we never see our depth till we're underwater
+> And we never need our breathe till we're underwater
+> Time tickin and your head goin underwater
+> Waist deep, wasting time
+> We know we cant change
+> Nobody else
+> Nobody else
+> Nobody else
+> Nobody else
+> I know I'm
+> Wasting precious time
+> Nobody else
+> Nobody else
+> Nobody else
+> Nobody else
+> I know I'm
+> Wasting precious time
+> Walked up Heaven's gate
+> Picking the lock
+> Precious time on your mind
+> Stocked up for the day
+> Ready or not
+> Precious time on your mind
+> Cause we never see our depth till we're underwater
+> And we never need our breathe till we're underwater
+> Time tickin and your head goin underwater
+> Waist deep, wasting time
+> We know we cant change
+> Nobody else
+> Nobody else
+> Nobody else
+> Nobody else
+> I know I'm
+> Wasting precious time
+> Nobody else
+> Nobody else
+> Nobody else
+> Nobody else
+> I know I'm
+> Wasting precious time
+> (The people)
+> Shot like buffalo out on the plains
+> Precious time on your mind
+> 'Lot like Navajo blood in the veins
+> Precious time on your mind
+> Cause we never see our depth till we're underwater
+> And we never need our breathe till we're underwater
+> Time tickin and your head goin underwater
+> Waist deep, wasting time
+> We know we cant change
+> Nobody else
+> Nobody else
+> Nobody else
+> Nobody else
+> I know I'm
+> Wasting precious time
+> Nobody else
+> There's nobody else
+> Nobody else
+> Nobody else
+> Nobody else
+> I know I'm
+> Wasting precious time
+> Ya
+> Wasting precious time
+> Wasting precious time
+> Wasting precious time
+> ```
 
 ## Source notes
 

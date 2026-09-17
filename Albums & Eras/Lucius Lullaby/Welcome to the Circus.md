@@ -73,7 +73,7 @@ It also sharpens the album's biggest open question. Is Lucius *protecting* Roy, 
 
 - [[Sir Lucius]] — the speaking voice, in his cold, prophetic ruler mode; the ringmaster and self-declared final boss. This is his ringmaster address, delivered from *inside* the tent.
 - [[Roy]] — the body that provides the voice; the reluctant performer Lucius overrode in EP 3. Credited here as the human "Roy English" (not the ROY *character* used elsewhere on the album), which is itself a quiet tell about who's really running this track.
-- **"Boss"** — the title Leif gives *Lucius* in the visual lore (*"Boss, I got this"* — EP 6, [[The Interview]]); Lucius answers with a boast, *"my lullaby is everywhere,"* not a report to any superior. He crowns himself the final boss and acknowledges no one above him. The larger irony the album holds open: whether he is nonetheless serving the pattern he thinks he beat, the true higher power being the champion he denies ([[Mary]], [[Roy]]).
+- **"Boss"** — the title Leif gives *Lucius* in the visual lore (*"Boss, I got this"* — EP 6, [[The Interview]]); Lucius answers with a boast, *"my lullaby is everywhere."* He crowns himself the final boss, sure he has the game figured out, and believes he is the champion while the story casts him as the villain. The larger irony the album holds open: whether he is nonetheless serving the pattern he thinks he beat, while the victory goes to [[Mary]] or [[Roy]].
 - **The Crowd** — simultaneously co-creators and marks, then flattened into passive seat-holders by *"take your seat, scream and shout."* They're the Circus's fuel *and* its product; their voice is scripted as **noise**, never song. (Contrast the [[The Circle|Circle]], where distinct voices return a shared song. The Circus wants undifferentiated noise.)
 - [[Mary]] and [[Ballerina Boy]] — **absent**, and the absence is load-bearing (see below).
 
@@ -173,73 +173,74 @@ But note where the comedy stops. Lucius mocks *Ballerina Boy* — the childhood 
 
 ## Lyrics
 
-```
-[Intro]
-Welcome to the circus
-Welcome to the circus
-
-[Verse 1]
-Every day is a circus all in my brain
-Flying cars and a ring of fire, no escaping, ah
-My teeth are falling out my mouth
-I'm screaming, but no words come out
-Flashing lights, there's no exit sign in my maze
-
-[Pre-Chorus]
-Ooh
-Spinning you 'round and 'round, 'round
-Ooh
-Everything's upside down
-
-[Chorus 1]
-Step right up, shut your mouth
-I'll chew you up, spit you out
-Welcome to the circus, ah
-Welcome to the circus, ah
-
-[Chorus 2]
-Take your seat, scream and shout
-'Cause I'm the one they're talking 'bout
-Welcome to the circus, ah
-Welcome to the circus (yeah)
-Welcome to the circus, ah
-
-[Verse 2 / Bridge]
-I'm juggling your darkest thoughts
-It's a spectacle, I'm the final boss
-Paint my face, and they clap and smile
-I'm so outrageous, I'm so in style
-But when the curtains close
-When the curtains close
-Did you like the show?
-Did you like the show?
-They love it when you lose control
-Lose control
-
-[Pre-Chorus]
-Ooh
-Spinning you 'round and 'round
-Ooh
-Everything's upside down
-
-[Chorus 1]
-Step right up, shut your mouth
-I'll chew you up, spit you out
-Welcome to the circus, ah
-Welcome to the circus, ah
-
-[Chorus 2]
-Take your seat, scream and shout
-'Cause I'm the one they're talking 'bout
-Welcome to the circus, ah
-Welcome to the circus, yeah
-
-[Outro]
-Yeah, yeah, yeah, yeah
-Welcome to the circus, ah
-Welcome to the circus, ah
-Welcome to the circus
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Intro]
+> Welcome to the circus
+> Welcome to the circus
+>
+> [Verse 1]
+> Every day is a circus all in my brain
+> Flying cars and a ring of fire, no escaping, ah
+> My teeth are falling out my mouth
+> I'm screaming, but no words come out
+> Flashing lights, there's no exit sign in my maze
+>
+> [Pre-Chorus]
+> Ooh
+> Spinning you 'round and 'round, 'round
+> Ooh
+> Everything's upside down
+>
+> [Chorus 1]
+> Step right up, shut your mouth
+> I'll chew you up, spit you out
+> Welcome to the circus, ah
+> Welcome to the circus, ah
+>
+> [Chorus 2]
+> Take your seat, scream and shout
+> 'Cause I'm the one they're talking 'bout
+> Welcome to the circus, ah
+> Welcome to the circus (yeah)
+> Welcome to the circus, ah
+>
+> [Verse 2 / Bridge]
+> I'm juggling your darkest thoughts
+> It's a spectacle, I'm the final boss
+> Paint my face, and they clap and smile
+> I'm so outrageous, I'm so in style
+> But when the curtains close
+> When the curtains close
+> Did you like the show?
+> Did you like the show?
+> They love it when you lose control
+> Lose control
+>
+> [Pre-Chorus]
+> Ooh
+> Spinning you 'round and 'round
+> Ooh
+> Everything's upside down
+>
+> [Chorus 1]
+> Step right up, shut your mouth
+> I'll chew you up, spit you out
+> Welcome to the circus, ah
+> Welcome to the circus, ah
+>
+> [Chorus 2]
+> Take your seat, scream and shout
+> 'Cause I'm the one they're talking 'bout
+> Welcome to the circus, ah
+> Welcome to the circus, yeah
+>
+> [Outro]
+> Yeah, yeah, yeah, yeah
+> Welcome to the circus, ah
+> Welcome to the circus, ah
+> Welcome to the circus
+> ```
 
 ## Source notes
 

@@ -16,7 +16,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## At a glance
 
-- **What it is** — the emblem of the heart-pole: love, gentleness, peace, the spirit that *descends* rather than seizes. Roy's bird in the simple character-key, opposite [[Sir Lucius]]'s [[The Crow|crow]] — dove against crow, Venus against Mercury, heart against mind.
+- **What it is** — the emblem of the heart-pole: love, gentleness, peace, the spirit that *descends* rather than seizes. Roy's bird in the basic symbol map, opposite [[Sir Lucius]]'s [[The Crow|crow]] — dove against crow, Venus against Mercury, heart against mind.
 - **Carried by** — [[Roy]] (Netzach / Venus, the heart); and, as a *function,* the lamp-bearing Dove of the [[Sir Rabbit]] poem — a [[Mary]]-style guide who helps and releases.
 - **Appears in** — the [[Sir Rabbit]] initiation poem (the Dove with a lamp) · the *Hall of Mirrors* white-bird-on-a-metal-vessel artifact · the upload-body codes (*"left hip of a dove," "cranium of a swan"*) · Roy's own naming of the bird as **Cygnus.**
 - **Confidence** — grounded fact (the poem's Dove, the HoM artifacts, the basic symbol map) braided with the universal dove-tradition, labeled as such.

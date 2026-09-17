@@ -141,40 +141,41 @@ The simplest reading survives all of this, and it's worth saying plainly: on its
 
 ## Lyrics
 
-```
-In the City of Angels walking down the star-lined road
-Another beautiful stranger passed me by, I said hello
-And she said
-"All your dreams are coming true
-Everyone looks just like you"
-
-In the City of Angels
-Welcome to Hollywood
-You're in the City of Angels
-Welcome to Hollywood
-Welcome to Hollywood
-
-Some people wanna be saviours, gangsters
-Live forever in the bright lights, godlike, live forever
-Never gonna die, no, I'm never gonna die
-If I make it out alive, then I'm never gonna die, yeah
-All my dreams are coming true
-Everyone looks just like you
-
-In the City of Angels
-Welcome to Hollywood
-In the City of Angels
-It's the City of Light
-Welcome to Hollywood
-And she said
-
-[Never gonna die, no, I'm never gonna die / If I make it out alive, then I'm never gonna die] (x2)
-[Never gonna die, never, never gonna die / If I make it out alive, then I'm never gonna die] (x2)
-
-All your dreams are coming true
-Everyone looks just like you
-In the City of Angels
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> In the City of Angels walking down the star-lined road
+> Another beautiful stranger passed me by, I said hello
+> And she said
+> "All your dreams are coming true
+> Everyone looks just like you"
+>
+> In the City of Angels
+> Welcome to Hollywood
+> You're in the City of Angels
+> Welcome to Hollywood
+> Welcome to Hollywood
+>
+> Some people wanna be saviours, gangsters
+> Live forever in the bright lights, godlike, live forever
+> Never gonna die, no, I'm never gonna die
+> If I make it out alive, then I'm never gonna die, yeah
+> All my dreams are coming true
+> Everyone looks just like you
+>
+> In the City of Angels
+> Welcome to Hollywood
+> In the City of Angels
+> It's the City of Light
+> Welcome to Hollywood
+> And she said
+>
+> [Never gonna die, no, I'm never gonna die / If I make it out alive, then I'm never gonna die] (x2)
+> [Never gonna die, never, never gonna die / If I make it out alive, then I'm never gonna die] (x2)
+>
+> All your dreams are coming true
+> Everyone looks just like you
+> In the City of Angels
+> ```
 
 ## Source notes
 

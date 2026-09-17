@@ -149,93 +149,94 @@ That dual register — pop-friendly affect (clapping, *"yah, we're in the club"*
 
 ## Lyrics
 
-```
-Let's see you clap them hands!
-Let's see you
-I like to party with all of my friends
-But we don't go outside
-We stay in and pretend that we're in the club
-(Let's see you clap them hands!)
-Yah, we're in the club
-(Let's see you)
-A new direction
-Affecting the state of your mind
-Give me attention, attention
-The people are mine
-Running around like chickens with no head
-In circles, they go
-Looking like Charles Dickens
-I mean dead, the tale was told
-So one, two, three, four, follow me
-To the beat of my drum
-Sing along with me
-Yah, one, two, three, four, follow me
-Lock up your door
-Get on the floor
-I like to party with all of my friends
-But we don't go outside
-We stay in and pretend that we're in the club
-(Let's see you clap them hands!)
-Yah, we're in the club
-(Let's see you)
-I like to party with all of my friends
-But we don't go outside
-We stay in and pretend that we're in the club
-(Let's see you clap them hands!)
-Yah, we're in the club
-(Let's see you)
-All I wanna do is zoomy-zoomy, zoom-zoom
-So I zoom everyday
-Everyday, everyday
-Television on the news
-Devil's Food is a cake
-Cake, cake, cake, cake!
-We don't want 'em awake
-Bake a truth with a lie
-Then we sell 'em the cake
-So one, two, three, four, follow me
-To the beat of my drum
-Sing along with me
-Yah, one, two, three, four, follow me
-Lock up your door!
-Get on the floor!
-I like to party with all of my friends
-But we don't go outside
-We stay in and pretend that we're in the club
-(Let's see you clap them hands!)
-Yah, we're in the club
-(Let's see you)
-I like to party with all of my friends
-But we don't go outside
-We stay in and pretend that we're in the club
-(Let's see you clap them hands!)
-Yah, we're in the club
-(Let's see you)
-All I wanna do is zoomy-zoomy, zoom-zoom
-Devil waking up to claim the kingdom
-People waking up to claim what's in them
-Heaven is within your heart
-The kingdom, you're the kingdom
-You're the kingdom
-(Hallelujah)
-Heaven is within your heart
-The kingdom, you're the kingdom
-You're the King
-We interrupt our program to bring you this important message
-I like to party with all of my friends
-But we don't go outside
-We stay in, and pretend that we're in the club
-(Let's see you clap them hands!)
-Yah, we're in the club
-(Let's see it! Let's see it!)
-I like to party with all of my friends
-(I like to party)
-But we don't go outside
-We stay in and pretend that we're in the club (we stay in)
-(Let's see you clap your hands)
-Yah, we're in the club!
-Let's see you clap them hands!
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Let's see you clap them hands!
+> Let's see you
+> I like to party with all of my friends
+> But we don't go outside
+> We stay in and pretend that we're in the club
+> (Let's see you clap them hands!)
+> Yah, we're in the club
+> (Let's see you)
+> A new direction
+> Affecting the state of your mind
+> Give me attention, attention
+> The people are mine
+> Running around like chickens with no head
+> In circles, they go
+> Looking like Charles Dickens
+> I mean dead, the tale was told
+> So one, two, three, four, follow me
+> To the beat of my drum
+> Sing along with me
+> Yah, one, two, three, four, follow me
+> Lock up your door
+> Get on the floor
+> I like to party with all of my friends
+> But we don't go outside
+> We stay in and pretend that we're in the club
+> (Let's see you clap them hands!)
+> Yah, we're in the club
+> (Let's see you)
+> I like to party with all of my friends
+> But we don't go outside
+> We stay in and pretend that we're in the club
+> (Let's see you clap them hands!)
+> Yah, we're in the club
+> (Let's see you)
+> All I wanna do is zoomy-zoomy, zoom-zoom
+> So I zoom everyday
+> Everyday, everyday
+> Television on the news
+> Devil's Food is a cake
+> Cake, cake, cake, cake!
+> We don't want 'em awake
+> Bake a truth with a lie
+> Then we sell 'em the cake
+> So one, two, three, four, follow me
+> To the beat of my drum
+> Sing along with me
+> Yah, one, two, three, four, follow me
+> Lock up your door!
+> Get on the floor!
+> I like to party with all of my friends
+> But we don't go outside
+> We stay in and pretend that we're in the club
+> (Let's see you clap them hands!)
+> Yah, we're in the club
+> (Let's see you)
+> I like to party with all of my friends
+> But we don't go outside
+> We stay in and pretend that we're in the club
+> (Let's see you clap them hands!)
+> Yah, we're in the club
+> (Let's see you)
+> All I wanna do is zoomy-zoomy, zoom-zoom
+> Devil waking up to claim the kingdom
+> People waking up to claim what's in them
+> Heaven is within your heart
+> The kingdom, you're the kingdom
+> You're the kingdom
+> (Hallelujah)
+> Heaven is within your heart
+> The kingdom, you're the kingdom
+> You're the King
+> We interrupt our program to bring you this important message
+> I like to party with all of my friends
+> But we don't go outside
+> We stay in, and pretend that we're in the club
+> (Let's see you clap them hands!)
+> Yah, we're in the club
+> (Let's see it! Let's see it!)
+> I like to party with all of my friends
+> (I like to party)
+> But we don't go outside
+> We stay in and pretend that we're in the club (we stay in)
+> (Let's see you clap your hands)
+> Yah, we're in the club!
+> Let's see you clap them hands!
+> ```
 
 ## Source notes
 

@@ -126,60 +126,61 @@ And the tragedy sits right in the architecture: the wound never gets repaired, i
 
 ## Lyrics
 
-```
-[Verse 1]
-I was sleeping on the sidewalk
-No money, no car
-Everything I owned in a backpack
-I had it like that
-Hollywood I had the night watch
-Looked down at my stars
-Never had an option to fallback
-But now I'm offtrack
-
-[Pre-Chorus]
-Where did my friends go when i had nothing?
-I remember that
-I made a list and I kept all the names to remember that
-
-[Chorus]
-I don't want no fake friends around me
-I don't want no fake friends
-(I don't want any)
-I don't want no fake friends around me
-I don't want no fake friends
-(I don't want any)
-
-♪ Fake Friends
-
-[Verse 2]
-I was hopping over fences
-Ann Morrison Park
-Always hated school so I dropped out
-I'm taking off now
-Got me turning up my senses
-They ain't even on my radar
-Bali with the fam for the New Year
-I'm seeing so clear
-
-[Pre-Chorus]
-Where did my friends go when i had nothing?
-I remember that
-I made a list and I kept all the names to remember that
-
-[Chorus — extended]
-I don't want no fake friends around me
-I don't want no fake friends
-(I don't want any)
-I don't want no fake friends around me
-I don't want no fake friends
-(I don't want any)
-I don't want no fake friends around me
-I don't want no fake friends
-(I don't want any)
-
-Fake Friends
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Verse 1]
+> I was sleeping on the sidewalk
+> No money, no car
+> Everything I owned in a backpack
+> I had it like that
+> Hollywood I had the night watch
+> Looked down at my stars
+> Never had an option to fallback
+> But now I'm offtrack
+>
+> [Pre-Chorus]
+> Where did my friends go when i had nothing?
+> I remember that
+> I made a list and I kept all the names to remember that
+>
+> [Chorus]
+> I don't want no fake friends around me
+> I don't want no fake friends
+> (I don't want any)
+> I don't want no fake friends around me
+> I don't want no fake friends
+> (I don't want any)
+>
+> ♪ Fake Friends
+>
+> [Verse 2]
+> I was hopping over fences
+> Ann Morrison Park
+> Always hated school so I dropped out
+> I'm taking off now
+> Got me turning up my senses
+> They ain't even on my radar
+> Bali with the fam for the New Year
+> I'm seeing so clear
+>
+> [Pre-Chorus]
+> Where did my friends go when i had nothing?
+> I remember that
+> I made a list and I kept all the names to remember that
+>
+> [Chorus — extended]
+> I don't want no fake friends around me
+> I don't want no fake friends
+> (I don't want any)
+> I don't want no fake friends around me
+> I don't want no fake friends
+> (I don't want any)
+> I don't want no fake friends around me
+> I don't want no fake friends
+> (I don't want any)
+>
+> Fake Friends
+> ```
 
 ## Source notes
 

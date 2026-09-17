@@ -122,52 +122,53 @@ The paradox the song holds cleanest is this: **the anti-mask revelation is happe
 
 ## Lyrics
 
-```
-Ayy, it's been a long time coming
-
-Rich man, poor man, out on the street
-They're singing yeah, yeah (It's been a long time coming)
-Rich man, poor man, blood on they knees
-They're singing yeah, yeah (It's been a long time coming)
-
-'Cause every night when I look in the mirror
-I see the disguise on my face getting clearer
-'Cause rich man, poor man, all of us bleed
-They're singing yeah, yeah (It's been a long time coming)
-
-Ayy, it's been a long time coming
-Ayy, it's been a long time coming
-And they know, yeah, they know, that we ain't never running
-And they know, yeah, they know, that we ain't never running
-Ayy, it's been a long time coming
-
-Rich man, poor man, prophet and priest
-They're singing yeah, yeah (It's been a long time coming)
-Rich man, poor man, nobody's free
-They're singing (It's been a long time coming)
-
-'Cause every night when I look in the mirror
-I see the disguise on my face getting clearer
-'Cause rich man, poor man, all of us bleed
-They're singing yeah, yeah (It's been a long time coming)
-
-Ayy, it's been a long time coming
-Ayy, it's been a long time coming
-And they know, yeah, they know, that we ain't never running
-And they know, yeah, they know, that we ain't never running
-Ayy, it's been a long time coming
-
-This one's for the faceless
-Yeah, the lost, not the famous
-And this one's for the dreamers
-Yeah, the beatdown believers, yeah
-
-Ayy, it's been a long time coming
-Ayy, it's been a long time coming
-And they know, yeah, they know, that we ain't never running
-And they know, yeah, they know, that we ain't never running
-Ayy, it's been a long time coming
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Ayy, it's been a long time coming
+>
+> Rich man, poor man, out on the street
+> They're singing yeah, yeah (It's been a long time coming)
+> Rich man, poor man, blood on they knees
+> They're singing yeah, yeah (It's been a long time coming)
+>
+> 'Cause every night when I look in the mirror
+> I see the disguise on my face getting clearer
+> 'Cause rich man, poor man, all of us bleed
+> They're singing yeah, yeah (It's been a long time coming)
+>
+> Ayy, it's been a long time coming
+> Ayy, it's been a long time coming
+> And they know, yeah, they know, that we ain't never running
+> And they know, yeah, they know, that we ain't never running
+> Ayy, it's been a long time coming
+>
+> Rich man, poor man, prophet and priest
+> They're singing yeah, yeah (It's been a long time coming)
+> Rich man, poor man, nobody's free
+> They're singing (It's been a long time coming)
+>
+> 'Cause every night when I look in the mirror
+> I see the disguise on my face getting clearer
+> 'Cause rich man, poor man, all of us bleed
+> They're singing yeah, yeah (It's been a long time coming)
+>
+> Ayy, it's been a long time coming
+> Ayy, it's been a long time coming
+> And they know, yeah, they know, that we ain't never running
+> And they know, yeah, they know, that we ain't never running
+> Ayy, it's been a long time coming
+>
+> This one's for the faceless
+> Yeah, the lost, not the famous
+> And this one's for the dreamers
+> Yeah, the beatdown believers, yeah
+>
+> Ayy, it's been a long time coming
+> Ayy, it's been a long time coming
+> And they know, yeah, they know, that we ain't never running
+> And they know, yeah, they know, that we ain't never running
+> Ayy, it's been a long time coming
+> ```
 
 ## Source notes
 

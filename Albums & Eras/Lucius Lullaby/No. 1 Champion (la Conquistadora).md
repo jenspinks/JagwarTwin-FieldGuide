@@ -120,54 +120,55 @@ The lyric puts *blue jeans* and *good genes* inside the narrator's appraisal of 
 
 ## Lyrics
 
-```
-I'm the number one champion in this town
-
-A-B-C, count 'em, one, two, three
-You got a little bit of money, but it don't come cheap
-If you don't know 'bout me, you should know by now
-I'm the number one champion in this town
-
-Mary, Mary, so contrary
-Extraordinary, she was scary when she walked by
-In the blue jeans, she got good genes
-Queen of California on the corner doing her time
-
-She know everybody wanna hold her hand, and I
-Never noticed what was underneath that dress, oh, I
-Saw a halo but I didn't see a head, so I
-Made a move like a fool, dropped me dead when she said
-
-[Chorus: A-B-C, count 'em, one, two, three / You got a little bit of money, but it don't come cheap / If you don't know 'bout me, you should know by now / I'm the number one champion in this town] (x2)
-
-Stumbled into the church
-Mary, Mary was there
-On her knees, quite a scene
-Making everyone stare
-She was La Conquistadora with a gun in her hand
-She was mopping up the flora, fawning over no man
-
-She know everybody wanna hold her hand, and I
-Never noticed what was underneath that dress, oh, I
-Saw a halo but I didn't see a head, so I
-Made a move like a fool, dropped me dead when she said
-
-[Chorus] (x2)
-I'm the number one champion in this town
-
-Mary, Mary, such a revolutionary
-Queen of California on the corner doing her time
-Mary, Mary, such a revolutionary
-Queen of California on the corner doing her time
-Mary, Mary, such a revolutionary
-Such a revolutionary, such a revolutionary
-
-[Chorus] (x2)
-I'm the number one champion in this town
-I'm the number one champion in this town
-I'm the number one champion in this town
-I'm the number one champion in this town
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> I'm the number one champion in this town
+>
+> A-B-C, count 'em, one, two, three
+> You got a little bit of money, but it don't come cheap
+> If you don't know 'bout me, you should know by now
+> I'm the number one champion in this town
+>
+> Mary, Mary, so contrary
+> Extraordinary, she was scary when she walked by
+> In the blue jeans, she got good genes
+> Queen of California on the corner doing her time
+>
+> She know everybody wanna hold her hand, and I
+> Never noticed what was underneath that dress, oh, I
+> Saw a halo but I didn't see a head, so I
+> Made a move like a fool, dropped me dead when she said
+>
+> [Chorus: A-B-C, count 'em, one, two, three / You got a little bit of money, but it don't come cheap / If you don't know 'bout me, you should know by now / I'm the number one champion in this town] (x2)
+>
+> Stumbled into the church
+> Mary, Mary was there
+> On her knees, quite a scene
+> Making everyone stare
+> She was La Conquistadora with a gun in her hand
+> She was mopping up the flora, fawning over no man
+>
+> She know everybody wanna hold her hand, and I
+> Never noticed what was underneath that dress, oh, I
+> Saw a halo but I didn't see a head, so I
+> Made a move like a fool, dropped me dead when she said
+>
+> [Chorus] (x2)
+> I'm the number one champion in this town
+>
+> Mary, Mary, such a revolutionary
+> Queen of California on the corner doing her time
+> Mary, Mary, such a revolutionary
+> Queen of California on the corner doing her time
+> Mary, Mary, such a revolutionary
+> Such a revolutionary, such a revolutionary
+>
+> [Chorus] (x2)
+> I'm the number one champion in this town
+> I'm the number one champion in this town
+> I'm the number one champion in this town
+> I'm the number one champion in this town
+> ```
 
 ## Source notes
 

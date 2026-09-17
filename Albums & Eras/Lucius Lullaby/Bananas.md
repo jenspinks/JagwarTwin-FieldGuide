@@ -130,42 +130,43 @@ That's the comic-horror register the album runs on: nursery form, grotesque cont
 
 ## Lyrics
 
-```
-Go Bananas, GoGo Bananas
-Go Bananas, GoGo Bananananas
-
-Hey kids!
-Do you ever wanna break shit? (break shit)
-Do you wanna get wasted?
-Yeah, yah!
-
-Well alright (x4)
-
-Go Bananas, GoGo Bananas
-Go Bananas, GoGo Banananana (x2) (Yeah)
-
-It's the weekend and I'm freaking, like I'm ready to blow.
-Just the monkeys feeling funky, I got nowhere to go
-Don't wanna talk, I wanna rock, I wanna light up the stove.
-
-And burn it down, Burn it down, Burn it down down down
-
-Cause I wanna be Good, but it's fun to be Bad,
-And I wanna be nice, but I always get mad.
-And I wanna be good, but it's fun to be baaahaahaaaahaaahad.
-
-Hey kids! (hey)
-Do you ever wanna break shit? (yeah)
-Do you wanna get wasted? (uh-huh)
-
-I grew angry, sometimes I can lose my temper. (temper)
-I hear voices in my mind I don't remember
-[Did I do that?]
-
-Cause I wanna be Good, but it's fun to be Bad (bad bad ba-bad)
-And I wanna be nice, but I always get maahaaaahaad.
-Oh Maaaan!
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Go Bananas, GoGo Bananas
+> Go Bananas, GoGo Bananananas
+>
+> Hey kids!
+> Do you ever wanna break shit? (break shit)
+> Do you wanna get wasted?
+> Yeah, yah!
+>
+> Well alright (x4)
+>
+> Go Bananas, GoGo Bananas
+> Go Bananas, GoGo Banananana (x2) (Yeah)
+>
+> It's the weekend and I'm freaking, like I'm ready to blow.
+> Just the monkeys feeling funky, I got nowhere to go
+> Don't wanna talk, I wanna rock, I wanna light up the stove.
+>
+> And burn it down, Burn it down, Burn it down down down
+>
+> Cause I wanna be Good, but it's fun to be Bad,
+> And I wanna be nice, but I always get mad.
+> And I wanna be good, but it's fun to be baaahaahaaaahaaahad.
+>
+> Hey kids! (hey)
+> Do you ever wanna break shit? (yeah)
+> Do you wanna get wasted? (uh-huh)
+>
+> I grew angry, sometimes I can lose my temper. (temper)
+> I hear voices in my mind I don't remember
+> [Did I do that?]
+>
+> Cause I wanna be Good, but it's fun to be Bad (bad bad ba-bad)
+> And I wanna be nice, but I always get maahaaaahaad.
+> Oh Maaaan!
+> ```
 
 ## Source notes
 

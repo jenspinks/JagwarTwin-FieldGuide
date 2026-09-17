@@ -140,103 +140,104 @@ For a single, *Down to You* had an unusually deep paratextual life — a manifes
 
 ## Lyrics
 
-```
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-What is it that you seek?
-In your mind, you must be it
-Shine your light when you see it
-Like the flame at the top of your head
-And to your mind, a light will find its way from heaven
-But once you find it, can't unwind it with your head on
-So listen to your heart and be the beat you're beating
-'Cause nothing ever changes 'til it changes when you be it
-The one, the one, the one, the one
-The one, the one, the one, the one
-The one, the one, the one, the one
-The one, the one, the one, the one
-You are the one
-It all comes down to you
-It all comes down to you
-It all comes down
-Heaven in the sky to the Earth below
-Anywhere that you go
-It all comes down to you
-It all comes down to you
-It all comes down
-Heaven in your eye from the Earth below
-Anywhere that you go
-It's down, down, down to you
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-Is it you? Is it me?
-What is God for a heathen?
-What's the God you believe in?
-Is it fame? Is it— (money, money, money, money, money, money)
-One cannot live on bread alone and you can feel it
-Something inside you pulling you into the feeling
-So listen to your heart and be the beat you're beating
-'Cause nothing ever changes 'til it changes when you be it
-The one, the one, the one, the one
-The one, the one, the one, the one
-You are the one
-It all comes down to you
-It all comes down to you
-It all comes down
-Heaven in the sky to the Earth below
-Anywhere that you go
-It all comes down to you
-It all comes down to you
-It all comes down
-Heaven in your eye from the Earth below
-Anywhere that you go
-It's down, down, down to you
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-It all comes down to you, comes down to you (it all comes down)
-Down, down, down, it all comes down (it all comes down)
-It all comes down to you, comes down to you
-Down, down, down, it all comes down (it all comes down)
-It all comes down to you, comes down to you
-Down, down, down, it all comes down
-It all comes down to you
-It all comes down to you
-It all comes down
-Heaven in the sky to the Earth below
-Anywhere that you go
-It all comes down to you
-It all comes down to you
-It all comes down
-Heaven in your eye from the Earth below
-Anywhere that you go
-It's down, down, down to you
-It all comes down to you, comes down to you
-Down, down, down, it all comes down (it comes down)
-It all comes down to you, comes down to you
-Down, down, down, it all comes down (up from below)
-It all comes down to you, comes down to you
-Down, down, down, it all comes down (Heaven in the sky to the Earth below)
-It all comes down to you, comes down to you
-Down, down, down, it all comes down (it all comes down)
-You are the one, the one, the one, the one, the one, the one, the one, the one
-The one, the one, the one, the one
-The one, the one, the one
-The one, the one, the one, the one
-You are the one
-The one, the one, the one, the one
-The one, the one, the one, the one
-You are the one, the one, the one, the one, the one...
-You are the one
-You are the one
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> What is it that you seek?
+> In your mind, you must be it
+> Shine your light when you see it
+> Like the flame at the top of your head
+> And to your mind, a light will find its way from heaven
+> But once you find it, can't unwind it with your head on
+> So listen to your heart and be the beat you're beating
+> 'Cause nothing ever changes 'til it changes when you be it
+> The one, the one, the one, the one
+> The one, the one, the one, the one
+> The one, the one, the one, the one
+> The one, the one, the one, the one
+> You are the one
+> It all comes down to you
+> It all comes down to you
+> It all comes down
+> Heaven in the sky to the Earth below
+> Anywhere that you go
+> It all comes down to you
+> It all comes down to you
+> It all comes down
+> Heaven in your eye from the Earth below
+> Anywhere that you go
+> It's down, down, down to you
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> Is it you? Is it me?
+> What is God for a heathen?
+> What's the God you believe in?
+> Is it fame? Is it— (money, money, money, money, money, money)
+> One cannot live on bread alone and you can feel it
+> Something inside you pulling you into the feeling
+> So listen to your heart and be the beat you're beating
+> 'Cause nothing ever changes 'til it changes when you be it
+> The one, the one, the one, the one
+> The one, the one, the one, the one
+> You are the one
+> It all comes down to you
+> It all comes down to you
+> It all comes down
+> Heaven in the sky to the Earth below
+> Anywhere that you go
+> It all comes down to you
+> It all comes down to you
+> It all comes down
+> Heaven in your eye from the Earth below
+> Anywhere that you go
+> It's down, down, down to you
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> It all comes down to you, comes down to you (it all comes down)
+> Down, down, down, it all comes down (it all comes down)
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down (it all comes down)
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down
+> It all comes down to you
+> It all comes down to you
+> It all comes down
+> Heaven in the sky to the Earth below
+> Anywhere that you go
+> It all comes down to you
+> It all comes down to you
+> It all comes down
+> Heaven in your eye from the Earth below
+> Anywhere that you go
+> It's down, down, down to you
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down (it comes down)
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down (up from below)
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down (Heaven in the sky to the Earth below)
+> It all comes down to you, comes down to you
+> Down, down, down, it all comes down (it all comes down)
+> You are the one, the one, the one, the one, the one, the one, the one, the one
+> The one, the one, the one, the one
+> The one, the one, the one
+> The one, the one, the one, the one
+> You are the one
+> The one, the one, the one, the one
+> The one, the one, the one, the one
+> You are the one, the one, the one, the one, the one...
+> You are the one
+> You are the one
+> ```
 
 ## Source notes
 

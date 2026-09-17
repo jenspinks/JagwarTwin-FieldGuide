@@ -125,90 +125,91 @@ The funny stuff here isn't decoration; it's the tell.
 
 ## Lyrics
 
-```
-I feel like I'm stuck in a loop
-Oh
-Oh
-Oh
-I feel like I'm stuck in a loop
-Oh
-Oh
-Oh
-I feel like I'm stuck in a loop
-Loop
-Loop
-Loop
-Loop
-Loop
-Loop
-Loop
-Loop
-
-Everybody is talking about us lately
-And it's strange
-Overnight we went from being friends to lovers
-And now we're back again
-
-I don't know why I fell for you like I did
-It's like the stars in the sky conspired to bring me right to you
-And I don't know why I fell for you like I did
-I can't forget you when I miss loving you
-
-I feel like I'm stuck in a loop
-I keep ending up back at you
-On this carousel, I'm going 'round and around
-It's the same thing every time with you
-(I just can't get away)
-
-I feel like I'm stuck in a loop
-I keep ending up back at you
-On this carousel, I'm going 'round and around
-It's the same thing every time with you
-(I just can't get away)
-
-I feel like I'm stuck in a loop
-
-Swear I've been here before with you
-Feel like it's déjà vu (déjà vu)
-(I still remember the time)
-You and I stayed up all night
-Talking about how we're gonna break the simulation
-Maybe I'm crazy
-But you like it like that
-
-I don't know why I fell for you like I did
-It's like the stars in the sky conspired to bring me right to you
-And I don't know why I fell for you like I did
-I can't forget you when I miss loving you
-
-I feel like I'm stuck in a loop
-I keep ending up back at you
-On this carousel I'm going 'round and around
-It's the same thing every time with you
-(I just can't get away)
-I feel like I'm stuck in a loop
-I keep ending up back at you
-On this carousel I'm going 'round and around
-It's the same thing every time with you
-(I just can't get away)
-I feel like I'm stuck in a loop
-
-Oh
-Oh
-Oh
-I feel like I'm stuck in a loop
-Oh
-Oh
-Oh
-I feel like I'm stuck in a loop
-(In a loop)
-(In a loop)
-(In a loop)
-
-Close your eyes and just imagine
-You're going on a journey
-'Cause this is called the journey
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> I feel like I'm stuck in a loop
+> Oh
+> Oh
+> Oh
+> I feel like I'm stuck in a loop
+> Oh
+> Oh
+> Oh
+> I feel like I'm stuck in a loop
+> Loop
+> Loop
+> Loop
+> Loop
+> Loop
+> Loop
+> Loop
+> Loop
+>
+> Everybody is talking about us lately
+> And it's strange
+> Overnight we went from being friends to lovers
+> And now we're back again
+>
+> I don't know why I fell for you like I did
+> It's like the stars in the sky conspired to bring me right to you
+> And I don't know why I fell for you like I did
+> I can't forget you when I miss loving you
+>
+> I feel like I'm stuck in a loop
+> I keep ending up back at you
+> On this carousel, I'm going 'round and around
+> It's the same thing every time with you
+> (I just can't get away)
+>
+> I feel like I'm stuck in a loop
+> I keep ending up back at you
+> On this carousel, I'm going 'round and around
+> It's the same thing every time with you
+> (I just can't get away)
+>
+> I feel like I'm stuck in a loop
+>
+> Swear I've been here before with you
+> Feel like it's déjà vu (déjà vu)
+> (I still remember the time)
+> You and I stayed up all night
+> Talking about how we're gonna break the simulation
+> Maybe I'm crazy
+> But you like it like that
+>
+> I don't know why I fell for you like I did
+> It's like the stars in the sky conspired to bring me right to you
+> And I don't know why I fell for you like I did
+> I can't forget you when I miss loving you
+>
+> I feel like I'm stuck in a loop
+> I keep ending up back at you
+> On this carousel I'm going 'round and around
+> It's the same thing every time with you
+> (I just can't get away)
+> I feel like I'm stuck in a loop
+> I keep ending up back at you
+> On this carousel I'm going 'round and around
+> It's the same thing every time with you
+> (I just can't get away)
+> I feel like I'm stuck in a loop
+>
+> Oh
+> Oh
+> Oh
+> I feel like I'm stuck in a loop
+> Oh
+> Oh
+> Oh
+> I feel like I'm stuck in a loop
+> (In a loop)
+> (In a loop)
+> (In a loop)
+>
+> Close your eyes and just imagine
+> You're going on a journey
+> 'Cause this is called the journey
+> ```
 
 ## Source notes
 

@@ -132,159 +132,160 @@ That last non-sequitur becomes the song's *sound.* Rattled, Roy goes to the stud
 
 ## Lyrics
 
-```
-Nana na nana na
-
-Are you ready?
-
-One step, two step
-
-Three step, four
-
-Step right up, get on the floor
-
-I don't know what I'm looking for
-
-But I can have a good time
-
-(Yeah)
-
-[Verse 1]
-
-Just a rabbit in a road rage
-
-(Uh huh)
-
-Kicked the habit like the old days
-
-(Uh huh)
-
-Life of the party
-
-You think you can dance?
-
-(Uh huh)
-
-Now move your body
-
-Shake what's in your pants
-
-[Pre-Chorus]
-
-I am
-
-In the business of the Human kind
-
-I don't need a witness
-
-I'm a mastermind
-
-Just wake up
-
-It's morning time
-
-Are you ready?
-
-[Chorus]
-
-One step, two step
-
-Three step, four
-
-Step right up, get on the floor
-
-I don't know what I'm looking for
-
-But I can have a good time
-
-One step, two stеp
-
-Three step, four
-
-Step right up, get on thе floor
-
-I don't know what I'm looking for
-
-But I can have a good time
-
-(Yeah)
-
-I see it, I want it, I need it
-
-I like that
-
-Just when you thought I was leaving
-
-I'm right back
-
-[Verse 2]
-
-You're a star, you know you are
-
-(Uh huh)
-
-Stick with me, I'll take you far
-
-Truth is on the mountaintop where man can pray to lightning
-
-Youth is not a fountain, it's a hand grenade in hiding
-
-[Pre-Chorus]
-
-I've been
-
-In the business of the Human kind
-
-I don't need a witness
-
-I'm a mastermind
-
-Just wake up
-
-It's morning time
-
-Are you ready?
-
-[Chorus]
-
-One step, two step
-
-Three step, four
-
-Step right up, get on the floor
-
-I don't know what I'm looking for
-
-But I can have a good time
-
-One step, two step
-
-Three step, four
-
-Step right up, get on the floor
-
-I don't know what I'm looking for
-
-But I can have a good time
-
-Nana na nana na nana
-
-I like that
-
-Nana na nana na
-
-Are you ready?
-
-One step, two step
-
-Three step, four
-
-Step right up, get on the floor
-
-I don't know what I'm looking for
-
-But I can have a good time
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Nana na nana na
+>
+> Are you ready?
+>
+> One step, two step
+>
+> Three step, four
+>
+> Step right up, get on the floor
+>
+> I don't know what I'm looking for
+>
+> But I can have a good time
+>
+> (Yeah)
+>
+> [Verse 1]
+>
+> Just a rabbit in a road rage
+>
+> (Uh huh)
+>
+> Kicked the habit like the old days
+>
+> (Uh huh)
+>
+> Life of the party
+>
+> You think you can dance?
+>
+> (Uh huh)
+>
+> Now move your body
+>
+> Shake what's in your pants
+>
+> [Pre-Chorus]
+>
+> I am
+>
+> In the business of the Human kind
+>
+> I don't need a witness
+>
+> I'm a mastermind
+>
+> Just wake up
+>
+> It's morning time
+>
+> Are you ready?
+>
+> [Chorus]
+>
+> One step, two step
+>
+> Three step, four
+>
+> Step right up, get on the floor
+>
+> I don't know what I'm looking for
+>
+> But I can have a good time
+>
+> One step, two stеp
+>
+> Three step, four
+>
+> Step right up, get on thе floor
+>
+> I don't know what I'm looking for
+>
+> But I can have a good time
+>
+> (Yeah)
+>
+> I see it, I want it, I need it
+>
+> I like that
+>
+> Just when you thought I was leaving
+>
+> I'm right back
+>
+> [Verse 2]
+>
+> You're a star, you know you are
+>
+> (Uh huh)
+>
+> Stick with me, I'll take you far
+>
+> Truth is on the mountaintop where man can pray to lightning
+>
+> Youth is not a fountain, it's a hand grenade in hiding
+>
+> [Pre-Chorus]
+>
+> I've been
+>
+> In the business of the Human kind
+>
+> I don't need a witness
+>
+> I'm a mastermind
+>
+> Just wake up
+>
+> It's morning time
+>
+> Are you ready?
+>
+> [Chorus]
+>
+> One step, two step
+>
+> Three step, four
+>
+> Step right up, get on the floor
+>
+> I don't know what I'm looking for
+>
+> But I can have a good time
+>
+> One step, two step
+>
+> Three step, four
+>
+> Step right up, get on the floor
+>
+> I don't know what I'm looking for
+>
+> But I can have a good time
+>
+> Nana na nana na nana
+>
+> I like that
+>
+> Nana na nana na
+>
+> Are you ready?
+>
+> One step, two step
+>
+> Three step, four
+>
+> Step right up, get on the floor
+>
+> I don't know what I'm looking for
+>
+> But I can have a good time
+> ```
 
 ## Source notes
 

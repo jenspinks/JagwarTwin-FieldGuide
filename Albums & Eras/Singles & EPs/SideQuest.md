@@ -106,119 +106,120 @@ And the deepest inversion of all is aimed at the ex. He doesn't attack her — h
 
 ## Lyrics
 
-```
-[Intro]
-
-(You a little baby)
-
-(I was the side quest?)
-
-[Chorus]
-
-Side quest
-
-Thought I was your main one, but I was the (side quest)
-
-I was doing (my best)
-
-You said that you loved me
-
-You didn’t love me like I loved you
-
-Thought I was your main one, but I was the
-
-S-s-s-side quest, side quest
-
-[Verse 1]
-
-How many times did I tell you I loved you?
-
-How many times did you walk away?
-
-I never put anyone else above you
-
-I never knew you would play the game
-
-Baldur’s Gate, you played me well,
-
-I never saw it coming
-
-Had me underneath your spell,
-
-I never saw it coming
-
-Sent me in the wrong direction, wasted all my time (all my time)
-
-[Pre-Chorus]
-
-Thought I was your main one, but I was the (side quest)
-
-[Chorus]
-
-I was doing (my best)
-
-You said that you loved me
-
-You didn’t love me like I loved you
-
-Thought I was your main one, but I was the (side quest)
-
-Hey, engagement (side quest)
-
-You said that you loved me
-
-You didn’t love me like I loved you
-
-Thought I was your main one, but I was the-
-
-S-s-s-side quest, side quest
-
-[Verse 2]
-
-The biggest cat that you’ve seen this far
-
-Jaguar Swaguar, ‘til you broke my heart
-
-I should’ve seen the signs,
-
-I should’ve known ‘cause you’re a Libra
-
-Nothing’s black and white except for you,
-
-‘cause you’re a zebra
-
-Baldur’s Gate, you played me well, I never saw it coming
-
-Had me underneath your spell, I never saw it coming
-
-Sent me in the wrong direction, wasted all my time (all my time)
-
-[Chorus]
-
-Thought I was your main one, but I was the
-
-S-s-s-side quest, whoa (side quest)
-
-I was doing (my best)
-
-You said that you loved me
-
-You didn’t love me like I loved you
-
-Thought I was your main one, but I was the (side quest)
-
-Hey, engagement (side quest)
-
-You said that you loved me
-
-You didn’t love me like I loved you
-
-Thought I was your main one, but I was the-
-
-[Outro]
-
-Thought I was your main one, but I was the-
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Intro]
+>
+> (You a little baby)
+>
+> (I was the side quest?)
+>
+> [Chorus]
+>
+> Side quest
+>
+> Thought I was your main one, but I was the (side quest)
+>
+> I was doing (my best)
+>
+> You said that you loved me
+>
+> You didn’t love me like I loved you
+>
+> Thought I was your main one, but I was the
+>
+> S-s-s-side quest, side quest
+>
+> [Verse 1]
+>
+> How many times did I tell you I loved you?
+>
+> How many times did you walk away?
+>
+> I never put anyone else above you
+>
+> I never knew you would play the game
+>
+> Baldur’s Gate, you played me well,
+>
+> I never saw it coming
+>
+> Had me underneath your spell,
+>
+> I never saw it coming
+>
+> Sent me in the wrong direction, wasted all my time (all my time)
+>
+> [Pre-Chorus]
+>
+> Thought I was your main one, but I was the (side quest)
+>
+> [Chorus]
+>
+> I was doing (my best)
+>
+> You said that you loved me
+>
+> You didn’t love me like I loved you
+>
+> Thought I was your main one, but I was the (side quest)
+>
+> Hey, engagement (side quest)
+>
+> You said that you loved me
+>
+> You didn’t love me like I loved you
+>
+> Thought I was your main one, but I was the-
+>
+> S-s-s-side quest, side quest
+>
+> [Verse 2]
+>
+> The biggest cat that you’ve seen this far
+>
+> Jaguar Swaguar, ‘til you broke my heart
+>
+> I should’ve seen the signs,
+>
+> I should’ve known ‘cause you’re a Libra
+>
+> Nothing’s black and white except for you,
+>
+> ‘cause you’re a zebra
+>
+> Baldur’s Gate, you played me well, I never saw it coming
+>
+> Had me underneath your spell, I never saw it coming
+>
+> Sent me in the wrong direction, wasted all my time (all my time)
+>
+> [Chorus]
+>
+> Thought I was your main one, but I was the
+>
+> S-s-s-side quest, whoa (side quest)
+>
+> I was doing (my best)
+>
+> You said that you loved me
+>
+> You didn’t love me like I loved you
+>
+> Thought I was your main one, but I was the (side quest)
+>
+> Hey, engagement (side quest)
+>
+> You said that you loved me
+>
+> You didn’t love me like I loved you
+>
+> Thought I was your main one, but I was the-
+>
+> [Outro]
+>
+> Thought I was your main one, but I was the-
+> ```
 
 ## Source notes
 

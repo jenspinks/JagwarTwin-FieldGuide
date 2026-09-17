@@ -116,11 +116,12 @@ A quick census of what's actually on the page: pronouns run **1 "I," 1 "you"** �
 
 ## Lyrics
 
-A single looped line in a music-box texture — and the joke is that it isn't from the *33* original at all; it's the refrain of the *next* track, [[Lucius Lullaby]]:
-
-```
-It's a beautiful life, it's a beautiful life, I'm dreaming
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> A single looped line in a music-box texture — and the joke is that it isn't from the *33* original at all; it's the refrain of the *next* track, [[Lucius Lullaby]]:
+>
+> ```
+> It's a beautiful life, it's a beautiful life, I'm dreaming
+> ```
 
 ## Source notes
 

@@ -17,7 +17,7 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 ## At a glance
 
 - **What it is** — the emblem of the mind-pole: intellect, cleverness, cunning, the scavenger that takes. The crow (constellation **Corvus**) to Roy's [[The Dove|dove]] — Mercury against Venus, mind against heart.
-- **Carried by** — [[Sir Lucius]] (Hod / **Mercury**, the analytic intellect), in the simple character-symbol key.
+- **Carried by** — [[Sir Lucius]] (Hod / **Mercury**, the analytic intellect), in the basic symbol map.
 - **Appears in** — Roy's *"I would map a crow onto Mercury"* post · his signing to **Mercury** Records · the crow-call cued into [[Sir Lucius|Lucius]]'s scene in the theatrical *[[The Interview]]* · Roy's *"that was a real crow. no AI!"* post.
 - **Confidence** — grounded fact (Roy's own crow-to-Mercury mapping, the crow-call in the lore) braided with the universal crow-tradition, labeled as such. Note Roy's own hedge (below).
 

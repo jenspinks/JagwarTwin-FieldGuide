@@ -118,58 +118,59 @@ A few claims that cut across the whole song.
 
 ## Lyrics
 
-```
-[Chorus]
-It's guna be a hell of a night
-(Hell of a night)
-It's guna be a hell of a night
-(Hell of a night)
-It's guna be a...
-It's guna be a...
-
-[Verse 1]
-Sirens call out making their sound
-Hallelujah, hallelujah
-Backseat driving blood in my mouth
-Hallelujah, hallelujah
-
-[Pre-Chorus]
-Buckle up
-Lock it down
-Give us what we ask for
-Skip the line
-Cut it twice
-Fake it like your passport
-Cause when we walk in, need to see your hands wave
-
-[Chorus]
-It's guna be a hell of a night
-(Hell of a night)
-It's guna be a hell of a night
-(Hell of a night)
-It's guna be a...
-It's guna be a...
-
-[Verse 2]
-Backdoor ride-out lost in this sound
-Hallelujah, hallelujah
-Red wine shoelace no body found
-Hallelujah, hallelujah
-
-[Pre-Chorus]
-Buckle up
-Lock it down
-Give us what we ask for
-Skip the line
-Cut it twice
-Fake it like your passport
-Cause when we walk in, need to see your hands wave
-
-[Outro]
-It's guna be a hell of a night
-It's guna be a hell of a night
-It's guna be a...
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Chorus]
+> It's guna be a hell of a night
+> (Hell of a night)
+> It's guna be a hell of a night
+> (Hell of a night)
+> It's guna be a...
+> It's guna be a...
+>
+> [Verse 1]
+> Sirens call out making their sound
+> Hallelujah, hallelujah
+> Backseat driving blood in my mouth
+> Hallelujah, hallelujah
+>
+> [Pre-Chorus]
+> Buckle up
+> Lock it down
+> Give us what we ask for
+> Skip the line
+> Cut it twice
+> Fake it like your passport
+> Cause when we walk in, need to see your hands wave
+>
+> [Chorus]
+> It's guna be a hell of a night
+> (Hell of a night)
+> It's guna be a hell of a night
+> (Hell of a night)
+> It's guna be a...
+> It's guna be a...
+>
+> [Verse 2]
+> Backdoor ride-out lost in this sound
+> Hallelujah, hallelujah
+> Red wine shoelace no body found
+> Hallelujah, hallelujah
+>
+> [Pre-Chorus]
+> Buckle up
+> Lock it down
+> Give us what we ask for
+> Skip the line
+> Cut it twice
+> Fake it like your passport
+> Cause when we walk in, need to see your hands wave
+>
+> [Outro]
+> It's guna be a hell of a night
+> It's guna be a hell of a night
+> It's guna be a...
+> ```
 
 ## Source notes
 

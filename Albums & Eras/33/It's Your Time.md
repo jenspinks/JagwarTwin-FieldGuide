@@ -132,81 +132,82 @@ The title is also — this is not a metaphor — the literal web address of Roy'
 
 ## Lyrics
 
-```
-Oh Lord
-Cause I ain't nothing but a Fool
-A man is like an in-between
-Animating Heaven and Hell
-With all the things you've ever seen
-You still can hardly spell
-They say the Truth will set you free
-But the Truth is hard to tell
-If you don't know who you are to be
-You still don't know you fell
-Once you get to Earth you forget where you come from
-Gotta find your Way back
-Once you get to Earth you forget where you come from
-Gotta find your Way back
-It's your Time
-All my life I've been waiting for this moment
-All my life
-It's your Time
-All my life I've been waiting for this moment
-All my life
-Learn to fly
-Don't give up
-When it's tough
-You got just one life to live
-(Don't give it up)
-It's your Time
-All my life I've been waiting for this moment
-All my life
-All my life
-You came here to this place to Be
-As Far as "I" can tell
-Within you got the Eye to see
-All the stars under your Belt
-And in your heart there is a Well
-You can follow where it leads
-If you don't know Who You Are to "me"
-You still don't know your Self
-(Cause I ain't nothing but a Fool)
-Once you get to Earth you forget where you come from
-Gotta find your Way back
-Once you get to Earth you forget where you come from
-Gotta find your Way back
-It's your Time
-All my life I've been waiting for this moment
-All my life
-It's your Time
-All my life I've been waiting for this moment
-All my life
-Learn to fly
-Don't give up
-When it's tough
-You got just one life to live
-(Don't give it up)
-It's your Time
-All my life I've been waiting for this moment
-All my life
-All my life
-Ahh!
-It's your Time
-All my life I've been waiting for this moment
-All my life
-It's your Time
-All my life I've been waiting for this moment
-All my life
-All my life
-Don't give up
-When it's tough
-You got just one life to live
-(Don't give it up)
-It's your Time
-All my life I've been waiting for this moment
-All my life
-All my life
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Oh Lord
+> Cause I ain't nothing but a Fool
+> A man is like an in-between
+> Animating Heaven and Hell
+> With all the things you've ever seen
+> You still can hardly spell
+> They say the Truth will set you free
+> But the Truth is hard to tell
+> If you don't know who you are to be
+> You still don't know you fell
+> Once you get to Earth you forget where you come from
+> Gotta find your Way back
+> Once you get to Earth you forget where you come from
+> Gotta find your Way back
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> Learn to fly
+> Don't give up
+> When it's tough
+> You got just one life to live
+> (Don't give it up)
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> All my life
+> You came here to this place to Be
+> As Far as "I" can tell
+> Within you got the Eye to see
+> All the stars under your Belt
+> And in your heart there is a Well
+> You can follow where it leads
+> If you don't know Who You Are to "me"
+> You still don't know your Self
+> (Cause I ain't nothing but a Fool)
+> Once you get to Earth you forget where you come from
+> Gotta find your Way back
+> Once you get to Earth you forget where you come from
+> Gotta find your Way back
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> Learn to fly
+> Don't give up
+> When it's tough
+> You got just one life to live
+> (Don't give it up)
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> All my life
+> Ahh!
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> All my life
+> Don't give up
+> When it's tough
+> You got just one life to live
+> (Don't give it up)
+> It's your Time
+> All my life I've been waiting for this moment
+> All my life
+> All my life
+> ```
 
 ## Source notes
 

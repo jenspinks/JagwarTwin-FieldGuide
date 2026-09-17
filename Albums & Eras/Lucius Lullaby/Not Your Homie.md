@@ -131,56 +131,57 @@ Here's the thing the comedy is doing: a figure who needs to broadcast his greatn
 
 ## Lyrics
 
-```
-[Intro]
-You're not my homie, you don't know me
-You're no friend, let's not pretend
-Let's not pretend-tend-tend-tend-tend
-(Pretend, pretend-tend-tend-tend-tend)
-
-[Verse 1]
-Ahem, I'm ringing rosies, my pocket's full of posies
-Coming in like a plague from the dark side
-Stop acting cozy, stop acting like you know me
-Coming in like a plague from the dark side
-
-[Pre-Chorus]
-Ashes, ashes, we all fall down
-Take that smile, turn it upside-down
-Ashes, ashes, we all fall down
-(Leave me alone)
-
-[Chorus]
-You're not my homie, you don't know me
-You're no friend, let's not pretend
-Let's not pretend-tend-tend
-You're not my homie, you don't know me
-You're no friend, let's not pretend
-Let's not pretend-tend-tend-tend
-
-[Verse 2]
-Influential, I'm full of potential
-Might run for president, I'm so presidential (Yeah)
-Coincidental, your fate is detrimental
-Walking 'round like I'm John Wick with my pencil
-Stick it in your eye, bury you alive
-Now you're on the dark side (sucker, it's a vibe)
-But if you choose to tame the beast
-You got to prove yourself to be
-A champion, a champion, a champion, a champion
-
-[Bridge]
-'Cause I'm classy, and I'm snazzy, and I love my life
-I'm like Michael, I'm a psycho, so don't kill my vibe
-'Cause I'm classy, and I'm snazzy, but I'll end your life
-
-[Chorus]
-You're not my homie, you don't know me
-You're no friend, let's not pretend
-Let's not pretend-tend-tend-tend
-'Tend-tend-tend-tend
-'Tend-tend-tend (Let's not pretend)
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Intro]
+> You're not my homie, you don't know me
+> You're no friend, let's not pretend
+> Let's not pretend-tend-tend-tend-tend
+> (Pretend, pretend-tend-tend-tend-tend)
+>
+> [Verse 1]
+> Ahem, I'm ringing rosies, my pocket's full of posies
+> Coming in like a plague from the dark side
+> Stop acting cozy, stop acting like you know me
+> Coming in like a plague from the dark side
+>
+> [Pre-Chorus]
+> Ashes, ashes, we all fall down
+> Take that smile, turn it upside-down
+> Ashes, ashes, we all fall down
+> (Leave me alone)
+>
+> [Chorus]
+> You're not my homie, you don't know me
+> You're no friend, let's not pretend
+> Let's not pretend-tend-tend
+> You're not my homie, you don't know me
+> You're no friend, let's not pretend
+> Let's not pretend-tend-tend-tend
+>
+> [Verse 2]
+> Influential, I'm full of potential
+> Might run for president, I'm so presidential (Yeah)
+> Coincidental, your fate is detrimental
+> Walking 'round like I'm John Wick with my pencil
+> Stick it in your eye, bury you alive
+> Now you're on the dark side (sucker, it's a vibe)
+> But if you choose to tame the beast
+> You got to prove yourself to be
+> A champion, a champion, a champion, a champion
+>
+> [Bridge]
+> 'Cause I'm classy, and I'm snazzy, and I love my life
+> I'm like Michael, I'm a psycho, so don't kill my vibe
+> 'Cause I'm classy, and I'm snazzy, but I'll end your life
+>
+> [Chorus]
+> You're not my homie, you don't know me
+> You're no friend, let's not pretend
+> Let's not pretend-tend-tend-tend
+> 'Tend-tend-tend-tend
+> 'Tend-tend-tend (Let's not pretend)
+> ```
 
 ## Source notes
 

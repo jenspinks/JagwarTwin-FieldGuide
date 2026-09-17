@@ -123,77 +123,78 @@ A few claims that cut across the whole song.
 
 ## Lyrics
 
-```
-When I rise
-To a brand new morning I
-Know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-When I rise
-To a brand new morning I
-Know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-Wake up, look at my phone and read the news
-It's bad, really bad
-I mean really, really, really bad
-Seems like the world is goin crazy getting outa hand
-They run the house and rig the game to get the upper hand
-Man, I wish that life was like a movie
-Maybe one of the classics
-I like those movies a lot
-Don't understand
-Why people doing what they doing
-All this violence is tragic
-'Cause we could all get along
-So let's change the world, we can start today
-Know that everything's gonna be okay
-Move oceans and earth 'cause we got the faith
-Know that everything's gonna be okay
-So everywhere I go, I'm gonna shine, shine, shine
-Yeah, anywhere I go, I'm gonna shine, shine, shine
-So sing it if you know you're gonna shine, shine, shine
-I was in the clouds, now the sun is coming out singing
-When I rise
-To a brand new morning
-I know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-When I rise
-To a brand new morning
-I know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-Sometimes it feels so hard to keep your ground
-It's like an earthquake under your feet
-But you're in the sea so you're gonna drown
-And everyone's against you
-From your family to your country
-It's so hard to continue watching homeruns while you bunting
-Nothing can stop you from doing what you believe
-When life was not a celebration, I had dreams and then I made 'em
-Something that no teacher teaching could ever teach
-We're all the same in every nation
-Gender of my generation
-So let's change the world, we can start today
-Know that everything's gonna be okay
-Move oceans and earth 'cause we got the faith
-Know that everything's gonna be okay
-So everywhere I go I'm gonna shine, shine, shine
-Yeah, anywhere I go I'm gonna shine, shine, shine
-So sing it if you know you're gonna shine, shine, shine
-I was in the clouds now the sun is coming out singing
-When I rise
-To a brand new morning
-I know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-When I rise
-To a brand new morning
-I know the sun's gonna
-Shine, shine down on me
-Shine, shine down on me
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> When I rise
+> To a brand new morning I
+> Know the sun's gonna
+> Shine, shine down on me
+> Shine, shine down on me
+> When I rise
+> To a brand new morning I
+> Know the sun's gonna
+> Shine, shine down on me
+> Shine, shine down on me
+> Wake up, look at my phone and read the news
+> It's bad, really bad
+> I mean really, really, really bad
+> Seems like the world is goin crazy getting outa hand
+> They run the house and rig the game to get the upper hand
+> Man, I wish that life was like a movie
+> Maybe one of the classics
+> I like those movies a lot
+> Don't understand
+> Why people doing what they doing
+> All this violence is tragic
+> 'Cause we could all get along
+> So let's change the world, we can start today
+> Know that everything's gonna be okay
+> Move oceans and earth 'cause we got the faith
+> Know that everything's gonna be okay
+> So everywhere I go, I'm gonna shine, shine, shine
+> Yeah, anywhere I go, I'm gonna shine, shine, shine
+> So sing it if you know you're gonna shine, shine, shine
+> I was in the clouds, now the sun is coming out singing
+> When I rise
+> To a brand new morning
+> I know the sun's gonna
+> Shine, shine down on me
+> Shine, shine down on me
+> When I rise
+> To a brand new morning
+> I know the sun's gonna
+> Shine, shine down on me
+> Shine, shine down on me
+> Sometimes it feels so hard to keep your ground
+> It's like an earthquake under your feet
+> But you're in the sea so you're gonna drown
+> And everyone's against you
+> From your family to your country
+> It's so hard to continue watching homeruns while you bunting
+> Nothing can stop you from doing what you believe
+> When life was not a celebration, I had dreams and then I made 'em
+> Something that no teacher teaching could ever teach
+> We're all the same in every nation
+> Gender of my generation
+> So let's change the world, we can start today
+> Know that everything's gonna be okay
+> Move oceans and earth 'cause we got the faith
+> Know that everything's gonna be okay
+> So everywhere I go I'm gonna shine, shine, shine
+> Yeah, anywhere I go I'm gonna shine, shine, shine
+> So sing it if you know you're gonna shine, shine, shine
+> I was in the clouds now the sun is coming out singing
+> When I rise
+> To a brand new morning
+> I know the sun's gonna
+> Shine, shine down on me
+> Shine, shine down on me
+> When I rise
+> To a brand new morning
+> I know the sun's gonna
+> Shine, shine down on me
+> Shine, shine down on me
+> ```
 
 ## Source notes
 

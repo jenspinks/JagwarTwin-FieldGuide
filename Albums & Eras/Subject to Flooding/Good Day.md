@@ -88,76 +88,77 @@ source_basis: ["released music", "public interviews", "public posts", "official 
 
 ## Lyrics
 
-```
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you (and I got a feeling)
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
-Won't kill my vibe, la-la-la-la-la-la, la-la-la-la
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-
-She never been about the nightlife
-A little dinner with the white wine
-East End on the skyline
-London on the fly-by
-'Cause I had nothing almost three years
-But now we're getting to the peak years (peak years)
-Aspen with the ski gear
-I don't ski but I look fresh (sheesh)
-
-Today is gonna be a good day
-Spending the money that I should save
-Full week and it's only Tuesday
-Don't understand how you do things
-Working so hard at your day job
-Have a lil' fun, take a day off
-Used to have no money
-Now it's sunny out and everything's okay
-
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you (and I got a feeling)
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
-Won't kill my vibe, la-la-la-la-la-la, la-la-la-la
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-
-So when I break it, break it down, down
-We take it, take it to the ground, ground
-Full blast with the sound, sound
-No time for the clown, clowns
-I'm on a wave and I could care less
-Now me and Phoebe out in Paris
-Whole crew on the terrace
-(I might jump 'cause I feel untouchable)
-I might jump 'cause I feel untouchable
-
-Today is gonna be a good day
-Spending the money that I should save
-Full week and it's only Tuesday
-Don't understand how you do things
-Working so hard at your day job
-Have a lil' fun, take a day off
-Used to have no money
-Now it's sunny out and everything's okay
-
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you (and I got a feeling)
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
-Won't kill my vibe, la-la-la-la-la-la, la-la-la-la
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-Woke up and I think today is gonna be a good day
-I just wanna spend it with you
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you (and I got a feeling)
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+> Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
+> Won't kill my vibe, la-la-la-la-la-la, la-la-la-la
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+>
+> She never been about the nightlife
+> A little dinner with the white wine
+> East End on the skyline
+> London on the fly-by
+> 'Cause I had nothing almost three years
+> But now we're getting to the peak years (peak years)
+> Aspen with the ski gear
+> I don't ski but I look fresh (sheesh)
+>
+> Today is gonna be a good day
+> Spending the money that I should save
+> Full week and it's only Tuesday
+> Don't understand how you do things
+> Working so hard at your day job
+> Have a lil' fun, take a day off
+> Used to have no money
+> Now it's sunny out and everything's okay
+>
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you (and I got a feeling)
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+> Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
+> Won't kill my vibe, la-la-la-la-la-la, la-la-la-la
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+>
+> So when I break it, break it down, down
+> We take it, take it to the ground, ground
+> Full blast with the sound, sound
+> No time for the clown, clowns
+> I'm on a wave and I could care less
+> Now me and Phoebe out in Paris
+> Whole crew on the terrace
+> (I might jump 'cause I feel untouchable)
+> I might jump 'cause I feel untouchable
+>
+> Today is gonna be a good day
+> Spending the money that I should save
+> Full week and it's only Tuesday
+> Don't understand how you do things
+> Working so hard at your day job
+> Have a lil' fun, take a day off
+> Used to have no money
+> Now it's sunny out and everything's okay
+>
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you (and I got a feeling)
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+> Can't kill my vibe, la-la-la-la-la-la, la-la-la-la
+> Won't kill my vibe, la-la-la-la-la-la, la-la-la-la
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+>
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+> Woke up and I think today is gonna be a good day
+> I just wanna spend it with you
+> ```
 
 ## Artifacts
 

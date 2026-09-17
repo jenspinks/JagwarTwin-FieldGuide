@@ -153,83 +153,84 @@ And it **ends on Sir Lucius** — the silent white-face clown. Across these visu
 
 ## Lyrics
 
-```
-(I always feel like somebody's watching me)
-
-I'm afraid I'm a clone
-I think I might be...
-On my way to my own demise
-They like me
-Then they can't stand me
-Now they want candy
-But I'm not Mandy Moore
-More, more, more
-
-More fascination
-Intoxication
-I'm making bacon
-Who's watching me?
-Throw your hands up
-The whole place is dancing like Michael Jackson
-Who's watching me?
-
-I always feel like somebody's watching me
-(Watching me)
-And I have no privacy
-I always feel like somebody's watching me
-(Watching me)
-Tell me, is it just a dream?
-Tell me, is it just a dream?
-
-Wake up
-(Wake up)
-Wake up
-(Wake up)
-Wake up
-
-Na na, na na
-You betrayed me
-Tried to frame me
-Tried to blame me
-Tried to make me out to be the bad guy
-Couldn't look away
-Couldn't look away
-Runaway train 'bout to
-Crash, crash, crash
-
-Cause you're insane
-Fascination
-Intoxication
-I'm making bacon
-Who's watching me?
-Throw your hands up
-The whole place is dancing like Michael Jackson
-Who's watching me?
-
-I always feel like somebody's watching me
-(Watching me)
-And I have no privacy
-I always feel like somebody's watching me
-(Watching me)
-Tell me, is it just a dream?
-
-Na na, na na na
-Na na na, na na
-Na na na, na na na
-Tell me, is it just a dream?
-
-Na na, na na na
-Na na na, na na
-Na na na, na na na
-Tell me, is it just a dream?
-
-Wake up
-(Wake up)
-Wake up
-(Wake up)
-Wake up
-Na na, na na
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> (I always feel like somebody's watching me)
+>
+> I'm afraid I'm a clone
+> I think I might be...
+> On my way to my own demise
+> They like me
+> Then they can't stand me
+> Now they want candy
+> But I'm not Mandy Moore
+> More, more, more
+>
+> More fascination
+> Intoxication
+> I'm making bacon
+> Who's watching me?
+> Throw your hands up
+> The whole place is dancing like Michael Jackson
+> Who's watching me?
+>
+> I always feel like somebody's watching me
+> (Watching me)
+> And I have no privacy
+> I always feel like somebody's watching me
+> (Watching me)
+> Tell me, is it just a dream?
+> Tell me, is it just a dream?
+>
+> Wake up
+> (Wake up)
+> Wake up
+> (Wake up)
+> Wake up
+>
+> Na na, na na
+> You betrayed me
+> Tried to frame me
+> Tried to blame me
+> Tried to make me out to be the bad guy
+> Couldn't look away
+> Couldn't look away
+> Runaway train 'bout to
+> Crash, crash, crash
+>
+> Cause you're insane
+> Fascination
+> Intoxication
+> I'm making bacon
+> Who's watching me?
+> Throw your hands up
+> The whole place is dancing like Michael Jackson
+> Who's watching me?
+>
+> I always feel like somebody's watching me
+> (Watching me)
+> And I have no privacy
+> I always feel like somebody's watching me
+> (Watching me)
+> Tell me, is it just a dream?
+>
+> Na na, na na na
+> Na na na, na na
+> Na na na, na na na
+> Tell me, is it just a dream?
+>
+> Na na, na na na
+> Na na na, na na
+> Na na na, na na na
+> Tell me, is it just a dream?
+>
+> Wake up
+> (Wake up)
+> Wake up
+> (Wake up)
+> Wake up
+> Na na, na na
+> ```
 
 ## Source notes
 

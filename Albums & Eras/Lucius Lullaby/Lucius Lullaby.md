@@ -149,51 +149,52 @@ A few claims that cut across the whole song.
 
 ## Lyrics
 
-```
-[Verse 1]
-Woke up yesterday and thought of ending my life
-35 and on my way to nowhere, oh what a time
-I've been sleeping on couches, never caught my break
-All my friends they got houses, maybe I'm the mistake?
-I heard
-"Nothing's what it seems, this world is crazy as can be"
-Yes, sir
-
-[Pre-Chorus]
-Life is but a dream, I came to set you free
-Now look into this magic mirror, tell me what you see
-
-[Chorus]
-It's a beautiful life and I'm feeling alright
-It's a beautiful life, I'm dreaming
-It's a beautiful life, but it's all just a lie
-It's a beautiful life, I'm dreaming
-
-[Verse 2]
-Ok, I'll give you what you've been dreaming
-I see your passion for flashin', you want a mansion, I get it
-You want advances, I get it
-You want some fans, I get it
-But you gotta serve somebody, so stop talking and listen
-
-[Verse 3]
-When the first human beings started walking the Earth
-I was early on the scene, I was down in the dirt
-Saying: "Life is but a dream, I came to set you free
-Now look into this magic mirror, tell me what you see"
-
-[Bridge]
-La-da-da-da (x4)
-It's a beautiful life, I'm dreaming
-La-da-da-da (x4)
-It's a beautiful life, I'm dreaming
-
-[Outro]
-Life is but a dream, life is but a dream
-The truth will set you free but nothing's, nothing's what it seems
-Life is but a dream, life is but a dream
-The truth will set you free but nothing's, nothing's what it seems
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> [Verse 1]
+> Woke up yesterday and thought of ending my life
+> 35 and on my way to nowhere, oh what a time
+> I've been sleeping on couches, never caught my break
+> All my friends they got houses, maybe I'm the mistake?
+> I heard
+> "Nothing's what it seems, this world is crazy as can be"
+> Yes, sir
+>
+> [Pre-Chorus]
+> Life is but a dream, I came to set you free
+> Now look into this magic mirror, tell me what you see
+>
+> [Chorus]
+> It's a beautiful life and I'm feeling alright
+> It's a beautiful life, I'm dreaming
+> It's a beautiful life, but it's all just a lie
+> It's a beautiful life, I'm dreaming
+>
+> [Verse 2]
+> Ok, I'll give you what you've been dreaming
+> I see your passion for flashin', you want a mansion, I get it
+> You want advances, I get it
+> You want some fans, I get it
+> But you gotta serve somebody, so stop talking and listen
+>
+> [Verse 3]
+> When the first human beings started walking the Earth
+> I was early on the scene, I was down in the dirt
+> Saying: "Life is but a dream, I came to set you free
+> Now look into this magic mirror, tell me what you see"
+>
+> [Bridge]
+> La-da-da-da (x4)
+> It's a beautiful life, I'm dreaming
+> La-da-da-da (x4)
+> It's a beautiful life, I'm dreaming
+>
+> [Outro]
+> Life is but a dream, life is but a dream
+> The truth will set you free but nothing's, nothing's what it seems
+> Life is but a dream, life is but a dream
+> The truth will set you free but nothing's, nothing's what it seems
+> ```
 
 ## Source notes
 

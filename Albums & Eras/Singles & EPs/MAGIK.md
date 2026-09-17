@@ -119,135 +119,136 @@ So the maze you're in the middle of turns out to have a center made of *you → 
 
 ## Lyrics
 
-```
-Are you Magik?
-
-Yes I am Magik
-
-(Hey)
-
-(Boo doo dodo dodo doo doo)
-
-Baba bada baba ba
-
-Baba bada baba ba
-
-O
-
-Tell me do you know?
-
-You don't gotta disappear
-
-Everybody needs you here
-
-Hey
-
-Everything's okay
-
-You don't have to try so hard
-
-You're more than who you think you are
-
-And I know it's so upsetting
-
-You're so upset and you shouldn't be
-
-If only you could see...
-
-Everything you do is Magik
-
-Living in a world so plastic
-
-You don't even see it
-
-But you have it
-
-That's it
-
-You don't have a clue that everything you do is Magik
-
-Life without a You would be tragic
-
-You don't even see it
-
-But you have it
-
-That's it
-
-You don't have a clue that everything you do is Magik
-
-Magik
-
-Magik
-
-(Boo doo dodo dodo doo doo)
-
-Baba bada baba ba
-
-Baba bada baba ba
-
-Oo
-
-A lasso round the Moon
-
-Everywhere you are is so bright
-
-But you don't even know that, right?
-
-I
-
-I see it in your eyes
-
-You just gotta find your way
-
-You're the middle of a maze
-
-Tell me what it takes
-
-I know it's so upsetting
-
-You're so upset and you shouldn't be
-
-If only you could see...
-
-Everything you do is Magik
-
-Living in a world so plastic
-
-You don't even see it
-
-But you have it
-
-That's it
-
-You don't have a clue that everything you do is Magik
-
-Life without a you would be tragic
-
-You don't even see it
-
-But you have it
-
-That's it
-
-You don't have a clue that everything you do is Magik
-
-Magik
-
-Magik
-
-(Boo doo dodo dodo doo doo)
-
-Baba bada baba ba
-
-Baba bada baba ba
-
-(Boo doo dodo dodo doo doo)
-
-Baba bada baba ba
-
-Baba bada baba ba
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Are you Magik?
+>
+> Yes I am Magik
+>
+> (Hey)
+>
+> (Boo doo dodo dodo doo doo)
+>
+> Baba bada baba ba
+>
+> Baba bada baba ba
+>
+> O
+>
+> Tell me do you know?
+>
+> You don't gotta disappear
+>
+> Everybody needs you here
+>
+> Hey
+>
+> Everything's okay
+>
+> You don't have to try so hard
+>
+> You're more than who you think you are
+>
+> And I know it's so upsetting
+>
+> You're so upset and you shouldn't be
+>
+> If only you could see...
+>
+> Everything you do is Magik
+>
+> Living in a world so plastic
+>
+> You don't even see it
+>
+> But you have it
+>
+> That's it
+>
+> You don't have a clue that everything you do is Magik
+>
+> Life without a You would be tragic
+>
+> You don't even see it
+>
+> But you have it
+>
+> That's it
+>
+> You don't have a clue that everything you do is Magik
+>
+> Magik
+>
+> Magik
+>
+> (Boo doo dodo dodo doo doo)
+>
+> Baba bada baba ba
+>
+> Baba bada baba ba
+>
+> Oo
+>
+> A lasso round the Moon
+>
+> Everywhere you are is so bright
+>
+> But you don't even know that, right?
+>
+> I
+>
+> I see it in your eyes
+>
+> You just gotta find your way
+>
+> You're the middle of a maze
+>
+> Tell me what it takes
+>
+> I know it's so upsetting
+>
+> You're so upset and you shouldn't be
+>
+> If only you could see...
+>
+> Everything you do is Magik
+>
+> Living in a world so plastic
+>
+> You don't even see it
+>
+> But you have it
+>
+> That's it
+>
+> You don't have a clue that everything you do is Magik
+>
+> Life without a you would be tragic
+>
+> You don't even see it
+>
+> But you have it
+>
+> That's it
+>
+> You don't have a clue that everything you do is Magik
+>
+> Magik
+>
+> Magik
+>
+> (Boo doo dodo dodo doo doo)
+>
+> Baba bada baba ba
+>
+> Baba bada baba ba
+>
+> (Boo doo dodo dodo doo doo)
+>
+> Baba bada baba ba
+>
+> Baba bada baba ba
+> ```
 
 ## Source notes
 

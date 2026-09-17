@@ -162,75 +162,76 @@ The **official music video** turns the same idea into images: a CRT-TV on a pede
 
 ## Lyrics
 
-```
-Cause you can get it online
-Everyone loves the internet
-And when you get it online
-You feel good
-(Feeling good!)
-There's an army up against me and they got my face
-Automatic in the static of the human race
-And they know my every step
-They infiltrate my brain
-But it's okay
-(It's not as far fetched as it may seem)
-All the mamas and the Lamas say we come from space
-But we're stuck
-Just like a bug inside your database
-And they know my every step
-They infiltrate my brain
-But it's okay
-We can help you
-Buy! Buy! Buy!
-Cause you can get it online
-Everyone loves the internet
-And when you get it online
-You feel good
-(Feeling good!)
-Cause you can get it online
-Everyone loves the internet
-And when you get it online
-You feel good
-(Feeling good!)
-Internet is like a web and we're the Spider's food
-They know what you like in bed before you come in two
-And they know my every step
-They infiltrate my brain
-But it's okay
-All the shamans and the Brahman's say we come from space
-(Online!)
-Maybe Jupiter is stupider than people say
-(Online!)
-Cause They know my every step
-They infiltrate my brain
-But it's okay
-We can help you
-Bye! Bye! Bye!
-Cause you can get it online
-(Online!)
-Everyone loves the internet
-(I love it! I love it!)
-And when you get it online
-(Online!)
-You feel good
-(Feeling good!)
-Cause you can get it online
-(You can get it online!)
-Everyone loves the internet
-(I love it! I love it!)
-And when you get it on time
-(Ya!?)
-You feel good
-(Feeling good!)
-As machines became more sophisticated...
-(In the static of the human race)
-Thanks to, or because of the internet
-(In the static)
-(In the static)
-Know my every step
-They infiltrate my brain
-It's okay
-```
+> [!quote]- Full lyrics<br><span class="jt-drawer-summary">The song's full released lyrics, kept folded.</span>
+> ```
+> Cause you can get it online
+> Everyone loves the internet
+> And when you get it online
+> You feel good
+> (Feeling good!)
+> There's an army up against me and they got my face
+> Automatic in the static of the human race
+> And they know my every step
+> They infiltrate my brain
+> But it's okay
+> (It's not as far fetched as it may seem)
+> All the mamas and the Lamas say we come from space
+> But we're stuck
+> Just like a bug inside your database
+> And they know my every step
+> They infiltrate my brain
+> But it's okay
+> We can help you
+> Buy! Buy! Buy!
+> Cause you can get it online
+> Everyone loves the internet
+> And when you get it online
+> You feel good
+> (Feeling good!)
+> Cause you can get it online
+> Everyone loves the internet
+> And when you get it online
+> You feel good
+> (Feeling good!)
+> Internet is like a web and we're the Spider's food
+> They know what you like in bed before you come in two
+> And they know my every step
+> They infiltrate my brain
+> But it's okay
+> All the shamans and the Brahman's say we come from space
+> (Online!)
+> Maybe Jupiter is stupider than people say
+> (Online!)
+> Cause They know my every step
+> They infiltrate my brain
+> But it's okay
+> We can help you
+> Bye! Bye! Bye!
+> Cause you can get it online
+> (Online!)
+> Everyone loves the internet
+> (I love it! I love it!)
+> And when you get it online
+> (Online!)
+> You feel good
+> (Feeling good!)
+> Cause you can get it online
+> (You can get it online!)
+> Everyone loves the internet
+> (I love it! I love it!)
+> And when you get it on time
+> (Ya!?)
+> You feel good
+> (Feeling good!)
+> As machines became more sophisticated...
+> (In the static of the human race)
+> Thanks to, or because of the internet
+> (In the static)
+> (In the static)
+> Know my every step
+> They infiltrate my brain
+> It's okay
+> ```
 
 ## Source notes
 
