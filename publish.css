@@ -1270,3 +1270,116 @@ body.jt-moon-open .jt-moon-fab, body.jt-standalone .jt-moon-fab { display: none 
 details.callout[open] .jt-drawer-summary::after {
   content: "Read less ↑";
 }
+
+/* ---- Artifact gallery: the board's body ladder ------------------------------
+   Where a room's key names a station on the "I'm 33" board's body-part ladder,
+   that station's own colour fills the top of the card, the image and the title.
+   Every other card stays neutral. The colours are the board's own fills, read
+   from the Light/Colour scale, Malkuth to Kether.
+   ---------------------------------------------------------------------------- */
+
+.art-gallery .legend { display: flex; flex-wrap: wrap; gap: 0.3rem 1.1rem; align-items: center;
+  font-size: 0.8rem; color: var(--text-muted); margin: 0.9rem 0 0.2rem; }
+.art-gallery .legend i { display: inline-block; width: 0.85em; height: 0.85em; margin-right: 0.4em;
+  vertical-align: -0.08em; border: 1px solid var(--background-modifier-border); border-radius: 2px; }
+.art-gallery .artchip { display: inline-block; margin-left: 0.5em; padding: 0 0.5em;
+  font-size: 0.68rem; font-weight: 500; letter-spacing: 0.03em; text-transform: uppercase;
+  color: var(--text-muted); border: 1px solid var(--background-modifier-border);
+  border-radius: 999px; vertical-align: 0.12em; }
+.art-gallery .rung { display: none; }
+
+/* the neutral default for every card */
+.art-gallery table > tbody > tr > td:first-child,
+.art-gallery table > tbody > tr > td:has(img) { background: var(--background-secondary); }
+
+/* the colour shows as a frame around the image, not behind it */
+.art-gallery table > tbody > tr:has(.rung) > td:has(img) { padding: 7px 7px 0 !important; }
+
+/* rung 10 — Kether · white */
+.art-gallery table > tbody > tr:has(.rung-10) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-10) > td:has(img) { background: #ffffff; }
+.art-gallery table > tbody > tr:has(.rung-10) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-10) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-10) > td:first-child .artchip { color: #1b1b1e; }
+.art-gallery table > tbody > tr:has(.rung-10) > td:first-child .artchip { border-color: #1b1b1e; opacity: 0.75; }
+
+/* rung 9 — Chokmah · grey */
+.art-gallery table > tbody > tr:has(.rung-9) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-9) > td:has(img) { background: #b7b7b7; }
+.art-gallery table > tbody > tr:has(.rung-9) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-9) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-9) > td:first-child .artchip { color: #1b1b1e; }
+.art-gallery table > tbody > tr:has(.rung-9) > td:first-child .artchip { border-color: #1b1b1e; opacity: 0.75; }
+
+/* rung 8 — Binah · black */
+.art-gallery table > tbody > tr:has(.rung-8) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-8) > td:has(img) { background: #000000; }
+.art-gallery table > tbody > tr:has(.rung-8) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-8) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-8) > td:first-child .artchip { color: #f2e3c6; }
+.art-gallery table > tbody > tr:has(.rung-8) > td:first-child .artchip { border-color: #f2e3c6; opacity: 0.75; }
+
+/* rung 7 — Chesed · blue */
+.art-gallery table > tbody > tr:has(.rung-7) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-7) > td:has(img) { background: #3c78d8; }
+.art-gallery table > tbody > tr:has(.rung-7) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-7) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-7) > td:first-child .artchip { color: #f2e3c6; }
+.art-gallery table > tbody > tr:has(.rung-7) > td:first-child .artchip { border-color: #f2e3c6; opacity: 0.75; }
+
+/* rung 6 — Geburah · red */
+.art-gallery table > tbody > tr:has(.rung-6) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-6) > td:has(img) { background: #ff0000; }
+.art-gallery table > tbody > tr:has(.rung-6) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-6) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-6) > td:first-child .artchip { color: #f2e3c6; }
+.art-gallery table > tbody > tr:has(.rung-6) > td:first-child .artchip { border-color: #f2e3c6; opacity: 0.75; }
+
+/* rung 5 — Tiphareth · yellow */
+.art-gallery table > tbody > tr:has(.rung-5) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-5) > td:has(img) { background: #ffff00; }
+.art-gallery table > tbody > tr:has(.rung-5) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-5) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-5) > td:first-child .artchip { color: #1b1b1e; }
+.art-gallery table > tbody > tr:has(.rung-5) > td:first-child .artchip { border-color: #1b1b1e; opacity: 0.75; }
+
+/* rung 4 — Netzach · green */
+.art-gallery table > tbody > tr:has(.rung-4) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-4) > td:has(img) { background: #34a853; }
+.art-gallery table > tbody > tr:has(.rung-4) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-4) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-4) > td:first-child .artchip { color: #f2e3c6; }
+.art-gallery table > tbody > tr:has(.rung-4) > td:first-child .artchip { border-color: #f2e3c6; opacity: 0.75; }
+
+/* rung 3 — Hod · orange */
+.art-gallery table > tbody > tr:has(.rung-3) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-3) > td:has(img) { background: #ff9900; }
+.art-gallery table > tbody > tr:has(.rung-3) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-3) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-3) > td:first-child .artchip { color: #1b1b1e; }
+.art-gallery table > tbody > tr:has(.rung-3) > td:first-child .artchip { border-color: #1b1b1e; opacity: 0.75; }
+
+/* rung 2 — Yesod · violet */
+.art-gallery table > tbody > tr:has(.rung-2) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-2) > td:has(img) { background: #674ea7; }
+.art-gallery table > tbody > tr:has(.rung-2) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-2) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-2) > td:first-child .artchip { color: #f2e3c6; }
+.art-gallery table > tbody > tr:has(.rung-2) > td:first-child .artchip { border-color: #f2e3c6; opacity: 0.75; }
+
+/* rung 1 — Malkuth · the four-part composite */
+.art-gallery table > tbody > tr:has(.rung-1) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-1) > td:has(img) { background: linear-gradient(90deg,#ffd966 25%,#274e13 25% 50%,#85200c 50% 75%,#000000 75%); }
+.art-gallery table > tbody > tr:has(.rung-1) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-1) > td:first-child a,
+.art-gallery table > tbody > tr:has(.rung-1) > td:first-child .artchip { color: #f2e3c6; }
+.art-gallery table > tbody > tr:has(.rung-1) > td:first-child .artchip { border-color: #f2e3c6; opacity: 0.75; }
+
+
+/* black and white are the two rungs that can vanish into a theme: give them a hairline */
+.art-gallery table > tbody > tr:has(.rung-10) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-10) > td:has(img),
+.art-gallery table > tbody > tr:has(.rung-8) > td:first-child,
+.art-gallery table > tbody > tr:has(.rung-8) > td:has(img) {
+  box-shadow: inset 0 0 0 1px var(--background-modifier-border-hover);
+}

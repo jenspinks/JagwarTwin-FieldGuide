@@ -11,9 +11,8 @@ publish: true
 
 # Artifacts — Gallery 4 (#117–153)
 
-The Hall of Mirrors artifacts #117–153, in room order. Card color marks the artifact's type (see the key); the title opens that artifact's own room in the maze, which will want a wallet connected, and **More →** jumps to the full reading below. **Filed under** is the Hall's own shelf label for the room. A line under a code means the rooms are wired to each other: either that code is another room's title, or this room's title is the key to another room.
+The Hall of Mirrors artifacts #117–153, in room order. Where a room's key names a station on the board's body ladder, the card takes that station's colour from the board itself; every other card stays neutral. The title opens that artifact's own room in the maze, which will want a wallet connected, and **More →** jumps to the full reading below. **Filed under** is the Hall's own shelf label for the room. A line under a code means the rooms are wired to each other: either that code is another room's title, or this room's title is the key to another room.
 
-<div class="legend"><b>Type</b><span><i style="background:#1f6f78"></i>Ciphers &amp; Code</span><span><i style="background:#d4a63a"></i>Concept Images</span><span><i style="background:#8b1e2d"></i>Family &amp; Friends</span><span><i style="background:#f2e3c6"></i>Drawings</span><span><i style="background:#fff"></i>Poems &amp; Texts</span><span><i style="background:#1b1b1e;border-color:#d4a63a"></i>Songs &amp; Demos</span></div>
 
 | Name | Image | Key | Filed under | Connects | Read | · |
 |---|---|---|---|---|---|---|
